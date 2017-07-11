@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HtmlOutput>
+  <var id="theme">basic</var>
+  <stylesheet>themes/pralek.css</stylesheet>
+  <stylesheet>themes/iefix.css</stylesheet>
+  <xslt>themes/pralek.xsl</xslt>
+  <jsFile append="body">themes/otazky.js</jsFile>
+  <favicon>themes/pralek.ico</favicon>
+  <var id="robots" modifyonly="modifyonly">noindex,nofollow</var>
+</HtmlOutput>

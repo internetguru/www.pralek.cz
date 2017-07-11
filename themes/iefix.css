@@ -1,0 +1,8 @@
+html[data-useragent*='Trident'] form.search button span,
+html[data-useragent*='MSIE'] form.search button span {
+  visibility: visible;
+}
+html[data-useragent*='Trident'] form.search button span:before,
+html[data-useragent*='MSIE'] form.search button span:before {
+  content: "\e001 ";
+}

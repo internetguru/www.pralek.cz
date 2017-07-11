@@ -1,0 +1,11 @@
+*, *:before, *:after {color: black !important; background: transparent !important;}
+h1, h2, h3 {font-weight: normal; page-break-after: avoid; page-break-inside: avoid;}
+body {font-size:10pt; font-family: Charter, Georgia, sans;}
+@page {size: auto; margin: 21mm 20mm;}
+.print {display: initial;}
+li.print {display: list-item;}
+.noprint, .hidden {display: none !important;}
+.hideable dd {margin-left:0;}
+::placeholder {color: transparent;}
+ol.contentlink-bc {list-style: none; padding-left: 0;}
+ol.contentlink-bc li {display: inline-block;}
