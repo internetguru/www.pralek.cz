@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<body class="linklist" xml:lang="cs" ns="pralek.internetguru.cz">
-  <h id="zlucove_kameny" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" link="zlucove_kameny" short="Žlučové kameny" ctime="2007-11-09" mtime="2016-06-18">Prevence a léčba žlučových kamenů</h>
+<body class="docinfo linklist" xml:lang="cs" ns="www.pralek.cz">
+  <h id="zlucove_kameny" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Žlučové kameny" ctime="2007-11-09" mtime="2016-06-18">Prevence a léčba žlučových kamenů</h>
   <desc kw="žlučník, žlučové kameny, žlučové cesty, bolest v pravém podžebří, operace">Žlučové kameny vznikají špatnými stravovacími návyky – zejména zapíjením jídla vodou. Operace žlučníku tvorbu dalších žlučových kamenů nezastaví. Jejich tvorbě zamezí až změna stravovacích návyků.</desc>
   <p>Jedním z nejhorších <a href="stravovaci_navyky">stravovacích zlozvyků</a> je <strong>zapíjení tučného jídla studenou vodou</strong>. To v důsledku vede k poruše trávení a tvorbě žlučových kamenů.</p>
   <section>
@@ -25,13 +25,16 @@
     <p>Několika drobnými rankami ve stěně břišní <em>(laparoskopicky)</em> je odstraněn celý žlučník i s kameny. <strong>U plánované operace se komplikace vyskytují velmi zřídka</strong>. Během asi 4 dnů odchází pacient z nemocnice do domácího léčení, za 3 týdny se vrací do normálního života.</p>
     <p class="important">Jestliže pacient nezmění způsob stravování, mohou se žlučové kameny tvořit ve žlučových cestách stejně, jako se dříve tvořily ve žlučníku. Zde jsou však mnohem více nebezpečné než ve žlučníku a operační řešení je navíc velmi složité.</p>
     <p>Strach z operace a dočasný ústup potíží vedou k nutkání nejít na operaci vůbec. <strong>Kamínky ve žlučníku však mohou způsobit komplikace</strong>, jako je otlak a <a href="zanet">zánět</a> žlučníku. Mohou se i uvolnit a zapadnout dále do žlučových cest nebo do střeva a zde působit jako <a href="strevni_nepruchodnost">nepřekonatelná překážka</a>. <strong>Operace neprůchodných žlučových cest bývá složitější a nebezpečnější, navíc s komplikovanějším průběhem.</strong></p>
-    <h id="otazky">Článek odpovídá na následující otázky</h>
-    <desc><em var="inputvar-otazky_desc">n/a</em></desc>
+    <h id="otazky" var="inputvar-otazky_h">n/a</h>
+    <desc var="inputvar-otazky_desc">n/a</desc>
     <ol class="otazky">
       <li>Jak lze po odstranění žlučníku předejít opětovné tvorbě žlučových kamenů?</li>
       <li>Proč nelze žlučové kameny rozbíjet ultrazvukem jako jiné kameny?</li>
       <li>Proč zapíjení dobrého sýra dobrým vínem neškodí zažívání?</li>
       <li>Jak se kameny ve žlučníku projevují?</li>
     </ol>
+    <h var="inputvar-odkazy_h" id="odkazy">n/a</h>
+    <desc var="inputvar-odkazy_desc">n/a</desc>
+    <p var="linklist">Seznam odkazů není k dispozici</p>
   </section>  
 </body>
