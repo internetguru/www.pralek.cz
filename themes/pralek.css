@@ -240,6 +240,10 @@ ul.fotky.right {
   margin-left: 1em;
 }
 
+ul.codemirror-user-controll li {
+  text-indent: 0 !important;
+}
+
 .contentbalancer-simple ul li:before,
 ul.codemirror-user-controll li:before {
   display: none !important;
@@ -263,9 +267,15 @@ div.list + div.contentbalancer-simple ul li:last-child a[href] {
   background-color: #de6060;
 }
 
+ol.otazky button:last-child:focus,
+form.search button:focus,
 form.newsletter input[type="submit"]:focus,
 div.list + div.contentbalancer-simple ul li:last-child a[href]:focus {
   background-color: #d04a4a;
+}
+
+ol.otazky button:focus {
+  background-color: #47a952;
 }
 
 .contentbalancer-simple ul li a {

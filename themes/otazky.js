@@ -4,7 +4,7 @@
     otazky = [],
     yes    = "Srozumitelně",
     no     = "Nesrozumitelně",
-    debug  = false;
+    debug  = true;
 
   function init() {
     for(var i = 0; i < lists.length; i++) {
