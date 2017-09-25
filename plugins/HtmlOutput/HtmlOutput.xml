@@ -7,4 +7,5 @@
   <jsFile append="body">themes/otazky.js</jsFile>
   <favicon>themes/pralek.ico</favicon>
   <var id="robots" modifyonly="modifyonly">noindex,nofollow</var>
+  <xslt>themes/delna.xsl</xslt>
 </HtmlOutput>
