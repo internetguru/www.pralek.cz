@@ -5,18 +5,18 @@
   <var modifyonly="modifyonly" id="modified">Tento článek byl revidován <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
 
   <doclist id="html" path="koutek">
-    <li><em var="editlink">n/a</em> <a title="" var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>)</li>
+    <li><a title="" var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>) <em var="editlink">n/a</em></li>
   </doclist>
 
 <!--   <filter id="bolest" doclist="html" kw="bolest" /> -->
 
   <doclist id="htmltop1" limit="1" path="koutek">
-    <li><strong><em var="editlink">n/a</em> <a title="" var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>)</strong>
+    <li><strong><a title="" var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>)</strong> <em var="editlink">n/a</em>
       <ul><li var="desc">n/a</li></ul>
     </li>
   </doclist>
-  <doclist id="htmltop2" skip="1" limit="4" path="koutek">
-      <li><strong><em var="editlink">n/a</em> <a title="" var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>)</strong></li>
+  <doclist id="htmltop2" skip="1" limit="3" path="koutek">
+      <li><strong><a title="" var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>)</strong> <em var="editlink">n/a</em></li>
   </doclist>
 
 </Agregator>
