@@ -267,6 +267,7 @@ div.list + div.contentbalancer-simple ul li:last-child a[href] {
   background-color: #de6060;
 }
 
+ol.otazky button:last-child.selected,
 ol.otazky button:last-child:focus,
 form.search button:focus,
 form.newsletter input[type="submit"]:focus,
@@ -274,6 +275,7 @@ div.list + div.contentbalancer-simple ul li:last-child a[href]:focus {
   background-color: #d04a4a;
 }
 
+ol.otazky button.selected,
 ol.otazky button:focus {
   background-color: #47a952;
 }
@@ -506,7 +508,7 @@ ol.otazky button:last-child {
 }
 
 ol.otazky button:not(.selected):disabled {
-  background-color: #b2b2b2;
+  background-color: #dadada;
 }
 
 .otazky li span {
