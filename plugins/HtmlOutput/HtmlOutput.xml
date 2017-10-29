@@ -8,5 +8,5 @@
   <favicon>themes/pralek.ico</favicon>
   <var id="robots" modifyonly="modifyonly">noindex,nofollow</var>
   <xslt>themes/delna.xsl</xslt>
-  <stylesheet>lib/font-awesome/css/font-awesome.css</stylesheet>
+  <stylesheet if-xpath="//*[contains(@class, 'fa')]">lib/font-awesome/css/font-awesome.css</stylesheet>
 </HtmlOutput>
