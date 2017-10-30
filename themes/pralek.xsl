@@ -11,7 +11,7 @@
     <div id="header"><div>
       <form class="search" action="//google.com/search" method="get"><div>
         <input type="search" placeholder="Co Vás zajímá?" class="eventable" required="required" name="q"/>
-        <button type="submit" title="Prohledat PraLék.cz">
+        <button type="submit" title="Prohledat stránky Praléku">
           <span class="flaticon-magnifier56">Hledat</span>
         </button>
         <input type="hidden" value="www.pralek.cz" name="sitesearch"/>
