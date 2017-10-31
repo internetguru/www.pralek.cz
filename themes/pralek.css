@@ -288,6 +288,8 @@ ol.otazky button:focus {
 samp, pre, textarea, p code, li code, dt code, dd code {
   background: none;
   border: none;
+  font-weight: normal;
+  color: #3c3c3c;
 }
 
 pre, textarea, select {
