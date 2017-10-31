@@ -5,7 +5,7 @@
   <var modifyonly="modifyonly" id="modified">Tento článek byl revidován <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
 
   <doclist id="html" path="koutek">
-    <li><a title="" var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>) <em var="editlink">n/a</em></li>
+    <li><a var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>) <em var="editlink">n/a</em></li>
   </doclist>
 
 <!--   <filter id="bolest" doclist="html" kw="bolest" /> -->
@@ -16,7 +16,7 @@
     </li>
   </doclist>
   <doclist id="htmltop2" skip="1" limit="3" path="koutek">
-      <li><strong><a title="" var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>)</strong> <em var="editlink">n/a</em></li>
+      <li><strong><a var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>)</strong> <em var="editlink">n/a</em></li>
   </doclist>
 
 </Agregator>
