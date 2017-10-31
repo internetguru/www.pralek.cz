@@ -3,6 +3,8 @@
 
   <xsl:template match="p[@class = 'description' and text() = 'n/a']" />
 
+  <xsl:template match="@title" />
+
   <xsl:template match="node()|@*">
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
