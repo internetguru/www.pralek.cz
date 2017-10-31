@@ -296,11 +296,6 @@ pre, textarea, select {
   border: none;
 }
 
-dl.clanky:not(.filterable-on) dt {
-  font-weight: normal;
-  margin-top: 0.5rem;
-}
-
 ul.clanky li:nth-last-of-type(96),
 ul.clanky li:nth-last-of-type(93),
 ul.clanky li:nth-last-of-type(90),
