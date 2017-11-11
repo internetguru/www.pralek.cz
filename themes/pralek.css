@@ -218,7 +218,7 @@ ul.fotky li {
   margin: 0;
 }
 
-div.list ul.fotky li:before {
+#content ul.fotky li:before {
   content: "";
 }
 
