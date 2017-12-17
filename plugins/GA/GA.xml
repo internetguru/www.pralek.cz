@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GA>
-<!--   <var id="ga_id" modifyonly="modifyonly">UA-9706359-1</var> -->
   <var id="ga_id" modifyonly="modifyonly">UA-9706359-32</var>
+  <ga_id domain="www.pralek.cz">UA-9706359-1</ga_id>
+  <ga_id domain="beta.pralek.cz">UA-9706359-32</ga_id>
 </GA>
