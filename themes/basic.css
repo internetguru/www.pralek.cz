@@ -3,8 +3,12 @@
   padding: 0;
 }
 
-body, input, button {
+.wf-active body, .wf-active input, .wf-active button {
   font-family: 'Open Sans', Tahoma, sans-serif;
+}
+
+body, input, button {
+  font-family: arial, sans-serif;
   letter-spacing: 0.01em;
 }
 
