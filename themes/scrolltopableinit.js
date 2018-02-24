@@ -1,4 +1,5 @@
-if(typeof IGCMS === "undefined") throw "IGCMS is not defined";
-IGCMS.ScrollTopable.init({
+require("IGCMS.Scrolltopable", function() {
+IGCMS.Scrolltopable.init({
   text: "▲"
+})
 });

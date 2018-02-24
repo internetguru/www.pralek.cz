@@ -5,6 +5,8 @@
   <stylesheet>themes/iefix.css</stylesheet>
   <xslt>themes/pralek.xsl</xslt>
   <jsFile append="body">themes/otazky.js</jsFile>
+  <jsFile append="head">themes/webfont.js</jsFile>
+  <jsFile append="head">themes/fontloader.js</jsFile>
   <favicon>themes/pralek.ico</favicon>
   <var id="robots" modifyonly="modifyonly">noindex,nofollow</var>
   <robots domain="*.pralek.cz" meta="noindex, nofollow">User-agent: *
