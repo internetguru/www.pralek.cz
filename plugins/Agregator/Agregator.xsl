@@ -10,7 +10,7 @@
     </div></div>
     <div id="docfooter">
       <ul>
-        <li><a href="koutek#archiv">Další články lékařova koutku</a> (kompletní seznam).</li>
+        <li><a href="koutek#archiv">yDalší články lékařova koutku</a> (kompletní seznam).</li>
         <li><a href="upozorneni">Odebírejte krátká upozornění na nově vyšlé články lékařova koutku.</a></li>
       </ul>
     </div>
