@@ -10,7 +10,7 @@ body {
 
 h1, h2, h3, h4, legend {
   font-weight: 600;
-  color: #C84F4F;
+  color: #4f86c3;
 }
 
 object[type="image/svg+xml"] {
@@ -420,7 +420,7 @@ form.search {
 div.article p.description {
   font-style: italic;
   font-size: 1.05em;
-  color: #9d1b1b;
+  color: #2e6199;
   /* font-weight: 600; */
 }
 
