@@ -1,0 +1,78 @@
+
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+
+# Bolest paty: patní ostruha {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="patni\_ostruha" short="Patní ostruha" ctime="2011-04-19" mtime="2011-04-19"}
+
+Patní ostruha je zkostnatělý výrůstek patní kosti v místě úponu vazu. Léčení počátečních příznaků nemoci je snadné. U plně vyvinutého onemocnění jsou nutné složitější léčebné metody. {class="description" kw="patní ostruha, bolest paty, patní kost, onemocnění šlach, úpon vazu, vápník, kostěný výrůstek, fyzikální terapie, ultrazvuk, obstřik šlachy, rázová vlna, rentgenové ozařování"}
+
+Patní ostruha _(exostosis calcanei)_ vzniká jako **následek dlouhodobého přetěžování stáním nebo sportem**, obzvlášť v kombinaci [s nevhodnou obuví][1]. Přetěžování je i příčinou [onemocnění ostatních šlach][2] a jejich úponů ke kostem.
+
+Ostruha se může vytvořit pod patou uprostřed nohy, na vnitřní nebo zevní straně plosky. Někdy vznikne za patou, na zadní straně v místě úponu Achillovy šlachy. Výskyt ostruhy pod i za patou není vzácností.
+
+## Vývoj a projevy patní ostruhy {id="vyvoj\_a\_projevy\_patni\_ostruhy"}
+
+n/a {class="description"}
+
+  1. Při vzniku ostruhy se jedná zpočátku jen o [bolesti paty][3] v souvislosti se zátěží.
+      * Bolí přetížený úpon vazu.
+      * Jedná se o [nebakteriální zánět][4].
+  2. Následně dochází k ukládání vápníku do přetěžovaného nebo opakovanými drobnými úrazy drážděného úponu.
+      * Úpon vazu ke kosti se postupně mění v plnohodnotnou kost a tím vzniká kostěný výrůstek.
+  3. Plně vyvinutá ostruha bolí:
+      * mechanickým tlakem proti tvrdé podložce nebo proti botě,
+      * bolestivý je stále i úpon šlachy k ostruze.
+
+## Léčení prvotních projevů patní ostruhy {id="leceni\_prvotnich\_projevu\_patni\_ostruhy"}
+
+n/a {class="description"}
+
+Již při prvních projevech onemocnění je vhodné podstoupit [chirurgické nebo ortopedické][5] vyšetření včetně rentgenu paty. Typická je bolestivost nejvíce ráno (než se noha „rozchodí“), nebo naopak bolest po námaze, třeba i večer v klidu. Na rentgenu zatím není žádný nález, ale už se dá usoudit, že vzniká patní ostruha.
+
+  * V tomto stádiu je vhodné [užívat nejrůznější léčivé masti, gely][6]. Někomu pomohou homeopatika, jinému přírodní preparáty, většinou však pomohou léky klasické medicíny.
+  * Vhodná je i nejrůznější fyzikální terapie (ultrazvuk, diadynamik, magnetoterapie, laser). Při trvajících potížích lze užít [obstřiky bolestivých úponů][6] šlach do paty.
+
+## Léčení plně rozvinuté patní ostruhy {id="leceni\_plne\_rozvinute\_patni\_ostruhy"}
+
+n/a {class="description"}
+
+V případě, že pacient vyhledá odborného lékaře až **s plně vyvinutou ostruhou, bude léčení svízelnější**. Vyšetření a rentgen vyvinutou patní ostruhu prokáže. Lze vyzkoušet metody léčení popsané výše. Jejich efekt však nyní již nemusí být dostatečný.
+
+  * Je namístě užití nejrůznějších ortopedických vložek a jiných ortopedických pomůcek k odlehčení bolestivých míst. Správně vedená rehabilitace může zcela zbavit pacienta potíží.
+
+Například mohou potíže ustoupit napravením chybného stereotypu chůze (uvolněním páteře), pokud vnik ostruhy způsobil. Ostruha tím nezmizí, ale pacient může bezbolestně chodit. {class="example"}
+
+  * Moderní a účinnou metodou léčení ostruhy je ultrazvuková rázová vlna vytvářená zvláštním přístrojem, který vlastní mnohá pracoviště.
+  * Rentgenové ozařování odstraní z bolestivého úponu [aseptický zánět][7] a tedy i bolest. Nebolestivá ostruha však nezmizí.
+  * Jsou-li všechny vyjmenované léčebné metody bez efektu, je nevyhnutelné přistoupit k ortopedické operaci.
+
+## Prevence bolesti pat správnou péčí o nohy {id="prevence\_bolesti\_pat\_spravnou\_peci\_o\_nohy"}
+
+n/a {class="description"}
+
+Předcházet bolestem pat a nohou lze správnou péčí o nohy – vhodnou obuví, procvičováním a masírováním nohou. Vždy je nutné upravit vadné postavení nohou správnými _ortopedickými pomůckami_ nebo fyzioterapií.
+
+## n/a {id="otazky" var="inputvar-otazky_h"}
+
+n/a {class="description" var="inputvar-otazky_desc"}
+
+{class="otazky"}
+
+  1. Co je patní ostruha?
+  2. Jaká je častá příčina bolesti paty neúrazového původu?
+  3. Kde se na patě ostruha nachází?
+  4. Co bývá příčinou vzniku patní ostruhy?
+  5. Jaké jsou možnosti léčení ostruhy?
+
+## n/a {var="inputvar-odkazy_h" id="odkazy"}
+
+n/a {class="description" var="inputvar-odkazy_desc"}
+
+Seznam odkazů není k dispozici {var="linklist"}
+
+ [1]: vhodna_obuv
+ [2]: onemocneni_slach
+ [3]: leky_proti_bolesti
+ [4]: mikroorganizmy
+ [5]: nalehavost_lekarskeho_vysetreni
+ [6]: lekove_formy
+ [7]: zanet
