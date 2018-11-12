@@ -6,4 +6,18 @@
   <var id="otazky_desc">Cílem tohoto článku je srozumitelně odpovědět na následující otázky. Kliknutím na tlačítko můžete vyjádřit svůj názor, jak se mu to podařilo. Pořadí otázek odpovídá pořadí jednotlivých částí textu článku.</var>
   <var id="odkazy_h">Související články</var>
   <var id="odkazy_desc">Článek ve svém textu odkazuje následující zdroje (v uvedeném pořadí). Zdroje danou problematiku rozvádějí či zmiňují v dalších souvislostech.</var>
+
+  <var id="newsletter">
+<form class="newsletter" action="http://alert.pralek.cz" method="post">
+  <p>
+    <label for="newsletter-email">Vaše emailová adresa: </label>
+    <span>
+      <input type="email" pattern="[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.[a-zA-Z]{2,}" placeholder="moje@adresa.cz" name="email" required="required" size="37" id="newsletter-email" class="eventable"/>
+      <input type="submit" value="Přihlásit"/>
+      <input type="hidden" name="emailcheck" value=""/>
+      <input type="hidden" name="formid" value="form0"/>
+    </span>
+  </p>
+</form></var>
+
 </InputVar>
