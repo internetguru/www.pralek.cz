@@ -83,7 +83,7 @@ MUDr. Jaroslav Pavelka (*1952) je absolventem první Fakulty všeobecného léka
 
 {class="fotky right"}
 
-  * [![MUDr. Jaroslav Pavelka][1] {title="MUDr. Jaroslav Pavelka"}</img>][2]
+  * [![MUDr. Jaroslav Pavelka][1]][2]
 
 Bylo však třeba vypomáhat a zastupovat na různých obvodech, pracovat v léčebně dlouhodobě nemocných, sloužit lékařské služby první pomoci, pracovat jako závodní lékař v továrně.
 
@@ -97,54 +97,54 @@ Jaroslav Pavelka tráví svůj volný čas aktivně. Rád se prohání po Česk�
 
 {class="fotky"}
 
-  * [![Jachtění v Chorvatsku][3] {title="Jachtění v Chorvatsku"}</img>][4]
-  * [![Jachtění v Chorvatsku][5] {title="Jachtění v Chorvatsku"}</img>][6]
-  * [![Let nad Českým středohořím][7] {title="Let nad Českým středohořím"}</img>][8]
-  * [![Na motorce Českým středohořím][9] {title="Na motorce Českým středohořím"}</img>][10]
-  * [![Potápění v Chorvatsku][11] {title="Potápění v Chorvatsku"}</img>][12]
-  * [![S manželkou na výletě v Tisé][13] {title="S manželkou na výletě v Tisé"}</img>][14]
-  * [![S manželkou jako praví motorkáři][15] {title="S manželkou jako praví motorkáři"}</img>][16]
-  * [![Lyžování v Alpách][17] {title="Lyžování v Alpách"}</img>][18]
-  * [![Lyžování v Alpách][19] {title="Lyžování v Alpách"}</img>][20]
+  * [![Jachtění v Chorvatsku][3]][4]
+  * [![Jachtění v Chorvatsku][5]][6]
+  * [![Let nad Českým středohořím][7]][8]
+  * [![Na motorce Českým středohořím][9]][10]
+  * [![Potápění v Chorvatsku][11]][12]
+  * [![S manželkou na výletě v Tisé][13]][14]
+  * [![S manželkou jako praví motorkáři][15]][16]
+  * [![Lyžování v Alpách][17]][18]
+  * [![Lyžování v Alpách][19]][20]
 
 {class="fotky nomultiple"}
 
-  * [![Na své mašině][21] {title="Na své mašině"}</img>][22]
-  * [![Potápění na Slapech][23] {title="Potápění na Slapech"}</img>][24]
-  * [![Mezi skalisky v Tisé][25] {title="Mezi skalisky v Tisé"}</img>][26]
-  * [![S vnučkou][27] {title="S vnučkou"}</img>][28]
-  * [![Lyžování v Alpách][29] {title="Lyžování v Alpách"}</img>][30]
-  * [![Lyžování v Alpách][31] {title="Lyžování v Alpách"}</img>][32]
+  * [![Na své mašině][21]][22]
+  * [![Potápění na Slapech][23]][24]
+  * [![Mezi skalisky v Tisé][25]][26]
+  * [![S vnučkou][27]][28]
+  * [![Lyžování v Alpách][29]][30]
+  * [![Lyžování v Alpách][31]][32]
 
- [1]: /files/thumbs/jaroslav_pavelka-detail.jpg
+ [1]: /files/thumbs/jaroslav_pavelka-detail.jpg "MUDr. Jaroslav Pavelka"
  [2]: /files/big/jaroslav_pavelka-detail.jpg
- [3]: /files/thumbs/jaroslav_pavelka-h03.jpg
+ [3]: /files/thumbs/jaroslav_pavelka-h03.jpg "Jachtění v Chorvatsku"
  [4]: /files/big/jaroslav_pavelka-h03.jpg
- [5]: /files/thumbs/jaroslav_pavelka-h04.jpg
+ [5]: /files/thumbs/jaroslav_pavelka-h04.jpg "Jachtění v Chorvatsku"
  [6]: /files/big/jaroslav_pavelka-h04.jpg
- [7]: /files/thumbs/jaroslav_pavelka-h05.jpg
+ [7]: /files/thumbs/jaroslav_pavelka-h05.jpg "Let nad Českým středohořím"
  [8]: /files/big/jaroslav_pavelka-h05.jpg
- [9]: /files/thumbs/jaroslav_pavelka-h06.jpg
+ [9]: /files/thumbs/jaroslav_pavelka-h06.jpg "Na motorce Českým středohořím"
  [10]: /files/big/jaroslav_pavelka-h06.jpg
- [11]: /files/thumbs/jaroslav_pavelka-h07.jpg
+ [11]: /files/thumbs/jaroslav_pavelka-h07.jpg "Potápění v Chorvatsku"
  [12]: /files/big/jaroslav_pavelka-h07.jpg
- [13]: /files/thumbs/jaroslav_pavelka-h08.jpg
+ [13]: /files/thumbs/jaroslav_pavelka-h08.jpg "S manželkou na výletě v Tisé"
  [14]: /files/big/jaroslav_pavelka-h08.jpg
- [15]: /files/thumbs/jaroslav_pavelka-h09.jpg
+ [15]: /files/thumbs/jaroslav_pavelka-h09.jpg "S manželkou jako praví motorkáři"
  [16]: /files/big/jaroslav_pavelka-h09.jpg
- [17]: /files/thumbs/jaroslav_pavelka-h10.jpg
+ [17]: /files/thumbs/jaroslav_pavelka-h10.jpg "Lyžování v Alpách"
  [18]: /files/big/jaroslav_pavelka-h10.jpg
- [19]: /files/thumbs/jaroslav_pavelka-h11.jpg
+ [19]: /files/thumbs/jaroslav_pavelka-h11.jpg "Lyžování v Alpách"
  [20]: /files/big/jaroslav_pavelka-h11.jpg
- [21]: /files/thumbs/jaroslav_pavelka-v01.jpg
+ [21]: /files/thumbs/jaroslav_pavelka-v01.jpg "Na své mašině"
  [22]: /files/big/jaroslav_pavelka-v01.jpg
- [23]: /files/thumbs/jaroslav_pavelka-v02.jpg
+ [23]: /files/thumbs/jaroslav_pavelka-v02.jpg "Potápění na Slapech"
  [24]: /files/big/jaroslav_pavelka-v02.jpg
- [25]: /files/thumbs/jaroslav_pavelka-v03.jpg
+ [25]: /files/thumbs/jaroslav_pavelka-v03.jpg "Mezi skalisky v Tisé"
  [26]: /files/big/jaroslav_pavelka-v03.jpg
- [27]: /files/thumbs/jaroslav_pavelka-v04.jpg
+ [27]: /files/thumbs/jaroslav_pavelka-v04.jpg "S vnučkou"
  [28]: /files/big/jaroslav_pavelka-v04.jpg
- [29]: /files/thumbs/jaroslav_pavelka-v05.jpg
+ [29]: /files/thumbs/jaroslav_pavelka-v05.jpg "Lyžování v Alpách"
  [30]: /files/big/jaroslav_pavelka-v05.jpg
- [31]: /files/thumbs/jaroslav_pavelka-v06.jpg
+ [31]: /files/thumbs/jaroslav_pavelka-v06.jpg "Lyžování v Alpách"
  [32]: /files/big/jaroslav_pavelka-v06.jpg
