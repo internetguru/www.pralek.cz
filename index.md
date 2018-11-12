@@ -16,6 +16,8 @@ Na tomto webu vychází články Jaroslava Pavelky o praktickém lékařství s 
 
 Dostávejte krátká upozornění na nově vyšlé články! Maximálně dvakrát za měsíc Vám přijde krátká zpráva s informacemi o novém článku. {class="description" kw="upozornění, novinky, odběr"}
 
+Formulář není k dispozici {var="inputvar-newsletter"}
+
 #### Politika ochrany soukromí {id="soukromi" short="Ochrana soukromí"}
 
 n/a {class="description"}
