@@ -3,7 +3,7 @@
 
 # Boj proti akné {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="akne" short="Akné" ctime="2008-02-26" mtime="2017-10-01"}
 
-Akné je onemocnění mazových žláz v kůži. Vzniká nejčastěji v souvislosti s hormonálními změnami v pubertě, kdy se obsah mazových žláz stává tužší a samovolně nevytéká. Při mechanickém vyprazdňování akné je důležité dbát na hygienu. {class="description" kw="akné, kůže, infekce, mazová žláza, puberta, maz, pupínek, zánět, aterom, absces"}
+Akné je onemocnění mazových žláz v kůži. Vzniká nejčastěji v souvislosti s hormonálními změnami v pubertě, kdy se obsah mazových žláz stává tužší a samovolně nevytéká. Při mechanickém vyprazdňování akné je důležité dbát na hygienu! {class="description" kw="akné, kůže, infekce, mazová žláza, puberta, maz, pupínek, zánět, aterom, absces"}
 
 Mazová žlála je drobný váček s kanálkem, kterým na povrch kůže vytéká maz v různém množství a různém složení. Tím je kůže zvlhčována nebo promašťována (podle momentální potřeby), aby byla pevná, pružná, vláčná a odolná.
 
