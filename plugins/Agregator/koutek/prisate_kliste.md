@@ -23,7 +23,7 @@ n/a {class="description"}
 
 Známkou nakažení boreliózou je až postupně se rozšiřující **začervenalá skvrna (mapa), která směrem k centru bledne**. V případě nejasnosti po odstranění klíštěte je vždy lépe vyhledat lékaře. Laboratorní vyšetření vyloučí nebo potvrdí nákazu boreliózou a léčení nebývá složité. Problémy vznikají v případě rozvinutí nepoznané boreliózy.
 
-Další chorobou, kterou může klíště na člověka přenést je virový zánět mozku (klíšťová encefalitida). Jejími projevy jsou **[bolest hlavy][2], <teplota>, ztvrdnutí šíje**. Jedná se o závažné onemocnění, proti kterému je možné se očkovat. Informace o očkování poskytuje praktický lékař.
+Další chorobou, kterou může klíště na člověka přenést je virový zánět mozku (klíšťová encefalitida). Jejími projevy jsou **[bolest hlavy][2], [teplota][3], ztvrdnutí šíje**. Jedná se o závažné onemocnění, proti kterému je možné se očkovat. Informace o očkování poskytuje praktický lékař.
 
 Boreliózu může přenášet i jiný hmyz – například komár. Virový zánět mozku přenáší pouze klíště. {class="example"}
 
@@ -47,3 +47,4 @@ Seznam odkazů není k dispozici {var="linklist"}
 
  [1]: mikroorganizmy
  [2]: bolest_hlavy_migrena
+ [3]: teplota
