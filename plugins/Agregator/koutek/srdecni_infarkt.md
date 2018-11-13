@@ -5,15 +5,15 @@
 
 Bezodkladné zahájení masáže srdce při infarktu zachrání život a včasné další léčení může vrátit pacienta do plného zdraví. {class="description" kw="infarkt, civilizační choroby, nezdravý životní styl, krevní tlak, srdeční akce, zužování cév, uzávěr cévy, bolest, angína pectoris, přechozený infarkt, rytmus srdce, zástava srdce, EKG záznam"}
 
-_Infarkt myokardu_ (česky záhať srdečního svalu) patří mezi civilizační choroby. Většinou navazuje na **nezdravý životní styl** ([kouření cigaret][1], nedostatek pohybu, [obezita][2], <cukrovka>, [vysoký krevní tlak][3], stres), ale může přijít i z „plného zdraví“ u aktivního člověka. Infarkt postihuje nejčastěji muže ve středním a vyšším věku.
+_Infarkt myokardu_ (česky záhať srdečního svalu) patří mezi civilizační choroby. Většinou navazuje na **nezdravý životní styl** ([kouření cigaret][1], nedostatek pohybu, [obezita][2], [cukrovka][3], [vysoký krevní tlak][4], stres), ale může přijít i z „plného zdraví“ u aktivního člověka. Infarkt postihuje nejčastěji muže ve středním a vyšším věku.
 
 ## Jak funguje srdce {id="jak\_funguje\_srdce"}
 
 n/a {class="description"}
 
-**Srdeční sval** [pumpuje krev do těla][3]. Aby srdeční sval mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve. Zvláštní cévy rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná céva**.
+**Srdeční sval** [pumpuje krev do těla][4]. Aby srdeční sval mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve. Zvláštní cévy rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná céva**.
 
-**V jiných svalech** a orgánech k jednomu místu **přivádí krev více cév**, poškození jedné z nich je snadno nahrazeno ostatními a vzniklý [problém se nemusí vůbec projevit][4]. Zdravá céva má ve stěně sval a je schopna se rozšiřovat nebo zužovat – podle nároků zásobovaného místa.
+**V jiných svalech** a orgánech k jednomu místu **přivádí krev více cév**, poškození jedné z nich je snadno nahrazeno ostatními a vzniklý [problém se nemusí vůbec projevit][5]. Zdravá céva má ve stěně sval a je schopna se rozšiřovat nebo zužovat – podle nároků zásobovaného místa.
 
 Člověk trénovaný pravidelnou zátěží je schopen v případě potřeby několikanásobně zvýšit práci srdce; zrychlením akce srdeční, zvýšením krevního tlaku a zvýšením stažlivosti srdce. Je-li srdeční sval dostatečně zásoben krví, zvýšení srdeční aktivity si člověk ani neuvědomuje, **nemá žádné potíže**.
 
@@ -30,7 +30,7 @@ Srdeční cévy podléhají stárnutí stejně, jako ostatní cévy v těle. Jej
   3. snížením roztažitelnosti,
   4. postupným zužováním až po úplný uzávěr cévy (infarkt).
 
-Proces [kornatění cév][5] začíná již v dětském věku a v průběhu života se zhoršuje. Jestliže z důvodu kornatění **srdeční sval dostává v daném okamžiku méně krve** než potřebuje, nemoc se projeví pálivou nebo svíravou bolestí za hrudní kostí. Bolest vyzařuje do zad, do krku, do horní končetiny nebo do břicha (podle umístění postiženého ložiska na srdci).
+Proces [kornatění cév][6] začíná již v dětském věku a v průběhu života se zhoršuje. Jestliže z důvodu kornatění **srdeční sval dostává v daném okamžiku méně krve** než potřebuje, nemoc se projeví pálivou nebo svíravou bolestí za hrudní kostí. Bolest vyzařuje do zad, do krku, do horní končetiny nebo do břicha (podle umístění postiženého ložiska na srdci).
 
 Potíže mohou samovolně po zklidnění ustat a opět se vrátit při stresu, námaze, nebo jen při přejedení. Tento stav může být dlouhodobý, pak se nazývá _angína pectoris_.
 
@@ -44,7 +44,7 @@ V případě **postižení malého rozsahu** (například pouze část stěny sr
 
 V případě narušení převodního systému bude podle rozsahu a umístění ložiska infarkt závažný a vzniká **porucha rytmu nebo dokonce zástava srdce** během několika sekund.
 
-V případě **závažného infarktu** se srdeční zástavou může zachránit život [okamžitá resuscitace][6]. Po úspěšné resuscitaci a prokázání infarktu EKG záznamem (záznam infarktem změněné elektrické aktivity srdeční) má pacient šanci dostat se včas k výkonu na specializované pracoviště.
+V případě **závažného infarktu** se srdeční zástavou může zachránit život [okamžitá resuscitace][7]. Po úspěšné resuscitaci a prokázání infarktu EKG záznamem (záznam infarktem změněné elektrické aktivity srdeční) má pacient šanci dostat se včas k výkonu na specializované pracoviště.
 
 Dříve než dojde k odumření infarktem ohroženého svalu, může se podařit do postižené cévy zavedenou sondou obnovit průtok krve a **infarkt se vůbec nevyvine**. Výsledkem je vyléčení a návrat do plného zdraví během několika dnů.
 
@@ -69,7 +69,8 @@ Seznam odkazů není k dispozici {var="linklist"}
 
  [1]: koureni_cigaret
  [2]: obezita_a_energie
- [3]: krevni_tlak
- [4]: iktus
- [5]: cholesterol
- [6]: resuscitace-ozivovani
+ [3]: cukrovka
+ [4]: krevni_tlak
+ [5]: iktus
+ [6]: cholesterol
+ [7]: resuscitace-ozivovani
