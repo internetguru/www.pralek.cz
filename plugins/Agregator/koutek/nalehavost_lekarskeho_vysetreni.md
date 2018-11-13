@@ -68,7 +68,7 @@ n/a {class="description"}
 
   * [Puchýř][18], [nebolestivá boulička][13], [bolesti šlach a kloubů][19], [natažený či natržený sval][20], [podvrtnutý kotník][21] a [krvácení z konečníku][22] budou vyšetřeny na chirurgické ambulanci.
   * [Bolest v krku, angína][23], problémy s ušima, nosem a [rýma][24] budou vyšetřeny na oddělení ORL.
-  * Projevy [zánětu][25], [kašel][26], [bolest v zádech][27], <teplota>, [chřipka][28], [zvracení a průjmy][29] budou vyšetřeny u příslušného praktického lékaře.
+  * Projevy [zánětu][25], [kašel][26], [bolest v zádech][27], [teplota][16], [chřipka][28], [zvracení a průjmy][29] budou vyšetřeny u příslušného praktického lékaře.
   * [Zánět močového měchýře][30], [zvětšená prostata][31] a ostatní urologické problémy ošetřuje urolog.
   * Nebolestivé různě barevné změny kůže, [rozpraskané paty][32], zhrubělé vysoké nehty ošetřuje dermatolog – lékař na kožním oddělení.
 
