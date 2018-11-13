@@ -42,7 +42,7 @@ Zánět může mít čtyři různé příčiny. Může vznikat jako obranná rea
 
 n/a {class="description"}
 
-Při obranném zánětu tělo rozpozná a označí viníka infekce a tvoří proti němu protilátky. Označeného viníka následně protilátkami likviduje. Úspěšnost tohoto boje závisí na **úrovni imunity jedince**. Pokud tělo boj vyhrává, nejsou <antibiotika> potřeba, jindy je nutné organizmus nasazením antibiotik podpořit.
+Při obranném zánětu tělo rozpozná a označí viníka infekce a tvoří proti němu protilátky. Označeného viníka následně protilátkami likviduje. Úspěšnost tohoto boje závisí na **úrovni imunity jedince**. Pokud tělo boj vyhrává, nejsou [antibiotika][4] potřeba, jindy je nutné organizmus nasazením antibiotik podpořit.
 
 Obranný zánět vzniká bojem proti viníkům infekce – tedy virům, bakteriím nebo parazitům. Začíná [proniknutím mikroorganizmů do těla][8] a následně jejich pomnožením v oslabené nebo poraněné tkáni. Příklady vstupu infekce do organizmu jsou:
 
@@ -50,10 +50,10 @@ Obranný zánět vzniká bojem proti viníkům infekce – tedy virům, bakteri�
   * kapénková infekce ([chřipka][10]),
   * mikroorganizmy nakažená (kontaminovaná) strava nebo voda (nemoc špinavých rukou, infekční žloutenka nebo [infekční průjmy][11]),
   * opakovaně užívaná injekční jehla narkomanů (žloutenka typu C nebo HIV),
-  * špatně vyčištěný nástroj při lékařském výkonu či manikůře (<panaricium>), pedikůře ([zarůstající nehty][12]), tetování atp,
+  * špatně vyčištěný nástroj při lékařském výkonu či manikůře ([panaricium][12]), pedikůře ([zarůstající nehty][13]), tetování atp,
   * nechráněný pohlavní styk, při kterém se přenášejí pohlavní choroby a mnohé viry (například původce rakoviny děložního čípku).
 
-Pokud lze podle projevů zánětu usuzovat na konkrétního původce _(specifický zánět)_, je většinou nutné nasadit kombinaci několika různých antibiotik (např. při tuberkulóze). V ostatních případech nebývá určení původce zánětu podstatné _(nespecifický zánět)_. K léčbě většinou postačí jeden druh antibiotik (např. při [angíně][13]).
+Pokud lze podle projevů zánětu usuzovat na konkrétního původce _(specifický zánět)_, je většinou nutné nasadit kombinaci několika různých antibiotik (např. při tuberkulóze). V ostatních případech nebývá určení původce zánětu podstatné _(nespecifický zánět)_. K léčbě většinou postačí jeden druh antibiotik (např. při [angíně][14]).
 
 ### Opravný (reparativní či aseptický) zánět {id="opravny\_reparativni\_ci\_asepticky\_zanet"}
 
@@ -61,7 +61,7 @@ n/a {class="description"}
 
 Opravný zánět navazuje na poškození tkání jako je **pohmoždění, uhození, namožení, přetížení, popálení, omrznutí, poleptání nebo ozáření**. V počátku aseptického zánětu vždy dobře poslouží studené obklady, které zlepší prokrvení postiženého místa a tím urychlí ústup bolestivých zánětlivých změn.
 
-Jelikož v aseptickém zánětu nejsou žádné mikroorganizmy, netvoří tělo žádné protilátky, a proto ani antibiotika nejsou namístě. Při závažném úrazu (např. při větší spálenině) pomohou co nejrychleji opravit poškozené buňky a tkáně jiné podpůrné léky (náhrada tekutin, vitamíny, minerály, [léky proti bolesti][14]).
+Jelikož v aseptickém zánětu nejsou žádné mikroorganizmy, netvoří tělo žádné protilátky, a proto ani antibiotika nejsou namístě. Při závažném úrazu (např. při větší spálenině) pomohou co nejrychleji opravit poškozené buňky a tkáně jiné podpůrné léky (náhrada tekutin, vitamíny, minerály, [léky proti bolesti][15]).
 
 ### Alergický a autoimunitní zánět {id="alergicky\_a\_autoimunitni_zanet"}
 
@@ -104,6 +104,7 @@ Seznam odkazů není k dispozici {var="linklist"}
  [9]: puchyr_mozol_kuri_oko
  [10]: chripka
  [11]: bolest_zaludku
- [12]: zarustajici_nehty
- [13]: bolest_v_krku_angina
- [14]: leky_proti_bolesti
+ [12]: panaricium
+ [13]: zarustajici_nehty
+ [14]: bolest_v_krku_angina
+ [15]: leky_proti_bolesti
