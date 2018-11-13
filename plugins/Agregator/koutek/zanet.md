@@ -23,12 +23,12 @@ n/a {class="description"}
 
 Podle časového průběhu zánětu (a v souvislosti se [stupněm imunity][3]) je třeba posoudit, zda se mají [nasazovat antibiotika][4] a pokud ano, tak kdy a která. To mnohem lépe posoudí praktický lékař, který pacienta zná, než lékař sloužící pohotovost, který vidí cizího pacienta poprvé. Proto je vždy vhodnější návštěva praktického lékaře i za cenu [určité prodlevy][5].
 
-  1. **Prudce probíhající _(akutní)_ zánět** má rychlý nástup a rychlý rozvoj příznaků. Podle celkového stavu pacienta se nasazují léky, případně také antibiotika „první volby“ (typicky vhodná pro danou chorobu). Další vývoj akutního zánětu je možné ovlivnit přikládáním obkladů:
+  1. **Prudce probíhající _(akutní)_ zánět** má rychlý nástup a rychlý rozvoj příznaků. Podle celkového stavu pacienta se nasazují léky, případně také antibiotika „první volby“ (typicky vhodná pro danou chorobu). Další vývoj akutního zánětu je možné ovlivnit přikládáním obkladů: 
       * **Teplý obklad** zpomalí prokrvení postiženého místa a tím podpoří rozvoj zánětu (zánět může rychleji „dozrát“). Teplým obkladem je vhodné urychlit bolestivý začátek akutního zánětu středního ucha nebo zubního váčku. Tím se rychleji vytvoří hnis, který lze následným ošetřením vyprázdnit. Bolestivá fáze vývoje zánětu se tak zkrátí na minimum.
       * **Studený obklad** podpoří místní prokrvení a tím se do místa zánětu dostává více zvláštních krvinek potřebných k hojení zánětu. Studeným obkladem lze mnohdy zánět „rozehnat“ (např. [zánět slepého střeva][6] nebo [podvrtnutý kotník][7]) a tím jej zastavit.
-  2. **Dlouhodobý _(chronický)_ zánět** má pozvolný nástup a postupný rozvoj příznaků. Léky včetně antibiotik se nasazují dle zvyklostí, nejlépe však až [podle K+C][4].
-  3. **Vracející se _(recidivující)_ zánět** vzplane po nezánětlivém mezidobí. Antibiotika se nasazují vždy až podle K+C.
-  4. **Opakovaně se vracející _(exacerbující)_ zánět** vzplane po nezánětlivých mezidobích i několikrát za sebou. Antibiotika se nasazují podle K+C a vždy s ohledem na předchozí léčení.
+  2. **Dlouhodobý _(chronický)_ zánět** má pozvolný nástup a postupný rozvoj příznaků. Léky včetně antibiotik se nasazují dle zvyklostí, nejlépe však až [podle K+C][4]. 
+  3. **Vracející se _(recidivující)_ zánět** vzplane po nezánětlivém mezidobí. Antibiotika se nasazují vždy až podle K+C. 
+  4. **Opakovaně se vracející _(exacerbující)_ zánět** vzplane po nezánětlivých mezidobích i několikrát za sebou. Antibiotika se nasazují podle K+C a vždy s ohledem na předchozí léčení. 
 
 V medicíně se uvedená terminologie přísně dodržuje. Podle druhu zánětu se zásadně mění přístup k jeho léčení. {class="important"}
 
