@@ -28,9 +28,9 @@ Rozšířením cév v zánětlivém ložisku se zpomalí krevní proud a **doch�
   2. **Nehnisavý zánět** je takový zánět, při kterém převažuje prosáknutí postižené tkáně zvláštními krvinkami (např. [chronická gastritída][4]). V takovém případě se podávají léky tlumící projevy zánětu.
   3. **Hnisavý zánět** produkuje hustou hnisavou tekutinu (hnis), která je tvořena zbytky odumřelé tkáně, rozpadajícími se krvinkami a odumřelými mikroorganizmy.
       * **U ohraničeného zánětu** _(tzv. [absces][5])_ je prvořadým léčebným zákrokem chirurgické vyprázdnění dutiny (rozříznutí). Jsou-li nasazena antibiotika, pak jen preventivně.
-      * **U neohraničeného zánětu** _(tzv. flegmóna – např. <panaricium>)_ se chirurgický výkon provádí až dle dalšího místního i celkového vývoje. Antibiotika se podávají vždy.
+      * **U neohraničeného zánětu** _(tzv. flegmóna – např. [panaricium][6])_ se chirurgický výkon provádí až dle dalšího místního i celkového vývoje. Antibiotika se podávají vždy.
   4. Narůstání **velmi tuhé tkáně** s nadměrným množstvím fibrinových vláken se označuje jako _fibrinózní zánět_. Při něm vzniká např. vystouplá jizva (hyzdící – nejčastěji po spálenině), označovaná jako [keloidní jizva][5]. Účelem léčby je zamezit nadměrnému růstu jizvy, a to nejčastěji mechanicky – jemným tlakem a masážemi. Někdy se podávají i zvláštní léky k potlačení nadměrného růstu jizvy.
-  5. **Odumírající tkáň** vzniká vlivem místního nedokrvení _(gangrenózní zánět)_ a má velmi specifickou léčbu, například při [srdečním infarktu][6].
+  5. **Odumírající tkáň** vzniká vlivem místního nedokrvení _(gangrenózní zánět)_ a má velmi specifickou léčbu, například při [srdečním infarktu][7].
 
 ## Nadměrné prosáknutí tekutinou {id="nadmerne\_prosaknuti\_tekutinou"}
 
@@ -71,4 +71,5 @@ Seznam odkazů není k dispozici {var="linklist"}
  [3]: ryma_a_smrkani
  [4]: bolest_zaludku
  [5]: nezhoubne_nadory
- [6]: srdecni_infarkt
+ [6]: panaricium
+ [7]: srdecni_infarkt
