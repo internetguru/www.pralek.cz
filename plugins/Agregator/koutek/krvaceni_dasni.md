@@ -17,11 +17,11 @@ Zdraví zubů je přímo ovlivněno složením přijímané potravy a [tekutin][
 
 n/a {class="description"}
 
-Jako příčina paradentózy bývá obecně označováno napadení dásní různými <mikroorganizmy> při nesprávné hygieně ústní dutiny a podle toho bývá paradentóza i léčena. Osídlení dásní choroboplodnými mikroorganizmy je však podle mého názoru následkem poškození oslabené dásně.
+Jako příčina paradentózy bývá obecně označováno napadení dásní různými [mikroorganizmy][4] při nesprávné hygieně ústní dutiny a podle toho bývá paradentóza i léčena. Osídlení dásní choroboplodnými mikroorganizmy je však podle mého názoru následkem poškození oslabené dásně.
 
 Prvotní **příčinou paradentózy je nedostatek vitamínu C**, který zvyšuje křehkost cév (obecně). Dásně jsou bohatě prokrvené a jejich cévy jsou velmi namáhané. Zvýšená křehkost cév oslabuje okraj dásně, který je pak náchylnější k poranění a krvácí po kontaktu s kartáčkem či tvrdou stravou. {class="important"}
 
-[Kouření cigaret][4] podporuje vznik paradentózy tím, že zvyšuje celkovou spotřebu vitamínu C (jehož následným nedostatkem cévy křehnou). Kouření zužuje všechny cévy obecně – tedy včetně cév v okrajích dásní (čímž se snižuje jejich schopnost regenerace).
+[Kouření cigaret][5] podporuje vznik paradentózy tím, že zvyšuje celkovou spotřebu vitamínu C (jehož následným nedostatkem cévy křehnou). Kouření zužuje všechny cévy obecně – tedy včetně cév v okrajích dásní (čímž se snižuje jejich schopnost regenerace).
 
 ## Prevence paradentózy a léčení jejích počátků {id="prevence\_paradentozy\_a\_leceni\_jejich_pocatku"}
 
@@ -59,4 +59,5 @@ Seznam odkazů není k dispozici {var="linklist"}
  [1]: vodni_rezim
  [2]: stravovaci_navyky
  [3]: zanet
- [4]: koureni_cigaret
+ [4]: mikroorganizmy
+ [5]: koureni_cigaret
