@@ -19,14 +19,14 @@ n/a {class="description"}
 
 Cizí tělísko (nejčastěji tříska nebo částečka olupujícího se laku) se může dostat pod nehet, kde pevně uvízne. Takové poranění je v okamžiku úrazu velmi bolestivé, bolest však po chvíli ustoupí. Rána většinou nekrvácí, proto bývá léčení zanedbáváno.
 
-S třískou se pod nehet dostávají <mikroorganizmy>. Možnosti dalšího vývoje neošetřeného úrazu podle reakce organizmu na cizí tělísko:
+S třískou se pod nehet dostávají [mikroorganizmy][3]. Možnosti dalšího vývoje neošetřeného úrazu podle reakce organizmu na cizí tělísko:
 
   1. Tříska odrůstá spolu s nehtem a postupně se jí organizmus zbaví. Infekce nemusí vůbec vzniknout.
-  2. Tříska zůstává (pevně lpí) v nehtovém lůžku, nad ní odrůstá nehet. Teprve po delší době dochází k postupnému uvolňování třísky a rozvoji [zánětlivé reakce][3] (s odstupem týdnů).
+  2. Tříska zůstává (pevně lpí) v nehtovém lůžku, nad ní odrůstá nehet. Teprve po delší době dochází k postupnému uvolňování třísky a rozvoji [zánětlivé reakce][4] (s odstupem týdnů).
   3. Nehtové lůžko se bezprostředně (do 3 dnů) zanítí a hnis vytéká původní rankou zpod nehtu.
   4. Nehtové lůžko se bezprostředně (do 3 dnů) zanítí a hnis se pod nehtem hromadí. Nehet je hnisem odtlačován a postupně se celý odloučí. V tomto případě nastává největší bolest druhý den po úrazu. Je velká pravděpodobnost, že se prst zhojí, ale **nově narůstající nehet bude zdeformovaný** nebo jinak neplnohodnotný.
 
-Pacient je ohrožen rozvojem tetanu a v souvislosti s [vývojem zánětu][4] trpí bolestí. [Vyhledání lékařského ošetření][5] je nejvhodnější následující pracovní den dopoledne. V případě trvající bolesti ihned.
+Pacient je ohrožen rozvojem tetanu a v souvislosti s [vývojem zánětu][5] trpí bolestí. [Vyhledání lékařského ošetření][6] je nejvhodnější následující pracovní den dopoledne. V případě trvající bolesti ihned.
 
 Lékař prst znecitliví (místním umrtvením) a tělísko odstraní – většinou je třeba snést nehet (laicky strhnout nehet). **Snesení nehtu po znecitlivění prstu nebolí.** Pak je nehtové lůžko ošetřeno a pacient je přeočkován (nebo je mu zkontrolováno očkování) proti tetanu. Po odborném odstranění nehtu **vyroste nový plnohodnotný (nezdeformovaný) nehet**.
 
@@ -58,7 +58,7 @@ Poranění prstu těžkým břemenem s částečným uvolněním nehtu _(luxace 
 
 **Poškození nehtového lůžka však není vidět.** Nehet zůstává celistvý a pevně lpí na jedné z částí poškozeného nehtového lůžka. Lékař ránu znecitliví, nehet bezbolestně odstraní a lůžko patřičně ošetří.
 
-Často bývá [poraněna i kost pod nehtem][6]. Většinou se láme nehtová drsnatina (část kosti posledního článku prstu).
+Často bývá [poraněna i kost pod nehtem][7]. Většinou se láme nehtová drsnatina (část kosti posledního článku prstu).
 
 ## n/a {id="otazky" var="inputvar-otazky_h"}
 
@@ -79,7 +79,8 @@ Seznam odkazů není k dispozici {var="linklist"}
 
  [1]: plisne_kuze
  [2]: zarustajici_nehty
- [3]: zanet
- [4]: bolest_v_krku_angina
- [5]: nalehavost_lekarskeho_vysetreni
- [6]: zlomeniny_kosti
+ [3]: mikroorganizmy
+ [4]: zanet
+ [5]: bolest_v_krku_angina
+ [6]: nalehavost_lekarskeho_vysetreni
+ [7]: zlomeniny_kosti

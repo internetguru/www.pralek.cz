@@ -72,7 +72,7 @@ První podmínkou úspěšné léčby je nic nejíst ani nepít (jako u všech n
   1. Někdy je třeba operovat slinivku zničenou agresivním enzymem již v akutním stavu,
   2. častěji se však operují až následky závažného onemocnění ([cysty slinivky břišní][16]).
 
-Jako následek devastujícího zánětu slinivky břišní se často objeví <cukrovka>.
+Jako následek devastujícího zánětu slinivky břišní se často objeví [cukrovka][2].
 
 ## n/a {id="otazky" var="inputvar-otazky_h"}
 
