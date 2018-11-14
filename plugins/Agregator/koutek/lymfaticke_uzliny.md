@@ -1,7 +1,7 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Ondřej Brzobohatý" authorid="jaroslav\_pavelka" id="lymfaticke\_uzliny" short="Lymfatické uzliny" ctime="2009-01-20" mtime="2009-01-20"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lymfaticke\_uzliny" short="Lymfatické uzliny" ctime="2009-01-20" mtime="2009-01-20"}
 
 # Zvětšené lymfatické uzliny
 
