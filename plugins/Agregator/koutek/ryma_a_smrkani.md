@@ -78,3 +78,4 @@ Seznam odkazů není k dispozici
  [6]: lekove_formy
  [7]: imunita
  [8]: kasel_a_typy_kasle
+.

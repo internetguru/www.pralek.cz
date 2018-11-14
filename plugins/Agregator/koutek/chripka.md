@@ -68,3 +68,4 @@ Seznam odkazů není k dispozici
  [6]: kasel_a_typy_kasle
  [7]: vodni_rezim
  [8]: funkcni_poruchy_traveni
+.

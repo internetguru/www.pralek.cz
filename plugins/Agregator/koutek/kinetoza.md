@@ -82,3 +82,4 @@ Seznam odkazů není k dispozici
 
  [1]: lekove_formy
  [2]: pece_o_zvukovod
+.

@@ -85,3 +85,4 @@ Seznam odkazů není k dispozici
  [7]: zarustajici_nehty
  [8]: ochlazeni_spaleniny
  [9]: zasady_spravneho_opalovani
+.

@@ -125,3 +125,4 @@ Seznam odkazů není k dispozici
  [14]: zlomeniny_kosti
  [15]: starecke_zlomeniny
  [16]: detske_zlomeniny
+.

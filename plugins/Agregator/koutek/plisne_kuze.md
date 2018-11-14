@@ -109,3 +109,4 @@ Seznam odkazů není k dispozici
  [9]: zanet
  [10]: krvaceni_z_konecniku
  [11]: cukrovka
+.

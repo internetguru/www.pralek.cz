@@ -64,3 +64,4 @@ Seznam odkazů není k dispozici
 
  [1]: onemocneni_slach
  [2]: lecba_zanetu
+.

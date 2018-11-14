@@ -83,3 +83,4 @@ Seznam odkazů není k dispozici
  [5]: mikroorganizmy
  [6]: lecba_zanetu
  [7]: nalehavost_lekarskeho_vysetreni
+.

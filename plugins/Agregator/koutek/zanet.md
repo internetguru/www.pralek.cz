@@ -144,3 +144,4 @@ Seznam odkazů není k dispozici
  [13]: zarustajici_nehty
  [14]: bolest_v_krku_angina
  [15]: leky_proti_bolesti
+.

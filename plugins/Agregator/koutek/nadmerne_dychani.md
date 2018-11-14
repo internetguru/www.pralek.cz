@@ -122,3 +122,4 @@ Seznam odkazů není k dispozici
  [3]: funkcni_poruchy_traveni
  [4]: mdloba_neboli_kolaps
  [5]: doktor_nebo_lecitel
+.

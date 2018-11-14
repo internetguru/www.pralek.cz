@@ -102,3 +102,4 @@ Seznam odkazů není k dispozici
  [1]: krecove_zily
  [2]: bercovy_vred
  [3]: darcovstvi_krve
+.

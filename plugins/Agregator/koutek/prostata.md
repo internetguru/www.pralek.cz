@@ -102,3 +102,4 @@ Seznam odkazů není k dispozici
  [6]: bolest_v_krku_angina
  [7]: nezhoubny_nebo_zhoubny_nador
  [8]: nalehavost_lekarskeho_vysetreni
+.

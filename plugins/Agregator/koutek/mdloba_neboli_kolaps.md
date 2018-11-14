@@ -84,3 +84,4 @@ Seznam odkazů není k dispozici
  [3]: resuscitace-ozivovani
  [4]: cukrovka
  [5]: srdecni_infarkt
+.

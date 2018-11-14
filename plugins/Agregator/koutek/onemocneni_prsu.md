@@ -97,3 +97,4 @@ Seznam odkazů není k dispozici
  [5]: znamenko-bradavice-rakovina
  [6]: lymfaticke_uzliny
  [7]: lecba_zanetu
+.

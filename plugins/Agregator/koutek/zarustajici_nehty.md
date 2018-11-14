@@ -80,3 +80,4 @@ Seznam odkazů není k dispozici
  [3]: zanet
  [4]: teplota
  [5]: lymfaticke_uzliny
+.

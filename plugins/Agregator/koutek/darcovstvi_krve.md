@@ -97,3 +97,4 @@ Seznam odkazů není k dispozici
  [1]: bodne_a_strelne_poraneni
  [2]: lymfaticke_uzliny
  [3]: mdloba_neboli_kolaps
+.

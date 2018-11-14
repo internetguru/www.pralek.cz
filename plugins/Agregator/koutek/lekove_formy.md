@@ -120,3 +120,4 @@ Seznam odkazů není k dispozici
  [11]: iktus
  [12]: ochlazeni_spaleniny
  [13]: artroza
+.

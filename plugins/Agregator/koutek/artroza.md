@@ -120,3 +120,4 @@ Seznam odkazů není k dispozici
  [5]: vhodna_obuv
  [6]: leky_proti_bolesti
  [7]: lekove_formy
+.

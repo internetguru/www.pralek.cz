@@ -136,3 +136,4 @@ Seznam odkazů není k dispozici
  [14]: lekove_formy
  [15]: leky_proti_bolesti
  [16]: nezhoubne_nadory
+.

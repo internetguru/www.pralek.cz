@@ -84,3 +84,4 @@ Seznam odkazů není k dispozici
  [2]: leky_proti_bolesti
  [3]: nalehavost_lekarskeho_vysetreni
  [4]: artroza
+.

@@ -94,3 +94,4 @@ Seznam odkazů není k dispozici
  [6]: lekove_formy
  [7]: teplota
  [8]: imunita
+.

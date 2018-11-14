@@ -89,3 +89,4 @@ Seznam odkazů není k dispozici
  [1]: podvrtnuti_kotniku
  [2]: zlomeniny_kosti
  [3]: nalehavost_lekarskeho_vysetreni
+.

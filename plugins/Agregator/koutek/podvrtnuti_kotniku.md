@@ -94,3 +94,4 @@ Seznam odkazů není k dispozici
  [1]: zlomeniny_kosti
  [2]: nalehavost_lekarskeho_vysetreni
  [3]: vhodna_obuv
+.

@@ -77,3 +77,4 @@ n/a
 Seznam odkazů není k dispozici
 
  [1]: onemocneni_slach
+.

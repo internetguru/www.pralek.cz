@@ -105,3 +105,4 @@ Seznam odkazů není k dispozici
  [4]: iktus
  [5]: mdloba_neboli_kolaps
  [6]: krevni_tlak
+.
