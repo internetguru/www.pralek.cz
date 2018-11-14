@@ -103,3 +103,4 @@ Seznam odkazů není k dispozici
  [3]: bodne_a_strelne_poraneni
  [4]: rychla_lekarska_pomoc
  [5]: drobna_krvava_poraneni
+

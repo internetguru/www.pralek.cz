@@ -76,3 +76,4 @@ Seznam odkazů není k dispozici
  [3]: rakovina_tlusteho_streva_a_konecniku
  [4]: lymfaticke_uzliny
  [5]: nezhoubny_nebo_zhoubny_nador
+

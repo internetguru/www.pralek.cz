@@ -95,3 +95,4 @@ Seznam odkazů není k dispozici
  [1]: zlomeniny_kosti
  [2]: urazy_deti
  [3]: nalehavost_lekarskeho_vysetreni
+

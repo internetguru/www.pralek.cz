@@ -82,3 +82,4 @@ Seznam odkazů není k dispozici
  [4]: mikroorganizmy
  [5]: karpalni_syndrom
  [6]: pneumotorax
+

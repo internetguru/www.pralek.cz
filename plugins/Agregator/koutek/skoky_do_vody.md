@@ -87,3 +87,4 @@ Seznam odkazů není k dispozici
 
  [1]: drobna_krvava_poraneni
  [2]: zlomeniny_kosti
+

@@ -75,3 +75,4 @@ Seznam odkazů není k dispozici
  [4]: lymfaticke_uzliny
  [5]: funkcni_poruchy_traveni
  [6]: strevni_nepruchodnost
+

@@ -83,3 +83,4 @@ Seznam odkazů není k dispozici
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: rychla_lekarska_pomoc
  [7]: akne
+

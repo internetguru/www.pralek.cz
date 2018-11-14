@@ -136,3 +136,4 @@ Seznam odkazů není k dispozici
  [3]: srdecni_infarkt
  [4]: iktus
  [5]: komplikace_vredu
+

@@ -99,3 +99,4 @@ Seznam odkazů není k dispozici
  [7]: mdloba_neboli_kolaps
  [8]: rychla_lekarska_pomoc
  [9]: darcovstvi_krve
+

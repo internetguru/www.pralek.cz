@@ -91,3 +91,4 @@ Seznam odkazů není k dispozici
  [2]: srdecni_infarkt
  [3]: mocove_kameny
  [4]: mdloba_neboli_kolaps
+

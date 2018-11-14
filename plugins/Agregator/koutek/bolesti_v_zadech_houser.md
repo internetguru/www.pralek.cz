@@ -98,3 +98,4 @@ Seznam odkazů není k dispozici
  [4]: onemocneni_slach
  [5]: leky_proti_bolesti
  [6]: nalehavost_lekarskeho_vysetreni
+

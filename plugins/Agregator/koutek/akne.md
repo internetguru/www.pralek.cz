@@ -84,3 +84,4 @@ Seznam odkazů není k dispozici
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: stravovaci_navyky
  [7]: vodni_rezim
+

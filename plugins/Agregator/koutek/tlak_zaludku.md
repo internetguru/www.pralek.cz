@@ -88,3 +88,4 @@ Seznam odkazů není k dispozici
  [4]: zaludecni_vredy
  [5]: komplikace_vredu
  [6]: zlucove_kameny
+

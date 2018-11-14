@@ -88,3 +88,4 @@ Seznam odkazů není k dispozici
  [3]: bolest_v_krku_angina
  [4]: zanet
  [5]: antibiotika
+

@@ -68,3 +68,4 @@ Seznam odkazů není k dispozici
  [1]: mikroorganizmy
  [2]: bolest_hlavy_migrena
  [3]: teplota
+

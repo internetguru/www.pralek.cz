@@ -78,3 +78,4 @@ Seznam odkazů není k dispozici
 
  [1]: stravovaci_navyky
  [2]: strevni_nepruchodnost
+

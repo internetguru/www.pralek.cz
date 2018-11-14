@@ -109,3 +109,4 @@ Seznam odkazů není k dispozici
  [12]: nalehavost_lekarskeho_vysetreni
  [13]: stravovaci_navyky
  [14]: krvaceni_z_konecniku
+

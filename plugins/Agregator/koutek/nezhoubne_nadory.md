@@ -130,3 +130,4 @@ Seznam odkazů není k dispozici
  [9]: onemocneni_slach
  [10]: akne
  [11]: bolest_v_krku_angina
+

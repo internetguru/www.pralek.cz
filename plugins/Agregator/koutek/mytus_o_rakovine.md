@@ -87,3 +87,4 @@ Seznam odkazů není k dispozici
  [11]: strevni_nepruchodnost
  [12]: funkcni_poruchy_traveni
  [13]: nezhoubny_nebo_zhoubny_nador
+

@@ -88,3 +88,4 @@ Seznam odkazů není k dispozici
 
  [1]: pneumotorax
  [2]: rychla_lekarska_pomoc
+

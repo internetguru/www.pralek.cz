@@ -111,3 +111,4 @@ n/a
 Seznam odkazů není k dispozici
 
  [1]: mdloba_neboli_kolaps
+

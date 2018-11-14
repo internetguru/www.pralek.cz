@@ -87,3 +87,4 @@ Seznam odkazů není k dispozici
  [3]: nezhoubne_nadory
  [4]: bodne_a_strelne_poraneni
  [5]: nalehavost_lekarskeho_vysetreni
+
