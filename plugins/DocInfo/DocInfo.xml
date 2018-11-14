@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocInfo>
+    <var modifyonly="modifyonly" id="docinfo">
+    <ul class="docinfo nomultiple global">
+      <li><span var="created">n/a</span></li>
+      <li><span var="modified">n/a</span></li>
+      <li><span var="responsible">n/a</span></li>
+      <li><span var="edit">n/a</span></li>
+      <li><a href="#" var="inputvar-ghedit">n/a</a></li>
+    </ul>
+  </var>
   <var modifyonly="modifyonly" id="created"><a href="" var="authorid@href author">n/a</a> na téma úrazy a nemoci, <span var="ctime" fn="inputvar-dateformat">n/a</span></var>
   <var modifyonly="modifyonly" id="modified">Tento článek byl revidován <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
 </DocInfo>
