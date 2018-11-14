@@ -1,13 +1,13 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lymfaticke\_uzliny" short="Lymfatické uzliny" ctime="2009-01-20" mtime="2009-01-20"}
+{author="Ondřej Brzobohatý" authorid="jaroslav\_pavelka" id="lymfaticke\_uzliny" short="Lymfatické uzliny" ctime="2009-01-20" mtime="2009-01-20"}
 
 # Zvětšené lymfatické uzliny
 
 {kw="uzliny, lymfatické uzliny, lymfa, cévy, mízní uzliny, zvětšené uzliny, hmatné uzliny, bolestivé uzliny"}
 
-Normální lymfatické uzliny nejsou bolestivé ani hmatné. Zvětšení nebo bolestivost uzliny má vždy svůj důvod, po kterém je třeba pátrat. Nejčastěji se jedná o zánět, bohužel někdy i o nádor.
+Normální lymfatické uzliny nejsou bolestivé ani hmatné. Zvětšení nebo bolestivost uzliny má vždy svůj důvod, po kterém je třeba pátrat. Nejčastěji se jedná o [zánět][5], bohužel někdy i o nádor.
 
 [Krevním oběhem][1] putuje v krevní plazmě směs krvinek a krevních destiček. Tepnami teče krev k cílovým orgánům a žílami zpět k srdci. Během předávání kyslíku a živin ve vlásečnici (přechod mezi tepnou a žílou) se plazma dostává do mezibuněčného prostoru. V případě setkání s většími částečkami, volnými buňkami nebo [produkty zánětu][2] se plazma do srdce nevrací žilním systémem, ale lymfatickým (mízním).
 
@@ -59,9 +59,9 @@ n/a
 {class="otazky"}
 
   1. K čemu slouží mízní cévy?
-  2. K čemu slouží mízní uzliny?
-  3. Proč zvětšená uzlina někdy bolí a někdy nebolí?
-  4. Co bývá nejčastější příčinou zvětšení podčelistních uzlin?
+  1. K čemu slouží mízní uzliny?
+  1. Proč zvětšená uzlina někdy bolí a někdy nebolí?
+  1. Co bývá nejčastější příčinou zvětšení podčelistních uzlin?
 
 {var="inputvar-odkazy_h" id="odkazy"}
 
