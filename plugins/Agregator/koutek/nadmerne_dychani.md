@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Nadměrné dýchání – předýchávání {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nadmerne\_dychani" short="Nadměrné dýchání" ctime="2012-02-05" mtime="2012-02-05"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nadmerne\_dychani" short="Nadměrné dýchání" ctime="2012-02-05" mtime="2012-02-05"}
+
+# Nadměrné dýchání – předýchávání
 
 Nadměrným dýcháním mohou vzniknout zdravotní potíže, porucha vědomí, bezvědomí a následně i závažná porucha zdraví. První pomocí při chorobném předýchávání je uklidnění pacienta nebo dýchání do sáčku. {class="description" kw="nadměrné dýchání, předýchávání, hyperventilace, brnění končetin, porucha vědomí, bezvědomí, dýchání do sáčku, neurocirkulační astenie, holotropní dýchání"}
 
@@ -11,7 +13,9 @@ Nadměrné dýchání způsobuje nežádoucí stav organizmu s různými projevy
 
 Někdy bývá potřeba šetřit dechem. Například potápěč během ponoru dýchá velmi pomalu a zhluboka, aby co nejdéle vydržel pod vodou se zásobou vzduchu. Jindy je třeba se naopak rozcvičit a hodně prodýchat, například před krátkodobým náročným sportovním výkonem. Takto změněné dýchání není ničím nebezpečné, sportovec přesně ví, co a proč dělá. {class="example"}
 
-## Chorobné nadměrné dýchání (hyperventilace) {id="chorobne\_nadmerne\_dychani_hyperventilace"}
+{id="chorobne\_nadmerne\_dychani_hyperventilace"}
+
+## Chorobné nadměrné dýchání (hyperventilace)
 
 n/a {class="description"}
 
@@ -40,7 +44,9 @@ Ve kterékoli fázi nadměrného dýchání vede strach z poruchy zdraví a poci
 
 Teprve po ztrátě vědomí pacient chvilku nedýchá vůbec nebo dýchá normálně a tedy pomalu. Tehdy je dech správně řízen mozkovým centrem a nikoli vůlí. Dočasnou zástavou nebo zpomalením dechu se postupně normalizují hodnoty krevních plynů a pacient se z bezvědomí sám (bez jakékoli pomoci) probere. Po nabytí plného vědomí může pacient opět ze stejného důvodu zrychlit dech a pak se stejné potíže mohou opakovat.
 
-## Léčba chorobně předýchávajícího člověka {id="lecba\_chorobne\_predychavajiciho_cloveka"}
+{id="lecba\_chorobne\_predychavajiciho_cloveka"}
+
+## Léčba chorobně předýchávajícího člověka
 
 n/a {class="description"}
 
@@ -48,7 +54,9 @@ Pomoc chorobně předýchávajícímu člověku spočívá v jeho zklidnění a 
 
 Rodina často nedokáže takto nemocného člověka zklidnit a volá záchranku. Profesionálové však postupují při pomoci naprosto identicky výše popsaným způsobem. Jestli se podobné potíže opakují, bývá nutné odborné vyšetření a nasazení zklidňujících léků.
 
-## Neurocirkulační astenie {id="neurocirkulacni_astenie"}
+{id="neurocirkulacni_astenie"}
+
+## Neurocirkulační astenie
 
 n/a {class="description"}
 
@@ -60,7 +68,9 @@ Bolek Polívka ve filmu Obecná škola nádherně ztvárňuje člověka trpící
 
 Řešení NCA závisí na typu člověka. Někomu postačí uvěřit lékaři, že potíže jsou psychického původu. Pak se mu může podařit ubránit se vzniku záchvatu „pouze“ vůlí. Jinému je třeba dlouhodobě podávat zklidňující (psychiatrické) léky.
 
-## Holotropní dýchání {id="holotropni_dychani"}
+{id="holotropni_dychani"}
+
+## Holotropní dýchání
 
 n/a {class="description"}
 
@@ -70,7 +80,9 @@ Vždy se jedná o **naprosto nevhodné a velmi nebezpečné experimenty**, kter�
 
 Je lépe tyto praktiky ponechat pravým [šamanům nebo léčitelům][5]. Tito „kouzelníci“ mají dlouhodobé zkušenosti se změněným vědomím (transem) způsobeným předýcháváním nebo drogou. Nemají však k dispozici výdobytky vědecké moderní medicíny.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -83,7 +95,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   5. Proč člověk sám nabude vědomí po jeho ztrátě způsobené předýcháním?
   6. Co je holotropní dýchání a co léčebného přináší?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

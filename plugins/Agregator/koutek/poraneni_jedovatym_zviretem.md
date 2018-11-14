@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Poranění jedovatým zvířetem {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_jedovatym_zviretem" short="Poranění jedovatým zvířetem" ctime="2007-12-11" mtime="2017-11-11"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_jedovatym_zviretem" short="Poranění jedovatým zvířetem" ctime="2007-12-11" mtime="2017-11-11"}
+
+# Poranění jedovatým zvířetem
 
 Kdo netrpí alergií, nemusí se obávat ani opakovaného poranění u nás žijícím hmyzem nebo hadem. Závažné alergické reakce na jed bodavého hmyzu (bodnutí žihadla) však přibývají. {class="description" kw="bodnutí, uštknutí, hmyz"}
 
@@ -11,7 +13,9 @@ Poranění hmyzem se vyhnout v zásadě nelze. Zvýšenou pozorností je však m
 
 Bodne-li vosa žihadlo do kořene jazyka nebo krku, začíná [u alergika][1] závod s časem a je nutné neprodleně [zavolat záchranku][2]! Přibývající otok [horních cest dýchacích][3] je možné zpomalit cucáním kousků ledu. {class="important"}
 
-## Bodnutí nebo kousnutí hmyzem {id="bodnuti\_nebo\_kousnuti_hmyzem"}
+{id="bodnuti\_nebo\_kousnuti_hmyzem"}
+
+## Bodnutí nebo kousnutí hmyzem
 
 Bodnutí včelím či vosím žihadlem lze **ošetřit ledovým obkladem, přiložením cibule nebo octa**. V případě zkušeností se zvýšenou (alergickou) reakcí je nutné neprodleně vyhledat lékařské ošetření. Nejedná-li se o alergickou reakci, lidský organismus si s jedem běžně poradí. {class="description"}
 
@@ -21,7 +25,9 @@ Lidem trpícím značnou reakcí na bodnutí hmyzem je potřeba [neprodleně zav
 
 Zvláštní kapitolou je **poranění drobným hmyzem** (mouchou či muškou), který není jedovatý a nemá žihadlo. Může však kousnutím do kůže [zanést infekci][5]. Takový kousanec zprvu pouze svědí, ale po několika dnech se projeví místním [rozvojem zánětu][6].
 
-## Uštknutí zmijí obecnou {id="ustknuti\_zmiji\_obecnou"}
+{id="ustknuti\_zmiji\_obecnou"}
+
+## Uštknutí zmijí obecnou
 
 **Zdravý člověk není uštknutím zmijí obecnou ohrožen na životě.** Při uštknutí je prvořadé pacienta zklidnit a zajistit klidný transport k ošetření. {class="description"}
 
@@ -31,7 +37,9 @@ První pomoc v případě uštknutí zmijí spočívá ve **zpomalení vstřebá
 
 Navzdory dříve doporučovanému postupu není vhodné ránu rozřezávat a vysávat. Jed by se dásněmi vstřebával a ohrožoval by zachránce. Času na lékařské ošetření je relativně dost. Sérum proti hadímu uštknutí se podává pouze výjimečně – v případě podezření na nepřiměřenou reakci.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -44,7 +52,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   5. Proč nerozřezávat ránu po kousnutí zmijí a nevysávat jed?
   6. Za jakých okolností se podává sérum proti uštknutí zmijí obecnou?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

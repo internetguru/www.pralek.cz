@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Obsah domácí lékárničky {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Lékárnička" id="lekarnicka" ctime="2015-08-13" mtime="2015-08-13"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Lékárnička" id="lekarnicka" ctime="2015-08-13" mtime="2015-08-13"}
+
+# Obsah domácí lékárničky
 
 Domácí lékárnička má obsahovat čisté nástroje, zdravotní materiál a ověřené, majiteli známé léky. Každá domácnost by si měla obsah lékárničky upravit podle svých zkušeností a individuálních potřeb. {class="description" kw="lékárnička, nástroje, zdravotní materiál, léky, autolékárnička, teploměr, pinzeta, kartáček, vyčištění rány, dezinfekce, obvaz, náplast, náplasťový steh, bolest, kašel, teplota"}
 
@@ -9,7 +11,9 @@ Níže vyjmenované nástroje a základní zdravotní materiál postačí k vyba
 
 Některé součásti domácí lékárničky mohou být použity v domácnosti i k jinému účelu než jen k ošetření úrazu. Pokud při úrazu v lékárničce něco chybí, lze to nahradit použitím autolékárničky – a to i mimo dopravní nehodu (na což se často zapomíná).
 
-## Nástroje {id="nastroje"}
+{id="nastroje"}
+
+## Nástroje
 
 n/a {class="description"}
 
@@ -31,7 +35,9 @@ Zubní kartáček
 
 Pokud není k dispozici dezinfekční sprej, je možné provést dezinfekci nástroje sežehnutím nad plamenem. Plamen nesmí být čadící (kvůli sazím) a nástroj se nemá zcela rozžhavit. {class="important"}
 
-## Zdravotní materiál {id="zdravotni_material"}
+{id="zdravotni_material"}
+
+## Zdravotní materiál
 
 n/a {class="description"}
 
@@ -60,7 +66,9 @@ Sterilní čtverečky _(hydrofilní gáza)_ různých velikostí
 
 Obvazový materiál by se po použití nikdy neměl vracet do lékárničky a to ani po vyprání. Největším nepřítelem obvazového materiálu je vlhkost. Pokud během ošetřování zmokne, je na místě ho nahradit novým. {class="important"}
 
-## Léky {id="leky"}
+{id="leky"}
+
+## Léky
 
 n/a {class="description"}
 
@@ -83,7 +91,9 @@ Oční voda
 
 Prošlé léky a masti do lékárničky nepatří a je nutné je odevzdat v lékárně. Často se stává, že si majitel ani nevzpomíná, proč některé léky vlastně dostal, proč je neužíval a k čemu měly sloužit.
 
-## Mimo lékárničku {id="mimo\_lekarnicku\_"}
+{id="mimo\_lekarnicku\_"}
+
+## Mimo lékárničku 
 
 n/a {class="description"}
 
@@ -91,7 +101,9 @@ V rámci první pomoci mohou být použity i nástroje běžné (denní) potřeb
 
 V mrazáku je dobré mít modrý chladivý gel _(kryoperlóza)_ nebo jeho náhražku – nadrobno nakrájenou zeleninu v plastovém sáčku. Obsah musí být tvárný aby přilnul ke chlazenému místu. Jen tak může dobře posloužit ke chlazení [spáleniny][13] nebo jakéhokoli počínajícího [místního zánětu][21]. 
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -103,7 +115,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Proč mít v lékárničce lék proti alergii, a to i pokud v domácnosti není žádný alergik?
   5. Jak se správně likvidují prošlé léky?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

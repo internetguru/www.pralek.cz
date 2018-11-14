@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Prevence a léčba žlučových kamenů {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlucove\_kameny" short="Žlučové kameny" ctime="2007-11-09" mtime="2016-06-18"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlucove\_kameny" short="Žlučové kameny" ctime="2007-11-09" mtime="2016-06-18"}
+
+# Prevence a léčba žlučových kamenů
 
 Žlučové kameny vznikají špatnými stravovacími návyky – zejména zapíjením jídla vodou. Operace žlučníku tvorbu dalších žlučových kamenů nezastaví. Jejich tvorbě zamezí až změna stravovacích návyků. {class="description" kw="žlučník, žlučové kameny, žlučové cesty, bolest v pravém podžebří, operace"}
 
 Jedním z nejhorších [stravovacích zlozvyků][1] je **zapíjení tučného jídla studenou vodou**. To v důsledku vede k poruše trávení a tvorbě žlučových kamenů.
 
-## Vznik žlučových kamenů {id="vznik\_zlucovych\_kamenu"}
+{id="vznik\_zlucovych\_kamenu"}
+
+## Vznik žlučových kamenů
 
 Odplavení trávicích šťáv a sražení tuků pitím studené vody při jídle narušuje trávicí proces. Důsledkem je hromadění žluči ve žlučníku a její koncentrace. Vznik žlučových kamenů je jen otázkou času. {class="description"}
 
@@ -17,7 +21,9 @@ Přítomnost nedostatečně natrávené stravy ve střevě reflexivně způsobí
 
 Aperitiv před jídlem je vhodný, protože ten naopak tvorbu trávicích šťáv podpoří. Při jídle lze tolerovat pivo či víno, neboť nesráží tuky jako studená voda. Podobně neagresivně funguje i teplý čaj, ale ten raději vypít až po jídle. {class="example"}
 
-## Potíže se žlučníkem a jejich řešení {id="potize\_se\_zlucnikem\_a\_jejich_reseni"}
+{id="potize\_se\_zlucnikem\_a\_jejich_reseni"}
+
+## Potíže se žlučníkem a jejich řešení
 
 V případě potíží spojených s jídlem je vhodné žlučové kameny prokázat ultrazvukem. Žlučové kameny se odstraňují operačně po (dočasném) ustoupení potíží. Jiné řešení neexistuje. {class="description"}
 
@@ -32,7 +38,9 @@ Po dodržení určité diety zpravidla veškeré potíže dočasně ustoupí. Ka
 
 Na rozdíl od [močových kamenů][4] není možné žlučové kameny rozpouštět chemickou cestou. Složení žluči lze totiž na rozdíl od moči těžko ovlivnit. Rozbíjení žlučových kamenů ultrazvukem na menší se také neprovádí. Drobné kamínky by mohly ucpat žlučové cesty, což by způsobilo velmi závažné problémy.
 
-## Operace a komplikace žlučových kamenů {id="operace\_a\_komplikace\_zlucovych\_kamenu"}
+{id="operace\_a\_komplikace\_zlucovych\_kamenu"}
+
+## Operace a komplikace žlučových kamenů
 
 Po jednoduchém operačním odstranění žlučníku s kameny převezmou jeho roli žlučové cesty. Pokud pacient změní dosavadní chybné stravovací návyky, potíže se nevrátí. {class="description"}
 
@@ -44,7 +52,9 @@ Jestliže pacient nezmění způsob stravování, mohou se žlučové kameny tvo
 
 Strach z operace a dočasný ústup potíží vedou k nutkání nejít na operaci vůbec. **Kamínky ve žlučníku však mohou způsobit komplikace**, jako je otlak a [zánět][5] žlučníku. Mohou se i uvolnit a zapadnout dále do žlučových cest nebo do střeva a zde působit jako [nepřekonatelná překážka][6]. **Operace neprůchodných žlučových cest bývá složitější a nebezpečnější, navíc s komplikovanějším průběhem.**
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -55,7 +65,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Proč zapíjení dobrého sýra dobrým vínem neškodí zažívání?
   4. Jak se kameny ve žlučníku projevují?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

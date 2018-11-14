@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Střevní neprůchodnost bývá komplikací jiné choroby {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="strevni\_nepruchodnost" short="Střevní neprůchodnost" ctime="2013-02-16" mtime="2013-02-16"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="strevni\_nepruchodnost" short="Střevní neprůchodnost" ctime="2013-02-16" mtime="2013-02-16"}
+
+# Střevní neprůchodnost bývá komplikací jiné choroby
 
 Střevní neprůchodnost (laicky zauzlení střev) je stav, při kterém dochází k zástavě posunu střevního obsahu v trávicím traktu. Nemocný velmi nepříjemně vnímá nadýmání, zástavu odchodu větrů a stolice a později i zvrací. {class="description" kw="střevo, střevní neprůchodnost, větry, zástava větrů, zástava stolice, nafouklé břicho, kolostomie"}
 
 Omezení nebo zástava střevní pasáže (průchodnosti střeva) bývá jednou z příčin bolestí břicha. Jedná se o závažné onemocnění zvané _ileus_. Rozvinutý _ileus_ se řadí mezi náhlé příhody břišní a téměř vždy je k záchraně života nutné operační řešení.
 
-## Jak se rozpozná vyvíjející se ileus {id="jak\_se\_rozpozna\_vyvijejici\_se_ileus"}
+{id="jak\_se\_rozpozna\_vyvijejici\_se_ileus"}
+
+## Jak se rozpozná vyvíjející se ileus
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ Stav označovaný jako „počínající ileus“ může být projevem pouhé [f
 
 Má-li však střevo skutečnou překážku, pak je _subileus_ jen začátkem potíží, které se časem vystupňují v **úplný střevní uzávěr** _(ileozní stav)_. Tehdy je celé břicho silně vzedmuté (nafouklé), neodcházejí větry ani stolice a pacient opakovaně zvrací.
 
-## Příčiny vzniku střevní neprůchodnosti {id="priciny\_vzniku\_strevni_nepruchodnosti"}
+{id="priciny\_vzniku\_strevni_nepruchodnosti"}
+
+## Příčiny vzniku střevní neprůchodnosti
 
 n/a {class="description"}
 
@@ -50,7 +56,9 @@ Střevní neprůchodnost _(ileus)_ bývá způsobena mechanickou překážkou. P
 
 Od funkční nebo počínající střevní zástavy je nutné odlišit prostou zácpu a nadýmání po požití nevhodného jídla nebo z pouhého [nedostatku tekutin][16]. Je také velmi těžké odlišit _funkční ileus_ od jiného. Ošetřující lékař musí opakovaně kontrolovat stav a v pravou chvíli se rozhodnout pro operaci nebo jinou léčbu.
 
-## Léčba střevní neprůchodnosti {id="lecba\_strevni\_nepruchodnosti"}
+{id="lecba\_strevni\_nepruchodnosti"}
+
+## Léčba střevní neprůchodnosti
 
 n/a {class="description"}
 
@@ -58,7 +66,9 @@ Pacienta se střevní neprůchodností musí vyšetřit zkušený lékař, nejl�
 
 Při operaci střevní neprůchodnosti se vždy chirurg snaží odstranit překážku. Při manipulaci s nepřipraveným tlustým střevem musí být vždy alespoň dočasně založen [vývod střeva bokem _(kolostomie)_][3]. Často následuje definitivní operační řešení problému s časovým odstupem několika týdnů až měsíců, kdy je možnost tlusté střevo na operaci připravit (vypláchnout a zbavit bakterií).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -70,7 +80,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jak lze rozlišit počínající ileus od pouhé funkční poruchy trávení?
   5. Proč nelze akutní neprůchodnosti tlustého střeva vyřešit jedinou operací?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Stravovací návyky a trávicí systém {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="stravovaci\_navyky" short="Stravovací návyky" ctime="2009-09-01" mtime="2009-09-01"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="stravovaci\_navyky" short="Stravovací návyky" ctime="2009-09-01" mtime="2009-09-01"}
+
+# Stravovací návyky a trávicí systém
 
 Zdravý člověk má obrovské rezervy, může jíst a pít kdykoli a cokoli a trávení nevnímá. V případě vyčerpání rezerv a pocitu potíží v souvislosti s jídlem je třeba pátrat ve stravovacích návycích dříve, než začít užívat léky podporující trávení. {class="description" kw="trávicí systém, stravovací návyky, trávicí enzymy, trávení, ústrojné látky, peristaltika, pocit plnosti, léky, dráždivá jídla, žluč, stravování, dvanáctník, tračník"}
 
@@ -13,7 +15,9 @@ Lenoch, který je trvale na válendě, bude tloustnout, přestože se bude živi
 
 Některé látky si organizmus vyrobit neumí (esenciální bílkoviny, vitamíny a minerály). Ty je potřeba tělu dodávat; ideálně příjmem různorodé stravy. Není tedy až tak důležité, zda bude strava spíše sladká, bílkovinná nebo tučná, masitá nebo bezmasá – ale bude-li **strava dlouhodobě různotvárná**.
 
-## Proces trávení {id="proces_traveni"}
+{id="proces_traveni"}
+
+## Proces trávení
 
 n/a {class="description"}
 
@@ -33,7 +37,9 @@ Zapíjením jídla vodou se zmíněné enzymy a kyselina zbytečně ředí a odp
 
 **Nevstřebané zbytky potravy postupují do tlustého střeva** (tračník). Zde je pomocí zcela jiných [bakteriálních kmenů][6] dokončeno vstřebávání potravy a následuje zpětné vstřebávání tekutin a formování stolice. Ta je uložena v esovité kličce a při vyprazdňování (defekaci) vychází z konečníku řitním otvorem.
 
-## Zásady správného stravování {id="zasady\_spravneho\_stravovani"}
+{id="zasady\_spravneho\_stravovani"}
+
+## Zásady správného stravování
 
 n/a {class="description"}
 
@@ -50,7 +56,9 @@ n/a {class="description"}
 
 Těžko stravitelná a dráždivá jídla zůstávají v žaludku mnohem déle, než jídla snadno stravitelná. Mezi těžká jídla patří červené maso, houby, smažené tučné potraviny, slupky rajčat a semínka jahod či špatně rozkousaná strava. Snadno stravitelná jídla jsou dobře tepelně upravené bílé maso a zelenina bez voskových slupek, ovocná dužina, brambory. {class="example"}
 
-## Nejčastější chyby ve stravování {id="nejcastejsi\_chyby\_ve_stravovani"}
+{id="nejcastejsi\_chyby\_ve_stravovani"}
+
+## Nejčastější chyby ve stravování
 
 n/a {class="description"}
 
@@ -63,7 +71,9 @@ n/a {class="description"}
   * Polykání příliš horkých nebo studených jídel a nápojů.
   * Fyzická aktivita nebo spánek bezprostředně po hlavním jídle.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -78,7 +88,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   7. Ve které části dochází k největšímu vstřebávání živin?
   8. Kde se vstřebává hlavně voda?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

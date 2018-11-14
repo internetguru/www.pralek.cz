@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Prostata: potíže s močením {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="prostata" short="Prostata" ctime="2011-02-20" mtime="2011-02-20"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="prostata" short="Prostata" ctime="2011-02-20" mtime="2011-02-20"}
+
+# Prostata: potíže s močením
 
 Zvětšená prostata je nejčastější příčinou potíží s močením. Při léčení jakýchkoli potíží s prostatou provádí urolog taková vyšetření, která prokáží nebo vyloučí i rakovinu prostaty. Největší problém tedy hrozí, jestliže se pacient se svými problémy vůbec neléčí. {class="description" kw="prostata, močení, zvětšená prostata, rakovina, předstojná žláza, ejakulát, semenné váčky, varlata, zánět, moč, hypertrofie prostaty, cévkování, karcinom prostaty"}
 
@@ -9,7 +11,9 @@ Zvětšená prostata je nejčastější příčinou potíží s močením. Při 
 
 Vlivem působení pohlavních hormonů v pubertě prostata narůstá přibližně do velikosti švestky. Během života se dále lehce zvětšuje.
 
-## Funkce prostaty {id="funkce_prostaty"}
+{id="funkce_prostaty"}
+
+## Funkce prostaty
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ V prostatě se tvoří sekret, který je podstatnou součástí ejakulátu. Tent
 
 V těsné blízkosti prostaty jsou semenné váčky. Ve váčcích jsou uchovávány spermie, které se od puberty nepřetržitě tvoří ve varlatech. Při výronu semene se opakovanými stahy prostata a semenné váčky vyprazdňují a ejakulát je vypuzován močovou trubicí z těla.
 
-## Zánětlivé onemocnění prostaty {id="zanetlive\_onemocneni\_prostaty"}
+{id="zanetlive\_onemocneni\_prostaty"}
+
+## Zánětlivé onemocnění prostaty
 
 n/a {class="description"}
 
@@ -32,7 +38,9 @@ n/a {class="description"}
       * Projevuje se potížemi při močení, slabým proudem moči a bolestmi konečníku vlivem tlaku zánětlivě zvětšené prostaty.
       * Je velmi špatně léčitelné a vracející se (recidivující) onemocnění. [Často se vracívá po prochlazení][6].
 
-## Nezánětlivé onemocnění prostaty {id="nezanetlive\_onemocneni\_prostaty"}
+{id="nezanetlive\_onemocneni\_prostaty"}
+
+## Nezánětlivé onemocnění prostaty
 
 n/a {class="description"}
 
@@ -47,13 +55,17 @@ Nezánětlivé zvětšení prostaty _(hypertrofie prostaty)_ je časté onemocn�
       * Následně urolog provede patřičná vyšetření a dle výsledků doporučí další léčení.
       * Jednou z možností léčení značně zvětšené prostaty je i její operační odstranění, které pacienta nikterak neinvalidizuje (ani v sexuálním životě).
 
-## Zhoubný nádor prostaty (rakovina prostaty, karcinom prostaty) {id="zhoubny\_nador\_prostaty\_rakovina\_prostaty\_karcinom\_prostaty"}
+{id="zhoubny\_nador\_prostaty\_rakovina\_prostaty\_karcinom\_prostaty"}
+
+## Zhoubný nádor prostaty (rakovina prostaty, karcinom prostaty)
 
 n/a {class="description"}
 
 Rakovina prostaty se projevuje podobnými potížemi jako zvětšená prostata. Postihuje muže vyššího věku a je dobře léčitelná, je-li odhalena včas. [Druhotná ložiska _(metastázy)_ rakoviny prostaty][7] totiž vznikají až v pokročilejším stádiu (tvoří se v plicích, v kostech a v mozku). Proto je nutné **s vyšetřením prostaty neotálet**.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -66,7 +78,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   5. Jakým zákrokem je řešena zástava močení?
   6. Proč je nutné neotálet s vyšetřením při potížích s prostatou?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

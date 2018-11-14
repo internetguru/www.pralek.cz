@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Bodné a střelné poranění a jeho závažnost {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bodne\_a\_strelne\_poraneni" short="Bodné a střelné poranění" ctime="2009-05-15" mtime="2009-05-15"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bodne\_a\_strelne\_poraneni" short="Bodné a střelné poranění" ctime="2009-05-15" mtime="2009-05-15"}
+
+# Bodné a střelné poranění a jeho závažnost
 
 Poranění zabodnutým předmětem nebo zástřel je natolik závažné, jak a které vnitřní orgány jsou poškozeny. {class="description" kw="bodné poranění, střelné poranění, poranění, zástřel, poranění tupým předmětem, poranění ostrým předmětem, hybnost a čití prstů, střelné poranění"}
 
-## Poranění tupým předmětem {id="poraneni\_tupym\_predmetem"}
+{id="poraneni\_tupym\_predmetem"}
+
+## Poranění tupým předmětem
 
 n/a {class="description"}
 
@@ -13,7 +17,9 @@ Zabodnutý předmět do kůže (nejčastěji hřebík, šroubovák, tupý nůž)
 
 Kůže jej velmi pevně drží, kolem zabodnutého předmětu je velmi napjatá. K odstranění předmětu bývá nutné znecitlivění okolí, drobné naříznutí otvoru (jeho zvětšení) a následně snadné vyproštění předmětu.
 
-## Poranění ostrým předmětem {id="poraneni\_ostrym\_predmetem"}
+{id="poraneni\_ostrym\_predmetem"}
+
+## Poranění ostrým předmětem
 
 n/a {class="description"}
 
@@ -23,7 +29,9 @@ Velmi ostré jsou skleněné střepy, které při pronikání kůži řežou pod
 
 **[Drobná ranka][1] na zápěstí může souviset se závažným poraněním šlach, cév nebo nervů.** [Při poranění ruky][2] je třeba vždy vyzkoušet hybnost a čití prstů. V prstech totiž nejsou žádné svaly. Prsty jsou složeny pouze z kostí, kloubů, vazů, šlach, tuku, kůže a nehtů. Svaly, které prsty pohybují jsou uloženy na předloktí a k prstům vedou pevné šlachy, které pohyb přenáší. V případě přerušení některé šlachy nelze provést pohyb příslušným prstem.
 
-## Zabodnutý nebo uvízlý předmět v těle {id="zabodnuty\_nebo\_uvizly\_predmet\_v_tele"}
+{id="zabodnuty\_nebo\_uvizly\_predmet\_v_tele"}
+
+## Zabodnutý nebo uvízlý předmět v těle
 
 n/a {class="description"}
 
@@ -37,7 +45,9 @@ Spojují se roztříštěné kosti, sešívají se porušené cévy, šlachy, sv
 
 Zapíchnuté silnější předměty (jako např. šíp, drát, větev) není vhodné při první pomoci z těla vůbec uvolňovat, ale naopak transportovat poraněného k ošetření i se zapíchnutým předmětem.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -48,7 +58,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Proč není nutné vždy odstraňovat v těle uvízlé kovové střepiny?
   4. S čím může souviset drobná ranka na zápěstí?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

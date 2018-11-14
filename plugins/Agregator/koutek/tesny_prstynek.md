@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Prstýnek na oteklém prstu {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tesny\_prstynek" short="Těsný prstýnek" ctime="2015-05-28" mtime="2015-05-28"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tesny\_prstynek" short="Těsný prstýnek" ctime="2015-05-28" mtime="2015-05-28"}
+
+# Prstýnek na oteklém prstu
 
 Včasné odstranění prstýnku z poraněné končetiny zabrání vzniku zdravotních komplikací. Ty mohou ve spojení s neléčeným škrtícím prstenem vést až ke ztrátě prstu. Přeštípnutí nebo přeříznutí prstýnku na nemocném prstu může být obtížné. {class="description" kw="poraněná končetina, prstýnek, oteklý prst, odstranění prstýnku, sejmutí prstýnku, úraz, škrtící prstýnek, přeštípnutí"}
 
@@ -11,7 +13,9 @@ Jakýkoli léčebný zákrok na nemocné nebo zraněné končetině **začíná 
 
 K otoku prstů ruky může dojít nejen následkem úrazu, ale i např. po delším pochodu nebo následkem infekce pod prstýnkem. Proto je potřeba prstýnek pravidelně sundávat dříve než vzniknou potíže. Kůži pod prstýnkem je nutné omývat vodou a mýdlem. Nanesení příjemného krému rovněž pomáhá předejít vzniku [nepříjemné svědivé plísně][2] pod prstýnkem. {class="example"}
 
-## Nebezpečí škrtícího prstýnku {id="nebezpeci\_skrticiho\_prstynku"}
+{id="nebezpeci\_skrticiho\_prstynku"}
+
+## Nebezpečí škrtícího prstýnku
 
 n/a {class="description"}
 
@@ -19,7 +23,9 @@ Prsty [koluje krev][3] stejně jako všemi orgány – tepnami od srdce do prst�
 
 Čím dříve se z nemocné ruky prstýnek sundá, tím menší je riziko vzniku komplikací. V případě neléčení utiskovaného prstu může dojít k dalšímu narůstání otoku až k následnému odumření prstu.
 
-## Možnosti nestandardního odstranění prstýnku {id="moznosti\_nestandardniho\_odstraneni_prstynku"}
+{id="moznosti\_nestandardniho\_odstraneni_prstynku"}
+
+## Možnosti nestandardního odstranění prstýnku
 
 n/a {class="description"}
 
@@ -32,7 +38,9 @@ Prstýnek se z oteklého prstu sundavá vždy ve snaze, aby zůstal nepoškozen�
       * Prsten z kvalitní tvrdé oceli nelze na oteklém prstu přeštípnout, protože je tvrdší než ostří dostupných kleští. Velkými kleštěmi na zámky nelze pochopitelně na oteklém prstu manipulovat, nelze použít ani rozbrušovačku nebo flexu pro nebezpečí poranění prstu.
       * Po přeříznutí prstýnku přichází ještě problém, jak prsten na nemocném prstu roztáhnout, a jak ho bezpečně z prstu sejmout.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -43,7 +51,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Jak se provádí sejmutí těsného prstýnku pomocí pevné nitě?
   4. Jak se odstraňuje prsten z tvrdého kovu (z chirurgické oceli), který není možné přeštípnout kleštěmi?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

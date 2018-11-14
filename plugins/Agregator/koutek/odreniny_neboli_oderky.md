@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Odřeniny – proč je nutné mechanicky vyčistit oděrku {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odreniny\_neboli_oderky" short="Odřeniny neboli oděrky" ctime="2012-11-03" mtime="2012-11-03"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odreniny\_neboli_oderky" short="Odřeniny neboli oděrky" ctime="2012-11-03" mtime="2012-11-03"}
+
+# Odřeniny – proč je nutné mechanicky vyčistit oděrku
 
 Plošné oděrky vznikají nejčastěji při různých sportovních aktivitách. Jejich důsledné mechanické vyčištění je důležitým krokem léčení. Nečistoty vrostlé do kůže by se jinak staly trvalou hyzdící vzpomínkou na úraz. {class="description" kw="odřenina, znečištěná oděrka, ošetření rány, odřené koleno, odřená brada, první pomoc, kartáček, vyčištění rány"}
 
 Plošná oděrka vzniká zbroušením povrchu kůže nejčastěji [pádem člověka na vozovku][1] – většinou běžícího či rychle se pohybujícího. Nejčastější příčinou takového pádu bývá nepozornost. Velikost plochy oděrky není tak podstatná, jako její hloubka a míra znečištění.
 
-## Plošné oděrky a jejich závažnost {id="plosne\_oderky\_a\_jejich\_zavaznost"}
+{id="plosne\_oderky\_a\_jejich\_zavaznost"}
+
+## Plošné oděrky a jejich závažnost
 
 n/a {class="description"}
 
@@ -20,7 +24,9 @@ Plošné oděrky nebývají nebezpečné, jsou však nepříjemné a velmi boles
 
 Oděrku je možné vyčistit a ošetřit svépomocí podle úrovně vnímání bolesti zraněného a podle jejího rozsahu a hloubky. V případě nejistoty je možné s jakoukoli oděrkou [vyhledat ošetření lékařem][5] (nejlépe chirurgem).
 
-## Léčení a hojení oděrek {id="leceni\_a\_hojeni_oderek"}
+{id="leceni\_a\_hojeni_oderek"}
+
+## Léčení a hojení oděrek
 
 n/a {class="description"}
 
@@ -38,7 +44,9 @@ Léčení oděrky je možné urychlit např. roztokem Novikova (lze zakoupit v l
 
 Hluboké oděrky obzvlášť s poraněním kostí jsou ošetřovány na chirurgii v místním nebo i v celkovém znecitlivění. Součásti léčení hlubokých oděrek je desinfekce oděrky, odstranění nečistot, cárů kůže a poškozených tkání. Následuje ošetření zbroušené kosti, zašití kožního defektu, [nasazení antibiotik][6], krytí oděrky vhodným materiálem a přeočkování proti tetanu.
 
-## Prevence vzniku oděrek {id="prevence\_vzniku\_oderek"}
+{id="prevence\_vzniku\_oderek"}
+
+## Prevence vzniku oděrek
 
 n/a {class="description"}
 
@@ -46,7 +54,9 @@ Navlečení dítěte od hlavy až k patě do chráničů při každé procházce
 
 Ani sebelepší ochranné pomůcky či sebelepší osvěta nikdy zcela nezaručí, že k oděrce nedojde. Proto je dobré s oděrkami počítat a být na ně připraven. Mnohem více hrozí oděrky rekreačním sportovcům a začátečníkům než profesionálům, protože je pád často překvapí.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -57,7 +67,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Proč se poraní častěji rekreační sportovec než profesionál?
   4. Proč velmi povrchová oděrka nekrvácí?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

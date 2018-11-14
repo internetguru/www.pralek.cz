@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Nezhoubný nebo zhoubný nádor: obecné srovnání {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubny\_nebo\_zhoubny\_nador" short="Nezhoubný nebo zhoubný nádor" ctime="2010-05-23" mtime="2010-05-23"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubny\_nebo\_zhoubny\_nador" short="Nezhoubný nebo zhoubný nádor" ctime="2010-05-23" mtime="2010-05-23"}
+
+# Nezhoubný nebo zhoubný nádor: obecné srovnání
 
 Nezhoubný nádor není nebezpečný a lze jej snadno odstranit. Včasně odhalená a léčená rakovina (zhoubný nádor) je rovněž léčitelná. Když však není včas odhalena, pacienta zahubí. {class="description" kw="nezhoubný nádor, zhoubný nádor, rakovina, růst nádoru, bolest, druhotná ložiska, metastázy"}
 
-## Nezhoubný nádor {id="nezhoubny_nador"}
+{id="nezhoubny_nador"}
+
+## Nezhoubný nádor
 
 n/a {class="description"}
 
@@ -24,7 +28,9 @@ n/a {class="description"}
       * Může se však za určitých podmínek proměnit ve zhoubný nádor.
   * lze většinou poměrně snadno chirurgicky odstranit.
 
-## Zhoubný nádor – rakovina {id="zhoubny_nador-rakovina"}
+{id="zhoubny_nador-rakovina"}
+
+## Zhoubný nádor – rakovina
 
 n/a {class="description"}
 
@@ -47,7 +53,9 @@ Byla prokázána souvislost mezi zhoubným nádorem a výskytem určitého konkr
 
 Mnohé zhoubné nádory se vyskytují pouze v určitých oblastech. Například Japonka v Japonsku nikdy neonemocní rakovinou prsu. Odstěhuje-li se však do USA, její dcera narozená v Americe rakovinou prsu onemocní se stejnou pravděpodobností, jako jiná Američanka. Příčina není známá. {class="example"}
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -58,7 +66,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Za jakých okolností bolí nezhoubný nádor?
   4. Co to je metastáza?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

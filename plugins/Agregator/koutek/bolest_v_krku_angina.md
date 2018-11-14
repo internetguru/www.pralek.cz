@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Bolest v krku, nachlazení, angína {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_v\_krku\_angina" short="Bolest v krku" ctime="2008-12-09" mtime="2008-12-09"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_v\_krku\_angina" short="Bolest v krku" ctime="2008-12-09" mtime="2008-12-09"}
+
+# Bolest v krku, nachlazení, angína
 
 Bolesti v krku mohou přejít v angínu; pro připravený organizmus zvládnutelnou. Až teprve komplikace angíny mohou způsobit trvalé poškození zdraví. {class="description" kw="bolest, nachlazení, angína, infekce, sliznice, prochlazení, uzliny, zánět, mandle"}
 
 [Horní cesty dýchací][1] jsou častou vstupní bránou infekce. Nemocný člověk může [svou chorobu přenášet][2] na ostatní lidi kašlem a kýcháním – kapénkovou infekcí. Vývoj a závažnost onemocnění je [závislá na imunitě][3] (obranyschopnosti) organizmu. **Imunita vzniká a narůstá stykem organizmu s choroboplodnými zárodky.**
 
-## Bolest v krku, příčina a léčení {id="bolest\_v\_krku\_pricina\_a_leceni"}
+{id="bolest\_v\_krku\_pricina\_a_leceni"}
+
+## Bolest v krku, příčina a léčení
 
 n/a {class="description"}
 
@@ -19,7 +23,9 @@ Tento stav boje zvláštních bílých krvinek proti mikroorganizmům ve sliznic
 
 Pomůže odpočinek, nejlépe klid na lůžku, [dostatek tekutin][9] a vitamínu C. Někomu pomáhá kloktání slabé vlažné desinfekce nebo minerálky. **Antibiotika v této fázi onemocnění nepomohou.** V případě, že organizmus infekci nezvládne, může se následně vyvinout angína.
 
-## Vznik a průběh angíny {id="vznik\_a\_prubeh_anginy"}
+{id="vznik\_a\_prubeh_anginy"}
+
+## Vznik a průběh angíny
 
 n/a {class="description"}
 
@@ -29,7 +35,9 @@ Stále živé **bacily se hromadí v mandlích** a hromadí se zde i bílé krvi
 
 **Boj mezi krvinkami a bacily se později projeví tvorbou hnisu**, což jsou odumřelé mikroby a boji podlehnuvší bílé krvinky a další odumřelé buňky. Hnis je vstřebáván nebo se vyplavuje chodbičkami v mandlích a je polykán nebo se vytvoří [absces (dutina vyplněná hnisem)][11], který bývá nutné ošetřit chirurgicky.
 
-## Komplikace a léčení angíny {id="komplikace\_a\_leceni_anginy"}
+{id="komplikace\_a\_leceni_anginy"}
+
+## Komplikace a léčení angíny
 
 n/a {class="description"}
 
@@ -41,7 +49,9 @@ Po vyléčení z angíny mohou **přetrvávat změny na mandlích** (zvětšení
 
 V dobách, kdy antibiotika nebyla se jistě vyskytovalo více komplikací angín (včetně smrtelných). Dnes je na zvážení odborného lékaře, zda, kdy, jaké antibiotikum, v jaké dávce a na jak dlouho nasadit (nejlépe podle kultivace a citlivosti vyzkoušených v laboratoři).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -53,7 +63,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaké mohou vzniknout komplikace angíny?
   5. Co nahradí funkci krčních mandlí po jejich odstranění?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

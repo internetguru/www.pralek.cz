@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Resuscitace neboli oživování {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="resuscitace-ozivovani" short="Resuscitace" ctime="2008-04-20" mtime="2008-04-20"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="resuscitace-ozivovani" short="Resuscitace" ctime="2008-04-20" mtime="2008-04-20"}
+
+# Resuscitace neboli oživování
 
 V případě vyhasnutí základních životních funkcí zachrání život neodkladné zahájení srdeční masáže ještě před příjezdem lékaře. {class="description" kw="resuscitace, oživování, srdeční masáž, umělé dýchání, akce srdeční, dýchání, zástava srdce, zástava dechu, dýchací cesty"}
 
@@ -16,7 +18,9 @@ Nejčastější příčiny vymizení základních životních funkcí jsou
   * [srdeční infarkt][3];
   * těžká otrava;
 
-## Rozpoznání vymizení základních životních funkcí {id="rozpoznani\_vymizeni\_zakladnich\_zivotnich\_funkci"}
+{id="rozpoznani\_vymizeni\_zakladnich\_zivotnich\_funkci"}
+
+## Rozpoznání vymizení základních životních funkcí
 
 n/a {class="description"}
 
@@ -27,7 +31,9 @@ Celkově bledý obličej nabývá nádech domodra. Zvláště modrají rty, nos,
 
 V případě zástavy srdeční akce a bezdeší je třeba neprodleně zahájit oživování.
 
-## Proces oživování {id="proces_ozivovani"}
+{id="proces_ozivovani"}
+
+## Proces oživování
 
 n/a {class="description"}
 
@@ -46,7 +52,9 @@ V takovém případě uvolnění dýchacích cest u ležícího člověka a pozv
 
 **Zkolabovaný člověk se zachovanými základními životními funkcemi** (to je dýchání a akce srdeční) resuscitaci nepotřebuje.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -57,7 +65,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Proč je srdeční masáž důležitější než dýchání?
   4. Proč zkolabovaný člověk nemá být resuscitován?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Poranění nehtu {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu" ctime="2011-11-30" mtime="2011-11-30"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu" ctime="2011-11-30" mtime="2011-11-30"}
+
+# Poranění nehtu
 
 Úrazy nehtů bývají pro domnělou malichernost podceňované a ze strachu z bolestivosti ošetření zanedbávané. Neošetřená poranění nehtů však vedou ke zbytečným doživotním deformitám. {class="description" kw="deformita nehtu, tříska pod nehtem, úraz, odchlípnutí nehtu, stržení nehtu, hnis pod nehtem, krev pod nehtem, stržení nehtu, snesení nehtu, provrtání nehtu"}
 
@@ -13,7 +15,9 @@ Při úrazu nehtu se často poraní:
   2. [nehtové valy][2] (ležících po stranách nehtů) a někdy dokonce
   3. nehtové ploténky (zvláštní struktura, ze které vyrůstá nehet).
 
-## Tříska pod nehtem {id="triska\_pod\_nehtem"}
+{id="triska\_pod\_nehtem"}
+
+## Tříska pod nehtem
 
 n/a {class="description"}
 
@@ -32,7 +36,9 @@ Lékař prst znecitliví (místním umrtvením) a tělísko odstraní – větš
 
 Snesení nehtu (laicky stržení nehtu) po znecitlivění prstu je skutečně nebolestivý zákrok. Pacient, který se o zákroku dozví až dodatečně (po zakrytí prstu obvazem), nechce této informaci ani uvěřit, protože stržení nehtu vůbec nevnímal. {class="example"}
 
-## Odchlípnutí nehtu {id="odchlipnuti_nehtu"}
+{id="odchlipnuti_nehtu"}
+
+## Odchlípnutí nehtu
 
 n/a {class="description"}
 
@@ -40,7 +46,9 @@ K odchlípnutí (odtržení) části nehtu může dojít působením přímého 
 
 Lékařské ošetření je dobré vyhledat jen v případě trvající bolesti a zarudnutí prstu (které jsou známkami zánětu).
 
-## Uhození do nehtu bez poranění nehtového lůžka {id="uhozeni\_do\_nehtu\_bez\_poraneni\_nehtoveho\_luzka"}
+{id="uhozeni\_do\_nehtu\_bez\_poraneni\_nehtoveho\_luzka"}
+
+## Uhození do nehtu bez poranění nehtového lůžka
 
 n/a {class="description"}
 
@@ -50,7 +58,9 @@ Od bolesti částečně uleví zvednutí poraněné končetiny do výšky nad ú
 
 Pro urychlení léčení a odstranění bolesti lékař zcela bezbolestně provrtá nehtem drobný otvor _(fenestrace nehtu)_. Otvorem vyteče nahromaděná krev a potíže ihned ustoupí. Zánět se nerozvine. Po vyprázdnění nebo vstřebání krve nehet odpadne nebo postupně odroste a vyroste nový.
 
-## Uhození do nehtu s poraněním nehtového lůžka {id="uhozeni\_do\_nehtu\_s\_poranenim\_nehtoveho\_luzka"}
+{id="uhozeni\_do\_nehtu\_s\_poranenim\_nehtoveho\_luzka"}
+
+## Uhození do nehtu s poraněním nehtového lůžka
 
 n/a {class="description"}
 
@@ -60,7 +70,9 @@ Poranění prstu těžkým břemenem s částečným uvolněním nehtu _(luxace 
 
 Často bývá [poraněna i kost pod nehtem][7]. Většinou se láme nehtová drsnatina (část kosti posledního článku prstu).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -71,7 +83,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Jak se projevuje krevní výron pod nehtem?
   4. O čem svědčí krvácení zpod nehtu spojené s odtržením části nehtu?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

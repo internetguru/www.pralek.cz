@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Bolest paty: patní ostruha {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="patni\_ostruha" short="Patní ostruha" ctime="2011-04-19" mtime="2011-04-19"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="patni\_ostruha" short="Patní ostruha" ctime="2011-04-19" mtime="2011-04-19"}
+
+# Bolest paty: patní ostruha
 
 Patní ostruha je zkostnatělý výrůstek patní kosti v místě úponu vazu. Léčení počátečních příznaků nemoci je snadné. U plně vyvinutého onemocnění jsou nutné složitější léčebné metody. {class="description" kw="patní ostruha, bolest paty, patní kost, onemocnění šlach, úpon vazu, vápník, kostěný výrůstek, fyzikální terapie, ultrazvuk, obstřik šlachy, rázová vlna, rentgenové ozařování"}
 
@@ -9,7 +11,9 @@ Patní ostruha _(exostosis calcanei)_ vzniká jako **následek dlouhodobého př
 
 Ostruha se může vytvořit pod patou uprostřed nohy, na vnitřní nebo zevní straně plosky. Někdy vznikne za patou, na zadní straně v místě úponu Achillovy šlachy. Výskyt ostruhy pod i za patou není vzácností.
 
-## Vývoj a projevy patní ostruhy {id="vyvoj\_a\_projevy\_patni\_ostruhy"}
+{id="vyvoj\_a\_projevy\_patni\_ostruhy"}
+
+## Vývoj a projevy patní ostruhy
 
 n/a {class="description"}
 
@@ -22,7 +26,9 @@ n/a {class="description"}
       * mechanickým tlakem proti tvrdé podložce nebo proti botě,
       * bolestivý je stále i úpon šlachy k ostruze.
 
-## Léčení prvotních projevů patní ostruhy {id="leceni\_prvotnich\_projevu\_patni\_ostruhy"}
+{id="leceni\_prvotnich\_projevu\_patni\_ostruhy"}
+
+## Léčení prvotních projevů patní ostruhy
 
 n/a {class="description"}
 
@@ -31,7 +37,9 @@ Již při prvních projevech onemocnění je vhodné podstoupit [chirurgické ne
   * V tomto stádiu je vhodné [užívat nejrůznější léčivé masti, gely][6]. Někomu pomohou homeopatika, jinému přírodní preparáty, většinou však pomohou léky klasické medicíny.
   * Vhodná je i nejrůznější fyzikální terapie (ultrazvuk, diadynamik, magnetoterapie, laser). Při trvajících potížích lze užít [obstřiky bolestivých úponů][6] šlach do paty.
 
-## Léčení plně rozvinuté patní ostruhy {id="leceni\_plne\_rozvinute\_patni\_ostruhy"}
+{id="leceni\_plne\_rozvinute\_patni\_ostruhy"}
+
+## Léčení plně rozvinuté patní ostruhy
 
 n/a {class="description"}
 
@@ -45,13 +53,17 @@ Například mohou potíže ustoupit napravením chybného stereotypu chůze (uvo
   * Rentgenové ozařování odstraní z bolestivého úponu [aseptický zánět][7] a tedy i bolest. Nebolestivá ostruha však nezmizí.
   * Jsou-li všechny vyjmenované léčebné metody bez efektu, je nevyhnutelné přistoupit k ortopedické operaci.
 
-## Prevence bolesti pat správnou péčí o nohy {id="prevence\_bolesti\_pat\_spravnou\_peci\_o\_nohy"}
+{id="prevence\_bolesti\_pat\_spravnou\_peci\_o\_nohy"}
+
+## Prevence bolesti pat správnou péčí o nohy
 
 n/a {class="description"}
 
 Předcházet bolestem pat a nohou lze správnou péčí o nohy – vhodnou obuví, procvičováním a masírováním nohou. Vždy je nutné upravit vadné postavení nohou správnými _ortopedickými pomůckami_ nebo fyzioterapií.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -63,7 +75,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Co bývá příčinou vzniku patní ostruhy?
   5. Jaké jsou možnosti léčení ostruhy?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

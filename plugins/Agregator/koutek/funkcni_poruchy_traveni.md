@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Funkční poruchy trávení: zvracení, průjem, škytání, větry {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="funkcni\_poruchy_traveni" short="Funkční poruchy trávení" ctime="2009-09-10" mtime="2009-09-10"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="funkcni\_poruchy_traveni" short="Funkční poruchy trávení" ctime="2009-09-10" mtime="2009-09-10"}
+
+# Funkční poruchy trávení: zvracení, průjem, škytání, větry
 
 Mnohým funkčním poruchám trávení lze předejít dodržováním správných stravovacích návyků. {class="description" kw="trávení, zvracení, průjem, škytání, větry, peristaltika, nevolnost, zvedání žaludku, pocit na zvracení, nausea, zkažená potrava, střevní neprůchodnost, pocit zástavy plynů a stolice, úraz hlavy, tenesmy, škytání, škytavka, stolice, defekační reflex, zadržování stolice"}
 
-## Zvracení podle příčiny podpořit nebo se mu bránit {id="zvraceni\_podle\_priciny\_podporit\_nebo\_se\_mu_branit"}
+{id="zvraceni\_podle\_priciny\_podporit\_nebo\_se\_mu_branit"}
+
+## Zvracení podle příčiny podpořit nebo se mu bránit
 
 n/a {class="description"}
 
@@ -18,7 +22,9 @@ Zvracení je stav, kdy se žaludeční obsah neposunuje dále do dvanácterníku
   * Zvracení doprovázející onemocnění mozku vyžaduje lékařské vyšetření. Může se jednat o [mrtvici][6] či [krvácení do mozku][7], po úrazu hlavy může být známkou [otřesu mozku][8].
   * Zvracení doprovázenící [střevní neprůchodnost][9] je neovlivnitelné a vyžaduje okamžité lékařské ošetření. Může být následkem [zatvrdlé (uskřinuté) kýly][10] a pacient opakovaně zvrací, i když nic nejí a nepije.
 
-## Průjem – opakované řídké stolice {id="prujem-opakovane\_ridke\_stolice"}
+{id="prujem-opakovane\_ridke\_stolice"}
+
+## Průjem – opakované řídké stolice
 
 n/a {class="description"}
 
@@ -32,7 +38,9 @@ Je-li průjem způsoben potravinou kontaminovanou bakteriálně, je dobré vydr�
 
 Zcela jinou kapitolou jsou **dlouhodobé průjmy** které souvisí se závažnými chronickými onemocněními střeva. Odborní lékaři musejí složitě zjišťovat ztráty a doplňovat minerály a ostatní organizmu chybějící látky.
 
-## Škytání – prudké stahy bránice {id="skytani-prudke\_stahy\_branice"}
+{id="skytani-prudke\_stahy\_branice"}
+
+## Škytání – prudké stahy bránice
 
 n/a {class="description"}
 
@@ -40,19 +48,25 @@ n/a {class="description"}
 
 **Dlouhodobé škytání** může doprovázet onemocnění žaludku nebo dráždění bránice z jiného důvodu a pak je nutné [lékařské vyšetření][12].
 
-## Větry jsou plyny vznikající při trávicích procesech {id="vetry\_jsou\_plyny\_vznikajici\_pri\_travicich\_procesech"}
+{id="vetry\_jsou\_plyny\_vznikajici\_pri\_travicich\_procesech"}
+
+## Větry jsou plyny vznikající při trávicích procesech
 
 n/a {class="description"}
 
 Zvýšené množství plynu se tvoří [nesprávnými stravovacími návyky][13]. V případě zadržování větrů se vstřebají a nezpůsobují újmu na zdraví. V případě nutnosti zadržování větrů ze společenských důvodů není dobré požívat nadýmavou stravu (luštěniny) s tvorbou většího množství plynů.
 
-## Stolice – defekační reflex {id="stolice-defekacni_reflex"}
+{id="stolice-defekacni_reflex"}
+
+## Stolice – defekační reflex
 
 n/a {class="description"}
 
 Defekační reflex (soubor reflexů které umožní odchod stolice) je složitý proces. Stolici lze zadržet. Tím však dochází k dalšímu vstřebávání vody a stolice se stává tužší. Při opakovaném zadržování stolice a následným odchodem velmi tuhé stolice může dojít k [onemocnění žilních pletení v konečníku][14].
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -65,7 +79,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   5. Proč je nutné pít, pokud trvá průjem?
   6. Co může způsobit opakované zadržování stolice?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Léčba zánětu podle druhu a stádia {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lecba\_zanetu" short="Léčba zánětu" ctime="2014-12-27" mtime="2014-12-27"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lecba\_zanetu" short="Léčba zánětu" ctime="2014-12-27" mtime="2014-12-27"}
+
+# Léčba zánětu podle druhu a stádia
 
 Jednotlivé fáze a druhy některých zánětů na sebe navazují nebo mezi sebou v průběhu vývoje vzájemně přecházejí v souvislosti s úspěšností hojení. U jiných zánětů převažuje jediná fáze po téměř celou dobu trvání nemoci. Jednotlivá stádia mají své specifické projevy, proto je i léčba v různých fázích zánětu rozdílná. {class="description" kw="zánět, nehnisavý, hnisavý, hnis, ohraničený, absces, neohraničený, flegmóna, stádia zánětu, bolest, léky, hojení zánětu, fáze zánětu"}
 
 Stává se, že jeden lékař radí na zánět přikládat studené obklady a druhý lékař stejnému člověku poradí na tentýž zánět přikládat obklady teplé. Tato zdánlivě protichůdná léčba má však příčinu v tom, že každý z lékařů viděl pacienta **v různém stádiu vývoje zánětu**.
 
-## Bolest na začátku zánětu {id="bolest\_na\_zacatku_zanetu"}
+{id="bolest\_na\_zacatku_zanetu"}
+
+## Bolest na začátku zánětu
 
 n/a {class="description"}
 
@@ -18,7 +22,9 @@ V počátku [každého zánětu][1] převažuje poškození buněk a tkání _(a
 
 Příkladem dlouhodobého _alterativního zánětu_ je virový zánět jater _(hepatitis či hepatitída, laicky infekční žloutenka)_. Virus napadá a poškozuje hlavně jaterní buňky. Jedná se o velmi závažné přenosné (nakažlivé) onemocnění, které vyžaduje komplexní léčení.
 
-## Nadbytečná tvorba tekutin a tkáně {id="nadbytecna\_tvorba\_tekutin\_a\_tkane"}
+{id="nadbytecna\_tvorba\_tekutin\_a\_tkane"}
+
+## Nadbytečná tvorba tekutin a tkáně
 
 n/a {class="description"}
 
@@ -32,7 +38,9 @@ Rozšířením cév v zánětlivém ložisku se zpomalí krevní proud a **doch�
   4. Narůstání **velmi tuhé tkáně** s nadměrným množstvím fibrinových vláken se označuje jako _fibrinózní zánět_. Při něm vzniká např. vystouplá jizva (hyzdící – nejčastěji po spálenině), označovaná jako [keloidní jizva][5]. Účelem léčby je zamezit nadměrnému růstu jizvy, a to nejčastěji mechanicky – jemným tlakem a masážemi. Někdy se podávají i zvláštní léky k potlačení nadměrného růstu jizvy.
   5. **Odumírající tkáň** vzniká vlivem místního nedokrvení _(gangrenózní zánět)_ a má velmi specifickou léčbu, například při [srdečním infarktu][7].
 
-## Nadměrné prosáknutí tekutinou {id="nadmerne\_prosaknuti\_tekutinou"}
+{id="nadmerne\_prosaknuti\_tekutinou"}
+
+## Nadměrné prosáknutí tekutinou
 
 n/a {class="description"}
 
@@ -40,7 +48,9 @@ Zvýšenou propustností cév dochází k **úniku tekutiny a některých krvine
 
 Příkladem je otok dásně a tváře při akutním zánětu v okolí kořene zubu. Lze se pokusit zpočátku studeným obkladem zánět rozehnat, nebo později teplým obkladem vývoj zánětu urychlit. Antibiotika se podávají dle rozvoje celkových příznaků zánětu. {class="example"}
 
-## Hojení po proběhlém zánětu {id="hojeni\_po\_probehlem_zanetu"}
+{id="hojeni\_po\_probehlem_zanetu"}
+
+## Hojení po proběhlém zánětu
 
 n/a {class="description"}
 
@@ -48,7 +58,9 @@ Poslední fází zánětu je hojení tkáně _(proliferativní fáze zánětu)_.
 
 V závislosti na době a závažnosti zánětlivého onemocnění může dojít k vyčerpání organizmu. Podle charakteru vyčerpání je vhodné doplnit chybějící minerály a energii pomocí doplňků stravy či vitamínů.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -60,7 +72,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jak lze ovlivnit tvorbu keloidní jizvy po spálenině?
   5. Jakým způsobem organizmus vyrovnává defekt způsobený zánětem?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

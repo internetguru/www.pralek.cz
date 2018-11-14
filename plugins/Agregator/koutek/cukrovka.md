@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Cukrovka: jak žít s cukrovkou {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cukrovka" short="Cukrovka" ctime="2008-03-26" mtime="2008-03-26"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cukrovka" short="Cukrovka" ctime="2008-03-26" mtime="2008-03-26"}
+
+# Cukrovka: jak žít s cukrovkou
 
 Ukázněný diabetik se nemusí během života setkat se žádnými komplikacemi cukrovky. Dlouhodobé komplikace jsou způsobené nedodržováním doporučených zásad. {class="description" kw="cukrovka, diabetes, diabetik, glykémie, strava, inzulín, slinivka břišní, hlad, hyperglykémie, hypoglykémie, bezvědomí"}
 
@@ -11,7 +13,9 @@ Určitá glykémie je nezbytná jako energetická nabídka (potrava) pro buňky.
 
 Pokles hladiny cukru v krvi pod určitou hodnotu vyvolá pocit hladu. Trvá-li stav déle (člověk se nenasytí), **játra začnou cukr vyrábět z jiných zdrojů** tak, aby byla hladina cukru víceméně stálá.
 
-## Nepoznaná nebo neléčená cukrovka dlouhodobě ničí organizmus {id="nepoznana\_nebo\_nelecena\_cukrovka\_dlouhodobe\_nici\_organizmus"}
+{id="nepoznana\_nebo\_nelecena\_cukrovka\_dlouhodobe\_nici\_organizmus"}
+
+## Nepoznaná nebo neléčená cukrovka dlouhodobě ničí organizmus
 
 n/a {class="description"}
 
@@ -28,7 +32,9 @@ Neléčená cukrovka čili vysoká glykémie ničí mnohé orgány:
 
 **Po cukrovce je vhodné preventivně pátrat**; zvlášť v případě výskytu cukrovky v rodině. Praktický lékař dokáže cukrovku velmi snadno prokázat a pacienta předat specialistovi (diabetologovi). Diabetolog provede určitá vyšetření a určí typ a závažnost onemocnění a určí způsob léčení. {class="important"}
 
-## Typy cukrovky podle závažnosti onemocnění {id="typy\_cukrovky\_podle\_zavaznosti\_onemocneni"}
+{id="typy\_cukrovky\_podle\_zavaznosti\_onemocneni"}
+
+## Typy cukrovky podle závažnosti onemocnění
 
 n/a {class="description"}
 
@@ -36,7 +42,9 @@ n/a {class="description"}
   * Při závažnější formě je třeba kromě dodržování diety podávat **určité léky podporující tvorbu vlastního inzulínu** ve slinivce břišní (formou tablet, množství je dáno závažností choroby).
   * Nejzávažnější forma cukrovky vyžaduje kromě diety také **injekční podávání cizího inzulínu** (vlastní se prakticky netvoří). Inzulínu je mnoho druhů s různou délkou působení, různé jsou možnosti aplikace (inzulínové pumpy).
 
-## Krátkodobé komplikace cukrovky a jejich řešení {id="kratkodobe\_komplikace\_cukrovky\_a\_jejich_reseni"}
+{id="kratkodobe\_komplikace\_cukrovky\_a\_jejich_reseni"}
+
+## Krátkodobé komplikace cukrovky a jejich řešení
 
 n/a {class="description"}
 
@@ -45,7 +53,9 @@ n/a {class="description"}
 
 V obou případech může následovat pocení, nevolnost až s následným [bezvědomím][4]. Zachránce nepozná, zda se jedná o příliš vysokou či nízkou hladinu cukru. Hrozícímu **kolapsu lze předejít podáním sladkého nápoje**. V případě hyperglykémie podaný cukr nepomůže ale neublíží a v případě mnohem častější hypoglykémie podaný cukr zachríní život.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -59,7 +69,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   6. Jaké jsou 3 možnosti léčení cukrovky?
   7. Jak pomoci diabetikovi, který je zmatený, potí se, není mu dobře?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

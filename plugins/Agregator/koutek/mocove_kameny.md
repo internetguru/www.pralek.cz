@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Močové kameny a ledvinová kolika {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocove\_kameny" short="Močové kameny" ctime="2008-08-13" mtime="2008-08-13"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocove\_kameny" short="Močové kameny" ctime="2008-08-13" mtime="2008-08-13"}
+
+# Močové kameny a ledvinová kolika
 
 V močovém ústrojí mohou vzniknout kameny. Tlakem moči a prodíráním se kamenu močovodem může vzniknout ledvinová kolika. {class="description" kw="ledvinové kameny, močové kameny, ledvinová kolika, ledvina, moč, močovod, močový měchýř, močení, močová trubice, zánět, krvácení do moče, urolog, bolest"}
 
@@ -9,7 +11,9 @@ V bederní oblasti jsou uloženy 2 ledviny, ve kterých se tvoří moč. Z ledvi
 
 Močí jsou z těla odstraňovány zplodiny látkové přeměny. Aby ledviny správně fungovaly, je třeba aby v těle bylo [dostatek tekutin][2]. V případě nedostatku tekutin jsou ledviny přetěžovány a tvorba moči je velmi náročná. **V příliš koncentrované moči se snadno vytvoří kameny nebo [zánět][3].**
 
-## Ledvinové kameny a ledvinová kolika {id="ledvinove\_kameny\_a\_ledvinova\_kolika"}
+{id="ledvinove\_kameny\_a\_ledvinova\_kolika"}
+
+## Ledvinové kameny a ledvinová kolika
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ Za určitých podmínek se v ledvinové pánvičce může vytvořit kámen. Doku
 
 **Ledvinová kolika je krutá nesnesitelná bolest** vyzařující z beder jednostranně do třísla nebo do stehna, většinou [doprovázená zvracením][5]. Bolest přinutí pacienta okamžitě [vyhledat lékařskou pomoc][6].
 
-## Léčení ledvinových kamenů {id="leceni\_ledvinovych\_kamenu"}
+{id="leceni\_ledvinovych\_kamenu"}
+
+## Léčení ledvinových kamenů
 
 n/a {class="description"}
 
@@ -27,7 +33,9 @@ Vzniklý kámen v pánvičce ledviny lze rozbít. Zvláštním ultrazvukovým p�
 
 Kámen v močovém měchýři nemusí působit dlouho potíže a může narůst do velkých rozměrů. Metodu odstranění močových kamenů (rozpouštění, stažení, rozbití nebo operační odstranění) určí individuálně [urolog][6] (lékař který se zabývá léčením močových cest).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -37,7 +45,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   2. Čím je způsobena ledvinová kolika?
   3. Jaké jsou možnosti léčení ledvinových kamenů?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

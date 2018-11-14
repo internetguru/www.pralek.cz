@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Nebezpečný zánět prstu ruky – panaricium {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="panaricium" short="Panaricium" ctime="2012-05-18" mtime="2012-05-18"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="panaricium" short="Panaricium" ctime="2012-05-18" mtime="2012-05-18"}
+
+# Nebezpečný zánět prstu ruky – panaricium
 
 Zánětlivé onemocnění prstu ruky může být velmi závažné a nebezpečné. Včasné ošetření zánětu chirurgem předejde rozšíření zánětu nejen po nemocné ruce ale i do celého těla. {class="description" kw="panaricium, zánět, hnisavý puchýř, zánět nehtového valu, hnis pod nehtem, zánět prstu ruky, otrava krve, sepse, lymfatická céva, lymfatická uzlina"}
 
@@ -13,7 +15,9 @@ Nejčastěji bývá panariciem postižen poslední článek jednoho prstu ruky, 
 
 Panaricium může postihnout lidi všech věkových skupin. U malých dětí je důležité nezaměnit panaricium s [omotaným vlasem kolem prstu][4]. Omotaný vlas se však vyskytuje častěji na prstech na nohou. U dospělých pacientů panaricium nelze zaměnit s jinou chorobou. Opakovaný výskyt tohoto onemocnění nutí lékaře [pátrat po cukrovce][5] (u diabetiků je větší sklon k místním zánětům vzhledem ke zvýšené hladině cukru v krvi).
 
-## Vznik a vývoj panaricia {id="vznik\_a\_vyvoj_panaricia"}
+{id="vznik\_a\_vyvoj_panaricia"}
+
+## Vznik a vývoj panaricia
 
 n/a {class="description"}
 
@@ -21,7 +25,9 @@ Panaricium vzniká tehdy, dostane-li se určité množství mikroorganizmů do k
 
 Postupně se vyvíjí místní zánět se svými průvodními jevy, což jsou bolest, zarudnutí, otok, teplota a zhoršená funkce (zanícený orgán hůře pracuje). Vytvořené zánětlivé ložisko se přirozenou obranyschopností buďto samo uzdraví, nebo se postupně promění v hnisavé ložisko. Hnis je tvořen produktem boje – tedy odumřelými bakteriemi, bílými krvinkami, zbytky odumřelé rozpuštěné tkáně a tělní tekutinou. Nahromaděný hnis je vždy nutné odstranit.
 
-## Léčení panaricia {id="leceni_panaricia"}
+{id="leceni_panaricia"}
+
+## Léčení panaricia
 
 n/a {class="description"}
 
@@ -31,7 +37,9 @@ Chirurgické ošetření panaricia se provádí v místním znecitlivění, pak 
 
 Např. člověk po transplantaci orgánu má vždy (záměrně) sníženou imunitu. Proto je potřeba už při každém podezření na infekci preventivně nasazovat antibiotika. {class="example"}
 
-## Šíření a komplikace panaricia {id="sireni\_a\_komplikace_panaricia"}
+{id="sireni\_a\_komplikace_panaricia"}
+
+## Šíření a komplikace panaricia
 
 n/a {class="description"}
 
@@ -48,7 +56,9 @@ V obou uvedených případech je chirurgické ošetření naprosto nezbytné, st
 
 Na palcích nohou může rovněž vzniknout zánět nehtových valů. Je však dlouhodobý a je vždy v souvislosti se [zarůstajícími špatně ošetřenými nehty][9]. Takový zánět je sice nepříjemné, ale ve srovnání s panariciem nezávažné onemocnění.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -60,7 +70,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaké jsou 2 možnosti šíření zánětu z místního na celkové zánětlivé onemocnění?
   5. Proč se panaricium vyskytuje jen na prstech rukou a na nohou ne?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

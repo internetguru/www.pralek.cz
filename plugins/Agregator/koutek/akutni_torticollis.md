@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# (Ne)závažnost strnutí šíje {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="akutni\_torticollis" short="Akutní torticollis" ctime="2014-11-17" mtime="2014-11-17"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="akutni\_torticollis" short="Akutní torticollis" ctime="2014-11-17" mtime="2014-11-17"}
+
+# (Ne)závažnost strnutí šíje
 
 Náhle vzniklé strnutí šíje je nepříjemné, dramaticky vyhlížející, ale zcela nezávažné a dobře léčitelné onemocnění krku. Nejčastěji postihuje děti školního věku a mladé lidi. {class="description" kw="torticollis, strnutí šíje, akutní torticollis, zkroucený krk, zatěžování páteře, léky, bolest"}
 
@@ -9,7 +11,9 @@ Torticollis neboli strnutí šíje nebo zkroucení krku je onemocnění, při kt
 
 Strnutí šíje má dvě formy, které mají společný projev a různou závažnost. **Náhle vzniklé strnutí šíje _(akutní torticollis)_ je zcela nezávažné onemocnění.** Ostatní formy strnutí šíje _(neakutní torticollis)_ jsou naopak závažná a obtížně léčitelná onemocnění.
 
-## Nástup a možné příčiny náhle vzniklého strnutí šíje {id="nastup\_a\_mozne\_priciny\_nahle\_vznikleho\_strnuti_sije"}
+{id="nastup\_a\_mozne\_priciny\_nahle\_vznikleho\_strnuti_sije"}
+
+## Nástup a možné příčiny náhle vzniklého strnutí šíje
 
 n/a {class="description"}
 
@@ -24,7 +28,9 @@ Příčina vzniku onemocnění většinou není známa. Někdy ji však lze hled
   * v nesouměrném zatěžování páteře (např. aktovka nebo jiné břemeno stále v jedné ruce),
   * v podráždění krku studeným vzduchem (např. průvanem).
 
-## Léčení náhle vzniklého strnutí šíje {id="leceni\_nahle\_vznikleho\_strnuti\_sije"}
+{id="leceni\_nahle\_vznikleho\_strnuti\_sije"}
+
+## Léčení náhle vzniklého strnutí šíje
 
 n/a {class="description"}
 
@@ -34,7 +40,9 @@ Takto vedená léčba odstraní problém během několika dnů; vždy nejpozděj
 
 Zásadní chybou při neodborném ošetřování je časná horká koupel nebo sprcha, která stav vždy jen zhorší. Rovněž časné rozcvičování nebo pokus o časné rozmasírování vede jen ke zbytečnému trápení pacienta. **Léčení je vždy nutné začít zklidněním a prohříváním suchým teplem!** Teprve pak může následovat šetrné rozcvičování. {class="example"}
 
-## Ostatní formy strnutí šíje {id="ostatni\_formy\_strnuti_sije"}
+{id="ostatni\_formy\_strnuti_sije"}
+
+## Ostatní formy strnutí šíje
 
 n/a {class="description"}
 
@@ -51,7 +59,9 @@ Strnutím šíje mohou trpět i novorozenci _(novorozenecký torticollis)_. V ta
   * Vrozený novorozenecký torticollis je obvykle svalového původu _(torticollis muscularis)_, ostatní formy jsou naštěstí velmi vzácné.
   * Získaný novorozenecký torticollis může vzniknout podobně jako u starších dětí.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -63,7 +73,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Co při akutním torticollis vždy přitíží?
   5. Jaké existují jiné (neakutní) formy strnutí šíje?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Srdeční infarkt: rozpoznání infarktu {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="srdecni\_infarkt" short="Srdeční infarkt" ctime="2008-05-12" mtime="2008-05-12"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="srdecni\_infarkt" short="Srdeční infarkt" ctime="2008-05-12" mtime="2008-05-12"}
+
+# Srdeční infarkt: rozpoznání infarktu
 
 Bezodkladné zahájení masáže srdce při infarktu zachrání život a včasné další léčení může vrátit pacienta do plného zdraví. {class="description" kw="infarkt, civilizační choroby, nezdravý životní styl, krevní tlak, srdeční akce, zužování cév, uzávěr cévy, bolest, angína pectoris, přechozený infarkt, rytmus srdce, zástava srdce, EKG záznam"}
 
 _Infarkt myokardu_ (česky záhať srdečního svalu) patří mezi civilizační choroby. Většinou navazuje na **nezdravý životní styl** ([kouření cigaret][1], nedostatek pohybu, [obezita][2], [cukrovka][3], [vysoký krevní tlak][4], stres), ale může přijít i z „plného zdraví“ u aktivního člověka. Infarkt postihuje nejčastěji muže ve středním a vyšším věku.
 
-## Jak funguje srdce {id="jak\_funguje\_srdce"}
+{id="jak\_funguje\_srdce"}
+
+## Jak funguje srdce
 
 n/a {class="description"}
 
@@ -19,7 +23,9 @@ n/a {class="description"}
 
 **Srdeční rytmus** je určován zvláštním uzlíkem, z něhož vychází v určitých intervalech impulzy a stahy srdeční se rozšiřují po srdci systematicky speciálním nervovým _převodním systémem_.
 
-## Projevy onemocnění srdečních cév {id="projevy\_onemocneni\_srdecnich_cev"}
+{id="projevy\_onemocneni\_srdecnich_cev"}
+
+## Projevy onemocnění srdečních cév
 
 n/a {class="description"}
 
@@ -36,7 +42,9 @@ Potíže mohou samovolně po zklidnění ustat a opět se vrátit při stresu, n
 
 Jestliže dojde k (téměř) **úplnému uzávěru některé srdeční cévy**, do určitého okrsku srdečního svalu nepřichází žádná krev. Náhle vzniknou potíže podobné, jako při angíně pectoris, ale intenzivnější. Pak postižená část srdce přestává správně pracovat – **vzniká srdeční infarkt**.
 
-## Závažnost infarktu podle rozsahu a umístění {id="zavaznost\_infarktu\_podle\_rozsahu\_a_umisteni"}
+{id="zavaznost\_infarktu\_podle\_rozsahu\_a_umisteni"}
+
+## Závažnost infarktu podle rozsahu a umístění
 
 n/a {class="description"}
 
@@ -48,7 +56,9 @@ V případě **závažného infarktu** se srdeční zástavou může zachránit 
 
 Dříve než dojde k odumření infarktem ohroženého svalu, může se podařit do postižené cévy zavedenou sondou obnovit průtok krve a **infarkt se vůbec nevyvine**. Výsledkem je vyléčení a návrat do plného zdraví během několika dnů.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -61,7 +71,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   5. Čím je dáno, že někdo infarkt přechodí bez následků a někdo má vážné potíže?
   6. Proč je dobře pospíchat při vzniku popsaných potíží s vyhledáním lékařské pomoci?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

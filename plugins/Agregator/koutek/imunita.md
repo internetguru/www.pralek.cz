@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Imunita: obranyschopnost organizmu {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita" ctime="2008-06-01" mtime="2008-06-01"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita" ctime="2008-06-01" mtime="2008-06-01"}
+
+# Imunita: obranyschopnost organizmu
 
 Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imunita mění, lze ji podpořit zdravým způsobem života nebo naopak oslabit nadměrným užíváním léků. {class="description" kw="obranyschopnost organizmu, imunita, noxa, oslabení imunity, imunitní systém, bakterie, zánět, onemocnění, alergie, autoimunní onemocnění, nemoc, prochlazení, přirozený porod, kojení"}
 
@@ -12,7 +14,9 @@ Stupně nastavení imunitního systému
   3. Nadměrná imunitní aktivita naopak může označovat za nepřítele i takové látky v těle, které ve skutečnosti nepřítelem nejsou (např. pylová zrnka, prach, částečky kovu nebo různé léky). Pak se jedná o **alergii** na tu kterou látku, dnes již bohužel často i o alergie smíšené.
   4. Může dokonce být imunitním systémem označena za nepřítele i některá tělu vlastní bílkovina a proti ní se tvoří protilátky. Pak se jedná o závažné tzv. **autoimunní onemocnění.**
 
-## Co dělat pro správně fungující imunitní systém {id="co\_delat\_pro\_spravne\_fungujici\_imunitni\_system"}
+{id="co\_delat\_pro\_spravne\_fungujici\_imunitni\_system"}
+
+## Co dělat pro správně fungující imunitní systém
 
 n/a {class="description"}
 
@@ -26,7 +30,9 @@ Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedi
 
 Skleníkové prostředí bez přítomnosti bakterií není pro zdárný vývoj dítěte správné, opačný extrém však jistě rovněž ne. Bohužel domácí mazlíček často olizuje majiteli (nebo i dítěti!) obličej. Na čenichu a v tlamě psa a kočky žijí zcela odlišené a **pro člověka nepřijatelné bakteriální kmeny**.
 
-## Imunitní systém a antibiotika {id="imunitni\_system\_a_antibiotika"}
+{id="imunitni\_system\_a_antibiotika"}
+
+## Imunitní systém a antibiotika
 
 n/a {class="description"}
 
@@ -34,7 +40,9 @@ Opakované a nadměrné užívání antibiotik vede k oslabení imunitního syst
 
 Při opakovaném setkání se stejným mikrobem může tedy dojít k opakovanému onemocnění. Nyní již však má tento mikrob patrně vytvořenou resistenci vůči tomu [antibiotiku][1], kterým byl pacient posledně léčen. Pro zvládnutí klinicky stejné choroby je nutné nasadit odlišné antibiotikum.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -45,7 +53,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Čím mohou antibiotika snižovat imunitu?
   4. Proč nelze na stejnou chorobu dávat opakovaně stejná antibiotika?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

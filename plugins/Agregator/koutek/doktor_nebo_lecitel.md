@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Doktor nebo léčitel: koho kdy vyhledat a komu věřit {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="doktor\_nebo_lecitel" short="Doktor nebo léčitel" ctime="2010-04-30" mtime="2010-04-30"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="doktor\_nebo_lecitel" short="Doktor nebo léčitel" ctime="2010-04-30" mtime="2010-04-30"}
+
+# Doktor nebo léčitel: koho kdy vyhledat a komu věřit
 
 Při rozhodování, zda vyhledat lékaře nebo léčitele, platí zásada, že nejprve musí lékař řádně vyšetřit pacienta. V případě, že je dnešní věda na chorobu krátká, je možné vyhledat léčitele a doufat, že se mu podaří navrátit pacientovi ztracené zdraví. {class="description" kw="doktor, lékař, léčitel, alternativní medicína, léčitelská praxe, pověst léčitele"}
 
 Nejhorší situace nastane tehdy, když se pacient vydá [s neurčitými příznaky onemocnění][1] k nevzdělanému a nesoudnému léčiteli. Zde při opakovaných sezeních ubíhá bez efektu čas a při pozdějším [výskytu komplikací][1] již nemusí být pacientovi pomoci. Doba vhodná k vyléčení jeho nemoci již byla promarněna. A to se bohužel stává. {class="example"}
 
-## Vědecký přístup k nemoci {id="vedecky\_pristup\_k_nemoci"}
+{id="vedecky\_pristup\_k_nemoci"}
+
+## Vědecký přístup k nemoci
 
 n/a {class="description"}
 
@@ -21,7 +25,9 @@ Pacient je o vývoji své choroby průběžně pravdivě informován. Na základ
 
 Zkušený doktor dokáže ve vhodnou dobu sdělit pacientovi, že již **současná medicína neumí pacientovo zdraví zachránit** nebo zcela navrátit. Není důvod, proč by pacient po vyčerpání léčebných možností nemohl vyzkoušet léčitelovy schopnosti, jestliže jim důvěřuje.
 
-## Léčitelská praxe {id="lecitelska_praxe"}
+{id="lecitelska_praxe"}
+
+## Léčitelská praxe
 
 n/a {class="description"}
 
@@ -40,7 +46,9 @@ Dnešní věda nerozumí schopnostem léčitelů; **umění léčitelů nelze ni
 
 **Dobrá pověst léčitele není měřítkem jeho schopností.** Šikovný léčitel psycholog totiž dokáže zneužít vyděšenosti pacienta, pro kterého může být poslední nadějí. Vyzví, co potřebuje, naslibuje pomoc a vyinkasuje odměnu, aniž by reálně pacientovi pomohl. Takto „zpracovaný“ pacient bude tohoto léčitele všude chválit.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -50,7 +58,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   2. Jaká jsou hlediska serioznosti léčitele?
   3. Proč nestačí dobrá pověst léčitele pro posouzení jeho kvality?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

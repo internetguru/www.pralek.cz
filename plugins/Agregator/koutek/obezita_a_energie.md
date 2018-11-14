@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Obezita jako nepoměr příjmu a výdeje energie {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="obezita\_a_energie" short="Obezita" ctime="2008-02-28" mtime="2017-10-05"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="obezita\_a_energie" short="Obezita" ctime="2008-02-28" mtime="2017-10-05"}
+
+# Obezita jako nepoměr příjmu a výdeje energie
 
 Obezitu může řešit jedině změna poměru příjmu a výdeje energie. Pokud se množství přijaté energie (potravou) rovná množství energie spotřebované (prací nebo cvičením), pak člověk nehubne ani netloustne. {class="description" kw="obezita, energie, potrava, kalorická hodnota, gen obezity, léky, hubnutí, redukce hmotnosti"}
 
@@ -14,7 +16,9 @@ Obezitu pozitivně ovlivňuje kombinace snížení příjmu a zvýšení výdeje
   * **Snížení energetického příjmu** znamená buď zmenšení [obvyklého množství oblíbené potravy][1] nebo snížení její kalorické hodnoty (omezení cukrů a tuků).
   * **Výdej energie zvyšují veškeré aktivity** při domácích pracích, chůze namísto používání výtahů, eskalátorů či dopravních prostředků až po nejrůznější fyzické aktivity.
 
-## Sklon k obezitě {id="sklon\_k\_obezite"}
+{id="sklon\_k\_obezite"}
+
+## Sklon k obezitě
 
 Existují jedinci s vyšším sklonem k obezitě. Příčinou je různě nastavený trávicí a nervový systém. U někoho je vyšší sklon k obezitě daný i geneticky. {class="description"}
 
@@ -22,7 +26,9 @@ V závislosti na různém sklonu k obezitě se vývoj dvou stejně aktivních je
 
 Člověk, který hodně jí a přesto netloustne, je většinou tak aktivní, že dlouhodobě nemá žádnou zbytkovou energii, kterou by si mohl (ve formě tuku) ukládat do zásob. Naopak člověk, který jí málo a přesto tloustne, má tak málo aktivity, že téměř vše co sní, ukládá v podobě tuku do zásob. Obojí platí bez ohledu na povahu stravy.
 
-## Léky na hubnutí {id="leky\_na\_hubnuti"}
+{id="leky\_na\_hubnuti"}
+
+## Léky na hubnutí
 
 Spoléhat se na jakékoli „zázračné tabletky“ s následným zhubnutím určitě nelze. V kombinaci s ovlivňováním poměru přijaté a vydané energie lze hubnutí léčebně podpořit. {class="description"}
 
@@ -34,7 +40,9 @@ V případě užívání léků na hubnutí beze změny stravovacích návyků m
 
 Každodenní vážení nemá smysl. Drobné změny hmotnosti (např. pokles po zátěži) jsou dány převážně [kolísáním množství vody v těle][2] a nikoliv snížením množství tuku. Pro kontrolu úspěšnosti hubnutí je tedy vhodnější kontrolovat např. obvod pasu nebo boků než hmotnost. {class="example"}
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -47,7 +55,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   5. Proč nemá smysl se denně vážit?
   6. Jak je vhodné měřit hubnutí na rozdíl od vážení?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

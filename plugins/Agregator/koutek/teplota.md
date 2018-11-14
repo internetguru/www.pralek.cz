@@ -1,19 +1,25 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Normální tělesná teplota, podchlazení, horečka {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="teplota" short="Tělesná teplota" ctime="2008-10-02" mtime="2008-10-02"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="teplota" short="Tělesná teplota" ctime="2008-10-02" mtime="2008-10-02"}
+
+# Normální tělesná teplota, podchlazení, horečka
 
 Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá nebo klesá vlivem zevního prostředí a stoupá při některých onemocněních. {class="description" kw="tělesná teplota, podchlazení, nemoc z prochlazení, třes, přehřátí, tekutiny, pocení, dostatek tekutin, ochlazení, horečnaté onemocnění, meningokoková infekce, horečka, teplota"}
 
 Hodnotu tělesné teploty řídí zvláštní centrum uložené v mozku. U zdravého člověka bývá tělesná teplota na čele 36–37 °C, v podpaží 35–37 °C, v konečníku 36–38 °C.
 
-## Nebezpečné podchlazení {id="nebezpecne_podchlazeni"}
+{id="nebezpecne_podchlazeni"}
+
+## Nebezpečné podchlazení
 
 n/a {class="description"}
 
 Pokles teploty o více než 1 °C může ohrozit zdraví (nemoc z prochlazení). **Organizmus se brání třesem** a nutí nás do zvýšení tělesné aktivity. Pokles na ještě nižší hodnoty může ohrozit život (podchlazení organizmu při spánku, nejčastěji po požití alkoholu – spící opilý člověk si nemusí uvědomovat chlad) [zpomalením a následně zástavou srdce][1].
 
-## Přehřátí organizmu {id="prehrati_organizmu"}
+{id="prehrati_organizmu"}
+
+## Přehřátí organizmu
 
 n/a {class="description"}
 
@@ -25,7 +31,9 @@ Pobyt v horku, na slunci, nemožnost ochlazení organismu koupelí ve chladné v
 
 Na přehřátí jsou **náchylnější malé děti a staří lidé**. Hůře si totiž uvědomují pocit žízně. Dlouhá cesta na dovolenou a následný pobyt v prohřátém a prosluněném letovisku nutí sledovat množství požitých tekutin. Nestačí jen voda. Je nutné [vodu kombinovat s ostatními nápoji][2] nejen sladkými a ovocnými, ale i slanými (polévky, minerálky).
 
-## Horečka a horečnatá onemocnění {id="horecka\_a\_horecnata_onemocneni"}
+{id="horecka\_a\_horecnata_onemocneni"}
+
+## Horečka a horečnatá onemocnění
 
 n/a {class="description"}
 
@@ -33,7 +41,9 @@ Většina běžných dětských nemocí a [zánětlivých chorob dospělých][5]
 
 Tady je však zvýšená teplota obranou organizmu [proti mikroorganizmům][6] (bakteriím nebo virům) a **není vhodné teplotu hned snižovat**. První 2 až 3 dny bývají známky onemocnění obecné, teprve pak se projeví známky té které choroby.
 
-## Vývoj horečnatého onemocnění {id="vyvoj\_horecnateho\_onemocneni"}
+{id="vyvoj\_horecnateho\_onemocneni"}
+
+## Vývoj horečnatého onemocnění
 
 n/a {class="description"}
 
@@ -55,7 +65,9 @@ Další vývoj příznaků onemocnění teprve ukáže o jakou mikrobiální neb
   * při velmi vysoké teplotě mohou u dítěte vzniknout křeče z teploty (febrilní křeče) s poruchou dýchání,
   * prudký dramatický rychle nastupující stav se zchváceností a vysokou teplotou a skvrnami na kůži se známkami prokrvácení může svědčit pro meningokokovou infekci.
 
-## Meningokoková infekce {id="meningokokova_infekce"}
+{id="meningokokova_infekce"}
+
+## Meningokoková infekce
 
 n/a {class="description"}
 
@@ -65,7 +77,9 @@ Závažnost a průběh onemocnění jsou dány spíše připraveností člověka
 
 Meningokokové infekci bohužel nejčastěji podlehne malé dítě v době, kdy již nemá od matky dostatek protilátek (dostává je nitroděložně placentou a poporodně mateřským mlékem) a ještě nemá vytvořeny své [vlastní protilátky][14]. Další skupinou lidí, kteří mohou podlehnout meningokokovi jsou adolescenti ve stavu vyčerpání a únavy (například po probdělé noci). Ostatní **lidé při setkání s meningokokem nemusejí vůbec onemocnět**.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -79,7 +93,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   6. Proč není vhodné hned srážet zvýšenou teplotu v začátku horečnatého onemocnění?
   7. Jak se projevuje meningokoková infekce a koho nejspíše postihne?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Zlomeniny kostí {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlomeniny\_kosti" short="Zlomeniny kostí" ctime="2009-10-22" mtime="2009-10-22"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlomeniny\_kosti" short="Zlomeniny kostí" ctime="2009-10-22" mtime="2009-10-22"}
+
+# Zlomeniny kostí
 
 Rozpoznání zlomeniny kosti a správné poskytnutí první pomoci zabrání vzniku šoku a komplikací. {class="description" kw="kost, zlomenina, nalomení, prasklina, roztříštění, rozdrcení, vpáčení, odlomení, naštípnutí, naprasknutí, úraz hlavy, zlomenina obratle, zlomenina páteře, rozpoznání zlomeniny, projevy zlomeniny"}
 
 Zlomeninou se rozumí porušení kontinuity kosti. Jedná se o nalomení, prasklinu, zlomeninu s posunem nebo bez posunu, roztříštění, rozdrcení kosti, vpáčení kosti.
 
-## Projevy zlomeniny dlouhé kosti {id="projevy\_zlomeniny\_dlouhe_kosti"}
+{id="projevy\_zlomeniny\_dlouhe_kosti"}
+
+## Projevy zlomeniny dlouhé kosti
 
 n/a {class="description"}
 
@@ -27,7 +31,9 @@ V případě zlomeniny dlouhé kosti je lépe [zajistit neprodleně transport k 
 
 Se zlomeninou souvisí krvácení do svalů v okolí zlomeniny. Krvácení zlomeniny stehenní kosti může způsobit ztrátu značného množství (až čtvrtina) objemu krve, což spolu s bolestí [může vést ke kolapsu][2]. Prokrvácení okolí zlomeniny rovněž vede k deformaci končetiny.
 
-## Projevy nalomení kosti v okolí kloubů {id="projevy\_nalomeni\_kosti\_v\_okoli_kloubu"}
+{id="projevy\_nalomeni\_kosti\_v\_okoli_kloubu"}
+
+## Projevy nalomení kosti v okolí kloubů
 
 n/a {class="description"}
 
@@ -46,7 +52,9 @@ Dlouho obtěžující bolestivost, otoky a nemožnost rychlého návratu k běž
 
 Se zlomeninou zevního kotníku lze například chodit nebo dohrát sportovní zápas. {class="example"}
 
-## Prasklina lebky {id="prasklina_lebky"}
+{id="prasklina_lebky"}
+
+## Prasklina lebky
 
 n/a {class="description"}
 
@@ -56,7 +64,9 @@ Závažnější problém vzniká při [pronikajícím poranění hlavy][7] s por
 
 **Zlomenina baze lební** je rovněž závažné poranění hlavy. Projevuje se nejčastěji krvácením ze zevního zvukovodu (z ucha) nebo řídkou sekrecí bezbarvé nebo narůžovělé tekutiny z nosu. Se zlomeninou může a nemusí souviset poranění mozku.
 
-## Zlomeniny páteře {id="zlomeniny_patere"}
+{id="zlomeniny_patere"}
+
+## Zlomeniny páteře
 
 n/a {class="description"}
 
@@ -68,7 +78,9 @@ Zlomený vaz (zlomený zub čepovce) vede ke smrti. V případě posunu dalšíc
 
 Po nehodě řidič auta sedí za volantem, stěžuje si na bolest páteře a necítí nohy, nemůže jimi pohnout. Nic nehoří, nehrozí zřícení do propasti. Zraněný dýchá, je při vědomí, spolupracuje. Není důvod jej laicky vyprošťovat z auta. Zavolaní záchranáři jej vyprostí profesionálně. {class="example"}
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -80,7 +92,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. V čem spočívá závažnost zlomeniny lebky?
   5. Čím je ohrožen skokan do neznámé nebo mělké vody po hlavě?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Prudký zánět slinivky břišní: akutní pankreatitida {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_slinivky" short="Zánět slinivky" ctime="2011-05-04" mtime="2011-05-04"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_slinivky" short="Zánět slinivky" ctime="2011-05-04" mtime="2011-05-04"}
+
+# Prudký zánět slinivky břišní: akutní pankreatitida
 
 Prudký zánět slinivky břišní je závažné život ohrožující onemocnění. Vzniká nejčastěji v návaznosti na přejedení nevhodnou kombinací jídel (a tvrdého alkoholu). {class="description" kw="zánět, slinivka břišní, pankreatitida, pancreatitis acuta, pankreas, žláza, trávicí soustava, glukagon, inzulín, trávicí šťáva, trávicí enzymy, obstrukce vývodu žlučových cest, bolesti břicha"}
 
@@ -14,7 +16,9 @@ Název slinivky břišní je poněkud zavádějící, protože **slinivka břiš
 
 Slinivka břišní je uložena vzadu za dutinou břišní mezi žaludkem, páteří a velkými cévami. Tím je velmi dobře chráněna před poraněním při úrazu.
 
-## Formy zánětlivých onemocnění slinivky břišní {id="formy\_zanetlivych\_onemocneni\_slinivky\_brisni"}
+{id="formy\_zanetlivych\_onemocneni\_slinivky\_brisni"}
+
+## Formy zánětlivých onemocnění slinivky břišní
 
 n/a {class="description"}
 
@@ -23,7 +27,9 @@ Pro slinivku jsou charakteristické dvě formy zánětu:
   1. Předčasná aktivace trypsinu již ve slinivce _(tryptická forma)_ spočívající ve významném poškození (natrávení) slinivky břišní.
   2. [Zánět][3] probíhající jako v jakémkoli jiném orgánu _(netryptická forma)_, při kterém nedochází k předčasné aktivaci trypsinu a může se jednat o zánět prudký _(akutní)_, dlouhodobý _(chronický)_ nebo vracející se _(recidivující)_.
 
-## Příčiny zánětu slinivky břišní {id="priciny\_zanetu\_slinivky_brisni"}
+{id="priciny\_zanetu\_slinivky_brisni"}
+
+## Příčiny zánětu slinivky břišní
 
 n/a {class="description"}
 
@@ -51,7 +57,9 @@ Rizikové faktory vzniku netryptických zánětů slinivky jsou:
   * rodinná zátěž (onemocnění slinivky včetně [rakoviny][8] u blízkých příbuzných),
   * [nádorové onemocnění jiných orgánů dutiny břišní][9].
 
-## Projevy prudkého zánětu slinivky břišní {id="projevy\_prudkeho\_zanetu\_slinivky\_brisni"}
+{id="projevy\_prudkeho\_zanetu\_slinivky\_brisni"}
+
+## Projevy prudkého zánětu slinivky břišní
 
 n/a {class="description"}
 
@@ -61,7 +69,9 @@ Nemocný je zchvácený, má rychlý pulz, zrychleně dýchá, má horečku a m�
 
 [Okamžité vyhledání lékařského ošetření][12] zvyšuje pacientovi šanci na přežití. Pobyt v nemocnici je bezpodmínečně nutný. Podobně se může projevovat [počínající střevní neprůchodnost][13]. {class="important"}
 
-## Léčení akutní tryptické pankreatitidy {id="leceni\_akutni\_trypticke_pankreatitidy"}
+{id="leceni\_akutni\_trypticke_pankreatitidy"}
+
+## Léčení akutní tryptické pankreatitidy
 
 n/a {class="description"}
 
@@ -74,7 +84,9 @@ První podmínkou úspěšné léčby je nic nejíst ani nepít (jako u všech n
 
 Jako následek devastujícího zánětu slinivky břišní se často objeví [cukrovka][2].
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -86,7 +98,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaké jsou rizikové faktory pro vznik zánětu slinivky břišní?
   5. Jak se projevuje prudký zánět slinivky břišní?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Mýtus o urychlení rakoviny operací {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mytus\_o_rakovine" short="Mýtus o rakovině" ctime="2007-10-05" mtime="2007-10-05"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mytus\_o_rakovine" short="Mýtus o rakovině" ctime="2007-10-05" mtime="2007-10-05"}
+
+# Mýtus o urychlení rakoviny operací
 
 Rakovina je tím lépe léčitelná, čím dříve je odhalená. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací. {class="description" kw="strach, rakovina, nádor, ložiska, metastázy, boulička, mateřské znaménko, piha, nechutenství, úbytek na váze, krev ve stolici, krev v moči, vykašlávání krve, bolest"}
 
@@ -18,7 +20,9 @@ Růst nádoru ani tvorba druhotných ložisek nemusí vůbec bolet. Obecné neja
 
 Vzhledem k přirozenému strachu z rakoviny se lidé snaží různé příznaky dlouhodobě podceňovat nebo tajit před rodinou a hledat záminky proč nejít k lékaři. K lékaři přicházejí až s následnými komplikacemi.
 
-## Komplikace zhoubného nádoru {id="komplikace\_zhoubneho\_nadoru"}
+{id="komplikace\_zhoubneho\_nadoru"}
+
+## Komplikace zhoubného nádoru
 
 Neléčené příznaky počínající rakoviny se časem promění v komplikace, které teprve nemocného [přivedou k lékaři][7]. Po potvrzení obávané diagnózy se dostane pacient na operační sál. Pak už nemusí být vyřešení nádorového onemocnění **vzhledem k pokročilému stavu** možné. {class="description"}
 
@@ -31,13 +35,17 @@ Projevy postupující rakoviny jsou závažnější a nedají se už snadno igno
 
 Z laického pohledu tak vzniká _mýtus_, že viditelné zhoršení zdravotního stavu či dokonce úmrtí pacienta způsobila až operace. Skutečnost je však taková, že doba, kdy byla **šance na vyléčení, již byla bohužel promarněna**. {class="example"}
 
-## Rakovina či zcela nezávažné onemocnění {id="rakovina\_ci\_zcela\_nezavazne\_onemocneni"}
+{id="rakovina\_ci\_zcela\_nezavazne\_onemocneni"}
+
+## Rakovina či zcela nezávažné onemocnění
 
 Výše zmíněné nejasné příznaky bývají často **známkou i zcela banálního onemocnění**. Tuto jistotu lze však získat jen po poradě s lékařem. {class="description"}
 
 Je mnoho typů [zhoubných i nezhoubných nádorů][13], které se mohou projevovat výše uvedenými příznaky. I zhoubné nádory jsou ve většině případů tím lépe léčitelné, čím dříve jsou odhaleny.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -48,7 +56,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Proč přichází hodně lidí k vyšetření pro podezření na rakovinu pozdě?
   4. Může laik sám u sebe určit rakovinu a proč?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

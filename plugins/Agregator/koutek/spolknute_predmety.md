@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Spolknuté nebezpečné a ostré předměty {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="spolknute\_predmety" short="Spolknuté předměty" ctime="2009-04-30" mtime="2009-04-30"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="spolknute\_predmety" short="Spolknuté předměty" ctime="2009-04-30" mtime="2009-04-30"}
+
+# Spolknuté nebezpečné a ostré předměty
 
 Spolknutý ostrý předmět většinou nezpůsobí žádné potíže a bez problémů projde zažívacím traktem. Potíže může způsobit spíše větší předmět, který nemusí projít zúženými místy zažívacího traktu. Nejzávažnější poranění způsobí spolknutá kyselina nebo zásada. {class="description" kw="polykání, poranění, krk, jícen, spolknuté velké sousto, slinění, endoskop, spolknutá náušnice, spolknutá baterie, spolknutá mince, spolknutí kyseliny, spolknutí zásady"}
 
-## Spolknuté ostré předměty většinou potíže nezpůsobí {id="spolknute\_ostre\_predmety\_vetsinou\_potize_nezpusobi"}
+{id="spolknute\_ostre\_predmety\_vetsinou\_potize_nezpusobi"}
+
+## Spolknuté ostré předměty většinou potíže nezpůsobí
 
 n/a {class="description"}
 
@@ -15,7 +19,9 @@ Spolknutí ostrých předmětů jako střepů, hřebíků nebo špendlíků v ž
 
 Při polykání mohou ostré předměty poranit krk nebo jícen. Známé je poranění rybí kostí. Mnohem častější a méně známé je však **poranění kuřecí kostí, které bývá spojeno s hltavým způsobem jídla**. Kost v dutině ústní zbrklý jedlík podcení a spolkne spolu se soustem. Takové poranění jícnu může být závažné.
 
-## Spolknuté velké sousto může uvíznout v jícnu {id="spolknute\_velke\_sousto\_muze\_uviznout\_v\_jicnu"}
+{id="spolknute\_velke\_sousto\_muze\_uviznout\_v\_jicnu"}
+
+## Spolknuté velké sousto může uvíznout v jícnu
 
 n/a {class="description"}
 
@@ -29,13 +35,17 @@ Spolknutí mince je rovněž u dětí velmi časté. Do velikosti průměru 23 m
 
 [Ucpání střeva][2] spíše způsobí velké množství spolykaných drobných jadérek, různých suchých semínek, pecek nebo tuhé dužiny pomerančů. {class="important"}
 
-## Spolknutí kyseliny nebo zásady {id="spolknuti\_kyseliny\_nebo_zasady"}
+{id="spolknuti\_kyseliny\_nebo_zasady"}
+
+## Spolknutí kyseliny nebo zásady
 
 n/a {class="description"}
 
 **Spolknutí silné kyseliny je velmi závažné poranění.** Poleptáním jícnu kyselinou vznikají nenapravitelné škody (v nejlepším případě zúžení jícnu). [V žaludku již kyselina nevadí][1] – žaludek je na kyselinu zvyklý. Jako první pomoc je třeba kyselinu ředit nebo šetrně neutralizovat a **nikdy nevyvolávat zvracení** (nové poleptání jícnu).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -48,7 +58,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   5. Čím může být dítěti nebezpečná spolknutá mince?
   6. Jaká je první pomoc při polknutí kyseliny?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

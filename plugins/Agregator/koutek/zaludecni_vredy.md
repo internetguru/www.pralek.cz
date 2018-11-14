@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Žaludeční a dvanáctníkový vřed {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zaludecni\_vredy" short="Žaludeční vředy" ctime="2011-07-20" mtime="2011-07-20"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zaludecni\_vredy" short="Žaludeční vředy" ctime="2011-07-20" mtime="2011-07-20"}
+
+# Žaludeční a dvanáctníkový vřed
 
 Žaludeční vředy jsou v současnosti dobře léčitelným onemocněním. Vřed lze vyléčit běžnými léky a nemocný žaludek není třeba operovat. V případě zanedbání vředové choroby však mohou vzniknout život ohrožující komplikace. {class="description" kw="žaludek, žaludeční vřed, dvanáctníkový vřed, vředová choroba, mikroorganizmus, helikobakter pylori, bolest žaludku, tlak žaludku, gastroskopie, stažený žaludek"}
 
@@ -13,7 +15,9 @@ Vlastní příčinou vzniku žaludečního vředu je zvláštní [mikroorganizmu
   2. **Žaludeční/dvanáctníkový vřed je většinou onemocnění sezónní**, dlouhodobé, které se zhoršuje v některých obdobích (nejčastěji jaro a podzim), poté přichází období klidové (léto a zima).
   3. Vznik vředové choroby podporují také [nevhodné stravovací návyky][2].
 
-## Projevy žaludečního nebo dvanáctníkového vředu {id="projevy\_zaludecniho\_nebo\_dvanactnikoveho\_vredu"}
+{id="projevy\_zaludecniho\_nebo\_dvanactnikoveho\_vredu"}
+
+## Projevy žaludečního nebo dvanáctníkového vředu
 
 n/a {class="description"}
 
@@ -34,7 +38,9 @@ Společnými projevy žaludečního nebo dvanáctníkového vředu bývá:
   * hubnutí,
   * sezónní výskyt potíží (jaro a podzim).
 
-## Prokázání a léčba žaludečního nebo dvanáctníkového vředu {id="prokazani\_a\_lecba\_zaludecniho\_nebo\_dvanactnikoveho\_vredu"}
+{id="prokazani\_a\_lecba\_zaludecniho\_nebo\_dvanactnikoveho\_vredu"}
+
+## Prokázání a léčba žaludečního nebo dvanáctníkového vředu
 
 n/a {class="description"}
 
@@ -42,7 +48,9 @@ Při vyšetření žaludku _(gastroskopie)_ se provádí odběr vzorků žalude�
 
 Doplňkem léčby je zákaz koncentrovaného alkoholu, dráždivých kořeněných jídel, kávy a [kouření cigaret][9] (zvláště nalačno). Další nedílnou součástí léčby je urovnání vlastní psychiky. Jestliže pacient potíže přechází, můžou vzniknout závažné [komplikace vředové choroby][10].
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -54,7 +62,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jak se léčí žaludeční vředy?
   5. Co je doplňkem léčby vředové choroby?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

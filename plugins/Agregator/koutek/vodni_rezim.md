@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Dodržování vodního režimu {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vodni\_rezim" short="Vodní režim" ctime="2010-02-17" mtime="2010-02-17"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vodni\_rezim" short="Vodní režim" ctime="2010-02-17" mtime="2010-02-17"}
+
+# Dodržování vodního režimu
 
 Životodárná voda tvoří převážnou část objemu i hmotnosti lidského těla. Dostatek pitné vody je podmínkou pro správný chod celého organizmu (pitný režim). Stejně důležitý je přiměřený poměr mezi množstvím pitné vody, solí a minerálů. {class="description" kw="pitný režim, prvotní moč, primární moč, pitná voda, měkká voda, voda pramenitá, tvrdá voda, minerální voda, léčivá studánka, léčivá voda, zdravá voda, otrava vodou, dehydratace"}
 
 Ledviny tvoří velké množství _prvotní moči (primární moč, primitivní moč)_, kterou následně mnohonásobně (asi 60krát) zahušťují. V případě nedostatku tekutin šetří tělo vodu dalším zahušťováním moči. To je pro ledviny velmi zatěžující a náročný proces. Proto **dostatek tekutin ledviny šetří a naopak nedostatek tekutin ledviny velmi namáhá**.
 
-## Typy pitné vody v přírodě {id="typy\_pitne\_vody\_v\_prirode"}
+{id="typy\_pitne\_vody\_v\_prirode"}
+
+## Typy pitné vody v přírodě
 
 n/a {class="description"}
 
@@ -16,7 +20,9 @@ n/a {class="description"}
   3. **Tvrdá voda** obsahuje minerálů více. Ačkoliv minerální látky z tvrdé vody zanášejí trubky, varnou konvici nebo pračku, lidskému organizmu nikterak neškodí.
   4. **Minerální voda** má obsah minerálů ještě vyšší – je přesně dán (popsáno na vinětě). Taková voda bývá označována jako lázeňská a předpokládá se její blahodárný vliv na lidský organizmus.
 
-## Zdravá voda {id="zdrava_voda"}
+{id="zdrava_voda"}
+
+## Zdravá voda
 
 n/a {class="description"}
 
@@ -24,7 +30,9 @@ Některé konkrétní minerální látky rozpuštěné ve vodě mohou za určit�
 
 Všechny minerální látky z vody se však nevstřebávají. Vstřebávání minerálů je vázáno na jiné složité [procesy v průběhu trávení][1] a většina jich projde zažívacím traktem bez užitku. Vodu s vysokým obsahem minerálů je pro organizmus obtížné vstřebat. Proto **není vhodné trvalé pití pouze minerálních vod**.
 
-## Nesprávný příjem tekutin {id="nespravny\_prijem\_tekutin"}
+{id="nespravny\_prijem\_tekutin"}
+
+## Nesprávný příjem tekutin
 
 n/a {class="description"}
 
@@ -36,7 +44,9 @@ Pivo je z tohoto pohledu svým složením pro tělo přirozené (téměř izoton
 
 Původně pitná voda může být [znečištěna (kontaminována) různými mikroorganizmy][4] nebo dusíkatými látkami, neprochází-li dostatečně silnou propustnou vrstvou horniny (většinou povrchová voda). Pití takové vody způsobuje **různé choroby** (např. cholera, salmonelóza).
 
-## Nedostatek vody zatěžuje organizmus {id="nedostatek\_vody\_zatezuje_organizmus"}
+{id="nedostatek\_vody\_zatezuje_organizmus"}
+
+## Nedostatek vody zatěžuje organizmus
 
 n/a {class="description"}
 
@@ -45,7 +55,9 @@ n/a {class="description"}
   * Zahušťují se i ostatní [tělní tekutiny][1]; trávicí šťávy včetně slin, žaludeční a pankreatické šťávy a žluč. To navíc zvyšuje pravděpodobnost [tvorby žlučových kamenů][8].
   * V případě dostatečného nebo nadměrného tepla se dehydrovaný člověk přestává potit a [je ohrožen přehřátím organizmu (horečkou)][2].
 
-## Staří nebo nemocní lidé a malé děti potřebují dohled nad příjmem tekutin {id="stari\_nebo\_nemocni\_lide\_a\_male\_deti\_potrebuji\_dohled\_nad\_prijmem_tekutin"}
+{id="stari\_nebo\_nemocni\_lide\_a\_male\_deti\_potrebuji\_dohled\_nad\_prijmem_tekutin"}
+
+## Staří nebo nemocní lidé a malé děti potřebují dohled nad příjmem tekutin
 
 n/a {class="description"}
 
@@ -55,7 +67,9 @@ Starší člověk nepije proto, aby nemusel chodit močit. Žízeň si starý č
 
 U malého dítěte je rovněž třeba sledovat přísun tekutin. Známkou nedostatku tekutin (dehydratace) je přetrvávání kožní řasy. _Kožní řasa_ je zvrásnění kůže na bříšku vytvořené dvěma prsty (lehkým štípnutím). Po uvolnění **musí kožní řasa ihned zmizet** – pak je hydratace v pořádku. U dehydrovaného dítěte kožní řasa mizí pomaleji.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -68,7 +82,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   5. Čím je způsobena otrava vodou?
   6. Proč staří lidé málo pijí?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

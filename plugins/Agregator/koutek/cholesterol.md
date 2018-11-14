@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Jak snížit hladinu cholesterolu v krvi {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cholesterol" short="Cholesterol" ctime="2013-09-11" mtime="2013-09-11"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cholesterol" short="Cholesterol" ctime="2013-09-11" mtime="2013-09-11"}
+
+# Jak snížit hladinu cholesterolu v krvi
 
 Vysoká hladina cholesterolu v krvi a jeho usazování v cévách je následkem dlouhodobého stresu a nedostatku vitamínu C. Obojímu lze tedy přirozeně předejít omezením stresu a správnou životosprávou. Vynechání tučných jídel nemá na hladinu cholesterolu v krvi žádný vliv. {class="description" kw="cholesterol, hladina cholesterolu, význam cholesterolu, funkce cholesterolu, hodný a zlý cholesterol, stres, vitamín C"}
 
@@ -9,7 +11,9 @@ Lidské tělo k životu nezbytně potřebuje cholesterol. Cholesterol je součá
 
 Cholesterol je tvořen v játrech, a pak je krevním oběhem dopravován k cílovým orgánům po celém těle. **Přímo ze stravy se do krve žádný cholesterol nedostává.** Stejně jako ostatní tuky se cholesterol přijatý stravou vstřebává rozložený na „stavební kameny“ (mastné kyseliny) a je krví dopraven do jater. Játra pak z těchto a jiných zdrojů tvoří ty látky, které organizmus právě potřebuje.
 
-## Množství cholesterolu v krvi {id="mnozstvi\_cholesterolu\_v_krvi"}
+{id="mnozstvi\_cholesterolu\_v_krvi"}
+
+## Množství cholesterolu v krvi
 
 n/a {class="description"}
 
@@ -22,7 +26,9 @@ Pro standardní chod potřebuje organizmus určité (standardní) množství cho
   * **Dlouhodobý nedostatek vitamínu C**  
     Následkem nedostatku vitamínu C je (mimo jiné) zvýšená křehkost a krvácivost cév. Lidský organizmus si vitamín C neumí vytvořit. Jako nouzové řešení proto „záplatuje“ neustále poškozované (popraskané) cévy cholesterolem. Při dlouhodobém nedostatku vitamínu C zvýšená hladina cholesterolu v krvi přetrvává.
 
-## Snižování vysoké hladiny cholesterolu v krvi {id="snizovani\_vysoke\_hladiny\_cholesterolu\_v_krvi"}
+{id="snizovani\_vysoke\_hladiny\_cholesterolu\_v_krvi"}
+
+## Snižování vysoké hladiny cholesterolu v krvi
 
 n/a {class="description"}
 
@@ -37,7 +43,9 @@ Pokud je člověk dlouhodobě ve stresu, bude mít hladinu cholesterolu vysokou,
 
 Podstata chemického snižování hladiny cholesterolu v krvi (pomocí léků) spočívá v **potlačení přirozené funkce jater**. Tím ovšem nezaniká potřeba organizmu cholesterol dále vyrábět. Játra jsou tedy cíleně ničena a výroba potřebných látek (jakýchkoli, včetně cholesterolu) je pro ně mnohem náročnější. Proto jsou negativní účinky užívání těchto léků (statinů) tak rozsáhlé – svalová slabost, bolest, únava, poškození končetinových nervů, závratě, zhoršení paměti, snížení imunity, deprese a jaterní potíže.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -49,7 +57,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Proč není dobré užívat léky na snížení hladiny cholesterolu v krvi?
   5. Jak lze skutečně snížit hladinu cholesterolu v krvi?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

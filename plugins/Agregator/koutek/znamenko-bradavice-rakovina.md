@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Mateřské znaménko, bradavice nebo rakovina {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="znamenko-bradavice-rakovina" short="Znaménko, bradavice, rakovina" ctime="2009-02-28" mtime="2009-02-28"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="znamenko-bradavice-rakovina" short="Znaménko, bradavice, rakovina" ctime="2009-02-28" mtime="2009-02-28"}
+
+# Mateřské znaménko, bradavice nebo rakovina
 
 Různé kožní výrůstky jsou různě nebezpečné. Ploché mateřské znaménko může za určitých podmínek způsobit závažnou rakovinu. Bazaliom je takový typ rakoviny, který se může v kůži rozšiřovat, ale člověka nezahubí. {class="description" kw="mateřské znaménko, piha, névus, drážděné znaménko, poraněné znaménko, maligní melanom, rakovina kůže, verruka, bradavice, výrůstek na kůži, fibrom, bazaliom, zarudlý svědící boláček, pupínek, kožní nádor"}
 
-## Kdy odstranit mateřské znaménko neboli pihu či névus {id="kdy\_odstranit\_materske\_znamenko\_neboli\_pihu\_ci_nevus"}
+{id="kdy\_odstranit\_materske\_znamenko\_neboli\_pihu\_ci_nevus"}
+
+## Kdy odstranit mateřské znaménko neboli pihu či névus
 
 n/a {class="description"}
 
@@ -15,7 +19,9 @@ Jestli má majitel znaménka pocit, že ho znaménko hyzdí, může si jej **nec
 
 Chronicky drážděné či opakovaně poraněné znaménko by se mohlo proměnit ve [zhoubný nádor][1]. Dráždění bývá nejčastěji okrajem prádla nebo páskem kalhot, nadměrným sluněním, poraněním při holení nebo při manuální práci. Mohl by tím vzniknout maligní melanom – velmi závažný a špatně léčitelný druh rakoviny kůže. Takové **chronicky drážděné znaménko je vhodné odstranit** a tím riziko nádoru definitivně zažehnat. Pověra že odstraněním může vzniknout rakovina je zcela nesmyslná.
 
-## Bradavice (verruka) rakovinu nezpůsobí {id="bradavice\_verruka\_rakovinu_nezpusobi"}
+{id="bradavice\_verruka\_rakovinu_nezpusobi"}
+
+## Bradavice (verruka) rakovinu nezpůsobí
 
 n/a {class="description"}
 
@@ -23,13 +29,17 @@ Bradavice je tuhý výrůstek na kůži barvy kůže nebo světlejší, na povrc
 
 [V kůži dlaní a chodidel a prstů][3] mechanicky překáží a tlačí až bolí, na hřbetech většinou jen hyzdí. Bradavice je vhodné nechat odstranit. Kožní lékař doporučí způsob odstranění (zvláštním přípravkem z lékárny nebo vypálení dusíkem). Chirurgické odstranění není vhodné vzhledem k častým obnovením (recidivám).
 
-## Měkký výrůstek na kůži (fibrom) není nebezpečný {id="mekky\_vyrustek\_na\_kuzi\_fibrom\_neni\_nebezpecny"}
+{id="mekky\_vyrustek\_na\_kuzi\_fibrom\_neni\_nebezpecny"}
+
+## Měkký výrůstek na kůži (fibrom) není nebezpečný
 
 n/a {class="description"}
 
 [Fibrom je nezhoubný nádor][4]; měkký nebolestivý kulovitý nebo dokonce stopkatý výrůstek na kůži kdekoli na těle. Vyskytují se ve středním a vyšším věku a bývají laicky nesprávně označovány jako bradavice, český výraz pro ně není (známé jsou fibromy v obličeji některých našich politiků). **Fibromy nejsou nebezpečné**. Mívají barvu kůže nebo jsou tmavší, nebolí ani nesvědí. Rostou z nich chlupy. Odstranění je možné z kosmetických důvodů.
 
-## Podmínky, za kterých je ploché mateřské znaménko nebezpečné {id="podminky\_za\_kterych\_je\_ploche\_materske\_znamenko_nebezpecne"}
+{id="podminky\_za\_kterych\_je\_ploche\_materske\_znamenko_nebezpecne"}
+
+## Podmínky, za kterých je ploché mateřské znaménko nebezpečné
 
 n/a {class="description"}
 
@@ -37,13 +47,17 @@ Nebezpečné je tmavé znaménko v rovině kůže, které nově vzniklo nebo se 
 
 K aktivizaci (propuknutí nebezpečného stavu) plochého znaménka často vede **nadměrné neřízené vystavování slunečnímu záření** (stejně tak umělému solárnímu). Rovněž mechanické třeba jen jednorázové **poranění plochého znaménka může být závažné** a je třeba vyhledat lékaře.
 
-## Bazaliom, dlouho se nehojící stroupek nebo defekt, je rakovina kůže {id="bazaliom\_dlouho\_se\_nehojici\_stroupek\_nebo\_defekt\_je\_rakovina_kuze"}
+{id="bazaliom\_dlouho\_se\_nehojici\_stroupek\_nebo\_defekt\_je\_rakovina_kuze"}
+
+## Bazaliom, dlouho se nehojící stroupek nebo defekt, je rakovina kůže
 
 n/a {class="description"}
 
 Bazaliom je zarudlý svědící boláček, který se dlouho (až měsíce) nehojí a po zaschnutí na něm pevně lpí stroupek nebo šupinky kůže nebo se tvoří defekt v kůži. Vzniká ve středním a vyšším věku na částech těla (obličej, kštice, uši, krk, ramena), která jsou dlouhodobě (po léta) [nadměrně vystavována slunci][6]. **Bazaliom je kožní zhoubný nádor a nutně vyžaduje lékařské vyšetření**.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -55,7 +69,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Je nebezpečné svědící mateřské znaménko?
   5. Měsíce se nehojící boláček v obličeji staršího člověka může být zhoubný nádor?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Nevolnost a zvracení v dopravních prostředcích {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Kinetóza" id="kinetoza" ctime="2015-07-13" mtime="2015-07-13"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Kinetóza" id="kinetoza" ctime="2015-07-13" mtime="2015-07-13"}
+
+# Nevolnost a zvracení v dopravních prostředcích
 
 Pocit nevolnosti může být vyvolán nejrůznějšími druhy pohybu. Tomu lze mnohdy snadno předejít. Někdy však mohou být tytéž stavy projevem onemocnění. {class="description" kw="nevolnost, zvracení, kinetóza, cestovní nemoc, mořská nemoc, nemoc z pohybu, rovnovážné ústrojí, léky, prevence kinetózy"}
 
@@ -9,7 +11,9 @@ Nevolnost vzniklá v dopravním prostředku se laicky nazývá nemoc z pohybu, c
 
 Nejčastější projevy kinetózy jsou pocit na zvracení, studený pot, slabost, bledost, závrať, bolest hlavy, celkový pocit těžkosti, pokles krevního tlaku, slinění, říhání, zvracení. Projevy mohou mezi sebou vzájemně přecházet, mohou se různě kombinovat nebo se vyskytovat jednotlivě.
 
-## Vznik kinetózy {id="vznik_kinetozy"}
+{id="vznik_kinetozy"}
+
+## Vznik kinetózy
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ Pro vznik kinetózy jsou typické **nejrůznější druhy pohybu** jako např. j
 
 K nevolnosti jsou náchylnější děti než dospělí. Kinetóza může být u některých lidí navozena sezením proti směru jízdy při jízdě v dopravním prostředku. Vznik kinetózy podpoří každý pohyb, který překvapí. Může se jednat o nečekané zabrzdění, akceleraci, zhoupnutí lodi, propadnutí letadla atp.
 
-## Prevence kinetózy {id="prevence_kinetozy"}
+{id="prevence_kinetozy"}
+
+## Prevence kinetózy
 
 n/a {class="description"}
 
@@ -33,7 +39,9 @@ Vzniku kinetózy je možné předcházet **sledováním pohybu a vyhýbáním se
   * udržováním příjemných podmínek (čerstvý vzduch a příjemná teplota),
   * příjmem malého množství chutného jídla a dostatkem oblíbených tekutin.
 
-## Komplikace kinetózy {id="komplikace_kinetozy"}
+{id="komplikace_kinetozy"}
+
+## Komplikace kinetózy
 
 n/a {class="description"}
 
@@ -42,7 +50,9 @@ Projevy kinetózy mohou být v některých případech příznaky onemocnění (
   * v situacích, ve kterých se dříve neobjevovaly, či
   * přetrvávající delší dobu po ukončení činnosti, která je vyvolala.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -54,7 +64,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaké jsou možnosti prevence vzniku kinetózy?
   5. Co odlišuje kinetózu od onemocnění se stejnými příznaky?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

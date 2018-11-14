@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Nákaza přisátým klíštětem {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prisate\_kliste" short="Přisáté klíště" ctime="2007-12-13" mtime="2007-12-13"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prisate\_kliste" short="Přisáté klíště" ctime="2007-12-13" mtime="2007-12-13"}
+
+# Nákaza přisátým klíštětem
 
 Přisáté klíště je možné odstranit několika způsoby. Případná nákaza se projeví až následnými příznaky. {class="description" kw="klíště, pupínek, borelióza, zánět mozku, hmyz"}
 
 Klíště může být přenašečem dvou [infekčních chorob][1] – virového zánětu mozku nebo bakteriové boreliózy. Přisátím může nemoc přenést na člověka. Přisátí klíštěte můžeme předejít vhodným oblečením pro pobyt v přírodě a různými chemickými přípravky k odpuzování hmyzu.
 
-## Odstranění přisátého klíštěte {id="odstraneni\_prisateho\_klistete"}
+{id="odstraneni\_prisateho\_klistete"}
+
+## Odstranění přisátého klíštěte
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ Udušené klíště se dá z kůže snadno **odstranit šetrným kývavým pohyb
 
 Po odstranění klíštěte zůstává vždy kolem místa poranění zarudlý pupínek. Jedná se o běžnou reakci na látku proti srážení krve, kterou klíště vstříklo do kůže v okamžiku zakousnutí. Na odstranění klíštěte není třeba chvátat, neboť případná infekce vstupuje do rány v okamžiku zakousnutí (spolu s uvedenou látkou).
 
-## Počáteční příznaky onemocnění {id="pocatecni\_priznaky\_onemocneni"}
+{id="pocatecni\_priznaky\_onemocneni"}
+
+## Počáteční příznaky onemocnění
 
 n/a {class="description"}
 
@@ -27,7 +33,9 @@ Další chorobou, kterou může klíště na člověka přenést je virový zán
 
 Boreliózu může přenášet i jiný hmyz – například komár. Virový zánět mozku přenáší pouze klíště. {class="example"}
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -39,7 +47,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jací jsou mimo klíště další přenašeči klíšťové encefalitidy?
   5. Jaké jsou první příznaky boreliózy?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

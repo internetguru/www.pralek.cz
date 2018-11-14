@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Rakovina tlustého střeva a konečníku {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_tlusteho\_streva\_a_konecniku" short="Rakovina tlustého střeva a konečníku" ctime="2010-07-17" mtime="2010-07-17"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_tlusteho\_streva\_a_konecniku" short="Rakovina tlustého střeva a konečníku" ctime="2010-07-17" mtime="2010-07-17"}
+
+# Rakovina tlustého střeva a konečníku
 
 Po rakovině tlustého střeva a konečníku je třeba [aktivně pátrat][1]. Její záludnost spočívá v naprosto bezpříznakovém počátku a jen velmi neurčitých projevech i při již plně rozvinutém onemocnění. {class="description" kw="tlusté střevo, konečník, rakovina, kolorektální karcinom, krev ve stolici, střevní neprůchodnost, zástava větrů a stolice, zvracení, uzliny, druhotná ložiska, metastázy, test stolice na OK, rektoskopie, kolonoskopie, bioterapie, vývod střeva"}
 
@@ -9,7 +11,9 @@ Zhoubný nádor tlustého střeva a konečníku _(kolorektální karcinom)_ je v
 
 Dokonce ani znečištěné prostředí statisticky nezvyšuje pravděpodobnost onemocnění. Se stejnou pravděpodobností onemocní člověk bydlící v průmyslové aglomeraci s vysokým výskytem karcinogenů stejně jako lesník nekuřák bydlící v celý život v lese, který se živí jen nejzdravějšími čerstvými potravinami bez konzervantů. {class="example"}
 
-## Projevy nádoru tlustého střeva {id="projevy\_nadoru\_tlusteho_streva"}
+{id="projevy\_nadoru\_tlusteho_streva"}
+
+## Projevy nádoru tlustého střeva
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ Záludnost _kolorektálního karcinomu_ spočívá v **naprosto bezpříznakové
 
 Bohužel je **nádor velmi často zjištěn až při vzniku komplikací** způsobených značně pokročilým stádiem. Teprve komplikace totiž přivedou pacienta na chirurgii, nejčastěji jako projev střevní neprůchodnosti (pocit nadmutého břicha, zástava větrů a stolice, zvracení) nebo prudké [krvácení do zažívací trubice][5].
 
-## Stádia onemocnění {id="stadia_onemocneni"}
+{id="stadia_onemocneni"}
+
+## Stádia onemocnění
 
 n/a {class="description"}
 
@@ -32,7 +38,9 @@ Tato obávaná diagnóza nemusí vždy znamenat nevyhnutelně ortel smrti. Vývo
 
 Na základě zkušeností se navrhuje podle stádia onemocnění nejvhodnější léčebný postup pro každého pacienta individuálně.
 
-## Možnosti odhalení rakoviny tlustého střeva {id="moznosti\_odhaleni\_rakoviny\_tlusteho\_streva"}
+{id="moznosti\_odhaleni\_rakoviny\_tlusteho\_streva"}
+
+## Možnosti odhalení rakoviny tlustého střeva
 
 n/a {class="description"}
 
@@ -42,7 +50,9 @@ Nejjednodušší je vyšetření stolice na _okultní krvácení_ (zkráceně OK
 
 V případě pozitivity testu na OK je třeba se podrobit odbornému vyšetření tlustého střeva a konečníku _(rektoskopie, kolonoskopie)_. Jedná se o sice nepříjemné, ale snesitelné a nebolestivé vyšetření speciální optikou zavedenou do střeva konečníkem. Po zjištění zdroje krvácení se odebere vzorek. Teprve výsledek histologického vyšetření vyloučí nebo potvrdí diagnózu nádoru. Dalšími vyšetřeními se zjistí stupeň onemocnění a pacientovi se navrhne pro něj nejlepší individuální léčebný postup.
 
-## Možnosti léčení rakoviny tlustého střeva a konečníku {id="moznosti\_leceni\_rakoviny\_tlusteho\_streva\_a\_konecniku"}
+{id="moznosti\_leceni\_rakoviny\_tlusteho\_streva\_a\_konecniku"}
+
+## Možnosti léčení rakoviny tlustého střeva a konečníku
 
 n/a {class="description"}
 
@@ -61,7 +71,9 @@ n/a {class="description"}
       2. Při [střevní neprůchodnosti][10] _(ileus)_ způsobené nádorem je vždy nutné založit vývod střeva břišní stěnou pro uvolnění střevní neprůchodnosti _(kolostomie)_. Následuje pokus o odstranění nádoru dle podmínek. Opět většinou následují další operace jako v předchozím případě.
       3. V případě pokročilého stádia onemocnění trvalý vývod střeva břišní stěnou k zabránění krutých bolestí spojených se střevní neprůchodností.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -73,7 +85,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaké jsou možnosti včasného odhalení nádoru tlustého střeva a konečníku?
   5. Jakým způsobem lze vyléčit nádor tlustého střeva v ideálním případě?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

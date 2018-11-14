@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Proč nelze mít svá oblíbená antibiotika {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="antibiotika" short="Antibiotika" ctime="2008-05-14" mtime="2008-05-14"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="antibiotika" short="Antibiotika" ctime="2008-05-14" mtime="2008-05-14"}
+
+# Proč nelze mít svá oblíbená antibiotika
 
 Bakterie, které imunitní systém vyhodnotí jako nežádoucí, jsou likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud dočasně mikroorganizmy vítězí (to se projevuje příznaky zánětu). {class="description" kw="antibiotika, bakterie, imunitní systém, bílé krvinky, mikroorganizmy, zánět, bakterie, rezistence na antibiotika, K+C, imunitní systém, alergie"}
 
@@ -9,7 +11,9 @@ Rozvoj [zánětlivého onemocnění][1] s celkovými a místními příznaky je 
 
 Vždy je výhodou, vyhledat **svého praktického lékaře** který pacienta (na rozdíl od cizího lékaře na pohotovosti) dobře zná. Ten nejlépe posoudí závažnost onemocnění a jeho souvislost s celkovým zdravotním stavem; přitom zohlední ostatní dlouhodobé nemoci, [stav imunity][3], předchozí užívání antibiotik, eventuelní alergie, vlivy prostředí a může nejlépe předvídat reakci na léky.
 
-## Proč různé druhy antibiotik {id="proc\_ruzne\_druhy_antibiotik"}
+{id="proc\_ruzne\_druhy_antibiotik"}
+
+## Proč různé druhy antibiotik
 
 n/a {class="description"}
 
@@ -23,7 +27,9 @@ Následně byla objevena nová antibiotika, která bakterie přímo hubí. Dalš
 
 Mnohdy bývá nutné při závažných onemocněních různá antibiotika kombinovat. Nedobráním doporučené dávky antibiotika se zvyšuje množství přežívajících bakterií a tím se podporuje vznik resistentních bakteriálních kmenů vůči danému antibiotiku! {class="important"}
 
-## Vyšetření bakterií – kultivace a citlivost na antibiotika (K+C) {id="vysetreni\_bakterii-kultivace\_a\_citlivost\_na\_antibiotika\_kc"}
+{id="vysetreni\_bakterii-kultivace\_a\_citlivost\_na\_antibiotika\_kc"}
+
+## Vyšetření bakterií – kultivace a citlivost na antibiotika (K+C)
 
 n/a {class="description"}
 
@@ -35,7 +41,9 @@ Na ploše živné půdy jsou rozloženy vzorky různých antibiotik. Po 2 dnech 
 
 Jestliže není možnost provést vyšetření K+C v začátku onemocnění, **nasadí lékař antibiotika zkusmo** a doufá v jejich účinnost. Později se může doplnit K+C a dle výsledku antibiotika eventuálně změnit.
 
-## Důvody preventivního podávání antibiotik {id="duvody\_preventivniho\_podavani_antibiotik"}
+{id="duvody\_preventivniho\_podavani_antibiotik"}
+
+## Důvody preventivního podávání antibiotik
 
 n/a {class="description"}
 
@@ -43,7 +51,9 @@ Antibiotika nepůsobí proti virovým onemocněním (například proti chřipce)
 
 Někteří lidé musejí mít uměle sníženou imunitu (například po transplantaci orgánu). Pak je logické, že je nutné nasadit antibiotika při každém podezření na zánětlivou chorobu, ale i při prostém [vytržení zubu][6].
 
-## Negativní účinky antibiotik {id="negativni\_ucinky\_antibiotik"}
+{id="negativni\_ucinky\_antibiotik"}
+
+## Negativní účinky antibiotik
 
 n/a {class="description"}
 
@@ -53,7 +63,9 @@ Původní kmeny blahodárně působících bakterií bývají antibiotiky vyhube
 
 Opakované nadměrné užívání antibiotik vede k oslabení imunitního systému. Přibývá i alergických reakcí na antibiotika. Tomu se bohužel nelze vyvarovat. {class="important"}
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -67,7 +79,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   6. Kdy je vhodné podat antibiotika preventivně?
   7. V čem spočívají negativní účinky antibiotik?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

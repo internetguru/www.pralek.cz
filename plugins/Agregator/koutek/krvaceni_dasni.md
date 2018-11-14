@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Příčinou krvácení dásní je nedostatek vitamínu C {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_dasni" short="Krvácení dásní" ctime="2013-03-15" mtime="2013-03-15"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_dasni" short="Krvácení dásní" ctime="2013-03-15" mtime="2013-03-15"}
+
+# Příčinou krvácení dásní je nedostatek vitamínu C
 
 Nedostatek vitamínu C oslabuje dásně. Ty mohou při čištění zubů nebo kousání tvrdé potravy krvácet. Po zvýšení konzumace přírodního vitamínu C krvácení dásní ustane. {class="description" kw="vitamín C, paradentóza, krvácení dásní, příčiny paradentózy, nedostatek vitamínu C"}
 
@@ -13,7 +15,9 @@ Zdraví zubů je přímo ovlivněno složením přijímané potravy a [tekutin][
   2. **Ústup dásní** a tím obnažováním nehezkých krčků zubů (nejsou kryty bílou lesklou sklovinou jako zuby), které byly za normálních podmínek překryty dásní.
   3. **Vypadávání zubů** jako poslední stádium paradentózy.
 
-## Příčiny krvácení dásní – vznik paradentózy {id="priciny\_krvaceni\_dasni-vznik_paradentozy"}
+{id="priciny\_krvaceni\_dasni-vznik_paradentozy"}
+
+## Příčiny krvácení dásní – vznik paradentózy
 
 n/a {class="description"}
 
@@ -23,7 +27,9 @@ Prvotní **příčinou paradentózy je nedostatek vitamínu C**, který zvyšuje
 
 [Kouření cigaret][5] podporuje vznik paradentózy tím, že zvyšuje celkovou spotřebu vitamínu C (jehož následným nedostatkem cévy křehnou). Kouření zužuje všechny cévy obecně – tedy včetně cév v okrajích dásní (čímž se snižuje jejich schopnost regenerace).
 
-## Prevence paradentózy a léčení jejích počátků {id="prevence\_paradentozy\_a\_leceni\_jejich_pocatku"}
+{id="prevence\_paradentozy\_a\_leceni\_jejich_pocatku"}
+
+## Prevence paradentózy a léčení jejích počátků
 
 n/a {class="description"}
 
@@ -39,7 +45,9 @@ Již v počátcích paradentózy (začínají krvácet dásně) je třeba použ�
 
 Kromě prevence paradentózy a léčení počátečního stádia popsaným způsobem patří všechna ostatní stádia choroby do rukou zubního lékaře.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -50,7 +58,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Jak působí na nemocnou dáseň zubní pasta proti paradentóze?
   4. Jaké přednosti má měkký kartáček na zuby před tvrdým?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

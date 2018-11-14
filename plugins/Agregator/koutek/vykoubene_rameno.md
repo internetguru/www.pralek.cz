@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Šetrná léčba vykloubeného ramene {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vykoubene\_rameno" short="Vykloubené rameno" ctime="2013-05-12" mtime="2013-05-12"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vykoubene\_rameno" short="Vykloubené rameno" ctime="2013-05-12" mtime="2013-05-12"}
+
+# Šetrná léčba vykloubeného ramene
 
 Vykloubení ramene (luxace ramene) je velmi bolestivý a právem obávaný úraz. Napravení se provádí vždy citlivě, bez násilí, bez trhání nebo škubání. Často je nezbytné celkové znecitlivění. {class="description" kw="rameno, vymknutí, vykloubení, luxace, přední, dolní, zadní, horní, nitrohrudní, opakovaná, recidivující, habituální"}
 
 Rameno je nejvolnější kloub v těle, protože umožňuje pohyb paží všemi směry. Kloubní jamka ramene je tedy velmi mělká a proto může působením násilí nevhodným směrem snadno dojít k vykloubení ramene. To je stav, kdy kloubní hlavice opustila kloubní jamku.
 
-## Typy vykloubení ramene a mechanizmus jejich vzniku {id="typy\_vykloubeni\_ramene\_a\_mechanizmus\_jejich\_vzniku"}
+{id="typy\_vykloubeni\_ramene\_a\_mechanizmus\_jejich\_vzniku"}
+
+## Typy vykloubení ramene a mechanizmus jejich vzniku
 
 n/a {class="description"}
 
@@ -15,7 +19,9 @@ n/a {class="description"}
 
 Ostatní typy vykloubení ramene (směrem dozadu nebo dolů) jsou mnohem méně časté. Velmi vzácně může vzniknout _luxace nahoru_ nebo dokonce _luxace do hrudníku_ se [zlomeninou žeber][1]. Tyto typy vykloubení mívají nejrůznější mechanizmy vzniku včetně působení hrubého násilí při pádech nebo dopravních nehodách.
 
-## Vykloubené rameno a první pomoc {id="vykloubene\_rameno\_a\_prvni\_pomoc"}
+{id="vykloubene\_rameno\_a\_prvni\_pomoc"}
+
+## Vykloubené rameno a první pomoc
 
 n/a {class="description"}
 
@@ -25,7 +31,9 @@ V rámci první pomoci je třeba **zafixovat končetinu v dané poloze**. Toho l
 
 Zraněný nesmí jíst, pít, kouřit ani brát léky. V případě celkového znecitlivění (pokud je nutné) musí být zraněný nalačno a střízlivý. Léky a kouření mohou celkové znecitlivění zkomplikovat.
 
-## Léčení vykloubeného ramene není bolestivé {id="leceni\_vykloubeneho\_ramene\_neni\_bolestive"}
+{id="leceni\_vykloubeneho\_ramene\_neni\_bolestive"}
+
+## Léčení vykloubeného ramene není bolestivé
 
 n/a {class="description"}
 
@@ -35,7 +43,9 @@ Pacient s vykloubeným ramenem bývá vyděšený a stresovaný – prudkou bole
 
 Když pacient nedokáže rameno uvolnit, musí nastoupit celkové znecitlivění (se svými riziky). Po uspání pacienta dojde k uvolnění svalů a hlavice pažní kosti velmi snadno vklouzne zpět do kloubní jamky. Celkové znecitlivění je také nutné, pokud se jedná o jinou než _přední luxaci_. V takových případech totiž napravení bývá komplikovanější.
 
-## Opakované luxace a jejich léčení {id="opakovane\_luxace\_a\_jejich\_leceni"}
+{id="opakovane\_luxace\_a\_jejich\_leceni"}
+
+## Opakované luxace a jejich léčení
 
 n/a {class="description"}
 
@@ -45,7 +55,9 @@ K opakovaným _(recidivujícím, habituálním)_ luxacím dochází za minimáln
 
 Při opakované luxaci ramene je vhodné po odborném vyšetření vyhledat specializované pracoviště a absolvovat doporučenou ortopedickou operaci. Výsledkem operace je opětná stabilita ramene a plná funkčnost paže.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -56,7 +68,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Na čem závisí úspěšné napravení vykloubeného ramene bez celkového znecitlivění?
   4. Proč bývá nutné opakovanou luxaci ramene operovat?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Bolest hlavy, migréna {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_hlavy_migrena" short="Bolest hlavy, migréna" ctime="2010-03-16" mtime="2010-03-16"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_hlavy_migrena" short="Bolest hlavy, migréna" ctime="2010-03-16" mtime="2010-03-16"}
+
+# Bolest hlavy, migréna
 
 Nejkrutější bolestí hlavy je migréna. Řešením je včasné podání vhodného léku proti bolesti. Běžná bolest hlavy má svou příčinu a nemusí se vyvíjet tak dramaticky. Ideálním řešením je odstranit příčinu bolesti než bolest tlumit léky. {class="description" kw="bolest hlavy, migréna, bolest poloviny hlavy, prodromy, léky, příčiny bolestí hlavy"}
 
-## Migréna – nesnesitelná bolest hlavy {id="migrena-nesnesitelna\_bolest\_hlavy"}
+{id="migrena-nesnesitelna\_bolest\_hlavy"}
+
+## Migréna – nesnesitelná bolest hlavy
 
 n/a {class="description"}
 
@@ -15,7 +19,9 @@ Mnoho lidí trpících migrénou na sobě s předstihem pozná, že bolest přij
 
 Migréna je následkem chybného prokrvení části mozku. Počínající bolest hlavy tvoří v cévní stěně změny, které vedou ke zhoršení bolesti a vzniká začarovaný kruh. Proto je možné si vzít v počátku bolesti hlavy jakýkoli lék proti bolesti.
 
-## Nejčastější příčiny bolestí hlavy a jejich řešení {id="nejcastejsi\_priciny\_bolesti\_hlavy\_a\_jejich\_reseni"}
+{id="nejcastejsi\_priciny\_bolesti\_hlavy\_a\_jejich\_reseni"}
+
+## Nejčastější příčiny bolestí hlavy a jejich řešení
 
 n/a {class="description"}
 
@@ -56,7 +62,9 @@ n/a {class="description"}
   * pobyt v místnosti zakouřené tabákovým kouřem nebo zplodinami z kamen (CO);
       * Pomůže opustit místnost nebo řádně vyvětrat (případně požádat vrchního, aby pustil klimatizaci).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -67,7 +75,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Jaké je společné řešení bolesti hlavy zapříčiněné přehřátím organizmu, nadměrným pitím alkoholu či kouřením?
   4. Za jakých okolností je nutné při bolestech hlavy vyhledat lékařskou pomoc?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

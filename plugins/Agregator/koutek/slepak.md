@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Slepák: zánět červovitého přívěsku slepého střeva {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="slepak" short="Slepák" ctime="2009-12-13" mtime="2009-12-13"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="slepak" short="Slepák" ctime="2009-12-13" mtime="2009-12-13"}
+
+# Slepák: zánět červovitého přívěsku slepého střeva
 
 Mnohotvárnost příznaků zánětu červovitého přívěsku slepého střeva (hovorově slepák) bývá příčinou komplikací nebo zanedbání jeho léčení. V případě nejasných bolestí břicha je třeba vyhledat odborného lékaře (chirurga). {class="description" kw="slepák, zánět červovitého přívěsku slepého střeva, zánět, slepé střevo, appendix, appendicitida, bolest břicha, nevolnost, zvracení, nechutenství, průjem, teplota, peritonitis"}
 
@@ -9,7 +11,9 @@ Toto onemocnění je řazeno mezi _náhlé příhody břišní_. To znamená, ž
 
 Předně [tenké střevo ústí do tlustého střeva v pravém podbřišku][1]. To však neplatí vždy! Spodní část tlustého střeva se nazývá slepé střevo a z něj vychází červovitý přívěsek _(appendix vermiformis)_. Apendix však odstupuje jakýmkoli směrem! Tento přívěsek je ten, který se může zanítit – laicky _slepák_ – správně zánět červovitého přívěsku slepého střeva neboli _apendicitida_ (z latinského _appendicitis_).
 
-## Počáteční příznaky zánětu přívěsku slepého střeva {id="pocatecni\_priznaky\_zanetu\_privesku\_slepeho_streva"}
+{id="pocatecni\_priznaky\_zanetu\_privesku\_slepeho_streva"}
+
+## Počáteční příznaky zánětu přívěsku slepého střeva
 
 n/a {class="description"}
 
@@ -25,7 +29,9 @@ Zánět může začít tak, že zdravý člověk večer usne a v noci jej probud
   * [**Průjem**][4] se objevuje spíše výjimečně a
   * [**teplota**][6] bývá často normální nebo jen lehce zvýšená.
 
-## Pozdější příznaky apendicitidy {id="pozdejsi\_priznaky\_apendicitidy"}
+{id="pozdejsi\_priznaky\_apendicitidy"}
+
+## Pozdější příznaky apendicitidy
 
 n/a {class="description"}
 
@@ -38,7 +44,9 @@ Zanícený přívěsek může kdykoli
 
 Bolesti se mohou stupňovat – bolí každý pohyb. Pacient nemůže chodit a hledá úlevovou polohu; drží se v předklonu, dítě si sedá na bobek. Tehdy je většinou vysoká teplota, bolí pravý podbřišek nebo celé břicho (podle místa a ohraničení zánětu). **Stav je závažný a stále se zhoršuje**. Pacient je ohrožen na životě.
 
-## Vývoj, léčení a komplikace apendicitidy {id="vyvoj\_leceni\_a\_komplikace\_apendicitidy"}
+{id="vyvoj\_leceni\_a\_komplikace\_apendicitidy"}
+
+## Vývoj, léčení a komplikace apendicitidy
 
 n/a {class="description"}
 
@@ -50,13 +58,17 @@ Zánět může **pokročit a stát se zřejmým**. Pak vyřeší problém operac
 
 Zánět však může také zůstat v počátečním stádiu a **časem samovolně ustoupit**. Přiložený studený obklad na pravý podbřišek může ústup zánětu podpořit („rozhánění slepáku“).
 
-## Stanovení diagnózy {id="stanoveni_diagnozy"}
+{id="stanoveni_diagnozy"}
+
+## Stanovení diagnózy
 
 n/a {class="description"}
 
 Ke stanovení diagnózy je většinou nutné **opakované vyšetření odborným lékařem**. Někdy pomůže odběr a vyhodnocení krve a moči (laboratorní vyšetření), rentgen, ultrazvuk neboli sonograf, CT (počítačový tomograf, hovorově „cétéčko“) nebo MR (magnetická rezonance).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -68,7 +80,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Pro co svědčí náhlý ústup bolestí břicha při podezření na apendicitidu?
   5. Za jakých podmínek je vhodná plánovaná operace apendixu?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

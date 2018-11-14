@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Rychlá lékařská pomoc {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rychla\_lekarska_pomoc" short="Rychlá lékařská pomoc" ctime="2010-02-28" mtime="2010-02-28"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rychla\_lekarska_pomoc" short="Rychlá lékařská pomoc" ctime="2010-02-28" mtime="2010-02-28"}
+
+# Rychlá lékařská pomoc
 
 Úkolem rychlé lékařské pomoci (záchranky) je záchrana lidí v ohrožení života. Záchranka nenahrazuje lékařskou službu první pomoci (pohotovost) a není na takovou práci ani prostorově ani technicky vybavena. {class="description" kw="rychlá lékařská pomoc, záchranka, integrovaný záchranný systém, dojezdová doba, vrtulník, linka 155, rychlá zdravotnická pomoc, letecké záchranná služba"}
 
-## Výjezdy a součinnost záchranky s policií a hasiči {id="vyjezdy\_a\_soucinnost\_zachranky\_s\_policii\_a_hasici"}
+{id="vyjezdy\_a\_soucinnost\_zachranky\_s\_policii\_a_hasici"}
+
+## Výjezdy a součinnost záchranky s policií a hasiči
 
 n/a {class="description"}
 
@@ -19,7 +23,9 @@ Pokud dojde k většímu neštěstí nebo k hromadné nehodě, vysílá dispeče
 
 Dítě bylo odborně ošetřeno a dostalo potřebné léky. Sanita vyrazila směrem k velkému parkovišti, spojila se s dispečerem a žádala vrtulník k transportu na kliniku pro spáleniny do Prahy. Zabezpečené dítě bylo předáno do vrtulníku na domluveném místě. _Dětský život byl zachráněn._ {class="important"}
 
-## Informační tok a rozhodování o posádce a výjezdech {id="informacni\_tok\_a\_rozhodovani\_o\_posadce\_a_vyjezdech"}
+{id="informacni\_tok\_a\_rozhodovani\_o\_posadce\_a_vyjezdech"}
+
+## Informační tok a rozhodování o posádce a výjezdech
 
 n/a {class="description"}
 
@@ -39,7 +45,9 @@ Dispečer má na výběr na místo vyslat:
 
 Služba pracuje v nepřetržitém směnném režimu (12 hodin). Vozidlo rychlé lékařské pomoci je vybaveno léky, zdravotnickou technikou a moderními přístroji, které umožňují zachránit život zraněnému nebo nemocnému člověku.
 
-## Důvody přivolání záchranky, plané výjezdy a agresivita pacientů {id="duvody\_privolani\_zachranky\_plane\_vyjezdy\_a\_agresivita_pacientu"}
+{id="duvody\_privolani\_zachranky\_plane\_vyjezdy\_a\_agresivita_pacientu"}
+
+## Důvody přivolání záchranky, plané výjezdy a agresivita pacientů
 
 n/a {class="description"}
 
@@ -50,7 +58,9 @@ Nejčastější důvody pro volání záchranky jsou **náhlé a závažné poru
 
 Na místě zásahu se vyskytuje **slovní agresivita nejčastěji v partách opilců**. Vhodným jednáním však lze tyto jedince většinou usměrnit. V případě skutečné fyzické agresivity je volána pomocí integrovaného záchranného systému k součinnosti policie, která zajistí pacifikaci a případně i následný doprovod takového pacienta.
 
-## Respekt na silnici, dávání přednosti záchrance {id="respekt\_na\_silnici\_davani\_prednosti_zachrance"}
+{id="respekt\_na\_silnici\_davani\_prednosti_zachrance"}
+
+## Respekt na silnici, dávání přednosti záchrance
 
 n/a {class="description"}
 
@@ -60,7 +70,9 @@ n/a {class="description"}
 
 Paradoxně se relativně často stává, že proti sobě jedoucí řidiči oba zpomalí a nakonec zastaví přímo vedle sebe. Tím **nutí záchranku zpomalit a mnohdy i zastavit** do té doby, než jeden z nich nakonec popojede :-( {class="example"}
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -75,7 +87,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   7. Jaké posádky může vyslat dispečer na místo nehody?
   8. Jaké jsou nejčastější důvody výjezdů záchranky?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

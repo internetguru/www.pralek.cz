@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Chřipka: virové onemocnění {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="chripka" short="Chřipka" ctime="2008-07-20" mtime="2008-07-20"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="chripka" short="Chřipka" ctime="2008-07-20" mtime="2008-07-20"}
+
+# Chřipka: virové onemocnění
 
 Chřipka je závažné přenosné virové onemocnění. Konkrétní lék proti chřipce neexistuje; je možné se preventivně nechat očkovat proti konkrétnímu viru chřipky. Ten však velmi rychle mutuje, a už za několik měsíců nemusí mít očkování efekt. {class="description" kw="viry, buňka, šíření chřipky, viry chřipky, léčba chřipky, mutace viru chřipky, léky"}
 
 Viry jsou vedle [bakterií][1] další možnou příčinou přenosných onemocnění. Jsou mnohem menší než bakterie, nejsou viditelní světelným mikroskopem (elektronovým ano). Napadají lidské buňky. Některé viry mají nejraději svalové a vazivové, jiné jaterní buňky, jiné viry napadají nejraději nervové buňky. Po napadení hostitelské buňky dokážou viry zasáhnout do její genetické informace a přinutit ji, aby pracovala pro viry podle jejich přání. V buňce se viry množí a postupně napadají celý organizmus.
 
-## Šíření chřipky {id="sireni_chripky"}
+{id="sireni_chripky"}
+
+## Šíření chřipky
 
 n/a {class="description"}
 
@@ -15,7 +19,9 @@ Známé a obávané **viry chřipky se šíří mezi lidmi** nejčastěji [kapé
 
 Postupně se takto virus chřipky rozšiřuje do sousední vesnice, města, státu – časem tak virus oběhne celou Zemi. V průběhu šíření však postupně mění svou identitu a na původní místo se virus vrací v tak změněné formě, že ho [imunitní systém][4] nedokáže rozeznat a navzdory imunitě vůči v minulosti prodělané chřipce může organizmus chřipkou znovu onemocnět.
 
-## Komplikace a léčba chřipky {id="komplikace\_a\_lecba_chripky"}
+{id="komplikace\_a\_lecba_chripky"}
+
+## Komplikace a léčba chřipky
 
 n/a {class="description"}
 
@@ -25,7 +31,9 @@ Chřipkové epidemie mají různá jména, podle míst kde byl ten který virus 
 
 **Spolehlivý lék proti chřipce neexistuje.** Jsou léky podpůrné, kterými je možno blahodárně ovlivnit příznaky chřipky; [léky proti vysoké horečce a proti bolestem][5] a [léky proti kašli][6]. Zásadní léčbou je ale klid na lůžku, [dostatek tekutin (čaj a střídavě minerálky)][7], pocení, [udržování teploty kolem 38 °C][3], vitamíny podle chuti – nejlépe přírodní. Pacienta [není třeba nutit do jídla][8], dokud mu není dobře. **Pacienta je však nutno neustále nutit do pití.**
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -36,7 +44,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Za jakých podmínek může být onemocnění chřipkou osudné?
   4. Jak léčit rozvinutou chřipku?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

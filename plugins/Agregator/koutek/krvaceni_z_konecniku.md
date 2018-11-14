@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Krvácení z konečníku: hemoroidy nebo nádor {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_z_konecniku" short="Krvácení z konečníku" ctime="2007-11-23" mtime="2017-11-08"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_z_konecniku" short="Krvácení z konečníku" ctime="2007-11-23" mtime="2017-11-08"}
+
+# Krvácení z konečníku: hemoroidy nebo nádor
 
 Krvácení z konečníku mívá různé příčiny. Nejčastěji se jedná o hemoroidy. Včasné odhalení příčiny vždy zvyšuje šanci na uzdravení, i když se jedná o nádor. Zatímco u hemoroidů je operace jednou z mnoha možností léčby, v případě nádoru bývá operace nezbytná. {class="description" kw="konečník, krev ve stolici, kolonoskopie, hemoroidy, melaena, boulička, bolest"}
 
 Konečník je uzavřen svalem – kruhovým svěračem. Úplné uzavření konečníku zajišťuje žíla, která ucpává netěsnost sevřeného svěrače. Tuto funkci může dobře plnit pouze zdravá žíla.
 
-## Hemoroidy, jejich příčiny a projevy {id="hemoroidy\_jejich\_priciny\_a\_projevy"}
+{id="hemoroidy\_jejich\_priciny\_a\_projevy"}
+
+## Hemoroidy, jejich příčiny a projevy
 
 Hemoroidy jsou zánětlivé onemocnění žil umožňujících úplné uzavření konečníku. Vznikají podrážděním konečníku a projevují se různě podle stádia zánětu. {class="description"}
 
@@ -17,7 +21,9 @@ Nemocný konečník může svědit, bolet, pálit, krvácet či způsobovat obt�
 
 Uvedené potíže včetně krvácení mohou vzniknout podrážděním konečníku (v kombinaci s vrozenou discpozicí). Příčinou podráždění bývá tuhá nepravidelná stolice, nutnost tlačení na stolici, dráždivá kořeněná strava, přebývání v mokrých plavkách nebo prochladnutí sezením na studeném.
 
-## Rozpoznání a léčba hemoroidů {id="rozpoznani\_a\_lecba_hemoroidu"}
+{id="rozpoznani\_a\_lecba_hemoroidu"}
+
+## Rozpoznání a léčba hemoroidů
 
 Hemoroidy se navzdory obtěžujícím projevům začínají řešit bohužel teprve v souvislosti s krvácením. Pokud pacient odstraní příčiny vzniku hemoroidů, potíže pominou. {class="description"}
 
@@ -33,7 +39,9 @@ Krvácení z hemoroidu se typicky ukáže v souvislosti s hygienou po stolici �
 
 Pokud je krev ve stolici černá, nejedná se zpravidla o hemoroidy. Pravěpodobně jde o mnohem závažnější onemocnění způsobené nádorem či žaludečními vředy.
 
-## Krvácení do stolice {id="krvaceni\_do\_stolice"}
+{id="krvaceni\_do\_stolice"}
+
+## Krvácení do stolice
 
 Přítomnost hlenu a krve ve stolici může svědčit pro nádorové onemocnění střeva nebo žaludeční vředy. V případě masivního krvácení do stolice potřebuje pacient okamžitou lékařskou pomoc. {class="description"}
 
@@ -41,7 +49,9 @@ Přítomnost hlenu a červené krve ve stolici je známkou [nádoru střeva nebo
 
 [Žaludeční vřed][6] či nádor žaludku se může projevit masivním krvácením do stolice. Krev prochází celým zažívacím traktem a proto je v konečníku **dehtovitě černá stolice** _(černá krev neboli melaena)_. Pacient je opocený, bledý, slabý a omdlévá poklesem krevního tlaku. Ač nemívá žádné bolesti, **je ohrožen na životě** a potřebuje [okamžitou lékařskou pomoc][7].
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -53,7 +63,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Co zhorší potíže s hemoroidy?
   5. Jak lze odlišit hemoroidy od rakoviny konečníku?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

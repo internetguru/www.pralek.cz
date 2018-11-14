@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Ošetření kožní rány náplasťovým stehem {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="naplastovy\_steh" short="Náplasťový steh" ctime="2011-10-24" mtime="2011-10-24"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="naplastovy\_steh" short="Náplasťový steh" ctime="2011-10-24" mtime="2011-10-24"}
+
+# Ošetření kožní rány náplasťovým stehem
 
 Kožní ránu lze po ošetření zafixovat náplasťovým stehem. Náplasťový steh může v takovém případě plnohodnotně nahradit klasický chirurgický steh (který zanechává jizvu) nebo plastický steh (který nelze použít vždy). {class="description" kw="rána, chirurgický steh, náplasťový steh, mašlička, steri strip, rána v kůži, zející rána, zalepení rány, ošetření rány, vyčištění rány"}
 
@@ -17,7 +19,9 @@ Náplasťový steh je plnohodnotná alternativa k zašití rány (nahrazuje chir
 
 Laické překrytí celé rány náplastí nebo obvazem vede k uvolnění okrajů rány a její rozmáčení vlivem [kožního mazu][3] a potu. To platí obzvlášť pro obličej, kde kůže obsahuje více mazových a potních žláz. V takovém případě by ani přiložená náplasťová fixace ránu neudržela. Naopak **nezakrytá rána ošetřená stehem může dýchat a je trvale kontrolovatelná** ([zanícení][4], rozšklebení).
 
-## Aplikace náplasťového stehu {id="aplikace\_naplastoveho\_stehu"}
+{id="aplikace\_naplastoveho\_stehu"}
+
+## Aplikace náplasťového stehu
 
 n/a {class="description"}
 
@@ -36,7 +40,9 @@ Na zející ránu (je-li rozšklebená, okraje nejsou těsně u sebe) je nutné:
 
 Přilnavost moderních náplastí je výborná, na kůži drží pevně, jsou nedráždivé a neodlepují se. Nelze pochopitelně používat mnoho let staré náplasti z domácích lékárniček nebo z autolékárniček, které bývají staré, vyschlé a tím pádem bez přilnavosti.
 
-## Kterou ránu ošetřit náplasťovým stehem {id="kterou\_ranu\_osetrit\_naplastovym\_stehem"}
+{id="kterou\_ranu\_osetrit\_naplastovym\_stehem"}
+
+## Kterou ránu ošetřit náplasťovým stehem
 
 n/a {class="description"}
 
@@ -52,7 +58,9 @@ Záleží na každém pacientovi, zda se rozhodne ošetřit si ránu sám nápla
 
 Podmínkou úspěšného zhojení rány pomocí náplasťového stehu je vyloučení [alergie][6] na použitou náplast. V případě nedobré zkušenosti s konkrétní náplastí (svědění a zarudnutí kůže pod náplastí) lze použít jinou náplast.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -64,7 +72,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Které rány je vhodné fixovat náplasťovým stehem?
   5. Jaký je rozdíl mezi steri stripem a „mašličkou“?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

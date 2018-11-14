@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Závažné poranění hrudníku a pneumotorax {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="pneumotorax" short="Pneumotorax" ctime="2013-08-22" mtime="2013-08-22"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="pneumotorax" short="Pneumotorax" ctime="2013-08-22" mtime="2013-08-22"}
+
+# Závažné poranění hrudníku a pneumotorax
 
 Pneumotorax je výskyt vzduchu v prostoru mezi plícemi a hrudníkem. Příslušná plíce se tak stává nefunkční. Její úlohu (dýchání) většinou plně nahradí druhá (zdravá) plíce. {class="description" kw="poranění hrudníku, plíce, hrudník, pneumotorax neúrazový, spontánní, zavřený, otevřený, tenzní, kompresivní, záklopkový, ventilový, přetlakový, jednostranný, oboustranný, iatrogenní"}
 
@@ -9,7 +11,9 @@ V plicích dochází k okysličování krve. Aby mohly plíce plnit svou dýchac
 
 Pneumotorax je výskyt vzduchu v prostoru mezi plícemi a hrudníkem. Příslušná plíce splaskne (není v ní žádný vzduch) a nedýchá. **Podtlakové prostory obou plic jsou však vzájemně oddělené.** Druhá plíce na zdravé straně hrudníku je tedy plně funkční, což k dýchání postačí.
 
-## Typy pneumotoraxů {id="typy_pneumotoraxu"}
+{id="typy_pneumotoraxu"}
+
+## Typy pneumotoraxů
 
 n/a {class="description"}
 
@@ -37,7 +41,9 @@ Některé typy pneumotoraxů jsou neslučitelné se životem; některé jej záv
   * **Iatrogenní (lékařem způsobený) pneumotorax**
       * Vzniká lékařským zákrokem. Může se jednat o záměrný zákrok (například při léčení tuberkulózy) nebo o omyl. Lékař při určitém léčebném zákroku může nechtěně poranit poplicnici nebo pohrudnici a vznikne pneumotorax, který bývá záhy odhalen a vyléčen.
 
-## Příznaky pneumotoraxu {id="priznaky_pneumotoraxu"}
+{id="priznaky_pneumotoraxu"}
+
+## Příznaky pneumotoraxu
 
 n/a {class="description"}
 
@@ -49,7 +55,9 @@ Pneumotorax je nejčastěji následkem [bodného nebo střelného poranění][3]
 
 Po zklidnění, uložení do vhodné polohy a základním ošetření rány zraněný sám zjistí, že vlastně netrpí nedostatkem vzduchu, protože jedna plíce dobře postačí k dýchání. Lidé s neúrazovým pneumotoraxem dokonce nemusejí mít navenek prakticky žádné dechové potíže.
 
-## První pomoc při pneumotoraxu {id="prvni\_pomoc\_pri_pneumotoraxu"}
+{id="prvni\_pomoc\_pri_pneumotoraxu"}
+
+## První pomoc při pneumotoraxu
 
 n/a {class="description"}
 
@@ -61,7 +69,9 @@ Pokud zraněný ztrácí vědomí, musí být uložen do stabilizované polohy (
 
 Je-li správně poskytnuta první pomoc a pacient je úspěšně transportován na hrudní chirurgii, jeho zranění bude vyřešeno operací. Po zhojení ran a odstranění hrudních drénů se může vyléčený pacient navrátit do aktivního života bez trvalých následků.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -72,7 +82,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Čím dýchá pacient s proraženým hrudníkem s otevřeným pneumotoraxem?
   4. Jak ohrožuje pacienta na životě tenzní (záklopkový) pneumotorax?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

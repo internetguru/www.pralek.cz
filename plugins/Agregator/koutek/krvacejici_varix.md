@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Krvácení z křečové žíly dolní končetiny {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvacejici\_varix" short="Krvácející varix" ctime="2014-09-06" mtime="2014-09-06"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvacejici\_varix" short="Krvácející varix" ctime="2014-09-06" mtime="2014-09-06"}
+
+# Krvácení z křečové žíly dolní končetiny
 
 Krvácení z prasklé křečové žíly bývá vždy velmi dramatické. Větší ztrátě krve může zamezit jen správně poskytnutá první pomoc. {class="description" kw="krev, ranka, oděrka, ošetření rány, bércový vřed, krvácení, křečové žíly"}
 
 Jestliže je rozšířená a krví přeplněná žíla třeba jen drobně poraněna, krvácí tak, že z ní **krev stříká do dálky podobně jako z poraněné tepny**. Starší lidé často mívají [křečové žíly][1] _(varixy)_ v kombinaci s onemocněním srdce a cév, a pak chybí ke krvácení jen krůček.
 
-## Příčina krvácení z křečové žíly {id="pricina\_krvaceni\_z\_krecove\_zily"}
+{id="pricina\_krvaceni\_z\_krecove\_zily"}
+
+## Příčina krvácení z křečové žíly
 
 n/a {class="description"}
 
@@ -21,7 +25,9 @@ Starší a zvláště obézní lidé s onemocněním srdce bohužel mívají dol
   * jindy postačí při ošetřování [bércového vředu][2] neopatrná manipulace s končetinou,
   * někdy postačí, aby si neklidný a zpocený pacient s teplotou neopatrně postižené místo rozškrábal.
 
-## První pomoc při krvácení z prasklé křečové žíly {id="prvni\_pomoc\_pri\_krvaceni\_z\_praskle\_krecove_zily"}
+{id="prvni\_pomoc\_pri\_krvaceni\_z\_praskle\_krecove_zily"}
+
+## První pomoc při krvácení z prasklé křečové žíly
 
 n/a {class="description"}
 
@@ -29,7 +35,9 @@ Krvácení z naplněné žíly je vždy velmi dramatické. Stojící člověk s 
 
 Ranka sama nemusí být ani vidět. **Tmavá krev však stříká do dálky i desítek centimetrů.** Vyděšený takto krvácející pacient často zmateně pobíhá a hledá jakoukoli pomoc. Vzápětí se tedy ocitá bez nadsázky v tratolišti krve.
 
-### Správně provedená první pomoc {id="spravne\_provedena\_prvni_pomoc"}
+{id="spravne\_provedena\_prvni_pomoc"}
+
+### Správně provedená první pomoc
 
 n/a {class="description"}
 
@@ -37,7 +45,9 @@ Pacienta je třeba nejprve položit a krvácející končetinu co nejvíce vyvý
 
 Pak teprve je třeba vztyčenou končetinu o něco podepřít a jít přivolat pomoc. Ranku lze následně zakrýt obvazem. **Končetina musí zůstat vyvýšená a nezaškrcená** až do odborného ošetření.
 
-### Nesprávný (leč bohužel obvyklý) postup při poskytování první pomoci {id="nespravny\_lec\_bohuzel\_obvykly\_postup\_pri\_poskytovani\_prvni\_pomoci"}
+{id="nespravny\_lec\_bohuzel\_obvykly\_postup\_pri\_poskytovani\_prvni\_pomoci"}
+
+### Nesprávný (leč bohužel obvyklý) postup při poskytování první pomoci
 
 n/a {class="description"}
 
@@ -47,7 +57,9 @@ Zaškrcením oteklé a prosáklé nemocné končetiny pod kolenem se nepodaří 
 
 Jakmile poučený zachránce dorazí na místo a uvolní zaškrcenou končetinu, rána ihned přestává krvácet. {class="important"}
 
-## Léčení krvácející křečové žíly {id="leceni\_krvacejici\_krecove_zily"}
+{id="leceni\_krvacejici\_krecove_zily"}
+
+## Léčení krvácející křečové žíly
 
 n/a {class="description"}
 
@@ -55,7 +67,9 @@ Zachránce odveze nyní již nekrvácejícího pacienta na chirurgickou ambulanc
 
 Po zhojení je třeba dále léčit dlouhodobě nemocné dolní končetiny, tedy jejich žíly, tepny, případně [bércový vřed][2]. V případě velké ztráty krve je někdy nutné tuto [ztrátu nahradit transfuzí krve][3].
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -67,7 +81,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaká je správná první pomoc při krvácení z prasklého varixu?
   5. Jaký je mechanizmus samovolné zástavy krvácení u prasklého varixu?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

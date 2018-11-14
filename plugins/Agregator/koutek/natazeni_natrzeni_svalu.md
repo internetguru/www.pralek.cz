@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Natažení nebo natržení svalu {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="natazeni\_natrzeni_svalu" short="Natažení nebo natržení svalu" ctime="2009-12-30" mtime="2009-12-30"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="natazeni\_natrzeni_svalu" short="Natažení nebo natržení svalu" ctime="2009-12-30" mtime="2009-12-30"}
+
+# Natažení nebo natržení svalu
 
 Natažení svalu nelze od jeho natržení laicky rozeznat. Rozdíl v léčení je zásadní, a proto je vhodné vyhledat odborné vyšetření. {class="description" kw="sval, natažení svalu, natržení svalu, natržení lýtka, léčení nataženého svalu, léčení natrženého svalu, defekt ve svalu"}
 
 Natažení nebo natržení svalu je úraz ponejvíce mužů středního věku. Jestliže je od svalu požadovaná síla větší, než je sval schopen zvládnout, poškodí se jeho struktura. Může dojít v lepším případě k natažení a v horším případě k přetržení části přetíženého svalu. Obojí se projeví prudkou pálivou bolestí v poraněném svalu.
 
-## Nejčastější mechanizmy natažení nebo natržení svalu {id="nejcastejsi\_mechanizmy\_natazeni\_nebo\_natrzeni_svalu"}
+{id="nejcastejsi\_mechanizmy\_natazeni\_nebo\_natrzeni_svalu"}
+
+## Nejčastější mechanizmy natažení nebo natržení svalu
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ K natažení nebo natržení svalu nejčastěji dochází:
   * venku ve snaze vyrovnat pád na náledí a
   * u sportovců se jedná o maximální snahu dosáhnout něčeho, co překonává sportovcovy možnosti.
 
-## Svalové oblasti náchylné k natržení nebo natažení svalu {id="svalove\_oblasti\_nachylne\_k\_natrzeni\_nebo\_natazeni_svalu"}
+{id="svalove\_oblasti\_nachylne\_k\_natrzeni\_nebo\_natazeni_svalu"}
+
+## Svalové oblasti náchylné k natržení nebo natažení svalu
 
 n/a {class="description"}
 
@@ -27,7 +33,9 @@ Velmi časté je **natržení svalu v lýtkové oblasti** (výjimečně natažen
 
 Ostatní svalové skupiny bývají postiženy vždy podle přetěžování **v souvislosti s jednotlivými druhy sportů**. Vzpírání přetěžuje svaly stehenní, břišní a zádové, hod oštěpem nebo koulí svaly prsní, hod kladivem šikmé svaly břišní. Kulturista (zvláště, který užívá hormony) si snadno poraní kterýkoli právě trénovaný sval.
 
-## Rozlišení a léčení nataženého nebo natrženého svalu {id="rozliseni\_a\_leceni\_natazeneho\_nebo\_natrzeneho\_svalu"}
+{id="rozliseni\_a\_leceni\_natazeneho\_nebo\_natrzeneho\_svalu"}
+
+## Rozlišení a léčení nataženého nebo natrženého svalu
 
 n/a {class="description"}
 
@@ -38,7 +46,9 @@ K rozlišení natažení nebo natržení je třeba odborného lékařského vyš
   1. V případě natažení svalu postačí několik dnů klid, ledové obklady a postupné rozcvičení.
   2. **Při natržení svalu je nutný klid trvající 3 týdny**. To je doba nutná ke zhojení poškozeného svalu. Jestli se doba klidu k hojení zkrátí (bolest lze překonat), dojde i při malé zátěži k natržení dalších svalových vláken a léčení může začít nanovo – opět 3 týdny klidu a obkladů od posledního natržení.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -50,7 +60,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Který sval si nejčastěji poraní sportovci?
   5. Jaký je rozdíl v léčení nataženého a natrženého svalu?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Bércový vřed, jeho vývoj a hojení {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bercovy\_vred" short="Bércový vřed" ctime="2014-09-15" mtime="2014-09-15"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bercovy\_vred" short="Bércový vřed" ctime="2014-09-15" mtime="2014-09-15"}
+
+# Bércový vřed, jeho vývoj a hojení
 
 Bércový vřed je obtěžující a velmi nepříjemná choroba málo chodících lidí, tedy především starších a dlouhodobě nemocných. Pro jeho zhojení je zásadní nejprve obnovit funkčnost krevního oběhu dolních končetin. {class="description" kw="bércový vřed, prokrvení, varixy, kornatění cév, lymfatický systém, otevřená noha, defekt, defekt kůže, defekt podkoží"}
 
@@ -14,7 +16,9 @@ Bércový vřed je obtěžující a velmi nepříjemná choroba málo chodícíc
 
 Skutečnou příčinou vzniku bércového vředu tedy není úraz postiženého místa, ale nedostatečné vyživování z důvodu špatného místního prokrvení. {class="important"}
 
-## Vzhled a projevy bércového vředu {id="vzhled\_a\_projevy\_bercoveho\_vredu"}
+{id="vzhled\_a\_projevy\_bercoveho\_vredu"}
+
+## Vzhled a projevy bércového vředu
 
 n/a {class="description"}
 
@@ -25,7 +29,9 @@ Bércový vřed může mít velikost několika milimetrů čtverečných, může
 
 Vřed může vypadat jakkoli mezi popsaným počátečním a konečným stavem v závislosti na léčení. Kůže v okolí vředu bývá změněná používáním různých mastí či dlouhodobým onemocněním dolních končetin jako jsou [změny pigmentace][2], dlouhodobé otoky a nebo [plísně][3].
 
-## Příčiny vzniku bércového vředu {id="priciny\_vzniku\_bercoveho_vredu"}
+{id="priciny\_vzniku\_bercoveho_vredu"}
+
+## Příčiny vzniku bércového vředu
 
 n/a {class="description"}
 
@@ -37,7 +43,9 @@ Bércový vřed vzniká nedostatečným prokrvením dolních končetin. Nejčast
   * onemocnění srdce a cév – otoky dolních končetin způsobené srdeční nedostatečností,
   * současné dlouhodobé neléčené onemocnění žil a tepen dolních končetin.
 
-## Léčení bércového vředu a vývoj hojení {id="leceni\_bercoveho\_vredu\_a\_vyvoj_hojeni"}
+{id="leceni\_bercoveho\_vredu\_a\_vyvoj_hojeni"}
+
+## Léčení bércového vředu a vývoj hojení
 
 n/a {class="description"}
 
@@ -50,7 +58,9 @@ Nelze však spoléhat pouze na léky. Současně s nasazením léků je nutné k
   1. V době, kdy bércový vřed vzniká, bolí, je plochý, bělavý a povleklý, poslouží k odstranění odumřelé tkáně a bakteriálních povlaků enzymatická mast střídavě s koupelemi v hypermanganu.
   2. Po odloučení odumřelých tkání se zlepšené prokrvení projeví změnou barvy spodiny i okraje bércového vředu dočervena. Pak teprve je možné koupelemi v heřmánku a přikládáním hojivého gelu nebo masti podpořit [tvoření nové tkáně][9] (hojení). Přes defekt přerůstá nová kůže a bércový vřed se konečně hojí a zmenšuje se (poslední fáze vývoje zánětu).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -62,7 +72,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jakou barvu má spodina bércového vředu?
   5. Jaké jsou možné příčiny vzniku bércového vředu?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

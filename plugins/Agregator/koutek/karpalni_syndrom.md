@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Noční brnění prstů ruky: karpální syndrom {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="karpalni\_syndrom" short="Karpální syndrom" ctime="2011-01-17" mtime="2011-01-17"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="karpalni\_syndrom" short="Karpální syndrom" ctime="2011-01-17" mtime="2011-01-17"}
+
+# Noční brnění prstů ruky: karpální syndrom
 
 Syndrom karpálního tunelu se projevuje brněním, trnutím až bolestí 2. až 4. prstu ruky. Potíže narůstají hlavně v noci. Rozhýbání prstů pomůže pouze krátkodobě. Trvalým řešením obtěžujících potíží je operační uvolnění utlačovaného nervu. {class="description" kw="prsty, brnění prstů ruky, karpální syndrom, karpální tunel, nervus medianus, trnutí prstů, bolest, skalenový syndrom, vyšetření EMG, elektromyografie"}
 
@@ -16,7 +18,9 @@ Obě tyto změny se projeví brněním 2. až 4. prstu nejprve při zátěži. B
 
 Karpálním syndromem trpí převážně ženy středního a vyššího věku. V tomto stádiu se nemocní často nesprávně domnívají, že se jedná o [cévní mozkovou příhodu (mrtvici)][2]. {class="example"}
 
-## Příčiny útlaku nervu s následným brněním {id="priciny\_utlaku\_nervu\_s\_naslednym_brnenim"}
+{id="priciny\_utlaku\_nervu\_s\_naslednym_brnenim"}
+
+## Příčiny útlaku nervu s následným brněním
 
 n/a {class="description"}
 
@@ -34,7 +38,9 @@ Brnění prstů může mít různé příčiny, jednou z nich může být např.
       * nebo [tlakem nezhoubného nádoru][3],
       * nebo [tlakem cizího předmětu][4] či jizvy.
 
-## Určení diagnózy a léčení syndromu karpálního tunelu {id="urceni\_diagnozy\_a\_leceni\_syndromu\_karpalniho\_tunelu"}
+{id="urceni\_diagnozy\_a\_leceni\_syndromu\_karpalniho\_tunelu"}
+
+## Určení diagnózy a léčení syndromu karpálního tunelu
 
 n/a {class="description"}
 
@@ -44,7 +50,9 @@ Operace se provádí v místním znecitlivění. Protnutí těsného vazu nad z�
 
 U komplikovanějších případů a při poruchách hojení je nutná pooperační fixace k zabránění nadměrného jizvení. Tím by mohlo dojít i k recidivě onemocnění. Délka fixace a doba rozcvičování (rehabilitace) a následné povolení zátěže se na různých pracovištích liší. Většinou se jedná o 2 až 3 měsíce do plné fyzické zátěže ruky.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -56,7 +64,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaké mohou být příčiny brnění prstů ruky?
   5. Který lékař řeší potíže s karpálním tunelem?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

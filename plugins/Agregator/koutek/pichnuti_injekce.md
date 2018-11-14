@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Píchnutí injekce svépomocí {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pichnuti\_injekce" ctime="2016-04-11" mtime="2016-04-11" short="Píchnutí injekce"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pichnuti\_injekce" ctime="2016-04-11" mtime="2016-04-11" short="Píchnutí injekce"}
+
+# Píchnutí injekce svépomocí
 
 Píchnutí injekce (aplikace léku v injekční formě) svépomocí nebo vzájemnou pomocí do podkoží nebo do svalu je jednoduché a bezbolestné. Součástí přípravy je dodržení hygienických pravidel a volba vhodného místa vpichu. {class="description" kw="léky, injekce, nevolnost, mdloba, tampon, dezinfekce, krvácení, bolest, tkáň, injekční stříkačka, injekční jehla"}
 
 Někteří lidé se musejí naučit píchnout si injekci svépomocí nebo vzájemnou pomocí. Bývají k tomu náležitě poučeni a vyškoleni zdravotnickým perzonálem. Přesto mohou vzniknout určité nejasnosti, zvláště pak ve spojení s nervozitou.
 
-## Kam píchnout jakou injekci {id="kam\_pichnout\_jakou_injekci"}
+{id="kam\_pichnout\_jakou_injekci"}
+
+## Kam píchnout jakou injekci
 
 n/a {class="description"}
 
@@ -16,7 +20,9 @@ Přesně dané množství jasně označeného léku (jako např. [inzulín][1], 
   * **Do podkoží** si lze svépomocí podat lék nejlépe do břicha, vzájemnou pomocí pak i do předloktí nebo do paže. K podkožní aplikaci léku je jehla vedena šikmo ke kůži. V podkoží **vytvoří podaný lék dočasnou bouličku**, která se postupně vstřebá.
   * **Do svalu** se lék svépomocí podává typicky do ramene nebo do stehna, vzájemnou pomocí ideálně do hýždě. K nitrosvalové aplikaci je jehla vedena kolmo ke kůži a zavádí se celá.
 
-## Příprava na píchnutí injekce {id="priprava\_na\_pichnuti_injekce"}
+{id="priprava\_na\_pichnuti_injekce"}
+
+## Příprava na píchnutí injekce
 
 n/a {class="description"}
 
@@ -26,7 +32,9 @@ Nejprve si pacient určí místo, kam bude lék podán. Je nutné, aby byla ků�
 
 Následuje příprava veškerého materiálu: dezinfekce, tamponů, vlastního léku, injekční stříkačky, injekční jehly s ochranným krytem. Pokud je lék ve zvláštní ampulce, je třeba nabrat patřičné množství do injekční stříkačky v souladu s návodem.
 
-## Doporučený postup píchnutí injekce {id="doporuceny\_postup\_pichnuti_injekce"}
+{id="doporuceny\_postup\_pichnuti_injekce"}
+
+## Doporučený postup píchnutí injekce
 
 n/a {class="description"}
 
@@ -46,7 +54,9 @@ Při vytahování jehly je třeba postupovat šetrně, aby nedošlo k poškozen�
 
 Vytváření kožní řasy (sevřením) nebo naopak napínání kůže (roztahováním) sloužilo dříve k přípravě prostoru pro píchnutí injekce tupou (opakovaně používanou) jehlou. Sloužilo to také k odpoutání pozornosti pacienta od bolesti, neboť [píchnutí tupou jehlou bývalo vždy bolestivé][5]. To dnes u dokonale ostrých jehel na jedno použití postrádá smysl.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -57,7 +67,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Jaké musí být místo zvolené k píchnutí injekce?
   4. Co dělat, pokud se po aspiraci v injekční stříkačce objeví krev?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

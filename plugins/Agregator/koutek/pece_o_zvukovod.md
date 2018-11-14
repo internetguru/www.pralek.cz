@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Péče o zevní zvukovod {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pece\_o_zvukovod" short="Péče o zvukovod" ctime="2012-07-31" mtime="2012-07-31"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pece\_o_zvukovod" short="Péče o zvukovod" ctime="2012-07-31" mtime="2012-07-31"}
+
+# Péče o zevní zvukovod
 
 Zanedbaná hygiena zevního zvukovodu a nadměrné množství ušního mazu mohou působit velmi nepříjemné potíže. Některé z nich (např. točení hlavy) zdánlivě s uchem nesouvisejí. {class="description" kw="zevní zvukovod, ušní maz, cerumen, špunt v uchu, hygiena uší, bolest ucha, svědění ucha, voda v uchu"}
 
@@ -9,7 +11,9 @@ Zevní zvukovod je asi 3 cm dlouhá trubička, která vede zvuk od ušního bolt
 
 Ušní maz spolu se zachycenými nečistotami velmi pomalu stéká k ústí zvukovodu (viditelný vstup do zvukovodu), odkud je při hygieně uší odstraňován. To neplatí, pokud se maz ve zvukovodu nadměrně nahromadí a zatvrdne. Proto je třeba se nadměrného množství mazu a nečistot zbavovat.
 
-## Příčiny a projevy nadbytku ušního mazu {id="priciny\_a\_projevy\_nadbytku\_usniho_mazu"}
+{id="priciny\_a\_projevy\_nadbytku\_usniho_mazu"}
+
+## Příčiny a projevy nadbytku ušního mazu
 
 n/a {class="description"}
 
@@ -29,7 +33,9 @@ Na základě konkrétních potíží provádí vyšetření ucha a nejspíš i n
 
 Aby k popsaným potížím nedošlo, je třeba o zevní zvukovod patřičně pečovat. Péče o zvukovod závisí na prašnosti prostředí a sklonu k nadměrné tvorbě mazu jednotlivce.
 
-## Hygiena zevního zvukovodu {id="hygiena\_zevniho\_zvukovodu"}
+{id="hygiena\_zevniho\_zvukovodu"}
+
+## Hygiena zevního zvukovodu
 
 n/a {class="description"}
 
@@ -40,7 +46,9 @@ Většina lidí žádnou zvláštní péči o zvukovod nepotřebuje. Některým 
 
 Není-li ušní sprej k dispozici, lze v nouzi použít rostlinný olej. Olej nakapaný do zvukovodu _cerumen_ uvolní (podobně jako sprej). Pak lze proudem vlažné vody (například pomocí sprchy nebo velké injekční stříkačky a vhodné hadičky) odstranit obsah zevního zvukovodu. Vždy je nutné použít příjemně vlažnou vodu a vyplachovat rovnoměrně (střídavě) obě uši, aby podrážděním nedošlo k točení hlavy nebo závrati.
 
-## Voda a zevní zvukovod {id="voda\_a\_zevni_zvukovod"}
+{id="voda\_a\_zevni_zvukovod"}
+
+## Voda a zevní zvukovod
 
 n/a {class="description"}
 
@@ -54,7 +62,9 @@ Obzvláště při nocování ve volné přírodě může mírný déšť nebo je
 
 Voda do zvukovodu nesmí jedině v případě onemocnění zvukovodu nebo bubínku (například po proděravění ušního bubínku). Častým problémem uší je svědění způsobené plísní.
 
-## Svědění uší a jejich nevhodné ošetřování {id="svedeni\_usi\_a\_jejich\_nevhodne_osetrovani"}
+{id="svedeni\_usi\_a\_jejich\_nevhodne_osetrovani"}
+
+## Svědění uší a jejich nevhodné ošetřování
 
 n/a {class="description"}
 
@@ -62,7 +72,9 @@ Svědění zevního zvukovodu s ušním mazem nesouvisí. Bývá způsobeno [pl�
 
 Je krajně nevhodné, používat k čištění uší (nebo k poškrábání) tvrdé předměty jako např. špejle, zápalka nebo dokonce drát. Při manipulaci nevhodným předmětem v zevním zvukovodu dochází k povrchovým oděrkám, které se mohou stát [vstupní branou infekce][5]. Tím může vzniknout [zánět zvukovodu][6]. Při neopatrném pohybu může dokonce dojít k nebezpečnému poranění ušního bubínku.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -74,7 +86,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Kdy se může a kdy se nesmí dostat voda do ucha?
   5. Proč je nevhodné užívat k čištění uší tvrdé předměty?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

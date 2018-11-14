@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Časté úrazy malých dětí {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="urazy\_deti" short="Úrazy malých dětí" ctime="2009-08-11" mtime="2009-08-11"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="urazy\_deti" short="Úrazy malých dětí" ctime="2009-08-11" mtime="2009-08-11"}
+
+# Časté úrazy malých dětí
 
 Mechanizmy úrazů malých dětí se stále stejně opakují. Jestliže budou opatrovníkům známé, je snadné takovým úrazům předcházet. {class="description" kw="pády, pronatio dolorosa, poranění hlavy, poranění ústní dutiny, vdechnutí sousta, omotaný vlas kolem prstu, spáleniny, prevence spálenin"}
 
-## Pády malých dětí {id="pady\_malych\_deti"}
+{id="pady\_malych\_deti"}
+
+## Pády malých dětí
 
 n/a {class="description"}
 
@@ -18,7 +22,9 @@ Dítě, které se učí chodit, padá velmi často. Vzhledem k nedokonalé koord
   * Vážný problém nastane, má li dítě při pádu v ústech lízátko nebo jinou tyčku (klacík, lžičku, tužku). Následné poranění hrtanu, patra nebo dutiny ústní může být závažné. Jako první pomoc v takovém případě lze doporučit neprodlený [transport k lékařskému ošetření][4]. Přirozené **[strkání všech předmětů do úst][5] je třeba sledovat** a patřičně preventivně korigovat.
   * Další problém může při pádu nastat, má-li dítě v ústech jídlo. Při pádu na zadek může dítě sousto (bonbón, sousto potravy) vdechnout a dusit se. Musí [následovat resuscitace][6]. Jistě je jednodušší, aby dítě při jídle i při mlsání sedělo (třeba na klíně nebo na zvláštní stoličce) a **při běhání mělo vždy prázdná ústa**.
 
-## Omotaný vlas kolem prstu {id="omotany\_vlas\_kolem_prstu"}
+{id="omotany\_vlas\_kolem_prstu"}
+
+## Omotaný vlas kolem prstu
 
 n/a {class="description"}
 
@@ -26,7 +32,9 @@ Při koupeli kojence spadne matčin vlas do vody. Při mytí nožiček je nepozo
 
 Do prstu přitéká normálně tepenná krev, zaškrcení však způsobilo, že krev z prstu spatně žílami odtéká. Dítě je v noci neklidné, pláče. Příčina není jasná. Teprve ráno po svlečení se ukáže zarudlý a [oteklý (zvětšený) prst na noze][7]. Vlas v hluboké rýze není vidět. Zkušený lékař ihned ví, o co se jedná a vlas uvolní, prst se brzy vrátí do původních poměrů.
 
-## Spáleniny a jejich prevence {id="spaleniny\_a\_jejich_prevence"}
+{id="spaleniny\_a\_jejich_prevence"}
+
+## Spáleniny a jejich prevence
 
 n/a {class="description"}
 
@@ -40,7 +48,9 @@ Nejzávažnějšími úrazy jsou [spáleniny][8]. Co dělat, aby ke spálenině 
   * Při výluce horké vody na sídlišti matka ohřeje vodu na sporáku, nalije ji do vany, zapomene připustit studenou vodu a dítě opaří. Jde bohužel o častý úraz.
   * Nedopustit **spálení sluncem** [přiměřeným opalováním][9] nebo užíváním ochranných krémů.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -50,7 +60,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   2. Proč se nesmí dítě zvedat do výšky za jednu ruku?
   3. Proč má mít dítě při všech tělesných aktivitách prázdná ústa?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

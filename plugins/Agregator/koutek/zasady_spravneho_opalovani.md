@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Zásady správného opalování {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zasady\_spravneho_opalovani" short="Zásady správného opalování" ctime="2010-09-03" mtime="2010-09-03"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zasady\_spravneho_opalovani" short="Zásady správného opalování" ctime="2010-09-03" mtime="2010-09-03"}
+
+# Zásady správného opalování
 
 Stále častěji se vyskytují výstražné zprávy o nebezpečnosti opalování. Lidé jsou však vystaveni slunečnímu záření od nepaměti. Slunění je pro většinu lidí prospěšné. Některým lidem (a za určitých podmínek) však může být zdraví škodlivé, a někdy dokonce nebezpečné. {class="description" kw="opalování, kožní barvivo, pigment, melanin, melanocyt, intenzita slunečního záření, nadměrné opálení, spálení sluncem, zánět, zarudnutí kůže, melanom, stárnutí kůže, bazaliom, ochrana proti UV záření"}
 
@@ -9,7 +11,9 @@ Ochranu lidského těla proti nebezpečí slunečního záření zajišťuje ko�
 
 Nemá smysl se ihned po příjezdu do letoviska namazat krémem s vysokým ochranným faktorem. Nedošlo by k aktivaci melanocytů a takový člověk by si spálil jakékoli nechráněné místo. Smysluplnou prevencí spálení je zprvu krátkodobý pobyt na slunci nebo namazání se krémem se středním ochranným faktorem. Tím se nastartuje tvorba melaninu. {class="example"}
 
-## Sluneční záření {id="slunecni_zareni"}
+{id="slunecni_zareni"}
+
+## Sluneční záření
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ Slunce je k Zemi nejbližší hvězda. Hořením dochází ve slunci ke vzniku z
 
 Intenzita slunečního záření se mění (v našich krajích) podle ročního období, denní doby a počasí. Stoupá také s nadmořskou výškou; na horách je intenzita slunečního záření vyšší než u moře.
 
-## Nebezpečí nadměrného opálení (spálení sluncem) {id="nebezpeci\_nadmerneho\_opaleni\_spaleni\_sluncem"}
+{id="nebezpeci\_nadmerneho\_opaleni\_spaleni\_sluncem"}
+
+## Nebezpečí nadměrného opálení (spálení sluncem)
 
 n/a {class="description"}
 
@@ -28,7 +34,9 @@ Přiměřené vystavování slunečnímu záření je nutné (tvorba vitamínu D
   * urychluje stárnutí kůže (podporuje vysychání, snižuje pružnost kůže a tím podporuje tvorbu vrásek),
   * zvyšuje pravděpodobnost [onemocnění rakovinou kůže – _bazaliom_][3].
 
-## Rozličné typy lidí ve vztahu ke slunečnímu záření {id="rozlicne\_typy\_lidi\_ve\_vztahu\_ke\_slunecnimu_zareni"}
+{id="rozlicne\_typy\_lidi\_ve\_vztahu\_ke\_slunecnimu_zareni"}
+
+## Rozličné typy lidí ve vztahu ke slunečnímu záření
 
 n/a {class="description"}
 
@@ -41,7 +49,9 @@ Různí lidé mají různé množství _melanocytů_ a následně i _melaninu_. 
   * Světlí lidé severského typu (světlá kůže, světlé vlasy) mají melanocytů málo. Jejich pobyt na slunci by znamenal závažné porušení zdraví. Pokud se chtějí opalovat, musí nejprve pomalu a postupně vyprovokovat melanocyty k tvorbě melaninu opakovaným krátkodobým pobytem na slunci. Teprve po zhnědnutí kůže by se mohli vystavovat slunci bez omezení a nehrozilo by spálení. Pokud nemají sklon ke zhnědnutí, opalovat se nemohou.
   * Lidé se zcela bílou kůží a červenýma očima (albíni) nemají žádné melanocyty, proto ani žádný melanin, a tedy žádnou ochranu proti slunečnímu záření. Vystavení jejich těla slunečnímu záření by mělo za následek velmi závažné porušení zdraví.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -55,7 +65,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   6. Proč albíni nesmějí na sluníčko?
   7. Čím je dána hodnota faktoru ochranného krému na opalování pro konkrétního člověka?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

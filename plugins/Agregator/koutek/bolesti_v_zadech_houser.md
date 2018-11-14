@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Bolesti v zádech, houser {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolesti\_v\_zadech\_houser" short="Bolesti v zádech" ctime="2008-11-20" mtime="2008-11-20"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolesti\_v\_zadech\_houser" short="Bolesti v zádech" ctime="2008-11-20" mtime="2008-11-20"}
+
+# Bolesti v zádech, houser
 
 Je přímá souvislost mezi bolestmi v zádech, nepřiměřenou fyzickou aktivitou, zpocením a následným prochlazením zad a to nejčastěji v oblasti bederní nebo krční páteře. {class="description" kw="houser, páteř, bolest v zádech, obratel, klouby, vazy, svaly, SI skloubení, meziobratlová destička, disk, bolest, zatvrdliny, kontraktury, výhřez, deformita páteře, výrůstky"}
 
@@ -15,7 +17,9 @@ Vazy musí mít určitou přiměřenou vůli, aby byla umožněna **ohebnost pá
 
 Součinnost popsaných komponent umožňuje správnou a bezbolestnou funkci páteře. {class="important"}
 
-## Co a proč bolí {id="co\_a\_proc_boli"}
+{id="co\_a\_proc_boli"}
+
+## Co a proč bolí
 
 n/a {class="description"}
 
@@ -32,7 +36,9 @@ V případě takového onemocnění kloubů a vazů přebírá jejich funkci (ud
 
 Zhoršováním stavu může dojít až k **výhřezu meziobratlového disku** směrem do páteřního kanálu a tím k útlaku míchy se závažnými důsledky. Bolestivé jsou přetěžované úpony svalů a vazů ke kostem. Další častá příčina bolestí v kříži s vyzařováním do kyčle nebo do stehna spočívá v _onemocnění SI skloubení_.
 
-## Co dělat proti bolestem v zádech {id="co\_delat\_proti\_bolestem\_v_zadech"}
+{id="co\_delat\_proti\_bolestem\_v_zadech"}
+
+## Co dělat proti bolestem v zádech
 
 n/a {class="description"}
 
@@ -52,7 +58,9 @@ Hlavní zásady, jak zmírnit bolesti v zádech:
   * dlouhodobé potíže s páteří vedou vždy k narušení psychiky, je vhodné vyhledat psychologa nebo lépe psychiatra,
   * v případě dlouhodobých problémů nebo náhle vzniklých prudkých bolestí a potíží je třeba [vyhledat lékaře][6] a po vyšetření se podrobit doporučenému léčebnému postupu.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -66,7 +74,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   6. Při bolestech v zádech pomůže suché nebo vlhké teplo?
   7. Proč je pohodlný a bezbolestný spánek jednou ze zásad zmírnění bolestí v zádech?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Vyhledání lékařské péče: kdy, kde a jak naléhavě {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nalehavost\_lekarskeho_vysetreni" short="Vyhledání lékařské péče" ctime="2010-12-03" mtime="2010-12-03"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nalehavost\_lekarskeho_vysetreni" short="Vyhledání lékařské péče" ctime="2010-12-03" mtime="2010-12-03"}
+
+# Vyhledání lékařské péče: kdy, kde a jak naléhavě
 
 Úrazy a ostatní poruchy zdraví mají různý stupeň naléhavosti a způsob řešení od technické první pomoci přes hospitalizaci až po rehabilitaci. {class="description" kw="první pomoc, vědomí, dýchání, tep, akce srdeční, resuscitace, zástava krvácení, poleptání oka, ledvinová kolika, vykloubení, bolesti břicha, kýla, spolknuté nebezpečné předměty, úraz, infarkt, kašel"}
 
-## Nutnost okamžitého řešení {id="nutnost\_okamziteho\_reseni"}
+{id="nutnost\_okamziteho\_reseni"}
+
+## Nutnost okamžitého řešení
 
 n/a {class="description"}
 
@@ -24,7 +28,9 @@ n/a {class="description"}
       2. Následně je třeba zavolat záchranku nebo zraněného co nejrychleji dopravit na oční oddělení spádové nemocnice.
       3. Oko je třeba vyplachovat až do předání pacienta lékaři z důvodu minimalizace poruchy zraku způsobené následným jizvením rohovky.
 
-## Nutnost řešit během minut {id="nutnost\_resit\_behem_minut"}
+{id="nutnost\_resit\_behem_minut"}
+
+## Nutnost řešit během minut
 
 n/a {class="description"}
 
@@ -35,7 +41,9 @@ n/a {class="description"}
       1. zavolat záchranku.
       2. Postižený **nesmí brát léky proti bolesti, jíst ani pít** (pro případ operačního řešení).
 
-## Nutnost řešit během hodin {id="nutnost\_resit\_behem_hodin"}
+{id="nutnost\_resit\_behem_hodin"}
+
+## Nutnost řešit během hodin
 
 n/a {class="description"}
 
@@ -53,7 +61,9 @@ Všechny výše jmenované stavy se řeší na chirurgickou ambulanci. Postižen
   * [Infarkt][15] je léčen na interně nebo lépe na kardiologii.
   * [Vysoké teploty][16] a křeče z teploty u dětí _(febrilní křeče)_ jsou v kompetenci dětského lékaře.
 
-## Ošetření do 6 hodin {id="osetreni\_do\_6_hodin"}
+{id="osetreni\_do\_6_hodin"}
+
+## Ošetření do 6 hodin
 
 n/a {class="description"}
 
@@ -62,7 +72,9 @@ n/a {class="description"}
   * **Poranění oka či očního víčka** bude ošetřeno na očním oddělení _(oftalmologie)_.
   * Všechny ostatní [rány vyžadující ošetření][17] (včetně poranění rtů a jazyka) budou ošetřeny na chirurgické ambulanci.
 
-## Ošetření následující pracovní den dopoledne {id="osetreni\_nasledujici\_pracovni\_den\_dopoledne"}
+{id="osetreni\_nasledujici\_pracovni\_den\_dopoledne"}
+
+## Ošetření následující pracovní den dopoledne
 
 n/a {class="description"}
 
@@ -76,7 +88,9 @@ Jedná se o problémy, které je nejlépe vyšetřit následující pracovní de
 
 Je dobré dlouho neodkládat vyšetření pro potíže, které pacienta obtěžují nebo zneklidňují. [Strach z rakoviny][33] vede bohužel mnohdy k nesmyslnému a nebezpečnému odkládání lékařského vyšetření s fatálními následky.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -88,7 +102,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Na jakém oddělení bude ošetřeno krvavé poranění nosu?
   5. Proč není dobré dávat přednost pohotovostnímu ošetření u onemocnění, které snese odklad do následujícího pracovního dne?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

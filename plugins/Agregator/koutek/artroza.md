@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Bolesti kloubů – jak žít s artrózou {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="artroza" short="Bolesti kloubů" ctime="2012-03-18" mtime="2012-03-18"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="artroza" short="Bolesti kloubů" ctime="2012-03-18" mtime="2012-03-18"}
+
+# Bolesti kloubů – jak žít s artrózou
 
 Klouby se přetěžováním a věkem opotřebovávají. Poškozené klouby bolí, otékají, postupně se deformují a jsou omezeně pohyblivé. Pravidelná a přiměřená zátěž udrží nemoc relativně snesitelnou. {class="description" kw="artróza, osteoartróza, bolest kloubu, otok kloubu, deformace kloubu, kloubní chrupavka, koxartróza, gonartróza, omartróza, spondylartróza, degenerace kloubu"}
 
@@ -9,7 +11,9 @@ Nejčastější příčinou bolestí kloubů je artróza (také osteoartróza). 
 
 Zdravá chrupavka je bílá, lesklá a dokonale hladká. Vlivem artrózy chrupavka tyto vlastnosti ztrácí (žloutne, ztenčuje se a přestává být hladká) a kloub začíná při pohybu drhnout. Mění se (chybí nebo přebývá) množství kloubního mazu a následně artróza postihne i kosti tvořící kloub. Tyto změny způsobují bolest, omezení hybnosti, otoky, deformaci a nakonec ztuhlost postiženého kloubu.
 
-## Vznik artrózy {id="vznik_artrozy"}
+{id="vznik_artrozy"}
+
+## Vznik artrózy
 
 n/a {class="description"}
 
@@ -26,7 +30,9 @@ Artróza je hlavně nemocí stáří, její výskyt přibývá s narůstajícím
 
 Aktivní mladí sportovci si často vůbec neuvědomují, že bolest kloubu nemusí být jen přirozená reakce na sportovní zátěž, ale že se již může jednat o počínající artrózu. {class="important"}
 
-## Vývoj a stádia artrózy {id="vyvoj\_a\_stadia_artrozy"}
+{id="vyvoj\_a\_stadia_artrozy"}
+
+## Vývoj a stádia artrózy
 
 n/a {class="description"}
 
@@ -45,7 +51,9 @@ Stupně artrózy jsou posuzovány podle rentgenového nálezu a nemusejí tedy p
 
 **Vývoj artrózy lze v počátcích zpomalit pravidelnou přiměřenou zátěží.** V běžném životě jsou potíže v počátcích artrózy snesitelné. Výrazné zhoršení nastává po větší zátěži nebo častěji po určité době nečinnosti. Vždy je třeba bránit přetěžování a mikroúrazům postižených kloubů (doskoky nebo pády na tvrdou podložku, běh po betonu a podobně). V pozdějších stádiích vývoje artrózy je přístup k léčení velmi individuální.
 
-## Názvosloví a léčba atrózy {id="nazvoslovi\_a\_lecba_atrozy"}
+{id="nazvoslovi\_a\_lecba_atrozy"}
+
+## Názvosloví a léčba atrózy
 
 n/a {class="description"}
 
@@ -69,7 +77,9 @@ Možnosti léčby atrózy jsou:
 
 Pro člověka s artrózou nosných kloubů je jízda na kole přijatelnější než chůze, protože redukuje jejich zátěž. Proto někteří staří lidé jízdu na kole před chůzí preferují. {class="important"}
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -81,7 +91,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. V jakém věku může artróza začínat?
   5. Jaké jsou možnosti léčení artrózy?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

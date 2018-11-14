@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Lupavý prst {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lupavy\_prst" short="Lupavý prst" ctime="2010-12-30" mtime="2010-12-30"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lupavy\_prst" short="Lupavý prst" ctime="2010-12-30" mtime="2010-12-30"}
+
+# Lupavý prst
 
 Při tomto onemocnění je v jednom místě ztížený pohyb prstem. Při snaze o ohnutí prstu dojde po překonání určitého odporu k přeskočení prstu do nové polohy (lupnutí). {class="description" kw="prsty, palec, lupavý palec, lupnutí prstu, digitus saltans, polex saltans, bolest, lupání, léčení, operace, fixace, šlacha"}
 
 Lupavý prst _(digitus saltans)_ je onemocnění, jež může postihnout kterýkoli prst na ruce. Nejčastěji se však jedná o palec – lupavý palec _(polex saltans)_. Jedná se o onemocnění šlachy, která ohýbá prst. Onemocnění je způsobené původně [úrazem nebo namožením šlachy][1], kterým většinou pacient nevěnuje vůbec pozornost. Teprve následně dochází k většinou velmi bolestivým zánětlivým změnám.
 
-## Příčina vzniku lupavého palce {id="pricina\_vzniku\_lupaveho_palce"}
+{id="pricina\_vzniku\_lupaveho_palce"}
+
+## Příčina vzniku lupavého palce
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ V prstech nejsou žádné svaly. Svaly které umožňují pohyb prstů jsou toti
 
 V počátku onemocnění bývá lupání [komplikováno zánětem][2] a je tedy bolestivé. Někteří lidé však bolest překonají, onemocnění se může stát dlouhodobým (chronickým) a bolest po ústupu zánětu nemusí být téměř žádná.
 
-## Léčení lupavého palce {id="leceni\_lupaveho\_palce"}
+{id="leceni\_lupaveho\_palce"}
+
+## Léčení lupavého palce
 
 n/a {class="description"}
 
@@ -25,7 +31,9 @@ V počátečním stádiu onemocnění (velmi bolestivé lupání prstu) je dobr�
 
 V případě, že by fixace nepřinesla efekt, pak bude nutné operační řešení, které nemá smysl odkládat. Operace je velmi jednoduchá, provádí se v místním znecitlivění. Většinou postačí protnout poutko nad kloubem a uzlík na šlaše se sám zahojí. Omezení pracovního zařazení je vlastně jen do doby zhojení kůže (asi 2 týdny).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -36,7 +44,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Proč není dobré snažit se bolestivé lupání rozcvičit?
   4. V čem většinou spočívá operace lupavého palce?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

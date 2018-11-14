@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Zánětlivé ložisko nad hýžďovou rýhou {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanetlive\_lozisko\_nad\_hyzdovou_ryhou" short="Zánětlivé ložisko nad hýžďovou rýhou" ctime="2010-12-23" mtime="2010-12-23"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanetlive\_lozisko\_nad\_hyzdovou_ryhou" short="Zánětlivé ložisko nad hýžďovou rýhou" ctime="2010-12-23" mtime="2010-12-23"}
+
+# Zánětlivé ložisko nad hýžďovou rýhou
 
 Zánětlivé změny ložiska nad hýžďovou rýhou jsou extrémně bolestivé. Onemocnění však není nijak nebezpečné. K odstranění bolesti může dojít samovolně (prasknutím) nebo drobným chirurgickým zákrokem. Definitivním řešením onemocnění je však jedině operace. {class="description" kw="sakrální dermoid, sinus pilonidalis sacralis, dermoepidermální cysta, džípová nemoc, boulička, operace, cysta"}
 
 Zánětlivé ložisko nad hýžďovou rýhou se nazývá _sakrální dermoid_, _sinus pilonidalis sacralis_, _dermoepidermální cysta_, případně _džípová nemoc_. {class="example"}
 
-## Příčina vzniku sakrálního dermoidu {id="pricina\_vzniku\_sakralniho_dermoidu"}
+{id="pricina\_vzniku\_sakralniho_dermoidu"}
+
+## Příčina vzniku sakrálního dermoidu
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ n/a {class="description"}
 
 Toto onemocnění se projevilo mimo jiné také u mladých řidičů džípů v americké armádě. Vzhledem k tomu, že mnozí z nich měli chlupatá záda, domnívali se vojenští lékaři, že nemoc vzniká odlamováním chlupů a jejich natlačováním do podkoží nad hýžďovou rýhou. Proto se nemoc začala neadekvátně označovat jako „džípová nemoc“. {class="example"}
 
-## Léčení sakrálního dermoidu {id="leceni\_sakralniho\_dermoidu"}
+{id="leceni\_sakralniho\_dermoidu"}
+
+## Léčení sakrálního dermoidu
 
 n/a {class="description"}
 
@@ -29,7 +35,9 @@ Teprve po důkladném operačním [odstranění cysty][5] je **onemocnění defi
 
 Riziko [zánětlivých komplikaci][6] je vzhledem k blízkosti konečníku velmi vysoké. Nedojde-li k zánětu, doba léčení nemusí přesáhnout 3 týdny. V případě zánětlivých komplikací se však může protáhnout i na několik měsíců.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -40,7 +48,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Proč bývá sakrální dermoid označován také jako džípová nemoc?
   4. Proč je k definitivnímu vyléčení sakrálního dermoidu nezbytné operační řešení?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

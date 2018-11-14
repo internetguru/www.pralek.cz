@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Onemocnění šlach: zánět šlach, gangliom, tenisový loket {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_slach" short="Onemocnění šlach" ctime="2010-01-14" mtime="2010-01-14"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_slach" short="Onemocnění šlach" ctime="2010-01-14" mtime="2010-01-14"}
+
+# Onemocnění šlach: zánět šlach, gangliom, tenisový loket
 
 Neúměrná zátěž šlachy může způsobit potíže – nadměrnou tvorbu mazu nebo jeho nedostatek. Obojí je nutné léčit klidem. Oslabená nebo dlouhodobě nemocná šlacha se může při zátěži přetrhnout. {class="description" kw="šlacha, onemocnění šlachy, zánět šlachy, gangliom, tenisový loket, boulička, epikondylitis, přetržení šlachy"}
 
@@ -9,7 +11,9 @@ Neúměrná zátěž šlachy může způsobit potíže – nadměrnou tvorbu maz
 
 V prstech nejsou žádné svaly. Svaly ohýbačů a natahovačů prstů jsou uloženy v horních dvou třetinách předloktí. Od svalů vedou šlachy zbytkem předloktí, zápěstím, dlaní nebo hřbetem ruky až do jednotlivých prstů. Uchopením za horní část předloktí lze vyhmatat pohybující se svaly při aktivním pohybování prsty. {class="example"}
 
-## Zánět šlach {id="zanet_slach"}
+{id="zanet_slach"}
+
+## Zánět šlach
 
 n/a {class="description"}
 
@@ -19,7 +23,9 @@ Zánět šlach se projevuje zvýšeným vstřebáváním (a tedy nedostatkem) kl
 
 Jelikož se nejedná o [bakteriální onemocnění][3], při léčbě [nepomohou antibiotika][4]. Ve skutečnosti stačí **zamezit pohybům, které onemocnění způsobily**. Pokud pacient nedodrží léčebný režim, je možné přiložit fixaci (např. sádrovou), která patřičný pohyb fyzicky znemožní.
 
-## Gangliom {id="gangliom"}
+{id="gangliom"}
+
+## Gangliom
 
 n/a {class="description"}
 
@@ -36,7 +42,9 @@ Stejně jako u zánětu šlach (nedostatek kloubního mazu) je v případě gang
 
 Všechny zmíněné léčebné postupy mají stejně dobrý efekt. V případě návratu k činnosti, která ke vzniku gangliomu vedla, dojde dříve nebo později k opětovnému vzniku gangliomu – _recidiva_.
 
-## Tenisový loket – epikondylitis {id="tenisovy_loket-epikondylitis"}
+{id="tenisovy_loket-epikondylitis"}
+
+## Tenisový loket – epikondylitis
 
 n/a {class="description"}
 
@@ -46,7 +54,9 @@ Příčinou _epikondylitýdy_ nebývá jen nadměrná zátěž při tenisu, ale 
 
 Léčení tenisového loktu spočívá opět v omezení bolestivých pohybů nebo přiložením sádrové fixace. Někdy je nutné přistoupit k rentgernovým ozářkám nebo k operačnímu „přesazení“ vazivového úponu svalu ke kosti.
 
-## Přetržená šlacha {id="pretrzena_slacha"}
+{id="pretrzena_slacha"}
+
+## Přetržená šlacha
 
 n/a {class="description"}
 
@@ -59,7 +69,9 @@ Naopak **přetržení Achillovy šlachy je velmi závažný úraz**, který se s
 
   1. Léčením je pouze operační sešití šlachy s nutnou následnou fixací do zhojení šlachy (6 týdnů) a následné rozcvičení (rehabilitace).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -72,7 +84,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   5. Jakým sportem může být způsobeno onemocnění zvané tenisový loket?
   6. Proč je přetržení Achillovy šlachy o tolik závažnější nežli šlachy bicepsu?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

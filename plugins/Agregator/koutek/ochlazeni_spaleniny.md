@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Ochlazení jako první pomoc při spálenině {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ochlazeni\_spaleniny" short="Ochlazení spáleniny" ctime="2007-10-21" mtime="2015-08-04"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ochlazeni\_spaleniny" short="Ochlazení spáleniny" ctime="2007-10-21" mtime="2015-08-04"}
+
+# Ochlazení jako první pomoc při spálenině
 
 Okamžité ochlazení spáleniny zásadně snižuje závažnost úrazu a jeho následky! Nejlépe poslouží proud studené čisté vody. O výsledné závažnosti úrazu rozhoduje každá sekunda. {class="description" kw="popáleniny, ochlazení, spáleninový šok, puchýř, odumření tkáně, stupeň spáleniny, bolest"}
 
@@ -9,7 +11,9 @@ Okamžité ochlazení spáleniny zásadně snižuje závažnost úrazu a jeho n�
 
 Závažná a hluboká spálenina bolí paradoxně méně než povrchová. Při tomto závažném tepelném poranění totiž dochází ke zničení nervových zakončení a proto **nemusí být vnímaná bolest úměrná závažnosti zranění**. Potíže a bolest se dostaví s odstupem dnů až v souvislosti s [rozvojem zánětu][1]. {class="example"}
 
-## Rychlé a intenzivní chlazení spáleniny {id="rychle\_a\_intenzivni\_chlazeni\_spaleniny"}
+{id="rychle\_a\_intenzivni\_chlazeni\_spaleniny"}
+
+## Rychlé a intenzivní chlazení spáleniny
 
 Pro dobré zhojení spáleniny **je rozhodující včasnost a intenzita chlazení bezprostředně po úrazu**. Zachování celistvosti popálené kůže sníží riziko následné infekce. {class="description"}
 
@@ -19,7 +23,9 @@ Důležité je snažit se [zachovat celistvost kůže (resp. puchýřů)][2] kv�
 
 [Všudypřítomné bakterie][3] se dostávají porušeným kožním krytem do podkoží nebo do hlubších tkání, které jsou rovněž poškozené spáleninou. V popálené tkáni jsou pro bakterie ideální podmínky k množení. To vede ke vzniku závažných zánětlivých komplikací spáleniny, které se rozvinou do 3 dnů od úrazu.
 
-## Závažnost popálenin dětí {id="zavaznost\_popalenin\_deti"}
+{id="zavaznost\_popalenin\_deti"}
+
+## Závažnost popálenin dětí
 
 Spálenina může mít u malých dětí ty nejtragičtější následky. Jedná se o popáleninový šok, který vzniká zvláště při spáleninách dlaní, obličeje nebo genitálií (šokových zón). {class="description"}
 
@@ -27,7 +33,9 @@ Dvouleté dítě spadlo holou dlaní do žhnoucího ohniště. Otec bez zaváhá
 
 Nutno dodat, že za [poranění malého dítěte][4] zodpovídá ten, kdo ho má v tu chvíli na starost.
 
-## Následná péče o spáleninu {id="nasledna\_pece\_o_spaleninu"}
+{id="nasledna\_pece\_o_spaleninu"}
+
+## Následná péče o spáleninu
 
 Podle závažnosti spáleniny a stavu pacienta je třeba [vyhledat lékařskou péči][5]. V případě laického ošetření svépomocí je spálenou plochu nutné důkladně promašťovat. {class="description"}
 
@@ -35,7 +43,9 @@ Závažnost poranění určuje stupeň spáleniny (zčervenání, puchýř nebo 
 
 Jestliže se pacient rozhodne, že není třeba vyhledat lékaře, je nutné bolestivou spáleninu po ochlazení důkladně promašťovat. K tomu nejlépe poslouží vepřové sádlo nebo jakýmkoli příjemný mastný krém. Promašťování nahradí funkci poškozených [mazových žláz][7], tedy zajistí, aby kůže nepraskala.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -46,7 +56,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Proč přicházejí pacienti se spáleninou k ošetření buďto ihned nebo až po 3 dnech od úrazu?
   4. Jak dlouho je potřeba chladit spáleninu?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

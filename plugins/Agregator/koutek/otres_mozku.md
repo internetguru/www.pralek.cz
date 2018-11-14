@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Otřes mozku nebo jen pohmoždění hlavy {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="otres\_mozku" short="Otřes mozku" ctime="2008-09-11" mtime="2008-09-11"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="otres\_mozku" short="Otřes mozku" ctime="2008-09-11" mtime="2008-09-11"}
+
+# Otřes mozku nebo jen pohmoždění hlavy
 
 Pohmoždění hlavy lékařské vyšetření nevyžaduje. Vyjmenované příznaky otřesu mozku však vedou zraněného k lékařskému vyšetření. {class="description" kw="pohmoždění hlavy, otřes mozku, bezvědomí, zvracení, úraz hlavy, nevolnost, porucha paměti, poranění mozku, změněné chování, zmatenost"}
 
 Pád na znak, poranění hozeným předmětem, uhození o futro nízkých dveří, náraz na pevné břemeno nebo poranění při potyčce jsou nejčastějšími příčinami tupého nebo [krvavého poranění hlavy][1]. Po takovém poranění **je třeba rozlišit, jestli se jedná jen o pohmoždění hlavy nebo o otřes mozku** a jak se ve kterém případě zachovat.
 
-## Bezvědomí jako příznak otřesu mozku {id="bezvedomi\_jako\_priznak\_otresu\_mozku"}
+{id="bezvedomi\_jako\_priznak\_otresu\_mozku"}
+
+## Bezvědomí jako příznak otřesu mozku
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ Upadne-li dítě a uhodí se do hlavy, pro lékaře je důležitá informace, je
 
 Příkladem otřesu mozku po úrazu hlavy je krátkodobé bezvědomí po každém KO v boxu. Boxer většinou během odpočítávání sám nabývá vědomí. {class="example"}
 
-## Zvracení jako příznak otřesu mozku {id="zvraceni\_jako\_priznak\_otresu\_mozku"}
+{id="zvraceni\_jako\_priznak\_otresu\_mozku"}
+
+## Zvracení jako příznak otřesu mozku
 
 n/a {class="description"}
 
@@ -25,7 +31,9 @@ n/a {class="description"}
 
 Pokud souvisí úraz hlavy s pitím alkoholu, rovněž je třeba se přiklonit k otřesu mozku. Rozlišení je velmi obtížné, poraněného opilce by měl vyšetřit odborný lékař.
 
-## Porucha paměti jako příznak otřesu mozku {id="porucha\_pameti\_jako\_priznak\_otresu_mozku"}
+{id="porucha\_pameti\_jako\_priznak\_otresu_mozku"}
+
+## Porucha paměti jako příznak otřesu mozku
 
 n/a {class="description"}
 
@@ -33,7 +41,9 @@ Zapomenutí okolnosti úrazu hlavy svědčí pro otřes mozku. Někdy si zraněn
 
 Poruchy paměti nebývají závažné, stav se většinou během 1–2 dnů vrací do normálu.
 
-## Pohmoždění hlavy bez doprovodných příznaků {id="pohmozdeni\_hlavy\_bez\_doprovodnych\_priznaku"}
+{id="pohmozdeni\_hlavy\_bez\_doprovodnych\_priznaku"}
+
+## Pohmoždění hlavy bez doprovodných příznaků
 
 n/a {class="description"}
 
@@ -41,7 +51,9 @@ Jestli po poranění hlavy nenásledovalo bezvědomí, zvracení ani porucha pam
 
 Po tupém poranění hlavy vznikne boule – krevní výron. Studený obklad na hlavu udělá zraněnému dobře. Po úrazu hlavy je dobře být v klidu, šeru, chladnu, nejíst, pouze se napít. V případě chuti a únavy je možné spát, lépe ve společnosti druhé osoby. Bohužel může dojít k závažnému **[poranění mozku][5] i bez známek otřesu mozku**. Toto poranění se může projevit i s delším časovým odstupem.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -52,7 +64,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Je nutné při výskytu jen jednoho ze tří příznaků otřesu mozku vyhledat lékařské vyšetření?
   4. Je nutné lékařské vyšetření po tupém poranění hlavy bez vedlejších příznaků?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

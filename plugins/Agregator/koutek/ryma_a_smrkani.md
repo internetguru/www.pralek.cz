@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Rýma a smrkání, komplikace rýmy {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ryma\_a_smrkani" short="Rýma a smrkání" ctime="2008-11-28" mtime="2008-11-28"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ryma\_a_smrkani" short="Rýma a smrkání" ctime="2008-11-28" mtime="2008-11-28"}
+
+# Rýma a smrkání, komplikace rýmy
 
 Nekomplikovaná rýma bývá banální onemocnění. Podmínkou však je smrkání (či odsávání zahleněného nosu kojencům zvláštním nástrojem). {class="description" kw="rýma, smrkání, horní cesty dýchací, dutina nosní, hrtan, dutiny, barva hlasu, zánět, sliznice, kýchání, kapénková infekce, prochlazení, sekret, senná rýma, alergie"}
 
@@ -15,7 +17,9 @@ Sliznice horních cest dýchacích je neustále bombardována různými **nečis
 
 Sekret nosní sliznice za normálních podmínek průběžně stéká do hrtanu a následně je polykán se slinami. V žaludku [jsou nečistoty i s mikroorganizmy likvidovány][4].
 
-## Jak na rýmu {id="jak\_na\_rymu"}
+{id="jak\_na\_rymu"}
+
+## Jak na rýmu
 
 n/a {class="description"}
 
@@ -27,7 +31,9 @@ V další fázi je sekret hustý a sám nevytéká a **tehdy je vysmrkání velm
 
 Nekomplikovaná **rýma by měla do týdne ustoupit**. Teprve v opačném případě je vhodné vyhledat odborného lékaře k odvrácení hrozících komplikací a chronické rýmy.
 
-## Senná rýma {id="senna_ryma"}
+{id="senna_ryma"}
+
+## Senná rýma
 
 n/a {class="description"}
 
@@ -35,7 +41,9 @@ Na rozdíl od běžné rýmy ve sliznici nosní nebojují v případě senné r�
 
 Zároveň v zarudlých a alergenem podrážděných spojivkových vacích (pod očními víčky) se zvyšuje sekrece slz, které stékají slzným kanálkem do nosní dutiny. Pomůže vyvarovat se pobytu v alergizujícím prostředí a léky sloužící k oslabení alergické reakce.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -46,7 +54,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Jaká je nejčastější komplikace rýmy?
   4. Co je senná rýma a jak proti ní bojovat?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

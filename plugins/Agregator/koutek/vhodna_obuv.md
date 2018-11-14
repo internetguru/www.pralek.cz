@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Vhodná a nevhodná obuv {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vhodna\_obuv" short="Vhodná obuv" ctime="2011-11-28" mtime="2011-11-28"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vhodna\_obuv" short="Vhodná obuv" ctime="2011-11-28" mtime="2011-11-28"}
+
+# Vhodná a nevhodná obuv
 
 Vhodná obuv je taková, která je adekvátní danému sportu nebo jiné aktivitě. Sportování, chůze nebo běhání musí být příjemné, bota nesmí být volná ani nikde tlačit. Materiál, ze kterého je obuv vyrobena, nesmí alergizovat. {class="description" kw="obuv, kvalitní obuv, vhodná obuv, nevhodná obuv, levná obuv, plochá noha, kladívkové prsty, deformovaná noha, obuv pro děti"}
 
@@ -13,7 +15,9 @@ V dřívějších dobách v Číně malým holčičkám vychovatelé pevně upí
 
 Podobně si dodnes některé ženy nohy utěsňují do malých „lodiček“ z estetických důvodů, což může vést k různým deformitám. Nejčastěji následně vznikají tzv. kladívkové (palec do pravého úhlu) a různě překřížené prsty. {class="important"}
 
-## Kvalitní či nekvalitní obuv? {id="kvalitni\_ci\_nekvalitni_obuv"}
+{id="kvalitni\_ci\_nekvalitni_obuv"}
+
+## Kvalitní či nekvalitní obuv?
 
 n/a {class="description"}
 
@@ -25,7 +29,9 @@ Oproti tomu _nekvalitní (levná neznačková) obuv_ je vyrobena z méně kvalit
 
 Řešením je pro každodenní cvičení, pro rekreační sporty nebo pro běžný trénink používat obuv již obnošenou, uvolněnou, která nutí nohu používat (a tedy posilovat) vlastní vazy. Kvalitní značkovou obuv využívat hlavně k dosažení nejlepších výsledků.
 
-## Vhodná obuv pro děti {id="vhodna\_obuv\_pro_deti"}
+{id="vhodna\_obuv\_pro_deti"}
+
+## Vhodná obuv pro děti
 
 n/a {class="description"}
 
@@ -35,7 +41,9 @@ Ve kvalitní a dokonale tvarované obuvi je pro dítě chůze jistě příjemně
 
 Na výlet je pro dítě jistě vhodná kvalitní (značková) výborně tvarovaná turistická obuv. Ale pro běžný pohyb v teple po trávníku, po písku nebo doma po koberci je nejzdravější a nejlepší pro vývoj nohy chůze bosýma nohama. Pro sportující děti je bezpochyby k dosažení špičkových výsledků nezbytná špičková sportovní obuv. {class="example"}
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -47,7 +55,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Proč je důležitá chůze bosýma nohama hlavně pro děti začínající chodit?
   5. Jaká obuv je vhodná pro sportující děti?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

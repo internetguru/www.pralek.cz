@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Kýla: boulička v třísle, v pupku nebo jeho okolí {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="kyla" short="Kýla" ctime="2008-01-08" mtime="2008-01-08"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="kyla" short="Kýla" ctime="2008-01-08" mtime="2008-01-08"}
+
+# Kýla: boulička v třísle, v pupku nebo jeho okolí
 
 Plánovaná operace kýly časně po potvrzení diagnózy je jediným správným řešením problému. Ostatní řešení jsou pouze dočasná a nevyhnutelnou operaci mohou pouze zkomplikovat. {class="description" kw="kýla, defekt, břišní stěna, břišní lis, operace, boulička, kýlní vak"}
 
@@ -9,7 +11,9 @@ Kýla je boulička způsobená vniknutím útrob do podkoží defektem břišní
 
 Defekt může vzniknout v okamžiku jednorázové námahy nebo se tvoří dlouhodobě opakovaným přetěžováním. Samotná **tvorba defektu je vždy spojená s místní bolestí**. Pokud je to možné a pacient se bolestivým pohybům vyhne, defekt (kýla) se nemusí vůbec vytvořit.
 
-## Projevy, výskyt a průběh léčení kýly {id="projevy\_vyskyt\_a\_prubeh\_leceni_kyly"}
+{id="projevy\_vyskyt\_a\_prubeh\_leceni_kyly"}
+
+## Projevy, výskyt a průběh léčení kýly
 
 n/a {class="description"}
 
@@ -19,7 +23,9 @@ Během spánku může kýla zcela zmizet. Obsah kýlního vaku se vlivem uvolně
 
 Kýla se vyskytuje v každém věku – od novorozeneckého jako vrozená až po pozdní stáří jako získaná. Operačním řešením je uzavření defektu ve stěně břišní, což lze často provést laparoskopicky. Pooperační komplikace se vyskytují zřídka, pobyt v nemocnici je jen několikadenní. Návrat do běžného života bývá možný po 3 týdnech a plná fyzická zátěž asi po 6 týdnech.
 
-## Komplikace spojené s kýlou {id="komplikace\_spojene\_s_kylou"}
+{id="komplikace\_spojene\_s_kylou"}
+
+## Komplikace spojené s kýlou
 
 n/a {class="description"}
 
@@ -31,7 +37,9 @@ Kdykoli mohou vzniknout komplikace projevující se bolestí či zatvrdnutím k�
 
 Pacient s uskřinutou kýlou vnímá pocit zástavy větrů a posléze začíná zvracet. Tehdy je již operace neodkladná, avšak složitější – život zachraňující. Neplánovaná operace navíc typicky nastává pro pacienta v nevhodnou dobu (pozdní věk, dovolená, svátky a podobně).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -43,7 +51,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Co se děje časem s neléčenou kýlou?
   5. Jaké mohou vzniknout komplikace kýly?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Léky proti bolesti neboli analgetika {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="leky\_proti_bolesti" short="Léky proti bolesti" ctime="2010-03-28" mtime="2010-03-28"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="leky\_proti_bolesti" short="Léky proti bolesti" ctime="2010-03-28" mtime="2010-03-28"}
+
+# Léky proti bolesti neboli analgetika
 
 Je mnoho léků proti bolesti a v moderních preparátech jsou různě kombinovány. Jednotlivé firmy vyrábí tytéž léky pod různými názvy. Pro laika je těžké se v nabídce léků zorientovat. Vždy je správné, poradit se o vhodném léku proti bolesti se svým lékařem nebo lékárníkem. {class="description" kw="léky, bolest, analgetika, teplota, spasmolytika, zánět, vedlejší účinky léků, opiáty"}
 
 Člověk trpící bolestí hledá jakoukoli pomoc; nejlépe ve formě léku proti bolesti _(analgetika)_. Bolest není na světě za trest. **Bolest je upozorněním a příznakem toho, že je něco v nepořádku.** Každá bolest má tedy svou příčinu.
 
-## Užívání léků proti bolesti {id="uzivani\_leku\_proti_bolesti"}
+{id="uzivani\_leku\_proti_bolesti"}
+
+## Užívání léků proti bolesti
 
 n/a {class="description"}
 
@@ -20,7 +24,9 @@ Některé zvláštní bolestivé nemoci vyžadují zcela zvláštní léky (nap�
 
 Vždy je třeba si vzít co nejméně léku; jen tolik, aby bolest utlumil. Bolest není nutné (a často ani možné) zcela odstranit. {class="important"}
 
-## Druhy léků proti bolesti {id="druhy\_leku\_proti_bolesti"}
+{id="druhy\_leku\_proti_bolesti"}
+
+## Druhy léků proti bolesti
 
 n/a {class="description"}
 
@@ -48,7 +54,9 @@ Jednotlivé léky každé skupiny jsou od různých výrobců k dostání pod r�
   * Na konci řady léků proti bolesti jsou opiáty _(fentanyl, dolzin, morfin)_.
       * Zcela zbaví pacienta bolestí ale **vedlejší účinky jsou velmi výrazné**.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -60,7 +68,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. V čem je užívání aspirinu výhodnější než užívání jiných léků proti bolesti?
   5. Jaký je rozdíl mezi léky známými z reklam a ostatními léky proti bolesti?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

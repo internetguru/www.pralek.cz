@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Nebezpečí skoku do vody {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="skoky\_do_vody" short="Skoky do vody" ctime="2015-03-23" mtime="2015-03-23"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="skoky\_do_vody" short="Skoky do vody" ctime="2015-03-23" mtime="2015-03-23"}
+
+# Nebezpečí skoku do vody
 
 Skoky do známé i neznámé vody mohou být velmi nebezpečné. V drtivé většině případů mívají skokani změněné uvažování. Typicky se před někým předvádějí a nebývají tedy u vody sami. Proto je na jejich kamarádech, aby jim v takovém konání zabránili. {class="description" kw="úraz, rána, zlomenina, zlomený vaz, skalpace, krvavé poranění, poranění páteře"}
 
 Neprozkoumaná voda je každoroční nástrahou „odvážlivců“ se sníženým úsudkem. Nemalý podíl na zraněních spojených se skokem do vody nesou i dobře známé vody. Úrazy závisí mimo ostatních faktorů také na typu skoku.
 
-## Skok do neznámé vody {id="skok\_do\_nezname_vody"}
+{id="skok\_do\_nezname_vody"}
+
+## Skok do neznámé vody
 
 n/a {class="description"}
 
@@ -16,7 +20,9 @@ Skok do vody bez předchozího prozkoumání dna není známkou odvahy, ale chab
   * Pod neprůhlednou hladinou bývají ukryty nejrůznější předměty s ostrými hranami, jako jsou trčící dráty, plechy, střepy, potopené kmeny, balvany, zbytky betonových konstrukcí a podobně.
   * Je-li voda naopak křišťálově čistá, a tedy průzračná, lze jen těžko odhadnout její skutečnou hloubku a hrozí poranění o dno.
 
-## Nebezpečí skoku do známé vody {id="nebezpeci\_skoku\_do\_zname\_vody"}
+{id="nebezpeci\_skoku\_do\_zname\_vody"}
+
+## Nebezpečí skoku do známé vody
 
 n/a {class="description"}
 
@@ -31,7 +37,9 @@ Nepodařený skok
 Vypuštěný bazén
 :   Dokonce tak známý prostor jako je bazén na zahrádce představuje skryté nebezpečí. Snadno lze v noci přehlédnout či zapomenout, že je vypuštěný. Skokani v takových případech bývají vždy pod vlivem alkoholu nebo drog.
 
-## Typické úrazy spojené se skokem do vody {id="typicke\_urazy\_spojene\_se\_skokem\_do\_vody"}
+{id="typicke\_urazy\_spojene\_se\_skokem\_do\_vody"}
+
+## Typické úrazy spojené se skokem do vody
 
 n/a {class="description"}
 
@@ -47,7 +55,9 @@ Kolmý skok po hlavě
 Skok po nohou resp. sbalený skok (tzv. kufr)
 :   Dochází k [drobným poraněním][1] dolních končetin resp. kterékoli části těla o předměty na dně.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -59,7 +69,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Za jakých podmínek se lze poranit o vodní hladinu?
   5. Jaký člověk skočí v noci do vypuštěného bazénu?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

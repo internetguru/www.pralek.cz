@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Závislosti na kouření je snazší předejít {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="koureni\_cigaret" short="Kouření cigaret" ctime="2012-02-23" mtime="2012-02-23"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="koureni\_cigaret" short="Kouření cigaret" ctime="2012-02-23" mtime="2012-02-23"}
+
+# Závislosti na kouření je snazší předejít
 
 Kouření tabáku (nejčastěji cigaret) přináší kuřákovi krátkodobě příjemný prožitek, ale dlouhodobě nepříjemnou závislost na nikotinu. Podle stupně závislosti již nebývá kouření nikterak příjemným zážitkem, spíše vzniká problém, když nezbytná cigareta chybí. {class="description" kw="kouření, cigarety, tabák, závislost, příležitostné kouření, zlozvyk, nemoc, odvykání, kašel"}
 
@@ -9,7 +11,9 @@ Nikotin zvyšuje hladinu zvláštních hormonů – _endorfinů_. Jejich vyplave
 
 Každá další cigareta přináší kuřákovi menší a menší změnu hladiny hormonu (zákon klesajícího mezního užitku). V pozdějších stádiích návyku si může kuřák vychutnat pouze první cigaretu po delší pauze (po spánku, po jídle a podobně).
 
-## Dávní indiáni kouřit uměli {id="davni\_indiani\_kourit_umeli"}
+{id="davni\_indiani\_kourit_umeli"}
+
+## Dávní indiáni kouřit uměli
 
 n/a {class="description"}
 
@@ -21,7 +25,9 @@ Příjemný účinek kouření tabáku objevili v dávných dobách američtí i
 
 V souladu s ochranou nekuřáků na sebe stát nepřímo bere roli šamana v omezování kuřáků (všudypřítomnými zákazy), zvyšováním ceny cigaret (spotřební daň) a dokonce i snižováním pohodlí samotného kouření (požadavkem na samozhasínací cigarety).
 
-## Stádia návyku kuřáka na nikotin {id="stadia\_navyku\_kuraka\_na\_nikotin"}
+{id="stadia\_navyku\_kuraka\_na\_nikotin"}
+
+## Stádia návyku kuřáka na nikotin
 
 n/a {class="description"}
 
@@ -54,7 +60,9 @@ Spokojenost kuřáků se v různých stádiích závislosti na cigaretách liš�
   2. Kuřák ve stádiu 2–5 většinou kouří rád a kouřit nechce přestat (mezní užitek z kouření stále převyšuje mezní náklady).
   3. Plně závislý kuřák (ve stádiu 6 a 7) dobře cítí, že mu kouření nesvědčí, ale většinou si další cigaretu už nedokáže odříct.
 
-## Kouření a choroby {id="koureni\_a\_choroby"}
+{id="koureni\_a\_choroby"}
+
+## Kouření a choroby
 
 n/a {class="description"}
 
@@ -68,7 +76,9 @@ O škodlivosti kouření dnes již jistě nikdo nepochybuje. Dlouhodobé kouřen
 
 Samozřejmě, že jedna cigareta (ba ani jedna krabička cigaret) nevadí. Nikdo však neví, jak brzy si vytvoří takový návyk, se kterým si již sám nedokáže poradit. {class="important"}
 
-## Odvykání kouření {id="odvykani_koureni"}
+{id="odvykani_koureni"}
+
+## Odvykání kouření
 
 n/a {class="description"}
 
@@ -87,7 +97,9 @@ Pro zvýšení úspěšnosti odvykání kouření je z mé zkušenosti potřeba:
       * Až ta doba přijde, dokázat si nezapálit a naplánovat si ke kouření jinou příležitost.
   6. Spoléhat sám na sebe (nikoli na náhražky jako jsou elektronické cigarety, náplasti, šidítka či tablety proti kouření).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -99,7 +111,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Které choroby mají přímou souvislost s kouřením cigaret?
   5. V čem spočívá záludnost vzniku návyku na nikotin?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

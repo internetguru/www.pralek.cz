@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Boule vzniklé následkem úrazu {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="boule\_nasledkem_urazu" short="Boule následkem úrazu" ctime="2010-09-27" mtime="2010-09-27"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="boule\_nasledkem_urazu" short="Boule následkem úrazu" ctime="2010-09-27" mtime="2010-09-27"}
+
+# Boule vzniklé následkem úrazu
 
 Boule vzniklé pohmožděním mají různou povahu; může jít o vylitou krev nebo jinou tekutinu. Podle místa vzniku se liší závažností, bolestivostí, léčbou a průběhem hojení. {class="description" kw="boule, pohmoždění hlavy, krevní výron, hematom, burza, burzitida, punkce, operace, svalová zatvrdlina, kontraktury"}
 
-## Typy boulí podle umístění a závažnosti {id="typy\_bouli\_podle\_umisteni\_a_zavaznosti"}
+{id="typy\_bouli\_podle\_umisteni\_a_zavaznosti"}
+
+## Typy boulí podle umístění a závažnosti
 
 n/a {class="description"}
 
@@ -34,7 +38,9 @@ n/a {class="description"}
       * Při potížích nejlépe pomůže suché teplo a šetrná masáž.
   * [Boule bez souvislosti s pohmožděním nebo otlačením][10] mají zcela jiný původ a charakter a vyžadují zcela odlišné léčení.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -46,7 +52,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. V případě které boule vzniklé úrazem nepomůže studený obklad?
   5. Co má společného boule nad loktem a nad jablkem kolena?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Onemocnění prsu {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_prsu" short="Onemocnění prsu" ctime="2010-06-29" mtime="2010-06-29"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_prsu" short="Onemocnění prsu" ctime="2010-06-29" mtime="2010-06-29"}
+
+# Onemocnění prsu
 
 Ženský i mužský prs mají stejný základ, chorobami prsu trpí ženy i muži, ženy častěji. Některé změny prsu jsou přirozené, jiné je nutné vyšetřit a mnohdy i řešit. Včasné vyšetření vede k definitivnímu vyléčení bez následků. {class="description" kw="prs, zánět, měsíčky, menstruace, gynekomastie, boulička, aterom, lipom, cysta, mammografie, fibrom, lymfatické uzliny, hydradenitis, pohmoždění prsu, rakovina prsu"}
 
-## Zánětlivé a hormonální onemocnění prsu {id="zanetlive\_a\_hormonalni\_onemocneni\_prsu"}
+{id="zanetlive\_a\_hormonalni\_onemocneni\_prsu"}
+
+## Zánětlivé a hormonální onemocnění prsu
 
 n/a {class="description"}
 
@@ -20,7 +24,9 @@ n/a {class="description"}
           2. Nebolestivé dlouhodobé (týdny a déle trvající) zbytnění prsní žlázy je nutné řešit. Lékařské vyšetření a následná poměrně jednoduchá operace vyřeší problém. **Neléčená _gynekomastie_ často vede ke vzniku rakoviny prsu u mužů.**
       2. Co vede u žen ke vzniku rakoviny prsu nikdo neví. Statisticky se [rakovina prsu][3] vyskytuje častěji u žen, které nikdy nekojily.
 
-## Boulička v prsu {id="boulicka\_v\_prsu"}
+{id="boulicka\_v\_prsu"}
+
+## Boulička v prsu
 
 n/a {class="description"}
 
@@ -54,7 +60,9 @@ Bouličky vyskytující se v prsu mohou být různého původu:
   * rakovina prsu – nebolestivá boulička v prsu jakékoli velikosti
       * Nemění se v souvislosti s menstruačním cyklem.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -66,7 +74,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jakou má příčinu změněná lymfatická uzlina v podpaží?
   5. Jaká je nejčastější příčina vzniku abscesu v prsu?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

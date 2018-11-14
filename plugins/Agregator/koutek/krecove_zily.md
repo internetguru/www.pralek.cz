@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Křečové žíly dolních končetin neboli varixy {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krecove\_zily" short="Křečové žíly" ctime="2009-03-11" mtime="2009-03-11"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krecove\_zily" short="Křečové žíly" ctime="2009-03-11" mtime="2009-03-11"}
+
+# Křečové žíly dolních končetin neboli varixy
 
 Vznik křečových žil dolních končetin lze preventivně ovlivnit. Již vzniklé varixy je možno odstranit. Po operaci je nutné opět preventivně dbát na to, aby se varixy znovu nevytvořily. {class="description" kw="varixy, rozšířená žíla, křečová žíla, chlopně, žilní městky, žilní systém, prevence"}
 
 Krev je vypuzována srdečním svalem a tepnami přenášena [pod určitým tlakem][1] k cílovým orgánům. Po předání kyslíku a živin se krev vrací žílami zpět k srdci. **Krev žílami teče pasivně**; není poháněna srdcem.
 
-## Správná a narušená funkce žil {id="spravna\_a\_narusena\_funkce\_zil"}
+{id="spravna\_a\_narusena\_funkce\_zil"}
+
+## Správná a narušená funkce žil
 
 n/a {class="description"}
 
@@ -24,7 +28,9 @@ Může se stát, že **se opakovaným přetěžováním žilní stěna postupně
 
 Nefunkční chlopně umožní v klidu pohyb krve dolů (obrázek 1:c) a při stlačení svalem oběma směry (obrázek 1:d), nejen směrem požadovaným. **Tlak městnající se krve se zvyšuje** a postižená žíla se dále rozšiřuje. Rozšiřováním žil vznikají žilní městky – křečové žíly _(varixy)_ (obrázek 1:e). Stejným způsobem se může měnit nadměrně namáhaná [„zlatá žíla“ v konečníku][2].
 
-## Léčení křečových žil {id="leceni\_krecovych\_zil"}
+{id="leceni\_krecovych\_zil"}
+
+## Léčení křečových žil
 
 n/a {class="description"}
 
@@ -37,7 +43,9 @@ Existuje několik metod, jak varixy odstranit:
 
 Chirurgicky, chemicky nebo laserem přerušená žíla vždy zanikne a posléze je nahrazena nově vyrostlou žílou. Nově vzniklá žíla je zdravá, nerozšířená, bez varixů. {class="important"}
 
-## Prevence vzniku křečových žil po operaci (i bez ní) {id="prevence\_vzniku\_krecovych\_zil\_po\_operaci\_i\_bez\_ni"}
+{id="prevence\_vzniku\_krecovych\_zil\_po\_operaci\_i\_bez\_ni"}
+
+## Prevence vzniku křečových žil po operaci (i bez ní)
 
 n/a {class="description"}
 
@@ -51,7 +59,9 @@ Nevhodné je i _dlouhodobé sezení bez pohnutí_, zvláště s nohou přes nohu
 
 Pro lidi s dispozicí k tvorbě křečových žil je vhodnější chodit než stát a ležet než sedět. Při každé příležitosti je vhodné nohy uložit do výšky (např. na stůl), a tím ulevit žilnímu systému a podpořit krevní návrat. {class="important"}
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -63,7 +73,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Po operaci křečových žil mohou tyto vzniknout znovu?
   5. Co podporuje vznik křečových žil?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

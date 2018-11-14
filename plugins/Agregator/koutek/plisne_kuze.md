@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Plísňová onemocnění kůže {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="plisne\_kuze" short="Plísně kůže" ctime="2011-09-25" mtime="2011-09-25"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="plisne\_kuze" short="Plísně kůže" ctime="2011-09-25" mtime="2011-09-25"}
+
+# Plísňová onemocnění kůže
 
 Projevem plísňového onemocnění je zapaření (zapářka) nebo opruzení kůže v místech nepřístupných vzduchu. Původcem jsou houbové mikroorganizmy, nejčastěji plísně nebo kvasinky. Nejrůznější plísně postihují čím dál více lidí a mají nejrůznější projevy. {class="description" kw="zapaření, zapářka, opruzení, kožní plísně, skvrny na kůži, ložisko, zánět, bolestivá skvrna na kůži, zarudnutí třísla, zapářka pod prsy, svědění okolí konečníku"}
 
-## Dlouhodobé (chronické) onemocnění plísní {id="dlouhodobe\_chronicke\_onemocneni_plisni"}
+{id="dlouhodobe\_chronicke\_onemocneni_plisni"}
+
+## Dlouhodobé (chronické) onemocnění plísní
 
 n/a {class="description"}
 
@@ -26,7 +30,9 @@ Dlouhodobé (chronické) onemocnění plísní postihuje velké množství lidí
 
 Dlouhodobé onemocnění plísní dokáže léčit [dermatolog][5]. Ten určí, zda se jedná skutečně o plíseň nebo o jiné onemocnění a doporučí nejvhodnější léčbu.
 
-## Prudké (akutní) onemocnění plísní {id="prudke\_akutni\_onemocneni_plisni"}
+{id="prudke\_akutni\_onemocneni_plisni"}
+
+## Prudké (akutní) onemocnění plísní
 
 n/a {class="description"}
 
@@ -60,7 +66,9 @@ Kožní plísně se vyskytují častěji u lidí postižených cukrovkou. Zvlá�
 
 Opakovaný výskyt plísňových onemocnění jistě povede nejen praktického lékaře ale i pozorného čtenáře našich článků k cílenému pátrání po cukrovce.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -72,7 +80,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaký vliv má v léčbě akutních plísní zvýšená hygiena?
   5. Proč trpí plísní častěji člověk s neléčenou cukrovkou?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

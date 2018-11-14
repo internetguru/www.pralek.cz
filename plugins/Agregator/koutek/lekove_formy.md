@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Možnosti podávání léků a lékové formy {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lekove\_formy" short="Podávání léků a lékové formy" ctime="2010-05-09" mtime="2010-05-09"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lekove\_formy" short="Podávání léků a lékové formy" ctime="2010-05-09" mtime="2010-05-09"}
+
+# Možnosti podávání léků a lékové formy
 
 Léky se mohou dostat do těla různými cestami. Stejné množství léku (účinná dávka léku) působí stejně, je-li podáno kteroukoli formou a kteroukoli cestou. Většinou je možné nasadit takovou formu, která pacientovi vyhovuje. {class="description" kw="lékové formy, léky, tablety, dražé, prášky, masti, kapky, spreje, léčivé náplasti, léčivé gely, tampony, čípky, injekční roztoky, očkování, testy alergenů, podávání léků, aplikace léků"}
 
@@ -11,7 +13,9 @@ V případě opakovaného zvracení nemá smysl podávat [tabletky ke zklidněn�
 
 Podávání léků se dá rozdělit na _invazivní_ (např. vpich injekce) a _neinvazivní_ bez nutnosti otevření pacienta.
 
-## Neinvazivní aplikace léků a lékové formy {id="neinvazivni\_aplikace\_leku\_a\_lekove_formy"}
+{id="neinvazivni\_aplikace\_leku\_a\_lekove_formy"}
+
+## Neinvazivní aplikace léků a lékové formy
 
 n/a {class="description"}
 
@@ -43,7 +47,9 @@ n/a {class="description"}
   * **Aplikace léku do pochvy** _(intravaginální aplikace)_ – čípek, sprej, gel, roztok k výplachu, tampon;
       * Veškeré léky se podávají k místnímu použití.
 
-## Invazivní aplikace léků a lékové formy {id="invazivni\_aplikace\_leku\_a\_lekove_formy"}
+{id="invazivni\_aplikace\_leku\_a\_lekove_formy"}
+
+## Invazivní aplikace léků a lékové formy
 
 n/a {class="description"}
 
@@ -69,7 +75,9 @@ n/a {class="description"}
   * **Aplikace léku do páteřního kanálu** _(intramedulární aplikace)_ – injekční roztok;
       * Do páteřního kanálu lze podávat léky k tlumení porodních bolestí nebo i k některým operacím.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -81,7 +89,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaké jsou invazivní možnosti podání léku?
   5. Jaké jsou nejznámější lékové formy?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

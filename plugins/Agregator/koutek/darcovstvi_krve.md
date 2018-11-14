@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Dárcovství krve, krevní plazmy a kostní dřeně {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="darcovstvi\_krve" short="Dárcovství krve" ctime="2009-05-25" mtime="2009-05-25"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="darcovstvi\_krve" short="Dárcovství krve" ctime="2009-05-25" mtime="2009-05-25"}
+
+# Dárcovství krve, krevní plazmy a kostní dřeně
 
 Darovat krev může člověk, který dovršil 18 let věku, neměl infekční žloutenku, jeho hmotnost je vyšší než 50 kg a cítí se být zdráv. Dárce je vyšetřen a jeho krev bude užita k návratu zdraví nebo k záchraně jiného života. Chybějící krev je v těle dárce obnovena za 72 hodin. {class="description" kw="krev, dárcovství krve, dárcovství krevní plazmy, dárcovství kostní dřeně, transfuzní stanice, transfuzní lékař, dárce krve, dárcovství krevních destiček, kostní dřeň, registr dárců"}
 
-## Podmínky dárcovství krve {id="podminky\_darcovstvi\_krve"}
+{id="podminky\_darcovstvi\_krve"}
+
+## Podmínky dárcovství krve
 
 n/a {class="description"}
 
@@ -13,7 +17,9 @@ Krev může darovat každý člověk, který chce pomoci nemocným známým, př
 
 Odběrem kapky krve z prstu (nástrojem na 1 použití) je vyšetřena hladina krevního barviva, má-li vůbec dárce dostatek krve na rozdávání. Po vyplnění dotazníku promluví s transfuzním lékařem a společně vyřeší eventuální nejasnosti ohledně zdravotního stavu. Když lékař shledá dárce způsobilým, pak už darování krve nic nebrání.
 
-## Průběh odběru krve {id="prubeh\_odberu\_krve"}
+{id="prubeh\_odberu\_krve"}
+
+## Průběh odběru krve
 
 n/a {class="description"}
 
@@ -23,7 +29,9 @@ n/a {class="description"}
 
 Technicky není možné, aby se dárce krve nakazil krví přenosnou chorobou. Všechny vpichy jsou pouze jehlami na jedno použití. Odebraná krev je náležitě vyšetřena. Přesto se bohužel může někdy stát, že je nakažen příjemce krve nebo krevního derivátu. **Nikdy však není nakažen dárce.**
 
-## Komplikace při darování krve {id="komplikace\_pri\_darovani_krve"}
+{id="komplikace\_pri\_darovani_krve"}
+
+## Komplikace při darování krve
 
 n/a {class="description"}
 
@@ -31,7 +39,9 @@ Během odběru nebo těsně po něm se může stát, že dárce pocítí slabost
 
 Často potíže vznikají ihned po napíchnutí, aniž by došlo k odběru. V případě kolapsu nebo nevolnosti je dárce uložen na lůžko a během okamžiku se jeho stav normalizuje.
 
-## Dárcovství krevní plazmy, krevních destiček, zvláštních krvinek {id="darcovstvi\_krevni\_plazmy\_krevnich\_desticek\_zvlastnich\_krvinek"}
+{id="darcovstvi\_krevni\_plazmy\_krevnich\_desticek\_zvlastnich\_krvinek"}
+
+## Dárcovství krevní plazmy, krevních destiček, zvláštních krvinek
 
 n/a {class="description"}
 
@@ -41,7 +51,9 @@ Na transfuzní stanici je zvláštní přístroj, který umí z krve oddělit kr
   * Jednotlivé transfuzní stanice mají zvláštní podmínky, je třeba se informovat v místě bydliště.
   * Dárcovství plazmy bývá finančně ohodnocené.
 
-## Dárcovství kostní dřeně {id="darcovstvi\_kostni\_drene"}
+{id="darcovstvi\_kostni\_drene"}
+
+## Dárcovství kostní dřeně
 
 n/a {class="description"}
 
@@ -51,7 +63,9 @@ Kostní dřeň je darována velmi zřídka. Je totiž velice náročné najít p
 
 V případě potřeby je dárce pozván a odběr proběhne v celkové narkóze vpichem do lopaty kyčelní kosti. Po probuzení z narkózy místo odběru pobolívá, dárce zůstává hospitalizován asi 2 dny. **Darovaná kostní dřeň nejčastěji zachrání život dítěti s leukémií.**
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -64,7 +78,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   5. V čem je dárcovství kostní dřeně složitější než dárcovství krve?
   6. Proč může být darování krve opakované a darování dřeně jen zřídkakdy?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

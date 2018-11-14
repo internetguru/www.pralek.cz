@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Péče o penis, hygiena chlapců, fimóza, obřízka {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="penis-fimoza-obrizka" short="Péče o penis" ctime="2009-07-09" mtime="2009-07-09"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="penis-fimoza-obrizka" short="Péče o penis" ctime="2009-07-09" mtime="2009-07-09"}
+
+# Péče o penis, hygiena chlapců, fimóza, obřízka
 
 Péče o penis již od útlého věku je podmínkou jeho správného dalšího vývoje. Tím se zamezí vzniku zánětu a hlavně následných komplikací a potíží v dospívání. {class="description" kw="penis, fimóza, obřízka, předkožka, kůže, sliznice, žalud, vak předkožky, smegma, slepeniny, konglutinace, srůsty, zánět vaku, balanitis, jizvení předkožky, parafimóza"}
 
 Na ošetřování, koupele, přetahování nebo nepřetahování předkožky novorozenců a kojenců je více lékařských názorů. Pediatr většinou doporučuje nechat penis bez přetahování předkožky při koupeli, chirurg doporučuje předkožku uvolnit a při koupeli přetahovat přes žalud.
 
-## Popis penisu, předkožka {id="popis\_penisu\_predkozka"}
+{id="popis\_penisu\_predkozka"}
+
+## Popis penisu, předkožka
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ Topořivá tělesa penisu jsou kryta volně posunlivou kůží a žalud je kryt 
 
 Během koupele je nutné přetáhnout předkožku přes penis, předkožkový vak omýt vlažnou vodou. V případě zanedbání hygieny se smegma objeví již během několika dnů; **pravidelnou hygienou se smegma vůbec neobjeví**.
 
-## Onemocnění předkožky penisu {id="onemocneni\_predkozky\_penisu"}
+{id="onemocneni\_predkozky\_penisu"}
+
+## Onemocnění předkožky penisu
 
 n/a {class="description"}
 
@@ -37,7 +43,9 @@ V případě opakované balanitidy dospělého muže se rozvíjí rovněž nejpr
 
 Při částečném zúžení zevního ústí předkožky může vzniknout stav, kdy se žalud protlačí zúženým místem ven, ale již nelze předkožku přetáhnout zpět a předkožka zaškrtí žalud. Vznikne dramaticky vypadající stav, žalud rychle otéká a zarudne, předkožka jej zaškrcuje, penis je bolestivý. Tento stav se nazývá _parafimóza_ a vyžaduje neodkladné chirurgické nebo urologické ošetření.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -49,7 +57,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Co je fimóza?
   5. Co je parafimóza?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

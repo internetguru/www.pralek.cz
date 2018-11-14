@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Nejčastější stařecké zlomeniny {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="starecke\_zlomeniny" short="Stařecké zlomeniny" ctime="2009-06-22" mtime="2009-06-22"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="starecke\_zlomeniny" short="Stařecké zlomeniny" ctime="2009-06-22" mtime="2009-06-22"}
+
+# Nejčastější stařecké zlomeniny
 
 Kosti se ve stáří stávají křehké a málo pevné. Mohou se tedy lámat i při velice malém násilí. To je způsobeno ztrátou chrupavčité složky v kostech, později i ztrátou pevné kostěné složky (takzvané řídnutí kostí). {class="description" kw="zlomenina, stařecké zlomeniny, zlomenina obratle, zlomenina krčku stehenní kosti, zlomenina zápěstí, zlomeniny pažní kosti, zlomeniny lokte, šátkový obvaz"}
 
-## Zlomenina obratle {id="zlomenina_obratle"}
+{id="zlomenina_obratle"}
+
+## Zlomenina obratle
 
 n/a {class="description"}
 
@@ -13,7 +17,9 @@ Po pádu na zadek může snadno dojít ke zlomenině obratle. Nejčastěji se l�
 
 První pomocí po zlomení obratle je [lék proti bolesti][2]. **[Transport k vyšetření][3] musí být vleže** – sanitou. Léčení pomocí zvláštního korsetu trvá asi 3 měsíce. Operační řešení je nutné výjimečně a trvalé následky nebývají.
 
-## Zlomenina krčku stehenní kosti {id="zlomenina\_krcku\_stehenni_kosti"}
+{id="zlomenina\_krcku\_stehenni_kosti"}
+
+## Zlomenina krčku stehenní kosti
 
 n/a {class="description"}
 
@@ -23,7 +29,9 @@ Zlomenina je laicky dobře rozpoznatelná. Poraněná kyčel je bolestivá a **p
 
 První pomoc spočívá v podání léku proti bolesti a transportování k vyšetření opět _vleže_ – sanitou. Léčení bývá operační, následuje rehabilitace. Zhojení je většinou do 6 týdnů a trvalé následky se vyskytují zřídka.
 
-## Zlomenina zápěstí {id="zlomenina_zapesti"}
+{id="zlomenina_zapesti"}
+
+## Zlomenina zápěstí
 
 n/a {class="description"}
 
@@ -31,7 +39,9 @@ Zlomené zápěstí je nejčastější stařeckou zlomeninou. Po zakopnutí a p�
 
 Na bolestivé místo je možno **přiložit studený obklad** (nejlépe zmrazená zelenina v plastovém sáčku) a _vsedě_ transportovat zraněného k vyšetření. Léčení spočívá podle druhu zlomeniny v narovnání kostí v místním znecitlivění nebo operační řešení v celkové anestesii, následuje fixace a rehabilitace. Doba léčení bývá asi 6 týdnů, trvalé následky závisí na druhu zlomeniny.
 
-## Zlomeniny pažní kosti a lokte {id="zlomeniny\_pazni\_kosti\_a\_lokte"}
+{id="zlomeniny\_pazni\_kosti\_a\_lokte"}
+
+## Zlomeniny pažní kosti a lokte
 
 n/a {class="description"}
 
@@ -41,7 +51,9 @@ Při nezafixované končetině otok i modřina stékají gravitací směrem k pr
 
 Léčení bývá složité; většinou vyžaduje operační řešení. Doba léčení je asi 4 týdny. Trvalé následky v oblasti lokte se týkají omezení hybnosti různého stupně.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -52,7 +64,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Jaká je první pomoc při časté zlomenině zápěstí?
   4. Lze laicky odlišit bolestivost páteře po pádu od zlomeniny obratle?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

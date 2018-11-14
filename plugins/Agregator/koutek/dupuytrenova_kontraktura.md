@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Uzly a zatvrdliny ve dlani: Dupuytrenova kontraktura {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="dupuytrenova\_kontraktura" short="Dupuytrenova kontraktura" ctime="2011-03-19" mtime="2011-03-19"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="dupuytrenova\_kontraktura" short="Dupuytrenova kontraktura" ctime="2011-03-19" mtime="2011-03-19"}
+
+# Uzly a zatvrdliny ve dlani: Dupuytrenova kontraktura
 
 Nebolestivé hrboly ve dlani mohou omezit nebo znemožnit hybnost prstů. Procvičováním prstů v počátečním stádiu nemoci lze zcela předejít nevratným změnám. Stejně důležité je cvičit po případné operaci, aby se nemoc nevrátila. {class="description" kw="uzly, zatvrdlina ve dlani, Dupuytrenova kontraktura, hrbol ve dlani, boule ve dlani, prohlubeň ve dlani, pokrčený prst, prst nelze narovnat, deformace dlaně"}
 
@@ -9,7 +11,9 @@ Kontraktura Dupuytren _(čteno dypytrén)_ postihuje převážně muže ve stře
 
 V začátku onemocnění se ve dlani objeví nebolestivý uzel, boule nebo [zatvrdlina][1]. **Hmatné hrboly ve dlani záhy přecházejí v pevné vazivové srůsty** kůže, _povázky_ a [šlach ohýbačů prstů][2]. Povázka _(palmární aponeuroza)_ je pevný plochý vazivový útvar zpevňující dlaň.
 
-## Vývoj Dupuytrenovy kontrtaktury {id="vyvoj\_dupuytrenovy\_kontrtaktury"}
+{id="vyvoj\_dupuytrenovy\_kontrtaktury"}
+
+## Vývoj Dupuytrenovy kontrtaktury
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ Postupně se k zatvrdlině přitahuje kůže, která se pohybuje v souvislosti s
 
 Postupně bývá postiženo i více prstů, nejčastěji se jedná o prsteník a malík. V případě zanedbání onemocnění může dojít k úplnému pevnému znehybnění ztuhlých ohnutých prstů, které nelze nijak používat. Po určité době dochází k nevratnému [poškození kloubů][4] postižených prstů. Práce takovou rukou je pak samozřejmě velmi omezená.
 
-## Léčení Dupuytrenovy kontraktury {id="leceni\_dupuytrenovy\_kontraktury"}
+{id="leceni\_dupuytrenovy\_kontraktury"}
+
+## Léčení Dupuytrenovy kontraktury
 
 n/a {class="description"}
 
@@ -31,7 +37,9 @@ Po operaci je nezbytné neprodleně zahájit rehabilitaci – rozcvičování pr
 
 Pooperační pracovní neschopnost bývá od 1 do 3 měsíců.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -43,7 +51,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaké jsou počáteční příznaky onemocnění Dupuytrenovou kontrakturou?
   5. Jak lze předejít recidivě Dupuytrenovy kontraktury po operaci?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

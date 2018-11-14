@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Včasné odhalení rakoviny tlustého střeva a konečníku {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odhaleni\_rakoviny" short="Odhalení rakoviny" ctime="2015-03-31" mtime="2015-03-31"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odhaleni\_rakoviny" short="Odhalení rakoviny" ctime="2015-03-31" mtime="2015-03-31"}
+
+# Včasné odhalení rakoviny tlustého střeva a konečníku
 
 Opakované vyšetřování stolice na krvácení může odhalit zhoubný nádor střeva a konečníku již v počátečním stádiu, kdy je nádor ještě vyléčitelný. Vyšetření je potřeba doporučit každému člověku od padesáti let, a to i jako laik (čtenář tohoto článku). {class="description" kw="rakovina, tlusté střevo, konečník, krvácení, stolice, iTOKS, OK, kolonoskopie"}
 
 Zhoubný [nádor tlustého střeva a konečníku][1] se nejčastěji vyskytuje u lidí starších 50 let. Projevy onemocnění jsou zprvu nenápadné. Proto by měl každý člověk v tomto věku podstoupit preventivní vyšetření na skryté (okultní) krvácení. V případě včasného odhalení nádoru extrémně stoupá šance na přežití. Léčení je v takovém případě rychlé a snadné a může vést k úplnému uzdravení.
 
-## Neviditelné krvácení do stolice {id="neviditelne\_krvaceni\_do_stolice"}
+{id="neviditelne\_krvaceni\_do_stolice"}
+
+## Neviditelné krvácení do stolice
 
 n/a {class="description"}
 
@@ -15,7 +19,9 @@ Samotné vyšetření je jednoduché a bezbolestné. Nazývá se _imunologický 
 
 Příměs krve ve stolici poukazuje na onemocnění střeva nebo konečníku a je důvodem k pátrání po příčině krvácení. Normálně se totiž krev ve stolici zdravého člověka vůbec nevyskytuje.
 
-## Průběh a varianty vyhodnocení {id="prubeh\_a\_varianty_vyhodnoceni"}
+{id="prubeh\_a\_varianty_vyhodnoceni"}
+
+## Průběh a varianty vyhodnocení
 
 n/a {class="description"}
 
@@ -31,7 +37,9 @@ Vyhodnocení svépomocí
 :   Některé iTOKS je možné **zakoupit v lékárnách** v různých cenových relacích. Výsledek vyšetření je potom známý během několika minut.
 :   Provedení takového testu je rychlé a komfortní, neboť probíhá kompletně v soukromí domova.
 
-## Určení diagnózy {id="urceni_diagnozy"}
+{id="urceni_diagnozy"}
+
+## Určení diagnózy
 
 n/a {class="description"}
 
@@ -39,7 +47,9 @@ n/a {class="description"}
 
 Je-li test pozitivní, nezbývá než se objednat na [kolonoskopii][1], která teprve určí skutečnou diagnózu. Může se jednat o obávaný zhoubný nádor, ale i o jiné onemocnění, třeba jen banální, které se projevilo krvácením do stolice.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -50,7 +60,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Proč mají osoby starší 50 let jedno bezplatné vyšetření okultního krvácení do stolice ročně?
   4. Co následuje v případě pozitivního výsledku testu na okultní krvácení?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

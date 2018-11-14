@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="komplikace\_vredu" short="Komplikace žaludečních vředů" ctime="2011-07-31" mtime="2011-07-31"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="komplikace\_vredu" short="Komplikace žaludečních vředů" ctime="2011-07-31" mtime="2011-07-31"}
+
+# Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku
 
 Žaludeční vředy jsou v současnosti snadno léčitelným onemocněním. Komplikace vředové choroby žaludku a dvanáctníku však mohou vést k ohrožení života. Vznikají nejčastěji následkem zanedbání příznaků a neléčením vředové choroby. Jedině rozeznání a okamžité odborné řešení vzniklých komplikací může pacientovi zachránit život. {class="description" kw="žaludek, rakovina, zvracení, zvracení krve, hematemeza, jícnové varixy, cirhóza, černá stolice, meléna, rakovina žaludku, helikobakter pyroli"}
 
-## Zvracení krve (hemateméza) {id="zvraceni\_krve\_hematemeza"}
+{id="zvraceni\_krve\_hematemeza"}
+
+## Zvracení krve (hemateméza)
 
 n/a {class="description"}
 
@@ -18,7 +22,9 @@ Hemateméza může mít dvě příčiny:
       * Tepenná krev v žaludku může nějaký čas zůstat. Dojde k jejímu natrávení a zvratky již nebudou jasně červené.
   2. Zvracení žilní krve může znamenat krvácení z prasklé jícnové [křečové žíly][4] _(varix)_. Jícnové varixy doprovázejí závažná onemocnění jater (nejčastěji cirhózu jater) a často se projeví právě až dramatickým krvácením.
 
-## Dehtovitě černá stolice {id="dehtovite\_cerna\_stolice"}
+{id="dehtovite\_cerna\_stolice"}
+
+## Dehtovitě černá stolice
 
 n/a {class="description"}
 
@@ -26,7 +32,9 @@ Dehtovitě černá stolice _(melaena nebo také meléna)_ je známkou **prudkéh
 
 Jedná se o závažné, život ohrožující onemocnění. Okamžité vyhledání lékařské pomoci je nezbytné, nejlépe formou RLP.
 
-## Prudká bolest břicha v nadbřišku {id="prudka\_bolest\_bricha\_v\_nadbrisku"}
+{id="prudka\_bolest\_bricha\_v\_nadbrisku"}
+
+## Prudká bolest břicha v nadbřišku
 
 n/a {class="description"}
 
@@ -36,7 +44,9 @@ Každý pacient popisuje bolest při proděravění žaludečního vředu slovy 
 
 Bolest se postupně rozšiřuje po celém břiše. Jedná se o vážnou komplikaci žaludečního nebo dvanáctníkového vředu. Neodkladné lékařské vyšetření je nezbytné, jedině včasná operace může pacientovi zachránit život a navrátit zdraví.
 
-## Dlouhodobé pobolívání nadřišku s nechutenstvím {id="dlouhodobe\_pobolivani\_nadrisku\_s\_nechutenstvim"}
+{id="dlouhodobe\_pobolivani\_nadrisku\_s\_nechutenstvim"}
+
+## Dlouhodobé pobolívání nadřišku s nechutenstvím
 
 n/a {class="description"}
 
@@ -56,7 +66,9 @@ Nejvíce jsou rakovinou žaludku ohroženi muži nad 50 let, s [chronickým vře
 
 Rakovina žaludku je velmi vážnou nemocí, ale je-li včas odhalena, lze ji zcela vyléčit.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -68,7 +80,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaké jsou počáteční projevy rakoviny žaludku?
   5. Jaké jsou projevy rozvinutého stádia rakoviny žaludku?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Cizí tělísko v oku {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="telisko\_v_oku" short="Tělísko v oku" ctime="2012-01-18" mtime="2012-01-18"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="telisko\_v_oku" short="Tělísko v oku" ctime="2012-01-18" mtime="2012-01-18"}
+
+# Cizí tělísko v oku
 
 Cizí tělísko lze odstranit z oka svépomocí nebo vzájemnou pomocí. K odstranění smítka je vhodná navlhčená vatová ušní štětička nebo čistý růžek látkového kapesníku. V případě podezření na poranění oka nebo poranění rohovky je však nezbytné ošetření očním lékařem. {class="description" kw="oční bělmo, oční bulbus, oční panenka, oční zornička, oční sítnice, oční pozadí, tělísko v oku, převrácení horního očního víčka, spojivkový vak, poranění oka, poleptání oka"}
 
@@ -13,7 +15,9 @@ Nejčastěji ulpí cizí tělísko (jakékoli smítko, částečka prachu nebo m
 
 Zcela jiným případem je takzvané _ječné zrno_. Jedná se o [zánět vlasového váčku][1] řasy nejčastěji horního víčka. Onemocnění je zpočátku (dle stádia zánětu) bolestivé, kdy řezavá bolest pod víčkem napodobuje přítomnost cizího tělíska v oku. Vznik ječného zrna „z leknutí“ a jeho „léčení popliváním“ jsou samozřejmě lidové pověry. Zánět většinou ustoupí samovolně. V případě opakovaného výskytu ječného zrna je vhodné [vyšetření očním lékařem][2].
 
-## Smítko pod dolním víčkem {id="smitko\_pod\_dolnim_vickem"}
+{id="smitko\_pod\_dolnim_vickem"}
+
+## Smítko pod dolním víčkem
 
 n/a {class="description"}
 
@@ -21,7 +25,9 @@ Smítko, které spadne do oka a zůstane volné, většinou následně splave po
 
 Malé dítě se smítkem v oku je dobré nechat si chvíli poplakat. Pláčem se zvýší pravděpodobnost samovolného vyplavení smítka z oka. {class="example"}
 
-## Smítko pod horním víčkem {id="smitko\_pod\_hornim_vickem"}
+{id="smitko\_pod\_hornim_vickem"}
+
+## Smítko pod horním víčkem
 
 n/a {class="description"}
 
@@ -35,7 +41,9 @@ Vhodným nástrojem k převrácení horního víčka může být vatová ušní 
 
 Velmi často se pod horní víčko dostane vypadlá oční řasa. V takovém případě často postačí přetažení horního víčka přes dolní a pozvolným sjetím je řasa zpod horního víčka odstraněna. {class="example"}
 
-## Odstranění cizího tělíska z povrchu oka {id="odstraneni\_ciziho\_teliska\_z\_povrchu_oka"}
+{id="odstraneni\_ciziho\_teliska\_z\_povrchu_oka"}
+
+## Odstranění cizího tělíska z povrchu oka
 
 n/a {class="description"}
 
@@ -43,7 +51,9 @@ Cizí tělísko plovoucí na očním bělmu lze šetrně odstranit rohem látkov
 
 Pokud tělísko v oku pevně lpí a nelze jej snadno odstranit, existuje podezření na poranění oka nebo jeho okolí. V takovém případě je nutné oko zlehka zakrýt obvazem a zalepit obě oči (minimalizovat oční pohyby). Následně je nezbytné [ošetření očním lékařem][2].
 
-## Ostré cizí tělísko v rohovce {id="ostre\_cizi\_telisko\_v\_rohovce"}
+{id="ostre\_cizi\_telisko\_v\_rohovce"}
+
+## Ostré cizí tělísko v rohovce
 
 n/a {class="description"}
 
@@ -51,7 +61,9 @@ Cizí tělísko zaseknuté nebo pevně lpící v rohovce nad oční panenkou **o
 
 Panenka je sametově černá proto, že uvnitř oka je tma. Pouze na nevydařených fotografiích je panenka červená, protože je silným světlem fotoblesku osvíceno červené (bohatě prokrvené) oční pozadí (sítnice). {class="example"}
 
-## Poleptání oka {id="poleptani_oka"}
+{id="poleptani_oka"}
+
+## Poleptání oka
 
 n/a {class="description"}
 
@@ -61,7 +73,9 @@ Při poleptání oka je první pomocí vyplachování oka čistou vodou (nebo v 
 
 Laický pokus o neutralizaci poleptaného oka je zcela nevhodný – nikdy totiž nelze odhadnout množství leptající látky v oku. {class="example"}
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -73,7 +87,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Čím je nebezpečné tělísko zaseknuté v oční rohovce?
   5. Jaká je první pomoc v případě poleptání oka?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

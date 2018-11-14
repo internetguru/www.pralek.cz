@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Zvětšené lymfatické uzliny {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lymfaticke\_uzliny" short="Lymfatické uzliny" ctime="2009-01-20" mtime="2009-01-20"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lymfaticke\_uzliny" short="Lymfatické uzliny" ctime="2009-01-20" mtime="2009-01-20"}
+
+# Zvětšené lymfatické uzliny
 
 Normální lymfatické uzliny nejsou bolestivé ani hmatné. Zvětšení nebo bolestivost uzliny má vždy svůj důvod, po kterém je třeba pátrat. Nejčastěji se jedná o zánět, bohužel někdy i o nádor. {class="description" kw="uzliny, lymfatické uzliny, lymfa, cévy, mízní uzliny, zvětšené uzliny, hmatné uzliny, bolestivé uzliny"}
 
@@ -13,7 +15,9 @@ Lymfatické cévy jsou přerušeny uzlinami. Mízní uzliny jsou jakási sítka,
 
 V lymfatických uzlinách jsou [některé mikroorganizmy][4] zničeny, některé mohou lymfatickou cévou pronikat k další uzlině. Nečistoty jsou v uzlinách uloženy natrvalo. Podle příčiny se zvětšená uzlina [po ústupu zánětu][5] znovu zmenší nebo zůstane trvale zvětšená. **Při postižení nádorem uzlina dlouhodobě narůstá.**
 
-## Zvětšené, bolestivé a jinak změněné lymfatické uzliny {id="zvetsene\_bolestive\_a\_jinak\_zmenene\_lymfaticke\_uzliny"}
+{id="zvetsene\_bolestive\_a\_jinak\_zmenene\_lymfaticke\_uzliny"}
+
+## Zvětšené, bolestivé a jinak změněné lymfatické uzliny
 
 n/a {class="description"}
 
@@ -24,7 +28,9 @@ Důvodem zvětšení uzlin bývá zánět, pohmoždění nebo nádor oblasti, od
   * **Čerstvě vzniklý zánět** povede k _bolestivému_ zvětšení uzliny (akutní zánět).
   * **Dlouhodobý zánět** způsobí dlouhodobé _nebolestivé_ zvětšení uzlin (chronický zánět).
 
-## Příklady zvětšení lymfatických uzlin {id="priklady\_zvetseni\_lymfatickych_uzlin"}
+{id="priklady\_zvetseni\_lymfatickych_uzlin"}
+
+## Příklady zvětšení lymfatických uzlin
 
 n/a {class="description"}
 
@@ -38,7 +44,9 @@ n/a {class="description"}
   * [Bolesti v krku][2], zánět v dutině ústní nebo zánět zubu způsobí **zvětšení podčelistních uzlin**.
   * **Zvětšené uzliny za uchem nebo vzadu na krku** mohou být při problému ve kštici (vlasatá část hlavy) nebo v uchu.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -49,7 +57,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Proč zvětšená uzlina někdy bolí a někdy nebolí?
   4. Co bývá nejčastější příčinou zvětšení podčelistních uzlin?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

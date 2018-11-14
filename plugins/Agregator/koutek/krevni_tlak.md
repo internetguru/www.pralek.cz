@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Krevní tlak, správné měření a vyhodnocení tlaku {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krevni\_tlak" short="Krevní tlak" ctime="2008-03-27" mtime="2008-03-27"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krevni\_tlak" short="Krevní tlak" ctime="2008-03-27" mtime="2008-03-27"}
+
+# Krevní tlak, správné měření a vyhodnocení tlaku
 
 Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření. {class="description" kw="krevní tlak, srdce, chlopně, systola, diastola, měření tlaku krve, tonometr, vysoký krevní tlak, hypertenze, nízký krevní tlak, hypotenze"}
 
@@ -12,7 +14,9 @@ Srdce pumpuje krev; žílami ji nabírá a tepnami ji rozvádí do celého těla
 
 Rozdíl tlaků mezi systolou a diastolou se přenáší na tepny a tím je akce srdeční měřitelná (puls) na všech hmatných tepnách, nejsnáze na palcové straně zápěstí. **Krevní tlak je vyjádřený dvěma čísly**: systolický tlak (vyšší hodnota) a diastolický tlak (nižší hodnota).
 
-## Typy a rozdíly mezi tonometry {id="typy\_a\_rozdily\_mezi\_tonometry"}
+{id="typy\_a\_rozdily\_mezi\_tonometry"}
+
+## Typy a rozdíly mezi tonometry
 
 n/a {class="description"}
 
@@ -26,7 +30,9 @@ Existují tři základní typy tonometrů:
 
 Rozdíly mezi jednotlivými přístroji jsou cenové, vzhledové, s displejem nebo ručičkou, s ručním nebo elektrickým kompresorem a podobně. Každý typ tonometru však naměří **ve stejný okamžik na shodné končetině identické hodnoty**.
 
-## Kolísání krevního tlaku u zdravého člověka je normální {id="kolisani\_krevniho\_tlaku\_u\_zdraveho\_cloveka\_je_normalni"}
+{id="kolisani\_krevniho\_tlaku\_u\_zdraveho\_cloveka\_je_normalni"}
+
+## Kolísání krevního tlaku u zdravého člověka je normální
 
 n/a {class="description"}
 
@@ -40,7 +46,9 @@ Dočasné **zvýšení krevního tlaku** je způsobeno
 
 Krátkodobě **nízkou hodnotu krevního tlaku** naměří zdravý člověk v klidu, v pohodě, dobře naladěný. Nervově labilní člověk si může v souvislosti s nějakou vzpomínkou nebo představou způsobit nadměrný [pokles tlaku s následným kolapsem][1].
 
-## Podmínky správného měření krevního tlaku {id="podminky\_spravneho\_mereni\_krevniho\_tlaku"}
+{id="podminky\_spravneho\_mereni\_krevniho\_tlaku"}
+
+## Podmínky správného měření krevního tlaku
 
 n/a {class="description"}
 
@@ -53,7 +61,9 @@ n/a {class="description"}
 
 Nedodržení podmínek vyžaduje opakované měření, a to na téže končetině. Z důvodu různého odstupu pažních tepen od srdeční tepny bývá **tlak na pravé a levé paži různý**.
 
-## Vysoký krevní tlak – hypertenze {id="vysoky\_krevni\_tlak-hypertenze"}
+{id="vysoky\_krevni\_tlak-hypertenze"}
+
+## Vysoký krevní tlak – hypertenze
 
 n/a {class="description"}
 
@@ -62,13 +72,17 @@ n/a {class="description"}
 
 Existuje řada typů léků na snížení vysokého tlaku krve. Prvním a účinným krokem je snížení příjmu soli.
 
-## Nízký krevní tlak – hypotenze {id="nizky\_krevni\_tlak-hypotenze"}
+{id="nizky\_krevni\_tlak-hypotenze"}
+
+## Nízký krevní tlak – hypotenze
 
 n/a {class="description"}
 
 O hypotenzi se jedná tehdy, projevuje-li se a **obtěžuje-li svými projevy** (sklon k omdlívání a točení hlavy). Naměřené hodnoty mohou být i pod 100/50 mm Hg. Existují léky ke zvýšení tlaku krve, většinou však postačí pití silného dobrého čaje, kávy, kofeinových nápojů.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -80,7 +94,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Čím je dočasně zvyšován krevní tlak?
   5. Jakým nejjednodušším způsobem lze snížit vysoký krevní tlak?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

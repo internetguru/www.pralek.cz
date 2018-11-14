@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Poúrazové krvácení do hlavy: chronický subdurální hematom {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="subduralni\_hematom" short="Chronický subdurální hematom" ctime="2011-01-31" mtime="2011-01-31"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="subduralni\_hematom" short="Chronický subdurální hematom" ctime="2011-01-31" mtime="2011-01-31"}
+
+# Poúrazové krvácení do hlavy: chronický subdurální hematom
 
 Po úrazu hlavy může po určité bezpříznakové době vzniknout chronický subdurální hematom. Jeho záludnost spočívá v plíživém nástupu potíží, které si pacient často sám vůbec neuvědomuje. {class="description" kw="krvácení, hlava, krvácení do hlavy, subdurální hematom, mozek, dura mater, nitrolebeční přetlak, bolest, točení hlavy, léčba, vyšetření CT, úraz hlavy"}
 
@@ -9,7 +11,9 @@ Mozek je uložen v lebce, která ho chrání. Dále je chráněn tím, že v př
 
 Skrze mozkové obaly procházejí „přemosťující žíly“, které se mohou při různém násilí přetrhnout a začít krvácet. Dva vnitřní obaly jsou velmi jemné, zevní obal je pevný – tvrdá plena mozková _(dura mater)_. Odtud název **subdurální hematom** – tedy krevní výron uložený pod tvrdou plenou.
 
-## Příčina vzniku subdurálního hematomu {id="pricina\_vzniku\_subduralniho_hematomu"}
+{id="pricina\_vzniku\_subduralniho_hematomu"}
+
+## Příčina vzniku subdurálního hematomu
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ Je-li násilí působící na lebku (úraz hlavy) větší, než dokáže výše
 
 Ke vzniku subdurálního hematomu je zapotřebí u různých lidí **různá intenzita původního úrazu hlavy**. U někoho musí být úraz závažný, jinému stačí uhodit se do hlavy o zárubeň (futro) nízkých dveří. Pak se pacient na původní úraz pro jeho malichernost nemusí vůbec pamatovat.
 
-## Projevy chronického subdurálního hematomu {id="projevy\_chronickeho\_subduralniho_hematomu"}
+{id="projevy\_chronickeho\_subduralniho_hematomu"}
+
+## Projevy chronického subdurálního hematomu
 
 n/a {class="description"}
 
@@ -41,7 +47,9 @@ Subdurální hematomy jsou různě závažné podle svého rozsahu a následnéh
       * poruchy soustředění,
       * [poruchy vědomí různého stupně][5].
 
-## Určení choroby a léčba subdurálního hematomu {id="urceni\_choroby\_a\_lecba\_subduralniho_hematomu"}
+{id="urceni\_choroby\_a\_lecba\_subduralniho_hematomu"}
+
+## Určení choroby a léčba subdurálního hematomu
 
 n/a {class="description"}
 
@@ -49,7 +57,9 @@ Chorobu určí neurolog na základě rozhovoru s pacientem (anamnéza) a odborn�
 
 Chronický subdurální hematom se může začít sám vstřebávat ve kterékoli fázi onemocnění a tím **dojde k samovolnému vyléčení**. V případě poruchy krevní srážlivosti nebo [vysokého tlaku krve][6] je nutné nasadit patřičné léky. Jestliže příznaky neustupují, je nutná jednoduchá neurochirurgická operace – nebolestivé uvolnění přetlaku uvnitř lebky (provádí se v místním znecitlivění).
 
-## Prognóza (další vývoj) subdurálního hematomu {id="prognoza\_dalsi\_vyvoj\_subduralniho\_hematomu"}
+{id="prognoza\_dalsi\_vyvoj\_subduralniho\_hematomu"}
+
+## Prognóza (další vývoj) subdurálního hematomu
 
 n/a {class="description"}
 
@@ -59,7 +69,9 @@ Vzácně může dojít ke vzniku více chronických subdurálních hematomů zá
 
 Tlakem subdurálního hematomu může dojít k napnutí zdravých přemosťujících žil. Takové žíly jsou pak náchylnější k přetržení vlivem relativně nízké intenzity dalšího úrazu hlavy. Ke vzniku takových hematomů může dojít v různých dobách (i v řádu měsíců).
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -71,7 +83,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaké mohou být projevy subdurálního hematomu?
   5. Proč se mohou jednotlivé projevy mozkového útlaku v průběhu vývoje subdurálního hematomu měnit?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

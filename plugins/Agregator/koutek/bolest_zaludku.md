@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Žaludeční potíže: bolest žaludku {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_zaludku" short="Bolest žaludku" ctime="2011-05-30" mtime="2011-05-30"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_zaludku" short="Bolest žaludku" ctime="2011-05-30" mtime="2011-05-30"}
+
+# Žaludeční potíže: bolest žaludku
 
 Správnou životosprávou lze předejít vzniku různých onemocnění žaludku včetně žaludečního vředu. Žaludeční problémy souvisí často se stresem. Podmínkami zažívací pohody jsou zvládnutí vlastní psychiky a správné stravovací návyky. {class="description" kw="žaludek, stres, trávicí soustava, pálení žáhy, kýla, zánět žaludku, zánět střeva, zánět žaludku a střeva, gastroenteritida, křeče v břiše, průjem, tenezmy, vyšetření žaludku, gastroskopie"}
 
@@ -9,7 +11,9 @@ Správnou životosprávou lze předejít vzniku různých onemocnění žaludku 
 
 Existuje přímá souvislost mezi žaludečními potížemi a psychikou (strach, hněv, stres, hrůza, děs). [Bezvadně fungující trávení][1] je podmíněno duševní pohodou. Jakýkoli nezvládnutý strach se projeví různými [zažívacími problémy][2]. Známé rčení „ležet v žaludku“ má bezpochyby původ v nepříjemném pocitu v žaludku v souvislosti s nějakými starostmi nebo problémy.
 
-## Pálení žáhy {id="paleni_zahy"}
+{id="paleni_zahy"}
+
+## Pálení žáhy
 
 n/a {class="description"}
 
@@ -25,7 +29,9 @@ Pálení žáhy není způsobeno nadměrnou tvorbou kyseliny solné, proto je p�
 
 Opakované dlouhodobé pálení žáhy po různých jídlech bývá spojeno se zvláštní brániční kýlou _(hiátová hernie)_. Tuto kýlu odhalí vyšetření žaludku a následná operace zbaví pacienta potíží.
 
-## Bolest žaludku se zvracením, teplotou a průjmem {id="bolest\_zaludku\_se\_zvracenim\_teplotou\_a\_prujmem"}
+{id="bolest\_zaludku\_se\_zvracenim\_teplotou\_a\_prujmem"}
+
+## Bolest žaludku se zvracením, teplotou a průjmem
 
 n/a {class="description"}
 
@@ -53,7 +59,9 @@ Dlouhodobý zánět žaludku _(chronická gastritida)_ je onemocnění, které s
 
 Určité období vývoje chronické gastritidy může být dokonce zcela bezpříznakové. Správnou diagnózu určí odborný lékař vyšetřením žaludku _(gastroskopií)_.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -65,7 +73,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jak se projeví, je-li zánětem více postižen žaludek nebo střevo?
   5. Jaké jsou zásady léčení prudkého zánětu žaludku a střeva?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

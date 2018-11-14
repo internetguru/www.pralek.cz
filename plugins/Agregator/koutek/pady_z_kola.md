@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Úrazy související s pádem z kola {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pady\_z_kola" short="Pády z kola" ctime="2012-11-20" mtime="2012-11-20"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pady\_z_kola" short="Pády z kola" ctime="2012-11-20" mtime="2012-11-20"}
+
+# Úrazy související s pádem z kola
 
 Typické úrazy po pádu z kola jsou různě hluboké plošné oděrky, tržné rány, pohmoždění hrudníku, břicha, kloubů a svalů a zlomeniny dlouhých kostí. Jednotlivé úrazy mají svá specifika, jsou-li způsobeny pádem z kola. {class="description" kw="úraz, zlomeniny, rány, pád z kola, plošná oděrka, pohmoždění hlavy, pohmoždění hrudníku, pohmoždění břicha, vyčištění rány"}
 
@@ -9,7 +11,9 @@ Pádu z kola nelze zcela předejít. Jistě však **lze jezdit riskantně nebo o
 
 **Nejčastějšími příčinami pádů z kola bývá nepozornost** a následný smyk, náraz do stojícího vozidla, náraz do právě otevřených dveří auta, střet s jiným cyklistou (typicky při závodech) a střet se zvířetem. V případě sražení cyklisty autem se jedná nejčastěji o levého ze dvou vedle sebe jedoucích cyklistů, nebo o neosvětleného cyklistu v noci.
 
-## Plošné odřeniny a jejich závažnost {id="plosne\_odreniny\_a\_jejich\_zavaznost"}
+{id="plosne\_odreniny\_a\_jejich\_zavaznost"}
+
+## Plošné odřeniny a jejich závažnost
 
 n/a {class="description"}
 
@@ -19,7 +23,9 @@ I zcela nezávažné, zdraví zjevně neohrožující [odřeniny][2] je třeba n
 
 Podle hloubky postižení a podle rozsahu mohou být oděrky různě závažné. Záleží na každém jedinci, jestli se podle svých možností a schopností rozhodne oděrku ošetřit svépomocí, nebo zda se rozhodne [vyhledat lékaře][3].
 
-## Tržné rány (proražení kůže) {id="trzne\_rany\_prorazeni_kuze"}
+{id="trzne\_rany\_prorazeni_kuze"}
+
+## Tržné rány (proražení kůže)
 
 n/a {class="description"}
 
@@ -31,7 +37,9 @@ Zhmožděné tržné rány většinou vyžadují složitější chirurgické oš
 
 Pro ošetřování tržných ran platí zásady podrobně popsané v jiných článcích, např. [přiložení strip stehu][6], [ošetření poraněného nehtu][7], [ošetření drobného krvavého poranění][5]. Vždy je nutné vyčištění rány, nejlépe vymytí čistou tekoucí vodou. Následně je na zvážení, jestli vyhledat lékaře, nebo jestli ránu nechat zhojit samovolně.
 
-## Pohmoždění hlavy, těla a končetin {id="pohmozdeni\_hlavy\_tela\_a\_koncetin"}
+{id="pohmozdeni\_hlavy\_tela\_a\_koncetin"}
+
+## Pohmoždění hlavy, těla a končetin
 
 n/a {class="description"}
 
@@ -45,7 +53,9 @@ Vždy je třeba rozlišit prosté pohmoždění od závažného zranění, což 
 
 **Pohmoždění po pádu z kola bývají mnohočetná.** Je-li zraněný při vědomí a spolupracuje, je třeba vědět o nebezpečích, která mohou na zdánlivě lehký úraz navazovat. V případě zjevně těžkého poranění se [řeší úraz přivoláním RLP][11].
 
-## Zlomeniny kostí {id="zlomeniny_kosti"}
+{id="zlomeniny_kosti"}
+
+## Zlomeniny kostí
 
 n/a {class="description"}
 
@@ -55,7 +65,9 @@ n/a {class="description"}
   * Staří lidé si často zlomí [obratel nebo krček stehenní kosti][15].
   * [Dětské zlomeniny][16] v souvislosti s pádem z kola nebývají nijak časté. Jestli však dojde ke zlomenině, nejčastěji si polámou klíční kost nebo předloktí.
 
-## Poranění nohy vstrčením do drátů kola {id="poraneni\_nohy\_vstrcenim\_do\_dratu_kola"}
+{id="poraneni\_nohy\_vstrcenim\_do\_dratu_kola"}
+
+## Poranění nohy vstrčením do drátů kola
 
 n/a {class="description"}
 
@@ -65,7 +77,9 @@ Opatrovník veze malé dítě **bez pevných opěrek pro nohy** (na řidítkách
 
 Dítě by nemělo být nikdy vezeno na kole bez opěrek pro nohy. Moderní sedačky jsou konstruovány tak, aby k tomuto úrazu nemohlo dojít. Při objevení starého nevybaveného kola dítě touží po svezení (nejčastěji na návštěvě) a scénář úrazu je nasnadě.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -77,7 +91,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Čím může být nebezpečné pohmoždění břicha?
   5. Jaká je příčina zranění nohy vstrčené do drátů dítěte vezeného na kole?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

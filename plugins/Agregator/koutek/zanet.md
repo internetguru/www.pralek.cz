@@ -1,7 +1,9 @@
 
-{class="docinfo linklist nobalance" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Kdy zánět léčit, kdy rozhánět a kdy podporovat {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zanet" short="Zánět" ctime="2014-04-07" mtime="2014-04-07"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zanet" short="Zánět" ctime="2014-04-07" mtime="2014-04-07"}
+
+# Kdy zánět léčit, kdy rozhánět a kdy podporovat
 
 Různé druhy zánětů mají různý průběh a vývoj, různé příčiny a projevy. Podle druhu a vývoje zánětu je třeba proti němu někdy intenzivně bojovat, jindy je lépe ponechat zánětu přirozený průběh a někdy jej dokonce podporovat. {class="description" kw="zánět, zčervenání, bolest, akutní, chronický, infikovaná oděrka, kapénková infekce, kontaminovaná strava, septický stav, nehnisavý, hnisavý, obklady"}
 
@@ -17,7 +19,9 @@ Zánět je velmi složitá biochemická a imunitní reakce organizmu na různé 
 
 Zánět je často [potřeba léčit][2] pomocí antibiotik, jindy pouze krátkodobě regulovat (studený či teplý obklad) nebo dokonce dlouhodobě tlumit (antialergeny). **Způsob léčby konkrétního zánětu** závisí na několika faktorech – na časovém průběhu zánětu, na intenzitě, na stádiu jeho vývoje a na příčině zánětu.
 
-## Vliv časového průběhu zánětu na léčbu {id="vliv\_casoveho\_prubehu\_zanetu\_na_lecbu"}
+{id="vliv\_casoveho\_prubehu\_zanetu\_na_lecbu"}
+
+## Vliv časového průběhu zánětu na léčbu
 
 n/a {class="description"}
 
@@ -32,13 +36,17 @@ Podle časového průběhu zánětu (a v souvislosti se [stupněm imunity][3]) j
 
 V medicíně se uvedená terminologie přísně dodržuje. Podle druhu zánětu se zásadně mění přístup k jeho léčení. {class="important"}
 
-## Vliv příčiny zánětu na léčbu {id="vliv\_priciny\_zanetu\_na\_lecbu"}
+{id="vliv\_priciny\_zanetu\_na\_lecbu"}
+
+## Vliv příčiny zánětu na léčbu
 
 n/a {class="description"}
 
 Zánět může mít čtyři různé příčiny. Může vznikat jako obranná reakce organizmu (např. proti mikrobům při angíně), může opravovat poškozenou tkáň (např. odřeninu) nebo být alergickou nebo dokonce autoimunitní reakcí (např. na pyl nebo na vlastní tkáň). Přístup k léčbě zánětu se podle jeho příčiny zásadně liší.
 
-### Obranný (septický) zánět {id="obranny\_septicky\_zanet"}
+{id="obranny\_septicky\_zanet"}
+
+### Obranný (septický) zánět
 
 n/a {class="description"}
 
@@ -55,7 +63,9 @@ Obranný zánět vzniká bojem proti viníkům infekce – tedy virům, bakteri�
 
 Pokud lze podle projevů zánětu usuzovat na konkrétního původce _(specifický zánět)_, je většinou nutné nasadit kombinaci několika různých antibiotik (např. při tuberkulóze). V ostatních případech nebývá určení původce zánětu podstatné _(nespecifický zánět)_. K léčbě většinou postačí jeden druh antibiotik (např. při [angíně][14]).
 
-### Opravný (reparativní či aseptický) zánět {id="opravny\_reparativni\_ci\_asepticky\_zanet"}
+{id="opravny\_reparativni\_ci\_asepticky\_zanet"}
+
+### Opravný (reparativní či aseptický) zánět
 
 n/a {class="description"}
 
@@ -63,7 +73,9 @@ Opravný zánět navazuje na poškození tkání jako je **pohmoždění, uhozen
 
 Jelikož v aseptickém zánětu nejsou žádné mikroorganizmy, netvoří tělo žádné protilátky, a proto ani antibiotika nejsou namístě. Při závažném úrazu (např. při větší spálenině) pomohou co nejrychleji opravit poškozené buňky a tkáně jiné podpůrné léky (náhrada tekutin, vitamíny, minerály, [léky proti bolesti][15]).
 
-### Alergický a autoimunitní zánět {id="alergicky\_a\_autoimunitni_zanet"}
+{id="alergicky\_a\_autoimunitni_zanet"}
+
+### Alergický a autoimunitní zánět
 
 n/a {class="description"}
 
@@ -73,7 +85,9 @@ Alergický zánět reaguje na alergeny (například kovy, prach nebo pyl). Tyto 
 
 Autoimunitní zánět (častěji autoimunitní onemocnění) je stav, kdy organizmus mylně vyhodnotí za nepřítele určitou látku, která je tělu vlastní (velmi chybná imunitní reakce). Mylně bojuje proti vlastní, zdravé a nepoškozené bílkovině stejně, jako by bojoval proti skutečnému nepříteli. Podávají se složité léky k potlačení imunity.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -87,7 +101,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   6. Jaký obklad patří na čerstvě natlučené koleno nebo na podvrtnutý kotník a proč?
   7. Proč je vhodné na stejnou nemoc dávat někdy obklady studené a jindy teplé?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

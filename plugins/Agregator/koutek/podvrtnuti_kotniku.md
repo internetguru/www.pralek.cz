@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Podvrtnutí kotníku {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="podvrtnuti\_kotniku" short="Podvrtnutí kotníku" ctime="2009-12-23" mtime="2009-12-23"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="podvrtnuti\_kotniku" short="Podvrtnutí kotníku" ctime="2009-12-23" mtime="2009-12-23"}
+
+# Podvrtnutí kotníku
 
 Jedná se o častý úraz převážně mladých lidí a sportovců. Panují však nejasnosti v tom, zda a kdy vyhledat lékařské vyšetření a existují různé možnosti léčení. {class="description" kw="podvrtnutí, vyvrtnutí, zvrtnutí, distorze, kotník, výron, vymknutí, hlezno, léčení, rozcvičení, ortéza, sádrová chodička, sádrová fixace, plastová fixace"}
 
 Nejčastěji dochází k úrazu **při nadměrném nebo nečekaném násilí** na nohu (noha je část dolní končetiny od kotníků po konce prstů) v pravolevém směru. Někdy stačí **nečekaná překážka**, která překvapí (kraj chodníku, výmol, obrubník). Další častou příčinou bývá **neřízený pád či hrubé násilí** (například při dopravní nehodě), které mohou působit kterýmkoli směrem.
 
-## Typy podvrtnutí kotníků a názvosloví {id="typy\_podvrtnuti\_kotniku\_a\_nazvoslovi"}
+{id="typy\_podvrtnuti\_kotniku\_a\_nazvoslovi"}
+
+## Typy podvrtnutí kotníků a názvosloví
 
 n/a {class="description"}
 
@@ -27,7 +31,9 @@ Větší násilí může poranit hlezno oboustranně. Jedná se o závažnějš�
 
 Kloub je udržován ve správném postavení pevným kloubním pouzdrem a velmi pevnými vazy, které vzájemně spojují jednotlivé kosti mezi sebou.
 
-## Projevy a diagnóza podvrtnutí kotníku {id="projevy\_a\_diagnoza\_podvrtnuti\_kotniku"}
+{id="projevy\_a\_diagnoza\_podvrtnuti\_kotniku"}
+
+## Projevy a diagnóza podvrtnutí kotníku
 
 n/a {class="description"}
 
@@ -37,7 +43,9 @@ Ve všech případech je nejlépe **uložit poraněnou končetinu zřetelně do 
 
 S vyhledáním odborného vyšetření lze [vyčkat na vhodnou dobu][2]. Nejlépe všední den dopoledne, na horách lze vyčkat v chatě až ustane vánice, na lodi lze vyčkat příjezdu do přístavu. Do té doby je vždy nutné dodržet vyvýšení zraněné končetiny a ledování bolavého místa.
 
-## Možnosti léčení podvrtnutého kotníku {id="moznosti\_leceni\_podvrtnuteho_kotniku"}
+{id="moznosti\_leceni\_podvrtnuteho_kotniku"}
+
+## Možnosti léčení podvrtnutého kotníku
 
 n/a {class="description"}
 
@@ -49,7 +57,9 @@ Dlouhodobé [preventivní nošení ortézy][3] je však sporné. V případě b�
 
 **Pevná fixace** (sádrová chodička nebo plastová fixace) na 6 týdnů však zajistí pevné zhojení kloubního pouzdra i vazů v původním postavení a po následném rozcvičení lze očekávat plnohodnotné zhojení bez následků a s mnohem menším rizikem opětovného úrazu než bylo popsáno výše. Pevnou fixaci je dobré přiložit až po sejití otoku tedy asi 3 dny po úrazu.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -61,7 +71,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Jaké jsou možnosti léčení vyvrtnutého kotníku?
   5. Jaká je výhoda léčení distorze kotníku pevnou fixací?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

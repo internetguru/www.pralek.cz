@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Nezhoubné nádory a bouličky s nimi zaměňované {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubne\_nadory" short="Nezhoubné nádory" ctime="2010-06-18" mtime="2010-06-18"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubne\_nadory" short="Nezhoubné nádory" ctime="2010-06-18" mtime="2010-06-18"}
+
+# Nezhoubné nádory a bouličky s nimi zaměňované
 
 Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Preventivní odstranění některých nádorů se stalo rutinou, u ostatních většinou postačí pravidelné kontroly. {class="description" kw="nezhoubné nádory, lipom, fibrom, hemangiom, chondrom, osteom, myom, polyp, adenom, gangliom, aterom, cysta, absces, keloid"}
 
 [Obecné vlastnosti nezhoubných nádorů][1] jsou velmi podobné. Nezhoubné nádory se mohou za určitých podmínek přeměnit (zvrhnout) v nádory zhoubné. Vždy je proto vhodné konzultovat i nezhoubný nádor s odborným lékařem.
 
-## Jednotlivé nezhoubné nádory {mtime="2014-12-05" id="jednotlive\_nezhoubne\_nadory"}
+{mtime="2014-12-05" id="jednotlive\_nezhoubne\_nadory"}
+
+## Jednotlivé nezhoubné nádory
 
 n/a {class="description"}
 
@@ -73,7 +77,9 @@ n/a {class="description"}
 :   Jeho odstranění je nutné z důvodu [prevence vzniku zhoubného nádoru][8].
 :   Většinou nelze odstranit přímo v rámci vyšetření, ale následně operačně.
 
-## Bouličky zaměňované s nezhoubnými nádory {id="boulicky\_zamenovane\_s\_nezhoubnymi\_nadory"}
+{id="boulicky\_zamenovane\_s\_nezhoubnymi\_nadory"}
+
+## Bouličky zaměňované s nezhoubnými nádory
 
 n/a {class="description"}
 
@@ -83,7 +89,9 @@ n/a {class="description"}
   * **Absces** je [dutina vyplněná hnisem][11].
   * **Keloid** je zbytnělá jizva vzniklá poruchou hojení.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -95,7 +103,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Které nezhoubné nádory se mohou nejčastěji přeměnit ve zhoubné?
   5. S čím bývají zaměňovány nezhoubné nádory?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

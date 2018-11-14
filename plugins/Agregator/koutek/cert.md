@@ -1,11 +1,15 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Pohádkový čert: kterak na svět přišel {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cert" short="Čert" ctime="2011-04-01" mtime="2011-04-01"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cert" short="Čert" ctime="2011-04-01" mtime="2011-04-01"}
+
+# Pohádkový čert: kterak na svět přišel
 
 Postava čerta vznikla pozorováním lidí s různým zdravotním postižením. Typické čertovské příznaky se totiž u lidí vyskytují dosud jako vrozené či získané vady. U jednoho člověka se může vyskytnout i více příznaků současně. {class="description" kw="kožní roh, cornu cutaneum, hyperkeratosa, čertovy rohy, ocas, sakrální dermoid, kopyto, koňská noha, pes equinovarus, blekotání, zanedbaný stav, névus, vlčí lidé, hemangiom"}
 
-## Čertovy rohy: kožní rohy {id="certovy\_rohy\_kozni_rohy"}
+{id="certovy\_rohy\_kozni_rohy"}
+
+## Čertovy rohy: kožní rohy
 
 n/a {class="description"}
 
@@ -15,7 +19,9 @@ Kožní roh _(cornu cutaneum)_ je poměrně časté [nádorové onemocnění ků
 
 Čertovy rohy lze chirurgicky odstranit (vyoperovat). Prosté odlomení rohu není možné; jedná se o [zhoubný nádor][4], jehož poraněním se urychluje nový růst rohu z původního místa.
 
-## Čertův ocas: deformity kostrčních obratlů {id="certuv\_ocas\_deformity\_kostrcnich\_obratlu"}
+{id="certuv\_ocas\_deformity\_kostrcnich\_obratlu"}
+
+## Čertův ocas: deformity kostrčních obratlů
 
 n/a {class="description"}
 
@@ -23,7 +29,9 @@ V kostrční oblasti se může vyskytnout [zánětlivé ložisko][5] zvané [sak
 
 Kostrční obratle (u člověka zakrnělý ocas) navazují na křížovou kost a bývají srostlé. Velmi často se zde vyskytují různé vrozené vady, které velmi připomínají ocas. Zakrnělý ocas často překáží při sezení nebo při ležení na tvrdé podložce a bývá nutné operační ortopedické řešení problému.
 
-## Čertovo kopyto: koňská noha {id="certovo\_kopyto\_konska_noha"}
+{id="certovo\_kopyto\_konska_noha"}
+
+## Čertovo kopyto: koňská noha
 
 n/a {class="description"}
 
@@ -31,13 +39,17 @@ Koňská noha _(pes equinovarus)_ je dodnes jedna z nejčetnějších vrozených
 
 V dřívějších dobách však nikdo neuměl takto postiženému dítěti pomoci. Dítě našlapovalo na zdeformovanou nohu, nikoli na chodidlo. Tím došlo k tvorbě [rozsáhlého mozolu][3], který další chůzí stále narůstal. Pata se na postižené noze zcela ztratila a místo styku s podložkou se přeměnilo v jeden obrovský mozol. Taková neléčená deformita je podobná více koňskému kopytu než lidské noze.
 
-## Čertův hrůzný zjev: névus či hemangiom v obličeji {id="certuv\_hruzny\_zjev\_nevus\_ci\_hemangiom\_v_obliceji"}
+{id="certuv\_hruzny\_zjev\_nevus\_ci\_hemangiom\_v_obliceji"}
+
+## Čertův hrůzný zjev: névus či hemangiom v obličeji
 
 n/a {class="description"}
 
 V obličeji se může vyskytnout [rozsáhlý névus][1], nejčastěji pigmentový, který bývá pokryt chlupy. Takový člověk vypadá, jakoby měl obličej pokryt zvířecí srstí (vlčí lidé). Podobně může být v obličeji [rozsáhlý červený hemangiom][7] (laicky oheň). V takovém případě je obličej sytě červený bez chlupů.
 
-## Čertovo blekotání {id="certovo_blekotani"}
+{id="certovo_blekotani"}
+
+## Čertovo blekotání
 
 n/a {class="description"}
 
@@ -45,7 +57,9 @@ Vady řeči se vyskytují velmi často. Koktajícím lidem se někdy podaří je
 
 Nutno dodat, že v dnešní době někteří řečníci považují vadu řeči za jakýsi image jako by vůbec netoužili naučit se správnou výslovnost.
 
-## Sociální postavení čerta {id="socialni\_postaveni\_certa"}
+{id="socialni\_postaveni\_certa"}
+
+## Sociální postavení čerta
 
 n/a {class="description"}
 
@@ -55,7 +69,9 @@ Společností zavržení lidé žili vždy v osamění. Upřednostňovali život
 
 Osaměle žijící člověk si musel občas přinést (odcizit) z blízké vesnice nějaké potřebné věci nebo potraviny. Jestli se mu však dařilo dobře, je možné, že si k sobě do mlýna z vesnice odnesl i Káču. Těžko by s ním šla dobrovolně.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -67,7 +83,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Proč byl čert špinavý a zanedbaný?
   5. Jaké vyhledával čert obydlí?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

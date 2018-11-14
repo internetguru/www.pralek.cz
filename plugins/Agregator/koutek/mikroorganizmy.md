@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Mikroorganizmus jako pomocník nebo nepřítel člověka {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="mikroorganizmy" short="Mikroorganizmy" ctime="2008-06-16" mtime="2008-06-16"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="mikroorganizmy" short="Mikroorganizmy" ctime="2008-06-16" mtime="2008-06-16"}
+
+# Mikroorganizmus jako pomocník nebo nepřítel člověka
 
 Dostanou-li se jinak prospěšné bakterie do míst, kam nepatří, mohou způsobit nemoc. Jsou-li správné bakteriální kmeny na správném místě, pak vzniká oboustranně prospěšná spolupráce a tělo funguje jak má. Přirozená bakteriální flóra bývá vždy narušena užíváním antibiotik. {class="description" kw="mikroorganizmy, bakteriální flóra, bakteriální kmen, antibiotika, bakterie, mikroorganizmy, choroboplodné zárodky"}
 
@@ -9,7 +11,9 @@ Bakterie jsou drobní jednobuněční živočichové, viditelní v mikroskopu (m
 
 Některým bakteriím vyhovuje chlad pod ledovou krou, jiné druhy žijí v přírodním vřídle horké vody. Žijí dokonce i v místech jedovatých horkých sirných výronů v obrovském tlaku a teplotě v mořských hlubinách. Různé druhy specifických **bakterií osídlily i lidské tělo**.
 
-## Nechoroboplodné bakterie {id="nechoroboplodne_bakterie"}
+{id="nechoroboplodne_bakterie"}
+
+## Nechoroboplodné bakterie
 
 n/a {class="description"}
 
@@ -31,7 +35,9 @@ Zdravé bakteriální osídlení vagíny může být narušeno sníženou hygien
   
 Taková situace nastane například tehdy, dostanou-li se bakterie z konečníku do pochvy nebo dokonce do močových cest. Vzniklá infekce se musí často léčit antibiotiky. {class="example"}
 
-## Choroboplodné bakterie {id="choroboplodne_bakterie"}
+{id="choroboplodne_bakterie"}
+
+## Choroboplodné bakterie
 
 n/a {class="description"}
 
@@ -45,7 +51,9 @@ Cizí [choroboplodné bakterie, které člověka napadly][2] mohou přežívat v
 
 Taková onemocnění se léčí [antibiotiky][5].
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -55,7 +63,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   2. Co znamená termín bakteriální kmen?
   3. Za jakých podmínek nechoroboplodné bakterie mohou způsobit chorobu?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

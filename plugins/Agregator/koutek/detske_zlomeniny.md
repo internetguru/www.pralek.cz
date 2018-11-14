@@ -1,13 +1,17 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Nejčastější dětské zlomeniny a jejich zvláštnosti {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="detske\_zlomeniny" short="Dětské zlomeniny" ctime="2009-06-09" mtime="2009-06-09"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="detske\_zlomeniny" short="Dětské zlomeniny" ctime="2009-06-09" mtime="2009-06-09"}
+
+# Nejčastější dětské zlomeniny a jejich zvláštnosti
 
 Většina dětských zlomenin se hojí dobře, rychle a bez trvalých následků (snad jen s výjimkou zlomenin lokte). Dětské zlomeniny bývají někdy laicky těžko rozpoznatelné. {class="description" kw="zlomeniny, dětské zlomeniny, zlomeniny zápěstí, zlomeniny předloktí, zlomenina vrbového proutku, zlomenina klíční kosti, zlomenina pažní kosti, zlomeniny lokte, zlomeniny prstů"}
 
 Dětská kost obsahuje mnohem více vaziva a chrupavky než [kost dospělého člověka][1]. Proto je mnohem pružnější a ohebnější než kost dospělá. [Bizarně vyhlížející pády dětí][2] většinou končí pouze pohmožděním. Věkem v kosti přibývá složka kostěná na úkor složky chrupavčité. Tím se mění vlastnosti kostí – přibývá pevnost a mizí pružnost.
 
-## Dětské zlomeniny zápěstí a předloktí – zlomenina vrbového proutku {id="detske\_zlomeniny\_zapesti\_a\_predlokti-zlomenina\_vrboveho\_proutku"}
+{id="detske\_zlomeniny\_zapesti\_a\_predlokti-zlomenina\_vrboveho\_proutku"}
+
+## Dětské zlomeniny zápěstí a předloktí – zlomenina vrbového proutku
 
 n/a {class="description"}
 
@@ -17,7 +21,9 @@ Na škole v přírodě při vybíjené dítě upadne a poraní zápěstí. Poran
   
 Teprve po návratu ze školy v přírodě přichází rodiče s dítětem k lékařskému vyšetření pro trvající bolesti v oblasti zlomeniny, kterou lékařské vyšetření prokáže. Většinou se naštěstí nejedná o závažné poranění, které by zanechalo trvalé následky. Zlomenina se zhojí do 3 týdnů a po přiložení fixace ihned přestává bolet. {class="example"}
 
-## Zlomenina klíční kosti {id="zlomenina\_klicni\_kosti"}
+{id="zlomenina\_klicni\_kosti"}
+
+## Zlomenina klíční kosti
 
 n/a {class="description"}
 
@@ -25,7 +31,9 @@ Jedná se o častou dětskou zlomeninu způsobenou nejčastěji pádem z kola ne
 
 Zlomeniny i s posunem okrajů kostí se zhojí většinou dobře a bez následků. Eventuelní **nerovnosti při hojení se růstem samy vyrovnají**. Hojení trvá asi měsíc – čím mladší dítě, tím je zlomenina dříve zhojena. Klíční kost se někdy láme i při porodu. V takovém případě se zhojí během několika dní.
 
-## Zlomenina horního konce pažní kosti {id="zlomenina\_horniho\_konce\_pazni\_kosti"}
+{id="zlomenina\_horniho\_konce\_pazni\_kosti"}
+
+## Zlomenina horního konce pažní kosti
 
 n/a {class="description"}
 
@@ -33,7 +41,9 @@ Pod hlavicí pažní kosti je u dětí uložena růstová chrupavka. V místě t
 
 První pomocí je opět **uložení končetiny do šátkového obvazu**, léčení většinou po eventuálním srovnání v celkové narkóze bez komplikací. Zhojení bývá bez následků.
 
-## Zlomeniny v oblasti lokte {id="zlomeniny\_v\_oblasti_lokte"}
+{id="zlomeniny\_v\_oblasti_lokte"}
+
+## Zlomeniny v oblasti lokte
 
 n/a {class="description"}
 
@@ -41,7 +51,9 @@ Loket je složité skloubení 3 kostí. Zlomeniny některé nebo více z nich js
 
 První pomoc je opět **uložení postižené končetiny do trojcípého (přeloženého) šátku**. Léčení je většinou složitější; často je nutné rovnání kostí v celkové narkóze. Výjimkou nebývá nutnost operačního řešení. Často nelze vyloučit trvalé omezení hybnosti loketního kloubu. Léčení trvá asi měsíc, pak následuje dlouhodobá rehabilitace.
 
-## Zlomeniny článků prstů {id="zlomeniny\_clanku\_prstu"}
+{id="zlomeniny\_clanku\_prstu"}
+
+## Zlomeniny článků prstů
 
 n/a {class="description"}
 
@@ -49,7 +61,9 @@ Obdobně jako _zlomeniny vrbového proutku_ (výše) se projevují zlomeniny čl
 
 První pomocí je studený obklad a [transport k lékaři][3]. Léčení bývá rychlé, snadné. Trvalé následky se vyskytují zřídkakdy.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -60,7 +74,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Proč je vhodná první pomoc u zlomenin horní končetiny dětí uložení do šátkového obvazu
   4. V čem spočívá závažnost zlomeniny lokte?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Kdy kašel potlačovat a kdy podporovat {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="kasel\_a\_typy\_kasle" short="Kašel" ctime="2008-12-02" mtime="2008-12-02"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="kasel\_a\_typy\_kasle" short="Kašel" ctime="2008-12-02" mtime="2008-12-02"}
+
+# Kdy kašel potlačovat a kdy podporovat
 
 Každý kašel je dobré nejprve pojmenovat. Výprava do lékárny pro lék proti kašli není vždy účelným řešením potíží. Častěji pomůže lék k uvolnění průdušek, který naopak účinné odkašlání podpoří. {class="description" kw="kašel, léky, dolní cesty dýchací, průdušnice, průdušky, plicní sklípky, odkašlat, kuřácký kašel"}
 
@@ -15,7 +17,9 @@ Dlouhodobý kašel, nemožnost odkašlat, [kašel spojený s jinými příznaky]
 
 U [kuřáků cigaret][4] je opakovaným vdechováním kouře řasinkový epitel zcela zničen a nahrazen dlaždicovým. Nyní již nelze trvale očišťovat dýchací cesty činností řasinkového epitelu, ale po nahromadění nečistot a hlenu se částečně průdušky **vyčistí jedině odkašláním** (kuřácký kašel). Odnaučenému kuřákovi se řasinkový epitel může časem obnovit. {class="example"}
 
-## Podráždění dolních cest dýchacích {id="podrazdeni\_dolnich\_cest_dychacich"}
+{id="podrazdeni\_dolnich\_cest_dychacich"}
+
+## Podráždění dolních cest dýchacích
 
 n/a {class="description"}
 
@@ -32,7 +36,9 @@ Vdechnutím mohou podráždit dýchací cesty:
 
 Pálení nebo podráždění dýchacích cest vede ke kašli. Kašlem – prudkým proudem vzduchu je odstraněna příčina podráždění. To však není vždy možné! Často je lepší **podráždění překonat klidným, pomalým a hlubokým dýcháním** než překotným kašlem, který nepřináší úlevu.
 
-## Typy kašle; charakteristika a řešení {id="typy\_kasle\_charakteristika\_a\_reseni"}
+{id="typy\_kasle\_charakteristika\_a\_reseni"}
+
+## Typy kašle; charakteristika a řešení
 
 n/a {class="description"}
 
@@ -69,7 +75,9 @@ Kašel se mění v průběhu onemocnění podle stupně podráždění nebo podl
 
 Aby byl **kašel účinný** (vykašlání, odkašlání) **a efektivní** (co nejlepší využití energie), je nutné sedět nebo lépe stát, v mírném předklonu, jednou rukou se opírat a druhou si přidržovat břicho. **Kašlání vleže na zádech je nevhodné**, lze tolerovat vleže na boku v předklonu. {class="important"}
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -82,7 +90,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   5. Co je kuřácký kašel?
   6. Proč není vhodné kašlat vleže na zádech?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

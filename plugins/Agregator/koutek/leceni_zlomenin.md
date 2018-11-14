@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Metody léčení zlomenin {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="leceni\_zlomenin" short="Léčení zlomenin" ctime="2015-04-21" mtime="2015-04-21"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="leceni\_zlomenin" short="Léčení zlomenin" ctime="2015-04-21" mtime="2015-04-21"}
+
+# Metody léčení zlomenin
 
 Zlomeniny lze léčit různými metodami. Každá metoda má své výhody a nevýhody. Poučený pacient by se měl aktivně podílet na výběru nejvhodnější metody léčení své zlomeniny. {class="description" kw="zlomenina, léčení, napravení zlomeniny, hojení, fixace, sádra, dlaha, ortéza, plastová fixace, koupací sádra, operace, zatěžování, pakloub"}
 
@@ -9,7 +11,9 @@ Po patřičném vyšetření pacienta lékař určí vhodný způsob léčení z
 
 Informovaný pacient může projevit přání volby konkrétního způsoby léčby [zlomeniny][2] s přihlédnutím k ročnímu období, věku či nezbytně nutné aktivitě. Lékař může k jeho přání přihlédnout a vyhovět nebo poukázat na přednosti jím navrhované léčebné metody.
 
-## Léčebné ovlivnění hojení zlomenin {id="lecebne\_ovlivneni\_hojeni_zlomenin"}
+{id="lecebne\_ovlivneni\_hojeni_zlomenin"}
+
+## Léčebné ovlivnění hojení zlomenin
 
 n/a {class="description"}
 
@@ -25,7 +29,9 @@ Mezi kostní úlomky se po úrazu vylije krev, ta se srazí, krevní sraženina 
       * Předškolní dítě ztrácí po třítýdenní fixaci až třetinu svalové hmoty postižené končetiny. {class="example"}
   4. Nakonec se musí **zhojená kost plně zatěžovat**. Po ústupu potíží je nutné hojící se končetinu intenzivně rozcvičovat, zatěžovat, a hlavně brzy začít normálně používat. Zvláště dětem je nutné opakovaně připomínat, že (a mnohdy i jak) mají nyní již zhojenou končetinu „normálně“ používat.
 
-## Druhy fixací zlomenin {id="druhy\_fixaci\_zlomenin"}
+{id="druhy\_fixaci\_zlomenin"}
+
+## Druhy fixací zlomenin
 
 n/a {class="description"}
 
@@ -38,7 +44,9 @@ Existuje řada možností, jak zafixovat zlomeninu. Počínaje přiložením kla
   * **Operační spojení kostí** je zcela pevné. Provádí se u zlomenin, které by se jinak nemohly zhojit v požadovaném (původním) postavení. Nevýhodou této metody jsou rizika spojená s operací a podáním narkózy (anestézie) a nutnost dalšího operačního zákroku s časovým odstupem. Kovový materiál je potřeba po zhojení zlomeniny z těla odstranit.
   * U některých zlomenin je vhodné použití kovové náhrady kosti, nejčastěji **operační náhradu kloubu**. Nevýhodou je opět obecné riziko operace a narkózy.
 
-## Komplikace hojení zlomenin {id="komplikace\_hojeni\_zlomenin"}
+{id="komplikace\_hojeni\_zlomenin"}
+
+## Komplikace hojení zlomenin
 
 n/a {class="description"}
 
@@ -48,7 +56,9 @@ Při léčení zlomeniny mohou **vzniknout trvalé následky**. Nejčastěji to 
   * **Pakloub** je typickým následkem nedodržení klidu nutného ke srůstu zlomeniny. Jedná se o nesprávné spojení zlomené kosti nově vzniklým bolestivým kloubem místo požadovaného srůstu.
   * Nečinností dochází vždy k drobnému přirozenému odvápnění fixované kosti. U citlivého pacienta, který nadměrně koncentruje mysl na svoje zranění, však může dojít k **nadměrnému odvápnění** fixované končetiny (Sudekova atrofie). Jedná se o závažné, dlouhodobé a obtížně léčitelné onemocnění.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -60,7 +70,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Co je to „koupací sádra“?
   5. Jaké jsou možné komplikace léčení zlomenin?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

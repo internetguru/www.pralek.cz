@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Záludnost poranění sleziny u dětí {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_sleziny" short="Poranění sleziny" ctime="2012-12-19" mtime="2012-12-19"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_sleziny" short="Poranění sleziny" ctime="2012-12-19" mtime="2012-12-19"}
+
+# Záludnost poranění sleziny u dětí
 
 Poranění sleziny může být velmi zákeřným úrazem. Přes relativní nenápadnost rozvoje příznaků může zraněná slezina ohrozit nemocného na životě. Operační odstranění poraněné sleziny naštěstí nevede následně k poruchám zdraví. {class="description" kw="slezina, poranění sleziny, úraz, píchání v levém boku, dvoudobé poranění sleziny, šok, kolaps, krvácení, poranění"}
 
@@ -11,7 +13,9 @@ V povědomí lidí je slezina coby neškodné „píchání v levém boku“ v d
 
 Zdaleka **nejčastěji jsou poraněním sleziny postiženy děti**, ale i v dospělosti je poranění sleziny potenciálně život ohrožujícím úrazem. Život člověku zachrání pouze [včasná operace][2] po stanovení správné diagnózy.
 
-## Nejčastější příčiny poranění sleziny {id="nejcastejsi\_priciny\_poraneni_sleziny"}
+{id="nejcastejsi\_priciny\_poraneni_sleziny"}
+
+## Nejčastější příčiny poranění sleziny
 
 n/a {class="description"}
 
@@ -21,7 +25,9 @@ Obzvláště u dětí (v dospělosti pouze výjimečně) však může dojít k p
 
 Jestliže se běžící dítě uhodí do levého boku o roh nábytku, který je právě ve výšce jeho dolních žeber (např. školní lavice nebo stůl), může si poranit slezinu. Dítě zdánlivě nevýznamnému úrazu nevěnuje pozornost a klidně pokračuje v zábavě. {class="example"}
 
-## Projevy poranění sleziny {id="projevy\_poraneni\_sleziny"}
+{id="projevy\_poraneni\_sleziny"}
+
+## Projevy poranění sleziny
 
 n/a {class="description"}
 
@@ -34,7 +40,9 @@ Poranění sleziny se dělí na _jednodobé_ a _dvoudobé_. V obou případech v
 
 Na opožděné krvácení dvoudobého poranění sleziny může pacient (typicky dítě) bohužel poměrně snadno zemřít. Příznaky mohou být podceněny a souvislost s několik dnů starým a mnohdy již zapomenutým drobným úrazem nemusí být zřejmá.
 
-## Potvrzení diagnózy a léčba poraněné sleziny {mtime="2012-12-23" id="potvrzeni\_diagnozy\_a\_lecba\_poranene_sleziny"}
+{mtime="2012-12-23" id="potvrzeni\_diagnozy\_a\_lecba\_poranene_sleziny"}
+
+## Potvrzení diagnózy a léčba poraněné sleziny
 
 n/a {class="description"}
 
@@ -48,7 +56,9 @@ Při rozsáhlejším natržení či roztržení sleziny je léčba primárně ch
 
 Lidské tělo je tak dokonalé, že se dokáže se ztrátou sleziny samo vyrovnat. Po ztrátě sleziny totiž přebírají její nepostradatelnou funkci jiné orgány, které ji dokážou téměř plně nahradit. Zajímavostí z medicínského pohledu je fakt, že člověk po ztrátě sleziny se může klidně stát [dárcem krve][9].
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -60,7 +70,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Kde je uložena slezina a k čemu slouží?
   5. Jaké jsou možnosti léčení poraněné sleziny?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

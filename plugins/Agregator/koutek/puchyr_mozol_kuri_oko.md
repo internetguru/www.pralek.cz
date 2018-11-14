@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Puchýř, mozol, kuří oko: jak správně ošetřovat {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="puchyr\_mozol\_kuri\_oko" short="Puchýř, mozol, kuří oko" ctime="2010-08-19" mtime="2010-08-19"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="puchyr\_mozol\_kuri\_oko" short="Puchýř, mozol, kuří oko" ctime="2010-08-19" mtime="2010-08-19"}
+
+# Puchýř, mozol, kuří oko: jak správně ošetřovat
 
 Neporušený puchýř se nepropichuje ani nestříhá. Naopak je nutné dbát na to, aby nebyl ani omylem poškozen nebo porušen. V případě porušení krytu puchýře je hojení komplikováno zánětem a stává se bolestivým a zdlouhavým. Mozol může fyzické aktivitě napomáhat nebo ji znemožnit. {class="description" kw="puchýř, mozol, kuří oko, hnisavý puchýř, zánět, protržení puchýře, hyperkeratóza, pedikůra, manikůra, kuří oko, kalus, odstranění kuřího oka"}
 
@@ -16,7 +18,9 @@ Puchýř vzniká mechanickým nebo tepelným poškozením kůže. Nejčastějš�
   * popálení
   * nebo omrznutí.
 
-## Možnosti vývoje puchýře {id="moznosti\_vyvoje\_puchyre"}
+{id="moznosti\_vyvoje\_puchyre"}
+
+## Možnosti vývoje puchýře
 
 n/a {class="description"}
 
@@ -25,7 +29,9 @@ n/a {class="description"}
   3. V případě porušení pokožky nově vzniklého puchýře dochází ihned ke kontaminaci všudypřítomnými mikroorganizmy a **puchýř se zanítí**. [Projevy zánětu][5] jsou bolest, otok, zarudnutí, někdy i teplota, omezení hybnosti v postižené oblasti.
   4. Pokud pokračuje postižený člověk v započaté činnosti i přes vznik a protržení puchýře, dojde i k poškození kůže (škáry) a vzniklá rána se bude vyvíjet podle stupně poranění. Nejedná se již o puchýř [ale o ránu (oděrku)][6].
 
-## Ošetřování puchýřů {id="osetrovani_puchyru"}
+{id="osetrovani_puchyru"}
+
+## Ošetřování puchýřů
 
 n/a {class="description"}
 
@@ -37,7 +43,9 @@ Již protržený, zanícený, stržený, do hloubky porušený nebo krvácejíc�
   2. Rozhodne-li se pacient vyhledat lékaře, musí puchýř (ať porušený nebo celistvý) pouze zakrýt obvazem a následně nechat odborně ošetřit včetně desinfekce a přeočkování proti tetanu (které je nutné každých 10 – 15 let).
   3. V případě léčení porušeného puchýře svépomocí jsou vhodné opakované koupele ve slabém desinfekčním roztoku (růžový [roztok hypermanganu nebo Betadina][8]) a v počátku malé množství jakékoli protizánětlivé mastičky. Mastičky nesmí být mnoho, aby nerozmáčela _(nemacerovala)_ okolí rány. Asi po 2 dnech po vykoupání je dobré nechat na vzduchu zaschnout a pouze spodinu lehce promašťovat jakýmkoli příjemným krémem (nikoli heřmánkovou mastičkou, protože ta příliš vysušuje).
 
-## Mozol a kuří oko {id="mozol\_a\_kuri_oko"}
+{id="mozol\_a\_kuri_oko"}
+
+## Mozol a kuří oko
 
 n/a {class="description"}
 
@@ -52,7 +60,9 @@ Postupným a přiměřeným zatěžováním prací nebo sportem nevznikne na ink
 
 Často se tvoří _hyperkeratózy_ na zdeformovaných nohách po amputacích prstů pro [komplikace cukrovky][10]. Chirurgické ošetřování špatně prokrvené nohy _(diabetická noha)_ je vždy svízelné a dlouhodobé. Specializovaným pracovištěm na řešení těchto problémů je _podiatrie_. {class="example"}
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -64,7 +74,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Za jakých okolností je nutné si mozol ošetřovat?
   5. Proč chirurgické odstranění kuřího oka nevyřeší bolestivost při chůzi?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

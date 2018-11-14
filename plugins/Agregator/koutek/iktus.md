@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Cévní mozková příhoda neboli iktus či mrtvice {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="iktus" short="Cévní mozková příhoda" ctime="2008-07-05" mtime="2008-07-05"}
+{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="iktus" short="Cévní mozková příhoda" ctime="2008-07-05" mtime="2008-07-05"}
+
+# Cévní mozková příhoda neboli iktus či mrtvice
 
 Záludnost cévní mozkové příhody spočívá v nenápadnosti jejího nástupu a v jejím pozvolném a nebolestivém rozvoji. {class="description" kw="cévní mozková příhoda, mozková mrtvice, iktus, mozek, prokrvácení mozku, slabost končetiny, porucha mluvení, pokleslý koutek úst, porucha vědomí, bezvědomí, porucha hybnosti, rehabilitace"}
 
@@ -14,7 +16,9 @@ Do mozku přitéká krev čtyřmi tepnami, které jsou vzájemně propojeny. Pro
 
 V případě pokročilejšího nebo náhle vzniklého stavu snížení prokrvení části mozku se projeví některé známky mozkové mrtvice. Na rozdíl od [infarktu srdečního][3] **mozková mrtvice vůbec nebolí**. Proto bývají její příznaky bohužel podceňovány a následky pak tragické.
 
-## Nejčastější projevy cévní mozkové příhody {id="nejcastejsi\_projevy\_cevni\_mozkove\_prihody"}
+{id="nejcastejsi\_projevy\_cevni\_mozkove\_prihody"}
+
+## Nejčastější projevy cévní mozkové příhody
 
 n/a {class="description"}
 
@@ -29,7 +33,9 @@ Stejné příznaky mohou doprovázet jak neúrazové tak [úrazové krvácení d
 
 Brnění nebo poruchy čití mohou sice doprovázet CMP, ale mnohem častěji vzniknou pouhým přeležením paže! Hlubokým spánkem na paži v nevhodné poloze se otlačí nebo natáhne nervový svazek nebo nerv. Při probuzení je končetina jako cizí, necitlivá, studená, nelze jí aktivně pohnout. Stav se během několika minut sám upraví. {class="important"}
 
-## Následky po mozkové mrtvici {id="nasledky\_po\_mozkove_mrtvici"}
+{id="nasledky\_po\_mozkove_mrtvici"}
+
+## Následky po mozkové mrtvici
 
 n/a {class="description"}
 
@@ -39,7 +45,9 @@ Postižená část mozku přestala fungovat a její funkci se snaží nahradit o
 
 Jestliže se podaří správně rozpoznat první příznaky CMP a včas (hodiny i minuty) [vyhledat lékařskou pomoc][8], často se může podařit obnovit prokrvení mozku dříve, než se plně vyvine chorobné ložisko. Mozková mrtvice v ideálním případě vůbec nevznikne nebo s následky minimálními ve srovnání s průběhem bez léčebného ovlivnění.
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -50,7 +58,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   3. Jaké jsou nejčastější projevy mozkové mrtvice?
   4. Proč mohou projevy mrtvice dočasně samovolně ustoupit a následně se znovu projevit?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 

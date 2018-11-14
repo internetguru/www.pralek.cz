@@ -1,7 +1,9 @@
 
 {class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Drobná krvavá poranění {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="drobna\_krvava_poraneni" short="Drobná poranění" ctime="2008-01-22" mtime="2015-11-09"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="drobna\_krvava_poraneni" short="Drobná poranění" ctime="2008-01-22" mtime="2015-11-09"}
+
+# Drobná krvavá poranění
 
 Správné ošetření drobného poranění zkracuje dobu léčení, šetří bolest a pomáhá předcházet zánětlivým komplikacím. Rána by měla být ošetřena do 6 hodin od úrazu. {class="description" kw="poranění, ošetření rány, říznutí, krvácení, rána, zástava krvácení"}
 
@@ -9,7 +11,9 @@ Drobná krvavá poranění navozují dilema, zda je třeba vyhledat lékařské 
 
 Na [klasické šití rány jehlou nemusí vůbec dojít][1]. Bolesti není třeba se bát. Dezinfekce v ráně neštípe a zákroky se provádějí šetrně v místním nebo i celkovém znecitlivění (dle závažnosti).
 
-## Ošetřování poraněné ruky svépomocí {id="osetrovani\_poranene\_ruky_svepomoci"}
+{id="osetrovani\_poranene\_ruky_svepomoci"}
+
+## Ošetřování poraněné ruky svépomocí
 
 n/a {class="description"}
 
@@ -29,7 +33,9 @@ Ošetřenou končetinu je dobré položit na břicho volně pokrčenou v lokti �
 
 Pokud se zraněný rozhodne vyhledat lékařské ošetření, má ránu vypláchnout pouze vodou (desinfekci provede lékař). V takovém případě do rány nepatří ani vata, prášek či léčivé rostliny, neboť komplikují standardní ošetření (z rány se těžko odstraňují). {class="example"}
 
-## Naléhavost ošetření rány {id="nalehavost\_osetreni\_rany"}
+{id="nalehavost\_osetreni\_rany"}
+
+## Naléhavost ošetření rány
 
 n/a {class="description"}
 
@@ -37,7 +43,9 @@ Rána má být **ošetřena [do 6 hodin od úrazu][6]**. Je častou chybou, že 
 
 Druhým extrémem je zbrklá a příliš rychlá jízda autem na pohotovost. Takto dopravený pacient má velmi často ránu nezakrytou a stále krvácející s tím, že „doma neměl čím ránu zavázat“. Často se zapomíná na to, že **výbavou každého auta je lékárnička**, kterou lze použít i mimo dopravní nehody :-)
 
-## n/a {id="otazky" var="inputvar-otazky_h"}
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
 
 n/a {class="description" var="inputvar-otazky_desc"}
 
@@ -49,7 +57,9 @@ n/a {class="description" var="inputvar-otazky_desc"}
   4. Kdy může být drobná ranka v kůži závažným úrazem?
   5. Proč je třeba ránu při první pomoci zakrýt sterilním obvazem?
 
-## n/a {var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy"}
+
+## n/a
 
 n/a {class="description" var="inputvar-odkazy_desc"}
 
