@@ -29,7 +29,7 @@ Zánět je často [potřeba léčit][2] pomocí antibiotik, jindy pouze krátkod
 
 n/a
 
-Podle časového průběhu zánětu (a v souvislosti se [stupněm imunity][3]) je třeba posoudit, zda se mají [nasazovat antibiotika][4] a pokud ano, tak kdy a která. To mnohem lépe posoudí praktický lékař, který pacienta zná, než lékař sloužící pohotovost, který vidí cizího pacienta poprvé. Proto je vždy vhodnější návštěva praktického lékaře i za cenu [určité prodlevy][5].
+sss časového průběhu zánětu (a v souvislosti se [stupněm imunity][3]) je třeba posoudit, zda se mají [nasazovat antibiotika][4] a pokud ano, tak kdy a která. To mnohem lépe posoudí praktický lékař, který pacienta zná, než lékař sloužící pohotovost, který vidí cizího pacienta poprvé. Proto je vždy vhodnější návštěva praktického lékaře i za cenu [určité prodlevy][5].
 
   1. **Prudce probíhající _(akutní)_ zánět** má rychlý nástup a rychlý rozvoj příznaků. Podle celkového stavu pacienta se nasazují léky, případně také antibiotika „první volby“ (typicky vhodná pro danou chorobu). Další vývoj akutního zánětu je možné ovlivnit přikládáním obkladů: 
       * **Teplý obklad** zpomalí prokrvení postiženého místa a tím podpoří rozvoj zánětu (zánět může rychleji „dozrát“). Teplým obkladem je vhodné urychlit bolestivý začátek akutního zánětu středního ucha nebo zubního váčku. Tím se rychleji vytvoří hnis, který lze následným ošetřením vyprázdnit. Bolestivá fáze vývoje zánětu se tak zkrátí na minimum.
