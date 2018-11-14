@@ -7,7 +7,7 @@
 
 {class="description" kw="zánět, zčervenání, bolest, akutní, chronický, infikovaná oděrka, kapénková infekce, kontaminovaná strava, septický stav, nehnisavý, hnisavý, obklady"}
 
-Různé druhy zánětů mají různý průběh a vývoj, různé příčiny a projevy. Podle druhu a vývoje zánětu je třeba proti němu někdy intenzivně bojovat, jindy je lépe ponechat zánětu přirozený průběh a někdy jej dokonce podporovat.
+Různorodé druhy zánětů mají různý průběh a vývoj, různé příčiny a projevy. Podle druhu a vývoje zánětu je třeba proti němu někdy intenzivně bojovat, jindy je lépe ponechat zánětu přirozený průběh a někdy jej dokonce podporovat.
 
 Zánět je velmi složitá biochemická a imunitní reakce organizmu na různé podněty. Má typické místní a celkové projevy, podle kterých jej lze rozpoznat. **Místní projevy zánětu** jsou:
 
