@@ -5,13 +5,15 @@
 
 # Rychlá lékařská pomoc
 
-Úkolem rychlé lékařské pomoci (záchranky) je záchrana lidí v ohrožení života. Záchranka nenahrazuje lékařskou službu první pomoci (pohotovost) a není na takovou práci ani prostorově ani technicky vybavena. {class="description" kw="rychlá lékařská pomoc, záchranka, integrovaný záchranný systém, dojezdová doba, vrtulník, linka 155, rychlá zdravotnická pomoc, letecké záchranná služba"}
+{kw="rychlá lékařská pomoc, záchranka, integrovaný záchranný systém, dojezdová doba, vrtulník, linka 155, rychlá zdravotnická pomoc, letecké záchranná služba"}
+
+Úkolem rychlé lékařské pomoci (záchranky) je záchrana lidí v ohrožení života. Záchranka nenahrazuje lékařskou službu první pomoci (pohotovost) a není na takovou práci ani prostorově ani technicky vybavena.
 
 {id="vyjezdy\_a\_soucinnost\_zachranky\_s\_policii\_a_hasici"}
 
 ## Výjezdy a součinnost záchranky s policií a hasiči
 
-n/a {class="description"}
+n/a
 
 Zdravotnická záchranná služba je jednou ze základních složek _integrovaného záchranného systému_ (IZS) – součinnost záchranky s policií a hasiči. Jednotlivá stanoviště záchranky jsou v regionech rozmístěna tak, aby byl zajištěn dojezd k nemocnému do 20 minut. Sousedící stanoviště si v případě potřeby vzájemně vypomáhají. V případě zásahu domácí posádky má pochopitelně vypomáhající posádka ze vzdálenějšího regionu delší dojezdnou dobu.
 
@@ -19,15 +21,19 @@ Nemocného člověka je nutno na místě vyšetřit, dle závažnosti stavu mu [
 
 Pokud dojde k většímu neštěstí nebo k hromadné nehodě, vysílá dispečer na místo více posádek zároveň. Vrtulník může být po zhodnocení situace vyslán přímo dispečerem, nebo je po vyhodnocení stavu na místě nehody dodatečně přivolán posádkou rychlé lékařské pomoci. Součinnost s policií a hasiči u různých nehod (například dopravních) je již rutinní záležitostí.
 
-Čerstvě zalitá káva voněla po kuchyni. Vtom zvonila listonoška. Za několik sekund dvouleté dítě pláčem přivolává rodiče – [bylo opařené kávou][3]. Jeden z rodičů [chladil spáleninu studenou vodou][4], druhý zavolal záchranku. Dispečer vyslal k opařenému dítěti do vesnice rychlou lékařskou pomoc. Záchranka dorazila za 6 minut. Opařené plochy dítěte byly rozsáhlé; zranění bylo velmi závažné, život ohrožující. {class="example"}
+{class="example"}
 
-Dítě bylo odborně ošetřeno a dostalo potřebné léky. Sanita vyrazila směrem k velkému parkovišti, spojila se s dispečerem a žádala vrtulník k transportu na kliniku pro spáleniny do Prahy. Zabezpečené dítě bylo předáno do vrtulníku na domluveném místě. _Dětský život byl zachráněn._ {class="important"}
+Čerstvě zalitá káva voněla po kuchyni. Vtom zvonila listonoška. Za několik sekund dvouleté dítě pláčem přivolává rodiče – [bylo opařené kávou][3]. Jeden z rodičů [chladil spáleninu studenou vodou][4], druhý zavolal záchranku. Dispečer vyslal k opařenému dítěti do vesnice rychlou lékařskou pomoc. Záchranka dorazila za 6 minut. Opařené plochy dítěte byly rozsáhlé; zranění bylo velmi závažné, život ohrožující.
+
+{class="important"}
+
+Dítě bylo odborně ošetřeno a dostalo potřebné léky. Sanita vyrazila směrem k velkému parkovišti, spojila se s dispečerem a žádala vrtulník k transportu na kliniku pro spáleniny do Prahy. Zabezpečené dítě bylo předáno do vrtulníku na domluveném místě. _Dětský život byl zachráněn._
 
 {id="informacni\_tok\_a\_rozhodovani\_o\_posadce\_a_vyjezdech"}
 
 ## Informační tok a rozhodování o posádce a výjezdech
 
-n/a {class="description"}
+n/a
 
 **Tísňová linka 155** vytáčená v každém regionu vyzvání na dispečinku záchranné služby patřičného kraje. Přítomný dispečer (zkušený proškolený zdravotník) zjistí důležité informace o stavu pacienta a rozhodne, kterou posádku vyšle na místo.
 
@@ -49,7 +55,7 @@ Služba pracuje v nepřetržitém směnném režimu (12 hodin). Vozidlo rychlé 
 
 ## Důvody přivolání záchranky, plané výjezdy a agresivita pacientů
 
-n/a {class="description"}
+n/a
 
 Nejčastější důvody pro volání záchranky jsou **náhlé a závažné poruchy zdraví** jako [bezvědomí][5], [bolest na hrudi, infarkt][6], [mozková mrtvice][7], překotný porod, dopravní nehody a různé závažné úrazy jako [bodná a střelná poranění][8] či [zlomeniny][9].
 
@@ -62,19 +68,23 @@ Na místě zásahu se vyskytuje **slovní agresivita nejčastěji v partách opi
 
 ## Respekt na silnici, dávání přednosti záchrance
 
-n/a {class="description"}
+n/a
 
 Účastníci silničního provozu většinou respektují výstražná světla i zvukové výstražné zařízení záchranné služby. Často však **nedovedou odhadnout velmi vysokou rychlost záchranky** a manévrují tak, že nutí řidiče záchranky zbytečně brzdit. Tím zpomalují transport a velmi přitěžují pacientovi i posádce, která se snaží pacienta udržet při životě.
 
 Řidiči by měli zpomalit, zajet ke kraji vozovky a umožnit bezproblémové projetí záchranky. Na dvouproudové silnici projíždí sanita uprostřed, na víceproudové silnici mezi pravým a s ním sousedícím pruhem.
 
-Paradoxně se relativně často stává, že proti sobě jedoucí řidiči oba zpomalí a nakonec zastaví přímo vedle sebe. Tím **nutí záchranku zpomalit a mnohdy i zastavit** do té doby, než jeden z nich nakonec popojede :-( {class="example"}
+{class="example"}
+
+Paradoxně se relativně často stává, že proti sobě jedoucí řidiči oba zpomalí a nakonec zastaví přímo vedle sebe. Tím **nutí záchranku zpomalit a mnohdy i zastavit** do té doby, než jeden z nich nakonec popojede :-(
 
 {id="otazky" var="inputvar-otazky_h"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -91,9 +101,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: resuscitace-ozivovani
  [2]: lekove_formy

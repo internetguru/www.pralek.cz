@@ -5,7 +5,9 @@
 
 # Nebezpečí skoku do vody
 
-Skoky do známé i neznámé vody mohou být velmi nebezpečné. V drtivé většině případů mívají skokani změněné uvažování. Typicky se před někým předvádějí a nebývají tedy u vody sami. Proto je na jejich kamarádech, aby jim v takovém konání zabránili. {class="description" kw="úraz, rána, zlomenina, zlomený vaz, skalpace, krvavé poranění, poranění páteře"}
+{kw="úraz, rána, zlomenina, zlomený vaz, skalpace, krvavé poranění, poranění páteře"}
+
+Skoky do známé i neznámé vody mohou být velmi nebezpečné. V drtivé většině případů mívají skokani změněné uvažování. Typicky se před někým předvádějí a nebývají tedy u vody sami. Proto je na jejich kamarádech, aby jim v takovém konání zabránili.
 
 Neprozkoumaná voda je každoroční nástrahou „odvážlivců“ se sníženým úsudkem. Nemalý podíl na zraněních spojených se skokem do vody nesou i dobře známé vody. Úrazy závisí mimo ostatních faktorů také na typu skoku.
 
@@ -13,7 +15,7 @@ Neprozkoumaná voda je každoroční nástrahou „odvážlivců“ se snížen�
 
 ## Skok do neznámé vody
 
-n/a {class="description"}
+n/a
 
 Skok do vody bez předchozího prozkoumání dna není známkou odvahy, ale chabého úsudku typicky ovlivněného alkoholem nebo nízkou inteligencí. Následkem jsou zcela zbytečné a mnohdy závažné úrazy často s doživotními či dokonce fatálními následky.
 
@@ -24,7 +26,7 @@ Skok do vody bez předchozího prozkoumání dna není známkou odvahy, ale chab
 
 ## Nebezpečí skoku do známé vody
 
-n/a {class="description"}
+n/a
 
 Záludnost vodní hladiny se může projevit i na dobře známém místě. Podmínky na dně se mohou změnit ze dne na den nebo se skok nemusí vydařit. Pod vlivem opojení dochází i k absurdním zraněním, jako je skok do vypuštěného bazénu.
 
@@ -41,7 +43,7 @@ Vypuštěný bazén
 
 ## Typické úrazy spojené se skokem do vody
 
-n/a {class="description"}
+n/a
 
 Úrazy spojené se skoky do vody souvisí většinou s typem skoku. Zatímco skoky do dálky či skoky po nohou nemusí končit tragicky, kolmé skoky po hlavě dělí od smrti mnohdy jen náhoda.
 
@@ -59,7 +61,9 @@ Skok po nohou resp. sbalený skok (tzv. kufr)
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -73,9 +77,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: drobna_krvava_poraneni
  [2]: zlomeniny_kosti

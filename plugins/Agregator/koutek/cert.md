@@ -5,13 +5,15 @@
 
 # Pohádkový čert: kterak na svět přišel
 
-Postava čerta vznikla pozorováním lidí s různým zdravotním postižením. Typické čertovské příznaky se totiž u lidí vyskytují dosud jako vrozené či získané vady. U jednoho člověka se může vyskytnout i více příznaků současně. {class="description" kw="kožní roh, cornu cutaneum, hyperkeratosa, čertovy rohy, ocas, sakrální dermoid, kopyto, koňská noha, pes equinovarus, blekotání, zanedbaný stav, névus, vlčí lidé, hemangiom"}
+{kw="kožní roh, cornu cutaneum, hyperkeratosa, čertovy rohy, ocas, sakrální dermoid, kopyto, koňská noha, pes equinovarus, blekotání, zanedbaný stav, névus, vlčí lidé, hemangiom"}
+
+Postava čerta vznikla pozorováním lidí s různým zdravotním postižením. Typické čertovské příznaky se totiž u lidí vyskytují dosud jako vrozené či získané vady. U jednoho člověka se může vyskytnout i více příznaků současně.
 
 {id="certovy\_rohy\_kozni_rohy"}
 
 ## Čertovy rohy: kožní rohy
 
-n/a {class="description"}
+n/a
 
 Kožní roh _(cornu cutaneum)_ je poměrně časté [nádorové onemocnění kůže][1] lidí vyššího věku, kteří byli během svého života nadměrně vystavováni slunečnímu záření. Rohy se objevují převážně na čele (ale i na ramenou a hřbetech rukou). Všude tam, kde byla kůže po celý život [nejvíce vystavena UV paprskům][2].
 
@@ -23,7 +25,7 @@ Kožní roh _(cornu cutaneum)_ je poměrně časté [nádorové onemocnění ků
 
 ## Čertův ocas: deformity kostrčních obratlů
 
-n/a {class="description"}
+n/a
 
 V kostrční oblasti se může vyskytnout [zánětlivé ložisko][5] zvané [sakrální dermoid][6]. Při jeho vyprázdnění velmi často vychází z ložiska i hrst chlupů.
 
@@ -33,7 +35,7 @@ Kostrční obratle (u člověka zakrnělý ocas) navazují na křížovou kost a
 
 ## Čertovo kopyto: koňská noha
 
-n/a {class="description"}
+n/a
 
 Koňská noha _(pes equinovarus)_ je dodnes jedna z nejčetnějších vrozených vad (deformit) pohybového ústrojí. Většinou lze deformitu úspěšně řešit ortopedickými operacemi a rehabilitací.
 
@@ -43,7 +45,7 @@ V dřívějších dobách však nikdo neuměl takto postiženému dítěti pomoc
 
 ## Čertův hrůzný zjev: névus či hemangiom v obličeji
 
-n/a {class="description"}
+n/a
 
 V obličeji se může vyskytnout [rozsáhlý névus][1], nejčastěji pigmentový, který bývá pokryt chlupy. Takový člověk vypadá, jakoby měl obličej pokryt zvířecí srstí (vlčí lidé). Podobně může být v obličeji [rozsáhlý červený hemangiom][7] (laicky oheň). V takovém případě je obličej sytě červený bez chlupů.
 
@@ -51,7 +53,7 @@ V obličeji se může vyskytnout [rozsáhlý névus][1], nejčastěji pigmentov�
 
 ## Čertovo blekotání
 
-n/a {class="description"}
+n/a
 
 Vady řeči se vyskytují velmi často. Koktajícím lidem se někdy podaří jejich vadu obelstít např. opakováním nějakého slova či jeho části. A tak zjevně vzniklo i čertovo blekotání, neboť lidé s takovou vadou řeči působili podivně.
 
@@ -61,7 +63,7 @@ Nutno dodat, že v dnešní době někteří řečníci považují vadu řeči z
 
 ## Sociální postavení čerta
 
-n/a {class="description"}
+n/a
 
 V dřívějších dobách byli postižení lidé díky všelijakým pověrám společností zavržení. Postižený opuštěný člověk žijící mimo lidské společenství byl zanedbaný, pravděpodobně páchnul špínou a jeho oděv byl neupravený, špinavý, chatrný a roztrhaný (podobně jako dnešní bezdomovec).
 
@@ -73,7 +75,9 @@ Osaměle žijící člověk si musel občas přinést (odcizit) z blízké vesni
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -87,9 +91,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: znamenko-bradavice-rakovina
  [2]: zasady_spravneho_opalovani

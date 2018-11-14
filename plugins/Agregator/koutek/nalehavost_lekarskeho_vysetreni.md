@@ -5,13 +5,15 @@
 
 # Vyhledání lékařské péče: kdy, kde a jak naléhavě
 
-Úrazy a ostatní poruchy zdraví mají různý stupeň naléhavosti a způsob řešení od technické první pomoci přes hospitalizaci až po rehabilitaci. {class="description" kw="první pomoc, vědomí, dýchání, tep, akce srdeční, resuscitace, zástava krvácení, poleptání oka, ledvinová kolika, vykloubení, bolesti břicha, kýla, spolknuté nebezpečné předměty, úraz, infarkt, kašel"}
+{kw="první pomoc, vědomí, dýchání, tep, akce srdeční, resuscitace, zástava krvácení, poleptání oka, ledvinová kolika, vykloubení, bolesti břicha, kýla, spolknuté nebezpečné předměty, úraz, infarkt, kašel"}
+
+Úrazy a ostatní poruchy zdraví mají různý stupeň naléhavosti a způsob řešení od technické první pomoci přes hospitalizaci až po rehabilitaci.
 
 {id="nutnost\_okamziteho\_reseni"}
 
 ## Nutnost okamžitého řešení
 
-n/a {class="description"}
+n/a
 
   * Při **ohrožení života** je vždy nejprve nutná
       1. okamžitá _technická první pomoc_ (přerušit kontakt zraněného se zdrojem elektrického proudu, vytažení tonoucího z vody, vyproštění zraněného z hořícího auta a podobně).
@@ -32,7 +34,7 @@ n/a {class="description"}
 
 ## Nutnost řešit během minut
 
-n/a {class="description"}
+n/a
 
   * Prudká **[ledvinová kolika][4]** je velmi bolestivá, proto je nutné
       1. užít [lék proti bolesti][5] a
@@ -45,7 +47,7 @@ n/a {class="description"}
 
 ## Nutnost řešit během hodin
 
-n/a {class="description"}
+n/a
 
   * Bolesti břicha v souvislosti s [pohmožděním břicha][7],
   * bolesti břicha neznámého původu (např. [slepák][8] nebo [střevní neprůchodnost][9]),
@@ -55,7 +57,9 @@ n/a {class="description"}
   * [úrazy hlavy][12],
   * [bolestivé (zánětlivé) bouličky][13].
 
-Všechny výše jmenované stavy se řeší na chirurgickou ambulanci. Postižený **nesmí brát léky proti bolesti, jíst ani pít** z důvodu zkreslení příznaků nemoci pro případ eventuálního operačního řešení. {class="important"}
+{class="important"}
+
+Všechny výše jmenované stavy se řeší na chirurgickou ambulanci. Postižený **nesmí brát léky proti bolesti, jíst ani pít** z důvodu zkreslení příznaků nemoci pro případ eventuálního operačního řešení.
 
   * [Cévní mozková příhoda][14] je řešena na neurologii.
   * [Infarkt][15] je léčen na interně nebo lépe na kardiologii.
@@ -65,7 +69,7 @@ Všechny výše jmenované stavy se řeší na chirurgickou ambulanci. Postižen
 
 ## Ošetření do 6 hodin
 
-n/a {class="description"}
+n/a
 
   * Krvavé **poranění nosu nebo ušního boltce** bude ošetřeno na oddělení ORL.
   * **Poranění genitálií** bude ošetřeno na urologii resp. gynekologii.
@@ -76,7 +80,7 @@ n/a {class="description"}
 
 ## Ošetření následující pracovní den dopoledne
 
-n/a {class="description"}
+n/a
 
   * [Puchýř][18], [nebolestivá boulička][13], [bolesti šlach a kloubů][19], [natažený či natržený sval][20], [podvrtnutý kotník][21] a [krvácení z konečníku][22] budou vyšetřeny na chirurgické ambulanci.
   * [Bolest v krku, angína][23], problémy s ušima, nosem a [rýma][24] budou vyšetřeny na oddělení ORL.
@@ -84,7 +88,9 @@ n/a {class="description"}
   * [Zánět močového měchýře][30], [zvětšená prostata][31] a ostatní urologické problémy ošetřuje urolog.
   * Nebolestivé různě barevné změny kůže, [rozpraskané paty][32], zhrubělé vysoké nehty ošetřuje dermatolog – lékař na kožním oddělení.
 
-Jedná se o problémy, které je nejlépe vyšetřit následující pracovní den dopoledne. V pohotovostní službě totiž **nelze věnovat pacientovi maximální péči** včetně kompletního laboratorního vyšetření. {class="important"}
+{class="important"}
+
+Jedná se o problémy, které je nejlépe vyšetřit následující pracovní den dopoledne. V pohotovostní službě totiž **nelze věnovat pacientovi maximální péči** včetně kompletního laboratorního vyšetření.
 
 Je dobré dlouho neodkládat vyšetření pro potíže, které pacienta obtěžují nebo zneklidňují. [Strach z rakoviny][33] vede bohužel mnohdy k nesmyslnému a nebezpečnému odkládání lékařského vyšetření s fatálními následky.
 
@@ -92,7 +98,9 @@ Je dobré dlouho neodkládat vyšetření pro potíže, které pacienta obtěžu
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -106,9 +114,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: resuscitace-ozivovani
  [2]: rychla_lekarska_pomoc

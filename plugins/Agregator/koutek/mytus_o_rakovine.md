@@ -5,7 +5,9 @@
 
 # Mýtus o urychlení rakoviny operací
 
-Rakovina je tím lépe léčitelná, čím dříve je odhalená. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací. {class="description" kw="strach, rakovina, nádor, ložiska, metastázy, boulička, mateřské znaménko, piha, nechutenství, úbytek na váze, krev ve stolici, krev v moči, vykašlávání krve, bolest"}
+{kw="strach, rakovina, nádor, ložiska, metastázy, boulička, mateřské znaménko, piha, nechutenství, úbytek na váze, krev ve stolici, krev v moči, vykašlávání krve, bolest"}
+
+Rakovina je tím lépe léčitelná, čím dříve je odhalená. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací.
 
 Strachem z rakoviny pacienti bohužel často **promarní vhodnou dobu, kdy je případná rakovina ještě dobře léčitelná**. Jak čas plyne, nejenže zhoubný nádor (rakovina) roste, ale může také v těle vytvářet druhotná ložiska _(metastázy)_.
 
@@ -24,7 +26,7 @@ Vzhledem k přirozenému strachu z rakoviny se lidé snaží různé příznaky 
 
 ## Komplikace zhoubného nádoru
 
-Neléčené příznaky počínající rakoviny se časem promění v komplikace, které teprve nemocného [přivedou k lékaři][7]. Po potvrzení obávané diagnózy se dostane pacient na operační sál. Pak už nemusí být vyřešení nádorového onemocnění **vzhledem k pokročilému stavu** možné. {class="description"}
+Neléčené příznaky počínající rakoviny se časem promění v komplikace, které teprve nemocného [přivedou k lékaři][7]. Po potvrzení obávané diagnózy se dostane pacient na operační sál. Pak už nemusí být vyřešení nádorového onemocnění **vzhledem k pokročilému stavu** možné.
 
 Projevy postupující rakoviny jsou závažnější a nedají se už snadno ignorovat. Bývá to zejména:
 
@@ -33,13 +35,15 @@ Projevy postupující rakoviny jsou závažnější a nedají se už snadno igno
   * [střevní neprůchodnost][11] [se zvracením][12],
   * celková sešlost, slabost, nechutenství a značný [váhový úbytek][4].
 
-Z laického pohledu tak vzniká _mýtus_, že viditelné zhoršení zdravotního stavu či dokonce úmrtí pacienta způsobila až operace. Skutečnost je však taková, že doba, kdy byla **šance na vyléčení, již byla bohužel promarněna**. {class="example"}
+{class="example"}
+
+Z laického pohledu tak vzniká _mýtus_, že viditelné zhoršení zdravotního stavu či dokonce úmrtí pacienta způsobila až operace. Skutečnost je však taková, že doba, kdy byla **šance na vyléčení, již byla bohužel promarněna**.
 
 {id="rakovina\_ci\_zcela\_nezavazne\_onemocneni"}
 
 ## Rakovina či zcela nezávažné onemocnění
 
-Výše zmíněné nejasné příznaky bývají často **známkou i zcela banálního onemocnění**. Tuto jistotu lze však získat jen po poradě s lékařem. {class="description"}
+Výše zmíněné nejasné příznaky bývají často **známkou i zcela banálního onemocnění**. Tuto jistotu lze však získat jen po poradě s lékařem.
 
 Je mnoho typů [zhoubných i nezhoubných nádorů][13], které se mohou projevovat výše uvedenými příznaky. I zhoubné nádory jsou ve většině případů tím lépe léčitelné, čím dříve jsou odhaleny.
 
@@ -47,7 +51,9 @@ Je mnoho typů [zhoubných i nezhoubných nádorů][13], které se mohou projevo
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -60,9 +66,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: lymfaticke_uzliny
  [2]: kyla

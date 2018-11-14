@@ -5,13 +5,15 @@
 
 # Plísňová onemocnění kůže
 
-Projevem plísňového onemocnění je zapaření (zapářka) nebo opruzení kůže v místech nepřístupných vzduchu. Původcem jsou houbové mikroorganizmy, nejčastěji plísně nebo kvasinky. Nejrůznější plísně postihují čím dál více lidí a mají nejrůznější projevy. {class="description" kw="zapaření, zapářka, opruzení, kožní plísně, skvrny na kůži, ložisko, zánět, bolestivá skvrna na kůži, zarudnutí třísla, zapářka pod prsy, svědění okolí konečníku"}
+{kw="zapaření, zapářka, opruzení, kožní plísně, skvrny na kůži, ložisko, zánět, bolestivá skvrna na kůži, zarudnutí třísla, zapářka pod prsy, svědění okolí konečníku"}
+
+Projevem plísňového onemocnění je zapaření (zapářka) nebo opruzení kůže v místech nepřístupných vzduchu. Původcem jsou houbové mikroorganizmy, nejčastěji plísně nebo kvasinky. Nejrůznější plísně postihují čím dál více lidí a mají nejrůznější projevy.
 
 {id="dlouhodobe\_chronicke\_onemocneni_plisni"}
 
 ## Dlouhodobé (chronické) onemocnění plísní
 
-n/a {class="description"}
+n/a
 
 Dlouhodobé (chronické) onemocnění plísní postihuje velké množství lidí. Plísně se projevují různými barevnými změnami kůže. Tyto změny se nejčastěji zhoršují během zimního období. V létě se příznaky kožních plísní zmírňují. Plísním nesvědčí [pobyt na vzduchu a slunci][1].
 
@@ -34,7 +36,7 @@ Dlouhodobé onemocnění plísní dokáže léčit [dermatolog][5]. Ten určí, 
 
 ## Prudké (akutní) onemocnění plísní
 
-n/a {class="description"}
+n/a
 
 Prudké (akutní) onemocnění plísní se nejčastěji projevuje jako intenzivní svědění až bolest v místech, kde kůže přiléhá k protilehlé kůži a to dlouhodobě nebo trvale. Laicky jsou tyto potíže označovány nejčastěji jako zapářka, zapaření či opruzení.
 
@@ -60,7 +62,9 @@ Prudké (akutní) onemocnění plísní se nejčastěji projevuje jako intenzivn
 
 Při těchto projevech je třeba vyhledat praktického nebo kožního lékaře, který doporučí nejvhodnější léčbu – protiplísňové [léky ve vhodné formě][4].
 
-Paradoxně u rozvinutých plísňových kožních nemocí nepomáhá zvýšená hygiena. Časté sprchování nebo koupání naopak podporuje rozvoj akutních kožních plísní. {class="important"}
+{class="important"}
+
+Paradoxně u rozvinutých plísňových kožních nemocí nepomáhá zvýšená hygiena. Časté sprchování nebo koupání naopak podporuje rozvoj akutních kožních plísní.
 
 Kožní plísně se vyskytují častěji u lidí postižených cukrovkou. Zvláště neléčená nebo nepoznaná [cukrovka s vysokou hladinou cukru v krvi][11] podporuje rozvoj plísní. Vysoká hladina cukru v krvi je totiž vhodnou potravou pro plísně a kvasinky.
 
@@ -70,7 +74,9 @@ Opakovaný výskyt plísňových onemocnění jistě povede nejen praktického l
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -84,9 +90,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: zasady_spravneho_opalovani
  [2]: znamenko-bradavice-rakovina

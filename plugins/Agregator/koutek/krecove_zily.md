@@ -5,7 +5,9 @@
 
 # Křečové žíly dolních končetin neboli varixy
 
-Vznik křečových žil dolních končetin lze preventivně ovlivnit. Již vzniklé varixy je možno odstranit. Po operaci je nutné opět preventivně dbát na to, aby se varixy znovu nevytvořily. {class="description" kw="varixy, rozšířená žíla, křečová žíla, chlopně, žilní městky, žilní systém, prevence"}
+{kw="varixy, rozšířená žíla, křečová žíla, chlopně, žilní městky, žilní systém, prevence"}
+
+Vznik křečových žil dolních končetin lze preventivně ovlivnit. Již vzniklé varixy je možno odstranit. Po operaci je nutné opět preventivně dbát na to, aby se varixy znovu nevytvořily.
 
 Krev je vypuzována srdečním svalem a tepnami přenášena [pod určitým tlakem][1] k cílovým orgánům. Po předání kyslíku a živin se krev vrací žílami zpět k srdci. **Krev žílami teče pasivně**; není poháněna srdcem.
 
@@ -13,7 +15,7 @@ Krev je vypuzována srdečním svalem a tepnami přenášena [pod určitým tlak
 
 ## Správná a narušená funkce žil
 
-n/a {class="description"}
+n/a
 
 Pro správnou funkci žil je nutný průtok krve. Krev se v žíle pohybuje pouze samospádem (zemskou přitažlivostí) nebo opačným směrem stlačením žíly okolními svaly. Aby se krev pohybovala pouze požadovaným směrem, jsou v žílách **jednosměrné chlopně**. Při stlačení se sloupec krve pohne pouze tím směrem, který mu umožní chlopně. Při uvolnění svalového napětí se krev nevrací – zdravé chlopně návrat neumožní.
 
@@ -32,7 +34,7 @@ Nefunkční chlopně umožní v klidu pohyb krve dolů (obrázek 1:c) a při stl
 
 ## Léčení křečových žil
 
-n/a {class="description"}
+n/a
 
 Na dolních končetinách jsou dva žilní systémy – hluboký a povrchový. Změny na povrchovém systému bývají viditelné a někdy i bolestivé. Rozšířené rozsáhlé žilní městky často hyzdí dolní končetiny deformací a barevně. Někdy se mohou [zanítit][3] a být velmi bolestivé. Drobné rozšířené žilky (metličky) působí nepříjemně kosmeticky.
 
@@ -41,29 +43,37 @@ Existuje několik metod, jak varixy odstranit:
   * Pomocí léků, které ovlivní žilní stěnu tak, aby se více neuvolňovala. Stávající stav se tedy nadále sice nezlepší, ale zpomalí se jeho zhoršování.
   * Chirurgicky, kdy je rozšířená žíla odstraněna i s varixy. Nejvhodnější metodu vždy **individuálně po vyšetření doporučí odborný lékař**. Podmínkou úspěšného řešení povrchního žilního systému je správná funkčnost hlubokého žilního systému.
 
-Chirurgicky, chemicky nebo laserem přerušená žíla vždy zanikne a posléze je nahrazena nově vyrostlou žílou. Nově vzniklá žíla je zdravá, nerozšířená, bez varixů. {class="important"}
+{class="important"}
+
+Chirurgicky, chemicky nebo laserem přerušená žíla vždy zanikne a posléze je nahrazena nově vyrostlou žílou. Nově vzniklá žíla je zdravá, nerozšířená, bez varixů.
 
 {id="prevence\_vzniku\_krecovych\_zil\_po\_operaci\_i\_bez\_ni"}
 
 ## Prevence vzniku křečových žil po operaci (i bez ní)
 
-n/a {class="description"}
+n/a
 
 Určitou dobu po odstranění křečových žil se mohou znovu začít objevovat nové varixy. Není to proto, že byla zvolena nesprávná operační metoda nebo nekvalitní výkon. Příčina vzniku nových varixů je v tom, že se pacient po rekonvalescenci navrátil do stejných poměrů, jakými byly způsobeny původní varixy.
 
 Zmíněnou rodovou dispozici změnit pochopitelně nelze, snížená kvalita vaziva žilní stěny je dána. Je však nutné **dlouhodobě zabránit stagnaci krve** v žílách dolních končetin a tím znemožnit nebo zpomalit vznik nových varixů. Největší _nápor na žíly vzniká nehybným stáním_.
 
-Snad s výjimkou hradní stráže však nikdo bez hnutí stát nemusí. Prodavačka má jistě dost chození, které vznik varixů nepodporuje. Musí-li však déle stát bez hnutí, stačí **střídavě přešlapovat z nohy na nohu**, tím pumpovat krev a jejím posunem správným směrem znemožnit její stagnaci. Vhodná elastická bandáž při větší zátěži stáním rovněž znemožní tvorbu varixů. {class="example"}
+{class="example"}
+
+Snad s výjimkou hradní stráže však nikdo bez hnutí stát nemusí. Prodavačka má jistě dost chození, které vznik varixů nepodporuje. Musí-li však déle stát bez hnutí, stačí **střídavě přešlapovat z nohy na nohu**, tím pumpovat krev a jejím posunem správným směrem znemožnit její stagnaci. Vhodná elastická bandáž při větší zátěži stáním rovněž znemožní tvorbu varixů.
 
 Nevhodné je i _dlouhodobé sezení bez pohnutí_, zvláště s nohou přes nohu. Není-li střídavě svalové napětí a uvolnění, krev v žílách stagnuje a nebezpečí vzniku varixů narůstá. Ohrožený člověk by neměl zůstat delší dobu bez pohybu dolních končetin. Stačí v lýtkových svalech **střídat svalové napětí a následné uvolnění**.
 
-Pro lidi s dispozicí k tvorbě křečových žil je vhodnější chodit než stát a ležet než sedět. Při každé příležitosti je vhodné nohy uložit do výšky (např. na stůl), a tím ulevit žilnímu systému a podpořit krevní návrat. {class="important"}
+{class="important"}
+
+Pro lidi s dispozicí k tvorbě křečových žil je vhodnější chodit než stát a ležet než sedět. Při každé příležitosti je vhodné nohy uložit do výšky (např. na stůl), a tím ulevit žilnímu systému a podpořit krevní návrat.
 
 {id="otazky" var="inputvar-otazky_h"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -77,9 +87,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: krevni_tlak
  [2]: krvaceni_z_konecniku

@@ -5,7 +5,9 @@
 
 # Včasné odhalení rakoviny tlustého střeva a konečníku
 
-Opakované vyšetřování stolice na krvácení může odhalit zhoubný nádor střeva a konečníku již v počátečním stádiu, kdy je nádor ještě vyléčitelný. Vyšetření je potřeba doporučit každému člověku od padesáti let, a to i jako laik (čtenář tohoto článku). {class="description" kw="rakovina, tlusté střevo, konečník, krvácení, stolice, iTOKS, OK, kolonoskopie"}
+{kw="rakovina, tlusté střevo, konečník, krvácení, stolice, iTOKS, OK, kolonoskopie"}
+
+Opakované vyšetřování stolice na krvácení může odhalit zhoubný nádor střeva a konečníku již v počátečním stádiu, kdy je nádor ještě vyléčitelný. Vyšetření je potřeba doporučit každému člověku od padesáti let, a to i jako laik (čtenář tohoto článku).
 
 Zhoubný [nádor tlustého střeva a konečníku][1] se nejčastěji vyskytuje u lidí starších 50 let. Projevy onemocnění jsou zprvu nenápadné. Proto by měl každý člověk v tomto věku podstoupit preventivní vyšetření na skryté (okultní) krvácení. V případě včasného odhalení nádoru extrémně stoupá šance na přežití. Léčení je v takovém případě rychlé a snadné a může vést k úplnému uzdravení.
 
@@ -13,7 +15,7 @@ Zhoubný [nádor tlustého střeva a konečníku][1] se nejčastěji vyskytuje u
 
 ## Neviditelné krvácení do stolice
 
-n/a {class="description"}
+n/a
 
 Samotné vyšetření je jednoduché a bezbolestné. Nazývá se _imunologický test okultního krvácení do stolice (iTOKS)_ a obnáší pouze odběr vzorku stolice a jeho následné vyšetření. Vyšetření odhalí nebo vyloučí okem neviditelné stopy krve ve stolici.
 
@@ -23,7 +25,7 @@ Příměs krve ve stolici poukazuje na onemocnění střeva nebo konečníku a j
 
 ## Průběh a varianty vyhodnocení
 
-n/a {class="description"}
+n/a
 
 Odběr vzorku stolice se provádí vždy svépomocí v soukromí doma. Vzorek může vyhodnotit praktický lékař nebo pacient sám.
 
@@ -41,7 +43,7 @@ Vyhodnocení svépomocí
 
 ## Určení diagnózy
 
-n/a {class="description"}
+n/a
 
 **Přítomnost krve ve stolici nemusí souviset s rakovinou.** Nejedná se o test prokazující rakovinu, ale obecně nemoc, která se projevuje krvácením do stolice.
 
@@ -51,7 +53,9 @@ Je-li test pozitivní, nezbývá než se objednat na [kolonoskopii][1], která t
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -64,8 +68,12 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: rakovina_tlusteho_streva_a_konecniku

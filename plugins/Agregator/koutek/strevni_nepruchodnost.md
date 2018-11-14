@@ -5,7 +5,9 @@
 
 # Střevní neprůchodnost bývá komplikací jiné choroby
 
-Střevní neprůchodnost (laicky zauzlení střev) je stav, při kterém dochází k zástavě posunu střevního obsahu v trávicím traktu. Nemocný velmi nepříjemně vnímá nadýmání, zástavu odchodu větrů a stolice a později i zvrací. {class="description" kw="střevo, střevní neprůchodnost, větry, zástava větrů, zástava stolice, nafouklé břicho, kolostomie"}
+{kw="střevo, střevní neprůchodnost, větry, zástava větrů, zástava stolice, nafouklé břicho, kolostomie"}
+
+Střevní neprůchodnost (laicky zauzlení střev) je stav, při kterém dochází k zástavě posunu střevního obsahu v trávicím traktu. Nemocný velmi nepříjemně vnímá nadýmání, zástavu odchodu větrů a stolice a později i zvrací.
 
 Omezení nebo zástava střevní pasáže (průchodnosti střeva) bývá jednou z příčin bolestí břicha. Jedná se o závažné onemocnění zvané _ileus_. Rozvinutý _ileus_ se řadí mezi náhlé příhody břišní a téměř vždy je k záchraně života nutné operační řešení.
 
@@ -13,11 +15,13 @@ Omezení nebo zástava střevní pasáže (průchodnosti střeva) bývá jednou 
 
 ## Jak se rozpozná vyvíjející se ileus
 
-n/a {class="description"}
+n/a
 
 Zpočátku má pacient pocit plnosti v břiše a [žaludeční nevolnost][1]. Vnímá ztížený nebo žádný odchod plynů (laicky zaražené větry) a většinou nemůže na stolici. Celé břicho je nafouklé a začíná být bolestivé. Tento stav se označuje jako **počínající ileus** _(subileus)_.
 
-Stav označovaný jako „počínající ileus“ může být projevem pouhé [funkční poruchy trávení][2]. Překážka ve střevě způsobená nevhodnou potravou se může uvolnit a potíže samovolně ustoupí. {class="important"}
+{class="important"}
+
+Stav označovaný jako „počínající ileus“ může být projevem pouhé [funkční poruchy trávení][2]. Překážka ve střevě způsobená nevhodnou potravou se může uvolnit a potíže samovolně ustoupí.
 
 Má-li však střevo skutečnou překážku, pak je _subileus_ jen začátkem potíží, které se časem vystupňují v **úplný střevní uzávěr** _(ileozní stav)_. Tehdy je celé břicho silně vzedmuté (nafouklé), neodcházejí větry ani stolice a pacient opakovaně zvrací.
 
@@ -25,7 +29,7 @@ Má-li však střevo skutečnou překážku, pak je _subileus_ jen začátkem po
 
 ## Příčiny vzniku střevní neprůchodnosti
 
-n/a {class="description"}
+n/a
 
 Střevní neprůchodnost _(ileus)_ bývá způsobena mechanickou překážkou. Překážka se může nalézat uvnitř střeva, ve střevní stěně nebo zcela mimo střevní stěnu. Dále může být střevní neprůchodnost způsobena porušením nervového či cévního zásobení střeva. Nejčastěji však _ileus_ vzniká jako komplikace jiné choroby – například bývá často bezprostřední příčinou smrti u pokročilé [rakoviny střev][3].
 
@@ -60,7 +64,7 @@ Od funkční nebo počínající střevní zástavy je nutné odlišit prostou z
 
 ## Léčba střevní neprůchodnosti
 
-n/a {class="description"}
+n/a
 
 Pacienta se střevní neprůchodností musí vyšetřit zkušený lékař, nejlépe chirurg. Převážná většina _ileozních_ stavů je po potřebných vyšetřeních řešena operací. Někdy je vhodnější vyčkávat a podávat léky podporující činnost střeva (u funkčních a neurogenních typů).
 
@@ -70,7 +74,9 @@ Při operaci střevní neprůchodnosti se vždy chirurg snaží odstranit přek�
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -84,9 +90,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: tlak_zaludku
  [2]: funkcni_poruchy_traveni

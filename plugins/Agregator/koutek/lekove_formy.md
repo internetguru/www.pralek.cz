@@ -5,11 +5,15 @@
 
 # Možnosti podávání léků a lékové formy
 
-Léky se mohou dostat do těla různými cestami. Stejné množství léku (účinná dávka léku) působí stejně, je-li podáno kteroukoli formou a kteroukoli cestou. Většinou je možné nasadit takovou formu, která pacientovi vyhovuje. {class="description" kw="lékové formy, léky, tablety, dražé, prášky, masti, kapky, spreje, léčivé náplasti, léčivé gely, tampony, čípky, injekční roztoky, očkování, testy alergenů, podávání léků, aplikace léků"}
+{kw="lékové formy, léky, tablety, dražé, prášky, masti, kapky, spreje, léčivé náplasti, léčivé gely, tampony, čípky, injekční roztoky, očkování, testy alergenů, podávání léků, aplikace léků"}
+
+Léky se mohou dostat do těla různými cestami. Stejné množství léku (účinná dávka léku) působí stejně, je-li podáno kteroukoli formou a kteroukoli cestou. Většinou je možné nasadit takovou formu, která pacientovi vyhovuje.
 
 Vstřebání léků různými cestami je různě rychlé, různě více nebo méně vhodné. **Výsledný efekt léku je stejný, ať je aplikován jakoukoli formou.** Některé léky lze podávat pouze určitými cestami. Většinu léků lze však podat různými cestami a v různých formách.
 
-V případě opakovaného zvracení nemá smysl podávat [tabletky ke zklidnění žaludku][1], neboť by byly vzápětí vyzvráceny a proto nemohou být účinné. Snadno a dobře v tomto případě pomůže čípek, rychleji nitrosvalová injekce. Okamžitě působí nitrožilně podaný lék. {class="example"}
+{class="example"}
+
+V případě opakovaného zvracení nemá smysl podávat [tabletky ke zklidnění žaludku][1], neboť by byly vzápětí vyzvráceny a proto nemohou být účinné. Snadno a dobře v tomto případě pomůže čípek, rychleji nitrosvalová injekce. Okamžitě působí nitrožilně podaný lék.
 
 Podávání léků se dá rozdělit na _invazivní_ (např. vpich injekce) a _neinvazivní_ bez nutnosti otevření pacienta.
 
@@ -17,7 +21,7 @@ Podávání léků se dá rozdělit na _invazivní_ (např. vpich injekce) a _ne
 
 ## Neinvazivní aplikace léků a lékové formy
 
-n/a {class="description"}
+n/a
 
   * **Polknutí léku ústy** _(perorání aplikace)_ – nejčastěji tablety, dražé, prášky, kapky, sprej;
       * Nejběžnější metoda podávání léků.
@@ -51,7 +55,7 @@ n/a {class="description"}
 
 ## Invazivní aplikace léků a lékové formy
 
-n/a {class="description"}
+n/a
 
   * **Nitrokožní aplikace léku** _(intradermální injekce)_ – injekční roztok;
       * Do kůže se aplikují [testy alergenů][8] nebo očkování, aby byly s odstupem dobře hodnotitelné.
@@ -79,7 +83,9 @@ n/a {class="description"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -93,9 +99,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: funkcni_poruchy_traveni
  [2]: bolest_v_krku_angina

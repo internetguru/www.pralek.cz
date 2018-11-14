@@ -5,7 +5,9 @@
 
 # Zlomeniny kostí
 
-Rozpoznání zlomeniny kosti a správné poskytnutí první pomoci zabrání vzniku šoku a komplikací. {class="description" kw="kost, zlomenina, nalomení, prasklina, roztříštění, rozdrcení, vpáčení, odlomení, naštípnutí, naprasknutí, úraz hlavy, zlomenina obratle, zlomenina páteře, rozpoznání zlomeniny, projevy zlomeniny"}
+{kw="kost, zlomenina, nalomení, prasklina, roztříštění, rozdrcení, vpáčení, odlomení, naštípnutí, naprasknutí, úraz hlavy, zlomenina obratle, zlomenina páteře, rozpoznání zlomeniny, projevy zlomeniny"}
+
+Rozpoznání zlomeniny kosti a správné poskytnutí první pomoci zabrání vzniku šoku a komplikací.
 
 Zlomeninou se rozumí porušení kontinuity kosti. Jedná se o nalomení, prasklinu, zlomeninu s posunem nebo bez posunu, roztříštění, rozdrcení kosti, vpáčení kosti.
 
@@ -13,7 +15,7 @@ Zlomeninou se rozumí porušení kontinuity kosti. Jedná se o nalomení, praskl
 
 ## Projevy zlomeniny dlouhé kosti
 
-n/a {class="description"}
+n/a
 
 Zlomenina dlouhé kosti (pažní, kosti předloktí – loketní a vřetenní, stehenní a kosti bérce – holení a lýtková) může být provázena zvukovým efektem (prasknutím) podobným tomu, který vznikne šlápnutím na suchou větev v lese.
 
@@ -35,7 +37,7 @@ Se zlomeninou souvisí krvácení do svalů v okolí zlomeniny. Krvácení zlome
 
 ## Projevy nalomení kosti v okolí kloubů
 
-n/a {class="description"}
+n/a
 
 Nekompletní **zlomeninu zvláště v okolí kloubů nelze laicky rozeznat**. Odlomeni, naštípnutí nebo naprasknutí kosti je bolestivé zranění, které se projevuje podobně jako [pohmoždění nebo podvrtnutí kloubu][3].
 
@@ -50,13 +52,15 @@ Přestože nekompletní zlomeniny (nalomení) jsou závažným onemocněním, [t
 
 Dlouho obtěžující bolestivost, otoky a nemožnost rychlého návratu k běžné _kvalitě života_ (bez omezení fyzických funkcí) obtěžují pacienta dlouhé týdny, často je nutná **dlouhodobá intenzivní rehabilitace**.
 
-Se zlomeninou zevního kotníku lze například chodit nebo dohrát sportovní zápas. {class="example"}
+{class="example"}
+
+Se zlomeninou zevního kotníku lze například chodit nebo dohrát sportovní zápas.
 
 {id="prasklina_lebky"}
 
 ## Prasklina lebky
 
-n/a {class="description"}
+n/a
 
 Při úrazu hlavy může dojít k [poranění mozku][6] nebo k prasklině lebky nebo obojímu. Závažnost úrazu vždy určuje závažnost poranění mozku. Prasklina lební klenby se běžně zhojí bez komplikací samovolně.
 
@@ -68,7 +72,7 @@ Závažnější problém vzniká při [pronikajícím poranění hlavy][7] s por
 
 ## Zlomeniny páteře
 
-n/a {class="description"}
+n/a
 
 Nejzávažnějším zlomeninám krční páteře při dopravních nehodách předchází správně nastavené opěrky hlavy v kombinaci s bezpečnostními pasy a airbagy. Nic takového však bohužel nebrání [skokanům do neznámé nebo do mělké vody po hlavě][8]. Pak zlomenina krčního obratle souvisí s poškozením míchy a trvalou poruchou hybnosti (upoutání na lůžko nebo v lepším případě na vozík).
 
@@ -76,13 +80,17 @@ Zlomený vaz (zlomený zub čepovce) vede ke smrti. V případě posunu dalšíc
 
 [Zlomeniny bederní páteře][9] mohou ale nemusí souviset s poškozením nervů v míšním kanále (v bederní části páteře již není mícha). Při první pomoci je třeba dbát na to, aby zachránce při manipulaci se zraněným nezhoršil jeho stav. Pokud je to možné, **je dobré nechat vyprošťování i transport profesionálům**.
 
-Po nehodě řidič auta sedí za volantem, stěžuje si na bolest páteře a necítí nohy, nemůže jimi pohnout. Nic nehoří, nehrozí zřícení do propasti. Zraněný dýchá, je při vědomí, spolupracuje. Není důvod jej laicky vyprošťovat z auta. Zavolaní záchranáři jej vyprostí profesionálně. {class="example"}
+{class="example"}
+
+Po nehodě řidič auta sedí za volantem, stěžuje si na bolest páteře a necítí nohy, nemůže jimi pohnout. Nic nehoří, nehrozí zřícení do propasti. Zraněný dýchá, je při vědomí, spolupracuje. Není důvod jej laicky vyprošťovat z auta. Zavolaní záchranáři jej vyprostí profesionálně.
 
 {id="otazky" var="inputvar-otazky_h"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -96,9 +104,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: rychla_lekarska_pomoc
  [2]: mdloba_neboli_kolaps

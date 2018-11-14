@@ -5,7 +5,9 @@
 
 # Drobná krvavá poranění
 
-Správné ošetření drobného poranění zkracuje dobu léčení, šetří bolest a pomáhá předcházet zánětlivým komplikacím. Rána by měla být ošetřena do 6 hodin od úrazu. {class="description" kw="poranění, ošetření rány, říznutí, krvácení, rána, zástava krvácení"}
+{kw="poranění, ošetření rány, říznutí, krvácení, rána, zástava krvácení"}
+
+Správné ošetření drobného poranění zkracuje dobu léčení, šetří bolest a pomáhá předcházet zánětlivým komplikacím. Rána by měla být ošetřena do 6 hodin od úrazu.
 
 Drobná krvavá poranění navozují dilema, zda je třeba vyhledat lékařské ošetření, nebo zda se ranka zahojí sama. Nejedná se jen o to, **zda je rána „na šití“**. Je rovněž potřeba vyčistit ránu, zkontrolovat proočkování proti tetanu a další. Pokud si pacient závažností zranění není jistý, lékařskou pomoc by měl vyhledat.
 
@@ -15,7 +17,7 @@ Na [klasické šití rány jehlou nemusí vůbec dojít][1]. Bolesti není třeb
 
 ## Ošetřování poraněné ruky svépomocí
 
-n/a {class="description"}
+n/a
 
 Nejčastějším drobným krvavým poraněním je říznutí do prstu nebo do ruky (při krájení cibule, vyřezávání nebo štípání dříví). Poraněný si může poskytnout první pomoc tak, že:
 
@@ -27,17 +29,21 @@ Nejčastějším drobným krvavým poraněním je říznutí do prstu nebo do ru
 
 O nutnosti vyhledání lékařského ošetření rozhoduje především velikost rány a zda je „rozšklebená“ (zda okraje zejí nebo lpí k sobě). Také je třeba zkontrolovat míru hybnosti a citlivosti (čití) prstů. Po prozkoumání může ranka začít znovu krvácet. Opětovného zastavení krvácení lze docílit výše popsaným způsobem.
 
-Ostrý předmět (střep, hrot nože) může i při [drobném poranění kůže][5] přerušit například šlachu nebo nerv a tím způsobit omezení hybnosti prstu. To platí pro zranění prstu, zápětstí nebo předloktí či celé ruky. {class="example"}
+{class="example"}
+
+Ostrý předmět (střep, hrot nože) může i při [drobném poranění kůže][5] přerušit například šlachu nebo nerv a tím způsobit omezení hybnosti prstu. To platí pro zranění prstu, zápětstí nebo předloktí či celé ruky.
 
 Ošetřenou končetinu je dobré položit na břicho volně pokrčenou v lokti – nejlépe uloženou v šátku nebo ji přidržovat zdravou rukou. Obecně platí, že **čím více klidu má rána na hojení, tím lépe bude vypadat jizva**.
 
-Pokud se zraněný rozhodne vyhledat lékařské ošetření, má ránu vypláchnout pouze vodou (desinfekci provede lékař). V takovém případě do rány nepatří ani vata, prášek či léčivé rostliny, neboť komplikují standardní ošetření (z rány se těžko odstraňují). {class="example"}
+{class="example"}
+
+Pokud se zraněný rozhodne vyhledat lékařské ošetření, má ránu vypláchnout pouze vodou (desinfekci provede lékař). V takovém případě do rány nepatří ani vata, prášek či léčivé rostliny, neboť komplikují standardní ošetření (z rány se těžko odstraňují).
 
 {id="nalehavost\_osetreni\_rany"}
 
 ## Naléhavost ošetření rány
 
-n/a {class="description"}
+n/a
 
 Rána má být **ošetřena [do 6 hodin od úrazu][6]**. Je častou chybou, že pacient přijde k lékařskému ošetření po delším čase – druhý nebo nejčastěji dokonce třetí den po úrazu. Tehdy již přichází kvůli narůstající bolesti („škubání v ráně“) nebo i teplotě, což jsou [známky zánětu][7].
 
@@ -47,7 +53,9 @@ Druhým extrémem je zbrklá a příliš rychlá jízda autem na pohotovost. Tak
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -61,9 +69,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: naplastovy_steh
  [2]: lekarnicka

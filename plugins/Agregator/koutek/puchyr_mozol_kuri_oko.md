@@ -5,7 +5,9 @@
 
 # Puchýř, mozol, kuří oko: jak správně ošetřovat
 
-Neporušený puchýř se nepropichuje ani nestříhá. Naopak je nutné dbát na to, aby nebyl ani omylem poškozen nebo porušen. V případě porušení krytu puchýře je hojení komplikováno zánětem a stává se bolestivým a zdlouhavým. Mozol může fyzické aktivitě napomáhat nebo ji znemožnit. {class="description" kw="puchýř, mozol, kuří oko, hnisavý puchýř, zánět, protržení puchýře, hyperkeratóza, pedikůra, manikůra, kuří oko, kalus, odstranění kuřího oka"}
+{kw="puchýř, mozol, kuří oko, hnisavý puchýř, zánět, protržení puchýře, hyperkeratóza, pedikůra, manikůra, kuří oko, kalus, odstranění kuřího oka"}
+
+Neporušený puchýř se nepropichuje ani nestříhá. Naopak je nutné dbát na to, aby nebyl ani omylem poškozen nebo porušen. V případě porušení krytu puchýře je hojení komplikováno zánětem a stává se bolestivým a zdlouhavým. Mozol může fyzické aktivitě napomáhat nebo ji znemožnit.
 
 Puchýř je dutina vyplněná tekutinou ([podobně jako cysta][1]), která vznikla mezi dvěma základními vrstvami kůže (mezi pokožkou a škárou). Opakovaným tlakem na kůži šikmo nebo podélně u netrénovaného člověka dojde k násilnému oddělení pokožky a škáry a tím ke vzniku puchýře.
 
@@ -22,7 +24,7 @@ Puchýř vzniká mechanickým nebo tepelným poškozením kůže. Nejčastějš�
 
 ## Možnosti vývoje puchýře
 
-n/a {class="description"}
+n/a
 
   1. V případě neporušení krytu puchýře (puchýř je celistvý) nedochází ke [styku obsahu puchýře s mikroorganizmy][3] a puchýř se hojí bez zánětu. Puchýř tedy nebolí, pouze 2 dny na spodinu poněkud tlačí pro napěchovaný objem. Druhý až třetí den se začne tekutina vstřebávat a čtvrtý nebo pátý den se tekutina z puchýře zcela ztratí. Mezitím se zhojí spodina puchýře (škára). Po samovolném sloupnutí pokožky (nyní již suché „kůžičky“) nad bývalým puchýřem je spodina již zhojena – **bez jizvy, bez bolesti, bez problémů.**
   2. Jestliže dojde k drobnému (mikroskopickému) poranění pokožky, může se naopak obsah puchýře kontaminovat mikroorganizmy a může být následně zkalený nebo hnisavý (podle [stupně a vývoje zánětu][4]).
@@ -33,11 +35,13 @@ n/a {class="description"}
 
 ## Ošetřování puchýřů
 
-n/a {class="description"}
+n/a
 
 Nejdůležitější zásada je neporušený a nezanícený čerstvě vzniklý **puchýř nepropichovat ani neprostřihovat**. Jednalo by se totiž o zcela nesmyslné konání, které by nepřineslo nic dobrého. Zcela jistě by však porušením krytu puchýře umožnilo průnik mikroorganizmům do puchýře. Hojení bez zánětu a proto nebolestivé by přešlo v hojení zánětlivé s mnoha nebo se všemi projevy zánětu.
 
-Již protržený, zanícený, stržený, do hloubky porušený nebo krvácející puchýř je třeba ošetřit jako každou jinou znečištěnou nebo zanícenou ránu. {class="important"}
+{class="important"}
+
+Již protržený, zanícený, stržený, do hloubky porušený nebo krvácející puchýř je třeba ošetřit jako každou jinou znečištěnou nebo zanícenou ránu.
 
   1. Neporušený puchýř s nezaníceným obsahem se zhojí sám. Je třeba pouze dbát na to, aby nebyl poškozen následně, třeba i 2. nebo 3. den. Řešením je [jiná (vhodná) obuv][7], může posloužit jakýkoli kryt (obvaz, prodyšná náplast, sportovní chránič a podobně).
   2. Rozhodne-li se pacient vyhledat lékaře, musí puchýř (ať porušený nebo celistvý) pouze zakrýt obvazem a následně nechat odborně ošetřit včetně desinfekce a přeočkování proti tetanu (které je nutné každých 10 – 15 let).
@@ -47,7 +51,7 @@ Již protržený, zanícený, stržený, do hloubky porušený nebo krvácejíc�
 
 ## Mozol a kuří oko
 
-n/a {class="description"}
+n/a
 
 Postupným a přiměřeným zatěžováním prací nebo sportem nevznikne na inkriminovaném místě puchýř, ale vytvoří se mozol. U mozolu se pokožka stává pevnější, odolnější vůči zátěži, poněkud tmavší a vyšší _(hyperkeratóza)_. Dokud je mozol žádoucí, je možné jej ošetřovat a promazávat. V případě, že mozol začne překážet, je potřeba jej odstraňovat (snášet) např. pilníkem. Patřičným odborným pracovištěm je pedikůra nebo manikůra.
 
@@ -58,13 +62,17 @@ Postupným a přiměřeným zatěžováním prací nebo sportem nevznikne na ink
       * Často žádané chirurgické odstranění kuřího oka řeší problém pouze krátkodobě – do vytvoření nového mozolu.
       * Definitivním řešením kuřího oka je ortopedická úprava postiženého kloubu nebo zvláštní ortopedická vložka nebo celá bota.
 
-Často se tvoří _hyperkeratózy_ na zdeformovaných nohách po amputacích prstů pro [komplikace cukrovky][10]. Chirurgické ošetřování špatně prokrvené nohy _(diabetická noha)_ je vždy svízelné a dlouhodobé. Specializovaným pracovištěm na řešení těchto problémů je _podiatrie_. {class="example"}
+{class="example"}
+
+Často se tvoří _hyperkeratózy_ na zdeformovaných nohách po amputacích prstů pro [komplikace cukrovky][10]. Chirurgické ošetřování špatně prokrvené nohy _(diabetická noha)_ je vždy svízelné a dlouhodobé. Specializovaným pracovištěm na řešení těchto problémů je _podiatrie_.
 
 {id="otazky" var="inputvar-otazky_h"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -78,9 +86,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: nezhoubne_nadory
  [2]: lymfaticke_uzliny

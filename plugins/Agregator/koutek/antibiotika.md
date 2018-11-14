@@ -5,7 +5,9 @@
 
 # Proč nelze mít svá oblíbená antibiotika
 
-Bakterie, které imunitní systém vyhodnotí jako nežádoucí, jsou likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud dočasně mikroorganizmy vítězí (to se projevuje příznaky zánětu). {class="description" kw="antibiotika, bakterie, imunitní systém, bílé krvinky, mikroorganizmy, zánět, bakterie, rezistence na antibiotika, K+C, imunitní systém, alergie"}
+{kw="antibiotika, bakterie, imunitní systém, bílé krvinky, mikroorganizmy, zánět, bakterie, rezistence na antibiotika, K+C, imunitní systém, alergie"}
+
+Bakterie, které imunitní systém vyhodnotí jako nežádoucí, jsou likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud dočasně mikroorganizmy vítězí (to se projevuje příznaky zánětu).
 
 Rozvoj [zánětlivého onemocnění][1] s celkovými a místními příznaky je důvodem k lékařskému vyšetření a nasazení antibiotik. Jestliže není imunitní systém dostatečně připraven, mohou dočasně vítězit bakterie a vyvíjejí se místní i celkové příznaky zánětlivého onemocnění jako např. [angína][2]. Podle stupně a závažnosti těchto příznaků **lékař nasadí antibiotika**.
 
@@ -15,7 +17,7 @@ Vždy je výhodou, vyhledat **svého praktického lékaře** který pacienta (na
 
 ## Proč různé druhy antibiotik
 
-n/a {class="description"}
+n/a
 
 S objevem penicilínu jako prvního známého antibiotika nastala **éra vzájemného působení bakterií a antibiotik**. Penicilín bakterie neničí, ale znemožňuje jejich množení. Nenarůstá-li tedy po nasazení penicilínu množství útočících bakterií, jsou bílé krvinky snáze schopny stávající útočníky zlikvidovat.
 
@@ -25,13 +27,15 @@ Chorobu způsobenou tímto druhem bakterií již nelze léčit stejným penicil�
 
 Následně byla objevena nová antibiotika, která bakterie přímo hubí. Další a další druhy antibiotik, další nové generace nových antibiotik a vždy si bakterie dříve nebo později najdou svou obranu a vznikají nové resistentní kmeny bakterií.
 
-Mnohdy bývá nutné při závažných onemocněních různá antibiotika kombinovat. Nedobráním doporučené dávky antibiotika se zvyšuje množství přežívajících bakterií a tím se podporuje vznik resistentních bakteriálních kmenů vůči danému antibiotiku! {class="important"}
+{class="important"}
+
+Mnohdy bývá nutné při závažných onemocněních různá antibiotika kombinovat. Nedobráním doporučené dávky antibiotika se zvyšuje množství přežívajících bakterií a tím se podporuje vznik resistentních bakteriálních kmenů vůči danému antibiotiku!
 
 {id="vysetreni\_bakterii-kultivace\_a\_citlivost\_na\_antibiotika\_kc"}
 
 ## Vyšetření bakterií – kultivace a citlivost na antibiotika (K+C)
 
-n/a {class="description"}
+n/a
 
 Než lékař nasadí antibiotika pro zánětlivé onemocnění, provádí se **odběr biologického materiálu**. Umožní-li to podmínky a čas, provede se výtěr z nemocné tělní dutiny, nebo se odebere sekret z rány, moč nebo krev (biologický materiál) na K+C.
 
@@ -45,7 +49,7 @@ Jestliže není možnost provést vyšetření K+C v začátku onemocnění, **n
 
 ## Důvody preventivního podávání antibiotik
 
-n/a {class="description"}
+n/a
 
 Antibiotika nepůsobí proti virovým onemocněním (například proti chřipce). Přesto pacient za určitých podmínek při chřipce antibiotika od svého lékaře může dostat. Smyslem takového léčení je **předejít bakteriálním komplikacím** původně virového onemocnění. Například předejít vzniku zápalu plic jako komplikaci chřipkového onemocnění.
 
@@ -55,19 +59,23 @@ Někteří lidé musejí mít uměle sníženou imunitu (například po transpla
 
 ## Negativní účinky antibiotik
 
-n/a {class="description"}
+n/a
 
 Užívání antibiotik napomáhá imunitnímu systému zlikvidovat příčinu zánětlivého onemocnění. Antibiotika však nepůsobí pouze proti původci onemocnění, ale **proti všem mikrobům** obývajícím lidské tělo. Tím narušují harmonickou rovnováhu a spolupráci obrovského množství mikroorganizmů v lidském těle.
 
 Původní kmeny blahodárně působících bakterií bývají antibiotiky vyhubeny nebo oslabeny a následně nahrazeny **jinými bakteriálními kmeny s různými negativními projevy** (svědění až pálení sliznic, zažívací a trávicí potíže). Takto změněné prostředí umožní pomnožení kvasinek a plísní, které je špatně léčitelné.
 
-Opakované nadměrné užívání antibiotik vede k oslabení imunitního systému. Přibývá i alergických reakcí na antibiotika. Tomu se bohužel nelze vyvarovat. {class="important"}
+{class="important"}
+
+Opakované nadměrné užívání antibiotik vede k oslabení imunitního systému. Přibývá i alergických reakcí na antibiotika. Tomu se bohužel nelze vyvarovat.
 
 {id="otazky" var="inputvar-otazky_h"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -83,9 +91,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: zanet
  [2]: bolest_v_krku_angina

@@ -5,7 +5,9 @@
 
 # Mdloba neboli kolaps
 
-Mdloba je způsobena nedostatečným okysličením mozku, nejčastěji z důvodu poklesu krevního tlaku. Oživování (resuscitace) zkolabovaného je nutné jen výjimečně. {class="description" kw="mdloba, kolaps, mozek, krevní tlak, slabost, točení hlavy, studený pot, obklad, únava, vyčerpání, porucha vědomí, bezvědomí"}
+{kw="mdloba, kolaps, mozek, krevní tlak, slabost, točení hlavy, studený pot, obklad, únava, vyčerpání, porucha vědomí, bezvědomí"}
+
+Mdloba je způsobena nedostatečným okysličením mozku, nejčastěji z důvodu poklesu krevního tlaku. Oživování (resuscitace) zkolabovaného je nutné jen výjimečně.
 
 Mdlobě většinou předchází slabost, zatočení hlavy a studený pot. Tehdy, aby nedošlo ke kolapsu, je třeba **podpořit prokrvení mozku**. Sklon k omdlívání mívají lidé (slečny) s [nižším krevním tlakem][1] a nervově labilnější. Člověk však může omdlít také bez varování a následným pádem se může poranit.
 
@@ -31,7 +33,7 @@ Obecné podmínky zvyšující sklon k omdlívání:
 
 ## Hloubka bezvědomí určuje postup při první pomoci
 
-n/a {class="description"}
+n/a
 
 [Porucha vědomí][2] (bezvědomí) může mít různou hloubku. Od krátkodobé slabosti, kterou nemusí okolí ani postřehnout, až po plné bezvědomí s vyhasnutím všech obranných reakcí (včetně polykacího reflexu).
 
@@ -43,7 +45,7 @@ n/a {class="description"}
 
 ## Specifické příčiny kolapsu a první pomoc
 
-n/a {class="description"}
+n/a
 
   * **Nemocný [cukrovkou {title="Cukrovka: jak žít s cukrovkou"}][4] (diabetik)** pozvolna ztrácí vědomí v případě příliš nízké hladiny cukru v krvi. Jako první pomoc potřebuje neprodleně cukr; nejlépe formou sladkého nápoje.
   * **Určitá [onemocnění srdce][5]** způsobí poruchu vědomí tím, že srdce nedostatečně pumpuje krev a mozek nedostává dostatek okysličené krve.
@@ -53,7 +55,9 @@ n/a {class="description"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -67,9 +71,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: krevni_tlak
  [2]: nadmerne_dychani

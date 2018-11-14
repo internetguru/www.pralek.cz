@@ -5,7 +5,9 @@
 
 # Noční brnění prstů ruky: karpální syndrom
 
-Syndrom karpálního tunelu se projevuje brněním, trnutím až bolestí 2. až 4. prstu ruky. Potíže narůstají hlavně v noci. Rozhýbání prstů pomůže pouze krátkodobě. Trvalým řešením obtěžujících potíží je operační uvolnění utlačovaného nervu. {class="description" kw="prsty, brnění prstů ruky, karpální syndrom, karpální tunel, nervus medianus, trnutí prstů, bolest, skalenový syndrom, vyšetření EMG, elektromyografie"}
+{kw="prsty, brnění prstů ruky, karpální syndrom, karpální tunel, nervus medianus, trnutí prstů, bolest, skalenový syndrom, vyšetření EMG, elektromyografie"}
+
+Syndrom karpálního tunelu se projevuje brněním, trnutím až bolestí 2. až 4. prstu ruky. Potíže narůstají hlavně v noci. Rozhýbání prstů pomůže pouze krátkodobě. Trvalým řešením obtěžujících potíží je operační uvolnění utlačovaného nervu.
 
 Drobné zápěstní kůstky jsou ve zdravém zápěstí uloženy do mělkého oblouku (ve tvaru písmene U), který je shora uzavřen pevným vazem. Tento uzavřený prostor je nazýván **karpální tunel**. Tunelem procházejí šlachy ohýbačů prstů a středový nerv _(nervus medianus)_. Při pohybu prstů šlachy tunelem volně kloužou a středový nerv není drážděn.
 
@@ -16,13 +18,15 @@ Syndromu karpálního tunelu vzniká:
 
 Obě tyto změny se projeví brněním 2. až 4. prstu nejprve při zátěži. Brnění lze zpočátku odstranit rozcvičením prstů. S narůstajícími příznaky syndromu přechází brnění v **trnutí až bolesti postižených prstů, a to převážně v noci**. Rozcvičení prstů přináší stále pouze dočasnou úlevu.
 
-Karpálním syndromem trpí převážně ženy středního a vyššího věku. V tomto stádiu se nemocní často nesprávně domnívají, že se jedná o [cévní mozkovou příhodu (mrtvici)][2]. {class="example"}
+{class="example"}
+
+Karpálním syndromem trpí převážně ženy středního a vyššího věku. V tomto stádiu se nemocní často nesprávně domnívají, že se jedná o [cévní mozkovou příhodu (mrtvici)][2].
 
 {id="priciny\_utlaku\_nervu\_s\_naslednym_brnenim"}
 
 ## Příčiny útlaku nervu s následným brněním
 
-n/a {class="description"}
+n/a
 
 Brnění prstů může mít různé příčiny, jednou z nich může být např. syndrom karpálního tunelu. Při krátkodobém útlaku nervu lze většinou brnění rozcvičit. Dlouhodobý útlak většinou vyžaduje chirurgické řešení.
 
@@ -42,7 +46,7 @@ Brnění prstů může mít různé příčiny, jednou z nich může být např.
 
 ## Určení diagnózy a léčení syndromu karpálního tunelu
 
-n/a {class="description"}
+n/a
 
 Diagnózu určí neurolog na základě [vyšetření končetinových nervů][5] a zjistí místo útlaku. Standardně se provádí nebolestivé přístrojové vyšetření EMG _(elektromyografie)_. Jednoduchou operaci následně provede chirurg (nejlépe na specializovaném pracovišti chirurgie ruky), ortoped, neurochirurg nebo plastický chirurg.
 
@@ -54,7 +58,9 @@ U komplikovanějších případů a při poruchách hojení je nutná pooperačn
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -68,9 +74,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: onemocneni_slach
  [2]: iktus

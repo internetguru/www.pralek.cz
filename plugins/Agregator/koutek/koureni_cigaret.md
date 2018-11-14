@@ -5,7 +5,9 @@
 
 # Závislosti na kouření je snazší předejít
 
-Kouření tabáku (nejčastěji cigaret) přináší kuřákovi krátkodobě příjemný prožitek, ale dlouhodobě nepříjemnou závislost na nikotinu. Podle stupně závislosti již nebývá kouření nikterak příjemným zážitkem, spíše vzniká problém, když nezbytná cigareta chybí. {class="description" kw="kouření, cigarety, tabák, závislost, příležitostné kouření, zlozvyk, nemoc, odvykání, kašel"}
+{kw="kouření, cigarety, tabák, závislost, příležitostné kouření, zlozvyk, nemoc, odvykání, kašel"}
+
+Kouření tabáku (nejčastěji cigaret) přináší kuřákovi krátkodobě příjemný prožitek, ale dlouhodobě nepříjemnou závislost na nikotinu. Podle stupně závislosti již nebývá kouření nikterak příjemným zážitkem, spíše vzniká problém, když nezbytná cigareta chybí.
 
 Nikotin zvyšuje hladinu zvláštních hormonů – _endorfinů_. Jejich vyplavení způsobuje dobrou náladu, pocit zklidnění, blaha, tlumení bolesti a podobně. Endorfinům se také říká „hormony štěstí“ a přirozeně bývají vyplavovány při různých příležitostech (úspěch, porod, určitá zátěž nebo sport). Je logické, že **uvolňování endorfinů v souvislosti s kouřením je kuřákovi velmi příjemné**.
 
@@ -15,7 +17,7 @@ Každá další cigareta přináší kuřákovi menší a menší změnu hladiny
 
 ## Dávní indiáni kouřit uměli
 
-n/a {class="description"}
+n/a
 
 Příjemný účinek kouření tabáku objevili v dávných dobách američtí indiáni. Podobně jako jiné návykové látky (drogy) si však dopřávali kouření dýmky jen při zvláštních příležitostech. Podmínky zda, kdo, kdy, kolik a jakou drogu smí užívat totiž vždy určoval šaman.
 
@@ -29,7 +31,7 @@ V souladu s ochranou nekuřáků na sebe stát nepřímo bere roli šamana v ome
 
 ## Stádia návyku kuřáka na nikotin
 
-n/a {class="description"}
+n/a
 
 Období příjemného vychutnání si cigarety je bohužel pouze dočasné. Protože je prožitek velmi příjemný, začínající kuřák časem zvyšuje množství vykouřených cigaret. Vyplavování endorfinů je však velmi individuální.
 
@@ -52,7 +54,9 @@ Vývoj stádií návyku na cigarety:
       * i když zrovna nemá na cigaretu čas,
       * když je nachlazený.
 
-**Do posledního stádia návyku dospěje dříve nebo později každý kuřák.** {class="important"}
+{class="important"}
+
+**Do posledního stádia návyku dospěje dříve nebo později každý kuřák.**
 
 Spokojenost kuřáků se v různých stádiích závislosti na cigaretách liší:
 
@@ -64,7 +68,7 @@ Spokojenost kuřáků se v různých stádiích závislosti na cigaretách liš�
 
 ## Kouření a choroby
 
-n/a {class="description"}
+n/a
 
 O škodlivosti kouření dnes již jistě nikdo nepochybuje. Dlouhodobé kouření podporuje vznik řady různých chorob. Mezi nejznámější patří:
 
@@ -74,13 +78,15 @@ O škodlivosti kouření dnes již jistě nikdo nepochybuje. Dlouhodobé kouřen
   * kornatění cév ústící v [mozkovou mrtvici][4],
   * [žaludeční vředy a jejich komplikace][5].
 
-Samozřejmě, že jedna cigareta (ba ani jedna krabička cigaret) nevadí. Nikdo však neví, jak brzy si vytvoří takový návyk, se kterým si již sám nedokáže poradit. {class="important"}
+{class="important"}
+
+Samozřejmě, že jedna cigareta (ba ani jedna krabička cigaret) nevadí. Nikdo však neví, jak brzy si vytvoří takový návyk, se kterým si již sám nedokáže poradit.
 
 {id="odvykani_koureni"}
 
 ## Odvykání kouření
 
-n/a {class="description"}
+n/a
 
 Nejlepší je kouřit vůbec nezačít. Jestli úspěšně experimentujete s kouřením cigaret (jste ve stádiu 1 nebo 2), přečetli jste si tenhle článek a pochopili ho, pak pravděpodobně cigarety (alespoň na nějaký čas) odložíte. K tomu vám srdečně blahopřeji.
 
@@ -101,7 +107,9 @@ Pro zvýšení úspěšnosti odvykání kouření je z mé zkušenosti potřeba:
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -115,9 +123,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: kasel_a_typy_kasle
  [2]: rakovina_tlusteho_streva_a_konecniku

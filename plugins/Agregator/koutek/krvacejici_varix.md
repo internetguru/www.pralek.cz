@@ -5,7 +5,9 @@
 
 # Krvácení z křečové žíly dolní končetiny
 
-Krvácení z prasklé křečové žíly bývá vždy velmi dramatické. Větší ztrátě krve může zamezit jen správně poskytnutá první pomoc. {class="description" kw="krev, ranka, oděrka, ošetření rány, bércový vřed, krvácení, křečové žíly"}
+{kw="krev, ranka, oděrka, ošetření rány, bércový vřed, krvácení, křečové žíly"}
+
+Krvácení z prasklé křečové žíly bývá vždy velmi dramatické. Větší ztrátě krve může zamezit jen správně poskytnutá první pomoc.
 
 Jestliže je rozšířená a krví přeplněná žíla třeba jen drobně poraněna, krvácí tak, že z ní **krev stříká do dálky podobně jako z poraněné tepny**. Starší lidé často mívají [křečové žíly][1] _(varixy)_ v kombinaci s onemocněním srdce a cév, a pak chybí ke krvácení jen krůček.
 
@@ -13,7 +15,7 @@ Jestliže je rozšířená a krví přeplněná žíla třeba jen drobně poran�
 
 ## Příčina krvácení z křečové žíly
 
-n/a {class="description"}
+n/a
 
 Křečové žíly na jinak zdravé dolní končetině nikdy neprasknou a nekrvácejí. Mladý a jinak zdravý člověk s křečovými žílami se tedy nemusí krvácení obávat.
 
@@ -29,7 +31,7 @@ Starší a zvláště obézní lidé s onemocněním srdce bohužel mívají dol
 
 ## První pomoc při krvácení z prasklé křečové žíly
 
-n/a {class="description"}
+n/a
 
 Krvácení z naplněné žíly je vždy velmi dramatické. Stojící člověk s křečovými žílami (a tedy s nefunkčními chlopněmi) má totiž žíly dolních končetin natlakované krví. V případě třeba jen malého poškození takto natlakované žilní stěny dochází ke stříkání krve připomínající tepenné krvácení.
 
@@ -39,7 +41,7 @@ Ranka sama nemusí být ani vidět. **Tmavá krev však stříká do dálky i de
 
 ### Správně provedená první pomoc
 
-n/a {class="description"}
+n/a
 
 Pacienta je třeba nejprve položit a krvácející končetinu co nejvíce vyvýšit (podložit). Tím se přetlak krve v žíle uvolní. Rozšířená žíla zbavená přetlaku sama následně přestane krvácet.
 
@@ -49,19 +51,21 @@ Pak teprve je třeba vztyčenou končetinu o něco podepřít a jít přivolat p
 
 ### Nesprávný (leč bohužel obvyklý) postup při poskytování první pomoci
 
-n/a {class="description"}
+n/a
 
 Je logické, že zachránce (opatrovník, bohužel velmi často i zdravotník) chce krvácení co nejrychleji zastavit. Z žíly stříkající krev mu velmi připomíná tepenné krvácení. Proto se snaží končetinu nad ránou (tedy blíže k srdci) rychle zaškrtit a ránu šetrně zakrýt. Efekt nesprávné první pomoci je však oproti očekávání právě opačný.
 
 Zaškrcením oteklé a prosáklé nemocné končetiny pod kolenem se nepodaří uzavřít přívod krve tepnou. Zcela se však znemožní odtok krve žílami zpět do těla. Veškerá krev přiváděná do postižené končetiny tedy musí vytékat prasklou žílou do okolí nebo do obvazů. Krvácení je tedy stále velmi dramatické.
 
-Jakmile poučený zachránce dorazí na místo a uvolní zaškrcenou končetinu, rána ihned přestává krvácet. {class="important"}
+{class="important"}
+
+Jakmile poučený zachránce dorazí na místo a uvolní zaškrcenou končetinu, rána ihned přestává krvácet.
 
 {id="leceni\_krvacejici\_krecove_zily"}
 
 ## Léčení krvácející křečové žíly
 
-n/a {class="description"}
+n/a
 
 Zachránce odveze nyní již nekrvácejícího pacienta na chirurgickou ambulanci. Lékař zhodnotí stav a většinou postiženou žílu zašije. Do 14 dnů se rána zhojí bez jakýchkoli následků.
 
@@ -71,7 +75,9 @@ Po zhojení je třeba dále léčit dlouhodobě nemocné dolní končetiny, tedy
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -85,9 +91,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: krecove_zily
  [2]: bercovy_vred

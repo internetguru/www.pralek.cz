@@ -5,7 +5,9 @@
 
 # Rakovina prsu
 
-Boulička v prsu nemusí být vždy rakovina. Včasné lékařské vyšetření je nezbytnou podmínkou vyvrácení nebo potvrzení obávané diagnózy a zároveň povede k vyřešení problému. Čas vždy pracuje pro případný nádor. {class="description" kw="rakovina, prs, boulička, samovyšetřování prsů, metastázy, ozařování, chemoterapie, lymfatické uzliny, boulička v prsu, vpáčení bradavky"}
+{kw="rakovina, prs, boulička, samovyšetřování prsů, metastázy, ozařování, chemoterapie, lymfatické uzliny, boulička v prsu, vpáčení bradavky"}
+
+Boulička v prsu nemusí být vždy rakovina. Včasné lékařské vyšetření je nezbytnou podmínkou vyvrácení nebo potvrzení obávané diagnózy a zároveň povede k vyřešení problému. Čas vždy pracuje pro případný nádor.
 
 **Rakovina prsu je nejlépe léčitelnou rakovinou vůbec.** Aby však mohla být rakovina prsu léčena a vyléčena, musí být nejprve _včas zjištěna_. Preventivní prohlídky a samovyšetřování prsů jsou již díky osvětě všeobecně známé jevy. Preventivní lékařské vyšetření v rámci každého gynekologického vyšetření a v rámci každé hospitalizace je samozřejmostí. Brožurky s poučením o samovyšetřování prsů jsou k dispozici v čekárnách lékařů i v lékárnách.
 
@@ -15,7 +17,7 @@ Přesto se bohužel stále vyskytují lidé, kteří raději k lékaři nejdou. 
 
 ## Možnosti léčení rakoviny prsu
 
-n/a {class="description"}
+n/a
 
 Léčení rakoviny prsu spočívá nejčastěji v chirurgickém odstranění nádoru. Dle stádia onemocnění a typu nádoru musí být někdy [operace doplněna ozařováním nebo chemoterapií][3]. (Zvláště pak, je-li rakovina zjištěna v pozdějším stádiu vývoje.)
 
@@ -25,7 +27,7 @@ Všechny nádory nejsou stejně agresivní. Podle [stupně agresivity zhoubného
 
 ## Obava ze ztráty ženskosti ztrátou prsu
 
-n/a {class="description"}
+n/a
 
 Většinou se odstraňuje jen nádor nebo nádor jen s malou částí prsu. Jestli se musí výjimečně odstranit větší část prsu nebo celý prs, bude následně defekt ošetřen plastickým chirurgem a nahrazen implantátem.
 
@@ -35,7 +37,7 @@ Velmi často mají ženy strach z pooperační deformity. Ztrátu prsu vnímají
 
 ## Vývoj neléčené rakoviny prsu
 
-n/a {class="description"}
+n/a
 
 Rakovina prsu je zpočátku jen [nebolestivá boulička v prsu][1] jakékoli velikosti. Většinou se nemění v souvislosti s menstruačním cyklem. V případě neléčení se časem začne k nádoru stahovat kůže a **kůže má pak vzhled pomerančové kůry**. Mnohdy se nádor projeví i vpáčením bradavky. To znamená, že na zdravém prsu je normální bradavka, na postiženém prsu je bradavka trvale vpáčena pod úroveň bradavkového dvorce a po dobu onemocnění nad něj nevystupuje.
 
@@ -45,7 +47,9 @@ Neléčený nádor proroste dříve nebo později až na povrch prsu (může mí
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -59,9 +63,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: onemocneni_prsu
  [2]: mytus_o_rakovine

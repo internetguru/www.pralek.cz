@@ -5,7 +5,9 @@
 
 # Úrazy související s pádem z kola
 
-Typické úrazy po pádu z kola jsou různě hluboké plošné oděrky, tržné rány, pohmoždění hrudníku, břicha, kloubů a svalů a zlomeniny dlouhých kostí. Jednotlivé úrazy mají svá specifika, jsou-li způsobeny pádem z kola. {class="description" kw="úraz, zlomeniny, rány, pád z kola, plošná oděrka, pohmoždění hlavy, pohmoždění hrudníku, pohmoždění břicha, vyčištění rány"}
+{kw="úraz, zlomeniny, rány, pád z kola, plošná oděrka, pohmoždění hlavy, pohmoždění hrudníku, pohmoždění břicha, vyčištění rány"}
+
+Typické úrazy po pádu z kola jsou různě hluboké plošné oděrky, tržné rány, pohmoždění hrudníku, břicha, kloubů a svalů a zlomeniny dlouhých kostí. Jednotlivé úrazy mají svá specifika, jsou-li způsobeny pádem z kola.
 
 Pádu z kola nelze zcela předejít. Jistě však **lze jezdit riskantně nebo opatrně**. V zatáčce je možné předpokládat písek na cestě, při rychlé jízdě po silnici z kopce lze v zatáčce očekávat protijedoucí autobus, z pole může vyběhnout zajíc, zpoza zaparkovaných aut dítě… Helma, rukavice a chrániče mohou sice zabránit vzniku mnoha zranění, nepřetržitá ostražitost při jízdě na kole je však podmínkou zdárného dojetí do cíle. Obzvláště tehdy, je-li cyklista účastníkem silničního provozu.
 
@@ -15,7 +17,7 @@ Pádu z kola nelze zcela předejít. Jistě však **lze jezdit riskantně nebo o
 
 ## Plošné odřeniny a jejich závažnost
 
-n/a {class="description"}
+n/a
 
 Nejčastější úrazy související s pádem z kola jsou plošné odřeniny. Při pádu ve větší rychlosti jich bývá více na různých místech těla. Bývají [znečištěny (kontaminovány) mikroorganizmy][1] a nečistotami ze silnice.
 
@@ -27,7 +29,7 @@ Podle hloubky postižení a podle rozsahu mohou být oděrky různě závažné.
 
 ## Tržné rány (proražení kůže)
 
-n/a {class="description"}
+n/a
 
 Velmi časté úrazy v souvislosti s pády z kola jsou tržné rány. Nebývají mnohočetné, ale bývají kombinovány s oděrkami (výše). Nejčastěji vznikají nárazem na nějakou hranu, kámen nebo část kola.
 
@@ -41,7 +43,7 @@ Pro ošetřování tržných ran platí zásady podrobně popsané v jiných čl
 
 ## Pohmoždění hlavy, těla a končetin
 
-n/a {class="description"}
+n/a
 
 Vždy je třeba rozlišit prosté pohmoždění od závažného zranění, což mnohdy laicky není možné. K vyloučení závažnějších zranění bývá nutné lékařské vyšetření.
 
@@ -57,7 +59,7 @@ Vždy je třeba rozlišit prosté pohmoždění od závažného zranění, což 
 
 ## Zlomeniny kostí
 
-n/a {class="description"}
+n/a
 
 [Zlomeniny kostí][14] způsobené pádem z kola nejsou ničím odlišné od jiných zlomenin a přistupuje se k nim standardně. S přibývajícím věkem ztrácí kosti pružnost a stávají se křehčími. Starší lidé jsou při pádu navíc méně obratní. Na základě toho se dají nejčastější zlomeniny rozdělit:
 
@@ -69,11 +71,13 @@ n/a {class="description"}
 
 ## Poranění nohy vstrčením do drátů kola
 
-n/a {class="description"}
+n/a
 
 Noha vstrčená do drátů kola je zvláštní a bohužel velmi častý úraz malých dětí. Jedná se o **závažné oděrky, zhmožděniny a mnohdy i zlomeniny** dětských kostí. Zranění vždy vyžaduje vyšetření a ošetření na chirurgii včetně pořízení rentgenu, protože riziko poranění kosti je vysoké.
 
-Opatrovník veze malé dítě **bez pevných opěrek pro nohy** (na řidítkách, na nosiči, na štangli, případně na sedátku pro děti). Na každé nerovnosti dítě zavrávorá a při pokusu o vyrovnání rovnováhy může vstrčit nohu do drátů kola. Tím dojde k nepříjemnému poranění nejčastěji nohy, hlezna nebo paty. {class="example"}
+{class="example"}
+
+Opatrovník veze malé dítě **bez pevných opěrek pro nohy** (na řidítkách, na nosiči, na štangli, případně na sedátku pro děti). Na každé nerovnosti dítě zavrávorá a při pokusu o vyrovnání rovnováhy může vstrčit nohu do drátů kola. Tím dojde k nepříjemnému poranění nejčastěji nohy, hlezna nebo paty.
 
 Dítě by nemělo být nikdy vezeno na kole bez opěrek pro nohy. Moderní sedačky jsou konstruovány tak, aby k tomuto úrazu nemohlo dojít. Při objevení starého nevybaveného kola dítě touží po svezení (nejčastěji na návštěvě) a scénář úrazu je nasnadě.
 
@@ -81,7 +85,9 @@ Dítě by nemělo být nikdy vezeno na kole bez opěrek pro nohy. Moderní seda�
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -95,9 +101,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: mikroorganizmy
  [2]: odreniny_neboli_oderky

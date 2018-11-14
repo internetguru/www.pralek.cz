@@ -5,13 +5,15 @@
 
 # Spolknuté nebezpečné a ostré předměty
 
-Spolknutý ostrý předmět většinou nezpůsobí žádné potíže a bez problémů projde zažívacím traktem. Potíže může způsobit spíše větší předmět, který nemusí projít zúženými místy zažívacího traktu. Nejzávažnější poranění způsobí spolknutá kyselina nebo zásada. {class="description" kw="polykání, poranění, krk, jícen, spolknuté velké sousto, slinění, endoskop, spolknutá náušnice, spolknutá baterie, spolknutá mince, spolknutí kyseliny, spolknutí zásady"}
+{kw="polykání, poranění, krk, jícen, spolknuté velké sousto, slinění, endoskop, spolknutá náušnice, spolknutá baterie, spolknutá mince, spolknutí kyseliny, spolknutí zásady"}
+
+Spolknutý ostrý předmět většinou nezpůsobí žádné potíže a bez problémů projde zažívacím traktem. Potíže může způsobit spíše větší předmět, který nemusí projít zúženými místy zažívacího traktu. Nejzávažnější poranění způsobí spolknutá kyselina nebo zásada.
 
 {id="spolknute\_ostre\_predmety\_vetsinou\_potize_nezpusobi"}
 
 ## Spolknuté ostré předměty většinou potíže nezpůsobí
 
-n/a {class="description"}
+n/a
 
 Ostré předměty mohou poranit při kousání jazyk a dutinu ústní. To se stává výjimečně. Při mělnění potravy jsou totiž záhy zjištěny a se stravou vyplivnuty. Eventuelní poranění ústní dutiny nebývá vážné.
 
@@ -23,7 +25,7 @@ Při polykání mohou ostré předměty poranit krk nebo jícen. Známé je pora
 
 ## Spolknuté velké sousto může uvíznout v jícnu
 
-n/a {class="description"}
+n/a
 
 Mnohem **závažnější je spolknutí velkého sousta**. Špatně rozmělněné sousto nedostatečně promísené slinami může [uvíznout v jícnu][1]. Typicky to bývá suchý včerejší rohlík nebo kus masa. Vzniklá bolest je nejprve pálivá, je doprovázena sliněním. Po určité době se sousto většinou uvolní a sklouzne do žaludku. K tomu většinou pomůže doušek vody.
 
@@ -33,13 +35,15 @@ Jestliže se sousto neuvolní, přetrvává tlak za hrudní kostí a nadměrné 
 
 Spolknutí mince je rovněž u dětí velmi časté. Do velikosti průměru 23 milimetrů (pětikoruna) většinou projdou traktem. Větší **mince může uvíznout v žaludku**; neprojde do střeva. Pak je nutné ji odstranit endoskopicky (popsáno výše). Další místo, kde může mince uvíznout, je [přechod z tenkého do tlustého střeva][1]. Vyjde-li však ze žaludku, bývá její postup podporován zbytkovou stravou a běžně odejde se stolicí rovněž bez komplikací.
 
-[Ucpání střeva][2] spíše způsobí velké množství spolykaných drobných jadérek, různých suchých semínek, pecek nebo tuhé dužiny pomerančů. {class="important"}
+{class="important"}
+
+[Ucpání střeva][2] spíše způsobí velké množství spolykaných drobných jadérek, různých suchých semínek, pecek nebo tuhé dužiny pomerančů.
 
 {id="spolknuti\_kyseliny\_nebo_zasady"}
 
 ## Spolknutí kyseliny nebo zásady
 
-n/a {class="description"}
+n/a
 
 **Spolknutí silné kyseliny je velmi závažné poranění.** Poleptáním jícnu kyselinou vznikají nenapravitelné škody (v nejlepším případě zúžení jícnu). [V žaludku již kyselina nevadí][1] – žaludek je na kyselinu zvyklý. Jako první pomoc je třeba kyselinu ředit nebo šetrně neutralizovat a **nikdy nevyvolávat zvracení** (nové poleptání jícnu).
 
@@ -47,7 +51,9 @@ n/a {class="description"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -62,9 +68,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: stravovaci_navyky
  [2]: strevni_nepruchodnost

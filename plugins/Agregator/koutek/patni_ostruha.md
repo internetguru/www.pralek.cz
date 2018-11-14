@@ -5,7 +5,9 @@
 
 # Bolest paty: patní ostruha
 
-Patní ostruha je zkostnatělý výrůstek patní kosti v místě úponu vazu. Léčení počátečních příznaků nemoci je snadné. U plně vyvinutého onemocnění jsou nutné složitější léčebné metody. {class="description" kw="patní ostruha, bolest paty, patní kost, onemocnění šlach, úpon vazu, vápník, kostěný výrůstek, fyzikální terapie, ultrazvuk, obstřik šlachy, rázová vlna, rentgenové ozařování"}
+{kw="patní ostruha, bolest paty, patní kost, onemocnění šlach, úpon vazu, vápník, kostěný výrůstek, fyzikální terapie, ultrazvuk, obstřik šlachy, rázová vlna, rentgenové ozařování"}
+
+Patní ostruha je zkostnatělý výrůstek patní kosti v místě úponu vazu. Léčení počátečních příznaků nemoci je snadné. U plně vyvinutého onemocnění jsou nutné složitější léčebné metody.
 
 Patní ostruha _(exostosis calcanei)_ vzniká jako **následek dlouhodobého přetěžování stáním nebo sportem**, obzvlášť v kombinaci [s nevhodnou obuví][1]. Přetěžování je i příčinou [onemocnění ostatních šlach][2] a jejich úponů ke kostem.
 
@@ -15,7 +17,7 @@ Ostruha se může vytvořit pod patou uprostřed nohy, na vnitřní nebo zevní 
 
 ## Vývoj a projevy patní ostruhy
 
-n/a {class="description"}
+n/a
 
   1. Při vzniku ostruhy se jedná zpočátku jen o [bolesti paty][3] v souvislosti se zátěží.
       * Bolí přetížený úpon vazu.
@@ -30,7 +32,7 @@ n/a {class="description"}
 
 ## Léčení prvotních projevů patní ostruhy
 
-n/a {class="description"}
+n/a
 
 Již při prvních projevech onemocnění je vhodné podstoupit [chirurgické nebo ortopedické][5] vyšetření včetně rentgenu paty. Typická je bolestivost nejvíce ráno (než se noha „rozchodí“), nebo naopak bolest po námaze, třeba i večer v klidu. Na rentgenu zatím není žádný nález, ale už se dá usoudit, že vzniká patní ostruha.
 
@@ -41,13 +43,15 @@ Již při prvních projevech onemocnění je vhodné podstoupit [chirurgické ne
 
 ## Léčení plně rozvinuté patní ostruhy
 
-n/a {class="description"}
+n/a
 
 V případě, že pacient vyhledá odborného lékaře až **s plně vyvinutou ostruhou, bude léčení svízelnější**. Vyšetření a rentgen vyvinutou patní ostruhu prokáže. Lze vyzkoušet metody léčení popsané výše. Jejich efekt však nyní již nemusí být dostatečný.
 
   * Je namístě užití nejrůznějších ortopedických vložek a jiných ortopedických pomůcek k odlehčení bolestivých míst. Správně vedená rehabilitace může zcela zbavit pacienta potíží.
 
-Například mohou potíže ustoupit napravením chybného stereotypu chůze (uvolněním páteře), pokud vnik ostruhy způsobil. Ostruha tím nezmizí, ale pacient může bezbolestně chodit. {class="example"}
+{class="example"}
+
+Například mohou potíže ustoupit napravením chybného stereotypu chůze (uvolněním páteře), pokud vnik ostruhy způsobil. Ostruha tím nezmizí, ale pacient může bezbolestně chodit.
 
   * Moderní a účinnou metodou léčení ostruhy je ultrazvuková rázová vlna vytvářená zvláštním přístrojem, který vlastní mnohá pracoviště.
   * Rentgenové ozařování odstraní z bolestivého úponu [aseptický zánět][7] a tedy i bolest. Nebolestivá ostruha však nezmizí.
@@ -57,7 +61,7 @@ Například mohou potíže ustoupit napravením chybného stereotypu chůze (uvo
 
 ## Prevence bolesti pat správnou péčí o nohy
 
-n/a {class="description"}
+n/a
 
 Předcházet bolestem pat a nohou lze správnou péčí o nohy – vhodnou obuví, procvičováním a masírováním nohou. Vždy je nutné upravit vadné postavení nohou správnými _ortopedickými pomůckami_ nebo fyzioterapií.
 
@@ -65,7 +69,9 @@ Předcházet bolestem pat a nohou lze správnou péčí o nohy – vhodnou obuv�
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -79,9 +85,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: vhodna_obuv
  [2]: onemocneni_slach

@@ -5,7 +5,9 @@
 
 # Žaludeční potíže: bolest žaludku
 
-Správnou životosprávou lze předejít vzniku různých onemocnění žaludku včetně žaludečního vředu. Žaludeční problémy souvisí často se stresem. Podmínkami zažívací pohody jsou zvládnutí vlastní psychiky a správné stravovací návyky. {class="description" kw="žaludek, stres, trávicí soustava, pálení žáhy, kýla, zánět žaludku, zánět střeva, zánět žaludku a střeva, gastroenteritida, křeče v břiše, průjem, tenezmy, vyšetření žaludku, gastroskopie"}
+{kw="žaludek, stres, trávicí soustava, pálení žáhy, kýla, zánět žaludku, zánět střeva, zánět žaludku a střeva, gastroenteritida, křeče v břiše, průjem, tenezmy, vyšetření žaludku, gastroskopie"}
+
+Správnou životosprávou lze předejít vzniku různých onemocnění žaludku včetně žaludečního vředu. Žaludeční problémy souvisí často se stresem. Podmínkami zažívací pohody jsou zvládnutí vlastní psychiky a správné stravovací návyky.
 
 Žaludek je součást trávící soustavy přímo navazující na jícen. Je uložen v nadbřišku v horní části břicha, uprostřed mezi dolním koncem hrudníku a pupkem. Slouží k dočasnému uložení spolykané potravy a k jejímu promísení hlavně s kyselinou solnou (HCl), která se tvoří v žaludeční stěně. V žaludku pokračuje trávicí proces započatý v ústech.
 
@@ -15,7 +17,7 @@ Existuje přímá souvislost mezi žaludečními potížemi a psychikou (strach,
 
 ## Pálení žáhy
 
-n/a {class="description"}
+n/a
 
 Pálení žáhy je způsobeno **průnikem žaludečního obsahu zpět do dolní části jícnu**. V jícnu pak kyselina pálí (na rozdíl od žaludku, který je na kyselinu uzpůsobený). Žaludek reaguje na nedostatek žaludečních šťáv jejich zvýšenou tvorbou.
 
@@ -33,7 +35,7 @@ Opakované dlouhodobé pálení žáhy po různých jídlech bývá spojeno se z
 
 ## Bolest žaludku se zvracením, teplotou a průjmem
 
-n/a {class="description"}
+n/a
 
 Prudký [zánět žaludku a střeva][3] _(akutní gastroenteritida)_ začíná většinou zvracením, na které navazují průjmy. [Bakteriální][4] zánět žaludku (projevuje se zvracením) bývá spojen s bakteriálním zánětem střeva (projevuje se průjmem). Onemocnění trvá většinou několik dnů.
 
@@ -63,7 +65,9 @@ Určité období vývoje chronické gastritidy může být dokonce zcela bezpř�
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -77,9 +81,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: stravovaci_navyky
  [2]: funkcni_poruchy_traveni

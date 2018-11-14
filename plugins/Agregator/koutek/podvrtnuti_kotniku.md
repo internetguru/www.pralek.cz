@@ -5,7 +5,9 @@
 
 # Podvrtnutí kotníku
 
-Jedná se o častý úraz převážně mladých lidí a sportovců. Panují však nejasnosti v tom, zda a kdy vyhledat lékařské vyšetření a existují různé možnosti léčení. {class="description" kw="podvrtnutí, vyvrtnutí, zvrtnutí, distorze, kotník, výron, vymknutí, hlezno, léčení, rozcvičení, ortéza, sádrová chodička, sádrová fixace, plastová fixace"}
+{kw="podvrtnutí, vyvrtnutí, zvrtnutí, distorze, kotník, výron, vymknutí, hlezno, léčení, rozcvičení, ortéza, sádrová chodička, sádrová fixace, plastová fixace"}
+
+Jedná se o častý úraz převážně mladých lidí a sportovců. Panují však nejasnosti v tom, zda a kdy vyhledat lékařské vyšetření a existují různé možnosti léčení.
 
 Nejčastěji dochází k úrazu **při nadměrném nebo nečekaném násilí** na nohu (noha je část dolní končetiny od kotníků po konce prstů) v pravolevém směru. Někdy stačí **nečekaná překážka**, která překvapí (kraj chodníku, výmol, obrubník). Další častou příčinou bývá **neřízený pád či hrubé násilí** (například při dopravní nehodě), které mohou působit kterýmkoli směrem.
 
@@ -13,13 +15,15 @@ Nejčastěji dochází k úrazu **při nadměrném nebo nečekaném násilí** n
 
 ## Typy podvrtnutí kotníků a názvosloví
 
-n/a {class="description"}
+n/a
 
 Nejčastěji dochází k zatlačení nohy směrem pod vnitřní kotník. Tím se může poranit (pouze natáhnout nebo prasknout) kloubní pouzdro a někdy i vaz pod zevním kotníkem. Takový úraz se nazývá podvrtnutí, vyvrtnutí nebo zvrtnutí nebo odborně **_distorze_ zevního kotníku**.
 
 Jestliže násilí působí opačně (tlačí nohu pod zevní kotník), pak se poraní kloubní pouzdro nebo vazy pod vnitřním kotníkem. Stav je označován jako podvrtnutí, zvrtnutí, vyvrtnutí nebo **_distorze_ vnitřního kotníku**.
 
-Často se zvrtnutí nesprávně laicky označuje jako _podvrknutí kotníku_, _vyvrknutí kotníku_ či _zvrknutí kotníku_. {class="example"}
+{class="example"}
+
+Často se zvrtnutí nesprávně laicky označuje jako _podvrknutí kotníku_, _vyvrknutí kotníku_ či _zvrknutí kotníku_.
 
 Větší násilí může poranit hlezno oboustranně. Jedná se o závažnější úraz, rychle nastupuje otok a brzy se ukazuje i krevní výron. Stav je označován jako **podvrtnutí, zvrtnutí nebo vyvrtnutí obou kotníků** (hlezna). Laicky bývá také označován jako „výron“. Vzhledem k nestabilitě kloubu lze mluvit i o **vymknutí hlezna** – _hlezenného kloubu_.
 
@@ -35,7 +39,7 @@ Kloub je udržován ve správném postavení pevným kloubním pouzdrem a velmi 
 
 ## Projevy a diagnóza podvrtnutí kotníku
 
-n/a {class="description"}
+n/a
 
 Podvrtnutí zevního (resp. vnitřního) kotníku se projevuje bolestí pod zevním (resp. vnitřním) kotníkem. Vlastní kotník nebolí. Může dojít k otoku a může se tvořit krevní výron v místě bolesti. V případě vážnějšího poranění obou kotníků s nestabilitou kloubu je bolestivost pod oběma kotníky i před nimi na nártu. Poraněný není schopen chůze.
 
@@ -47,13 +51,15 @@ S vyhledáním odborného vyšetření lze [vyčkat na vhodnou dobu][2]. Nejlép
 
 ## Možnosti léčení podvrtnutého kotníku
 
-n/a {class="description"}
+n/a
 
 Trenér pří úrazu hlezna doporučí **léčení rozcvičením**. Svým způsobem má pravdu. Skutečně po krátkodobém zklidnění dojde rozcvičením k rychlému ústupu potíží. Kloubní pouzdro a vazy však zůstanou volnější, větší než byly původně a tím je kloub méně stabilní. Lze tedy předpokládat, že dojde k opakování (recidivě) úrazu při každé sebemenší příležitosti.
 
 Jiná možnost je **přiložení ortézy**. Ortéza limituje pohyb hlezna v požadovaném směru, umožňuje však hybnost ve směru kolmém a umožňuje zatěžování kloubu. Tím se rovněž urychluje léčení poraněných měkkých tkání a urychlí se návrat ke sportu.
 
-Dlouhodobé [preventivní nošení ortézy][3] je však sporné. V případě běžné zátěže nahrazuje ortéza oslabený vaz a ten proto nesílí a nezpevňuje se. V případě nadměrného násilí nebo nečekaného úrazu nezabrání ortéza recidivě. {class="example"}
+{class="example"}
+
+Dlouhodobé [preventivní nošení ortézy][3] je však sporné. V případě běžné zátěže nahrazuje ortéza oslabený vaz a ten proto nesílí a nezpevňuje se. V případě nadměrného násilí nebo nečekaného úrazu nezabrání ortéza recidivě.
 
 **Pevná fixace** (sádrová chodička nebo plastová fixace) na 6 týdnů však zajistí pevné zhojení kloubního pouzdra i vazů v původním postavení a po následném rozcvičení lze očekávat plnohodnotné zhojení bez následků a s mnohem menším rizikem opětovného úrazu než bylo popsáno výše. Pevnou fixaci je dobré přiložit až po sejití otoku tedy asi 3 dny po úrazu.
 
@@ -61,7 +67,9 @@ Dlouhodobé [preventivní nošení ortézy][3] je však sporné. V případě b�
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -75,9 +83,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: zlomeniny_kosti
  [2]: nalehavost_lekarskeho_vysetreni

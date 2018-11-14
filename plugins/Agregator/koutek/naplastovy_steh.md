@@ -5,7 +5,9 @@
 
 # Ošetření kožní rány náplasťovým stehem
 
-Kožní ránu lze po ošetření zafixovat náplasťovým stehem. Náplasťový steh může v takovém případě plnohodnotně nahradit klasický chirurgický steh (který zanechává jizvu) nebo plastický steh (který nelze použít vždy). {class="description" kw="rána, chirurgický steh, náplasťový steh, mašlička, steri strip, rána v kůži, zející rána, zalepení rány, ošetření rány, vyčištění rány"}
+{kw="rána, chirurgický steh, náplasťový steh, mašlička, steri strip, rána v kůži, zející rána, zalepení rány, ošetření rány, vyčištění rány"}
+
+Kožní ránu lze po ošetření zafixovat náplasťovým stehem. Náplasťový steh může v takovém případě plnohodnotně nahradit klasický chirurgický steh (který zanechává jizvu) nebo plastický steh (který nelze použít vždy).
 
 Náplasťový steh je plnohodnotná alternativa k zašití rány (nahrazuje chirurgický nebo plastický steh). Podmínkou pro funkční přiložení náplasťového stehu je [zástava krvácení][1]. Je velmi vhodný u dlouhých nitrokožních zejících ran ([hluboké škrábance způsobené ostrým předmětem][2]).
 
@@ -23,7 +25,7 @@ Laické překrytí celé rány náplastí nebo obvazem vede k uvolnění okrajů
 
 ## Aplikace náplasťového stehu
 
-n/a {class="description"}
+n/a
 
 Náplasťový steh prochází kolmo přes ránu v jednom bodě (s ohledem na pnutí kůže). V případě nejasností je možné přiložit více náplasťových stehů, které všechny procházejí ránou v jediném bodě. Pokud je rána delší, lze přiložit více náplasťových stehů vedle sebe.
 
@@ -44,7 +46,7 @@ Přilnavost moderních náplastí je výborná, na kůži drží pevně, jsou ne
 
 ## Kterou ránu ošetřit náplasťovým stehem
 
-n/a {class="description"}
+n/a
 
 Pro ošetření náplasťovým stehem jsou vhodné kožní rány, které jsou po dobu hojení v klidu. Naopak nevhodná místa k aplikaci náplasťového stehu jsou:
 
@@ -62,7 +64,9 @@ Podmínkou úspěšného zhojení rány pomocí náplasťového stehu je vylouč
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -76,9 +80,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: drobna_krvava_poraneni
  [2]: bodne_a_strelne_poraneni

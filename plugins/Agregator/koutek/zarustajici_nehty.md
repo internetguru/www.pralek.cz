@@ -5,7 +5,9 @@
 
 # Zarůstající nehty na palcích dolních končetin
 
-Zarůstání nehtů je časté bolestivé onemocnění vzniklé špatným zastřižením nehtu. Řešením je odstranění zánětu a jeho prevence. K úplnému zhojení dojde až tehdy, když zastřižený nehet doroste na správné místo. {class="description" kw="nehty, zarůstající nehty, úraz nehtu, palce nohou, nehtový val, bolest, zarudnutí palce, zvětšení nehtového valu, zánět, koupele, betadine roztok, heřmánek, operace, plastika nehtu"}
+{kw="nehty, zarůstající nehty, úraz nehtu, palce nohou, nehtový val, bolest, zarudnutí palce, zvětšení nehtového valu, zánět, koupele, betadine roztok, heřmánek, operace, plastika nehtu"}
+
+Zarůstání nehtů je časté bolestivé onemocnění vzniklé špatným zastřižením nehtu. Řešením je odstranění zánětu a jeho prevence. K úplnému zhojení dojde až tehdy, když zastřižený nehet doroste na správné místo.
 
 Příčinou zarůstání nehtů bývá **špatně provedená toaleta (zastřižení) nebo výjimečně úraz nehtu**. Nehty na prstech nohou musí být ošetřeny tak, aby tlakem boty nebo vedlejšího prstu nemohl být ostrým rohem nehtu zraňován nehtový val. Ostrý roh vznikne nesprávným zapilováním nebo zastřižením okraje nehtu do obloučku odstraněním původního rohu nehtu, který z palce vyčníval. Roh nehtu je tím nesprávně ukryt v nehtovému valu. Podél nehtu se do poraněného nehtového valu dostávají [mikroorganizmy a vyvíjí se zánět][1].
 
@@ -15,7 +17,7 @@ Příčinou zarůstání nehtů bývá **špatně provedená toaleta (zastřiže
 
 ## Vývoj a projevy zarůstání nehtů
 
-n/a {class="description"}
+n/a
 
 Zánět začíná bolestí na konci nehtového valu palce a postupně se může rozšířit po celém valu. V případě neléčení může přejít do zánětu celého posledního článku postiženého prstu včetně zánětu pod nehtem a zánětu kosti.
 
@@ -33,7 +35,7 @@ Jako komplikace se mohou vyskytnout i celkové známky zánětu se zánětem lym
 
 ## Řešení zarůstajících nehtů
 
-n/a {class="description"}
+n/a
 
   1. První fáze léčení spočívá v potlačení zánětu:
       1. **Hypermanganová nebo betadinová koupel** (ve vlažné vodě s příměsí zvolené desinfekce) působí protizánětlivě a lze ji provádět svépomocí. Roztok hypermanganu musí být slabě růžový. Při koupeli je třeba odtlačovat bolestivý nehtový val od nehtu, aby tam mohla desinfekce proniknout. Koupel je vhodné provádět 2krát denně po dobu asi 2 minut.
@@ -42,13 +44,17 @@ n/a {class="description"}
 
 Při nezdaru zmíněných metod léčby je v určité fázi zánětu možno přistoupit k operaci; tzv. **plastika nehtu nebo nehtového valu**.
 
-Nevhodná manipulace nůžkami pod nehtový val vede opakovaně ke [vzplanutí infekce][1] i po opakovaných plastických operacích. **Úplné zhojení zarůstajícího nehtu** nastane tehdy, když okraj nehtu doroste tak daleko, aby nemohlo docházet k dalšímu poraňování nehtového valu. {class="important"}
+{class="important"}
+
+Nevhodná manipulace nůžkami pod nehtový val vede opakovaně ke [vzplanutí infekce][1] i po opakovaných plastických operacích. **Úplné zhojení zarůstajícího nehtu** nastane tehdy, když okraj nehtu doroste tak daleko, aby nemohlo docházet k dalšímu poraňování nehtového valu.
 
 {id="otazky" var="inputvar-otazky_h"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -61,9 +67,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: mikroorganizmy
  [2]: lecba_zanetu

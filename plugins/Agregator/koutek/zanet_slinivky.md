@@ -5,14 +5,18 @@
 
 # Prudký zánět slinivky břišní: akutní pankreatitida
 
-Prudký zánět slinivky břišní je závažné život ohrožující onemocnění. Vzniká nejčastěji v návaznosti na přejedení nevhodnou kombinací jídel (a tvrdého alkoholu). {class="description" kw="zánět, slinivka břišní, pankreatitida, pancreatitis acuta, pankreas, žláza, trávicí soustava, glukagon, inzulín, trávicí šťáva, trávicí enzymy, obstrukce vývodu žlučových cest, bolesti břicha"}
+{kw="zánět, slinivka břišní, pankreatitida, pancreatitis acuta, pankreas, žláza, trávicí soustava, glukagon, inzulín, trávicí šťáva, trávicí enzymy, obstrukce vývodu žlučových cest, bolesti břicha"}
+
+Prudký zánět slinivky břišní je závažné život ohrožující onemocnění. Vzniká nejčastěji v návaznosti na přejedení nevhodnou kombinací jídel (a tvrdého alkoholu).
 
 Slinivka břišní _(pancreas)_ je důležitá [žláza trávicí soustavy][1] a má dvojí funkci:
 
   1. vyplavování důležitých hormonů do krve – _vnitřně-sekretorická funkce_ (nejznámější hormon je [inzulín][2] a glukagon),
   2. vyplavování trávicích šťáv do dvanácterníku – _zevně-sekretorická funkce_. Ve slinivce se tvoří neaktivní trávicí šťáva, jejíž enzymy (nejznámější je trypsin) se za normálních podmínek aktivizují teprve ve střevě po styku s tráveným pokrmem.
 
-Název slinivky břišní je poněkud zavádějící, protože **slinivka břišní** nemá nic společného se slinami a není uložena v břiše. {class="example"}
+{class="example"}
+
+Název slinivky břišní je poněkud zavádějící, protože **slinivka břišní** nemá nic společného se slinami a není uložena v břiše.
 
 Slinivka břišní je uložena vzadu za dutinou břišní mezi žaludkem, páteří a velkými cévami. Tím je velmi dobře chráněna před poraněním při úrazu.
 
@@ -20,7 +24,7 @@ Slinivka břišní je uložena vzadu za dutinou břišní mezi žaludkem, páte�
 
 ## Formy zánětlivých onemocnění slinivky břišní
 
-n/a {class="description"}
+n/a
 
 Pro slinivku jsou charakteristické dvě formy zánětu:
 
@@ -31,7 +35,7 @@ Pro slinivku jsou charakteristické dvě formy zánětu:
 
 ## Příčiny zánětu slinivky břišní
 
-n/a {class="description"}
+n/a
 
   * Nejčastěji nastává **zhoubnou kombinací velkého množství těchto jídel**:
       * jitrnice (vepřové hody),
@@ -45,7 +49,9 @@ n/a {class="description"}
   * a [infekce][6] slinivky.
   * Zcela výjimečně může být uzavřen vývod slinivky slinivkovým kamenem.
 
-Tryptická pankreatitida je velmi závažné onemocnění, končící bohužel v 50 % případů fatálně. {class="important"}
+{class="important"}
+
+Tryptická pankreatitida je velmi závažné onemocnění, končící bohužel v 50 % případů fatálně.
 
 Rizikové faktory vzniku netryptických zánětů slinivky jsou:
 
@@ -61,19 +67,21 @@ Rizikové faktory vzniku netryptických zánětů slinivky jsou:
 
 ## Projevy prudkého zánětu slinivky břišní
 
-n/a {class="description"}
+n/a
 
 Potíže začínají krutými bolestmi v nadbřišku nebo v levém podžebří, často vyzařují do zad nebo do levého ramene a rychle se šíří po celém břiše. [Bolest se stupňuje][10], stává se nesnesitelnou. Bolest je provázena zvracením, které však nepřináší úlevu. Časté je [škytání, nevolnost, pocit zástavy plynů a stolice][11].
 
 Nemocný je zchvácený, má rychlý pulz, zrychleně dýchá, má horečku a mívá změněné chování (často je agresivní). Takto nemocný člověk může zemřít během několika hodin.
 
-[Okamžité vyhledání lékařského ošetření][12] zvyšuje pacientovi šanci na přežití. Pobyt v nemocnici je bezpodmínečně nutný. Podobně se může projevovat [počínající střevní neprůchodnost][13]. {class="important"}
+{class="important"}
+
+[Okamžité vyhledání lékařského ošetření][12] zvyšuje pacientovi šanci na přežití. Pobyt v nemocnici je bezpodmínečně nutný. Podobně se může projevovat [počínající střevní neprůchodnost][13].
 
 {id="leceni\_akutni\_trypticke_pankreatitidy"}
 
 ## Léčení akutní tryptické pankreatitidy
 
-n/a {class="description"}
+n/a
 
 První podmínkou úspěšné léčby je nic nejíst ani nepít (jako u všech náhlých břišních příhod). Vše potřebné (všechny léky, výživu i tekutiny) dostává pacient [nitrožilně][14], včetně [léků proti bolesti][15]. Pacient je uložen na jednotce intenzivní péče (JIP), kde jsou monitorovány všechny jeho životní funkce.
 
@@ -88,7 +96,9 @@ Jako následek devastujícího zánětu slinivky břišní se často objeví [cu
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -102,9 +112,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: stravovaci_navyky
  [2]: cukrovka

@@ -5,7 +5,9 @@
 
 # (Ne)závažnost strnutí šíje
 
-Náhle vzniklé strnutí šíje je nepříjemné, dramaticky vyhlížející, ale zcela nezávažné a dobře léčitelné onemocnění krku. Nejčastěji postihuje děti školního věku a mladé lidi. {class="description" kw="torticollis, strnutí šíje, akutní torticollis, zkroucený krk, zatěžování páteře, léky, bolest"}
+{kw="torticollis, strnutí šíje, akutní torticollis, zkroucený krk, zatěžování páteře, léky, bolest"}
+
+Náhle vzniklé strnutí šíje je nepříjemné, dramaticky vyhlížející, ale zcela nezávažné a dobře léčitelné onemocnění krku. Nejčastěji postihuje děti školního věku a mladé lidi.
 
 Torticollis neboli strnutí šíje nebo zkroucení krku je onemocnění, při kterém dochází ke stočení hlavy k jedné straně. Bývá doprovázené bolestivým stažením svalů na jedné straně krku. Člověk postižený strnutím šíje bývá vyděšený a těžko se orientuje v mnoha popisovaných formách jeho problému na internetu.
 
@@ -15,7 +17,7 @@ Strnutí šíje má dvě formy, které mají společný projev a různou závaž
 
 ## Nástup a možné příčiny náhle vzniklého strnutí šíje
 
-n/a {class="description"}
+n/a
 
 Náhle vzniklé strnutí šíje je onemocnění především dětí školního věku a mladých lidí. Zcela zdravý člověk večer spokojeně uléhá ke spánku a ráno se probouzí s bolestivě zkrouceným krkem. Krk nelze narovnat, nelze jím ani pohnout.
 
@@ -32,19 +34,21 @@ Příčina vzniku onemocnění většinou není známa. Někdy ji však lze hled
 
 ## Léčení náhle vzniklého strnutí šíje
 
-n/a {class="description"}
+n/a
 
 Cílem léčby je zmírnit bolest a co nejrychleji snížit svalovou ztuhlost. Na krk je nutné přiložit suchý teplý obklad (například vyhřátou šálu) a krk ponechat ve vynucené poloze až do ústupu bolestí. Lze užít libovolné [léky proti bolesti][1]. Teprve po zmírnění bolestí lze postupně [krk začít rozcvičovat][2].
 
 Takto vedená léčba odstraní problém během několika dnů; vždy nejpozději do týdne. **U dětí je možné se tímto postupem často zcela vyhnout použití léků.** Onemocnění nezanechává žádné trvalé následky a vracívá se jen zcela výjimečně.
 
-Zásadní chybou při neodborném ošetřování je časná horká koupel nebo sprcha, která stav vždy jen zhorší. Rovněž časné rozcvičování nebo pokus o časné rozmasírování vede jen ke zbytečnému trápení pacienta. **Léčení je vždy nutné začít zklidněním a prohříváním suchým teplem!** Teprve pak může následovat šetrné rozcvičování. {class="example"}
+{class="example"}
+
+Zásadní chybou při neodborném ošetřování je časná horká koupel nebo sprcha, která stav vždy jen zhorší. Rovněž časné rozcvičování nebo pokus o časné rozmasírování vede jen ke zbytečnému trápení pacienta. **Léčení je vždy nutné začít zklidněním a prohříváním suchým teplem!** Teprve pak může následovat šetrné rozcvičování.
 
 {id="ostatni\_formy\_strnuti_sije"}
 
 ## Ostatní formy strnutí šíje
 
-n/a {class="description"}
+n/a
 
 Neakutní formy strnutí šíje jsou závažná ortopedická onemocnění. Většinou jsou obtížně léčitelné. **Nemají nic společného s akutním strnutím šíje**; pouze se podobně nazývají.
 
@@ -63,7 +67,9 @@ Strnutím šíje mohou trpět i novorozenci _(novorozenecký torticollis)_. V ta
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -77,9 +83,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: leky_proti_bolesti
  [2]: bolesti_v_zadech_houser

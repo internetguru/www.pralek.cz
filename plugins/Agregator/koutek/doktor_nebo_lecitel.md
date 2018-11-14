@@ -5,19 +5,25 @@
 
 # Doktor nebo léčitel: koho kdy vyhledat a komu věřit
 
-Při rozhodování, zda vyhledat lékaře nebo léčitele, platí zásada, že nejprve musí lékař řádně vyšetřit pacienta. V případě, že je dnešní věda na chorobu krátká, je možné vyhledat léčitele a doufat, že se mu podaří navrátit pacientovi ztracené zdraví. {class="description" kw="doktor, lékař, léčitel, alternativní medicína, léčitelská praxe, pověst léčitele"}
+{kw="doktor, lékař, léčitel, alternativní medicína, léčitelská praxe, pověst léčitele"}
 
-Nejhorší situace nastane tehdy, když se pacient vydá [s neurčitými příznaky onemocnění][1] k nevzdělanému a nesoudnému léčiteli. Zde při opakovaných sezeních ubíhá bez efektu čas a při pozdějším [výskytu komplikací][1] již nemusí být pacientovi pomoci. Doba vhodná k vyléčení jeho nemoci již byla promarněna. A to se bohužel stává. {class="example"}
+Při rozhodování, zda vyhledat lékaře nebo léčitele, platí zásada, že nejprve musí lékař řádně vyšetřit pacienta. V případě, že je dnešní věda na chorobu krátká, je možné vyhledat léčitele a doufat, že se mu podaří navrátit pacientovi ztracené zdraví.
+
+{class="example"}
+
+Nejhorší situace nastane tehdy, když se pacient vydá [s neurčitými příznaky onemocnění][1] k nevzdělanému a nesoudnému léčiteli. Zde při opakovaných sezeních ubíhá bez efektu čas a při pozdějším [výskytu komplikací][1] již nemusí být pacientovi pomoci. Doba vhodná k vyléčení jeho nemoci již byla promarněna. A to se bohužel stává.
 
 {id="vedecky\_pristup\_k_nemoci"}
 
 ## Vědecký přístup k nemoci
 
-n/a {class="description"}
+n/a
 
 Zda je jedinou možností řešení chorob dnešní „západní“ medicína nebo i alternativní medicíny či léčitelé, to zatím nikdo neví.
 
-Současný vědecký výklad lidského těla a medicíny je na úrovni vědy z počátku 21. století a je nesrovnatelný s přístupem k nemoci před 50, 100 nebo 200 lety. Stejně tak je dnešní přístup nesrovnatelný s přístupem v budoucnu, za 100 nebo 200 let. {class="example"}
+{class="example"}
+
+Současný vědecký výklad lidského těla a medicíny je na úrovni vědy z počátku 21. století a je nesrovnatelný s přístupem k nemoci před 50, 100 nebo 200 lety. Stejně tak je dnešní přístup nesrovnatelný s přístupem v budoucnu, za 100 nebo 200 let.
 
 Je naprosto jisté, že je současná medicína v některých odvětvích stoprocentně úspěšná, v některých odvětvích je v plenkách, v některých je možná ve slepé uličce. Mnohé choroby umí pouze příznivě ovlivnit, mnohé neumí léčit vůbec a spoustu chorob dosud vůbec nezná. Medicína se vyvíjí, přístupy k chorobám a k úrazům se mění. Některé léčebné zásady přestávají platit, jiné nové stále vznikají.
 
@@ -29,7 +35,7 @@ Zkušený doktor dokáže ve vhodnou dobu sdělit pacientovi, že již **součas
 
 ## Léčitelská praxe
 
-n/a {class="description"}
+n/a
 
 Léčitel je člověk, který o sobě tvrdí, že má mimořádné schopnosti rozpoznat a ovlivnit chorobné změny pacienta. Zda je to pravda a jak to funguje, však nikdo neví. Jsou určitá kritéria, kterými by bylo dobré se řídit před návštěvou léčitele, a která by hovořila v léčitelův prospěch:
 
@@ -50,7 +56,9 @@ Dnešní věda nerozumí schopnostem léčitelů; **umění léčitelů nelze ni
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -62,9 +70,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: mytus_o_rakovine
  [2]: lekove_formy

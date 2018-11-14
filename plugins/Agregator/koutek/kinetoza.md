@@ -5,7 +5,9 @@
 
 # Nevolnost a zvracení v dopravních prostředcích
 
-Pocit nevolnosti může být vyvolán nejrůznějšími druhy pohybu. Tomu lze mnohdy snadno předejít. Někdy však mohou být tytéž stavy projevem onemocnění. {class="description" kw="nevolnost, zvracení, kinetóza, cestovní nemoc, mořská nemoc, nemoc z pohybu, rovnovážné ústrojí, léky, prevence kinetózy"}
+{kw="nevolnost, zvracení, kinetóza, cestovní nemoc, mořská nemoc, nemoc z pohybu, rovnovážné ústrojí, léky, prevence kinetózy"}
+
+Pocit nevolnosti může být vyvolán nejrůznějšími druhy pohybu. Tomu lze mnohdy snadno předejít. Někdy však mohou být tytéž stavy projevem onemocnění.
 
 Nevolnost vzniklá v dopravním prostředku se laicky nazývá nemoc z pohybu, cestovní nemoc, mořská nemoc nebo odborně _kinetóza_. Nejedná se o nemoc, ale o velmi **nepříjemný stav způsobený nesouladem informací z rovnovážného ústrojí se zrakovými vjemy** – tedy s vnímaným pohybem.
 
@@ -15,7 +17,7 @@ Nejčastější projevy kinetózy jsou pocit na zvracení, studený pot, slabost
 
 ## Vznik kinetózy
 
-n/a {class="description"}
+n/a
 
 Pro vznik kinetózy jsou typické **nejrůznější druhy pohybu** jako např. jízda autem, autobusem nebo vlakem, neklidný let letadlem, plavba lodí, různé pouťové atrakce, volný pád, plavání v mořských vlnách, potápění, sjezdové lyžování za snížené viditelnosti nebo jízda na zvířeti. Někdy stačí sledování kymácejícího se předmětu či filmových záběrů zmíněných pohybů.
 
@@ -25,7 +27,7 @@ K nevolnosti jsou náchylnější děti než dospělí. Kinetóza může být u 
 
 ## Prevence kinetózy
 
-n/a {class="description"}
+n/a
 
 Vzniku kinetózy je možné předcházet **sledováním pohybu a vyhýbáním se neočekávaným pohybům** – tedy aktivním slaďováním zrakových vjemů s informacemi z rovnovážného ústrojí. Také prospívá psychická a fyzická pohoda. Toho je možné docílit
 
@@ -43,7 +45,7 @@ Vzniku kinetózy je možné předcházet **sledováním pohybu a vyhýbáním se
 
 ## Komplikace kinetózy
 
-n/a {class="description"}
+n/a
 
 Projevy kinetózy mohou být v některých případech příznaky onemocnění (například [zánětu zevního zvukovodu][2]). Pak je nutné, aby se pacient podrobil důkladnému vyšetření. Známkou onemocnění mohou být projevy kinetózy
 
@@ -54,7 +56,9 @@ Projevy kinetózy mohou být v některých případech příznaky onemocnění (
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -68,9 +72,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: lekove_formy
  [2]: pece_o_zvukovod

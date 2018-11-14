@@ -5,7 +5,9 @@
 
 # Chřipka: virové onemocnění
 
-Chřipka je závažné přenosné virové onemocnění. Konkrétní lék proti chřipce neexistuje; je možné se preventivně nechat očkovat proti konkrétnímu viru chřipky. Ten však velmi rychle mutuje, a už za několik měsíců nemusí mít očkování efekt. {class="description" kw="viry, buňka, šíření chřipky, viry chřipky, léčba chřipky, mutace viru chřipky, léky"}
+{kw="viry, buňka, šíření chřipky, viry chřipky, léčba chřipky, mutace viru chřipky, léky"}
+
+Chřipka je závažné přenosné virové onemocnění. Konkrétní lék proti chřipce neexistuje; je možné se preventivně nechat očkovat proti konkrétnímu viru chřipky. Ten však velmi rychle mutuje, a už za několik měsíců nemusí mít očkování efekt.
 
 Viry jsou vedle [bakterií][1] další možnou příčinou přenosných onemocnění. Jsou mnohem menší než bakterie, nejsou viditelní světelným mikroskopem (elektronovým ano). Napadají lidské buňky. Některé viry mají nejraději svalové a vazivové, jiné jaterní buňky, jiné viry napadají nejraději nervové buňky. Po napadení hostitelské buňky dokážou viry zasáhnout do její genetické informace a přinutit ji, aby pracovala pro viry podle jejich přání. V buňce se viry množí a postupně napadají celý organizmus.
 
@@ -13,7 +15,7 @@ Viry jsou vedle [bakterií][1] další možnou příčinou přenosných onemocn�
 
 ## Šíření chřipky
 
-n/a {class="description"}
+n/a
 
 Známé a obávané **viry chřipky se šíří mezi lidmi** nejčastěji [kapénkovou infekcí][2]. Hlavně kašlem a kýcháním jsou v lidských společenstvích viry chřipky přenášeny z člověka na člověka. Po napadení člověka se v lidských buňkách pomnoží a způsobí příznaky chřipky. Chřipka je závažné horečnaté onemocnění postihující celý organizmus. Je třeba ji odlišit od běžné [nemoci z prochlazení][3].
 
@@ -23,7 +25,7 @@ Postupně se takto virus chřipky rozšiřuje do sousední vesnice, města, stá
 
 ## Komplikace a léčba chřipky
 
-n/a {class="description"}
+n/a
 
 Chřipkou onemocní nejspíš člověk oslabený věkem nebo jinou chorobou, unavený, vyčerpaný, netrénovaný, trpící nedostatkem vitamínů, mající nízkou imunitu. Čím je pacient slabší, tím závažnější u něj bude průběh onemocnění. Pro člověka, který je sešlý věkem a mnohými chorobami může být chřipka osudná.
 
@@ -35,7 +37,9 @@ Chřipkové epidemie mají různá jména, podle míst kde byl ten který virus 
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -48,9 +52,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: mikroorganizmy
  [2]: ryma_a_smrkani

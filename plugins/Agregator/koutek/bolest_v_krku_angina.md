@@ -5,7 +5,9 @@
 
 # Bolest v krku, nachlazení, angína
 
-Bolesti v krku mohou přejít v angínu; pro připravený organizmus zvládnutelnou. Až teprve komplikace angíny mohou způsobit trvalé poškození zdraví. {class="description" kw="bolest, nachlazení, angína, infekce, sliznice, prochlazení, uzliny, zánět, mandle"}
+{kw="bolest, nachlazení, angína, infekce, sliznice, prochlazení, uzliny, zánět, mandle"}
+
+Bolesti v krku mohou přejít v angínu; pro připravený organizmus zvládnutelnou. Až teprve komplikace angíny mohou způsobit trvalé poškození zdraví.
 
 [Horní cesty dýchací][1] jsou častou vstupní bránou infekce. Nemocný člověk může [svou chorobu přenášet][2] na ostatní lidi kašlem a kýcháním – kapénkovou infekcí. Vývoj a závažnost onemocnění je [závislá na imunitě][3] (obranyschopnosti) organizmu. **Imunita vzniká a narůstá stykem organizmu s choroboplodnými zárodky.**
 
@@ -13,7 +15,7 @@ Bolesti v krku mohou přejít v angínu; pro připravený organizmus zvládnutel
 
 ## Bolest v krku, příčina a léčení
 
-n/a {class="description"}
+n/a
 
 Spousta nečistot a bacilů vdechovaných společně se vzduchem je [vychytávána zdravou sliznicí a likvidována][4]. **Zdravý neoslabený jedinec by neměl kapénkovou infekcí vůbec onemocnět.**
 
@@ -27,7 +29,7 @@ Pomůže odpočinek, nejlépe klid na lůžku, [dostatek tekutin][9] a vitamínu
 
 ## Vznik a průběh angíny
 
-n/a {class="description"}
+n/a
 
 V případě oslabení imunity (mikroorganizmy nejsou včas rozpoznány nebo není dostatek obranných protilátek) se mikroorganizmy dostávají cévním lymfatickým systémem až do krční mandle a tím způsobí **zánět krční mandle** označovaný jako **angína**.
 
@@ -39,7 +41,7 @@ Stále živé **bacily se hromadí v mandlích** a hromadí se zde i bílé krvi
 
 ## Komplikace a léčení angíny
 
-n/a {class="description"}
+n/a
 
 Z nemocných a změněných mandlí se mohou živé bacily dostat krevní cestou dále do těla a způsobit **závažné zánětlivé komplikace angíny s trvalými následky** (nejčastěji [zánět ledvin][12] nebo onemocnění srdečních chlopní). Aby ke komplikacím nedošlo, [je vhodné nasadit antibiotika][13]. Antibiotika pomáhají bílým krvinkám zlikvidovat mikrobiální původce choroby.
 
@@ -53,7 +55,9 @@ V dobách, kdy antibiotika nebyla se jistě vyskytovalo více komplikací angín
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -67,9 +71,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: ryma_a_smrkani
  [2]: chripka

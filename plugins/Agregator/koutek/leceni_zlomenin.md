@@ -5,7 +5,9 @@
 
 # Metody léčení zlomenin
 
-Zlomeniny lze léčit různými metodami. Každá metoda má své výhody a nevýhody. Poučený pacient by se měl aktivně podílet na výběru nejvhodnější metody léčení své zlomeniny. {class="description" kw="zlomenina, léčení, napravení zlomeniny, hojení, fixace, sádra, dlaha, ortéza, plastová fixace, koupací sádra, operace, zatěžování, pakloub"}
+{kw="zlomenina, léčení, napravení zlomeniny, hojení, fixace, sádra, dlaha, ortéza, plastová fixace, koupací sádra, operace, zatěžování, pakloub"}
+
+Zlomeniny lze léčit různými metodami. Každá metoda má své výhody a nevýhody. Poučený pacient by se měl aktivně podílet na výběru nejvhodnější metody léčení své zlomeniny.
 
 Po patřičném vyšetření pacienta lékař určí vhodný způsob léčení zlomeniny. Většinou však nebývá pouze jediná možnost, podobně jako při léčení [podvrtnutého kotníku][1].
 
@@ -15,7 +17,7 @@ Informovaný pacient může projevit přání volby konkrétního způsoby léč
 
 ## Léčebné ovlivnění hojení zlomenin
 
-n/a {class="description"}
+n/a
 
 Každá zlomenina se přirozeně hojí. Podle druhu kosti a typu zlomeniny se může i nepoznaná či neléčená zlomenina zhojit samovolně a bez následků. Přesto je vhodné s každým podezřením na zlomeninu [vyhledat lékařské vyšetření][3].
 
@@ -33,7 +35,7 @@ Mezi kostní úlomky se po úrazu vylije krev, ta se srazí, krevní sraženina 
 
 ## Druhy fixací zlomenin
 
-n/a {class="description"}
+n/a
 
 Existuje řada možností, jak zafixovat zlomeninu. Počínaje přiložením klacku k poraněné končetině v rámci první pomoci až po operační zavedení dlahy přímo do poraněné kosti. Každá popsaná možnost fixace má určité výhody i nevýhody.
 
@@ -48,7 +50,7 @@ Existuje řada možností, jak zafixovat zlomeninu. Počínaje přiložením kla
 
 ## Komplikace hojení zlomenin
 
-n/a {class="description"}
+n/a
 
 Při léčení zlomeniny mohou **vzniknout trvalé následky**. Nejčastěji to bývá deformita, omezení hybnosti, může vzniknou pakloub nebo dokonce nadměrné odvápnění nemocné končetiny.
 
@@ -60,7 +62,9 @@ Při léčení zlomeniny mohou **vzniknout trvalé následky**. Nejčastěji to 
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -74,9 +78,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: podvrtnuti_kotniku
  [2]: zlomeniny_kosti

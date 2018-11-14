@@ -5,7 +5,9 @@
 
 # Rýma a smrkání, komplikace rýmy
 
-Nekomplikovaná rýma bývá banální onemocnění. Podmínkou však je smrkání (či odsávání zahleněného nosu kojencům zvláštním nástrojem). {class="description" kw="rýma, smrkání, horní cesty dýchací, dutina nosní, hrtan, dutiny, barva hlasu, zánět, sliznice, kýchání, kapénková infekce, prochlazení, sekret, senná rýma, alergie"}
+{kw="rýma, smrkání, horní cesty dýchací, dutina nosní, hrtan, dutiny, barva hlasu, zánět, sliznice, kýchání, kapénková infekce, prochlazení, sekret, senná rýma, alergie"}
+
+Nekomplikovaná rýma bývá banální onemocnění. Podmínkou však je smrkání (či odsávání zahleněného nosu kojencům zvláštním nástrojem).
 
 Je velmi důležité **naučit dítě smrkat již v útlém věku**. Správné vyčištění dutin předejde nejen komplikacím vlastní rýmy ale i zánětům středoušních dutin (je mezi nimi přímé propojení).
 
@@ -21,7 +23,7 @@ Sekret nosní sliznice za normálních podmínek průběžně stéká do hrtanu 
 
 ## Jak na rýmu
 
-n/a {class="description"}
+n/a
 
 [Pronikne-li infekce][5] do sliznice nosní dutiny kde se pomnoží, začíná klasická rýma. V počátku dochází ke **zbytnění a pálení sliznice** (nemožnost dýchat nosem). Proti tomu [pomohou nosní kapky][6] k uvolnění nosní sliznice a horká koupel.
 
@@ -35,7 +37,7 @@ Nekomplikovaná **rýma by měla do týdne ustoupit**. Teprve v opačném příp
 
 ## Senná rýma
 
-n/a {class="description"}
+n/a
 
 Na rozdíl od běžné rýmy ve sliznici nosní nebojují v případě senné rýmy bílé krvinky proti mikroorganizmům ale [proti alergenům][7] (nejčastěji vdechnutá zrnka pylu). Výsledkem tohoto boje bývá **hojná řídká sekrece z nosu**, kterou má smysl pouze průběžně utírat (nikoliv násilně smrkat).
 
@@ -45,7 +47,9 @@ Zároveň v zarudlých a alergenem podrážděných spojivkových vacích (pod o
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -58,9 +62,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: chripka
  [2]: teplota

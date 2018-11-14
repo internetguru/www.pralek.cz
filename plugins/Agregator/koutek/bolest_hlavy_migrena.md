@@ -5,13 +5,15 @@
 
 # Bolest hlavy, migréna
 
-Nejkrutější bolestí hlavy je migréna. Řešením je včasné podání vhodného léku proti bolesti. Běžná bolest hlavy má svou příčinu a nemusí se vyvíjet tak dramaticky. Ideálním řešením je odstranit příčinu bolesti než bolest tlumit léky. {class="description" kw="bolest hlavy, migréna, bolest poloviny hlavy, prodromy, léky, příčiny bolestí hlavy"}
+{kw="bolest hlavy, migréna, bolest poloviny hlavy, prodromy, léky, příčiny bolestí hlavy"}
+
+Nejkrutější bolestí hlavy je migréna. Řešením je včasné podání vhodného léku proti bolesti. Běžná bolest hlavy má svou příčinu a nemusí se vyvíjet tak dramaticky. Ideálním řešením je odstranit příčinu bolesti než bolest tlumit léky.
 
 {id="migrena-nesnesitelna\_bolest\_hlavy"}
 
 ## Migréna – nesnesitelná bolest hlavy
 
-n/a {class="description"}
+n/a
 
 Migréna _(hemicranie)_ je krutá nesnesitelná bolest většinou poloviny hlavy. Trpící pacient potřebuje ticho, klid, tmu, hledá úlevovou polohu a touží po okamžiku, kdy bolest začne ustupovat. Rozvinutá migréna může trvat hodiny nebo i několik dnů. Je logické, že každý takto postižený člověk hledá jakoukoli pomoc, nejlépe ve formě [léku proti bolesti][1].
 
@@ -23,7 +25,7 @@ Migréna je následkem chybného prokrvení části mozku. Počínající bolest
 
 ## Nejčastější příčiny bolestí hlavy a jejich řešení
 
-n/a {class="description"}
+n/a
 
   * používání nesprávných nebo znečištěných dioptrických brýlí;
       * Problémy může vyřešit [vyšetření očním lékařem][2] a nové (nebo jen vyčištěné) brýle.
@@ -66,7 +68,9 @@ n/a {class="description"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -79,9 +83,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: leky_proti_bolesti
  [2]: nalehavost_lekarskeho_vysetreni

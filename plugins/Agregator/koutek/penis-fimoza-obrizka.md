@@ -5,7 +5,9 @@
 
 # Péče o penis, hygiena chlapců, fimóza, obřízka
 
-Péče o penis již od útlého věku je podmínkou jeho správného dalšího vývoje. Tím se zamezí vzniku zánětu a hlavně následných komplikací a potíží v dospívání. {class="description" kw="penis, fimóza, obřízka, předkožka, kůže, sliznice, žalud, vak předkožky, smegma, slepeniny, konglutinace, srůsty, zánět vaku, balanitis, jizvení předkožky, parafimóza"}
+{kw="penis, fimóza, obřízka, předkožka, kůže, sliznice, žalud, vak předkožky, smegma, slepeniny, konglutinace, srůsty, zánět vaku, balanitis, jizvení předkožky, parafimóza"}
+
+Péče o penis již od útlého věku je podmínkou jeho správného dalšího vývoje. Tím se zamezí vzniku zánětu a hlavně následných komplikací a potíží v dospívání.
 
 Na ošetřování, koupele, přetahování nebo nepřetahování předkožky novorozenců a kojenců je více lékařských názorů. Pediatr většinou doporučuje nechat penis bez přetahování předkožky při koupeli, chirurg doporučuje předkožku uvolnit a při koupeli přetahovat přes žalud.
 
@@ -13,7 +15,7 @@ Na ošetřování, koupele, přetahování nebo nepřetahování předkožky nov
 
 ## Popis penisu, předkožka
 
-n/a {class="description"}
+n/a
 
 Topořivá tělesa penisu jsou kryta volně posunlivou kůží a žalud je kryt citlivou sliznicí. Volné podkoží na penisu umožňuje samovolné přetažení kůže přes žalud. Tím je žalud kryt dvěma vrstvami kůže – jedna vrstva směrem k žaludu a druhá vrstva kůže navenek. Tato zdvojená kůže se nazývá předkožka. Mezi žaludem a vnitřním listem předkožky leží dutina – vak předkožky.
 
@@ -25,7 +27,7 @@ Během koupele je nutné přetáhnout předkožku přes penis, předkožkový va
 
 ## Onemocnění předkožky penisu
 
-n/a {class="description"}
+n/a
 
 Poměrně často se stává, že jsou už při narození vytvořeny **slepeniny mezi žaludem a vnitřním listem předkožky**. To má za následek nemožnost přetažení předkožky přes žalud. Pak je nutné vyhledat chirurgické nebo urologické ošetření a slepeniny nechat snadným zákrokem uvolnit _(uvolnění konglutinací)_.
 
@@ -47,7 +49,9 @@ Při částečném zúžení zevního ústí předkožky může vzniknout stav, 
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -61,9 +65,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: akne
  [2]: mikroorganizmy

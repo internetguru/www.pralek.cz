@@ -5,19 +5,25 @@
 
 # Poranění jedovatým zvířetem
 
-Kdo netrpí alergií, nemusí se obávat ani opakovaného poranění u nás žijícím hmyzem nebo hadem. Závažné alergické reakce na jed bodavého hmyzu (bodnutí žihadla) však přibývají. {class="description" kw="bodnutí, uštknutí, hmyz"}
+{class="description" kw="bodnutí, uštknutí, hmyz"}
+
+Kdo netrpí alergií, nemusí se obávat ani opakovaného poranění u nás žijícím hmyzem nebo hadem. Závažné alergické reakce na jed bodavého hmyzu (bodnutí žihadla) však přibývají.
 
 Bodnutí hmyzem (včelou, vosou, sršněm) jsou poranění častá. Oproti tomu uštknutí u nás žijícím jedovatým hadem (zmijí obecnou) se vyskytuje zřídka. Informace o druhu a nebezpečnosti jedu exotických zvířat mívají jejich chovatelé. V případě nejasnosti jsou informace dostupné **v toxikologických ústavech**.
 
 Poranění hmyzem se vyhnout v zásadě nelze. Zvýšenou pozorností je však možné předejít katastrofickému scénáři a **nepřehlédnout vosu v nápoji nebo v jídle**.
 
-Bodne-li vosa žihadlo do kořene jazyka nebo krku, začíná [u alergika][1] závod s časem a je nutné neprodleně [zavolat záchranku][2]! Přibývající otok [horních cest dýchacích][3] je možné zpomalit cucáním kousků ledu. {class="important"}
+{class="important"}
+
+Bodne-li vosa žihadlo do kořene jazyka nebo krku, začíná [u alergika][1] závod s časem a je nutné neprodleně [zavolat záchranku][2]! Přibývající otok [horních cest dýchacích][3] je možné zpomalit cucáním kousků ledu.
 
 {id="bodnuti\_nebo\_kousnuti_hmyzem"}
 
 ## Bodnutí nebo kousnutí hmyzem
 
-Bodnutí včelím či vosím žihadlem lze **ošetřit ledovým obkladem, přiložením cibule nebo octa**. V případě zkušeností se zvýšenou (alergickou) reakcí je nutné neprodleně vyhledat lékařské ošetření. Nejedná-li se o alergickou reakci, lidský organismus si s jedem běžně poradí. {class="description"}
+{class="description"}
+
+Bodnutí včelím či vosím žihadlem lze **ošetřit ledovým obkladem, přiložením cibule nebo octa**. V případě zkušeností se zvýšenou (alergickou) reakcí je nutné neprodleně vyhledat lékařské ošetření. Nejedná-li se o alergickou reakci, lidský organismus si s jedem běžně poradí.
 
 Má-li člověk zkušenost a reakci na bodnutí (otok) má minimální, **není třeba podléhat panice ani při bodnutí do úst nebo do jazyka**. Lze předpokládat, že se nevyvine závažnější reakce, než při bodnutí do jiné části těla. Eventuální otok lze potlačit cucáním ledu.
 
@@ -29,11 +35,15 @@ Zvláštní kapitolou je **poranění drobným hmyzem** (mouchou či muškou), k
 
 ## Uštknutí zmijí obecnou
 
-**Zdravý člověk není uštknutím zmijí obecnou ohrožen na životě.** Při uštknutí je prvořadé pacienta zklidnit a zajistit klidný transport k ošetření. {class="description"}
+{class="description"}
+
+**Zdravý člověk není uštknutím zmijí obecnou ohrožen na životě.** Při uštknutí je prvořadé pacienta zklidnit a zajistit klidný transport k ošetření.
 
 Uštknutí zmijí obecnou – jediným u nás volně žijícím jedovatým hadem – je vzácné. Had se snaží setkání s člověkem vyhnout. Na člověka zaútočí uštknutím pouze v případě, že se nestihne odplazit nebo se cítí ohrožen.
 
-První pomoc v případě uštknutí zmijí spočívá ve **zpomalení vstřebávání jedu** z rány. Poraněnou končetinu je dobré nezatěžovat (pochodem), přerušovaně zaškrcovat a chladit. [Transport k lékařskému ošetření][7] není třeba uspěchat. Jed zmije obecné působí v řádu hodin až dnů. {class="important"}
+{class="important"}
+
+První pomoc v případě uštknutí zmijí spočívá ve **zpomalení vstřebávání jedu** z rány. Poraněnou končetinu je dobré nezatěžovat (pochodem), přerušovaně zaškrcovat a chladit. [Transport k lékařskému ošetření][7] není třeba uspěchat. Jed zmije obecné působí v řádu hodin až dnů.
 
 Navzdory dříve doporučovanému postupu není vhodné ránu rozřezávat a vysávat. Jed by se dásněmi vstřebával a ohrožoval by zachránce. Času na lékařské ošetření je relativně dost. Sérum proti hadímu uštknutí se podává pouze výjimečně – v případě podezření na nepřiměřenou reakci.
 
@@ -41,7 +51,9 @@ Navzdory dříve doporučovanému postupu není vhodné ránu rozřezávat a vys
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{class="description" var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -56,9 +68,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{class="description" var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: imunita
  [2]: rychla_lekarska_pomoc

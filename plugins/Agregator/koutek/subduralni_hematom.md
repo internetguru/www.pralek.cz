@@ -5,7 +5,9 @@
 
 # Poúrazové krvácení do hlavy: chronický subdurální hematom
 
-Po úrazu hlavy může po určité bezpříznakové době vzniknout chronický subdurální hematom. Jeho záludnost spočívá v plíživém nástupu potíží, které si pacient často sám vůbec neuvědomuje. {class="description" kw="krvácení, hlava, krvácení do hlavy, subdurální hematom, mozek, dura mater, nitrolebeční přetlak, bolest, točení hlavy, léčba, vyšetření CT, úraz hlavy"}
+{kw="krvácení, hlava, krvácení do hlavy, subdurální hematom, mozek, dura mater, nitrolebeční přetlak, bolest, točení hlavy, léčba, vyšetření CT, úraz hlavy"}
+
+Po úrazu hlavy může po určité bezpříznakové době vzniknout chronický subdurální hematom. Jeho záludnost spočívá v plíživém nástupu potíží, které si pacient často sám vůbec neuvědomuje.
 
 Mozek je uložen v lebce, která ho chrání. Dále je chráněn tím, že v případě prudkého pohybu nebo nárazu hlavy se může mozek ještě částečně pohybovat setrvačností uvnitř lebky. Tento pohyb je umožněn mozkovými obaly (mozkovými plenami nebo také blánami) a tekutinou uloženou mezi nimi.
 
@@ -15,7 +17,7 @@ Skrze mozkové obaly procházejí „přemosťující žíly“, které se mohou
 
 ## Příčina vzniku subdurálního hematomu
 
-n/a {class="description"}
+n/a
 
 Je-li násilí působící na lebku (úraz hlavy) větší, než dokáže výše popsaný ochranný mechanizmus utlumit, může dojít ke vzniku subdurálního hematomu. Podle rychlosti nástupu lze dělit hematom na akutní (nástup projevů do 1 dne) a chronický (pozvolna vznikající).
 
@@ -25,7 +27,7 @@ Ke vzniku subdurálního hematomu je zapotřebí u různých lidí **různá int
 
 ## Projevy chronického subdurálního hematomu
 
-n/a {class="description"}
+n/a
 
 Subdurální hematomy jsou různě závažné podle svého rozsahu a následného vývoje. Jednotlivé projevy se mohou měnit a přecházet jeden v druhý podle síly a směru útlaku jednotlivých mozkových center.
 
@@ -51,7 +53,7 @@ Subdurální hematomy jsou různě závažné podle svého rozsahu a následnéh
 
 ## Určení choroby a léčba subdurálního hematomu
 
-n/a {class="description"}
+n/a
 
 Chorobu určí neurolog na základě rozhovoru s pacientem (anamnéza) a odborného vyšetření. Diagnózu potvrdí vyšetření CT _(Computer tomograph)_, které odhalí uložení i rozsah hematomu a ukáže rovněž rozsah odtlačení celého mozku k opačné straně.
 
@@ -61,7 +63,7 @@ Chronický subdurální hematom se může začít sám vstřebávat ve kterékol
 
 ## Prognóza (další vývoj) subdurálního hematomu
 
-n/a {class="description"}
+n/a
 
 K recidivě (znovuvzplanutí) hematomu dochází zřídka – asi u 4 % operovaných.
 
@@ -73,7 +75,9 @@ Tlakem subdurálního hematomu může dojít k napnutí zdravých přemosťujíc
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -87,9 +91,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: funkcni_poruchy_traveni
  [2]: bolest_hlavy_migrena

@@ -5,13 +5,15 @@
 
 # Dárcovství krve, krevní plazmy a kostní dřeně
 
-Darovat krev může člověk, který dovršil 18 let věku, neměl infekční žloutenku, jeho hmotnost je vyšší než 50 kg a cítí se být zdráv. Dárce je vyšetřen a jeho krev bude užita k návratu zdraví nebo k záchraně jiného života. Chybějící krev je v těle dárce obnovena za 72 hodin. {class="description" kw="krev, dárcovství krve, dárcovství krevní plazmy, dárcovství kostní dřeně, transfuzní stanice, transfuzní lékař, dárce krve, dárcovství krevních destiček, kostní dřeň, registr dárců"}
+{kw="krev, dárcovství krve, dárcovství krevní plazmy, dárcovství kostní dřeně, transfuzní stanice, transfuzní lékař, dárce krve, dárcovství krevních destiček, kostní dřeň, registr dárců"}
+
+Darovat krev může člověk, který dovršil 18 let věku, neměl infekční žloutenku, jeho hmotnost je vyšší než 50 kg a cítí se být zdráv. Dárce je vyšetřen a jeho krev bude užita k návratu zdraví nebo k záchraně jiného života. Chybějící krev je v těle dárce obnovena za 72 hodin.
 
 {id="podminky\_darcovstvi\_krve"}
 
 ## Podmínky dárcovství krve
 
-n/a {class="description"}
+n/a
 
 Krev může darovat každý člověk, který chce pomoci nemocným známým, příbuzným nebo cizím lidem. Pokud se cítí zdráv, dostaví se na transfuzní stanici v místě bydliště. Dárce vyplní dotazník týkající se jeho zdravotního stavu (prodělané choroby, užívání léků a podobně).
 
@@ -21,7 +23,7 @@ Odběrem kapky krve z prstu (nástrojem na 1 použití) je vyšetřena hladina k
 
 ## Průběh odběru krve
 
-n/a {class="description"}
+n/a
 
   1. Při odběru napíchne transfuzní sestra loketní žílu (jehlou na 1 použití) a odebírá krev do vaku na 1 použití. Množství odebírané krve je necelého půl litru. Jehla je velmi ostrá, takže [vpich téměř nebolí][1]. V průběhu odběru již **dárce nevnímá žádnou bolest**, většinou se dobře baví s atraktivní a milou sestrou :-)
   2. Odběr trvá asi 5–7 minut. Po odběru dostává dárce občerstvení – svačinu, kávu a čaj. Dostává také potvrzení o darování krve a má nárok na pracovní volno. Dárce rovněž dostává potvrzení na odpis z daní na 2 000 Kč. Kromě toho dárcovství krve různě podporují zdravotní pojišťovny.
@@ -33,7 +35,7 @@ Technicky není možné, aby se dárce krve nakazil krví přenosnou chorobou. V
 
 ## Komplikace při darování krve
 
-n/a {class="description"}
+n/a
 
 Během odběru nebo těsně po něm se může stát, že dárce pocítí slabost nebo teplo nebo [dokonce zkolabuje][3]. Nejčastěji je příčinou únava nebo nevyspání. Tyto potíže jsou způsobené nedostatečným prokrvením mozku. Nikoli však z důvodu ztráty odebrané krve ale spíš z důvodu nervozity a strachu.
 
@@ -43,7 +45,7 @@ Během odběru nebo těsně po něm se může stát, že dárce pocítí slabost
 
 ## Dárcovství krevní plazmy, krevních destiček, zvláštních krvinek
 
-n/a {class="description"}
+n/a
 
 Na transfuzní stanici je zvláštní přístroj, který umí z krve oddělit krevní plazmu. Po vyšetření je dárci napíchnuta loketní žíla podobně jako při klasickém darování krve. Krev je vedena ze žíly do přístroje, kde je oddělena krevní plazma (případně krvinky nebo krevní destičky) a ochuzená krev se vrací dárci zpět do oběhu dalším vpichem do žíly.
 
@@ -55,7 +57,7 @@ Na transfuzní stanici je zvláštní přístroj, který umí z krve oddělit kr
 
 ## Dárcovství kostní dřeně
 
-n/a {class="description"}
+n/a
 
 Kostní dřeň je darována velmi zřídka. Je totiž velice náročné najít pro příjemce kostní dřeně vhodného dárce. Potenciálnímu dárci je odebrán vzorek krve k vyšetření. Výsledek je zařazen do celosvětového registru dárců kostní dřeně.
 
@@ -67,7 +69,9 @@ V případě potřeby je dárce pozván a odběr proběhne v celkové narkóze v
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -82,9 +86,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: bodne_a_strelne_poraneni
  [2]: lymfaticke_uzliny

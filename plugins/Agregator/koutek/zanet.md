@@ -5,7 +5,9 @@
 
 # Kdy zánět léčit, kdy rozhánět a kdy podporovat
 
-Různé druhy zánětů mají různý průběh a vývoj, různé příčiny a projevy. Podle druhu a vývoje zánětu je třeba proti němu někdy intenzivně bojovat, jindy je lépe ponechat zánětu přirozený průběh a někdy jej dokonce podporovat. {class="description" kw="zánět, zčervenání, bolest, akutní, chronický, infikovaná oděrka, kapénková infekce, kontaminovaná strava, septický stav, nehnisavý, hnisavý, obklady"}
+{class="description" kw="zánět, zčervenání, bolest, akutní, chronický, infikovaná oděrka, kapénková infekce, kontaminovaná strava, septický stav, nehnisavý, hnisavý, obklady"}
+
+Různé druhy zánětů mají různý průběh a vývoj, různé příčiny a projevy. Podle druhu a vývoje zánětu je třeba proti němu někdy intenzivně bojovat, jindy je lépe ponechat zánětu přirozený průběh a někdy jej dokonce podporovat.
 
 Zánět je velmi složitá biochemická a imunitní reakce organizmu na různé podněty. Má typické místní a celkové projevy, podle kterých jej lze rozpoznat. **Místní projevy zánětu** jsou:
 
@@ -23,7 +25,9 @@ Zánět je často [potřeba léčit][2] pomocí antibiotik, jindy pouze krátkod
 
 ## Vliv časového průběhu zánětu na léčbu
 
-n/a {class="description"}
+{class="description"}
+
+n/a
 
 Podle časového průběhu zánětu (a v souvislosti se [stupněm imunity][3]) je třeba posoudit, zda se mají [nasazovat antibiotika][4] a pokud ano, tak kdy a která. To mnohem lépe posoudí praktický lékař, který pacienta zná, než lékař sloužící pohotovost, který vidí cizího pacienta poprvé. Proto je vždy vhodnější návštěva praktického lékaře i za cenu [určité prodlevy][5].
 
@@ -34,13 +38,17 @@ Podle časového průběhu zánětu (a v souvislosti se [stupněm imunity][3]) j
   3. **Vracející se _(recidivující)_ zánět** vzplane po nezánětlivém mezidobí. Antibiotika se nasazují vždy až podle K+C. 
   4. **Opakovaně se vracející _(exacerbující)_ zánět** vzplane po nezánětlivých mezidobích i několikrát za sebou. Antibiotika se nasazují podle K+C a vždy s ohledem na předchozí léčení. 
 
-V medicíně se uvedená terminologie přísně dodržuje. Podle druhu zánětu se zásadně mění přístup k jeho léčení. {class="important"}
+{class="important"}
+
+V medicíně se uvedená terminologie přísně dodržuje. Podle druhu zánětu se zásadně mění přístup k jeho léčení.
 
 {id="vliv\_priciny\_zanetu\_na\_lecbu"}
 
 ## Vliv příčiny zánětu na léčbu
 
-n/a {class="description"}
+{class="description"}
+
+n/a
 
 Zánět může mít čtyři různé příčiny. Může vznikat jako obranná reakce organizmu (např. proti mikrobům při angíně), může opravovat poškozenou tkáň (např. odřeninu) nebo být alergickou nebo dokonce autoimunitní reakcí (např. na pyl nebo na vlastní tkáň). Přístup k léčbě zánětu se podle jeho příčiny zásadně liší.
 
@@ -48,7 +56,9 @@ Zánět může mít čtyři různé příčiny. Může vznikat jako obranná rea
 
 ### Obranný (septický) zánět
 
-n/a {class="description"}
+{class="description"}
+
+n/a
 
 Při obranném zánětu tělo rozpozná a označí viníka infekce a tvoří proti němu protilátky. Označeného viníka následně protilátkami likviduje. Úspěšnost tohoto boje závisí na **úrovni imunity jedince**. Pokud tělo boj vyhrává, nejsou [antibiotika][4] potřeba, jindy je nutné organizmus nasazením antibiotik podpořit.
 
@@ -67,7 +77,9 @@ Pokud lze podle projevů zánětu usuzovat na konkrétního původce _(specifick
 
 ### Opravný (reparativní či aseptický) zánět
 
-n/a {class="description"}
+{class="description"}
+
+n/a
 
 Opravný zánět navazuje na poškození tkání jako je **pohmoždění, uhození, namožení, přetížení, popálení, omrznutí, poleptání nebo ozáření**. V počátku aseptického zánětu vždy dobře poslouží studené obklady, které zlepší prokrvení postiženého místa a tím urychlí ústup bolestivých zánětlivých změn.
 
@@ -77,7 +89,9 @@ Jelikož v aseptickém zánětu nejsou žádné mikroorganizmy, netvoří tělo 
 
 ### Alergický a autoimunitní zánět
 
-n/a {class="description"}
+{class="description"}
+
+n/a
 
 V případě chybné reakce [imunitního systému][3] může tělo tvořit protilátky vůči látkám, které tělu ve skutečnosti vůbec neškodí (alergie), nebo které jsou mu vlastní, a které dokonce potřebuje (autoimunitní onemocnění).
 
@@ -89,7 +103,9 @@ Autoimunitní zánět (častěji autoimunitní onemocnění) je stav, kdy organi
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{class="description" var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -105,9 +121,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{class="description" var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: lymfaticke_uzliny
  [2]: lecba_zanetu

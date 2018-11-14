@@ -5,13 +5,15 @@
 
 # Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku
 
-Žaludeční vředy jsou v současnosti snadno léčitelným onemocněním. Komplikace vředové choroby žaludku a dvanáctníku však mohou vést k ohrožení života. Vznikají nejčastěji následkem zanedbání příznaků a neléčením vředové choroby. Jedině rozeznání a okamžité odborné řešení vzniklých komplikací může pacientovi zachránit život. {class="description" kw="žaludek, rakovina, zvracení, zvracení krve, hematemeza, jícnové varixy, cirhóza, černá stolice, meléna, rakovina žaludku, helikobakter pyroli"}
+{kw="žaludek, rakovina, zvracení, zvracení krve, hematemeza, jícnové varixy, cirhóza, černá stolice, meléna, rakovina žaludku, helikobakter pyroli"}
+
+Žaludeční vředy jsou v současnosti snadno léčitelným onemocněním. Komplikace vředové choroby žaludku a dvanáctníku však mohou vést k ohrožení života. Vznikají nejčastěji následkem zanedbání příznaků a neléčením vředové choroby. Jedině rozeznání a okamžité odborné řešení vzniklých komplikací může pacientovi zachránit život.
 
 {id="zvraceni\_krve\_hematemeza"}
 
 ## Zvracení krve (hemateméza)
 
-n/a {class="description"}
+n/a
 
 Zvracení velkého množství krve _(hemateméza)_ je velmi závažné, život ohrožující onemocnění (nezaměňovat s příměsí [malého množství krve ve zvratcích][1]). Je nezbytné [neprodleně vyhledat lékařské ošetření][2]; nejlépe formou RLP.
 
@@ -26,7 +28,7 @@ Hemateméza může mít dvě příčiny:
 
 ## Dehtovitě černá stolice
 
-n/a {class="description"}
+n/a
 
 Dehtovitě černá stolice _(melaena nebo také meléna)_ je známkou **prudkého krvácení do horní části zažívací trubice** (nejčastěji žaludečního vředu, nádoru žaludku nebo [rakoviny střeva][5]). Krev prošlá zbytkem zažívací trubice se promění v černou dehtovitou hmotu podobnou kolomazi.
 
@@ -36,11 +38,13 @@ Jedná se o závažné, život ohrožující onemocnění. Okamžité vyhledán�
 
 ## Prudká bolest břicha v nadbřišku
 
-n/a {class="description"}
+n/a
 
 Prudká náhle vzniklá [bolest břicha][6] v nadbřišku při vředové chorobě může být známkou **proděravění žaludečního vředu** _(ulcus ventriculi perforans)_. Žaludeční vřed se může prohlubovat až prostoupí celou žaludeční stěnou a tím vznikne otvor v žaludku. Žaludeční obsah (včetně kyseliny solné) se vylije do dutiny břišní což způsobí náhlou [velmi prudkou bolest v nadřišku][7].
 
-Každý pacient popisuje bolest při proděravění žaludečního vředu slovy „jako když mi vrazí do břicha nůž“. {class="example"}
+{class="example"}
+
+Každý pacient popisuje bolest při proděravění žaludečního vředu slovy „jako když mi vrazí do břicha nůž“.
 
 Bolest se postupně rozšiřuje po celém břiše. Jedná se o vážnou komplikaci žaludečního nebo dvanáctníkového vředu. Neodkladné lékařské vyšetření je nezbytné, jedině včasná operace může pacientovi zachránit život a navrátit zdraví.
 
@@ -48,7 +52,7 @@ Bolest se postupně rozšiřuje po celém břiše. Jedná se o vážnou komplika
 
 ## Dlouhodobé pobolívání nadřišku s nechutenstvím
 
-n/a {class="description"}
+n/a
 
 Existuje souvislost rakoviny žaludku s neléčenou vředovou chorobou a dlouhodobě s [nesprávnými stravovacími návyky][8], stejně jako s nevyváženou psychikou.
 
@@ -70,7 +74,9 @@ Rakovina žaludku je velmi vážnou nemocí, ale je-li včas odhalena, lze ji zc
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -84,9 +90,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: tlak_zaludku
  [2]: nalehavost_lekarskeho_vysetreni

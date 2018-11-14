@@ -5,7 +5,9 @@
 
 # Uzly a zatvrdliny ve dlani: Dupuytrenova kontraktura
 
-Nebolestivé hrboly ve dlani mohou omezit nebo znemožnit hybnost prstů. Procvičováním prstů v počátečním stádiu nemoci lze zcela předejít nevratným změnám. Stejně důležité je cvičit po případné operaci, aby se nemoc nevrátila. {class="description" kw="uzly, zatvrdlina ve dlani, Dupuytrenova kontraktura, hrbol ve dlani, boule ve dlani, prohlubeň ve dlani, pokrčený prst, prst nelze narovnat, deformace dlaně"}
+{kw="uzly, zatvrdlina ve dlani, Dupuytrenova kontraktura, hrbol ve dlani, boule ve dlani, prohlubeň ve dlani, pokrčený prst, prst nelze narovnat, deformace dlaně"}
+
+Nebolestivé hrboly ve dlani mohou omezit nebo znemožnit hybnost prstů. Procvičováním prstů v počátečním stádiu nemoci lze zcela předejít nevratným změnám. Stejně důležité je cvičit po případné operaci, aby se nemoc nevrátila.
 
 Kontraktura Dupuytren _(čteno dypytrén)_ postihuje převážně muže ve středním a vyšším věku, většinou manuálně pracující. Byla prokázána rodová zátěž (v některých rodinách je výskyt častější). Pravá příčina vzniku onemocnění však není známa.
 
@@ -15,7 +17,7 @@ V začátku onemocnění se ve dlani objeví nebolestivý uzel, boule nebo [zatv
 
 ## Vývoj Dupuytrenovy kontrtaktury
 
-n/a {class="description"}
+n/a
 
 Postupně se k zatvrdlině přitahuje kůže, která se pohybuje v souvislosti s ohýbáním postiženého prstu. V blízkosti přirostlé kůže se často tvoří vedle uzlu v kůži i prohlubeň. Časem dochází k **omezení hybnosti postiženého prstu**, který [zůstává pokrčený][3] a nelze ho samovolně zcela narovnat (natáhnout).
 
@@ -25,7 +27,7 @@ Postupně bývá postiženo i více prstů, nejčastěji se jedná o prsteník a
 
 ## Léčení Dupuytrenovy kontraktury
 
-n/a {class="description"}
+n/a
 
 Jesliže pacient ví, že se kontraktura vyskytla mezi jeho předky, může očekávat stejné potíže i u sebe. Sám si může dlaně a hybnost prstů preventivně kontrolovat. V případě objevení prvních příznaků ([boulička][5] nebo prohloubenina ve dlani) lze pravidelným cvičením a masírováním dlaně udržet vznikající kontrakturu v takovém stavu, že k omezení hybnosti prstů vůbec nedojde. Jestli deformace dlaně nebrání běžným činnostem, lze tento snesitelný stav udržet. Podmínkou je však každodenní narovnávání (natahování) prstů a tím zabránění vzniku kontraktury.
 
@@ -41,7 +43,9 @@ Pooperační pracovní neschopnost bývá od 1 do 3 měsíců.
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -55,9 +59,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: puchyr_mozol_kuri_oko
  [2]: onemocneni_slach

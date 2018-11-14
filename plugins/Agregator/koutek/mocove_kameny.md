@@ -5,7 +5,9 @@
 
 # Močové kameny a ledvinová kolika
 
-V močovém ústrojí mohou vzniknout kameny. Tlakem moči a prodíráním se kamenu močovodem může vzniknout ledvinová kolika. {class="description" kw="ledvinové kameny, močové kameny, ledvinová kolika, ledvina, moč, močovod, močový měchýř, močení, močová trubice, zánět, krvácení do moče, urolog, bolest"}
+{kw="ledvinové kameny, močové kameny, ledvinová kolika, ledvina, moč, močovod, močový měchýř, močení, močová trubice, zánět, krvácení do moče, urolog, bolest"}
+
+V močovém ústrojí mohou vzniknout kameny. Tlakem moči a prodíráním se kamenu močovodem může vzniknout ledvinová kolika.
 
 V bederní oblasti jsou uloženy 2 ledviny, ve kterých se tvoří moč. Z ledvinové pánvičky (dutina uvnitř ledviny) průběžně odtéká moč dvěma močovody [do močového měchýře][1]. Zde se moč shromažďuje a při močení je močovou trubicí vypuzena ven z těla.
 
@@ -15,7 +17,7 @@ Močí jsou z těla odstraňovány zplodiny látkové přeměny. Aby ledviny spr
 
 ## Ledvinové kameny a ledvinová kolika
 
-n/a {class="description"}
+n/a
 
 Za určitých podmínek se v ledvinové pánvičce může vytvořit kámen. Dokud netlačí na okolní tkáně, nemusí působit potíže. Časem se mění, podle podmínek se může zvětšovat, nebo se uvolní a dostane se do močovodu. Podráždění nebo poškození močovodu může způsobit [krvácení do moče][4]. Jestliže ucpává močovod a zabraňuje odtoku moči z ledviny, je postupně protlačován nebo někde uvízne, tím způsobí ledvinovou koliku.
 
@@ -25,7 +27,7 @@ Za určitých podmínek se v ledvinové pánvičce může vytvořit kámen. Doku
 
 ## Léčení ledvinových kamenů
 
-n/a {class="description"}
+n/a
 
 Kdo jednou zažije ledvinovou koliku, dělá všechno pro to, aby se již neopakovala. [Vhodná životospráva][7] a **úměrné [množství různých tekutin][8]** většinou zajistí proplachování močových cest a **zamezí tvorbě nových kamenů**.
 
@@ -37,7 +39,9 @@ Kámen v močovém měchýři nemusí působit dlouho potíže a může narůst 
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -49,9 +53,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: zanet_mocoveho_mechyre
  [2]: teplota

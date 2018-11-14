@@ -5,7 +5,9 @@
 
 # Píchnutí injekce svépomocí
 
-Píchnutí injekce (aplikace léku v injekční formě) svépomocí nebo vzájemnou pomocí do podkoží nebo do svalu je jednoduché a bezbolestné. Součástí přípravy je dodržení hygienických pravidel a volba vhodného místa vpichu. {class="description" kw="léky, injekce, nevolnost, mdloba, tampon, dezinfekce, krvácení, bolest, tkáň, injekční stříkačka, injekční jehla"}
+{kw="léky, injekce, nevolnost, mdloba, tampon, dezinfekce, krvácení, bolest, tkáň, injekční stříkačka, injekční jehla"}
+
+Píchnutí injekce (aplikace léku v injekční formě) svépomocí nebo vzájemnou pomocí do podkoží nebo do svalu je jednoduché a bezbolestné. Součástí přípravy je dodržení hygienických pravidel a volba vhodného místa vpichu.
 
 Někteří lidé se musejí naučit píchnout si injekci svépomocí nebo vzájemnou pomocí. Bývají k tomu náležitě poučeni a vyškoleni zdravotnickým perzonálem. Přesto mohou vzniknout určité nejasnosti, zvláště pak ve spojení s nervozitou.
 
@@ -13,7 +15,7 @@ Někteří lidé se musejí naučit píchnout si injekci svépomocí nebo vzáje
 
 ## Kam píchnout jakou injekci
 
-n/a {class="description"}
+n/a
 
 Přesně dané množství jasně označeného léku (jako např. [inzulín][1], glukagon, atropin) se podává nejčastěji [do svalu nebo do podkoží][2] – v souladu s přiloženým návodem.
 
@@ -24,7 +26,7 @@ Přesně dané množství jasně označeného léku (jako např. [inzulín][1], 
 
 ## Příprava na píchnutí injekce
 
-n/a {class="description"}
+n/a
 
 Před samotným píchnutím injekce je potřeba dbát na hygienu a připravit si veškerý potřebný materiál. Vlastní aplikace léku by měla **probíhat v čistém a klidném prostředí**. Ideální je dobře větraná místnost s pohovkou, kam lze po úkonu ulehnout v případě [slabosti nebo nevolnosti][3].
 
@@ -36,7 +38,7 @@ Následuje příprava veškerého materiálu: dezinfekce, tamponů, vlastního l
 
 ## Doporučený postup píchnutí injekce
 
-n/a {class="description"}
+n/a
 
 Před píchnutím injekce má být pacient zklidněný a vyrovnaný. Samotné [píchnutí injekce téměř nebolí][4]. Při podávání léku může pacient vnímat určitý tlak nebo mírné štípání. V rámci aplikace injekce se doporučuje:
 
@@ -50,7 +52,9 @@ Před píchnutím injekce má být pacient zklidněný a vyrovnaný. Samotné [p
 
 Přítomnost krve v injekci po _aspiraci_ vypovídá o napíchnutí žíly. Pravděpodobnost napíchnutí žíly ve svalu je malá. Léky určené do svalu nebo do podkoží se mají vstřebávat postupně. Případná aplikace takového léku do žíly proto může být pro organizmus příliš zatěžující.
 
-Při vytahování jehly je třeba postupovat šetrně, aby nedošlo k poškození tkáně. Hrot injekční jehly je ostře nabroušený dvoustranný nožík ve tvaru seříznuté trubičky a případným tlakem na jehlu (např. zboku přiloženým tamponem) lze okolní tkáň poškodit. {class="important"}
+{class="important"}
+
+Při vytahování jehly je třeba postupovat šetrně, aby nedošlo k poškození tkáně. Hrot injekční jehly je ostře nabroušený dvoustranný nožík ve tvaru seříznuté trubičky a případným tlakem na jehlu (např. zboku přiloženým tamponem) lze okolní tkáň poškodit.
 
 Vytváření kožní řasy (sevřením) nebo naopak napínání kůže (roztahováním) sloužilo dříve k přípravě prostoru pro píchnutí injekce tupou (opakovaně používanou) jehlou. Sloužilo to také k odpoutání pozornosti pacienta od bolesti, neboť [píchnutí tupou jehlou bývalo vždy bolestivé][5]. To dnes u dokonale ostrých jehel na jedno použití postrádá smysl.
 
@@ -58,7 +62,9 @@ Vytváření kožní řasy (sevřením) nebo naopak napínání kůže (roztahov
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -71,9 +77,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: cukrovka
  [2]: lekove_formy

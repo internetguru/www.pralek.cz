@@ -5,7 +5,9 @@
 
 # Natažení nebo natržení svalu
 
-Natažení svalu nelze od jeho natržení laicky rozeznat. Rozdíl v léčení je zásadní, a proto je vhodné vyhledat odborné vyšetření. {class="description" kw="sval, natažení svalu, natržení svalu, natržení lýtka, léčení nataženého svalu, léčení natrženého svalu, defekt ve svalu"}
+{kw="sval, natažení svalu, natržení svalu, natržení lýtka, léčení nataženého svalu, léčení natrženého svalu, defekt ve svalu"}
+
+Natažení svalu nelze od jeho natržení laicky rozeznat. Rozdíl v léčení je zásadní, a proto je vhodné vyhledat odborné vyšetření.
 
 Natažení nebo natržení svalu je úraz ponejvíce mužů středního věku. Jestliže je od svalu požadovaná síla větší, než je sval schopen zvládnout, poškodí se jeho struktura. Může dojít v lepším případě k natažení a v horším případě k přetržení části přetíženého svalu. Obojí se projeví prudkou pálivou bolestí v poraněném svalu.
 
@@ -13,7 +15,7 @@ Natažení nebo natržení svalu je úraz ponejvíce mužů středního věku. J
 
 ## Nejčastější mechanizmy natažení nebo natržení svalu
 
-n/a {class="description"}
+n/a
 
 K natažení nebo natržení svalu nejčastěji dochází:
 
@@ -25,7 +27,7 @@ K natažení nebo natržení svalu nejčastěji dochází:
 
 ## Svalové oblasti náchylné k natržení nebo natažení svalu
 
-n/a {class="description"}
+n/a
 
 Velmi časté je **natržení svalu v lýtkové oblasti** (výjimečně natažení). Projevuje se prudkou bolestí v poraněném místě, případně s citelným prasknutím v okamžiku přetížení. Brzy se vyvíjí otok, často se ukáže i modřina (krevní výron). Bolest znemožňuje chůzi, [nelze stoupnout na špičku nohy][1].
 
@@ -37,7 +39,7 @@ Ostatní svalové skupiny bývají postiženy vždy podle přetěžování **v s
 
 ## Rozlišení a léčení nataženého nebo natrženého svalu
 
-n/a {class="description"}
+n/a
 
 Poraněný sval je dobré zaledovat a nepoužívat jej (nechat v klidu). Uložení do zvýšené polohy zmírní prokrvácení a zamezí vzniku otoku. Hmatný defekt ve svalu by svědčil pro jeho hrubé poškození. To se stává zřídkakdy.
 
@@ -50,7 +52,9 @@ K rozlišení natažení nebo natržení je třeba odborného lékařského vyš
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -64,8 +68,12 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: onemocneni_slach

@@ -5,13 +5,15 @@
 
 # Mateřské znaménko, bradavice nebo rakovina
 
-Různé kožní výrůstky jsou různě nebezpečné. Ploché mateřské znaménko může za určitých podmínek způsobit závažnou rakovinu. Bazaliom je takový typ rakoviny, který se může v kůži rozšiřovat, ale člověka nezahubí. {class="description" kw="mateřské znaménko, piha, névus, drážděné znaménko, poraněné znaménko, maligní melanom, rakovina kůže, verruka, bradavice, výrůstek na kůži, fibrom, bazaliom, zarudlý svědící boláček, pupínek, kožní nádor"}
+{kw="mateřské znaménko, piha, névus, drážděné znaménko, poraněné znaménko, maligní melanom, rakovina kůže, verruka, bradavice, výrůstek na kůži, fibrom, bazaliom, zarudlý svědící boláček, pupínek, kožní nádor"}
+
+Různé kožní výrůstky jsou různě nebezpečné. Ploché mateřské znaménko může za určitých podmínek způsobit závažnou rakovinu. Bazaliom je takový typ rakoviny, který se může v kůži rozšiřovat, ale člověka nezahubí.
 
 {id="kdy\_odstranit\_materske\_znamenko\_neboli\_pihu\_ci_nevus"}
 
 ## Kdy odstranit mateřské znaménko neboli pihu či névus
 
-n/a {class="description"}
+n/a
 
 Mateřské znaménko, které mírně vystupuje nad povrch kůže, je vrozené, není chronicky (dlouhodobě) drážděné a nebývá poraněné, není nebezpečné. Bývá tmavší než okolní kůže a mohou z něj vyrůstat chlupy. Nikdy nesvědí ani nekrvácí, neroste. Mívá velikost několik milimetrů až centimetrů. Většinou působí jen kosmeticky – majitele hyzdí nebo zkrášluje. Pak **není medicínský důvod takové znaménko odstraňovat**.
 
@@ -23,7 +25,7 @@ Chronicky drážděné či opakovaně poraněné znaménko by se mohlo proměnit
 
 ## Bradavice (verruka) rakovinu nezpůsobí
 
-n/a {class="description"}
+n/a
 
 Bradavice je tuhý výrůstek na kůži barvy kůže nebo světlejší, na povrchu rozbrázděný. Nerostou z ní chlupy. Nejčastěji se vyskytují u dětí a mladých lidí na rukou a na nohou, někdy na loktech nebo na kolenou. Často se vyskytují mnohočetně. Bradavice jsou [virového původu][2], tedy jsou přenosné. Mohou se samy ztrácet a jinde vznikat. **Bradavice nikdy nejsou nebezpečné**, zhoubný nádor z nich nevznikne.
 
@@ -33,7 +35,7 @@ Bradavice je tuhý výrůstek na kůži barvy kůže nebo světlejší, na povrc
 
 ## Měkký výrůstek na kůži (fibrom) není nebezpečný
 
-n/a {class="description"}
+n/a
 
 [Fibrom je nezhoubný nádor][4]; měkký nebolestivý kulovitý nebo dokonce stopkatý výrůstek na kůži kdekoli na těle. Vyskytují se ve středním a vyšším věku a bývají laicky nesprávně označovány jako bradavice, český výraz pro ně není (známé jsou fibromy v obličeji některých našich politiků). **Fibromy nejsou nebezpečné**. Mívají barvu kůže nebo jsou tmavší, nebolí ani nesvědí. Rostou z nich chlupy. Odstranění je možné z kosmetických důvodů.
 
@@ -41,7 +43,7 @@ n/a {class="description"}
 
 ## Podmínky, za kterých je ploché mateřské znaménko nebezpečné
 
-n/a {class="description"}
+n/a
 
 Nebezpečné je tmavé znaménko v rovině kůže, které nově vzniklo nebo se jakkoli mění, svědí, z jedné strany se ztrácí a na druhou stranu roste nebo dokonce krvácí. Za těchto okolností **může ploché mateřské znaménko [způsobit rakovinu][5]**. Je třeba neprodleně vyhledat odborného lékaře a řídit se jeho doporučením.
 
@@ -51,7 +53,7 @@ K aktivizaci (propuknutí nebezpečného stavu) plochého znaménka často vede 
 
 ## Bazaliom, dlouho se nehojící stroupek nebo defekt, je rakovina kůže
 
-n/a {class="description"}
+n/a
 
 Bazaliom je zarudlý svědící boláček, který se dlouho (až měsíce) nehojí a po zaschnutí na něm pevně lpí stroupek nebo šupinky kůže nebo se tvoří defekt v kůži. Vzniká ve středním a vyšším věku na částech těla (obličej, kštice, uši, krk, ramena), která jsou dlouhodobě (po léta) [nadměrně vystavována slunci][6]. **Bazaliom je kožní zhoubný nádor a nutně vyžaduje lékařské vyšetření**.
 
@@ -59,7 +61,9 @@ Bazaliom je zarudlý svědící boláček, který se dlouho (až měsíce) nehoj
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -73,9 +77,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: mytus_o_rakovine
  [2]: chripka

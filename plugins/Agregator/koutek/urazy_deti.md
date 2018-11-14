@@ -5,13 +5,15 @@
 
 # Časté úrazy malých dětí
 
-Mechanizmy úrazů malých dětí se stále stejně opakují. Jestliže budou opatrovníkům známé, je snadné takovým úrazům předcházet. {class="description" kw="pády, pronatio dolorosa, poranění hlavy, poranění ústní dutiny, vdechnutí sousta, omotaný vlas kolem prstu, spáleniny, prevence spálenin"}
+{kw="pády, pronatio dolorosa, poranění hlavy, poranění ústní dutiny, vdechnutí sousta, omotaný vlas kolem prstu, spáleniny, prevence spálenin"}
+
+Mechanizmy úrazů malých dětí se stále stejně opakují. Jestliže budou opatrovníkům známé, je snadné takovým úrazům předcházet.
 
 {id="pady\_malych\_deti"}
 
 ## Pády malých dětí
 
-n/a {class="description"}
+n/a
 
 Pády malých dětí jsou někdy velmi bizarní. Dítě se často při pádu převaluje přes zakloněnou hlavu, aniž by si způsobilo jakoukoli újmu na zdraví. S oblibou jsou takové pády vysílány v rámci veselých videí na internetu. Aby ve výsledku skutečně nedošlo k poranění, je nutné dodržovat určitá pravidla.
 
@@ -26,7 +28,7 @@ Dítě, které se učí chodit, padá velmi často. Vzhledem k nedokonalé koord
 
 ## Omotaný vlas kolem prstu
 
-n/a {class="description"}
+n/a
 
 Při koupeli kojence spadne matčin vlas do vody. Při mytí nožiček je nepozorovaně omotán kolem prstu na noze. Při osušování není nic zvláštního vidět, dítě nic nebolí, je spokojené. Při následném oblékání může **vlas prst zaškrtit**.
 
@@ -36,7 +38,7 @@ Do prstu přitéká normálně tepenná krev, zaškrcení však způsobilo, že 
 
 ## Spáleniny a jejich prevence
 
-n/a {class="description"}
+n/a
 
 Nejzávažnějšími úrazy jsou [spáleniny][8]. Co dělat, aby ke spálenině malého dítěte vůbec nedošlo:
 
@@ -52,7 +54,9 @@ Nejzávažnějšími úrazy jsou [spáleniny][8]. Co dělat, aby ke spálenině 
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -64,9 +68,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: detske_zlomeniny
  [2]: drobna_krvava_poraneni

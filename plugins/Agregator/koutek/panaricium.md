@@ -5,7 +5,9 @@
 
 # Nebezpečný zánět prstu ruky – panaricium
 
-Zánětlivé onemocnění prstu ruky může být velmi závažné a nebezpečné. Včasné ošetření zánětu chirurgem předejde rozšíření zánětu nejen po nemocné ruce ale i do celého těla. {class="description" kw="panaricium, zánět, hnisavý puchýř, zánět nehtového valu, hnis pod nehtem, zánět prstu ruky, otrava krve, sepse, lymfatická céva, lymfatická uzlina"}
+{kw="panaricium, zánět, hnisavý puchýř, zánět nehtového valu, hnis pod nehtem, zánět prstu ruky, otrava krve, sepse, lymfatická céva, lymfatická uzlina"}
+
+Zánětlivé onemocnění prstu ruky může být velmi závažné a nebezpečné. Včasné ošetření zánětu chirurgem předejde rozšíření zánětu nejen po nemocné ruce ale i do celého těla.
 
 Panaricium _(panaritium)_ je označení pro [zánět prstu na ruce][1]. Příčinou zánětu je nejčastěji **nesprávně provedená manikúra**. Vstupní bránou infekce bývá záděrka nehtového valu, zatržení nehtu, [cizí tělísko zaražené pod nehet][2], oděrka nebo poranění nejčastěji posledního článku prstu. [Infekci způsobí mikroorganizmy][3], které se běžně vyskytují na rukou a při poranění pronikají do organizmu.
 
@@ -19,7 +21,7 @@ Panaricium může postihnout lidi všech věkových skupin. U malých dětí je 
 
 ## Vznik a vývoj panaricia
 
-n/a {class="description"}
+n/a
 
 Panaricium vzniká tehdy, dostane-li se určité množství mikroorganizmů do kůže, podkoží nebo pod nehet. V případě [správně fungující imunity][6] tělo mikroorganizmy rozpozná a „označí za nepřítele“. V postižením místě vzniká boj mezi bílými krvinkami a bacily, což je projevem přirozené obranyschopnosti organizmu.
 
@@ -29,19 +31,23 @@ Postupně se vyvíjí místní zánět se svými průvodními jevy, což jsou bo
 
 ## Léčení panaricia
 
-n/a {class="description"}
+n/a
 
-Panaricium má být ošetřeno chirurgem dříve, než se začne původně ohraničený zánět rozšiřovat do celého těla a stane se tak celkovým onemocněním. {class="important"}
+{class="important"}
+
+Panaricium má být ošetřeno chirurgem dříve, než se začne původně ohraničený zánět rozšiřovat do celého těla a stane se tak celkovým onemocněním.
 
 Chirurgické ošetření panaricia se provádí v místním znecitlivění, pak dojde k vypuštění hnisu. Místní znecitlivění nemocného prstu (injekcí) je nepříjemné. Dalšího ošetření již není třeba se bát. Rozříznutí ložiska, vypuštění hnisu, výplach ložiska, úprava nehtu nebo zavedení drénu již pacient jako bolest nevnímá. [Antibiotika][7] budou nasazena dle známek šíření zánětu nebo preventivně v případě známé snížené imunity organizmu.
 
-Např. člověk po transplantaci orgánu má vždy (záměrně) sníženou imunitu. Proto je potřeba už při každém podezření na infekci preventivně nasazovat antibiotika. {class="example"}
+{class="example"}
+
+Např. člověk po transplantaci orgánu má vždy (záměrně) sníženou imunitu. Proto je potřeba už při každém podezření na infekci preventivně nasazovat antibiotika.
 
 {id="sireni\_a\_komplikace_panaricia"}
 
 ## Šíření a komplikace panaricia
 
-n/a {class="description"}
+n/a
 
 Zánět nejčastěji začíná v okolí nehtu (jako puchýř naplněný hnisem nebo jen jako otok). Odtud se může šířit do bříška prstu, může postupně proniknout i do kosti nebo do kloubu. Může se šířit podél šlach do jiného prstu, do dlaně, nebo dokonce do předloktí.
 
@@ -50,7 +56,9 @@ V boji mezi bílými krvinkami a mikroby mohou mikroby dočasně vítězit a š�
   1. Nejčastěji se zánět rozšiřuje **lymfatickou cestou**. [Zanícená lymfatická céva][8] se stává bolestivou a viditelnou. Projeví se jako zarudlý pruh, který se táhne od nemocné ruky předloktím ke spádovým loketním uzlinám nebo dokonce i paží až k podpažním uzlinám. Postižené lymfatické uzliny se zvětšují a jsou velmi bolestivé.
   2. Do těla se může zánět šířit i **krevní cestou** – žílami. Žíly nemají v cestě žádná síta vychytávající produkty zánětu (jako jsou lymfatické uzliny). Proto záhy vzniká **závažné celkové zánětlivé onemocnění s teplotou** _(sepse, septikémie)_. Laicky se tento stav označuje jako otrava krve.
 
-V sepsi mohou stejným zánětem jaký byl původně v prstu onemocnět kterékoli vnitřní životně důležité orgány. {class="important"}
+{class="important"}
+
+V sepsi mohou stejným zánětem jaký byl původně v prstu onemocnět kterékoli vnitřní životně důležité orgány.
 
 V obou uvedených případech je chirurgické ošetření naprosto nezbytné, stejně jako [nasazení antibiotik][7]. Toto velmi závažné onemocnění se týká pouze prstů rukou. Na prstech nohou se prakticky nevyskytuje. Důvodem je naprosto odlišného mikrobiálního osídlení rukou a nohou.
 
@@ -60,7 +68,9 @@ Na palcích nohou může rovněž vzniknout zánět nehtových valů. Je však d
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -74,9 +84,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: zanet
  [2]: poraneni_nehtu

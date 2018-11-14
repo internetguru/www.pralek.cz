@@ -5,7 +5,9 @@
 
 # Slepák: zánět červovitého přívěsku slepého střeva
 
-Mnohotvárnost příznaků zánětu červovitého přívěsku slepého střeva (hovorově slepák) bývá příčinou komplikací nebo zanedbání jeho léčení. V případě nejasných bolestí břicha je třeba vyhledat odborného lékaře (chirurga). {class="description" kw="slepák, zánět červovitého přívěsku slepého střeva, zánět, slepé střevo, appendix, appendicitida, bolest břicha, nevolnost, zvracení, nechutenství, průjem, teplota, peritonitis"}
+{kw="slepák, zánět červovitého přívěsku slepého střeva, zánět, slepé střevo, appendix, appendicitida, bolest břicha, nevolnost, zvracení, nechutenství, průjem, teplota, peritonitis"}
+
+Mnohotvárnost příznaků zánětu červovitého přívěsku slepého střeva (hovorově slepák) bývá příčinou komplikací nebo zanedbání jeho léčení. V případě nejasných bolestí břicha je třeba vyhledat odborného lékaře (chirurga).
 
 Toto onemocnění je řazeno mezi _náhlé příhody břišní_. To znamená, že nejčastějším řešením bývá operace. Přestože se jedná o známé a běžné chirurgické onemocnění, bývá doprovázeno řadou nejasností, chyb, omylů a bohužel někdy končívá i tragicky. Důvodem je **značná mnohotvárnost příznaků** v začátku i v průběhu onemocnění.
 
@@ -15,7 +17,7 @@ Předně [tenké střevo ústí do tlustého střeva v pravém podbřišku][1]. 
 
 ## Počáteční příznaky zánětu přívěsku slepého střeva
 
-n/a {class="description"}
+n/a
 
 Pro zánět přívěsku slepého střeva **neexistují žádné typické příznaky**. Popsané příznaky se mohou vyskytovat jednotlivě nebo se jakkoli kombinovat. Mohou být zcela nenápadné nebo náhle vzplanou v plné síle a mohou trvat stejně tak hodinu jako celé dny.
 
@@ -33,7 +35,7 @@ Zánět může začít tak, že zdravý člověk večer usne a v noci jej probud
 
 ## Pozdější příznaky apendicitidy
 
-n/a {class="description"}
+n/a
 
 Jestli byly počáteční příznaky podceněny nebo přehlédnuty, [zánětlivé změny][7] se mohou dále rozvíjet a soubor příznaků se začne měnit.
 
@@ -48,7 +50,7 @@ Bolesti se mohou stupňovat – bolí každý pohyb. Pacient nemůže chodit a h
 
 ## Vývoj, léčení a komplikace apendicitidy
 
-n/a {class="description"}
+n/a
 
 Zánět může **pokročit a stát se zřejmým**. Pak vyřeší problém operace – odstranění červovitého přívěsku slepého střeva _(appendectomie)_. Plánovaná _appendectomie_ je preventivní odstranění třeba i nezměněného apendixu v případě opakovaných bolestí břicha a nejistých výsledků vyšetření z důvodu předejít komplikacím:
 
@@ -62,7 +64,7 @@ Zánět však může také zůstat v počátečním stádiu a **časem samovoln�
 
 ## Stanovení diagnózy
 
-n/a {class="description"}
+n/a
 
 Ke stanovení diagnózy je většinou nutné **opakované vyšetření odborným lékařem**. Někdy pomůže odběr a vyhodnocení krve a moči (laboratorní vyšetření), rentgen, ultrazvuk neboli sonograf, CT (počítačový tomograf, hovorově „cétéčko“) nebo MR (magnetická rezonance).
 
@@ -70,7 +72,9 @@ Ke stanovení diagnózy je většinou nutné **opakované vyšetření odborným
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -84,9 +88,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: stravovaci_navyky
  [2]: strevni_nepruchodnost

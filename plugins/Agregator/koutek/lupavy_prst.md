@@ -5,7 +5,9 @@
 
 # Lupavý prst
 
-Při tomto onemocnění je v jednom místě ztížený pohyb prstem. Při snaze o ohnutí prstu dojde po překonání určitého odporu k přeskočení prstu do nové polohy (lupnutí). {class="description" kw="prsty, palec, lupavý palec, lupnutí prstu, digitus saltans, polex saltans, bolest, lupání, léčení, operace, fixace, šlacha"}
+{kw="prsty, palec, lupavý palec, lupnutí prstu, digitus saltans, polex saltans, bolest, lupání, léčení, operace, fixace, šlacha"}
+
+Při tomto onemocnění je v jednom místě ztížený pohyb prstem. Při snaze o ohnutí prstu dojde po překonání určitého odporu k přeskočení prstu do nové polohy (lupnutí).
 
 Lupavý prst _(digitus saltans)_ je onemocnění, jež může postihnout kterýkoli prst na ruce. Nejčastěji se však jedná o palec – lupavý palec _(polex saltans)_. Jedná se o onemocnění šlachy, která ohýbá prst. Onemocnění je způsobené původně [úrazem nebo namožením šlachy][1], kterým většinou pacient nevěnuje vůbec pozornost. Teprve následně dochází k většinou velmi bolestivým zánětlivým změnám.
 
@@ -13,9 +15,11 @@ Lupavý prst _(digitus saltans)_ je onemocnění, jež může postihnout kterýk
 
 ## Příčina vzniku lupavého palce
 
-n/a {class="description"}
+n/a
 
-V prstech nejsou žádné svaly. Svaly které umožňují pohyb prstů jsou totiž uloženy na předloktí. Od svalů vedou do prstů velmi pevné hladké šlachy. Aby byly pohyby prstů plynulé a bezbolestné, jsou [šlachy uloženy ve šlachových pochvách][1]. Nad některými klouby procházejí šlachy pevnými vazivovými poutky. {class="example"}
+{class="example"}
+
+V prstech nejsou žádné svaly. Svaly které umožňují pohyb prstů jsou totiž uloženy na předloktí. Od svalů vedou do prstů velmi pevné hladké šlachy. Aby byly pohyby prstů plynulé a bezbolestné, jsou [šlachy uloženy ve šlachových pochvách][1]. Nad některými klouby procházejí šlachy pevnými vazivovými poutky.
 
 Šlacha je složena z mnoha podélně jdoucích pevných vláken. V případě jejího přetížení nebo poranění může dojít k natržení několika těchto vláken. Natržení se projeví zbytněním (uzlík) poraněné části šlachy. Jestli je rozšířené místo v blízkosti poutka, které je právě tak velké, aby jím dobře klouzala zdravá šlacha, pak rozšířené místo poutkem prochází až po překonání určitého odporu (lupnutí).
 
@@ -25,7 +29,7 @@ V počátku onemocnění bývá lupání [komplikováno zánětem][2] a je tedy 
 
 ## Léčení lupavého palce
 
-n/a {class="description"}
+n/a
 
 V počátečním stádiu onemocnění (velmi bolestivé lupání prstu) je dobré prst nerozcvičovat, naopak je třeba lupání naprosto vyloučit (zhoršoval by se zánět a tím i bolestivost). K tomu nejlépe poslouží pevná fixace prstu nebo i celé ruky. Zhruba po 3 týdnech může lupání přestat, nebo se stát méně znatelným a nebolestivým. Pak by bylo možné zlehka bez námahy bolestivý prst procvičovat.
 
@@ -35,7 +39,9 @@ V případě, že by fixace nepřinesla efekt, pak bude nutné operační řeše
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -48,9 +54,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: onemocneni_slach
  [2]: lecba_zanetu

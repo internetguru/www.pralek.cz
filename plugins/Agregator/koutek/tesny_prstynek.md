@@ -5,19 +5,23 @@
 
 # Prstýnek na oteklém prstu
 
-Včasné odstranění prstýnku z poraněné končetiny zabrání vzniku zdravotních komplikací. Ty mohou ve spojení s neléčeným škrtícím prstenem vést až ke ztrátě prstu. Přeštípnutí nebo přeříznutí prstýnku na nemocném prstu může být obtížné. {class="description" kw="poraněná končetina, prstýnek, oteklý prst, odstranění prstýnku, sejmutí prstýnku, úraz, škrtící prstýnek, přeštípnutí"}
+{kw="poraněná končetina, prstýnek, oteklý prst, odstranění prstýnku, sejmutí prstýnku, úraz, škrtící prstýnek, přeštípnutí"}
+
+Včasné odstranění prstýnku z poraněné končetiny zabrání vzniku zdravotních komplikací. Ty mohou ve spojení s neléčeným škrtícím prstenem vést až ke ztrátě prstu. Přeštípnutí nebo přeříznutí prstýnku na nemocném prstu může být obtížné.
 
 Velikost prstýnku musí být přiměřená prstu. Příliš velký prstýnek lze snadno ztratit. Malý prstýnek může za určitých podmínek zaškrtit prst, čímž může dojít k závažnému poškození zdraví.
 
 Jakýkoli léčebný zákrok na nemocné nebo zraněné končetině **začíná sejmutím prstýnku**. Vlivem úrazu (nebo jiné nezvyklé aktivity) [ruce otékají][1]. Z oteklého prstu nemusí být možné prstýnek standardně sejmout a hrozí zaškrcení prstu.
 
-K otoku prstů ruky může dojít nejen následkem úrazu, ale i např. po delším pochodu nebo následkem infekce pod prstýnkem. Proto je potřeba prstýnek pravidelně sundávat dříve než vzniknou potíže. Kůži pod prstýnkem je nutné omývat vodou a mýdlem. Nanesení příjemného krému rovněž pomáhá předejít vzniku [nepříjemné svědivé plísně][2] pod prstýnkem. {class="example"}
+{class="example"}
+
+K otoku prstů ruky může dojít nejen následkem úrazu, ale i např. po delším pochodu nebo následkem infekce pod prstýnkem. Proto je potřeba prstýnek pravidelně sundávat dříve než vzniknou potíže. Kůži pod prstýnkem je nutné omývat vodou a mýdlem. Nanesení příjemného krému rovněž pomáhá předejít vzniku [nepříjemné svědivé plísně][2] pod prstýnkem.
 
 {id="nebezpeci\_skrticiho\_prstynku"}
 
 ## Nebezpečí škrtícího prstýnku
 
-n/a {class="description"}
+n/a
 
 Prsty [koluje krev][3] stejně jako všemi orgány – tepnami od srdce do prstů a žílami zpět do srdce. Škrtící prstýnek znemožňuje návrat krve podobně jako [vlas omotaný kolem prstu kojence][4].
 
@@ -27,7 +31,7 @@ Prsty [koluje krev][3] stejně jako všemi orgány – tepnami od srdce do prst�
 
 ## Možnosti nestandardního odstranění prstýnku
 
-n/a {class="description"}
+n/a
 
 Prstýnek se z oteklého prstu sundavá vždy ve snaze, aby zůstal nepoškozený. Jeho odstranění však někdy bývá velmi komplikované, a to v závislosti na materiálu, ze kterého je prstýnek vyroben.
 
@@ -42,7 +46,9 @@ Prstýnek se z oteklého prstu sundavá vždy ve snaze, aby zůstal nepoškozen�
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -55,9 +61,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: lecba_zanetu
  [2]: plisne_kuze

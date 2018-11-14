@@ -5,7 +5,9 @@
 
 # Kdy kašel potlačovat a kdy podporovat
 
-Každý kašel je dobré nejprve pojmenovat. Výprava do lékárny pro lék proti kašli není vždy účelným řešením potíží. Častěji pomůže lék k uvolnění průdušek, který naopak účinné odkašlání podpoří. {class="description" kw="kašel, léky, dolní cesty dýchací, průdušnice, průdušky, plicní sklípky, odkašlat, kuřácký kašel"}
+{kw="kašel, léky, dolní cesty dýchací, průdušnice, průdušky, plicní sklípky, odkašlat, kuřácký kašel"}
+
+Každý kašel je dobré nejprve pojmenovat. Výprava do lékárny pro lék proti kašli není vždy účelným řešením potíží. Častěji pomůže lék k uvolnění průdušek, který naopak účinné odkašlání podpoří.
 
 Kašlem se organizmus snaží velmi prudkým proudem vzduchu zbavit cizího tělesa nebo podráždění v dolních cestách dýchacích.
 
@@ -13,15 +15,19 @@ Kašlem se organizmus snaží velmi prudkým proudem vzduchu zbavit cizího těl
 
 S vdechovaným vzduchem jsou vdechovány i různé nečistoty. Jejich množství určuje **stupeň znečištění okolního prostředí** (se smogem a mlhou stoupají nebezpečné aerosoly a zplodiny aut a topenišť, pekař vdechuje moučný prach, horník uhelný, truhlář piliny a podobně). Řasinkový epitel nemůže donekonečna velké množství nečistot odstraňovat. Dlouhodobě pak dochází k jeho poškození a oslabení.
 
-Dlouhodobý kašel, nemožnost odkašlat, [kašel spojený s jinými příznaky][2] (horečka, celková slabost nebo dokonce [vykašlávání krve][3]) **vždy vyžaduje návštěvu lékaře** a odborné vyšetření a léčení. {class="important"}
+{class="important"}
 
-U [kuřáků cigaret][4] je opakovaným vdechováním kouře řasinkový epitel zcela zničen a nahrazen dlaždicovým. Nyní již nelze trvale očišťovat dýchací cesty činností řasinkového epitelu, ale po nahromadění nečistot a hlenu se částečně průdušky **vyčistí jedině odkašláním** (kuřácký kašel). Odnaučenému kuřákovi se řasinkový epitel může časem obnovit. {class="example"}
+Dlouhodobý kašel, nemožnost odkašlat, [kašel spojený s jinými příznaky][2] (horečka, celková slabost nebo dokonce [vykašlávání krve][3]) **vždy vyžaduje návštěvu lékaře** a odborné vyšetření a léčení.
+
+{class="example"}
+
+U [kuřáků cigaret][4] je opakovaným vdechováním kouře řasinkový epitel zcela zničen a nahrazen dlaždicovým. Nyní již nelze trvale očišťovat dýchací cesty činností řasinkového epitelu, ale po nahromadění nečistot a hlenu se částečně průdušky **vyčistí jedině odkašláním** (kuřácký kašel). Odnaučenému kuřákovi se řasinkový epitel může časem obnovit.
 
 {id="podrazdeni\_dolnich\_cest_dychacich"}
 
 ## Podráždění dolních cest dýchacích
 
-n/a {class="description"}
+n/a
 
 Vdechnutím mohou podráždit dýchací cesty:
 
@@ -40,7 +46,7 @@ Pálení nebo podráždění dýchacích cest vede ke kašli. Kašlem – prudk�
 
 ## Typy kašle; charakteristika a řešení
 
-n/a {class="description"}
+n/a
 
   * Neurotický kašel – nesmyslný;
       * Slouží nejčastěji v průběhu slovního projevu k získání času na urovnání myšlenky.
@@ -73,13 +79,17 @@ n/a {class="description"}
 
 Kašel se mění v průběhu onemocnění podle stupně podráždění nebo podle [stádia zánětlivých změn][10]. Při kašli jsou velmi zatěžovány všechny dýchací svaly. V extrémním případě si [lze kašlem způsobit kýlu][11].
 
-Aby byl **kašel účinný** (vykašlání, odkašlání) **a efektivní** (co nejlepší využití energie), je nutné sedět nebo lépe stát, v mírném předklonu, jednou rukou se opírat a druhou si přidržovat břicho. **Kašlání vleže na zádech je nevhodné**, lze tolerovat vleže na boku v předklonu. {class="important"}
+{class="important"}
+
+Aby byl **kašel účinný** (vykašlání, odkašlání) **a efektivní** (co nejlepší využití energie), je nutné sedět nebo lépe stát, v mírném předklonu, jednou rukou se opírat a druhou si přidržovat břicho. **Kašlání vleže na zádech je nevhodné**, lze tolerovat vleže na boku v předklonu.
 
 {id="otazky" var="inputvar-otazky_h"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -94,9 +104,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: ryma_a_smrkani
  [2]: bolest_v_krku_angina

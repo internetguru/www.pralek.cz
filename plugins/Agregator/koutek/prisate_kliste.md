@@ -5,7 +5,9 @@
 
 # Nákaza přisátým klíštětem
 
-Přisáté klíště je možné odstranit několika způsoby. Případná nákaza se projeví až následnými příznaky. {class="description" kw="klíště, pupínek, borelióza, zánět mozku, hmyz"}
+{kw="klíště, pupínek, borelióza, zánět mozku, hmyz"}
+
+Přisáté klíště je možné odstranit několika způsoby. Případná nákaza se projeví až následnými příznaky.
 
 Klíště může být přenašečem dvou [infekčních chorob][1] – virového zánětu mozku nebo bakteriové boreliózy. Přisátím může nemoc přenést na člověka. Přisátí klíštěte můžeme předejít vhodným oblečením pro pobyt v přírodě a různými chemickými přípravky k odpuzování hmyzu.
 
@@ -13,7 +15,7 @@ Klíště může být přenašečem dvou [infekčních chorob][1] – virového 
 
 ## Odstranění přisátého klíštěte
 
-n/a {class="description"}
+n/a
 
 Přisáté klíště je třeba neodkladně a přitom šetrně odstranit například pomocí sady k odstranění klíštěte s návodem na použití (k dostání v lékárnách). K zahubení klíštěte dobře poslouží také alkoholová desinfekce nebo jakákoli mast.
 
@@ -25,19 +27,23 @@ Po odstranění klíštěte zůstává vždy kolem místa poranění zarudlý pu
 
 ## Počáteční příznaky onemocnění
 
-n/a {class="description"}
+n/a
 
 Známkou nakažení boreliózou je až postupně se rozšiřující **začervenalá skvrna (mapa), která směrem k centru bledne**. V případě nejasnosti po odstranění klíštěte je vždy lépe vyhledat lékaře. Laboratorní vyšetření vyloučí nebo potvrdí nákazu boreliózou a léčení nebývá složité. Problémy vznikají v případě rozvinutí nepoznané boreliózy.
 
 Další chorobou, kterou může klíště na člověka přenést je virový zánět mozku (klíšťová encefalitida). Jejími projevy jsou **[bolest hlavy][2], [teplota][3], ztvrdnutí šíje**. Jedná se o závažné onemocnění, proti kterému je možné se očkovat. Informace o očkování poskytuje praktický lékař.
 
-Boreliózu může přenášet i jiný hmyz – například komár. Virový zánět mozku přenáší pouze klíště. {class="example"}
+{class="example"}
+
+Boreliózu může přenášet i jiný hmyz – například komár. Virový zánět mozku přenáší pouze klíště.
 
 {id="otazky" var="inputvar-otazky_h"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -51,9 +57,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: mikroorganizmy
  [2]: bolest_hlavy_migrena

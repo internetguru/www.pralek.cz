@@ -5,13 +5,15 @@
 
 # Onemocnění prsu
 
-Ženský i mužský prs mají stejný základ, chorobami prsu trpí ženy i muži, ženy častěji. Některé změny prsu jsou přirozené, jiné je nutné vyšetřit a mnohdy i řešit. Včasné vyšetření vede k definitivnímu vyléčení bez následků. {class="description" kw="prs, zánět, měsíčky, menstruace, gynekomastie, boulička, aterom, lipom, cysta, mammografie, fibrom, lymfatické uzliny, hydradenitis, pohmoždění prsu, rakovina prsu"}
+{kw="prs, zánět, měsíčky, menstruace, gynekomastie, boulička, aterom, lipom, cysta, mammografie, fibrom, lymfatické uzliny, hydradenitis, pohmoždění prsu, rakovina prsu"}
+
+Ženský i mužský prs mají stejný základ, chorobami prsu trpí ženy i muži, ženy častěji. Některé změny prsu jsou přirozené, jiné je nutné vyšetřit a mnohdy i řešit. Včasné vyšetření vede k definitivnímu vyléčení bez následků.
 
 {id="zanetlive\_a\_hormonalni\_onemocneni\_prsu"}
 
 ## Zánětlivé a hormonální onemocnění prsu
 
-n/a {class="description"}
+n/a
 
   * V novorozeneckém věku se objevuje poměrně často zduření jednoho nebo obou prsních žláz, které je přirozeně způsobené hormony matky. Zduření většinou samo ustoupí, někdy však může dojít k [rozvoji zánětu][1] v prsu a [k tvorbě abscesu v prsní žláze][2]. Absces je pak nutno chirurgicky ošetřit.
   * V dětském věku se potíže objevují velmi zřídka, spíše se jedná o úrazy při pádech. Při ošetření úrazu je třeba dbát o celistvost bradavky i bradavkového dvorce.
@@ -28,7 +30,7 @@ n/a {class="description"}
 
 ## Boulička v prsu
 
-n/a {class="description"}
+n/a
 
 Bouličky vyskytující se v prsu mohou být různého původu:
 
@@ -64,7 +66,9 @@ Bouličky vyskytující se v prsu mohou být různého původu:
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -78,9 +82,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: zanet
  [2]: bolest_v_krku_angina

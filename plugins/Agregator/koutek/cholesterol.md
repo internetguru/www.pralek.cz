@@ -5,7 +5,9 @@
 
 # Jak snížit hladinu cholesterolu v krvi
 
-Vysoká hladina cholesterolu v krvi a jeho usazování v cévách je následkem dlouhodobého stresu a nedostatku vitamínu C. Obojímu lze tedy přirozeně předejít omezením stresu a správnou životosprávou. Vynechání tučných jídel nemá na hladinu cholesterolu v krvi žádný vliv. {class="description" kw="cholesterol, hladina cholesterolu, význam cholesterolu, funkce cholesterolu, hodný a zlý cholesterol, stres, vitamín C"}
+{kw="cholesterol, hladina cholesterolu, význam cholesterolu, funkce cholesterolu, hodný a zlý cholesterol, stres, vitamín C"}
+
+Vysoká hladina cholesterolu v krvi a jeho usazování v cévách je následkem dlouhodobého stresu a nedostatku vitamínu C. Obojímu lze tedy přirozeně předejít omezením stresu a správnou životosprávou. Vynechání tučných jídel nemá na hladinu cholesterolu v krvi žádný vliv.
 
 Lidské tělo k životu nezbytně potřebuje cholesterol. Cholesterol je součástí každé buňky v lidském těle a je důležitou stavební jednotkou nervových obalů, nervů, mozkových buněk, některých hormonů a vitamínu D.
 
@@ -15,7 +17,7 @@ Cholesterol je tvořen v játrech, a pak je krevním oběhem dopravován k cílo
 
 ## Množství cholesterolu v krvi
 
-n/a {class="description"}
+n/a
 
 Lidský organizmus si v játrech vyrobí právě tolik cholesterolu, kolik zrovna potřebuje. Pokud ho ve stravě dostane méně než potřebuje, vyrobí si jej z jiných zdrojů. Naopak pokud organizmus dostane cholesterolu více než potřebuje, vyrobí si z něj (po rozložení) kterékoli jiné látky podle momentální potřeby (např. cukr).
 
@@ -30,7 +32,7 @@ Pro standardní chod potřebuje organizmus určité (standardní) množství cho
 
 ## Snižování vysoké hladiny cholesterolu v krvi
 
-n/a {class="description"}
+n/a
 
 Negativním důsledkem dlouhodobě vysoké hladiny cholesterolu v krvi je [zanášení cév][1]. Proto je dobré zvýšené potřebě cholesterolu předcházet. Pro snížení vysoké hladiny cholesterolu v krvi je potřeba **odstranit příčiny potřeby organizmu cholesterol tvořit**:
 
@@ -39,7 +41,9 @@ Negativním důsledkem dlouhodobě vysoké hladiny cholesterolu v krvi je [zaná
 
 Množství tuků přijatých v potravě nemá na hladinu cholesterolu v krvi žádný vliv. Vzhledem k tomu, že si tělo reguluje přítomnost cholesterolu v krvi, je bezpředmětné zabývat se chemickou podstatou procesů a formou jeho šíření krevním oběhem (dělením cholesterolu na „hodný a zlý“).
 
-Pokud je člověk dlouhodobě ve stresu, bude mít hladinu cholesterolu vysokou, i když jeho příjem tuků je dlouhodobě minimální. Pokud má však cévy zdravé, nemusí se v nich cholesterol vůbec ukládat. Naproti tomu pohodový člověk, který se dlouhodobě stravuje třeba i tučně, může mít hladinu cholesterolu v krvi nízkou. Přesto se mu může cholesterol v cévách ukládat ([kornatění cév][1]), pokud [nedodržuje správnou životosprávu][2]. {class="example"}
+{class="example"}
+
+Pokud je člověk dlouhodobě ve stresu, bude mít hladinu cholesterolu vysokou, i když jeho příjem tuků je dlouhodobě minimální. Pokud má však cévy zdravé, nemusí se v nich cholesterol vůbec ukládat. Naproti tomu pohodový člověk, který se dlouhodobě stravuje třeba i tučně, může mít hladinu cholesterolu v krvi nízkou. Přesto se mu může cholesterol v cévách ukládat ([kornatění cév][1]), pokud [nedodržuje správnou životosprávu][2].
 
 Podstata chemického snižování hladiny cholesterolu v krvi (pomocí léků) spočívá v **potlačení přirozené funkce jater**. Tím ovšem nezaniká potřeba organizmu cholesterol dále vyrábět. Játra jsou tedy cíleně ničena a výroba potřebných látek (jakýchkoli, včetně cholesterolu) je pro ně mnohem náročnější. Proto jsou negativní účinky užívání těchto léků (statinů) tak rozsáhlé – svalová slabost, bolest, únava, poškození končetinových nervů, závratě, zhoršení paměti, snížení imunity, deprese a jaterní potíže.
 
@@ -47,7 +51,9 @@ Podstata chemického snižování hladiny cholesterolu v krvi (pomocí léků) s
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -61,9 +67,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: srdecni_infarkt
  [2]: stravovaci_navyky

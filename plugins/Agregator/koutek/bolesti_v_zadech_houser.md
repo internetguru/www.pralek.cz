@@ -5,7 +5,9 @@
 
 # Bolesti v zádech, houser
 
-Je přímá souvislost mezi bolestmi v zádech, nepřiměřenou fyzickou aktivitou, zpocením a následným prochlazením zad a to nejčastěji v oblasti bederní nebo krční páteře. {class="description" kw="houser, páteř, bolest v zádech, obratel, klouby, vazy, svaly, SI skloubení, meziobratlová destička, disk, bolest, zatvrdliny, kontraktury, výhřez, deformita páteře, výrůstky"}
+{kw="houser, páteř, bolest v zádech, obratel, klouby, vazy, svaly, SI skloubení, meziobratlová destička, disk, bolest, zatvrdliny, kontraktury, výhřez, deformita páteře, výrůstky"}
+
+Je přímá souvislost mezi bolestmi v zádech, nepřiměřenou fyzickou aktivitou, zpocením a následným prochlazením zad a to nejčastěji v oblasti bederní nebo krční páteře.
 
 Páteř je oporou těla. Aby dobře plnila svou funkci, musí být přiměřeně **pevná, ohebná a pružná**. Obratle, z nichž se páteř skládá, si můžeme představit jako komín postavený z hracích kostek. Obratle jsou spojeny [mnoha klouby][1], vazy a svaly. Zvláštní pozornost zasluhuje velmi zatěžovaný kloub mezi páteří a pánví – _SI skloubení_.
 
@@ -15,13 +17,15 @@ Vazy musí mít určitou přiměřenou vůli, aby byla umožněna **ohebnost pá
 
 **Pružnost páteře** zajišťují meziobratlové destičky (disky). Pevné obratle mají na sousedních stranách konvexní prohnutí a vzniklý čočkovitý prostor je vyplněn pružnou meziobratlovou destičkou, která je složena z několika vrstev (podobně jako cibule). Proto je páteř stlačitelná a roztažitelná. Dospělý člověk je po zátěži (večer) o 1 až 2 cm nižší než po odpočinku vleže (ráno).
 
-Součinnost popsaných komponent umožňuje správnou a bezbolestnou funkci páteře. {class="important"}
+{class="important"}
+
+Součinnost popsaných komponent umožňuje správnou a bezbolestnou funkci páteře.
 
 {id="co\_a\_proc_boli"}
 
 ## Co a proč bolí
 
-n/a {class="description"}
+n/a
 
 Může vzniknout problém ve stavbě páteře, jako:
 
@@ -40,7 +44,7 @@ Zhoršováním stavu může dojít až k **výhřezu meziobratlového disku** sm
 
 ## Co dělat proti bolestem v zádech
 
-n/a {class="description"}
+n/a
 
 Bolesti v zádech začínají již v dětském věku. Vyskytují se u lidí cvičících i lenošících, u sportovců, počítačových nadšenců, u obézních i hubených. Nejvíce potíží mívají lidé v dospělosti, ve stáří bolesti v zádech většinou samovolně ustupují.
 
@@ -62,7 +66,9 @@ Hlavní zásady, jak zmírnit bolesti v zádech:
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -78,9 +84,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: artroza
  [2]: starecke_zlomeniny

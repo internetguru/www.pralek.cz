@@ -5,7 +5,9 @@
 
 # Imunita: obranyschopnost organizmu
 
-Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imunita mění, lze ji podpořit zdravým způsobem života nebo naopak oslabit nadměrným užíváním léků. {class="description" kw="obranyschopnost organizmu, imunita, noxa, oslabení imunity, imunitní systém, bakterie, zánět, onemocnění, alergie, autoimunní onemocnění, nemoc, prochlazení, přirozený porod, kojení"}
+{kw="obranyschopnost organizmu, imunita, noxa, oslabení imunity, imunitní systém, bakterie, zánět, onemocnění, alergie, autoimunní onemocnění, nemoc, prochlazení, přirozený porod, kojení"}
+
+Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imunita mění, lze ji podpořit zdravým způsobem života nebo naopak oslabit nadměrným užíváním léků.
 
 Stupně nastavení imunitního systému
 
@@ -18,7 +20,7 @@ Stupně nastavení imunitního systému
 
 ## Co dělat pro správně fungující imunitní systém
 
-n/a {class="description"}
+n/a
 
 Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedinec, který má řádně vyvinutý imunitní (obranný) systém, je tedy odolný vůči [nakažlivým nemocem][2] i vůči [prochlazení][3], vyroste tehdy,
 
@@ -34,9 +36,11 @@ Skleníkové prostředí bez přítomnosti bakterií není pro zdárný vývoj d
 
 ## Imunitní systém a antibiotika
 
-n/a {class="description"}
+n/a
 
-Opakované a nadměrné užívání antibiotik vede k oslabení imunitního systému. Choroboplodné zárodky jsou pomocí antibiotik zlikvidovány dříve, nežli se proti nim vytvoří dostatečně kvalitní imunita. {class="important"}
+{class="important"}
+
+Opakované a nadměrné užívání antibiotik vede k oslabení imunitního systému. Choroboplodné zárodky jsou pomocí antibiotik zlikvidovány dříve, nežli se proti nim vytvoří dostatečně kvalitní imunita.
 
 Při opakovaném setkání se stejným mikrobem může tedy dojít k opakovanému onemocnění. Nyní již však má tento mikrob patrně vytvořenou resistenci vůči tomu [antibiotiku][1], kterým byl pacient posledně léčen. Pro zvládnutí klinicky stejné choroby je nutné nasadit odlišné antibiotikum.
 
@@ -44,7 +48,9 @@ Při opakovaném setkání se stejným mikrobem může tedy dojít k opakovaném
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -57,9 +63,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: antibiotika
  [2]: mikroorganizmy

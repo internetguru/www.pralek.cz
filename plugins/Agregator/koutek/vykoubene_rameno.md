@@ -5,7 +5,9 @@
 
 # Šetrná léčba vykloubeného ramene
 
-Vykloubení ramene (luxace ramene) je velmi bolestivý a právem obávaný úraz. Napravení se provádí vždy citlivě, bez násilí, bez trhání nebo škubání. Často je nezbytné celkové znecitlivění. {class="description" kw="rameno, vymknutí, vykloubení, luxace, přední, dolní, zadní, horní, nitrohrudní, opakovaná, recidivující, habituální"}
+{kw="rameno, vymknutí, vykloubení, luxace, přední, dolní, zadní, horní, nitrohrudní, opakovaná, recidivující, habituální"}
+
+Vykloubení ramene (luxace ramene) je velmi bolestivý a právem obávaný úraz. Napravení se provádí vždy citlivě, bez násilí, bez trhání nebo škubání. Často je nezbytné celkové znecitlivění.
 
 Rameno je nejvolnější kloub v těle, protože umožňuje pohyb paží všemi směry. Kloubní jamka ramene je tedy velmi mělká a proto může působením násilí nevhodným směrem snadno dojít k vykloubení ramene. To je stav, kdy kloubní hlavice opustila kloubní jamku.
 
@@ -13,7 +15,7 @@ Rameno je nejvolnější kloub v těle, protože umožňuje pohyb paží všemi 
 
 ## Typy vykloubení ramene a mechanizmus jejich vzniku
 
-n/a {class="description"}
+n/a
 
 **Nejobvyklejší je _přední luxace_** (9 z 10 případů), tedy vykloubení hlavice pažní kosti z kloubní jamky směrem dopředu. K takovému vykloubení ramene dochází nejčastěji při odtažení paže od těla a jejím zvedání proti odporu, někdy třeba jen při oblékání, jindy při nárazu nataženou paží proti překážce. _Přední luxace_ se bohužel může vracet (dále).
 
@@ -23,7 +25,7 @@ Ostatní typy vykloubení ramene (směrem dozadu nebo dolů) jsou mnohem méně 
 
 ## Vykloubené rameno a první pomoc
 
-n/a {class="description"}
+n/a
 
 Ihned po úrazu nastupuje **prudká bolest postiženého ramene** a nemožnost poraněnou paží vykonat jakoukoli činnost. Rameno vypadá oproti druhému ramenu nesymetricky _(má změněnou konfiguraci)_. Bezvládná paže visí dolů nebo si ji pacient přidržuje v pro něj přijatelné poloze.
 
@@ -35,11 +37,13 @@ Zraněný nesmí jíst, pít, kouřit ani brát léky. V případě celkového z
 
 ## Léčení vykloubeného ramene není bolestivé
 
-n/a {class="description"}
+n/a
 
 Napravení vykloubeného ramene _(repozice, laicky nahození ramene)_ probíhá zcela bezbolestně. Lékař nasměruje uvolněnou paži tak, aby hlavice pažní kosti samovolně zapadla zpět do kloubní jamky. **Napravování se provádí zcela bez násilí** – bez jakéhokoli škubání nebo trhání.
 
-Pacient s vykloubeným ramenem bývá vyděšený a stresovaný – prudkou bolestí a k tomu **strachem z léčebného výkonu**. Z akčních filmů totiž zná napravování „trháním paží souběžně s řevem či zakousnutím se do roubíku“. Takové napravení vykloubeného ramene je však ve skutečnosti zcela nemožné. Naopak je dokonce nebezpečné, protože může dojít k dalšímu poškození okolních struktur (např. cév). {class="example"}
+{class="example"}
+
+Pacient s vykloubeným ramenem bývá vyděšený a stresovaný – prudkou bolestí a k tomu **strachem z léčebného výkonu**. Z akčních filmů totiž zná napravování „trháním paží souběžně s řevem či zakousnutím se do roubíku“. Takové napravení vykloubeného ramene je však ve skutečnosti zcela nemožné. Naopak je dokonce nebezpečné, protože může dojít k dalšímu poškození okolních struktur (např. cév).
 
 Když pacient nedokáže rameno uvolnit, musí nastoupit celkové znecitlivění (se svými riziky). Po uspání pacienta dojde k uvolnění svalů a hlavice pažní kosti velmi snadno vklouzne zpět do kloubní jamky. Celkové znecitlivění je také nutné, pokud se jedná o jinou než _přední luxaci_. V takových případech totiž napravení bývá komplikovanější.
 
@@ -47,7 +51,7 @@ Když pacient nedokáže rameno uvolnit, musí nastoupit celkové znecitlivění
 
 ## Opakované luxace a jejich léčení
 
-n/a {class="description"}
+n/a
 
 Bohužel se stává, že se _přední luxace_ ramene může po zahojení a následném rozcvičení (rekonvalescenci) obnovit. **Při opakované luxaci je nutné pátrat po příčině nestability ramene.** Už při původním vykloubení mohlo totiž dojít k odlomení části chrupavky nebo okraje kosti i s kloubním pouzdrem, což nemusí být vždy z rentgenu patrné.
 
@@ -59,7 +63,9 @@ Při opakované luxaci ramene je vhodné po odborném vyšetření vyhledat spec
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -72,9 +78,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: pneumotorax
  [2]: rychla_lekarska_pomoc

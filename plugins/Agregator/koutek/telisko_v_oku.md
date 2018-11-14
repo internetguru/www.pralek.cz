@@ -5,7 +5,9 @@
 
 # Cizí tělísko v oku
 
-Cizí tělísko lze odstranit z oka svépomocí nebo vzájemnou pomocí. K odstranění smítka je vhodná navlhčená vatová ušní štětička nebo čistý růžek látkového kapesníku. V případě podezření na poranění oka nebo poranění rohovky je však nezbytné ošetření očním lékařem. {class="description" kw="oční bělmo, oční bulbus, oční panenka, oční zornička, oční sítnice, oční pozadí, tělísko v oku, převrácení horního očního víčka, spojivkový vak, poranění oka, poleptání oka"}
+{kw="oční bělmo, oční bulbus, oční panenka, oční zornička, oční sítnice, oční pozadí, tělísko v oku, převrácení horního očního víčka, spojivkový vak, poranění oka, poleptání oka"}
+
+Cizí tělísko lze odstranit z oka svépomocí nebo vzájemnou pomocí. K odstranění smítka je vhodná navlhčená vatová ušní štětička nebo čistý růžek látkového kapesníku. V případě podezření na poranění oka nebo poranění rohovky je však nezbytné ošetření očním lékařem.
 
 Nejčastěji ulpí cizí tělísko (jakékoli smítko, částečka prachu nebo muška) pod dolním víčkem oka (ve spojivkovém vaku). Cizí tělísko v oku tlačí nebo řeže. **Výplach oka** oční vodou může smítko vyplavit a **vždy ulevuje podrážděnému oku** i po odstranění smítka.
 
@@ -19,17 +21,19 @@ Zcela jiným případem je takzvané _ječné zrno_. Jedná se o [zánět vlasov
 
 ## Smítko pod dolním víčkem
 
-n/a {class="description"}
+n/a
 
 Smítko, které spadne do oka a zůstane volné, většinou následně splave pod dolní víčko. Vyjmutí smítka zpod dolního víčka je snadné. Po prostém oddálení dolního víčka je spojivkový vak přehledný a smítko bývá dobře přístupné. Smítko může následně i samovolně vyplavat zvýšeným slzením.
 
-Malé dítě se smítkem v oku je dobré nechat si chvíli poplakat. Pláčem se zvýší pravděpodobnost samovolného vyplavení smítka z oka. {class="example"}
+{class="example"}
+
+Malé dítě se smítkem v oku je dobré nechat si chvíli poplakat. Pláčem se zvýší pravděpodobnost samovolného vyplavení smítka z oka.
 
 {id="smitko\_pod\_hornim_vickem"}
 
 ## Smítko pod horním víčkem
 
-n/a {class="description"}
+n/a
 
 Cizí tělísko se může dostat pod horní oční víčko. Lze jej odstranit svépomocí. Podmínkou je však převrácení horního očního víčka:
 
@@ -39,13 +43,15 @@ Cizí tělísko se může dostat pod horní oční víčko. Lze jej odstranit sv
 
 Vhodným nástrojem k převrácení horního víčka může být vatová ušní štětička. Víčko většinou samo drží v převrácené poloze. Nyní je možné tělísko navlhčenou štětičkou snadno odstranit. Zamrkáním se poté víčko vrátí do původní polohy.
 
-Velmi často se pod horní víčko dostane vypadlá oční řasa. V takovém případě často postačí přetažení horního víčka přes dolní a pozvolným sjetím je řasa zpod horního víčka odstraněna. {class="example"}
+{class="example"}
+
+Velmi často se pod horní víčko dostane vypadlá oční řasa. V takovém případě často postačí přetažení horního víčka přes dolní a pozvolným sjetím je řasa zpod horního víčka odstraněna.
 
 {id="odstraneni\_ciziho\_teliska\_z\_povrchu_oka"}
 
 ## Odstranění cizího tělíska z povrchu oka
 
-n/a {class="description"}
+n/a
 
 Cizí tělísko plovoucí na očním bělmu lze šetrně odstranit rohem látkového kapesníku nebo navlhčenou štětičkou. K odstranění většinou postačí se tělíska nástrojem lehce dotknout.
 
@@ -55,29 +61,37 @@ Pokud tělísko v oku pevně lpí a nelze jej snadno odstranit, existuje podezř
 
 ## Ostré cizí tělísko v rohovce
 
-n/a {class="description"}
+n/a
 
 Cizí tělísko zaseknuté nebo pevně lpící v rohovce nad oční panenkou **ohrožuje pacienta poruchou zraku**. V případě poranění rohovky se bude rohovka (jako všechny tkáně lidského těla) hojit jizvou. Jizva rohovky však již nebude dokonale průhledná jako zdravá rohovka a nutně **povede k trvalé poruše zraku** nebo ke složité operaci oka – k transplantaci rohovky.
 
-Panenka je sametově černá proto, že uvnitř oka je tma. Pouze na nevydařených fotografiích je panenka červená, protože je silným světlem fotoblesku osvíceno červené (bohatě prokrvené) oční pozadí (sítnice). {class="example"}
+{class="example"}
+
+Panenka je sametově černá proto, že uvnitř oka je tma. Pouze na nevydařených fotografiích je panenka červená, protože je silným světlem fotoblesku osvíceno červené (bohatě prokrvené) oční pozadí (sítnice).
 
 {id="poleptani_oka"}
 
 ## Poleptání oka
 
-n/a {class="description"}
+n/a
 
 K nejzávažnějším úrazům s ohrožením zraku patří poleptání oka (poleptání rohovky). Časté je poleptání oka vápnem při zednických pracích nebo kyselinou či zásadou v laboratořích.
 
-Při poleptání oka je první pomocí vyplachování oka čistou vodou (nebo v lékárně zakoupenou oční vodou) nepřetržitě až do převzetí péče oftalmologem. {class="important"}
+{class="important"}
 
-Laický pokus o neutralizaci poleptaného oka je zcela nevhodný – nikdy totiž nelze odhadnout množství leptající látky v oku. {class="example"}
+Při poleptání oka je první pomocí vyplachování oka čistou vodou (nebo v lékárně zakoupenou oční vodou) nepřetržitě až do převzetí péče oftalmologem.
+
+{class="example"}
+
+Laický pokus o neutralizaci poleptaného oka je zcela nevhodný – nikdy totiž nelze odhadnout množství leptající látky v oku.
 
 {id="otazky" var="inputvar-otazky_h"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -91,9 +105,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: zanet
  [2]: nalehavost_lekarskeho_vysetreni

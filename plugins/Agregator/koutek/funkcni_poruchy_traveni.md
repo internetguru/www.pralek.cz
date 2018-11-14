@@ -5,13 +5,15 @@
 
 # Funkční poruchy trávení: zvracení, průjem, škytání, větry
 
-Mnohým funkčním poruchám trávení lze předejít dodržováním správných stravovacích návyků. {class="description" kw="trávení, zvracení, průjem, škytání, větry, peristaltika, nevolnost, zvedání žaludku, pocit na zvracení, nausea, zkažená potrava, střevní neprůchodnost, pocit zástavy plynů a stolice, úraz hlavy, tenesmy, škytání, škytavka, stolice, defekační reflex, zadržování stolice"}
+{kw="trávení, zvracení, průjem, škytání, větry, peristaltika, nevolnost, zvedání žaludku, pocit na zvracení, nausea, zkažená potrava, střevní neprůchodnost, pocit zástavy plynů a stolice, úraz hlavy, tenesmy, škytání, škytavka, stolice, defekační reflex, zadržování stolice"}
+
+Mnohým funkčním poruchám trávení lze předejít dodržováním správných stravovacích návyků.
 
 {id="zvraceni\_podle\_priciny\_podporit\_nebo\_se\_mu_branit"}
 
 ## Zvracení podle příčiny podpořit nebo se mu bránit
 
-n/a {class="description"}
+n/a
 
 Zvracení je stav, kdy se žaludeční obsah neposunuje dále do dvanácterníku _(peristaltika)_, ale obrácením směru je prudce vrácen jícnem do úst a nosu. Zvracení bývá doprovázeno žaludeční nevolností (laicky zvedání žaludku, špatně od žaludku, pocit na zvracení, odborně _nausea_).
 
@@ -26,7 +28,7 @@ Zvracení je stav, kdy se žaludeční obsah neposunuje dále do dvanácterníku
 
 ## Průjem – opakované řídké stolice
 
-n/a {class="description"}
+n/a
 
 Průjem je stav, kdy má nemocný **opakované řídké stolice** často spojené s křečovitými bolestmi břicha předcházejícími stolici (tenesmy). Příčina průjmů je nejčastěji ve snaze těla rychle se zbavit bakteriálně kontaminovaného nebo jinak jedovatého střevního obsahu.
 
@@ -42,7 +44,7 @@ Zcela jinou kapitolou jsou **dlouhodobé průjmy** které souvisí se závažný
 
 ## Škytání – prudké stahy bránice
 
-n/a {class="description"}
+n/a
 
 Škytání jsou **prudké stahy bránice**, což je hlavní dýchací sval, který odděluje dutinu hrudní od dutiny břišní. Ke vzniku škytavky dojde nejčastěji smíchem, napitím studeného nápoje, leknutím, nesprávným polknutím sousta. Škytání ustane samo a lze ovlivnit kombinací pití a protahování (zvedání horních končetin).
 
@@ -52,7 +54,7 @@ n/a {class="description"}
 
 ## Větry jsou plyny vznikající při trávicích procesech
 
-n/a {class="description"}
+n/a
 
 Zvýšené množství plynu se tvoří [nesprávnými stravovacími návyky][13]. V případě zadržování větrů se vstřebají a nezpůsobují újmu na zdraví. V případě nutnosti zadržování větrů ze společenských důvodů není dobré požívat nadýmavou stravu (luštěniny) s tvorbou většího množství plynů.
 
@@ -60,7 +62,7 @@ Zvýšené množství plynu se tvoří [nesprávnými stravovacími návyky][13]
 
 ## Stolice – defekační reflex
 
-n/a {class="description"}
+n/a
 
 Defekační reflex (soubor reflexů které umožní odchod stolice) je složitý proces. Stolici lze zadržet. Tím však dochází k dalšímu vstřebávání vody a stolice se stává tužší. Při opakovaném zadržování stolice a následným odchodem velmi tuhé stolice může dojít k [onemocnění žilních pletení v konečníku][14].
 
@@ -68,7 +70,9 @@ Defekační reflex (soubor reflexů které umožní odchod stolice) je složitý
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -83,9 +87,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: mocove_kameny
  [2]: kinetoza

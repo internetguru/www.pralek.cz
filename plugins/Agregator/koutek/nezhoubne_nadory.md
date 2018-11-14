@@ -5,7 +5,9 @@
 
 # Nezhoubné nádory a bouličky s nimi zaměňované
 
-Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Preventivní odstranění některých nádorů se stalo rutinou, u ostatních většinou postačí pravidelné kontroly. {class="description" kw="nezhoubné nádory, lipom, fibrom, hemangiom, chondrom, osteom, myom, polyp, adenom, gangliom, aterom, cysta, absces, keloid"}
+{kw="nezhoubné nádory, lipom, fibrom, hemangiom, chondrom, osteom, myom, polyp, adenom, gangliom, aterom, cysta, absces, keloid"}
+
+Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Preventivní odstranění některých nádorů se stalo rutinou, u ostatních většinou postačí pravidelné kontroly.
 
 [Obecné vlastnosti nezhoubných nádorů][1] jsou velmi podobné. Nezhoubné nádory se mohou za určitých podmínek přeměnit (zvrhnout) v nádory zhoubné. Vždy je proto vhodné konzultovat i nezhoubný nádor s odborným lékařem.
 
@@ -13,7 +15,7 @@ Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Prevent
 
 ## Jednotlivé nezhoubné nádory
 
-n/a {class="description"}
+n/a
 
 **Lipom**
 :   Je nezhoubný nádor _vycházející z tukové tkáně_.
@@ -81,7 +83,7 @@ n/a {class="description"}
 
 ## Bouličky zaměňované s nezhoubnými nádory
 
-n/a {class="description"}
+n/a
 
   * **Gangliom** je boulička na šlaše nebo v okolí kloubu. Nejedná se o nádor, ale o [onemocnění šlach][9].
   * **Aterom** je mazová žláza s uzavřeným vývodem, ve které se hromadí její obsah. Vznikne v případě nadměrného [hromadění mazu uvnitř žlázy][10].
@@ -93,7 +95,9 @@ n/a {class="description"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -107,9 +111,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: nezhoubny_nebo_zhoubny_nador
  [2]: zanet

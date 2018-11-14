@@ -5,7 +5,9 @@
 
 # Normální tělesná teplota, podchlazení, horečka
 
-Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá nebo klesá vlivem zevního prostředí a stoupá při některých onemocněních. {class="description" kw="tělesná teplota, podchlazení, nemoc z prochlazení, třes, přehřátí, tekutiny, pocení, dostatek tekutin, ochlazení, horečnaté onemocnění, meningokoková infekce, horečka, teplota"}
+{kw="tělesná teplota, podchlazení, nemoc z prochlazení, třes, přehřátí, tekutiny, pocení, dostatek tekutin, ochlazení, horečnaté onemocnění, meningokoková infekce, horečka, teplota"}
+
+Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá nebo klesá vlivem zevního prostředí a stoupá při některých onemocněních.
 
 Hodnotu tělesné teploty řídí zvláštní centrum uložené v mozku. U zdravého člověka bývá tělesná teplota na čele 36–37 °C, v podpaží 35–37 °C, v konečníku 36–38 °C.
 
@@ -13,7 +15,7 @@ Hodnotu tělesné teploty řídí zvláštní centrum uložené v mozku. U zdrav
 
 ## Nebezpečné podchlazení
 
-n/a {class="description"}
+n/a
 
 Pokles teploty o více než 1 °C může ohrozit zdraví (nemoc z prochlazení). **Organizmus se brání třesem** a nutí nás do zvýšení tělesné aktivity. Pokles na ještě nižší hodnoty může ohrozit život (podchlazení organizmu při spánku, nejčastěji po požití alkoholu – spící opilý člověk si nemusí uvědomovat chlad) [zpomalením a následně zástavou srdce][1].
 
@@ -21,11 +23,13 @@ Pokles teploty o více než 1 °C může ohrozit zdraví (nemoc z prochlazení).
 
 ## Přehřátí organizmu
 
-n/a {class="description"}
+n/a
 
 Vzestup tělesné teploty následuje po fyzické aktivitě (při práci vzniká odpadní teplo, které musí organismus vyzářit do okolního prostředí). Při práci v horku nebo při nadměrném oblečení se musí odpařováním tekutiny (pocením) člověk zbavovat nadměrného tepla, aby nedošlo k přehřátí organizmu.
 
-Podmínkou pro správně fungující termoregulaci je [dostatek tekutin][2]. {class="important"}
+{class="important"}
+
+Podmínkou pro správně fungující termoregulaci je [dostatek tekutin][2].
 
 Pobyt v horku, na slunci, nemožnost ochlazení organismu koupelí ve chladné vodě a nedostatek tekutin jistě povede k úpalu. Projeví se [nevolností až zvracením][3], [bolestí a točením hlavy][4], celkovou slabostí. Takto přehřátý člověk potřebuje pobyt v chladné tmavé místnosti, chladné nápoje, chladnou sprchu, klid.
 
@@ -35,7 +39,7 @@ Na přehřátí jsou **náchylnější malé děti a staří lidé**. Hůře si 
 
 ## Horečka a horečnatá onemocnění
 
-n/a {class="description"}
+n/a
 
 Většina běžných dětských nemocí a [zánětlivých chorob dospělých][5] je provázena vzestupem tělesné teploty (horečnatá onemocnění). Začátky těchto nemocí bývají podobné – bolest hlavy, nechutenství, žaludeční nevolnost, celková slabost a zvýšená teplota.
 
@@ -45,7 +49,7 @@ Tady je však zvýšená teplota obranou organizmu [proti mikroorganizmům][6] (
 
 ## Vývoj horečnatého onemocnění
 
-n/a {class="description"}
+n/a
 
 Na počátku horečnatého onemocnění nemusí být vůbec zřejmé, zda půjde pouze o nekomplikovanou nemoc z prochlazení, nebo zda se jedná o počátek závažného (až smrtelného) onemocnění. Je vhodné, aby nemocný odpočíval, polehával, pil čaj s citronem. Vypotit se udělá nemocnému dobře. Teplotu v podpaží je vhodné udržovat do 38,5 °C pomocí zábalů nebo pomocí [léků proti teplotě][7]. V tomto případě **teplota je jednou ze součástí boje** proti choroboplodným zárodkům.
 
@@ -69,11 +73,13 @@ Další vývoj příznaků onemocnění teprve ukáže o jakou mikrobiální neb
 
 ## Meningokoková infekce
 
-n/a {class="description"}
+n/a
 
 Obávaný [meningokok je mikroorganizmus][6], který se běžně vyskytuje v lidské populaci stejně jako nepřeberné množství jiných podivně pojmenovaných bakterií. Bakterie se dělí na ty, které nikdy nezpůsobí lidem onemocnění, naopak jsou nutné k normálnímu fungování lidského těla a na ty, které někdy zapříčiní chorobu.
 
-Závažnost a průběh onemocnění jsou dány spíše připraveností člověka (imunitou a celkovým stavem) než záludností a nebezpečností bakterie. {class="important"}
+{class="important"}
+
+Závažnost a průběh onemocnění jsou dány spíše připraveností člověka (imunitou a celkovým stavem) než záludností a nebezpečností bakterie.
 
 Meningokokové infekci bohužel nejčastěji podlehne malé dítě v době, kdy již nemá od matky dostatek protilátek (dostává je nitroděložně placentou a poporodně mateřským mlékem) a ještě nemá vytvořeny své [vlastní protilátky][14]. Další skupinou lidí, kteří mohou podlehnout meningokokovi jsou adolescenti ve stavu vyčerpání a únavy (například po probdělé noci). Ostatní **lidé při setkání s meningokokem nemusejí vůbec onemocnět**.
 
@@ -81,7 +87,9 @@ Meningokokové infekci bohužel nejčastěji podlehne malé dítě v době, kdy 
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -97,9 +105,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: resuscitace-ozivovani
  [2]: vodni_rezim

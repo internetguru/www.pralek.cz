@@ -5,7 +5,9 @@
 
 # Krvácení z konečníku: hemoroidy nebo nádor
 
-Krvácení z konečníku mívá různé příčiny. Nejčastěji se jedná o hemoroidy. Včasné odhalení příčiny vždy zvyšuje šanci na uzdravení, i když se jedná o nádor. Zatímco u hemoroidů je operace jednou z mnoha možností léčby, v případě nádoru bývá operace nezbytná. {class="description" kw="konečník, krev ve stolici, kolonoskopie, hemoroidy, melaena, boulička, bolest"}
+{kw="konečník, krev ve stolici, kolonoskopie, hemoroidy, melaena, boulička, bolest"}
+
+Krvácení z konečníku mívá různé příčiny. Nejčastěji se jedná o hemoroidy. Včasné odhalení příčiny vždy zvyšuje šanci na uzdravení, i když se jedná o nádor. Zatímco u hemoroidů je operace jednou z mnoha možností léčby, v případě nádoru bývá operace nezbytná.
 
 Konečník je uzavřen svalem – kruhovým svěračem. Úplné uzavření konečníku zajišťuje žíla, která ucpává netěsnost sevřeného svěrače. Tuto funkci může dobře plnit pouze zdravá žíla.
 
@@ -13,11 +15,13 @@ Konečník je uzavřen svalem – kruhovým svěračem. Úplné uzavření kone�
 
 ## Hemoroidy, jejich příčiny a projevy
 
-Hemoroidy jsou zánětlivé onemocnění žil umožňujících úplné uzavření konečníku. Vznikají podrážděním konečníku a projevují se různě podle stádia zánětu. {class="description"}
+Hemoroidy jsou zánětlivé onemocnění žil umožňujících úplné uzavření konečníku. Vznikají podrážděním konečníku a projevují se různě podle stádia zánětu.
 
 Hemoroid _(hovorově hemeroid, česky zlatá žíla)_ je boulička těsně sousedící s konečníkem. Vzniká podrážděním, [zanícením][1] a následným [roztažením žíly][2] uvnitř konečníku. Taková žíla nemůže dostatečně plnit svou funkci utěsnění konečníku.
 
-Nemocný konečník může svědit, bolet, pálit, krvácet či způsobovat obtěžující trvalou vlhkost. Jednotlivé příznaky mohou přecházet jeden ve druhý, na určitou dobu mohou zcela ustoupit a opět se vrátit. {class="example"}
+{class="example"}
+
+Nemocný konečník může svědit, bolet, pálit, krvácet či způsobovat obtěžující trvalou vlhkost. Jednotlivé příznaky mohou přecházet jeden ve druhý, na určitou dobu mohou zcela ustoupit a opět se vrátit.
 
 Uvedené potíže včetně krvácení mohou vzniknout podrážděním konečníku (v kombinaci s vrozenou discpozicí). Příčinou podráždění bývá tuhá nepravidelná stolice, nutnost tlačení na stolici, dráždivá kořeněná strava, přebývání v mokrých plavkách nebo prochladnutí sezením na studeném.
 
@@ -25,7 +29,7 @@ Uvedené potíže včetně krvácení mohou vzniknout podrážděním konečník
 
 ## Rozpoznání a léčba hemoroidů
 
-Hemoroidy se navzdory obtěžujícím projevům začínají řešit bohužel teprve v souvislosti s krvácením. Pokud pacient odstraní příčiny vzniku hemoroidů, potíže pominou. {class="description"}
+Hemoroidy se navzdory obtěžujícím projevům začínají řešit bohužel teprve v souvislosti s krvácením. Pokud pacient odstraní příčiny vzniku hemoroidů, potíže pominou.
 
 Krvácení z hemoroidu se typicky ukáže v souvislosti s hygienou po stolici – stopami červené krve (bez hlenu) na toaletním papíru. Tehdy pacient nejčastěji vyhledává lékaře, který tuto nezávažnou diagnózu potvrdí.
 
@@ -43,7 +47,7 @@ Pokud je krev ve stolici černá, nejedná se zpravidla o hemoroidy. Pravěpodob
 
 ## Krvácení do stolice
 
-Přítomnost hlenu a krve ve stolici může svědčit pro nádorové onemocnění střeva nebo žaludeční vředy. V případě masivního krvácení do stolice potřebuje pacient okamžitou lékařskou pomoc. {class="description"}
+Přítomnost hlenu a krve ve stolici může svědčit pro nádorové onemocnění střeva nebo žaludeční vředy. V případě masivního krvácení do stolice potřebuje pacient okamžitou lékařskou pomoc.
 
 Přítomnost hlenu a červené krve ve stolici je známkou [nádoru střeva nebo konečníku][5]. Takové krvácení může trvat týdny až měsíce. Pokud však nádor poruší tepnu, může dojít k masivnímu krvácení do stolice. Místo stolice se objeví velké množství jasně červené (tepenné) krve a **pacient je bezprostředně ohrožen na životě**.
 
@@ -53,7 +57,9 @@ Přítomnost hlenu a červené krve ve stolici je známkou [nádoru střeva nebo
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -67,9 +73,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: zanet
  [2]: krecove_zily

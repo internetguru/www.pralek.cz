@@ -5,7 +5,9 @@
 
 # Odřeniny – proč je nutné mechanicky vyčistit oděrku
 
-Plošné oděrky vznikají nejčastěji při různých sportovních aktivitách. Jejich důsledné mechanické vyčištění je důležitým krokem léčení. Nečistoty vrostlé do kůže by se jinak staly trvalou hyzdící vzpomínkou na úraz. {class="description" kw="odřenina, znečištěná oděrka, ošetření rány, odřené koleno, odřená brada, první pomoc, kartáček, vyčištění rány"}
+{kw="odřenina, znečištěná oděrka, ošetření rány, odřené koleno, odřená brada, první pomoc, kartáček, vyčištění rány"}
+
+Plošné oděrky vznikají nejčastěji při různých sportovních aktivitách. Jejich důsledné mechanické vyčištění je důležitým krokem léčení. Nečistoty vrostlé do kůže by se jinak staly trvalou hyzdící vzpomínkou na úraz.
 
 Plošná oděrka vzniká zbroušením povrchu kůže nejčastěji [pádem člověka na vozovku][1] – většinou běžícího či rychle se pohybujícího. Nejčastější příčinou takového pádu bývá nepozornost. Velikost plochy oděrky není tak podstatná, jako její hloubka a míra znečištění.
 
@@ -13,7 +15,7 @@ Plošná oděrka vzniká zbroušením povrchu kůže nejčastěji [pádem člov�
 
 ## Plošné oděrky a jejich závažnost
 
-n/a {class="description"}
+n/a
 
 Plošné oděrky nebývají nebezpečné, jsou však nepříjemné a velmi bolestivé. Nejčastěji [postihují pouze kůži][2]. Vždy jsou [znečištěny mikroorganizmy (kontaminovány)][3], často bývají znečištěny i prachem a kamínky. Oděrky bývají různě hluboké.
 
@@ -28,11 +30,13 @@ Oděrku je možné vyčistit a ošetřit svépomocí podle úrovně vnímání b
 
 ## Léčení a hojení oděrek
 
-n/a {class="description"}
+n/a
 
 **Vždy je nutné z kůže mechanicky důkladně odstranit veškeré nečistoty**, aby nevrostly do rány, nebo aby nezpůsobily zánět. Nejčastěji bývají do rány vraženy drobné kamínky z krajnice nebo škvára. Takové nečistoty se z rány nejlépe odstraní studenou tekoucí vodou s jakýmkoli (pH neutrálním, nejlépe tekutým) mýdlem a kartáčkem. Dobře poslouží nový (nepoužitý) kartáček na zuby, který lze v originálním balení považovat za dostatečně čistý.
 
-Malé holčičky s odřeným kolenem nebo bradou pláčou a nechtějí si nechat odřeninu vyčistit. Pokud ošetřovatel nedokáže oděrku zbavit všech nečistot, neodstraněné **nečistoty z odřeniny zarostou do kůže a budou ve zhojené kůži viditelné**. Až bude z holčičky slečna, bude jí bezpochyby vadit hyzdící tetuáž (tetování) na bradě nebo na koleni. Operační odstranění nečistot po zhojení oděrky bývá mnohem složitější, než jejich mechanické vymytí z čerstvé oděrky. {class="example"}
+{class="example"}
+
+Malé holčičky s odřeným kolenem nebo bradou pláčou a nechtějí si nechat odřeninu vyčistit. Pokud ošetřovatel nedokáže oděrku zbavit všech nečistot, neodstraněné **nečistoty z odřeniny zarostou do kůže a budou ve zhojené kůži viditelné**. Až bude z holčičky slečna, bude jí bezpochyby vadit hyzdící tetuáž (tetování) na bradě nebo na koleni. Operační odstranění nečistot po zhojení oděrky bývá mnohem složitější, než jejich mechanické vymytí z čerstvé oděrky.
 
 Jako první pomoc (zástava krvácení) u hlubších oděrek může dočasně posloužit přiložení obvazu. Definitivně je potřeba oděrku ošetřit do 6ti hodin od úrazu.
 
@@ -40,7 +44,9 @@ Vyčištěná nekomplikovaná povrchová oděrka se nejlépe a nejrychleji zhoj�
 
 Léčení oděrky je možné urychlit např. roztokem Novikova (lze zakoupit v lékárně). Roztok částečně nahrazuje strup, který je proto nižší, prodyšnější a plní i funkci ochrannou. Nanesení vrstvy roztoku na oděrku (nejlépe pomocí ušní štětičky) zprvu několik dlouhých sekund intenzivně štípe a pálí. Po zaschnutí už žádnou zátěž nepředstavuje.
 
-**Přiložení hojivé masti a obvazu zcela jistě vede ke komplikacím hojení oděrek spojeným s mokváním.** Silná vrstva masti na ploše způsobuje mokvání a na oděrku tedy nepatří. Obvaz (bez masti) by se pevně spojil se strupem a léčení by jen prodloužil. {class="example"}
+{class="example"}
+
+**Přiložení hojivé masti a obvazu zcela jistě vede ke komplikacím hojení oděrek spojeným s mokváním.** Silná vrstva masti na ploše způsobuje mokvání a na oděrku tedy nepatří. Obvaz (bez masti) by se pevně spojil se strupem a léčení by jen prodloužil.
 
 Hluboké oděrky obzvlášť s poraněním kostí jsou ošetřovány na chirurgii v místním nebo i v celkovém znecitlivění. Součásti léčení hlubokých oděrek je desinfekce oděrky, odstranění nečistot, cárů kůže a poškozených tkání. Následuje ošetření zbroušené kosti, zašití kožního defektu, [nasazení antibiotik][6], krytí oděrky vhodným materiálem a přeočkování proti tetanu.
 
@@ -48,7 +54,7 @@ Hluboké oděrky obzvlášť s poraněním kostí jsou ošetřovány na chirurgi
 
 ## Prevence vzniku oděrek
 
-n/a {class="description"}
+n/a
 
 Navlečení dítěte od hlavy až k patě do chráničů při každé procházce s koloběžkou do parku je jeden extrém. Medicínské vzdělání rodiče s kvalitní osvětou a podpora potomka v jeho obezřetnosti je extrém druhý. Je na každém jednotlivci, kde mezi nimi nalezne kompromis.
 
@@ -58,7 +64,9 @@ Ani sebelepší ochranné pomůcky či sebelepší osvěta nikdy zcela nezaruč�
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -71,9 +79,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: pady_z_kola
  [2]: drobna_krvava_poraneni

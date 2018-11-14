@@ -5,7 +5,9 @@
 
 # Obsah domácí lékárničky
 
-Domácí lékárnička má obsahovat čisté nástroje, zdravotní materiál a ověřené, majiteli známé léky. Každá domácnost by si měla obsah lékárničky upravit podle svých zkušeností a individuálních potřeb. {class="description" kw="lékárnička, nástroje, zdravotní materiál, léky, autolékárnička, teploměr, pinzeta, kartáček, vyčištění rány, dezinfekce, obvaz, náplast, náplasťový steh, bolest, kašel, teplota"}
+{kw="lékárnička, nástroje, zdravotní materiál, léky, autolékárnička, teploměr, pinzeta, kartáček, vyčištění rány, dezinfekce, obvaz, náplast, náplasťový steh, bolest, kašel, teplota"}
+
+Domácí lékárnička má obsahovat čisté nástroje, zdravotní materiál a ověřené, majiteli známé léky. Každá domácnost by si měla obsah lékárničky upravit podle svých zkušeností a individuálních potřeb.
 
 Níže vyjmenované nástroje a základní zdravotní materiál postačí k vybavení domácí lékárničky. Je však vhodné upravit její obsah s ohledem na jednotlivé členy rodiny – na jejich časté nebo dlouhodobé nemoci (např. alergie), aktivity a životní styl.
 
@@ -15,7 +17,7 @@ Některé součásti domácí lékárničky mohou být použity v domácnosti i 
 
 ## Nástroje
 
-n/a {class="description"}
+n/a
 
 Nástroje v lékárničce mají být samozřejmě čisté. Před každým léčebným použitím je třeba je [vydezinfikovat][1] a po použití mechanicky očistit. To platí např. i pro kontaktní teploměr, kde hrozí riziko [přenosu plísní][2].
 
@@ -33,13 +35,15 @@ Zubní kartáček
 :   Nepoužitý zubní kartáček v originálním balení výborně poslouží k [vyčištění rány nebo oděrky][4]. Použitý kartáček je pro tyto účely nevhodný.
 :   Kartáček lze rovněž nabídnout k vyčištění zubů návštěvě. Následně je ale potřeba do lékárničky dokoupit nový.
 
-Pokud není k dispozici dezinfekční sprej, je možné provést dezinfekci nástroje sežehnutím nad plamenem. Plamen nesmí být čadící (kvůli sazím) a nástroj se nemá zcela rozžhavit. {class="important"}
+{class="important"}
+
+Pokud není k dispozici dezinfekční sprej, je možné provést dezinfekci nástroje sežehnutím nad plamenem. Plamen nesmí být čadící (kvůli sazím) a nástroj se nemá zcela rozžhavit.
 
 {id="zdravotni_material"}
 
 ## Zdravotní materiál
 
-n/a {class="description"}
+n/a
 
 Zdravotní materiál je spotřební. Jeho množství je třeba regulovat podle počtu členů rodiny a podle frekvence jeho užívání.
 
@@ -64,13 +68,15 @@ Elastická obinadla různé velikosti
 Sterilní čtverečky _(hydrofilní gáza)_ různých velikostí
 :   Sterilní čtverečky patří na rány, oděrky, [spáleniny][13], prasklé puchýře či omrzliny.
 
-Obvazový materiál by se po použití nikdy neměl vracet do lékárničky a to ani po vyprání. Největším nepřítelem obvazového materiálu je vlhkost. Pokud během ošetřování zmokne, je na místě ho nahradit novým. {class="important"}
+{class="important"}
+
+Obvazový materiál by se po použití nikdy neměl vracet do lékárničky a to ani po vyprání. Největším nepřítelem obvazového materiálu je vlhkost. Pokud během ošetřování zmokne, je na místě ho nahradit novým.
 
 {id="leky"}
 
 ## Léky
 
-n/a {class="description"}
+n/a
 
 Léky v domácí lékárničce musejí být majiteli dobře známé. Níže uvedené léky by měly být doplněny těmi léky, které členové rodiny opakovaně potřebují (např. léky proti [průjmu][14], proti křečím, na zánět spojivek, na [rýmu][15]).
 
@@ -95,7 +101,7 @@ Prošlé léky a masti do lékárničky nepatří a je nutné je odevzdat v lék
 
 ## Mimo lékárničku 
 
-n/a {class="description"}
+n/a
 
 V rámci první pomoci mohou být použity i nástroje běžné (denní) potřeby. Vlivem stresu při poskytování první pomoci bývají zejména opomíjeny nůžky, kosmetické pinzety (manikúra), špejle, ušní štětičky, čistící tampóny ba dokonce protialergické léky.
 
@@ -105,7 +111,9 @@ V mrazáku je dobré mít modrý chladivý gel _(kryoperlóza)_ nebo jeho náhra
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -119,9 +127,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: mikroorganizmy
  [2]: plisne_kuze

@@ -5,7 +5,9 @@
 
 # Dodržování vodního režimu
 
-Životodárná voda tvoří převážnou část objemu i hmotnosti lidského těla. Dostatek pitné vody je podmínkou pro správný chod celého organizmu (pitný režim). Stejně důležitý je přiměřený poměr mezi množstvím pitné vody, solí a minerálů. {class="description" kw="pitný režim, prvotní moč, primární moč, pitná voda, měkká voda, voda pramenitá, tvrdá voda, minerální voda, léčivá studánka, léčivá voda, zdravá voda, otrava vodou, dehydratace"}
+{kw="pitný režim, prvotní moč, primární moč, pitná voda, měkká voda, voda pramenitá, tvrdá voda, minerální voda, léčivá studánka, léčivá voda, zdravá voda, otrava vodou, dehydratace"}
+
+Životodárná voda tvoří převážnou část objemu i hmotnosti lidského těla. Dostatek pitné vody je podmínkou pro správný chod celého organizmu (pitný režim). Stejně důležitý je přiměřený poměr mezi množstvím pitné vody, solí a minerálů.
 
 Ledviny tvoří velké množství _prvotní moči (primární moč, primitivní moč)_, kterou následně mnohonásobně (asi 60krát) zahušťují. V případě nedostatku tekutin šetří tělo vodu dalším zahušťováním moči. To je pro ledviny velmi zatěžující a náročný proces. Proto **dostatek tekutin ledviny šetří a naopak nedostatek tekutin ledviny velmi namáhá**.
 
@@ -13,7 +15,7 @@ Ledviny tvoří velké množství _prvotní moči (primární moč, primitivní 
 
 ## Typy pitné vody v přírodě
 
-n/a {class="description"}
+n/a
 
   1. Dešťová voda neobsahuje žádné soli ani minerály – **měkká voda**. Je však značně znečištěna; v každé kapce vody (aby se vůbec vytvořila z páry) jsou částečky prachu a pylová zrnka.
   2. Jak dešťová voda prosakuje z povrchu země propustnými vrstvami horniny, zbavuje se nečistot. Při prostupu různými horninami se v ní rozpouštějí různé soli a minerální látky. Taková pitná voda je většinou označována jako **voda pramenitá**, vyvěrající z určité hloubky země a je velmi vhodná pro trvalé pití.
@@ -24,7 +26,7 @@ n/a {class="description"}
 
 ## Zdravá voda
 
-n/a {class="description"}
+n/a
 
 Některé konkrétní minerální látky rozpuštěné ve vodě mohou za určitých podmínek působit blahodárně na některého konkrétního člověka. Pití vody z určitého pramene může tedy skutečně někomu zlepšit zdravotní stav (léčivá voda, zázračný pramen, léčivá studánka). Je logické, že se obsah minerálů ve vodě bude lišit podle umístění vrtu, pramene nebo studánky.
 
@@ -34,13 +36,15 @@ Všechny minerální látky z vody se však nevstřebávají. Vstřebávání mi
 
 ## Nesprávný příjem tekutin
 
-n/a {class="description"}
+n/a
 
 Dlouhodobým pitím pouze dešťové nebo destilované (měkké) vody vznikne naprostý nedostatek minerálů a solí. Ledviny pro tvorbu moči potřebují sůl (různé solné ionty). **Nedostatek solí může vést k otravě vodou**; zvláště v kombinaci s pocením, kdy [dochází k dalším ztrátám solí potem][2].
 
 Naopak dlouhodobým **pitím pouze silně minerálních vod dojde k odvodnění organizmu** (dehydratace) podobně jako při přesolování jídel. Zvýšená slanost krve komplikuje tvorbu primární moči. Zvláštní hormon tvořený v ledvinách pak [zvyšuje krevní tlak][3], aby ledviny byly schopny složitě alespoň nějakou moč tvořit.
 
-Pivo je z tohoto pohledu svým složením pro tělo přirozené (téměř izotonický nápoj). Pití piva tedy nezatěžuje organizmus ani nedostatkem ani nadbytkem vody. Proto je možné vypít jakékoli množství piva (limitováno množstvím alkoholu) a jen průběžně chodit močit. {class="example"}
+{class="example"}
+
+Pivo je z tohoto pohledu svým složením pro tělo přirozené (téměř izotonický nápoj). Pití piva tedy nezatěžuje organizmus ani nedostatkem ani nadbytkem vody. Proto je možné vypít jakékoli množství piva (limitováno množstvím alkoholu) a jen průběžně chodit močit.
 
 Původně pitná voda může být [znečištěna (kontaminována) různými mikroorganizmy][4] nebo dusíkatými látkami, neprochází-li dostatečně silnou propustnou vrstvou horniny (většinou povrchová voda). Pití takové vody způsobuje **různé choroby** (např. cholera, salmonelóza).
 
@@ -48,7 +52,7 @@ Původně pitná voda může být [znečištěna (kontaminována) různými mikr
 
 ## Nedostatek vody zatěžuje organizmus
 
-n/a {class="description"}
+n/a
 
   * Zvyšování koncentrace moči jakožto první krok organizmu k šetření vody v případě jejího nedostatku. V příliš koncentrované moči [se snadněji tvoří močové kameny][5].
   * Následuje zahušťování krve (souběžně se zahušťováním mezibuněčné i nitrobuněčné tekutiny). Hustší krev navíc hůře proudí krevními vlásečnicemi a snadněji může dojít k trombóze, [srdečnímu infarktu][6] nebo [k mozkové mrtvici][7].
@@ -59,7 +63,7 @@ n/a {class="description"}
 
 ## Staří nebo nemocní lidé a malé děti potřebují dohled nad příjmem tekutin
 
-n/a {class="description"}
+n/a
 
 Zdravý a silný organizmus má obrovské rezervy, je schopen vydržet zátěž nedostatku tekutin. Hůře je na tom organizmus oslabený jinou chorobou nebo věkem, kde se komplikace projeví mnohem dříve.
 
@@ -71,7 +75,9 @@ U malého dítěte je rovněž třeba sledovat přísun tekutin. Známkou nedost
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -86,9 +92,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: stravovaci_navyky
  [2]: teplota

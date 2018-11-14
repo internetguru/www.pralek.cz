@@ -5,7 +5,9 @@
 
 # Bolesti kloubů – jak žít s artrózou
 
-Klouby se přetěžováním a věkem opotřebovávají. Poškozené klouby bolí, otékají, postupně se deformují a jsou omezeně pohyblivé. Pravidelná a přiměřená zátěž udrží nemoc relativně snesitelnou. {class="description" kw="artróza, osteoartróza, bolest kloubu, otok kloubu, deformace kloubu, kloubní chrupavka, koxartróza, gonartróza, omartróza, spondylartróza, degenerace kloubu"}
+{kw="artróza, osteoartróza, bolest kloubu, otok kloubu, deformace kloubu, kloubní chrupavka, koxartróza, gonartróza, omartróza, spondylartróza, degenerace kloubu"}
+
+Klouby se přetěžováním a věkem opotřebovávají. Poškozené klouby bolí, otékají, postupně se deformují a jsou omezeně pohyblivé. Pravidelná a přiměřená zátěž udrží nemoc relativně snesitelnou.
 
 Nejčastější příčinou bolestí kloubů je artróza (také osteoartróza). Jedná se o dlouhodobé onemocnění, které ničí postižený kloub. Každý kloub je tvořen kostmi – kloubní hlavicí, kloubní jamkou. Pro ideální funkci kloubu (minimalizaci tření) jsou kosti pokryty chrupavkou a prostor mezi nimi je vyplněn [kloubním mazem][1].
 
@@ -15,7 +17,7 @@ Zdravá chrupavka je bílá, lesklá a dokonale hladká. Vlivem artrózy chrupav
 
 ## Vznik artrózy
 
-n/a {class="description"}
+n/a
 
 Příčina vzniku artrózy je nejasná, ale jsou známy faktory, které její vznik a vývoj podporují. Jedná se hlavně o **dlouhodobé přetěžování kloubů v kombinaci s opakovanými drobnými úrazy** – mikrotraumaty (nejčastěji při sportu). Jistou roli hraje také rodová dispozice.
 
@@ -28,13 +30,15 @@ Nejčastější důvody přetěžování kloubů jsou:
 
 Artróza je hlavně nemocí stáří, její výskyt přibývá s narůstajícím věkem. Starší lidé mají klouby věkem opotřebované a chrupavka je hůř vyživována. Rovněž závažnost onemocnění (stádium nemoci) se s věkem zhoršuje. Artróza může však vznikat již kolem 20. roku věku.
 
-Aktivní mladí sportovci si často vůbec neuvědomují, že bolest kloubu nemusí být jen přirozená reakce na sportovní zátěž, ale že se již může jednat o počínající artrózu. {class="important"}
+{class="important"}
+
+Aktivní mladí sportovci si často vůbec neuvědomují, že bolest kloubu nemusí být jen přirozená reakce na sportovní zátěž, ale že se již může jednat o počínající artrózu.
 
 {id="vyvoj\_a\_stadia_artrozy"}
 
 ## Vývoj a stádia artrózy
 
-n/a {class="description"}
+n/a
 
 Původně sametově bílá chrupavka se vlivem artrózy stává v přetěžovaném místě zažloutlou a ztrácí lesk. Takto poškozená chrupavka se postupně ztenčuje a začíná se deformovat. Vzniká defekt chrupavky a tím se odhaluje kost.
 
@@ -47,7 +51,9 @@ V okolí postiženého kloubu se tvoří [kostní výrůstky][2]. Podobné změn
   3. další zúžení kloubní štěrbiny, tvorba okrajových kostních výrůstků, řídnutí kostí, počínající dutiny ([cysty][3]) v kostech;
   4. úplné vymizení kloubní štěrbiny, zkřivení kloubních konců kostí, splývání cyst a odumírání přilehlých kostí, výrazná deformace celého kloubu.
 
-Stupně artrózy jsou posuzovány podle rentgenového nálezu a nemusejí tedy přesně korespondovat s klinickým obrazem. Proto člověk s artrózou třetího stupně na tom může být lépe než jiný s artrózou druhého stupně (téhož kloubu). {class="example"}
+{class="example"}
+
+Stupně artrózy jsou posuzovány podle rentgenového nálezu a nemusejí tedy přesně korespondovat s klinickým obrazem. Proto člověk s artrózou třetího stupně na tom může být lépe než jiný s artrózou druhého stupně (téhož kloubu).
 
 **Vývoj artrózy lze v počátcích zpomalit pravidelnou přiměřenou zátěží.** V běžném životě jsou potíže v počátcích artrózy snesitelné. Výrazné zhoršení nastává po větší zátěži nebo častěji po určité době nečinnosti. Vždy je třeba bránit přetěžování a mikroúrazům postižených kloubů (doskoky nebo pády na tvrdou podložku, běh po betonu a podobně). V pozdějších stádiích vývoje artrózy je přístup k léčení velmi individuální.
 
@@ -55,7 +61,7 @@ Stupně artrózy jsou posuzovány podle rentgenového nálezu a nemusejí tedy p
 
 ## Názvosloví a léčba atrózy
 
-n/a {class="description"}
+n/a
 
 Artróza _(arthrosis)_ může postihovat kterékoli klouby:
 
@@ -75,13 +81,17 @@ Možnosti léčby atrózy jsou:
   6. užití [léků proti bolesti a zánětu][6] – [celkově nebo místně (formou obstřiků)][7],
   7. náhrada kloubu endoprotézou.
 
-Pro člověka s artrózou nosných kloubů je jízda na kole přijatelnější než chůze, protože redukuje jejich zátěž. Proto někteří staří lidé jízdu na kole před chůzí preferují. {class="important"}
+{class="important"}
+
+Pro člověka s artrózou nosných kloubů je jízda na kole přijatelnější než chůze, protože redukuje jejich zátěž. Proto někteří staří lidé jízdu na kole před chůzí preferují.
 
 {id="otazky" var="inputvar-otazky_h"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -95,9 +105,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: onemocneni_slach
  [2]: patni_ostruha

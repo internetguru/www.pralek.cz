@@ -5,13 +5,15 @@
 
 # Nejčastější stařecké zlomeniny
 
-Kosti se ve stáří stávají křehké a málo pevné. Mohou se tedy lámat i při velice malém násilí. To je způsobeno ztrátou chrupavčité složky v kostech, později i ztrátou pevné kostěné složky (takzvané řídnutí kostí). {class="description" kw="zlomenina, stařecké zlomeniny, zlomenina obratle, zlomenina krčku stehenní kosti, zlomenina zápěstí, zlomeniny pažní kosti, zlomeniny lokte, šátkový obvaz"}
+{kw="zlomenina, stařecké zlomeniny, zlomenina obratle, zlomenina krčku stehenní kosti, zlomenina zápěstí, zlomeniny pažní kosti, zlomeniny lokte, šátkový obvaz"}
+
+Kosti se ve stáří stávají křehké a málo pevné. Mohou se tedy lámat i při velice malém násilí. To je způsobeno ztrátou chrupavčité složky v kostech, později i ztrátou pevné kostěné složky (takzvané řídnutí kostí).
 
 {id="zlomenina_obratle"}
 
 ## Zlomenina obratle
 
-n/a {class="description"}
+n/a
 
 Po pádu na zadek může snadno dojít ke zlomenině obratle. Nejčastěji se láme poslední hrudní obratel nebo 1. či 2. obratel bederní (zhruba na úrovni ledvin). [Bolestivost bederní páteře][1] po pádu přisuzuje pacient pohmoždění. Obratel se však násilím zbortil. Většinou nedochází k poškození míchy, není tedy nebezpečí ochrnutí dolních končetin. Někdy může dojít k deformitě páteře (až ke vzniku hrbu).
 
@@ -21,7 +23,7 @@ První pomocí po zlomení obratle je [lék proti bolesti][2]. **[Transport k vy
 
 ## Zlomenina krčku stehenní kosti
 
-n/a {class="description"}
+n/a
 
 Velmi často je pádem v koupelně nebo pádem ze židle způsobena zlomenina krčku stehenní kosti. Staří lidé často nemohou pro [artrózu kloubů][4] dobře chodit; mohou však jezdit na kole. Pád z kola pak končívá rovněž zlomeninou krčku stehenní kosti.
 
@@ -33,7 +35,7 @@ První pomoc spočívá v podání léku proti bolesti a transportování k vyš
 
 ## Zlomenina zápěstí
 
-n/a {class="description"}
+n/a
 
 Zlomené zápěstí je nejčastější stařeckou zlomeninou. Po zakopnutí a pádu dopředu na ruce se často láme zápěstí. Zlomenina se vyznačuje bolestivostí, deformací a rychle nastupujícím otokem. První pomoc spočívá v **uložení končetiny do šátkového obvazu**.
 
@@ -43,7 +45,7 @@ Na bolestivé místo je možno **přiložit studený obklad** (nejlépe zmrazen�
 
 ## Zlomeniny pažní kosti a lokte
 
-n/a {class="description"}
+n/a
 
 Při pádu z lůžka, z křesla či v koupelně může dojít ke zlomení pažní kosti nebo lokte. Většinou se jedná o **závažné a často obtížně léčitelné úrazy**. Zlomenina se projevuje opět bolestivostí a deformací v postiženém místě, otok rovněž nastupuje velmi rychle (jako u zlomeniny zápěstí).
 
@@ -55,7 +57,9 @@ Léčení bývá složité; většinou vyžaduje operační řešení. Doba lé�
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -68,9 +72,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: bolesti_v_zadech_houser
  [2]: leky_proti_bolesti

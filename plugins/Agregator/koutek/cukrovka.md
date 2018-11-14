@@ -5,7 +5,9 @@
 
 # Cukrovka: jak žít s cukrovkou
 
-Ukázněný diabetik se nemusí během života setkat se žádnými komplikacemi cukrovky. Dlouhodobé komplikace jsou způsobené nedodržováním doporučených zásad. {class="description" kw="cukrovka, diabetes, diabetik, glykémie, strava, inzulín, slinivka břišní, hlad, hyperglykémie, hypoglykémie, bezvědomí"}
+{kw="cukrovka, diabetes, diabetik, glykémie, strava, inzulín, slinivka břišní, hlad, hyperglykémie, hypoglykémie, bezvědomí"}
+
+Ukázněný diabetik se nemusí během života setkat se žádnými komplikacemi cukrovky. Dlouhodobé komplikace jsou způsobené nedodržováním doporučených zásad.
 
 **Hladina cukru v krvi (glykémie) zdravého člověka málo kolísá** bez ohledu na složení stravy (poměr cukry/tuky/bílkoviny). Potrava se v zažívacím traktu rozloží a ve střevě vstřebá, krví je vedena do jater. Játra jsou chemická továrna, dokáží vzájemně [přetvářet cukry, tuky a bílkoviny podle potřeby organizmu][1]. Jestli ve stravě žádný cukr není, játra ho rychle tvoří, když je cukru ve stravě nadbytek, játra ho rozkládají.
 
@@ -17,7 +19,7 @@ Pokles hladiny cukru v krvi pod určitou hodnotu vyvolá pocit hladu. Trvá-li s
 
 ## Nepoznaná nebo neléčená cukrovka dlouhodobě ničí organizmus
 
-n/a {class="description"}
+n/a
 
 Člověk nemocný cukrovkou (diabetik) trpí nedostatkem inzulínu (nebo jeho zhoršenou kvalitou) a buňky nedokáží cukr z krve získat. Nejcitlivější na nedostatek energie jsou buňky mozkové a na jejich podnět **organizmus reaguje zvyšováním množství cukru v krvi**.
 
@@ -30,13 +32,15 @@ Neléčená cukrovka čili vysoká glykémie ničí mnohé orgány:
   * [ledviny][3] až po jejich selhání,
   * nervy s poruchou až vymizením čití a další.
 
-**Po cukrovce je vhodné preventivně pátrat**; zvlášť v případě výskytu cukrovky v rodině. Praktický lékař dokáže cukrovku velmi snadno prokázat a pacienta předat specialistovi (diabetologovi). Diabetolog provede určitá vyšetření a určí typ a závažnost onemocnění a určí způsob léčení. {class="important"}
+{class="important"}
+
+**Po cukrovce je vhodné preventivně pátrat**; zvlášť v případě výskytu cukrovky v rodině. Praktický lékař dokáže cukrovku velmi snadno prokázat a pacienta předat specialistovi (diabetologovi). Diabetolog provede určitá vyšetření a určí typ a závažnost onemocnění a určí způsob léčení.
 
 {id="typy\_cukrovky\_podle\_zavaznosti\_onemocneni"}
 
 ## Typy cukrovky podle závažnosti onemocnění
 
-n/a {class="description"}
+n/a
 
   * Nejlehčí formu cukrovky **lze léčit pouze dietou**; postačí omezit nabídku cukrů ve stravě. Na zpracování kaloricky i složením vyvážené stravy postačí vlastní inzulín. V případě nadbytku cukru ve stravě nedokáže slinivka uvolnit dostatek insulinu na jeho zpracování. Následkem je dočasná vysoká hladina cukru v krvi (hyperglykémie).
   * Při závažnější formě je třeba kromě dodržování diety podávat **určité léky podporující tvorbu vlastního inzulínu** ve slinivce břišní (formou tablet, množství je dáno závažností choroby).
@@ -46,7 +50,7 @@ n/a {class="description"}
 
 ## Krátkodobé komplikace cukrovky a jejich řešení
 
-n/a {class="description"}
+n/a
 
   * Jestliže dávku inzulínu nenásleduje patřičný příjem potravy, dojde spotřebováním cukru z krve k nadměrnému poklesu jeho hladiny – **hypoglykémie**.
   * Jestli si diabetik nepodá inzulín a nasytí se sladkým jídlem, hladina cukru v jeho krvi se může mnohonásobně zvýšit – **hyperglykémie**.
@@ -57,7 +61,9 @@ V obou případech může následovat pocení, nevolnost až s následným [bezv
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -73,9 +79,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: stravovaci_navyky
  [2]: srdecni_infarkt

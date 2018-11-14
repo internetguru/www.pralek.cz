@@ -5,7 +5,9 @@
 
 # Bércový vřed, jeho vývoj a hojení
 
-Bércový vřed je obtěžující a velmi nepříjemná choroba málo chodících lidí, tedy především starších a dlouhodobě nemocných. Pro jeho zhojení je zásadní nejprve obnovit funkčnost krevního oběhu dolních končetin. {class="description" kw="bércový vřed, prokrvení, varixy, kornatění cév, lymfatický systém, otevřená noha, defekt, defekt kůže, defekt podkoží"}
+{kw="bércový vřed, prokrvení, varixy, kornatění cév, lymfatický systém, otevřená noha, defekt, defekt kůže, defekt podkoží"}
+
+Bércový vřed je obtěžující a velmi nepříjemná choroba málo chodících lidí, tedy především starších a dlouhodobě nemocných. Pro jeho zhojení je zásadní nejprve obnovit funkčnost krevního oběhu dolních končetin.
 
 **Bércový vřed (laicky „otevřená noha“) je dlouhodobý defekt kůže a podkoží** v okolí kotníků nebo na bérci dolní končetiny. Bércový vřed **vzniká vždy v místě nedostatečného prokrvení**.
 
@@ -14,13 +16,15 @@ Bércový vřed je obtěžující a velmi nepříjemná choroba málo chodícíc
   2. Bércový vřed může vzniknout samovolně (bez souvislosti s úrazem).
       * Pokud vzniká samovolně, tvoří se nejprve sotva patrný, mělký defekt kůže 2–3 mm<sup>2</sup>, který se postupně rozšiřuje a prohlubuje.
 
-Skutečnou příčinou vzniku bércového vředu tedy není úraz postiženého místa, ale nedostatečné vyživování z důvodu špatného místního prokrvení. {class="important"}
+{class="important"}
+
+Skutečnou příčinou vzniku bércového vředu tedy není úraz postiženého místa, ale nedostatečné vyživování z důvodu špatného místního prokrvení.
 
 {id="vzhled\_a\_projevy\_bercoveho\_vredu"}
 
 ## Vzhled a projevy bércového vředu
 
-n/a {class="description"}
+n/a
 
 Bércový vřed může mít velikost několika milimetrů čtverečných, může ale také postihnout celý bérec, tedy oblast od kolene až ke kotníku. Spodina vředu a jeho **okraje mají nejrůznější tvar, povrch a barvu v závislosti [na stupni a vývoji zánětu][1]**, který se na rané (postižené) ploše nekryté kůží vždy vyvine.
 
@@ -33,7 +37,7 @@ Vřed může vypadat jakkoli mezi popsaným počátečním a konečným stavem v
 
 ## Příčiny vzniku bércového vředu
 
-n/a {class="description"}
+n/a
 
 Bércový vřed vzniká nedostatečným prokrvením dolních končetin. Nejčastější příčinou bývá snížený přítok krve [zkornatělými tepnami][4] a zpomalený odtok krve z dolních končetin nemocnými žílami. Nejčastějšími příčinami vzniku vředu bývají:
 
@@ -47,7 +51,7 @@ Bércový vřed vzniká nedostatečným prokrvením dolních končetin. Nejčast
 
 ## Léčení bércového vředu a vývoj hojení
 
-n/a {class="description"}
+n/a
 
 Podstatou léčení musí být snaha **obnovit váznoucí krevní oběh**. Teprve potom se může vřed skutečně hojit. Pokud je krevní oběh obnoven, pomohou proti komplikacím spojeným s hojením vředu různé masti, krémy, léčivé koupele nebo moderní gely.
 
@@ -62,7 +66,9 @@ Nelze však spoléhat pouze na léky. Současně s nasazením léků je nutné k
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -76,9 +82,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: zanet
  [2]: zasady_spravneho_opalovani

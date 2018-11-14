@@ -5,13 +5,17 @@
 
 # Stravovací návyky a trávicí systém
 
-Zdravý člověk má obrovské rezervy, může jíst a pít kdykoli a cokoli a trávení nevnímá. V případě vyčerpání rezerv a pocitu potíží v souvislosti s jídlem je třeba pátrat ve stravovacích návycích dříve, než začít užívat léky podporující trávení. {class="description" kw="trávicí systém, stravovací návyky, trávicí enzymy, trávení, ústrojné látky, peristaltika, pocit plnosti, léky, dráždivá jídla, žluč, stravování, dvanáctník, tračník"}
+{kw="trávicí systém, stravovací návyky, trávicí enzymy, trávení, ústrojné látky, peristaltika, pocit plnosti, léky, dráždivá jídla, žluč, stravování, dvanáctník, tračník"}
+
+Zdravý člověk má obrovské rezervy, může jíst a pít kdykoli a cokoli a trávení nevnímá. V případě vyčerpání rezerv a pocitu potíží v souvislosti s jídlem je třeba pátrat ve stravovacích návycích dříve, než začít užívat léky podporující trávení.
 
 Lidský organizmus ke svému správnému chodu potřebuje kombinaci _ústrojných látek_ (cukry, tuky, bílkoviny). Tuto kombinaci nemůže nikdy přesně dostat přijatou stravou. Všechno snědené jídlo v zažívacím ústrojí je postupně rozloženo na jednotlivé _ústrojné látky_. K rozložení přijaté potravy slouží trávicí enzymy. Ústrojné látky jsou ze střeva vstřebávány a krví se dostávají do jater. **Játra dokážou vzájemně přeměňovat libovolnou ústrojnou látku v jinou** – podle momentální potřeby organizmu.
 
 Veškerá nadbytečná přijatá strava (nad momentální energetické potřeby organizmu) je vždy **přeměněna v zásobní tuk a ukládána**. Důležitý je tedy [poměr mezi energetickým příjmem a výdejem][1].
 
-Lenoch, který je trvale na válendě, bude tloustnout, přestože se bude živit pouze nízkotučnými jogurty a zeleninou. Protože jeho organizmus nepotřebuje žádnou aktivní energii, budou jeho játra téměř veškerou zdravou stravu přetvářet v tuky a ty ukládat (tloustnutí). {class="example"}
+{class="example"}
+
+Lenoch, který je trvale na válendě, bude tloustnout, přestože se bude živit pouze nízkotučnými jogurty a zeleninou. Protože jeho organizmus nepotřebuje žádnou aktivní energii, budou jeho játra téměř veškerou zdravou stravu přetvářet v tuky a ty ukládat (tloustnutí).
 
 Některé látky si organizmus vyrobit neumí (esenciální bílkoviny, vitamíny a minerály). Ty je potřeba tělu dodávat; ideálně příjmem různorodé stravy. Není tedy až tak důležité, zda bude strava spíše sladká, bílkovinná nebo tučná, masitá nebo bezmasá – ale bude-li **strava dlouhodobě různotvárná**.
 
@@ -19,7 +23,7 @@ Některé látky si organizmus vyrobit neumí (esenciální bílkoviny, vitamín
 
 ## Proces trávení
 
-n/a {class="description"}
+n/a
 
 Při jídle je strava **v ústech řádně rozmělněna a promíchána se slinami**. Tím je zahájen proces trávení, protože už sliny obsahují látku (enzym), štěpící složité cukry. Ve stěnách jícnu, žaludku i střev jsou hladké svaly, které zvolna posunují obsah požadovaným směrem (peristaltika).
 
@@ -29,7 +33,9 @@ Při jídle je strava **v ústech řádně rozmělněna a promíchána se slinam
 
 **V žaludku je potrava míšena s dalšími enzymy a s kyselinou solnou.** Ty se tvoří ve zvláštních žlázkách v žaludeční stěně. Tím dochází k rozkladu bílkovin. Potrava zůstává v žaludku různě dlouhou dobu od několika minut po mnoho hodin – podle složení stravy a stupně rozkousání.
 
-Zapíjením jídla vodou se zmíněné enzymy a kyselina zbytečně ředí a odplavují dále do střeva. Tím se kvalita trávení znehodnocuje se všemi důsledky (tlačení břicha, větry a prodloužení trávicího procesu). {class="important"}
+{class="important"}
+
+Zapíjením jídla vodou se zmíněné enzymy a kyselina zbytečně ředí a odplavují dále do střeva. Tím se kvalita trávení znehodnocuje se všemi důsledky (tlačení břicha, větry a prodloužení trávicího procesu).
 
 **Zpracovaná potrava v tekutém stavu pokračuje do dvanáctníku.** Sem vyúsťují [žlučové cesty][4] společně s vývodem slinivky břišní. Žluč je trávicí šťáva, která se tvoří v játrech. Trávicí [šťáva slinivky břišní][5] je velmi agresivní tekutina; do střeva musí přitéct její přiměřené množství. Zde dochází k rozkladu tuků.
 
@@ -41,7 +47,7 @@ Zapíjením jídla vodou se zmíněné enzymy a kyselina zbytečně ředí a odp
 
 ## Zásady správného stravování
 
-n/a {class="description"}
+n/a
 
   * Těžké jídlo je dobré aktivně strávit (dodržet klid).
   * Potrava má být řádně rozkousána a smíšena se slinami.
@@ -54,13 +60,15 @@ n/a {class="description"}
   * Dodržení stravovacího režimu nutné naopak není; **půst je zdravý**.
   * Dobré jídlo lze doplnit sklenkou vína, piva nebo teplého čaje.
 
-Těžko stravitelná a dráždivá jídla zůstávají v žaludku mnohem déle, než jídla snadno stravitelná. Mezi těžká jídla patří červené maso, houby, smažené tučné potraviny, slupky rajčat a semínka jahod či špatně rozkousaná strava. Snadno stravitelná jídla jsou dobře tepelně upravené bílé maso a zelenina bez voskových slupek, ovocná dužina, brambory. {class="example"}
+{class="example"}
+
+Těžko stravitelná a dráždivá jídla zůstávají v žaludku mnohem déle, než jídla snadno stravitelná. Mezi těžká jídla patří červené maso, houby, smažené tučné potraviny, slupky rajčat a semínka jahod či špatně rozkousaná strava. Snadno stravitelná jídla jsou dobře tepelně upravené bílé maso a zelenina bez voskových slupek, ovocná dužina, brambory.
 
 {id="nejcastejsi\_chyby\_ve_stravovani"}
 
 ## Nejčastější chyby ve stravování
 
-n/a {class="description"}
+n/a
 
   * [Nadměrný příjem potravy][1] (nad rámec potřeby organizmu).
   * Vybírání stále stejných oblíbených jídel (lhostejno, zda sladkých nebo smažených).
@@ -75,7 +83,9 @@ n/a {class="description"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -92,9 +102,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: obezita_a_energie
  [2]: spolknute_predmety

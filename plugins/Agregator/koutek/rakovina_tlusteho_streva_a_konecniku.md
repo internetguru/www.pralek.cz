@@ -5,17 +5,21 @@
 
 # Rakovina tlustého střeva a konečníku
 
-Po rakovině tlustého střeva a konečníku je třeba [aktivně pátrat][1]. Její záludnost spočívá v naprosto bezpříznakovém počátku a jen velmi neurčitých projevech i při již plně rozvinutém onemocnění. {class="description" kw="tlusté střevo, konečník, rakovina, kolorektální karcinom, krev ve stolici, střevní neprůchodnost, zástava větrů a stolice, zvracení, uzliny, druhotná ložiska, metastázy, test stolice na OK, rektoskopie, kolonoskopie, bioterapie, vývod střeva"}
+{kw="tlusté střevo, konečník, rakovina, kolorektální karcinom, krev ve stolici, střevní neprůchodnost, zástava větrů a stolice, zvracení, uzliny, druhotná ložiska, metastázy, test stolice na OK, rektoskopie, kolonoskopie, bioterapie, vývod střeva"}
+
+Po rakovině tlustého střeva a konečníku je třeba [aktivně pátrat][1]. Její záludnost spočívá v naprosto bezpříznakovém počátku a jen velmi neurčitých projevech i při již plně rozvinutém onemocnění.
 
 Zhoubný nádor tlustého střeva a konečníku _(kolorektální karcinom)_ je v našich krajích bohužel **častým a velice závažným onemocněním**. Četnější výskyt než u nás je jen v jižním Skotsku, kde se přičítá opakovanému a pravidelnému konzumování velkého množství uzeného masa. U nás nebyla přímá souvislost výskytu nádoru se [stravovacími návyky][2] prokázána. Přesto je jako prevence onemocnění nádorem doporučována _zbytková strava_ – potraviny s vyšším obsahem vlákniny (celozrnné pečivo, luštěniny, zelí a podobně).
 
-Dokonce ani znečištěné prostředí statisticky nezvyšuje pravděpodobnost onemocnění. Se stejnou pravděpodobností onemocní člověk bydlící v průmyslové aglomeraci s vysokým výskytem karcinogenů stejně jako lesník nekuřák bydlící v celý život v lese, který se živí jen nejzdravějšími čerstvými potravinami bez konzervantů. {class="example"}
+{class="example"}
+
+Dokonce ani znečištěné prostředí statisticky nezvyšuje pravděpodobnost onemocnění. Se stejnou pravděpodobností onemocní člověk bydlící v průmyslové aglomeraci s vysokým výskytem karcinogenů stejně jako lesník nekuřák bydlící v celý život v lese, který se živí jen nejzdravějšími čerstvými potravinami bez konzervantů.
 
 {id="projevy\_nadoru\_tlusteho_streva"}
 
 ## Projevy nádoru tlustého střeva
 
-n/a {class="description"}
+n/a
 
 Záludnost _kolorektálního karcinomu_ spočívá v **naprosto bezpříznakovém počátku** a jen velmi neurčitých projevech i při již plně rozvinutém onemocnění. Jedná se o [celkovou zažívací nepohodu][3], sníženou nebo změněnou chuť k jídlu (často odpor k masu), hubnutí, celkovou slabost, občasnou [přítomnost hlenu a krve ve stolici][4] a teprve později potíže s vyprazdňováním.
 
@@ -25,7 +29,7 @@ Bohužel je **nádor velmi často zjištěn až při vzniku komplikací** způso
 
 ## Stádia onemocnění
 
-n/a {class="description"}
+n/a
 
 Tato obávaná diagnóza nemusí vždy znamenat nevyhnutelně ortel smrti. Vývoj onemocnění (prognóza) záleží na následujících faktorech:
 
@@ -42,7 +46,7 @@ Na základě zkušeností se navrhuje podle stádia onemocnění nejvhodnější
 
 ## Možnosti odhalení rakoviny tlustého střeva
 
-n/a {class="description"}
+n/a
 
 Onemocnění se vyskytuje nejčastěji ve středním a vyšším věku, více u mužů než u žen. Jistě by se po něm mělo pátrat v rámci preventivních vyšetření pro jeho bezpříznakový začátek. U mužů nad 50 let by měla být taková kontrola zcela běžná a pravidelná (např. každoroční). Lékaři by měli nezbytnost tohoto vyšetření svým pacientům připomínat a nutit je vyšetření podstoupit.
 
@@ -54,7 +58,7 @@ V případě pozitivity testu na OK je třeba se podrobit odbornému vyšetřen�
 
 ## Možnosti léčení rakoviny tlustého střeva a konečníku
 
-n/a {class="description"}
+n/a
 
   1. V ideálním případě dojde k **odstranění nádoru již při jeho zjištění** přímo během vyšetření tlustého střeva a konečníku _(kolonoskopicky)_.
       * Nádor je tedy zjištěn v počátečním stádiu; nikam neprorůstá, nepostihuje uzliny a je bez metastáz. Takže může být ihned odstraněn, čímž je léčba definitivně vyřešena.
@@ -75,7 +79,9 @@ n/a {class="description"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -89,9 +95,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: odhaleni_rakoviny
  [2]: stravovaci_navyky

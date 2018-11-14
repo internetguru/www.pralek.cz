@@ -5,7 +5,9 @@
 
 # Léky proti bolesti neboli analgetika
 
-Je mnoho léků proti bolesti a v moderních preparátech jsou různě kombinovány. Jednotlivé firmy vyrábí tytéž léky pod různými názvy. Pro laika je těžké se v nabídce léků zorientovat. Vždy je správné, poradit se o vhodném léku proti bolesti se svým lékařem nebo lékárníkem. {class="description" kw="léky, bolest, analgetika, teplota, spasmolytika, zánět, vedlejší účinky léků, opiáty"}
+{kw="léky, bolest, analgetika, teplota, spasmolytika, zánět, vedlejší účinky léků, opiáty"}
+
+Je mnoho léků proti bolesti a v moderních preparátech jsou různě kombinovány. Jednotlivé firmy vyrábí tytéž léky pod různými názvy. Pro laika je těžké se v nabídce léků zorientovat. Vždy je správné, poradit se o vhodném léku proti bolesti se svým lékařem nebo lékárníkem.
 
 Člověk trpící bolestí hledá jakoukoli pomoc; nejlépe ve formě léku proti bolesti _(analgetika)_. Bolest není na světě za trest. **Bolest je upozorněním a příznakem toho, že je něco v nepořádku.** Každá bolest má tedy svou příčinu.
 
@@ -13,7 +15,7 @@ Je mnoho léků proti bolesti a v moderních preparátech jsou různě kombinov�
 
 ## Užívání léků proti bolesti
 
-n/a {class="description"}
+n/a
 
   1. V případě bolesti je třeba [nejprve najít příčinu][1]. Je-li možné odstranit příčinu bolesti, pak je to prvořadý úkol lékaře.
   2. Léky proti bolesti je dobré brát až v případě známé příčiny a nemožnosti jejího odstranění. U některých nemocí je odstranění bolesti bohužel jedinou možností, jak pacientovi pomoci.
@@ -22,13 +24,15 @@ n/a {class="description"}
 
 Některé zvláštní bolestivé nemoci vyžadují zcela zvláštní léky (například [migréna][1]).
 
-Vždy je třeba si vzít co nejméně léku; jen tolik, aby bolest utlumil. Bolest není nutné (a často ani možné) zcela odstranit. {class="important"}
+{class="important"}
+
+Vždy je třeba si vzít co nejméně léku; jen tolik, aby bolest utlumil. Bolest není nutné (a často ani možné) zcela odstranit.
 
 {id="druhy\_leku\_proti_bolesti"}
 
 ## Druhy léků proti bolesti
 
-n/a {class="description"}
+n/a
 
 Jednotlivé léky každé skupiny jsou od různých výrobců k dostání pod různými názvy, ačkoli jsou chemicky naprosto identické. Lékárník vždy (na rozdíl od sousedky nebo zavádějící reklamy) umí doporučit vhodný lék, mnohdy levnější nebo dokonce hrazený pojišťovnou.
 
@@ -58,7 +62,9 @@ Jednotlivé léky každé skupiny jsou od různých výrobců k dostání pod r�
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -72,9 +78,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: bolest_hlavy_migrena
  [2]: mocove_kameny

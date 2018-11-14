@@ -5,17 +5,21 @@
 
 # Onemocnění šlach: zánět šlach, gangliom, tenisový loket
 
-Neúměrná zátěž šlachy může způsobit potíže – nadměrnou tvorbu mazu nebo jeho nedostatek. Obojí je nutné léčit klidem. Oslabená nebo dlouhodobě nemocná šlacha se může při zátěži přetrhnout. {class="description" kw="šlacha, onemocnění šlachy, zánět šlachy, gangliom, tenisový loket, boulička, epikondylitis, přetržení šlachy"}
+{kw="šlacha, onemocnění šlachy, zánět šlachy, gangliom, tenisový loket, boulička, epikondylitis, přetržení šlachy"}
+
+Neúměrná zátěž šlachy může způsobit potíže – nadměrnou tvorbu mazu nebo jeho nedostatek. Obojí je nutné léčit klidem. Oslabená nebo dlouhodobě nemocná šlacha se může při zátěži přetrhnout.
 
 Šlacha je pevný vazivový pruh, který spojuje konec svalu s cílovým místem na kosti. Šlacha přenáší svalovou sílu na úpon příslušné kosti. Převážně v ohybech jsou šlachy uloženy ve šlachových pochvách, které obsahují přiměřené množství gelovité tekutiny. Ta působí jako mazivo pro šlachy. Stejné mazivo obsahuje i každý [zdravý kloub][1].
 
-V prstech nejsou žádné svaly. Svaly ohýbačů a natahovačů prstů jsou uloženy v horních dvou třetinách předloktí. Od svalů vedou šlachy zbytkem předloktí, zápěstím, dlaní nebo hřbetem ruky až do jednotlivých prstů. Uchopením za horní část předloktí lze vyhmatat pohybující se svaly při aktivním pohybování prsty. {class="example"}
+{class="example"}
+
+V prstech nejsou žádné svaly. Svaly ohýbačů a natahovačů prstů jsou uloženy v horních dvou třetinách předloktí. Od svalů vedou šlachy zbytkem předloktí, zápěstím, dlaní nebo hřbetem ruky až do jednotlivých prstů. Uchopením za horní část předloktí lze vyhmatat pohybující se svaly při aktivním pohybování prsty.
 
 {id="zanet_slach"}
 
 ## Zánět šlach
 
-n/a {class="description"}
+n/a
 
 [Zánět šlach][2] je onemocnění, které navazuje na jednotvárnou práci, **dlouhodobě se opakující pohyby**. Nejčastěji po práci s klávesnicí nebo s myší u počítače. Často se jedná o pilně trénující hráče na hudební nástroje a podobně.
 
@@ -27,7 +31,7 @@ Jelikož se nejedná o [bakteriální onemocnění][3], při léčbě [nepomohou
 
 ## Gangliom
 
-n/a {class="description"}
+n/a
 
 Gangliom je bolestivá boulička [podobně jako lymfatická uzlina][5] nebo [podobně jako nezhoubný nádor][6]. Vyskytuje se nejčastěji na zápěstí, hřbetu ruky, na bérci nebo na nártu nohy. Vzniká rovněž v souvislosti s přetížením některé šlachy nebo drobného kloubu zápěstí nebo nártu. Z důvodu zvýšené námahy se tvoří nadměrné množství mazu a ten se vtlačí do zvláštního nově vzniklého váčku. Váček je viditelný a hmatný pod kůží. V době vzniku bývá bolestivý, později bolest ustává.
 
@@ -46,7 +50,7 @@ Všechny zmíněné léčebné postupy mají stejně dobrý efekt. V případě 
 
 ## Tenisový loket – epikondylitis
 
-n/a {class="description"}
+n/a
 
 Tenisový loket je zánětlivé onemocnění, při kterém bolí místo úponu šlachy ke kosti z důvodu nadměrné nebo dlouhodobé zátěže.
 
@@ -58,7 +62,7 @@ Léčení tenisového loktu spočívá opět v omezení bolestivých pohybů neb
 
 ## Přetržená šlacha
 
-n/a {class="description"}
+n/a
 
 Nejčastěji dochází v zátěži k **přetržení šlachy bicepsu** (dlouhé hlavy dvouhlavého svalu pažního). Jedná se o málo závažný úraz. Nefunkční sval snadno brzy nahradí okolní zdravé svaly. Pouze dočasná deformita paže může někomu působit potíže.
 
@@ -73,7 +77,9 @@ Naopak **přetržení Achillovy šlachy je velmi závažný úraz**, který se s
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -88,9 +94,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: artroza
  [2]: zanet

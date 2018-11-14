@@ -5,7 +5,9 @@
 
 # Cévní mozková příhoda neboli iktus či mrtvice
 
-Záludnost cévní mozkové příhody spočívá v nenápadnosti jejího nástupu a v jejím pozvolném a nebolestivém rozvoji. {class="description" kw="cévní mozková příhoda, mozková mrtvice, iktus, mozek, prokrvácení mozku, slabost končetiny, porucha mluvení, pokleslý koutek úst, porucha vědomí, bezvědomí, porucha hybnosti, rehabilitace"}
+{kw="cévní mozková příhoda, mozková mrtvice, iktus, mozek, prokrvácení mozku, slabost končetiny, porucha mluvení, pokleslý koutek úst, porucha vědomí, bezvědomí, porucha hybnosti, rehabilitace"}
+
+Záludnost cévní mozkové příhody spočívá v nenápadnosti jejího nástupu a v jejím pozvolném a nebolestivém rozvoji.
 
 Mozková mrtvice neboli cévní mozková příhoda (CMP), iktus či mozkový infarkt je způsobena:
 
@@ -20,7 +22,7 @@ V případě pokročilejšího nebo náhle vzniklého stavu snížení prokrven�
 
 ## Nejčastější projevy cévní mozkové příhody
 
-n/a {class="description"}
+n/a
 
   * Slabost končetiny – neschopnost unést v postižené ruce drobný předmět, který se zdá být velmi těžký, postižená noha je nejistá při chůzi, podlamuje se.
   * Porucha mluvení – nemocný se obtížně vyjadřuje, často i sám vnímá, že se mu nedaří normálně mluvit.
@@ -31,13 +33,15 @@ n/a {class="description"}
 
 Stejné příznaky mohou doprovázet jak neúrazové tak [úrazové krvácení do mozku][7].
 
-Brnění nebo poruchy čití mohou sice doprovázet CMP, ale mnohem častěji vzniknou pouhým přeležením paže! Hlubokým spánkem na paži v nevhodné poloze se otlačí nebo natáhne nervový svazek nebo nerv. Při probuzení je končetina jako cizí, necitlivá, studená, nelze jí aktivně pohnout. Stav se během několika minut sám upraví. {class="important"}
+{class="important"}
+
+Brnění nebo poruchy čití mohou sice doprovázet CMP, ale mnohem častěji vzniknou pouhým přeležením paže! Hlubokým spánkem na paži v nevhodné poloze se otlačí nebo natáhne nervový svazek nebo nerv. Při probuzení je končetina jako cizí, necitlivá, studená, nelze jí aktivně pohnout. Stav se během několika minut sám upraví.
 
 {id="nasledky\_po\_mozkove_mrtvici"}
 
 ## Následky po mozkové mrtvici
 
-n/a {class="description"}
+n/a
 
 Trvalá **porucha hybnosti** postižených končetin různého stupně a **změněná povaha** bývají nejčastější následky po CMP.
 
@@ -49,7 +53,9 @@ Jestliže se podaří správně rozpoznat první příznaky CMP a včas (hodiny 
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -62,9 +68,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: cholesterol
  [2]: koureni_cigaret

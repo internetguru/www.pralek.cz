@@ -5,7 +5,9 @@
 
 # Léčba zánětu podle druhu a stádia
 
-Jednotlivé fáze a druhy některých zánětů na sebe navazují nebo mezi sebou v průběhu vývoje vzájemně přecházejí v souvislosti s úspěšností hojení. U jiných zánětů převažuje jediná fáze po téměř celou dobu trvání nemoci. Jednotlivá stádia mají své specifické projevy, proto je i léčba v různých fázích zánětu rozdílná. {class="description" kw="zánět, nehnisavý, hnisavý, hnis, ohraničený, absces, neohraničený, flegmóna, stádia zánětu, bolest, léky, hojení zánětu, fáze zánětu"}
+{kw="zánět, nehnisavý, hnisavý, hnis, ohraničený, absces, neohraničený, flegmóna, stádia zánětu, bolest, léky, hojení zánětu, fáze zánětu"}
+
+Jednotlivé fáze a druhy některých zánětů na sebe navazují nebo mezi sebou v průběhu vývoje vzájemně přecházejí v souvislosti s úspěšností hojení. U jiných zánětů převažuje jediná fáze po téměř celou dobu trvání nemoci. Jednotlivá stádia mají své specifické projevy, proto je i léčba v různých fázích zánětu rozdílná.
 
 Stává se, že jeden lékař radí na zánět přikládat studené obklady a druhý lékař stejnému člověku poradí na tentýž zánět přikládat obklady teplé. Tato zdánlivě protichůdná léčba má však příčinu v tom, že každý z lékařů viděl pacienta **v různém stádiu vývoje zánětu**.
 
@@ -13,7 +15,7 @@ Stává se, že jeden lékař radí na zánět přikládat studené obklady a dr
 
 ## Bolest na začátku zánětu
 
-n/a {class="description"}
+n/a
 
 V počátku [každého zánětu][1] převažuje poškození buněk a tkání _(alterativní fáze zánětu)_.
 
@@ -26,7 +28,7 @@ Příkladem dlouhodobého _alterativního zánětu_ je virový zánět jater _(h
 
 ## Nadbytečná tvorba tekutin a tkáně
 
-n/a {class="description"}
+n/a
 
 Rozšířením cév v zánětlivém ložisku se zpomalí krevní proud a **dochází k překrvení a k nadměrné tvorbě tekutin nebo tkáně** _(exsudativní fáze zánětu)_. Dle stavu lze podat léky proti otokům (tlumící tvorbu tekutin) nebo antibiotika. Podle vlastností tekutiny _(exsudátu)_ nebo tvořené tkáně se _exsudativní zánět_ dále dělí.
 
@@ -42,17 +44,19 @@ Rozšířením cév v zánětlivém ložisku se zpomalí krevní proud a **doch�
 
 ## Nadměrné prosáknutí tekutinou
 
-n/a {class="description"}
+n/a
 
 Zvýšenou propustností cév dochází k **úniku tekutiny a některých krvinek z cév do tkáně** _(infiltrativní fáze zánětu)_. Vzniklý otok bývá dobře viditelný. V případě nejasnosti pomůže srovnání s druhou (zdravou) stranou, např. s druhou rukou nebo s druhou stranou tváře.
 
-Příkladem je otok dásně a tváře při akutním zánětu v okolí kořene zubu. Lze se pokusit zpočátku studeným obkladem zánět rozehnat, nebo později teplým obkladem vývoj zánětu urychlit. Antibiotika se podávají dle rozvoje celkových příznaků zánětu. {class="example"}
+{class="example"}
+
+Příkladem je otok dásně a tváře při akutním zánětu v okolí kořene zubu. Lze se pokusit zpočátku studeným obkladem zánět rozehnat, nebo později teplým obkladem vývoj zánětu urychlit. Antibiotika se podávají dle rozvoje celkových příznaků zánětu.
 
 {id="hojeni\_po\_probehlem_zanetu"}
 
 ## Hojení po proběhlém zánětu
 
-n/a {class="description"}
+n/a
 
 Poslední fází zánětu je hojení tkáně _(proliferativní fáze zánětu)_. Při ní se **tvoří nové cévy a dorůstá nová zdravá tkáň**. Příkladem je dorůstání tkáně po zánětem způsobeném defektu, nebo po chirurgickém odstranění původně zanícené a následně odumřelé tkáně.
 
@@ -62,7 +66,9 @@ V závislosti na době a závažnosti zánětlivého onemocnění může dojít 
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -76,9 +82,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: zanet
  [2]: leky_proti_bolesti

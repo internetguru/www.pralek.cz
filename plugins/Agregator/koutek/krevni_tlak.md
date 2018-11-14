@@ -5,7 +5,9 @@
 
 # Krevní tlak, správné měření a vyhodnocení tlaku
 
-Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření. {class="description" kw="krevní tlak, srdce, chlopně, systola, diastola, měření tlaku krve, tonometr, vysoký krevní tlak, hypertenze, nízký krevní tlak, hypotenze"}
+{kw="krevní tlak, srdce, chlopně, systola, diastola, měření tlaku krve, tonometr, vysoký krevní tlak, hypertenze, nízký krevní tlak, hypotenze"}
+
+Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření.
 
 Srdce pumpuje krev; žílami ji nabírá a tepnami ji rozvádí do celého těla. V srdci jsou jednosměrné ventily – chlopně.
 
@@ -18,7 +20,7 @@ Rozdíl tlaků mezi systolou a diastolou se přenáší na tepny a tím je akce 
 
 ## Typy a rozdíly mezi tonometry
 
-n/a {class="description"}
+n/a
 
 Na trhu jsou k dostání různé přístroje k měření tlaku krve – tonometry. Původní tonometry byly rtuťové – tlak krve se měřil vytlačenou výškou sloupce rtuti. **Jednotka k měření krevního tlaku je „mm Hg“** (milimetry rtuťového sloupce); dodnes používaná i u modernějších digitálních tonometrů.
 
@@ -34,7 +36,7 @@ Rozdíly mezi jednotlivými přístroji jsou cenové, vzhledové, s displejem ne
 
 ## Kolísání krevního tlaku u zdravého člověka je normální
 
-n/a {class="description"}
+n/a
 
 Mnoho lidí vlastní tonometr a často se podivují nad **rozdíly naměřených hodnot** a považují svůj přístroj za porouchaný nebo nekvalitní. Za normální se u mladého zdravého člověka považuje hodnota kolem 120/80 mm Hg, která může kolísat mezi 100/50 až 180/100 mm Hg.
 
@@ -50,7 +52,7 @@ Krátkodobě **nízkou hodnotu krevního tlaku** naměří zdravý člověk v kl
 
 ## Podmínky správného měření krevního tlaku
 
-n/a {class="description"}
+n/a
 
 Čidlo tonometru považuje všechny tlakové změny přenesené na končetinu za pulsaci tepny. Aby naměřené hodnoty odpovídaly skutečnému stavu organizmu, musí měřený člověk dodržet určité podmínky:
 
@@ -65,7 +67,7 @@ Nedodržení podmínek vyžaduje opakované měření, a to na téže končetin�
 
 ## Vysoký krevní tlak – hypertenze
 
-n/a {class="description"}
+n/a
 
   * Mladí lidé mívají systolickou hodnotu 120 – 130 mm Hg, starší lidé i vyšší. Tato hodnota se mění během let, během dne i během okamžiku. Teprve **opakované vyšší hodnoty mohou znamenat hypertenzi** a vyžadují poradu s lékařem.
   * **Diastolická hodnota musí být vždy menší než 100 mm Hg.** Je-li vyšší než 100 mm Hg, jedná se o hypertenzi a **návštěva lékaře je nezbytná**.
@@ -76,7 +78,7 @@ Existuje řada typů léků na snížení vysokého tlaku krve. Prvním a účin
 
 ## Nízký krevní tlak – hypotenze
 
-n/a {class="description"}
+n/a
 
 O hypotenzi se jedná tehdy, projevuje-li se a **obtěžuje-li svými projevy** (sklon k omdlívání a točení hlavy). Naměřené hodnoty mohou být i pod 100/50 mm Hg. Existují léky ke zvýšení tlaku krve, většinou však postačí pití silného dobrého čaje, kávy, kofeinových nápojů.
 
@@ -84,7 +86,9 @@ O hypotenzi se jedná tehdy, projevuje-li se a **obtěžuje-li svými projevy** 
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -98,8 +102,12 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: mdloba_neboli_kolaps

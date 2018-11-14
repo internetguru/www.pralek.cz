@@ -5,13 +5,17 @@
 
 # Zvětšené lymfatické uzliny
 
-Normální lymfatické uzliny nejsou bolestivé ani hmatné. Zvětšení nebo bolestivost uzliny má vždy svůj důvod, po kterém je třeba pátrat. Nejčastěji se jedná o zánět, bohužel někdy i o nádor. {class="description" kw="uzliny, lymfatické uzliny, lymfa, cévy, mízní uzliny, zvětšené uzliny, hmatné uzliny, bolestivé uzliny"}
+{kw="uzliny, lymfatické uzliny, lymfa, cévy, mízní uzliny, zvětšené uzliny, hmatné uzliny, bolestivé uzliny"}
+
+Normální lymfatické uzliny nejsou bolestivé ani hmatné. Zvětšení nebo bolestivost uzliny má vždy svůj důvod, po kterém je třeba pátrat. Nejčastěji se jedná o zánět, bohužel někdy i o nádor.
 
 [Krevním oběhem][1] putuje v krevní plazmě směs krvinek a krevních destiček. Tepnami teče krev k cílovým orgánům a žílami zpět k srdci. Během předávání kyslíku a živin ve vlásečnici (přechod mezi tepnou a žílou) se plazma dostává do mezibuněčného prostoru. V případě setkání s většími částečkami, volnými buňkami nebo [produkty zánětu][2] se plazma do srdce nevrací žilním systémem, ale lymfatickým (mízním).
 
 Lymfa je viditelná například v případě [velmi povrchní oděrky][3], kdy nezačne z kůže krvácení, ale vyroní se pouze nažloutlá tekutina, která posléze zaschne v nažloutlý nekrvavý strup.
 
-Lymfatické cévy jsou přerušeny uzlinami. Mízní uzliny jsou jakási sítka, která z lymfy vychytávají všechny nežádoucí částečky a buňky, aby se nedostaly do krevního oběhu. {class="important"}
+{class="important"}
+
+Lymfatické cévy jsou přerušeny uzlinami. Mízní uzliny jsou jakási sítka, která z lymfy vychytávají všechny nežádoucí částečky a buňky, aby se nedostaly do krevního oběhu.
 
 V lymfatických uzlinách jsou [některé mikroorganizmy][4] zničeny, některé mohou lymfatickou cévou pronikat k další uzlině. Nečistoty jsou v uzlinách uloženy natrvalo. Podle příčiny se zvětšená uzlina [po ústupu zánětu][5] znovu zmenší nebo zůstane trvale zvětšená. **Při postižení nádorem uzlina dlouhodobě narůstá.**
 
@@ -19,7 +23,7 @@ V lymfatických uzlinách jsou [některé mikroorganizmy][4] zničeny, některé
 
 ## Zvětšené, bolestivé a jinak změněné lymfatické uzliny
 
-n/a {class="description"}
+n/a
 
 Normální lymfatické uzliny jsou drobné a nejsou ani hmatné ani bolestivé ani viditelné. Mění se v případě výskytu nějakého problému ve spádové oblasti (oblast, odkud přitéká lymfa). [Uzliny se mohou zvětšit][6] do velikosti hrachu až fazole, mohou být hmatné, bolestivé, viditelné.
 
@@ -32,7 +36,7 @@ Důvodem zvětšení uzlin bývá zánět, pohmoždění nebo nádor oblasti, od
 
 ## Příklady zvětšení lymfatických uzlin
 
-n/a {class="description"}
+n/a
 
   * Nadměrná zátěž dolních končetin u mladých lidí často vede ke **zvětšení a bolestivosti tříselních uzlin**. Vzniklou bolestivou [bouličku nutno odlišit od kýly][8].
   * [Zánět nehtového lůžka][9], oděrky prstů nebo pat mohou způsobit **bolestivé zvětšení uzlin v zákolenní jamce nebo v tříslech**.
@@ -48,7 +52,9 @@ n/a {class="description"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -61,9 +67,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: krevni_tlak
  [2]: bolest_v_krku_angina

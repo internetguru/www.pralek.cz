@@ -5,7 +5,9 @@
 
 # Prostata: potíže s močením
 
-Zvětšená prostata je nejčastější příčinou potíží s močením. Při léčení jakýchkoli potíží s prostatou provádí urolog taková vyšetření, která prokáží nebo vyloučí i rakovinu prostaty. Největší problém tedy hrozí, jestliže se pacient se svými problémy vůbec neléčí. {class="description" kw="prostata, močení, zvětšená prostata, rakovina, předstojná žláza, ejakulát, semenné váčky, varlata, zánět, moč, hypertrofie prostaty, cévkování, karcinom prostaty"}
+{kw="prostata, močení, zvětšená prostata, rakovina, předstojná žláza, ejakulát, semenné váčky, varlata, zánět, moč, hypertrofie prostaty, cévkování, karcinom prostaty"}
+
+Zvětšená prostata je nejčastější příčinou potíží s močením. Při léčení jakýchkoli potíží s prostatou provádí urolog taková vyšetření, která prokáží nebo vyloučí i rakovinu prostaty. Největší problém tedy hrozí, jestliže se pacient se svými problémy vůbec neléčí.
 
 **Prostata (česky předstojná žláza) je jedním z mužských pohlavních orgánů.** Pokud nečiní potíže, není v povědomí lidí, protože není viditelná ani není hmatná z povrchu těla. Je uložena uvnitř pánve, [pod močovým měchýřem][1] v těsném sousedství konečníku. Je dobře hmatná a vyšetřitelná konečníkem.
 
@@ -15,7 +17,7 @@ Vlivem působení pohlavních hormonů v pubertě prostata narůstá přibližn�
 
 ## Funkce prostaty
 
-n/a {class="description"}
+n/a
 
 V prostatě se tvoří sekret, který je podstatnou součástí ejakulátu. Tento sekret slouží jako vhodné prostředí k přežívání spermií v jinak pro ně nepříznivém kyselém prostředí ženských pohlavních orgánů.
 
@@ -25,7 +27,7 @@ V těsné blízkosti prostaty jsou semenné váčky. Ve váčcích jsou uchováv
 
 ## Zánětlivé onemocnění prostaty
 
-n/a {class="description"}
+n/a
 
 [Zánět prostaty][2] _(prostatitis)_ postihuje muže v mladším a středním věku a [je poměrně špatně léčitelný][3].
 
@@ -42,7 +44,7 @@ n/a {class="description"}
 
 ## Nezánětlivé onemocnění prostaty
 
-n/a {class="description"}
+n/a
 
 Nezánětlivé zvětšení prostaty _(hypertrofie prostaty)_ je časté onemocnění mužů středního a vyššího věku, kdy se prostata chová [podobně jako nezhoubný nádor][7].
 
@@ -59,7 +61,7 @@ Nezánětlivé zvětšení prostaty _(hypertrofie prostaty)_ je časté onemocn�
 
 ## Zhoubný nádor prostaty (rakovina prostaty, karcinom prostaty)
 
-n/a {class="description"}
+n/a
 
 Rakovina prostaty se projevuje podobnými potížemi jako zvětšená prostata. Postihuje muže vyššího věku a je dobře léčitelná, je-li odhalena včas. [Druhotná ložiska _(metastázy)_ rakoviny prostaty][7] totiž vznikají až v pokročilejším stádiu (tvoří se v plicích, v kostech a v mozku). Proto je nutné **s vyšetřením prostaty neotálet**.
 
@@ -67,7 +69,9 @@ Rakovina prostaty se projevuje podobnými potížemi jako zvětšená prostata. 
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -82,9 +86,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: mocove_kameny
  [2]: zanet

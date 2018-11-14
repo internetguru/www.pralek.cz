@@ -5,17 +5,21 @@
 
 # Zásady správného opalování
 
-Stále častěji se vyskytují výstražné zprávy o nebezpečnosti opalování. Lidé jsou však vystaveni slunečnímu záření od nepaměti. Slunění je pro většinu lidí prospěšné. Některým lidem (a za určitých podmínek) však může být zdraví škodlivé, a někdy dokonce nebezpečné. {class="description" kw="opalování, kožní barvivo, pigment, melanin, melanocyt, intenzita slunečního záření, nadměrné opálení, spálení sluncem, zánět, zarudnutí kůže, melanom, stárnutí kůže, bazaliom, ochrana proti UV záření"}
+{kw="opalování, kožní barvivo, pigment, melanin, melanocyt, intenzita slunečního záření, nadměrné opálení, spálení sluncem, zánět, zarudnutí kůže, melanom, stárnutí kůže, bazaliom, ochrana proti UV záření"}
+
+Stále častěji se vyskytují výstražné zprávy o nebezpečnosti opalování. Lidé jsou však vystaveni slunečnímu záření od nepaměti. Slunění je pro většinu lidí prospěšné. Některým lidem (a za určitých podmínek) však může být zdraví škodlivé, a někdy dokonce nebezpečné.
 
 Ochranu lidského těla proti nebezpečí slunečního záření zajišťuje kožní barvivo _(pigment melanin)_. Melanin se tvoří ve zvláštních kožních buňkách – _melanocytech_. Aby se melanin začal tvořit, musí být melanocyty stimulovány slunečním zářením.
 
-Nemá smysl se ihned po příjezdu do letoviska namazat krémem s vysokým ochranným faktorem. Nedošlo by k aktivaci melanocytů a takový člověk by si spálil jakékoli nechráněné místo. Smysluplnou prevencí spálení je zprvu krátkodobý pobyt na slunci nebo namazání se krémem se středním ochranným faktorem. Tím se nastartuje tvorba melaninu. {class="example"}
+{class="example"}
+
+Nemá smysl se ihned po příjezdu do letoviska namazat krémem s vysokým ochranným faktorem. Nedošlo by k aktivaci melanocytů a takový člověk by si spálil jakékoli nechráněné místo. Smysluplnou prevencí spálení je zprvu krátkodobý pobyt na slunci nebo namazání se krémem se středním ochranným faktorem. Tím se nastartuje tvorba melaninu.
 
 {id="slunecni_zareni"}
 
 ## Sluneční záření
 
-n/a {class="description"}
+n/a
 
 Slunce je k Zemi nejbližší hvězda. Hořením dochází ve slunci ke vzniku záření různých vlnových délek. Blahodárné světelné a tepelné záření vnímá každý živočich. Sluneční záření je podmínkou veškerého života na Zemi. Krátkovlnné sluneční záření však může nepřipraveným živým organizmům způsobit závažné poruchy zdraví.
 
@@ -25,7 +29,7 @@ Intenzita slunečního záření se mění (v našich krajích) podle ročního 
 
 ## Nebezpečí nadměrného opálení (spálení sluncem)
 
-n/a {class="description"}
+n/a
 
 V případě nadměrného opalování dojde ke [spálenině sluncem][1]. Již pouhé zarudnutí kůže (1. stupeň spáleniny) je nejen nepříjemné, ale také nebezpečné. V případě [tvorby puchýřů][2] (2. stupeň spáleniny) je bolestivost ještě větší. Nadměrné dráždění nepřipravených _melanocytů_ slunečním zářením může vést ke vzniku [nejzávažnější rakoviny kůže – _melanomu_][3].
 
@@ -38,7 +42,7 @@ Přiměřené vystavování slunečnímu záření je nutné (tvorba vitamínu D
 
 ## Rozličné typy lidí ve vztahu ke slunečnímu záření
 
-n/a {class="description"}
+n/a
 
 Různí lidé mají různé množství _melanocytů_ a následně i _melaninu_. Podle typu člověka se někdo opaluje snadno a bez problémů, někdo se musí před sluncem chránit v začátku sezóny a někdo trvale.
 
@@ -53,7 +57,9 @@ Různí lidé mají různé množství _melanocytů_ a následně i _melaninu_. 
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -69,9 +75,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: ochlazeni_spaleniny
  [2]: puchyr_mozol_kuri_oko

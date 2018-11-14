@@ -5,7 +5,9 @@
 
 # Závažné poranění hrudníku a pneumotorax
 
-Pneumotorax je výskyt vzduchu v prostoru mezi plícemi a hrudníkem. Příslušná plíce se tak stává nefunkční. Její úlohu (dýchání) většinou plně nahradí druhá (zdravá) plíce. {class="description" kw="poranění hrudníku, plíce, hrudník, pneumotorax neúrazový, spontánní, zavřený, otevřený, tenzní, kompresivní, záklopkový, ventilový, přetlakový, jednostranný, oboustranný, iatrogenní"}
+{kw="poranění hrudníku, plíce, hrudník, pneumotorax neúrazový, spontánní, zavřený, otevřený, tenzní, kompresivní, záklopkový, ventilový, přetlakový, jednostranný, oboustranný, iatrogenní"}
+
+Pneumotorax je výskyt vzduchu v prostoru mezi plícemi a hrudníkem. Příslušná plíce se tak stává nefunkční. Její úlohu (dýchání) většinou plně nahradí druhá (zdravá) plíce.
 
 V plicích dochází k okysličování krve. Aby mohly plíce plnit svou dýchací funkci, roztahují se a stahují vlivem pohybů hrudníku. **Přirozený stav plic je smrštěný** (vyfouknutý), tedy bez vzduchu. Aby se plíce při nádechu roztahovaly, musí kopírovat hrudník. Proto je mezi nimi a hrudníkem podtlak. Při nádechu je vzduch nasáván [dýchacími cestami][1] do plic.
 
@@ -15,7 +17,7 @@ Pneumotorax je výskyt vzduchu v prostoru mezi plícemi a hrudníkem. Přísluš
 
 ## Typy pneumotoraxů
 
-n/a {class="description"}
+n/a
 
 Některé typy pneumotoraxů jsou neslučitelné se životem; některé jej závažně ohrožují a o některých pacient ani jeho lékař vůbec nemusí vědět (pneumotorax se sám zhojí). Proto je dobré znát, za jakých podmínek může ten který pneumotorax vzniknout. Od typu pneumotoraxu se také odvíjí první pomoc i další léčení.
 
@@ -45,7 +47,7 @@ Některé typy pneumotoraxů jsou neslučitelné se životem; některé jej záv
 
 ## Příznaky pneumotoraxu
 
-n/a {class="description"}
+n/a
 
 Pneumotorax je nejčastěji následkem [bodného nebo střelného poranění][3]. Z rány může vytékat (zpěněná) krev a může být slyšet proudění vzduchu ránou. Zraněný člověk:
 
@@ -59,7 +61,7 @@ Po zklidnění, uložení do vhodné polohy a základním ošetření rány zran
 
 ## První pomoc při pneumotoraxu
 
-n/a {class="description"}
+n/a
 
 Zklidnění pacienta je prvořadý úkol. Je nutné ho přesvědčit, aby se snažil **dýchat pomalu a pravidelně**. Pacient sedí v polosedě s podloženými zády. Krvácející **ránu může spolupracující pacient sám tisknout dlaní** do doby, než zachránce sežene vhodný obvaz. Zároveň zachránce volá [RLP][4].
 
@@ -73,7 +75,9 @@ Je-li správně poskytnuta první pomoc a pacient je úspěšně transportován 
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -86,9 +90,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: kasel_a_typy_kasle
  [2]: resuscitace-ozivovani

@@ -5,13 +5,15 @@
 
 # Boule vzniklé následkem úrazu
 
-Boule vzniklé pohmožděním mají různou povahu; může jít o vylitou krev nebo jinou tekutinu. Podle místa vzniku se liší závažností, bolestivostí, léčbou a průběhem hojení. {class="description" kw="boule, pohmoždění hlavy, krevní výron, hematom, burza, burzitida, punkce, operace, svalová zatvrdlina, kontraktury"}
+{kw="boule, pohmoždění hlavy, krevní výron, hematom, burza, burzitida, punkce, operace, svalová zatvrdlina, kontraktury"}
+
+Boule vzniklé pohmožděním mají různou povahu; může jít o vylitou krev nebo jinou tekutinu. Podle místa vzniku se liší závažností, bolestivostí, léčbou a průběhem hojení.
 
 {id="typy\_bouli\_podle\_umisteni\_a_zavaznosti"}
 
 ## Typy boulí podle umístění a závažnosti
 
-n/a {class="description"}
+n/a
 
   * **Boule na hlavě** jako [následek tupého poranění][1] je krevní výron _(hematom)_ vzniklý mezi lebkou (plochou kostí) a kůží.
       * Jako první pomoc nejlépe poslouží ledový obklad.
@@ -42,7 +44,9 @@ n/a {class="description"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -56,9 +60,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: otres_mozku
  [2]: lecba_zanetu

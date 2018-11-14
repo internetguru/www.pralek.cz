@@ -5,7 +5,9 @@
 
 # Srdeční infarkt: rozpoznání infarktu
 
-Bezodkladné zahájení masáže srdce při infarktu zachrání život a včasné další léčení může vrátit pacienta do plného zdraví. {class="description" kw="infarkt, civilizační choroby, nezdravý životní styl, krevní tlak, srdeční akce, zužování cév, uzávěr cévy, bolest, angína pectoris, přechozený infarkt, rytmus srdce, zástava srdce, EKG záznam"}
+{kw="infarkt, civilizační choroby, nezdravý životní styl, krevní tlak, srdeční akce, zužování cév, uzávěr cévy, bolest, angína pectoris, přechozený infarkt, rytmus srdce, zástava srdce, EKG záznam"}
+
+Bezodkladné zahájení masáže srdce při infarktu zachrání život a včasné další léčení může vrátit pacienta do plného zdraví.
 
 _Infarkt myokardu_ (česky záhať srdečního svalu) patří mezi civilizační choroby. Většinou navazuje na **nezdravý životní styl** ([kouření cigaret][1], nedostatek pohybu, [obezita][2], [cukrovka][3], [vysoký krevní tlak][4], stres), ale může přijít i z „plného zdraví“ u aktivního člověka. Infarkt postihuje nejčastěji muže ve středním a vyšším věku.
 
@@ -13,7 +15,7 @@ _Infarkt myokardu_ (česky záhať srdečního svalu) patří mezi civilizační
 
 ## Jak funguje srdce
 
-n/a {class="description"}
+n/a
 
 **Srdeční sval** [pumpuje krev do těla][4]. Aby srdeční sval mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve. Zvláštní cévy rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná céva**.
 
@@ -27,7 +29,7 @@ n/a {class="description"}
 
 ## Projevy onemocnění srdečních cév
 
-n/a {class="description"}
+n/a
 
 Srdeční cévy podléhají stárnutí stejně, jako ostatní cévy v těle. Jejich kornatění _(ateroskleróza)_ se vyvíjí:
 
@@ -46,7 +48,7 @@ Jestliže dojde k (téměř) **úplnému uzávěru některé srdeční cévy**, 
 
 ## Závažnost infarktu podle rozsahu a umístění
 
-n/a {class="description"}
+n/a
 
 V případě **postižení malého rozsahu** (například pouze část stěny srdeční) bez postižení převodního systému vzniknou potíže a bolesti, ale stav se může sám upravit. Drobná postižená část srdce sice odumře, ale později **se zahojí jizvou** a na funkci srdce nemusí zůstat žádné následky – jedná se o tzv. **přechozený infarkt**.
 
@@ -60,7 +62,9 @@ Dříve než dojde k odumření infarktem ohroženého svalu, může se podařit
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -75,9 +79,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: koureni_cigaret
  [2]: obezita_a_energie

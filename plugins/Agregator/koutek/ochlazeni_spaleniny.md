@@ -5,17 +5,21 @@
 
 # Ochlazení jako první pomoc při spálenině
 
-Okamžité ochlazení spáleniny zásadně snižuje závažnost úrazu a jeho následky! Nejlépe poslouží proud studené čisté vody. O výsledné závažnosti úrazu rozhoduje každá sekunda. {class="description" kw="popáleniny, ochlazení, spáleninový šok, puchýř, odumření tkáně, stupeň spáleniny, bolest"}
+{kw="popáleniny, ochlazení, spáleninový šok, puchýř, odumření tkáně, stupeň spáleniny, bolest"}
+
+Okamžité ochlazení spáleniny zásadně snižuje závažnost úrazu a jeho následky! Nejlépe poslouží proud studené čisté vody. O výsledné závažnosti úrazu rozhoduje každá sekunda.
 
 **Popálenou plochu kůže je nutné ochladit co možná nejdříve v řádu sekund!** Ač je kůže vynikající izolátor, dokáže škody popálením oddálit maximálně v řádu sekund. Povrchová spálenina se projeví jen zčervenáním, hlubší způsobí puchýř, ještě hlubší povede k odumření tkáně.
 
-Závažná a hluboká spálenina bolí paradoxně méně než povrchová. Při tomto závažném tepelném poranění totiž dochází ke zničení nervových zakončení a proto **nemusí být vnímaná bolest úměrná závažnosti zranění**. Potíže a bolest se dostaví s odstupem dnů až v souvislosti s [rozvojem zánětu][1]. {class="example"}
+{class="example"}
+
+Závažná a hluboká spálenina bolí paradoxně méně než povrchová. Při tomto závažném tepelném poranění totiž dochází ke zničení nervových zakončení a proto **nemusí být vnímaná bolest úměrná závažnosti zranění**. Potíže a bolest se dostaví s odstupem dnů až v souvislosti s [rozvojem zánětu][1].
 
 {id="rychle\_a\_intenzivni\_chlazeni\_spaleniny"}
 
 ## Rychlé a intenzivní chlazení spáleniny
 
-Pro dobré zhojení spáleniny **je rozhodující včasnost a intenzita chlazení bezprostředně po úrazu**. Zachování celistvosti popálené kůže sníží riziko následné infekce. {class="description"}
+Pro dobré zhojení spáleniny **je rozhodující včasnost a intenzita chlazení bezprostředně po úrazu**. Zachování celistvosti popálené kůže sníží riziko následné infekce.
 
 Poraněnou část těla je třeba chladit tak dlouho, dokud je teplejší než stejná část druhé strany těla (např. dlaň ve srovnání s dlaní druhé ruky). K ochlazení je **ideální proud studené čisté vody**. Záleží na každé sekundě, a proto není-li voda k dispozici, lze použít studenou potravinu nebo předmět z lednice (minerálka, mléko, vejce, zmražená zelenina nebo ovoce v plastovém sáčku a podobně).
 
@@ -27,9 +31,11 @@ Důležité je snažit se [zachovat celistvost kůže (resp. puchýřů)][2] kv�
 
 ## Závažnost popálenin dětí
 
-Spálenina může mít u malých dětí ty nejtragičtější následky. Jedná se o popáleninový šok, který vzniká zvláště při spáleninách dlaní, obličeje nebo genitálií (šokových zón). {class="description"}
+Spálenina může mít u malých dětí ty nejtragičtější následky. Jedná se o popáleninový šok, který vzniká zvláště při spáleninách dlaní, obličeje nebo genitálií (šokových zón).
 
-Dvouleté dítě spadlo holou dlaní do žhnoucího ohniště. Otec bez zaváhání dítě z ohniště vytáhl a v okamžiku si strčil jeho popálenou ručičku do pusy. Následně do půllitru se studeným pivem a malou chvilku na to už ruku chladila čistá tekoucí voda. Se zaledovanou ručičkou teprve vyhledal odborné ošetření. Díky dokonale poskytnuté první pomoci tato **závažná událost nezanechala naprosto žádné následky**. {class="example"}
+{class="example"}
+
+Dvouleté dítě spadlo holou dlaní do žhnoucího ohniště. Otec bez zaváhání dítě z ohniště vytáhl a v okamžiku si strčil jeho popálenou ručičku do pusy. Následně do půllitru se studeným pivem a malou chvilku na to už ruku chladila čistá tekoucí voda. Se zaledovanou ručičkou teprve vyhledal odborné ošetření. Díky dokonale poskytnuté první pomoci tato **závažná událost nezanechala naprosto žádné následky**.
 
 Nutno dodat, že za [poranění malého dítěte][4] zodpovídá ten, kdo ho má v tu chvíli na starost.
 
@@ -37,7 +43,7 @@ Nutno dodat, že za [poranění malého dítěte][4] zodpovídá ten, kdo ho má
 
 ## Následná péče o spáleninu
 
-Podle závažnosti spáleniny a stavu pacienta je třeba [vyhledat lékařskou péči][5]. V případě laického ošetření svépomocí je spálenou plochu nutné důkladně promašťovat. {class="description"}
+Podle závažnosti spáleniny a stavu pacienta je třeba [vyhledat lékařskou péči][5]. V případě laického ošetření svépomocí je spálenou plochu nutné důkladně promašťovat.
 
 Závažnost poranění určuje stupeň spáleniny (zčervenání, puchýř nebo odumření tkáně), velikost popálené plochy a psychický stav pacienta. Závažná spálenina (obzvlášť u dětí) je vždy důvodem k [volání záchranné služby][6].
 
@@ -47,7 +53,9 @@ Jestliže se pacient rozhodne, že není třeba vyhledat lékaře, je nutné bol
 
 ## n/a
 
-n/a {class="description" var="inputvar-otazky_desc"}
+{var="inputvar-otazky_desc"}
+
+n/a
 
 {class="otazky"}
 
@@ -60,9 +68,13 @@ n/a {class="description" var="inputvar-otazky_desc"}
 
 ## n/a
 
-n/a {class="description" var="inputvar-odkazy_desc"}
+{var="inputvar-odkazy_desc"}
 
-Seznam odkazů není k dispozici {var="linklist"}
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
  [1]: lecba_zanetu
  [2]: puchyr_mozol_kuri_oko
