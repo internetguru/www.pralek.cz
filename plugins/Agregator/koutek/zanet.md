@@ -1,5 +1,5 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist nobalance" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zanet" short="Zánět" ctime="2014-04-07" mtime="2014-04-07"}
 
