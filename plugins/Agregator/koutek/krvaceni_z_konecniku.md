@@ -88,4 +88,4 @@ Seznam odkazů není k dispozici
  [5]: rakovina_tlusteho_streva_a_konecniku
  [6]: komplikace_vredu
  [7]: rychla_lekarska_pomoc
-.
+

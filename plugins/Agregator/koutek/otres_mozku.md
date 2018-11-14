@@ -87,4 +87,4 @@ Seznam odkazů není k dispozici
  [3]: resuscitace-ozivovani
  [4]: funkcni_poruchy_traveni
  [5]: subduralni_hematom
-.
+

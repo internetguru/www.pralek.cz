@@ -94,4 +94,4 @@ Seznam odkazů není k dispozici
  [5]: iktus
  [6]: cholesterol
  [7]: resuscitace-ozivovani
-.
+

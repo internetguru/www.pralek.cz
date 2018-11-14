@@ -105,4 +105,4 @@ Seznam odkazů není k dispozici
  [12]: otres_mozku
  [13]: iktus
  [14]: subduralni_hematom
-.
+

@@ -117,4 +117,4 @@ Seznam odkazů není k dispozici
  [5]: zanet_slinivky
  [6]: mikroorganizmy
  [7]: vodni_rezim
-.
+

@@ -84,4 +84,4 @@ Seznam odkazů není k dispozici
  [5]: bodne_a_strelne_poraneni
  [6]: nalehavost_lekarskeho_vysetreni
  [7]: zanet
-.
+

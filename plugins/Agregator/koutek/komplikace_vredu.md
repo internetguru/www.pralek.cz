@@ -106,4 +106,4 @@ Seznam odkazů není k dispozici
  [6]: slepak
  [7]: zanet_slinivky
  [8]: stravovaci_navyky
-.
+

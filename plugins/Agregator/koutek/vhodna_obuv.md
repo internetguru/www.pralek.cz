@@ -80,4 +80,4 @@ Seznam odkazů není k dispozici
  [1]: podvrtnuti_kotniku
  [2]: nalehavost_lekarskeho_vysetreni
  [3]: patni_ostruha
-.
+

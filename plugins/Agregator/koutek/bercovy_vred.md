@@ -99,4 +99,4 @@ Seznam odkazů není k dispozici
  [7]: lymfaticke_uzliny
  [8]: krvaceni_dasni
  [9]: lecba_zanetu
-.
+

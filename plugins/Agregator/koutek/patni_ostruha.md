@@ -100,4 +100,4 @@ Seznam odkazů není k dispozici
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: lekove_formy
  [7]: zanet
-.
+

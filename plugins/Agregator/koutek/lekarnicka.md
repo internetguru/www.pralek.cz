@@ -158,4 +158,4 @@ Seznam odkazů není k dispozici
  [21]: lecba_zanetu
  [22]: nalehavost_lekarskeho_vysetreni
  [23]: telisko_v_oku
-.
+

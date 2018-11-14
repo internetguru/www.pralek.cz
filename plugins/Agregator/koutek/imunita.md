@@ -74,4 +74,4 @@ Seznam odkazů není k dispozici
  [1]: antibiotika
  [2]: mikroorganizmy
  [3]: teplota
-.
+

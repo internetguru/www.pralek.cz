@@ -110,4 +110,4 @@ Seznam odkazů není k dispozici
  [5]: bolest_v_krku_angina
  [6]: nalehavost_lekarskeho_vysetreni
  [7]: zlomeniny_kosti
-.
+

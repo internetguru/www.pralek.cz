@@ -73,4 +73,4 @@ Seznam odkazů není k dispozici
  [2]: plisne_kuze
  [3]: krevni_tlak
  [4]: urazy_deti
-.
+

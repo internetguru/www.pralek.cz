@@ -84,4 +84,4 @@ Seznam odkazů není k dispozici
  [6]: resuscitace-ozivovani
  [7]: subduralni_hematom
  [8]: nalehavost_lekarskeho_vysetreni
-.
+

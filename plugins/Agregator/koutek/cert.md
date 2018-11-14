@@ -106,4 +106,4 @@ Seznam odkazů není k dispozici
  [5]: zanet
  [6]: zanetlive_lozisko_nad_hyzdovou_ryhou
  [7]: nezhoubne_nadory
-.
+

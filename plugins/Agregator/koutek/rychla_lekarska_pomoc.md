@@ -118,4 +118,4 @@ Seznam odkazů není k dispozici
  [7]: iktus
  [8]: bodne_a_strelne_poraneni
  [9]: zlomeniny_kosti
-.
+

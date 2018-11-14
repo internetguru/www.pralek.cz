@@ -98,4 +98,4 @@ Seznam odkazů není k dispozici
  [1]: krevni_tlak
  [2]: krvaceni_z_konecniku
  [3]: zanet
-.
+

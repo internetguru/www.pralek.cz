@@ -121,4 +121,4 @@ Seznam odkazů není k dispozici
  [7]: bodne_a_strelne_poraneni
  [8]: skoky_do_vody
  [9]: starecke_zlomeniny
-.
+

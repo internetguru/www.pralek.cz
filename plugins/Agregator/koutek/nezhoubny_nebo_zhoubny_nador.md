@@ -89,4 +89,4 @@ Seznam odkazů není k dispozici
  [1]: rakovina_prsu
  [2]: karpalni_syndrom
  [3]: obezita_a_energie
-.
+

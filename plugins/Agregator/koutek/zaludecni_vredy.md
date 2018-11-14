@@ -92,4 +92,4 @@ Seznam odkazů není k dispozici
  [8]: antibiotika
  [9]: koureni_cigaret
  [10]: komplikace_vredu
-.
+

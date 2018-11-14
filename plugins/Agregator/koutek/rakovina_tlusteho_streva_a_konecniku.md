@@ -113,4 +113,4 @@ Seznam odkazů není k dispozici
  [8]: nezhoubne_nadory
  [9]: zanet
  [10]: strevni_nepruchodnost
-.
+

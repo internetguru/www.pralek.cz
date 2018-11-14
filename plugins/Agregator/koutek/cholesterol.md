@@ -77,4 +77,4 @@ Seznam odkazů není k dispozici
 
  [1]: srdecni_infarkt
  [2]: stravovaci_navyky
-.
+

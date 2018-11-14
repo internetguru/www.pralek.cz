@@ -77,4 +77,4 @@ n/a
 Seznam odkazů není k dispozici
 
  [1]: rakovina_tlusteho_streva_a_konecniku
-.
+

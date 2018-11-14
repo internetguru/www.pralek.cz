@@ -108,4 +108,4 @@ Seznam odkazů není k dispozici
  [6]: srdecni_infarkt
  [7]: iktus
  [8]: zlucove_kameny
-.
+
