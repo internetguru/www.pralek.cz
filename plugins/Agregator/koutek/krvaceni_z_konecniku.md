@@ -1,5 +1,5 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/krvaceni\_z\_konecniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_z_konecniku" short="Krvácení z konečníku" ctime="2007-11-23" mtime="2017-11-08"}
 

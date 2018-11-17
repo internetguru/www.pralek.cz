@@ -1,5 +1,5 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/patni_ostruha/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="patni\_ostruha" short="Patní ostruha" ctime="2011-04-19" mtime="2011-04-19"}
 

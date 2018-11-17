@@ -1,5 +1,5 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/odreniny\_neboli\_oderky/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odreniny\_neboli_oderky" short="Odřeniny neboli oděrky" ctime="2012-11-03" mtime="2012-11-03"}
 

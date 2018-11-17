@@ -5,7 +5,7 @@
 
 # Resuscitace neboli oživování
 
-{kw="resuscitace, oživování, srdeční masáž, umělé dýchání, akce srdeční, dýchání, zástava srdce, zástava dechu, dýchací cesty"}
+{kw="orgány, ošetření, poranění, poruchy vědomí"}
 
 V případě vyhasnutí základních životních funkcí zachrání život neodkladné zahájení srdeční masáže ještě před příjezdem lékaře.
 

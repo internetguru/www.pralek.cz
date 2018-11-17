@@ -5,7 +5,7 @@
 
 # Slepák: zánět červovitého přívěsku slepého střeva
 
-{kw="slepák, zánět červovitého přívěsku slepého střeva, zánět, slepé střevo, appendix, appendicitida, bolest břicha, nevolnost, zvracení, nechutenství, průjem, teplota, peritonitis"}
+{kw="bolest, břicho, orgány, teplota, zánět, zdravý životní styl"}
 
 Mnohotvárnost příznaků zánětu červovitého přívěsku slepého střeva (hovorově slepák) bývá příčinou komplikací nebo zanedbání jeho léčení. V případě nejasných bolestí břicha je třeba vyhledat odborného lékaře (chirurga).
 

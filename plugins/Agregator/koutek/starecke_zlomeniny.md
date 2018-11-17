@@ -5,7 +5,7 @@
 
 # Nejčastější stařecké zlomeniny
 
-{kw="zlomenina, stařecké zlomeniny, zlomenina obratle, zlomenina krčku stehenní kosti, zlomenina zápěstí, zlomeniny pažní kosti, zlomeniny lokte, šátkový obvaz"}
+{kw="bolest, nemoc, pohyb, poranění, stařecké, úrazy, zlomeniny"}
 
 Kosti se ve stáří stávají křehké a málo pevné. Mohou se tedy lámat i při velice malém násilí. To je způsobeno ztrátou chrupavčité složky v kostech, později i ztrátou pevné kostěné složky (takzvané řídnutí kostí).
 

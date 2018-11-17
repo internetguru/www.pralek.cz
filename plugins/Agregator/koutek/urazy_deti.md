@@ -5,7 +5,7 @@
 
 # Časté úrazy malých dětí
 
-{kw="pády, pronatio dolorosa, poranění hlavy, poranění ústní dutiny, vdechnutí sousta, omotaný vlas kolem prstu, spáleniny, prevence spálenin"}
+{kw="bolest, břicho, dětské, krvácení, orgány, pohyb, poranění, prevence, první pomoc, úrazy, zlomeniny"}
 
 Mechanizmy úrazů malých dětí se stále stejně opakují. Jestliže budou opatrovníkům známé, je snadné takovým úrazům předcházet.
 

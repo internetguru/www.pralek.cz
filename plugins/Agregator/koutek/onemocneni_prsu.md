@@ -1,5 +1,5 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/onemocneni_prsu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_prsu" short="Onemocnění prsu" ctime="2010-06-29" mtime="2010-06-29"}
 

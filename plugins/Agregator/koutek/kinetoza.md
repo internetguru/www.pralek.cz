@@ -1,5 +1,5 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/kinetoza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Kinetóza" id="kinetoza" ctime="2015-07-13" mtime="2015-07-13"}
 

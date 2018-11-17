@@ -5,7 +5,7 @@
 
 # Vhodná a nevhodná obuv
 
-{kw="obuv, kvalitní obuv, vhodná obuv, nevhodná obuv, levná obuv, plochá noha, kladívkové prsty, deformovaná noha, obuv pro děti"}
+{kw="bolest, dětské, nemoc, pohyb, prevence, strava-zažívání, zdravý životní styl"}
 
 Vhodná obuv je taková, která je adekvátní danému sportu nebo jiné aktivitě. Sportování, chůze nebo běhání musí být příjemné, bota nesmí být volná ani nikde tlačit. Materiál, ze kterého je obuv vyrobena, nesmí alergizovat.
 

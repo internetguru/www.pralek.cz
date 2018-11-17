@@ -5,7 +5,7 @@
 
 # Rychlá lékařská pomoc
 
-{kw="rychlá lékařská pomoc, záchranka, integrovaný záchranný systém, dojezdová doba, vrtulník, linka 155, rychlá zdravotnická pomoc, letecké záchranná služba"}
+{kw="břicho, cévy, dětské, orgány, poranění, poruchy vědomí, první pomoc, úrazy"}
 
 Úkolem rychlé lékařské pomoci (záchranky) je záchrana lidí v ohrožení života. Záchranka nenahrazuje lékařskou službu první pomoci (pohotovost) a není na takovou práci ani prostorově ani technicky vybavena.
 

@@ -5,7 +5,7 @@
 
 # Nebezpečí skoku do vody
 
-{kw="úraz, rána, zlomenina, zlomený vaz, skalpace, krvavé poranění, poranění páteře"}
+{kw="bolest, krvácení, orgány, pohyb, poranění, úrazy, zlomeniny"}
 
 Skoky do známé i neznámé vody mohou být velmi nebezpečné. V drtivé většině případů mívají skokani změněné uvažování. Typicky se před někým předvádějí a nebývají tedy u vody sami. Proto je na jejich kamarádech, aby jim v takovém konání zabránili.
 

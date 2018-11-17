@@ -5,7 +5,7 @@
 
 # Zánětlivé ložisko nad hýžďovou rýhou
 
-{kw="sakrální dermoid, sinus pilonidalis sacralis, dermoepidermální cysta, džípová nemoc, boulička, operace, cysta"}
+{kw="bolest, kůže-podkoží, nemoc, neúrazové, ošetření, prevence, teplota, zánět"}
 
 Zánětlivé změny ložiska nad hýžďovou rýhou jsou extrémně bolestivé. Onemocnění však není nijak nebezpečné. K odstranění bolesti může dojít samovolně (prasknutím) nebo drobným chirurgickým zákrokem. Definitivním řešením onemocnění je však jedině operace.
 

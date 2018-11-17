@@ -1,5 +1,5 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/nezhoubny\_nebo\_zhoubny_nador/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubny\_nebo\_zhoubny\_nador" short="Nezhoubný nebo zhoubný nádor" ctime="2010-05-23" mtime="2010-05-23"}
 

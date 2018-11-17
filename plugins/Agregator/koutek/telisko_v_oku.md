@@ -5,7 +5,7 @@
 
 # Cizí tělísko v oku
 
-{kw="oční bělmo, oční bulbus, oční panenka, oční zornička, oční sítnice, oční pozadí, tělísko v oku, převrácení horního očního víčka, spojivkový vak, poranění oka, poleptání oka"}
+{kw="bolest, orgány, ošetření, poranění, úrazy"}
 
 Cizí tělísko lze odstranit z oka svépomocí nebo vzájemnou pomocí. K odstranění smítka je vhodná navlhčená vatová ušní štětička nebo čistý růžek látkového kapesníku. V případě podezření na poranění oka nebo poranění rohovky je však nezbytné ošetření očním lékařem.
 

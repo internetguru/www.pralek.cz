@@ -5,7 +5,7 @@
 
 # Zarůstající nehty na palcích dolních končetin
 
-{kw="nehty, zarůstající nehty, úraz nehtu, palce nohou, nehtový val, bolest, zarudnutí palce, zvětšení nehtového valu, zánět, koupele, betadine roztok, heřmánek, operace, plastika nehtu"}
+{kw="bolest, mikroorganizmy, pohyb, prevence, teplota, zánět"}
 
 Zarůstání nehtů je časté bolestivé onemocnění vzniklé špatným zastřižením nehtu. Řešením je odstranění zánětu a jeho prevence. K úplnému zhojení dojde až tehdy, když zastřižený nehet doroste na správné místo.
 

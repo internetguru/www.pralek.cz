@@ -5,7 +5,7 @@
 
 # Normální tělesná teplota, podchlazení, horečka
 
-{kw="tělesná teplota, podchlazení, nemoc z prochlazení, třes, přehřátí, tekutiny, pocení, dostatek tekutin, ochlazení, horečnaté onemocnění, meningokoková infekce, horečka, teplota"}
+{kw="bolest, dětské, neúrazové, prevence, stařecké, teplota, ušní-nosní-krční, zánět"}
 
 Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá nebo klesá vlivem zevního prostředí a stoupá při některých onemocněních.
 

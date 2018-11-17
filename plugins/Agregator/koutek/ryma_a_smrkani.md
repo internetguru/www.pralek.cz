@@ -5,7 +5,7 @@
 
 # Rýma a smrkání, komplikace rýmy
 
-{kw="rýma, smrkání, horní cesty dýchací, dutina nosní, hrtan, dutiny, barva hlasu, zánět, sliznice, kýchání, kapénková infekce, prochlazení, sekret, senná rýma, alergie"}
+{kw="dětské, mikroorganizmy, nemoc, ošetření, poranění, ušní-nosní-krční, zánět"}
 
 Nekomplikovaná rýma bývá banální onemocnění. Podmínkou však je smrkání (či odsávání zahleněného nosu kojencům zvláštním nástrojem).
 

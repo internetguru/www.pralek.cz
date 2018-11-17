@@ -5,7 +5,7 @@
 
 # Prstýnek na oteklém prstu
 
-{kw="poraněná končetina, prstýnek, oteklý prst, odstranění prstýnku, sejmutí prstýnku, úraz, škrtící prstýnek, přeštípnutí"}
+{kw="bolest, cévy, nemoc, pohyb, úrazy"}
 
 Včasné odstranění prstýnku z poraněné končetiny zabrání vzniku zdravotních komplikací. Ty mohou ve spojení s neléčeným škrtícím prstenem vést až ke ztrátě prstu. Přeštípnutí nebo přeříznutí prstýnku na nemocném prstu může být obtížné.
 

@@ -5,7 +5,7 @@
 
 # Šetrná léčba vykloubeného ramene
 
-{kw="rameno, vymknutí, vykloubení, luxace, přední, dolní, zadní, horní, nitrohrudní, opakovaná, recidivující, habituální"}
+{kw="bolest, nemoc, pohyb, úrazy"}
 
 Vykloubení ramene (luxace ramene) je velmi bolestivý a právem obávaný úraz. Napravení se provádí vždy citlivě, bez násilí, bez trhání nebo škubání. Často je nezbytné celkové znecitlivění.
 

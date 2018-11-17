@@ -5,7 +5,7 @@
 
 # Prudký zánět slinivky břišní: akutní pankreatitida
 
-{kw="zánět, slinivka břišní, pankreatitida, pancreatitis acuta, pankreas, žláza, trávicí soustava, glukagon, inzulín, trávicí šťáva, trávicí enzymy, obstrukce vývodu žlučových cest, bolesti břicha"}
+{kw="bolest, břicho, orgány, zánět"}
 
 Prudký zánět slinivky břišní je závažné život ohrožující onemocnění. Vzniká nejčastěji v návaznosti na přejedení nevhodnou kombinací jídel (a tvrdého alkoholu).
 

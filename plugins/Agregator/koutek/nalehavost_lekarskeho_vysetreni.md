@@ -1,5 +1,5 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/nalehavost\_lekarskeho\_vysetreni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nalehavost\_lekarskeho_vysetreni" short="Vyhledání lékařské péče" ctime="2010-12-03" mtime="2010-12-03"}
 

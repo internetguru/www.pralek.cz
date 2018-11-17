@@ -5,7 +5,7 @@
 
 # Mateřské znaménko, bradavice nebo rakovina
 
-{kw="mateřské znaménko, piha, névus, drážděné znaménko, poraněné znaménko, maligní melanom, rakovina kůže, verruka, bradavice, výrůstek na kůži, fibrom, bazaliom, zarudlý svědící boláček, pupínek, kožní nádor"}
+{kw="bolest, krvácení, kůže-podkoží, nádory, nezhoubné, prevence, zhoubné"}
 
 Různé kožní výrůstky jsou různě nebezpečné. Ploché mateřské znaménko může za určitých podmínek způsobit závažnou rakovinu. Bazaliom je takový typ rakoviny, který se může v kůži rozšiřovat, ale člověka nezahubí.
 

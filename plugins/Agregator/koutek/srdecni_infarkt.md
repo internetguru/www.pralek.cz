@@ -5,7 +5,7 @@
 
 # Srdeční infarkt: rozpoznání infarktu
 
-{kw="infarkt, civilizační choroby, nezdravý životní styl, krevní tlak, srdeční akce, zužování cév, uzávěr cévy, bolest, angína pectoris, přechozený infarkt, rytmus srdce, zástava srdce, EKG záznam"}
+{kw="bolest, cévy, nemoc, orgány, poruchy vědomí, prevence, srdce"}
 
 Bezodkladné zahájení masáže srdce při infarktu zachrání život a včasné další léčení může vrátit pacienta do plného zdraví.
 

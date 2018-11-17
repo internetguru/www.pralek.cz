@@ -5,7 +5,7 @@
 
 # Zlomeniny kostí
 
-{kw="kost, zlomenina, nalomení, prasklina, roztříštění, rozdrcení, vpáčení, odlomení, naštípnutí, naprasknutí, úraz hlavy, zlomenina obratle, zlomenina páteře, rozpoznání zlomeniny, projevy zlomeniny"}
+{kw="bolest, nemoc, pohyb, poranění, poruchy vědomí, úrazy, zlomeniny"}
 
 Rozpoznání zlomeniny kosti a správné poskytnutí první pomoci zabrání vzniku šoku a komplikací.
 

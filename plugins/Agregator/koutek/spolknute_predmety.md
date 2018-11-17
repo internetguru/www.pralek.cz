@@ -5,7 +5,7 @@
 
 # Spolknuté nebezpečné a ostré předměty
 
-{kw="polykání, poranění, krk, jícen, spolknuté velké sousto, slinění, endoskop, spolknutá náušnice, spolknutá baterie, spolknutá mince, spolknutí kyseliny, spolknutí zásady"}
+{kw="bolest, břicho, dětské, orgány, strava-zažívání, úrazy, žaludek"}
 
 Spolknutý ostrý předmět většinou nezpůsobí žádné potíže a bez problémů projde zažívacím traktem. Potíže může způsobit spíše větší předmět, který nemusí projít zúženými místy zažívacího traktu. Nejzávažnější poranění způsobí spolknutá kyselina nebo zásada.
 

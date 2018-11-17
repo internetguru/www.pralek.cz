@@ -5,7 +5,7 @@
 
 # Poúrazové krvácení do hlavy: chronický subdurální hematom
 
-{kw="krvácení, hlava, krvácení do hlavy, subdurální hematom, mozek, dura mater, nitrolebeční přetlak, bolest, točení hlavy, léčba, vyšetření CT, úraz hlavy"}
+{kw="cévy, krvácení, orgány, poruchy vědomí, úrazy"}
 
 Po úrazu hlavy může po určité bezpříznakové době vzniknout chronický subdurální hematom. Jeho záludnost spočívá v plíživém nástupu potíží, které si pacient často sám vůbec neuvědomuje.
 

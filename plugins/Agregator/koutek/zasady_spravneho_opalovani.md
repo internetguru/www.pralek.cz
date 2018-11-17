@@ -5,7 +5,7 @@
 
 # Zásady správného opalování
 
-{kw="opalování, kožní barvivo, pigment, melanin, melanocyt, intenzita slunečního záření, nadměrné opálení, spálení sluncem, zánět, zarudnutí kůže, melanom, stárnutí kůže, bazaliom, ochrana proti UV záření"}
+{kw="kůže-podkoží, nádory, nemoc, prevence, strava-zažívání, zánět, zdravý životní styl, zhoubné"}
 
 Stále častěji se vyskytují výstražné zprávy o nebezpečnosti opalování. Lidé jsou však vystaveni slunečnímu záření od nepaměti. Slunění je pro většinu lidí prospěšné. Některým lidem (a za určitých podmínek) však může být zdraví škodlivé, a někdy dokonce nebezpečné.
 

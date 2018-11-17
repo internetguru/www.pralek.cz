@@ -5,7 +5,7 @@
 
 # Žaludeční a dvanáctníkový vřed
 
-{kw="žaludek, žaludeční vřed, dvanáctníkový vřed, vředová choroba, mikroorganizmus, helikobakter pylori, bolest žaludku, tlak žaludku, gastroskopie, stažený žaludek"}
+{kw="bolest, břicho, orgány, prevence, strava-zažívání, žaludek"}
 
 Žaludeční vředy jsou v současnosti dobře léčitelným onemocněním. Vřed lze vyléčit běžnými léky a nemocný žaludek není třeba operovat. V případě zanedbání vředové choroby však mohou vzniknout život ohrožující komplikace.
 

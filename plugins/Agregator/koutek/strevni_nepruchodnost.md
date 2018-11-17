@@ -5,7 +5,7 @@
 
 # Střevní neprůchodnost bývá komplikací jiné choroby
 
-{kw="střevo, střevní neprůchodnost, větry, zástava větrů, zástava stolice, nafouklé břicho, kolostomie"}
+{kw="bolest, břicho, cévy, látková výměna, mikroorganizmy, nádory, orgány, strava-zažívání, žaludek, zhoubné"}
 
 Střevní neprůchodnost (laicky zauzlení střev) je stav, při kterém dochází k zástavě posunu střevního obsahu v trávicím traktu. Nemocný velmi nepříjemně vnímá nadýmání, zástavu odchodu větrů a stolice a později i zvrací.
 

@@ -5,7 +5,7 @@
 
 # Dodržování vodního režimu
 
-{kw="pitný režim, prvotní moč, primární moč, pitná voda, měkká voda, voda pramenitá, tvrdá voda, minerální voda, léčivá studánka, léčivá voda, zdravá voda, otrava vodou, dehydratace"}
+{kw="břicho, močová soustava, nemoc, orgány, prevence, zdravý životní styl"}
 
 Životodárná voda tvoří převážnou část objemu i hmotnosti lidského těla. Dostatek pitné vody je podmínkou pro správný chod celého organizmu (pitný režim). Stejně důležitý je přiměřený poměr mezi množstvím pitné vody, solí a minerálů.
 

@@ -5,7 +5,7 @@
 
 # Stravovací návyky a trávicí systém
 
-{kw="trávicí systém, stravovací návyky, trávicí enzymy, trávení, ústrojné látky, peristaltika, pocit plnosti, léky, dráždivá jídla, žluč, stravování, dvanáctník, tračník"}
+{kw="břicho, orgány, strava-zažívání, žaludek, zdravý životní styl"}
 
 Zdravý člověk má obrovské rezervy, může jíst a pít kdykoli a cokoli a trávení nevnímá. V případě vyčerpání rezerv a pocitu potíží v souvislosti s jídlem je třeba pátrat ve stravovacích návycích dříve, než začít užívat léky podporující trávení.
 

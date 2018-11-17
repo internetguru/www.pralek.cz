@@ -5,7 +5,7 @@
 
 # Rakovina tlustého střeva a konečníku
 
-{kw="tlusté střevo, konečník, rakovina, kolorektální karcinom, krev ve stolici, střevní neprůchodnost, zástava větrů a stolice, zvracení, uzliny, druhotná ložiska, metastázy, test stolice na OK, rektoskopie, kolonoskopie, bioterapie, vývod střeva"}
+{kw="bolest, břicho, cévy, krvácení, nádory, neúrazové, orgány, prevence, zhoubné"}
 
 Po rakovině tlustého střeva a konečníku je třeba [aktivně pátrat][1]. Její záludnost spočívá v naprosto bezpříznakovém počátku a jen velmi neurčitých projevech i při již plně rozvinutém onemocnění.
 
