@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/mocove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocove\_kameny" short="Močové kameny" ctime="2008-08-13" mtime="2008-08-13"}
 
 # Močové kameny a ledvinová kolika
 
-{kw="ledvinové kameny, močové kameny, ledvinová kolika, ledvina, moč, močovod, močový měchýř, močení, močová trubice, zánět, krvácení do moče, urolog, bolest"}
+{kw="bolest, břicho, krvácení, nemoc, neúrazové, orgány, prevence, zánět, zvracení"}
 
 V močovém ústrojí mohou vzniknout kameny. Tlakem moči a prodíráním se kamenu močovodem může vzniknout ledvinová kolika.
 

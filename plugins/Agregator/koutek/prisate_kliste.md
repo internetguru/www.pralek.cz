@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/prisate_kliste/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prisate\_kliste" short="Přisáté klíště" ctime="2007-12-13" mtime="2007-12-13"}
 
 # Nákaza přisátým klíštětem
 
-{kw="klíště, pupínek, borelióza, zánět mozku, hmyz"}
+{kw="bolest, mozek-nervy, nemoc, poranění, teplota, zánět, zvíře"}
 
 Přisáté klíště je možné odstranit několika způsoby. Případná nákaza se projeví až následnými příznaky.
 

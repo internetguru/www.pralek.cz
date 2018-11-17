@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/pece\_o\_zvukovod/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pece\_o_zvukovod" short="Péče o zvukovod" ctime="2012-07-31" mtime="2012-07-31"}
 
 # Péče o zevní zvukovod
 
-{kw="zevní zvukovod, ušní maz, cerumen, špunt v uchu, hygiena uší, bolest ucha, svědění ucha, voda v uchu"}
+{kw="bolest, kůže-podkoží, nemoc, orgány, ošetření, poranění, prevence, ušní-nosní-krční, zánět"}
 
 Zanedbaná hygiena zevního zvukovodu a nadměrné množství ušního mazu mohou působit velmi nepříjemné potíže. Některé z nich (např. točení hlavy) zdánlivě s uchem nesouvisejí.
 

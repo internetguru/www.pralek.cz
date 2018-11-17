@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/krvaceni_dasni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_dasni" short="Krvácení dásní" ctime="2013-03-15" mtime="2013-03-15"}
 
 # Příčinou krvácení dásní je nedostatek vitamínu C
 
-{kw="vitamín C, paradentóza, krvácení dásní, příčiny paradentózy, nedostatek vitamínu C"}
+{kw="cévy, krvácení, mikroorganizmy, neúrazové, ošetření, poranění, prevence, strava-zažívání, zánět"}
 
 Nedostatek vitamínu C oslabuje dásně. Ty mohou při čištění zubů nebo kousání tvrdé potravy krvácet. Po zvýšení konzumace přírodního vitamínu C krvácení dásní ustane.
 

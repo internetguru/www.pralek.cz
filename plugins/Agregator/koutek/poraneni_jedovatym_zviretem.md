@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/poraneni\_jedovatym\_zviretem/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_jedovatym_zviretem" short="Poranění jedovatým zvířetem" ctime="2007-12-11" mtime="2017-11-11"}
 
 # Poranění jedovatým zvířetem
 
-{class="description" kw="bodnutí, uštknutí, hmyz"}
+{class="description" kw="bolest, orgány, pohyb, poranění, první pomoc, úrazy, zánět, zvíře"}
 
 Kdo netrpí alergií, nemusí se obávat ani opakovaného poranění u nás žijícím hmyzem nebo hadem. Závažné alergické reakce na jed bodavého hmyzu (bodnutí žihadla) však přibývají.
 

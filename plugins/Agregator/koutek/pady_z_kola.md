@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/pady\_z\_kola/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pady\_z_kola" short="Pády z kola" ctime="2012-11-20" mtime="2012-11-20"}
 
 # Úrazy související s pádem z kola
 
-{kw="úraz, zlomeniny, rány, pád z kola, plošná oděrka, pohmoždění hlavy, pohmoždění hrudníku, pohmoždění břicha, vyčištění rány"}
+{kw="bolest, břicho, krvácení, orgány, pohyb, poranění, úrazy, zlomeniny"}
 
 Typické úrazy po pádu z kola jsou různě hluboké plošné oděrky, tržné rány, pohmoždění hrudníku, břicha, kloubů a svalů a zlomeniny dlouhých kostí. Jednotlivé úrazy mají svá specifika, jsou-li způsobeny pádem z kola.
 

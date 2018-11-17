@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/prostata/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="prostata" short="Prostata" ctime="2011-02-20" mtime="2011-02-20"}
 
 # Prostata: potíže s močením
 
-{kw="prostata, močení, zvětšená prostata, rakovina, předstojná žláza, ejakulát, semenné váčky, varlata, zánět, moč, hypertrofie prostaty, cévkování, karcinom prostaty"}
+{kw="břicho, močová soustava, nádory, nemoc, nezhoubné, orgány, zhoubné"}
 
 Zvětšená prostata je nejčastější příčinou potíží s močením. Při léčení jakýchkoli potíží s prostatou provádí urolog taková vyšetření, která prokáží nebo vyloučí i rakovinu prostaty. Největší problém tedy hrozí, jestliže se pacient se svými problémy vůbec neléčí.
 

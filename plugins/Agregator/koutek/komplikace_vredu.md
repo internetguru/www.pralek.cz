@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/komplikace_vredu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="komplikace\_vredu" short="Komplikace žaludečních vředů" ctime="2011-07-31" mtime="2011-07-31"}
 
 # Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku
 
-{kw="žaludek, rakovina, zvracení, zvracení krve, hematemeza, jícnové varixy, cirhóza, černá stolice, meléna, rakovina žaludku, helikobakter pyroli"}
+{kw="bolest, břicho, cévy, krvácení, nádory, neúrazové, orgány, strava-zažívání, žaludek, zhoubné"}
 
 Žaludeční vředy jsou v současnosti snadno léčitelným onemocněním. Komplikace vředové choroby žaludku a dvanáctníku však mohou vést k ohrožení života. Vznikají nejčastěji následkem zanedbání příznaků a neléčením vředové choroby. Jedině rozeznání a okamžité odborné řešení vzniklých komplikací může pacientovi zachránit život.
 

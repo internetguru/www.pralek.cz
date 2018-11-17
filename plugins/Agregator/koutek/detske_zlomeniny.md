@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/detske_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="detske\_zlomeniny" short="Dětské zlomeniny" ctime="2009-06-09" mtime="2009-06-09"}
 
 # Nejčastější dětské zlomeniny a jejich zvláštnosti
 
-{kw="zlomeniny, dětské zlomeniny, zlomeniny zápěstí, zlomeniny předloktí, zlomenina vrbového proutku, zlomenina klíční kosti, zlomenina pažní kosti, zlomeniny lokte, zlomeniny prstů"}
+{kw="dětské, nemoc, pohyb, poranění, první pomoc, úrazy, zlomeniny"}
 
 Většina dětských zlomenin se hojí dobře, rychle a bez trvalých následků (snad jen s výjimkou zlomenin lokte). Dětské zlomeniny bývají někdy laicky těžko rozpoznatelné.
 

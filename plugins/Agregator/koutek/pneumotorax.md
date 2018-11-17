@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/pneumotorax/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="pneumotorax" short="Pneumotorax" ctime="2013-08-22" mtime="2013-08-22"}
 
 # Závažné poranění hrudníku a pneumotorax
 
-{kw="poranění hrudníku, plíce, hrudník, pneumotorax neúrazový, spontánní, zavřený, otevřený, tenzní, kompresivní, záklopkový, ventilový, přetlakový, jednostranný, oboustranný, iatrogenní"}
+{kw="bolest, krvácení, orgány, pohyb, poranění, úrazy, zlomeniny"}
 
 Pneumotorax je výskyt vzduchu v prostoru mezi plícemi a hrudníkem. Příslušná plíce se tak stává nefunkční. Její úlohu (dýchání) většinou plně nahradí druhá (zdravá) plíce.
 

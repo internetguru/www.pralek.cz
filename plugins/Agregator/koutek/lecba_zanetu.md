@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/lecba_zanetu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lecba\_zanetu" short="Léčba zánětu" ctime="2014-12-27" mtime="2014-12-27"}
 
 # Léčba zánětu podle druhu a stádia
 
-{kw="zánět, nehnisavý, hnisavý, hnis, ohraničený, absces, neohraničený, flegmóna, stádia zánětu, bolest, léky, hojení zánětu, fáze zánětu"}
+{kw="bolest, nemoc, neúrazové, teplota, zánět"}
 
 Jednotlivé fáze a druhy některých zánětů na sebe navazují nebo mezi sebou v průběhu vývoje vzájemně přecházejí v souvislosti s úspěšností hojení. U jiných zánětů převažuje jediná fáze po téměř celou dobu trvání nemoci. Jednotlivá stádia mají své specifické projevy, proto je i léčba v různých fázích zánětu rozdílná.
 

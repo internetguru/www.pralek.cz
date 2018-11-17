@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/lekarnicka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Lékárnička" id="lekarnicka" ctime="2015-08-13" mtime="2015-08-13"}
 
 # Obsah domácí lékárničky
 
-{kw="lékárnička, nástroje, zdravotní materiál, léky, autolékárnička, teploměr, pinzeta, kartáček, vyčištění rány, dezinfekce, obvaz, náplast, náplasťový steh, bolest, kašel, teplota"}
+{kw="mikroorganizmy, ošetření, poranění, první pomoc, teplota, zdravý životní styl, zvíře"}
 
 Domácí lékárnička má obsahovat čisté nástroje, zdravotní materiál a ověřené, majiteli známé léky. Každá domácnost by si měla obsah lékárničky upravit podle svých zkušeností a individuálních potřeb.
 

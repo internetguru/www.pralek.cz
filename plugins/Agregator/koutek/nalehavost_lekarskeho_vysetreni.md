@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/nalehavost\_lekarskeho\_vysetreni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nalehavost\_lekarskeho_vysetreni" short="Vyhledání lékařské péče" ctime="2010-12-03" mtime="2010-12-03"}
 
 # Vyhledání lékařské péče: kdy, kde a jak naléhavě
 
-{kw="první pomoc, vědomí, dýchání, tep, akce srdeční, resuscitace, zástava krvácení, poleptání oka, ledvinová kolika, vykloubení, bolesti břicha, kýla, spolknuté nebezpečné předměty, úraz, infarkt, kašel"}
+{kw="bolest, břicho, cévy, krvácení, neúrazové, orgány, pohyb, poranění, zánět, zlomeniny"}
 
 Úrazy a ostatní poruchy zdraví mají různý stupeň naléhavosti a způsob řešení od technické první pomoci přes hospitalizaci až po rehabilitaci.
 

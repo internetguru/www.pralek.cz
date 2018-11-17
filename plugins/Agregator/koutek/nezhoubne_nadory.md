@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/nezhoubne_nadory/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubne\_nadory" short="Nezhoubné nádory" ctime="2010-06-18" mtime="2010-06-18"}
 
 # Nezhoubné nádory a bouličky s nimi zaměňované
 
-{kw="nezhoubné nádory, lipom, fibrom, hemangiom, chondrom, osteom, myom, polyp, adenom, gangliom, aterom, cysta, absces, keloid"}
+{kw="bolest, břicho, cévy, kůže-podkoží, nádory, nemoc, neúrazové, nezhoubné"}
 
 Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Preventivní odstranění některých nádorů se stalo rutinou, u ostatních většinou postačí pravidelné kontroly.
 

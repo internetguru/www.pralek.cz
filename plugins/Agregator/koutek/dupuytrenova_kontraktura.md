@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/dupuytrenova_kontraktura/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="dupuytrenova\_kontraktura" short="Dupuytrenova kontraktura" ctime="2011-03-19" mtime="2011-03-19"}
 
 # Uzly a zatvrdliny ve dlani: Dupuytrenova kontraktura
 
-{kw="uzly, zatvrdlina ve dlani, Dupuytrenova kontraktura, hrbol ve dlani, boule ve dlani, prohlubeň ve dlani, pokrčený prst, prst nelze narovnat, deformace dlaně"}
+{kw="bolest, boulička, mikroorganizmy, nemoc, neúrazové, nezhoubné, pohyb, prevence, zánět"}
 
 Nebolestivé hrboly ve dlani mohou omezit nebo znemožnit hybnost prstů. Procvičováním prstů v počátečním stádiu nemoci lze zcela předejít nevratným změnám. Stejně důležité je cvičit po případné operaci, aby se nemoc nevrátila.
 

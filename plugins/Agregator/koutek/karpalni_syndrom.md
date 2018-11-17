@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/karpalni_syndrom/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="karpalni\_syndrom" short="Karpální syndrom" ctime="2011-01-17" mtime="2011-01-17"}
 
 # Noční brnění prstů ruky: karpální syndrom
 
-{kw="prsty, brnění prstů ruky, karpální syndrom, karpální tunel, nervus medianus, trnutí prstů, bolest, skalenový syndrom, vyšetření EMG, elektromyografie"}
+{kw="bolest, mozek-nervy, nádory, nemoc, pohyb, zánět"}
 
 Syndrom karpálního tunelu se projevuje brněním, trnutím až bolestí 2. až 4. prstu ruky. Potíže narůstají hlavně v noci. Rozhýbání prstů pomůže pouze krátkodobě. Trvalým řešením obtěžujících potíží je operační uvolnění utlačovaného nervu.
 

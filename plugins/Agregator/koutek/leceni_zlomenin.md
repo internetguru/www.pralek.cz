@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/leceni_zlomenin/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="leceni\_zlomenin" short="Léčení zlomenin" ctime="2015-04-21" mtime="2015-04-21"}
 
 # Metody léčení zlomenin
 
-{kw="zlomenina, léčení, napravení zlomeniny, hojení, fixace, sádra, dlaha, ortéza, plastová fixace, koupací sádra, operace, zatěžování, pakloub"}
+{kw="bolest, nemoc, pohyb, poranění, úrazy, zlomeniny"}
 
 Zlomeniny lze léčit různými metodami. Každá metoda má své výhody a nevýhody. Poučený pacient by se měl aktivně podílet na výběru nejvhodnější metody léčení své zlomeniny.
 

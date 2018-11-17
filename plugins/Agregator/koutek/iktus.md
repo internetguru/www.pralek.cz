@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/iktus/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="iktus" short="Cévní mozková příhoda" ctime="2008-07-05" mtime="2008-07-05"}
 
 # Cévní mozková příhoda neboli iktus či mrtvice
 
-{kw="cévní mozková příhoda, mozková mrtvice, iktus, mozek, prokrvácení mozku, slabost končetiny, porucha mluvení, pokleslý koutek úst, porucha vědomí, bezvědomí, porucha hybnosti, rehabilitace"}
+{kw="cévy, mozek-nervy, nemoc, neúrazové, orgány, poruchy vědomí, prevence, srdce"}
 
 Záludnost cévní mozkové příhody spočívá v nenápadnosti jejího nástupu a v jejím pozvolném a nebolestivém rozvoji.
 

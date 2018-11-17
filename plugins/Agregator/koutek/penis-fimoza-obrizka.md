@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/penis-fimoza-obrizka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="penis-fimoza-obrizka" short="Péče o penis" ctime="2009-07-09" mtime="2009-07-09"}
 
 # Péče o penis, hygiena chlapců, fimóza, obřízka
 
-{kw="penis, fimóza, obřízka, předkožka, kůže, sliznice, žalud, vak předkožky, smegma, slepeniny, konglutinace, srůsty, zánět vaku, balanitis, jizvení předkožky, parafimóza"}
+{kw="dětské, močová soustava, nemoc, orgány, ošetření, poranění, prevence, zánět"}
 
 Péče o penis již od útlého věku je podmínkou jeho správného dalšího vývoje. Tím se zamezí vzniku zánětu a hlavně následných komplikací a potíží v dospívání.
 

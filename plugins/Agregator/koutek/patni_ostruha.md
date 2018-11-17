@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/patni_ostruha/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="patni\_ostruha" short="Patní ostruha" ctime="2011-04-19" mtime="2011-04-19"}
 
 # Bolest paty: patní ostruha
 
-{kw="patní ostruha, bolest paty, patní kost, onemocnění šlach, úpon vazu, vápník, kostěný výrůstek, fyzikální terapie, ultrazvuk, obstřik šlachy, rázová vlna, rentgenové ozařování"}
+{kw="bolest, nemoc, neúrazové, ošetření, pohyb, prevence, teplota, úrazy, zánět"}
 
 Patní ostruha je zkostnatělý výrůstek patní kosti v místě úponu vazu. Léčení počátečních příznaků nemoci je snadné. U plně vyvinutého onemocnění jsou nutné složitější léčebné metody.
 

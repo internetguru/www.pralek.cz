@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/cert/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cert" short="Čert" ctime="2011-04-01" mtime="2011-04-01"}
 
 # Pohádkový čert: kterak na svět přišel
 
-{kw="kožní roh, cornu cutaneum, hyperkeratosa, čertovy rohy, ocas, sakrální dermoid, kopyto, koňská noha, pes equinovarus, blekotání, zanedbaný stav, névus, vlčí lidé, hemangiom"}
+{kw="cévy, kůže-podkoží, mýty, nádory, nemoc, nezhoubné, pohyb, zánět, zhoubné"}
 
 Postava čerta vznikla pozorováním lidí s různým zdravotním postižením. Typické čertovské příznaky se totiž u lidí vyskytují dosud jako vrozené či získané vady. U jednoho člověka se může vyskytnout i více příznaků současně.
 

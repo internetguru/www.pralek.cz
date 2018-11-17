@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/rakovina_prsu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_prsu" short="Rakovina prsu" ctime="2010-07-25" mtime="2010-07-25"}
 
 # Rakovina prsu
 
-{kw="rakovina, prs, boulička, samovyšetřování prsů, metastázy, ozařování, chemoterapie, lymfatické uzliny, boulička v prsu, vpáčení bradavky"}
+{kw="nádory, orgány, prevence, zhoubné"}
 
 Boulička v prsu nemusí být vždy rakovina. Včasné lékařské vyšetření je nezbytnou podmínkou vyvrácení nebo potvrzení obávané diagnózy a zároveň povede k vyřešení problému. Čas vždy pracuje pro případný nádor.
 

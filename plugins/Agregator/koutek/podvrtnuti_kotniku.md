@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/podvrtnuti_kotniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="podvrtnuti\_kotniku" short="Podvrtnutí kotníku" ctime="2009-12-23" mtime="2009-12-23"}
 
 # Podvrtnutí kotníku
 
-{kw="podvrtnutí, vyvrtnutí, zvrtnutí, distorze, kotník, výron, vymknutí, hlezno, léčení, rozcvičení, ortéza, sádrová chodička, sádrová fixace, plastová fixace"}
+{kw="bolest, nemoc, pohyb, úrazy"}
 
 Jedná se o častý úraz převážně mladých lidí a sportovců. Panují však nejasnosti v tom, zda a kdy vyhledat lékařské vyšetření a existují různé možnosti léčení.
 

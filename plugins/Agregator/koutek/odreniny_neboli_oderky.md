@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/odreniny\_neboli\_oderky/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odreniny\_neboli_oderky" short="Odřeniny neboli oděrky" ctime="2012-11-03" mtime="2012-11-03"}
 
 # Odřeniny – proč je nutné mechanicky vyčistit oděrku
 
-{kw="odřenina, znečištěná oděrka, ošetření rány, odřené koleno, odřená brada, první pomoc, kartáček, vyčištění rány"}
+{kw="bolest, krvácení, kůže-podkoží, nemoc, ošetření, pohyb, poranění, úrazy, zánět"}
 
 Plošné oděrky vznikají nejčastěji při různých sportovních aktivitách. Jejich důsledné mechanické vyčištění je důležitým krokem léčení. Nečistoty vrostlé do kůže by se jinak staly trvalou hyzdící vzpomínkou na úraz.
 

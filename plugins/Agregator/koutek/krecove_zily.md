@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/krecove_zily/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krecove\_zily" short="Křečové žíly" ctime="2009-03-11" mtime="2009-03-11"}
 
 # Křečové žíly dolních končetin neboli varixy
 
-{kw="varixy, rozšířená žíla, křečová žíla, chlopně, žilní městky, žilní systém, prevence"}
+{kw="cévy, krvácení, nemoc, neúrazové, prevence, úrazy, zánět, zdravý životní styl"}
 
 Vznik křečových žil dolních končetin lze preventivně ovlivnit. Již vzniklé varixy je možno odstranit. Po operaci je nutné opět preventivně dbát na to, aby se varixy znovu nevytvořily.
 

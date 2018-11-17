@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/chripka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="chripka" short="Chřipka" ctime="2008-07-20" mtime="2008-07-20"}
 
 # Chřipka: virové onemocnění
 
-{kw="viry, buňka, šíření chřipky, viry chřipky, léčba chřipky, mutace viru chřipky, léky"}
+{kw="bolest, imunita, mikroorganizmy, nemoc, neúrazové, prevence, teplota, zánět, zdravý životní styl"}
 
 Chřipka je závažné přenosné virové onemocnění. Konkrétní lék proti chřipce neexistuje; je možné se preventivně nechat očkovat proti konkrétnímu viru chřipky. Ten však velmi rychle mutuje, a už za několik měsíců nemusí mít očkování efekt.
 

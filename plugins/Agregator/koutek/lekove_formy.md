@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/lekove_formy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lekove\_formy" short="Podávání léků a lékové formy" ctime="2010-05-09" mtime="2010-05-09"}
 
 # Možnosti podávání léků a lékové formy
 
-{kw="lékové formy, léky, tablety, dražé, prášky, masti, kapky, spreje, léčivé náplasti, léčivé gely, tampony, čípky, injekční roztoky, očkování, testy alergenů, podávání léků, aplikace léků"}
+{kw="cévy"}
 
 Léky se mohou dostat do těla různými cestami. Stejné množství léku (účinná dávka léku) působí stejně, je-li podáno kteroukoli formou a kteroukoli cestou. Většinou je možné nasadit takovou formu, která pacientovi vyhovuje.
 

@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/darcovstvi_krve/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="darcovstvi\_krve" short="Dárcovství krve" ctime="2009-05-25" mtime="2009-05-25"}
 
 # Dárcovství krve, krevní plazmy a kostní dřeně
 
-{kw="krev, dárcovství krve, dárcovství krevní plazmy, dárcovství kostní dřeně, transfuzní stanice, transfuzní lékař, dárce krve, dárcovství krevních destiček, kostní dřeň, registr dárců"}
+{kw="dětské, nádory, orgány, poruchy vědomí, strava-zažívání, zdravý životní styl, zhoubné"}
 
 Darovat krev může člověk, který dovršil 18 let věku, neměl infekční žloutenku, jeho hmotnost je vyšší než 50 kg a cítí se být zdráv. Dárce je vyšetřen a jeho krev bude užita k návratu zdraví nebo k záchraně jiného života. Chybějící krev je v těle dárce obnovena za 72 hodin.
 

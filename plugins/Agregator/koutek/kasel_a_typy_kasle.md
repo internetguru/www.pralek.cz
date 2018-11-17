@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/kasel\_a\_typy_kasle/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="kasel\_a\_typy\_kasle" short="Kašel" ctime="2008-12-02" mtime="2008-12-02"}
 
 # Kdy kašel potlačovat a kdy podporovat
 
-{kw="kašel, léky, dolní cesty dýchací, průdušnice, průdušky, plicní sklípky, odkašlat, kuřácký kašel"}
+{kw="břicho, mikroorganizmy, nemoc, orgány, ošetření, poranění, teplota, ušní-nosní-krční, zánět"}
 
 Každý kašel je dobré nejprve pojmenovat. Výprava do lékárny pro lék proti kašli není vždy účelným řešením potíží. Častěji pomůže lék k uvolnění průdušek, který naopak účinné odkašlání podpoří.
 

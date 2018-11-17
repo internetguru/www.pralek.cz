@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/panaricium/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="panaricium" short="Panaricium" ctime="2012-05-18" mtime="2012-05-18"}
 
 # Nebezpečný zánět prstu ruky – panaricium
 
-{kw="panaricium, zánět, hnisavý puchýř, zánět nehtového valu, hnis pod nehtem, zánět prstu ruky, otrava krve, sepse, lymfatická céva, lymfatická uzlina"}
+{kw="bolest, cévy, nemoc, neúrazové, pohyb, poranění, prevence, teplota, úrazy, zánět"}
 
 Zánětlivé onemocnění prstu ruky může být velmi závažné a nebezpečné. Včasné ošetření zánětu chirurgem předejde rozšíření zánětu nejen po nemocné ruce ale i do celého těla.
 

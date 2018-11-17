@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/funkcni\_poruchy\_traveni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="funkcni\_poruchy_traveni" short="Funkční poruchy trávení" ctime="2009-09-10" mtime="2009-09-10"}
 
 # Funkční poruchy trávení: zvracení, průjem, škytání, větry
 
-{kw="trávení, zvracení, průjem, škytání, větry, peristaltika, nevolnost, zvedání žaludku, pocit na zvracení, nausea, zkažená potrava, střevní neprůchodnost, pocit zástavy plynů a stolice, úraz hlavy, tenesmy, škytání, škytavka, stolice, defekační reflex, zadržování stolice"}
+{kw="bolest, břicho, cévy, látková výměna, orgány, prevence, strava-zažívání, žaludek, zdravý životní styl"}
 
 Mnohým funkčním poruchám trávení lze předejít dodržováním správných stravovacích návyků.
 

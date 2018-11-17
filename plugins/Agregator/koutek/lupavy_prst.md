@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/lupavy_prst/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lupavy\_prst" short="Lupavý prst" ctime="2010-12-30" mtime="2010-12-30"}
 
 # Lupavý prst
 
-{kw="prsty, palec, lupavý palec, lupnutí prstu, digitus saltans, polex saltans, bolest, lupání, léčení, operace, fixace, šlacha"}
+{kw="bolest, nemoc, pohyb, úrazy, zánět"}
 
 Při tomto onemocnění je v jednom místě ztížený pohyb prstem. Při snaze o ohnutí prstu dojde po překonání určitého odporu k přeskočení prstu do nové polohy (lupnutí).
 

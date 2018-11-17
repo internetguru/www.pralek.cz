@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/kinetoza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Kinetóza" id="kinetoza" ctime="2015-07-13" mtime="2015-07-13"}
 
 # Nevolnost a zvracení v dopravních prostředcích
 
-{kw="nevolnost, zvracení, kinetóza, cestovní nemoc, mořská nemoc, nemoc z pohybu, rovnovážné ústrojí, léky, prevence kinetózy"}
+{kw="břicho, mozek-nervy, ošetření, poranění, prevence, strava-zažívání, žaludek, zánět"}
 
 Pocit nevolnosti může být vyvolán nejrůznějšími druhy pohybu. Tomu lze mnohdy snadno předejít. Někdy však mohou být tytéž stavy projevem onemocnění.
 

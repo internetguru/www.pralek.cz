@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/cholesterol/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cholesterol" short="Cholesterol" ctime="2013-09-11" mtime="2013-09-11"}
 
 # Jak snížit hladinu cholesterolu v krvi
 
-{kw="cholesterol, hladina cholesterolu, význam cholesterolu, funkce cholesterolu, hodný a zlý cholesterol, stres, vitamín C"}
+{kw="cévy, látková výměna, mozek-nervy, nemoc, orgány, prevence, strava-zažívání, zdravý životní styl"}
 
 Vysoká hladina cholesterolu v krvi a jeho usazování v cévách je následkem dlouhodobého stresu a nedostatku vitamínu C. Obojímu lze tedy přirozeně předejít omezením stresu a správnou životosprávou. Vynechání tučných jídel nemá na hladinu cholesterolu v krvi žádný vliv.
 

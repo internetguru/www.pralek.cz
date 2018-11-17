@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/natazeni\_natrzeni\_svalu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="natazeni\_natrzeni_svalu" short="Natažení nebo natržení svalu" ctime="2009-12-30" mtime="2009-12-30"}
 
 # Natažení nebo natržení svalu
 
-{kw="sval, natažení svalu, natržení svalu, natržení lýtka, léčení nataženého svalu, léčení natrženého svalu, defekt ve svalu"}
+{kw="bolest, nemoc, pohyb, úrazy"}
 
 Natažení svalu nelze od jeho natržení laicky rozeznat. Rozdíl v léčení je zásadní, a proto je vhodné vyhledat odborné vyšetření.
 

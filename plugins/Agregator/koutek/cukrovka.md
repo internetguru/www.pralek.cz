@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/cukrovka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cukrovka" short="Cukrovka" ctime="2008-03-26" mtime="2008-03-26"}
 
 # Cukrovka: jak žít s cukrovkou
 
-{kw="cukrovka, diabetes, diabetik, glykémie, strava, inzulín, slinivka břišní, hlad, hyperglykémie, hypoglykémie, bezvědomí"}
+{kw="břicho, cévy, látková výměna, mozek-nervy, orgány, poruchy vědomí, první pomoc, strava-zažívání"}
 
 Ukázněný diabetik se nemusí během života setkat se žádnými komplikacemi cukrovky. Dlouhodobé komplikace jsou způsobené nedodržováním doporučených zásad.
 

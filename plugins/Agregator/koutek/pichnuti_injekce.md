@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/pichnuti_injekce/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pichnuti\_injekce" ctime="2016-04-11" mtime="2016-04-11" short="Píchnutí injekce"}
 
 # Píchnutí injekce svépomocí
 
-{kw="léky, injekce, nevolnost, mdloba, tampon, dezinfekce, krvácení, bolest, tkáň, injekční stříkačka, injekční jehla"}
+{kw="cévy, ošetření, poranění, první pomoc"}
 
 Píchnutí injekce (aplikace léku v injekční formě) svépomocí nebo vzájemnou pomocí do podkoží nebo do svalu je jednoduché a bezbolestné. Součástí přípravy je dodržení hygienických pravidel a volba vhodného místa vpichu.
 

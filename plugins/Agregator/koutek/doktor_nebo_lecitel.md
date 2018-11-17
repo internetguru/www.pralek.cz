@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/doktor\_nebo\_lecitel/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="doktor\_nebo_lecitel" short="Doktor nebo léčitel" ctime="2010-04-30" mtime="2010-04-30"}
 
 # Doktor nebo léčitel: koho kdy vyhledat a komu věřit
 
-{kw="doktor, lékař, léčitel, alternativní medicína, léčitelská praxe, pověst léčitele"}
+{kw="bolest, nemoc, první pomoc, strava-zažívání, zdravý životní styl"}
 
 Při rozhodování, zda vyhledat lékaře nebo léčitele, platí zásada, že nejprve musí lékař řádně vyšetřit pacienta. V případě, že je dnešní věda na chorobu krátká, je možné vyhledat léčitele a doufat, že se mu podaří navrátit pacientovi ztracené zdraví.
 

@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/mikroorganizmy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="mikroorganizmy" short="Mikroorganizmy" ctime="2008-06-16" mtime="2008-06-16"}
 
 # Mikroorganizmus jako pomocník nebo nepřítel člověka
 
-{kw="mikroorganizmy, bakteriální flóra, bakteriální kmen, antibiotika, bakterie, mikroorganizmy, choroboplodné zárodky"}
+{kw="antibiotika, mikroorganizmy, nemoc, strava-zažívání, teplota, zánět, zvracení"}
 
 Dostanou-li se jinak prospěšné bakterie do míst, kam nepatří, mohou způsobit nemoc. Jsou-li správné bakteriální kmeny na správném místě, pak vzniká oboustranně prospěšná spolupráce a tělo funguje jak má. Přirozená bakteriální flóra bývá vždy narušena užíváním antibiotik.
 

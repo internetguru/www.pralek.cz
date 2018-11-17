@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/boule\_nasledkem\_urazu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="boule\_nasledkem_urazu" short="Boule následkem úrazu" ctime="2010-09-27" mtime="2010-09-27"}
 
 # Boule vzniklé následkem úrazu
 
-{kw="boule, pohmoždění hlavy, krevní výron, hematom, burza, burzitida, punkce, operace, svalová zatvrdlina, kontraktury"}
+{kw="bolest, cévy, kůže-podkoží, nemoc, orgány, pohyb, první pomoc, úrazy"}
 
 Boule vzniklé pohmožděním mají různou povahu; může jít o vylitou krev nebo jinou tekutinu. Podle místa vzniku se liší závažností, bolestivostí, léčbou a průběhem hojení.
 

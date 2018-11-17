@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/onemocneni_prsu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_prsu" short="Onemocnění prsu" ctime="2010-06-29" mtime="2010-06-29"}
 
 # Onemocnění prsu
 
-{kw="prs, zánět, měsíčky, menstruace, gynekomastie, boulička, aterom, lipom, cysta, mammografie, fibrom, lymfatické uzliny, hydradenitis, pohmoždění prsu, rakovina prsu"}
+{kw="nádory, nezhoubné, orgány, ošetření, poranění, zánět, zhoubné"}
 
 Ženský i mužský prs mají stejný základ, chorobami prsu trpí ženy i muži, ženy častěji. Některé změny prsu jsou přirozené, jiné je nutné vyšetřit a mnohdy i řešit. Včasné vyšetření vede k definitivnímu vyléčení bez následků.
 

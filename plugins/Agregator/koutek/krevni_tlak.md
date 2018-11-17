@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/krevni_tlak/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krevni\_tlak" short="Krevní tlak" ctime="2008-03-27" mtime="2008-03-27"}
 
 # Krevní tlak, správné měření a vyhodnocení tlaku
 
-{kw="krevní tlak, srdce, chlopně, systola, diastola, měření tlaku krve, tonometr, vysoký krevní tlak, hypertenze, nízký krevní tlak, hypotenze"}
+{kw="cévy, látková výměna, nemoc, orgány, prevence, srdce, strava-zažívání, zdravý životní styl"}
 
 Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření.
 

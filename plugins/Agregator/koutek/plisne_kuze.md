@@ -1,11 +1,11 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/plisne_kuze/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="plisne\_kuze" short="Plísně kůže" ctime="2011-09-25" mtime="2011-09-25"}
 
 # Plísňová onemocnění kůže
 
-{kw="zapaření, zapářka, opruzení, kožní plísně, skvrny na kůži, ložisko, zánět, bolestivá skvrna na kůži, zarudnutí třísla, zapářka pod prsy, svědění okolí konečníku"}
+{kw="bolest, kůže-podkoží, nemoc, neúrazové, ošetření, prevence, zánět"}
 
 Projevem plísňového onemocnění je zapaření (zapářka) nebo opruzení kůže v místech nepřístupných vzduchu. Původcem jsou houbové mikroorganizmy, nejčastěji plísně nebo kvasinky. Nejrůznější plísně postihují čím dál více lidí a mají nejrůznější projevy.
 
