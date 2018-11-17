@@ -24,4 +24,55 @@
   <var id="mdfile" var="file" fn="html2md"/>
   <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s">Navrhnout úpravy článku</a></var>
 
+  <fn id="maketags" fn="sequence">
+    <call>makeelements</call>
+    <call>replacenames</call>
+  </fn>
+  
+  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;?clanky=\1#koutek&#x22; class=&#x22;tag&#x22;&#x3E;\1&#x3C;/a&#x3E;" />
+  
+  <fn id="replacenames" fn="replace">
+    <data name="=bolest">=bolest</data>
+    <data name="=nemoc">=nemoc</data>
+    <data name="=orgány">=organy</data>
+    <data name="=zánět">=zanet</data>
+    <data name="=prevence">=prevence</data>
+    <data name="=pohyb">=pohyb</data>
+    <data name="=poranění">=poraneni</data>
+    <data name="=břicho">=bricho</data>
+    <data name="=úrazy">=urazy</data>
+    <data name="=cévy">=cevy</data>
+    <data name="=neúrazové">=neurazove</data>
+    <data name="=strava-zažívání">=strava-zazivani</data>
+    <data name="=krvácení">=krvaceni</data>
+    <data name="=ošetření">=osetreni</data>
+    <data name="=teplota">=teplota</data>
+    <data name="=nádory">=nadory</data>
+    <data name="=mikroorganizmy">=mikroorganizmy</data>
+    <data name="=kůže-podkoží">=kuze-podkozi</data>
+    <data name="=zhoubné">=zhoubne</data>
+    <data name="=zdravý životní styl">=zdravy_zivotni_styl</data>
+    <data name="=první pomoc">=prvni_pomoc</data>
+    <data name="=dětské">=detske</data>
+    <data name="=poruchy vědomí">=poruchy_vedomi</data>
+    <data name="=ušní-nosní-krční">=usni-nosni-krcni</data>
+    <data name="=žaludek">=zaludek</data>
+    <data name="=zlomeniny">=zlomeniny</data>
+    <data name="=mozek-nervy">=mozek-nervy</data>
+    <data name="=nezhoubné">=nezhoubne</data>
+    <data name="=látková výměna">=latkova_vymena</data>
+    <data name="=srdce">=srdce</data>
+    <data name="=zvracení">=zvraceni</data>
+    <data name="?clanky=močová soustava#koutek"></data>
+    <data name="?clanky=stařecké#koutek"></data>
+    <data name="?clanky=antibiotika#koutek"></data>
+    <data name="?clanky=imunita#koutek"></data>
+    <data name="?clanky=rehabilitace#koutek"></data>
+    <data name="?clanky=boulička#koutek"></data>
+    <data name="?clanky=zvíře#koutek"></data>
+    <data name="?clanky=mýty#koutek"></data>
+    <data name="?clanky=žláza#koutek"></data>
+    <data name="?clanky=Label#koutek"></data>
+  </fn>
+ 
 </InputVar>
