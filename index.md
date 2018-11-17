@@ -17,13 +17,13 @@ Na tomto webu vychází články Jaroslava Pavelky o praktickém lékařství s 
 
 Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata článků závisí na aktuálním dění a na odezvě čtenářů.
 
-{short="Autor" id="jaroslav_pavelka"}
-
-## MUDr. Jaroslav Pavelka, autor
-
 {var="doclist-clanky"}
 
   * n/a
+
+{short="Autor" id="jaroslav_pavelka"}
+
+## MUDr. Jaroslav Pavelka, autor
 
 {kw="autor, Jaroslav Pavelka, články, životopis, fotografie"}
 
