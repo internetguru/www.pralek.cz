@@ -9,17 +9,17 @@
 
 Na tomto webu vychází články Jaroslava Pavelky o praktickém lékařství s cílem zvýšení schopnosti čtenářů řešit zdravotní problémy. Články jsou zaměřené na vymýcení zásadních chyb nemocných a jejich pečovatelů v přístupu k nemocem. Autor zejména poukazuje na podceňování nebo ignorování příznaků, přecházení nemoci a na všelijaké pověry.
 
-{id="koutek" title="Seznam všech článků na webu"}
-
-## Lékařský koutek
-
-{kw="články, koutek, novinky, upozornění"}
-
-Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata článků závisí na aktuálním dění a na odezvě čtenářů.
-
 {var="doclist-clanky"}
 
   * n/a
+
+{short="Autor" id="jaroslav_pavelka"}
+
+## MUDr. Jaroslav Pavelka, autor
+
+{kw="autor, Jaroslav Pavelka, články, životopis, fotografie"}
+
+Autorem článků Praktického lékařství je MUDr. Jaroslav Pavelka, ambulantní chirurg s více než 30letou praxí. Autor publikuje maximálně dva články měsíčně z oblasti praktického lékařství.
 
 {short="Odběr novinek" id="upozorneni"}
 
@@ -91,24 +91,6 @@ n/a
     -- 
     Pro odhlášení z odebírání upozornění klikněte na následující odkaz:
          http://alert.pralek.cz/… {class="nohighlight"}
-
-{id="archiv" short="Všechny články"}
-
-### Všechny články lékařského koutku
-
-n/a
-
-{class="clanky"}
-
-  * Žádné články {var="doclist-html"}
-
-{short="Autor" id="jaroslav_pavelka"}
-
-## MUDr. Jaroslav Pavelka, autor
-
-{kw="autor, Jaroslav Pavelka, články, životopis, fotografie"}
-
-Autorem článků Praktického lékařství je MUDr. Jaroslav Pavelka, ambulantní chirurg s více než 30letou praxí. Autor publikuje maximálně dva články měsíčně z oblasti praktického lékařství.
 
 {id="zivotopis"}
 
