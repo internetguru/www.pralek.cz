@@ -5,7 +5,7 @@
 
 # Normální tělesná teplota, podchlazení, horečka
 
-{kw="bolest, dětské, neúrazové, prevence, stařecké, teplota, ušní-nosní-krční, zánět"}
+{kw="nejčtenější, bolest, dětské, neúrazové, prevence, stařecké, teplota, ušní-nosní-krční, zánět"}
 
 Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá nebo klesá vlivem zevního prostředí a stoupá při některých onemocněních.
 
