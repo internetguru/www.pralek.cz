@@ -9,13 +9,21 @@
 
 Na tomto webu vychází články Jaroslava Pavelky o praktickém lékařství s cílem zvýšení schopnosti čtenářů řešit zdravotní problémy. Články jsou zaměřené na vymýcení zásadních chyb nemocných a jejich pečovatelů v přístupu k nemocem. Autor zejména poukazuje na podceňování nebo ignorování příznaků, přecházení nemoci a na všelijaké pověry.
 
-{var="doclist-clanky"}
+{id="koutek" title="Seznam všech článků na webu"}
 
-  * n/a
+## Lékařský koutek
+
+{kw="články, koutek, novinky, upozornění"}
+
+Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata článků závisí na aktuálním dění a na odezvě čtenářů.
 
 {short="Autor" id="jaroslav_pavelka"}
 
 ## MUDr. Jaroslav Pavelka, autor
+
+{var="doclist-clanky"}
+
+  * n/a
 
 {kw="autor, Jaroslav Pavelka, články, životopis, fotografie"}
 
