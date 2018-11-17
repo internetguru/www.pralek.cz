@@ -32,6 +32,7 @@
   <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;?clanky=\1#koutek&#x22; class=&#x22;tag&#x22;&#x3E;\1&#x3C;/a&#x3E;" />
   
   <fn id="replacenames" fn="replace">
+    <data name="=nejčtenější">=nejctenejsi</data>
     <data name="=bolest">=bolest</data>
     <data name="=nemoc">=nemoc</data>
     <data name="=orgány">=organy</data>
