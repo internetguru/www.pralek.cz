@@ -1,0 +1,78 @@
+@charset "UTF-8";
+/***************************/
+h1,h2,h3,h4,h5,h6,p,ul,ol,dl,
+div.paragraph, div.list, pre {
+  margin: 1em auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+#content > *:not(.hdesc):not(.section),
+#content > .hdesc > *,
+#content > .section > *,
+#header,
+#footer > * {
+  max-width: 62rem;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+/***************************/
+#content strong  {
+  font-weight: 500;
+}
+/***************************/
+div.list {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+#content div.list.multiple {
+  max-width: 82em;
+  padding: 0 0.5em;
+  margin-top: 0;
+}
+/***************************/
+dl.figure {
+  display: inline-flex;
+  flex-direction: column;
+  text-align: center;
+}
+dl.figure:not(.mike) dt {
+  padding: 0;
+  display: inline-flex;
+  min-height: 12em;
+  align-self:  center;
+}
+dl.figure dt img {
+  object-fit: cover;
+  /* width: 100%; */
+  max-width: 13em;
+}
+dl.figure dd {
+  padding-top: 0.5em;
+  margin: 0;
+}
+/***************************/
+.hdesc {
+  margin-bottom: 2em;
+}
+/***************************/
+#footer .globalmenu,
+#header .hideable {
+  display: none;
+}
+/***************************/
+h2#clanky {
+  visibility: hidden;
+  height: 0;
+  margin: 0;
+  padding: 0;
+}
+h2#clanky + p {
+  display: none;
+}
+/***************************/
+ul.docinfo.nomultiple.global {
+  text-align: right;
+  list-style: none;
+}
+/***************************/

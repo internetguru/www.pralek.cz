@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <HtmlOutput>
-  <var id="theme">basic</var>
-  <stylesheet>themes/pralek.css</stylesheet>
+  <!-- <var id="theme">basic</var> -->
+  <!--  <stylesheet>themes/pralek.css</stylesheet> -->
   <stylesheet>themes/iefix.css</stylesheet>
   <xslt>themes/pralek.xsl</xslt>
   <jsFile append="body">themes/otazky.js</jsFile>
@@ -15,4 +15,7 @@ Disallow: /</robots>
 Disallow:</robots>
   <xslt>themes/delna.xsl</xslt>
   <stylesheet if-xpath="//*[contains(@class, 'fa')]">lib/font-awesome/css/font-awesome.css</stylesheet>
+  <xslt>themes/default/h1desc.xsl</xslt>
+  <jsFile append="body" if-xpath="/body[contains(@class, 'agregator')]">themes/article-bg.js</jsFile>
+  <jsFile append="body">themes/expand.js</jsFile>
 </HtmlOutput>

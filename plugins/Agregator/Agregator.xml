@@ -4,6 +4,17 @@
   <var modifyonly="modifyonly" id="creation"><a href="" var="authorid@href author">n/a</a> na téma úrazy a nemoci, <span var="ctime" fn="inputvar-dateformat">n/a</span></var>
   <var modifyonly="modifyonly" id="modified">Tento článek byl revidován <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
 
+  <doclist id="clanky" path="koutek" kw="bolest">
+    <dl class="clanek">
+      <dt><img var="og-image@src heading@alt"/></dt>
+      <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
+      <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
+      <dt class="heading" var="heading">n/a</dt>
+      <dd class="desc" var="desc">n/a</dd>
+      <dd class="more"><span class="noprint" var="editlink">n/a</span><a title="Autor: %s" var="link@href author@title">Celý článek</a></dd>
+    </dl>
+  </doclist>
+
   <doclist id="html" path="koutek">
     <li><a var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>) <em var="editlink">n/a</em></li>
   </doclist>
