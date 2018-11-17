@@ -1,11 +1,11 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/bercovy_vred/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bercovy\_vred" short="Bércový vřed" ctime="2014-09-15" mtime="2014-09-15"}
 
 # Bércový vřed, jeho vývoj a hojení
 
-{kw="bércový vřed, prokrvení, varixy, kornatění cév, lymfatický systém, otevřená noha, defekt, defekt kůže, defekt podkoží"}
+{kw="bolest, cévy, krvácení, kůže-podkoží, nemoc, neúrazové, poranění, zánět"}
 
 Bércový vřed je obtěžující a velmi nepříjemná choroba málo chodících lidí, tedy především starších a dlouhodobě nemocných. Pro jeho zhojení je zásadní nejprve obnovit funkčnost krevního oběhu dolních končetin.
 

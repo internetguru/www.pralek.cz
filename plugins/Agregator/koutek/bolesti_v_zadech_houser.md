@@ -1,11 +1,11 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/bolesti\_v\_zadech_houser/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolesti\_v\_zadech\_houser" short="Bolesti v zádech" ctime="2008-11-20" mtime="2008-11-20"}
 
 # Bolesti v zádech, houser
 
-{kw="houser, páteř, bolest v zádech, obratel, klouby, vazy, svaly, SI skloubení, meziobratlová destička, disk, bolest, zatvrdliny, kontraktury, výhřez, deformita páteře, výrůstky"}
+{kw="bolest, nemoc, neúrazové, pohyb, prevence, rehabilitace, úrazy"}
 
 Je přímá souvislost mezi bolestmi v zádech, nepřiměřenou fyzickou aktivitou, zpocením a následným prochlazením zad a to nejčastěji v oblasti bederní nebo krční páteře.
 

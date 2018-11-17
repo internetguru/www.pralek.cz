@@ -1,11 +1,11 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/bolest\_hlavy\_migrena/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_hlavy_migrena" short="Bolest hlavy, migréna" ctime="2010-03-16" mtime="2010-03-16"}
 
 # Bolest hlavy, migréna
 
-{kw="bolest hlavy, migréna, bolest poloviny hlavy, prodromy, léky, příčiny bolestí hlavy"}
+{kw="bolest, cévy, látková výměna, mikroorganizmy, nemoc, neúrazové, orgány, pohyb, prevence, strava-zažívání, teplota, úrazy, zánět"}
 
 Nejkrutější bolestí hlavy je migréna. Řešením je včasné podání vhodného léku proti bolesti. Běžná bolest hlavy má svou příčinu a nemusí se vyvíjet tak dramaticky. Ideálním řešením je odstranit příčinu bolesti než bolest tlumit léky.
 

@@ -1,11 +1,11 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/bolest\_v\_krku_angina/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_v\_krku\_angina" short="Bolest v krku" ctime="2008-12-09" mtime="2008-12-09"}
 
 # Bolest v krku, nachlazení, angína
 
-{kw="bolest, nachlazení, angína, infekce, sliznice, prochlazení, uzliny, zánět, mandle"}
+{kw="imunita, mikroorganizmy, nemoc, orgány, prevence, teplota, zánět"}
 
 Bolesti v krku mohou přejít v angínu; pro připravený organizmus zvládnutelnou. Až teprve komplikace angíny mohou způsobit trvalé poškození zdraví.
 

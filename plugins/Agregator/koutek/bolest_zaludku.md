@@ -1,11 +1,11 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/bolest_zaludku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_zaludku" short="Bolest žaludku" ctime="2011-05-30" mtime="2011-05-30"}
 
 # Žaludeční potíže: bolest žaludku
 
-{kw="žaludek, stres, trávicí soustava, pálení žáhy, kýla, zánět žaludku, zánět střeva, zánět žaludku a střeva, gastroenteritida, křeče v břiše, průjem, tenezmy, vyšetření žaludku, gastroskopie"}
+{kw="bolest, břicho, mikroorganizmy, orgány, strava-zažívání, teplota, žaludek, zánět"}
 
 Správnou životosprávou lze předejít vzniku různých onemocnění žaludku včetně žaludečního vředu. Žaludeční problémy souvisí často se stresem. Podmínkami zažívací pohody jsou zvládnutí vlastní psychiky a správné stravovací návyky.
 

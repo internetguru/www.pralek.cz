@@ -1,11 +1,11 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/akutni_torticollis/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="akutni\_torticollis" short="Akutní torticollis" ctime="2014-11-17" mtime="2014-11-17"}
 
 # (Ne)závažnost strnutí šíje
 
-{kw="torticollis, strnutí šíje, akutní torticollis, zkroucený krk, zatěžování páteře, léky, bolest"}
+{kw="bolest, mozek-nervy, nemoc, pohyb, rehabilitace"}
 
 Náhle vzniklé strnutí šíje je nepříjemné, dramaticky vyhlížející, ale zcela nezávažné a dobře léčitelné onemocnění krku. Nejčastěji postihuje děti školního věku a mladé lidi.
 

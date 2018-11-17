@@ -1,11 +1,11 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/antibiotika/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="antibiotika" short="Antibiotika" ctime="2008-05-14" mtime="2008-05-14"}
 
 # Proč nelze mít svá oblíbená antibiotika
 
-{kw="antibiotika, bakterie, imunitní systém, bílé krvinky, mikroorganizmy, zánět, bakterie, rezistence na antibiotika, K+C, imunitní systém, alergie"}
+{kw="imunita, mikroorganizmy, nemoc, prevence, teplota, ušní-nosní-krční, zánět"}
 
 Bakterie, které imunitní systém vyhodnotí jako nežádoucí, jsou likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud dočasně mikroorganizmy vítězí (to se projevuje příznaky zánětu).
 

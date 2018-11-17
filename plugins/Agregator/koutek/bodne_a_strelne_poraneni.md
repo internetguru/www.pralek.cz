@@ -1,11 +1,11 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/bodne\_a\_strelne_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bodne\_a\_strelne\_poraneni" short="Bodné a střelné poranění" ctime="2009-05-15" mtime="2009-05-15"}
 
 # Bodné a střelné poranění a jeho závažnost
 
-{kw="bodné poranění, střelné poranění, poranění, zástřel, poranění tupým předmětem, poranění ostrým předmětem, hybnost a čití prstů, střelné poranění"}
+{kw="bolest, břicho, cévy, krvácení, kůže-podkoží, orgány, pohyb, poranění"}
 
 Poranění zabodnutým předmětem nebo zástřel je natolik závažné, jak a které vnitřní orgány jsou poškozeny.
 
