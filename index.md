@@ -1,57 +1,82 @@
 
 {xml:lang="cs" ns="https://www.pralek.cz"}
 
-# Jaroslav Pavelka na téma úrazy a nemoci {author="Jaroslav Pavelka" authorid="autor" id="pralek" ctime="2007-03-29" short="Pralék" title="Pralék: Praktické lékařství"}
+{author="Jaroslav Pavelka" authorid="autor" id="pralek" ctime="2007-03-29" short="Pralék" title="Pralék: Praktické lékařství"}
 
-Na tomto webu vychází články Jaroslava Pavelky o praktickém lékařství s cílem zvýšení schopnosti čtenářů řešit zdravotní problémy. Články jsou zaměřené na vymýcení zásadních chyb nemocných a jejich pečovatelů v přístupu k nemocem. Autor zejména poukazuje na podceňování nebo ignorování příznaků, přecházení nemoci a na všelijaké pověry. {class="description" kw="lékařství, články, chirurgie"}
+# Jaroslav Pavelka na téma úrazy a nemoci
 
-## Lékařský koutek {id="koutek" title="Seznam všech článků na webu"}
+{kw="lékařství, články, chirurgie"}
 
-Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata článků závisí na aktuálním dění a na odezvě čtenářů. {class="description" kw="články, koutek, novinky, upozornění"}
+Na tomto webu vychází články Jaroslava Pavelky o praktickém lékařství s cílem zvýšení schopnosti čtenářů řešit zdravotní problémy. Články jsou zaměřené na vymýcení zásadních chyb nemocných a jejich pečovatelů v přístupu k nemocem. Autor zejména poukazuje na podceňování nebo ignorování příznaků, přecházení nemoci a na všelijaké pověry.
 
-  * Žádné nové články {var="doclist-htmltop1"}
-  * n/a {var="doclist-htmltop2"}
+{id="koutek" title="Seznam všech článků na webu"}
 
-### Odběr upozornění na nově vyšlé články {short="Odběr novinek" id="upozorneni"}
+## Lékařský koutek
 
-Dostávejte krátká upozornění na nově vyšlé články! Maximálně dvakrát za měsíc Vám přijde krátká zpráva s informacemi o novém článku. {class="description" kw="upozornění, novinky, odběr"}
+{kw="články, koutek, novinky, upozornění"}
 
-Formulář není k dispozici {var="inputvar-newsletter"}
+Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata článků závisí na aktuálním dění a na odezvě čtenářů.
 
-#### Politika ochrany soukromí {id="soukromi" short="Ochrana soukromí"}
+{var="doclist-clanky"}
 
-n/a {class="description"}
+  * n/a
+
+{short="Odběr novinek" id="upozorneni"}
+
+### Odběr upozornění na nově vyšlé články
+
+{kw="upozornění, novinky, odběr"}
+
+Dostávejte krátká upozornění na nově vyšlé články! Maximálně dvakrát za měsíc Vám přijde krátká zpráva s informacemi o novém článku.
+
+{var="inputvar-newsletter"}
+
+Formulář není k dispozici
+
+{id="soukromi" short="Ochrana soukromí"}
+
+#### Politika ochrany soukromí
+
+n/a
 
 Emailové adresy nebudou prodány ani poskytnuty třetí straně. Jedná se o oznámení s velmi omezeným obsahem: krátká zpráva jednou až dvakrát měsíčně. Instrukce k odhlášení jsou na konci každé zprávy.
 
 Seznam adres je chráněný heslem a bude použit jedině za účelem zde popsaným. Žádná nevyžádaná pošta; žádný spam – bez diskuze!
 
-#### Zkontrolujte si mailovou schránku pro potvrzení registrace {id="potvrzeni_registrace" short="Potvrzení registrace"}
+{id="potvrzeni_registrace" short="Potvrzení registrace"}
 
-n/a {class="description"}
+#### Zkontrolujte si mailovou schránku pro potvrzení registrace
+
+n/a
 
 Po vložení adresy Vám na ni systém zašle kontrolní mail pro potvrzení, že si skutečně přejete dostávat upozornění. Jedná se o dodatečný krok v prevenci proti spamu a nežádaným e-mailovým žertům.
 
   * Pokud kontrolní mail nepotvrdíte, Váš účet nebude aktivován.
   * Ve schránce hledejte zprávu od „PraLék.cz“ s předmětem „Ověření žádosti o registraci“.
 
-#### Zajištění, že zprávy dorazí {id="nastaveni_filtru" short="Nastavení filtru"}
+{id="nastaveni_filtru" short="Nastavení filtru"}
 
-n/a {class="description"}
+#### Zajištění, že zprávy dorazí
+
+n/a
 
 Upozornění budou přicházet z adresy alert [zavináč] pralek.cz (stejně tak potvrzení registrace).
 
 Pokud používáte spam filtr, přidejte si tuto adresu do seznamu povolených adres _(whitelist) {xml:lang="en"}_ pro ujištění, že k Vám zprávy skutečně dorazí.
 
-#### Jak se odhlásit {id="odhlaseni" short="Odhlášení"}
+{id="odhlaseni" short="Odhlášení"}
 
-n/a {class="description"}
+#### Jak se odhlásit
+
+n/a
 
 Pro odhlášení stačí kliknout na odkaz, který je v zápatí každého upozornění. Odkaz pro odhlášení je u každé adresy jiný, proto zde nemůže být uveden.
 
-#### Ilustrativní upozornění {id="ukazka" short="Ukázka"}
+{id="ukazka" short="Ukázka"}
 
-n/a {class="description"}
+#### Ilustrativní upozornění
+
+n/a
 
     Předmět: Nový článek z praktického lékařství
     Odesílatel: "PraLék.cz"<alert@pralek.cz>
@@ -67,21 +92,29 @@ n/a {class="description"}
     Pro odhlášení z odebírání upozornění klikněte na následující odkaz:
          http://alert.pralek.cz/… {class="nohighlight"}
 
-### Všechny články lékařského koutku {id="archiv" short="Všechny články"}
+{id="archiv" short="Všechny články"}
 
-n/a {class="description"}
+### Všechny články lékařského koutku
+
+n/a
 
 {class="clanky"}
 
   * Žádné články {var="doclist-html"}
 
-## MUDr. Jaroslav Pavelka, autor {short="Autor" id="jaroslav_pavelka"}
+{short="Autor" id="jaroslav_pavelka"}
 
-Autorem článků Praktického lékařství je MUDr. Jaroslav Pavelka, ambulantní chirurg s více než 30letou praxí. Autor publikuje maximálně dva články měsíčně z oblasti praktického lékařství. {class="description" kw="autor, Jaroslav Pavelka, články, životopis, fotografie"}
+## MUDr. Jaroslav Pavelka, autor
 
-### Profesní životopis {id="zivotopis"}
+{kw="autor, Jaroslav Pavelka, články, životopis, fotografie"}
 
-MUDr. Jaroslav Pavelka (*1952) je absolventem první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku po promoci působil jako vojenský lékař v Havlíčkově Brodě. Po návratu z vojny nastoupil do nemocnice v Litoměřicích. {class="description"}
+Autorem článků Praktického lékařství je MUDr. Jaroslav Pavelka, ambulantní chirurg s více než 30letou praxí. Autor publikuje maximálně dva články měsíčně z oblasti praktického lékařství.
+
+{id="zivotopis"}
+
+### Profesní životopis
+
+MUDr. Jaroslav Pavelka (*1952) je absolventem první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku po promoci působil jako vojenský lékař v Havlíčkově Brodě. Po návratu z vojny nastoupil do nemocnice v Litoměřicích.
 
 {class="fotky right"}
 
@@ -93,9 +126,11 @@ Od chirurgické atestace pracoval v litoměřické nemocnici, a to převážně 
 
 Portál Praktického lékařství je nevýdělečnou aktivitou autora.
 
-### Fotografie ze života autora {id="fotografie" short="Fotografie"}
+{id="fotografie" short="Fotografie"}
 
-Jaroslav Pavelka tráví svůj volný čas aktivně. Rád se prohání po Českém středohoří na svých mašinách nebo jezdí na moře. Ze všeho nejraději se věnuje aktivnímu odpočinku s manželkou a vnoučaty na své zahrádce v Lovosicích. {class="description"}
+### Fotografie ze života autora
+
+Jaroslav Pavelka tráví svůj volný čas aktivně. Rád se prohání po Českém středohoří na svých mašinách nebo jezdí na moře. Ze všeho nejraději se věnuje aktivnímu odpočinku s manželkou a vnoučaty na své zahrádce v Lovosicích.
 
 {class="fotky"}
 
@@ -150,3 +185,4 @@ Jaroslav Pavelka tráví svůj volný čas aktivně. Rád se prohání po Česk�
  [30]: /files/big/jaroslav_pavelka-v05.jpg
  [31]: /files/thumbs/jaroslav_pavelka-v06.jpg "Lyžování v Alpách"
  [32]: /files/big/jaroslav_pavelka-v06.jpg
+
