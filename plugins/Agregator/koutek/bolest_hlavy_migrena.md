@@ -1,5 +1,5 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/bolest\_hlavy\_migrena/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_hlavy_migrena" short="Bolest hlavy, migréna" ctime="2010-03-16" mtime="2010-03-16"}
 

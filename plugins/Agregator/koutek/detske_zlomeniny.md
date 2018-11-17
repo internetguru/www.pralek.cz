@@ -1,5 +1,5 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/detske_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="detske\_zlomeniny" short="Dětské zlomeniny" ctime="2009-06-09" mtime="2009-06-09"}
 

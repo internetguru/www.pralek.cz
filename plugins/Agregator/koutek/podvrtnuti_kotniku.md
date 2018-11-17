@@ -1,5 +1,5 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/podvrtnuti_kotniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="podvrtnuti\_kotniku" short="Podvrtnutí kotníku" ctime="2009-12-23" mtime="2009-12-23"}
 

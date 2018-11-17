@@ -1,5 +1,5 @@
 
-{class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/zanetlive\_lozisko\_nad\_hyzdovou\_ryhou/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanetlive\_lozisko\_nad\_hyzdovou_ryhou" short="Zánětlivé ložisko nad hýžďovou rýhou" ctime="2010-12-23" mtime="2010-12-23"}
 
