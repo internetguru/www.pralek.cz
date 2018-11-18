@@ -205,11 +205,9 @@
               var end = fs[i].defaultVal.length;
               Config.navig.value = fs[i].defaultVal;
               createSelection(Config.navig, start, end);
-            }
-            var li = document.createElement("li");
-            if (first) {
               first = false;
             }
+            var li = document.createElement("li");
             li.innerHTML = fs[i].val;
             if (fs[i].user) li.classList.add("user");
             if (fs[i].disable) li.classList.add("disabled");
