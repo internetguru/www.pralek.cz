@@ -93,6 +93,10 @@ n/a
 
 Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata článků závisí na aktuálním dění a na odezvě čtenářů.
 
+{var="inputvar-tags-files-list"}
+
+Vyhledávání není k dispozici
+
 {var="doclist-clanky"}
 
   * n/a
