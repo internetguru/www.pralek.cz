@@ -162,7 +162,7 @@
         },
         filter = function (arr, value) {
           var fs = [];
-          var qvalue = IGCMS.preg_quote(value).normalize().replace(/\\\*/g, "[^/ ]*");
+          var qvalue = IGCMS.preg_quote(value).replace(/\\\*/g, "[^/ ]*");
           var pattern = new RegExp("(^|[^a-z0-9])(" + qvalue + ")", "gi");
           for (var i = 0; i < arr.length; i++) {
             var r = doFilter(arr[i], value, pattern);
@@ -200,7 +200,7 @@
         update = function (fs) {
           var first = true;
           for (var i = 0; i < fs.length; i++) {
-            if (first && Config.navig.value.length && key !== 8 && fs[i].defaultVal.toLowerCase().normalize().indexOf(Config.navig.value.toLowerCase().normalize()) == 0) { // 8 is backspace
+            if (first && Config.navig.value.length && key !== 8 && fs[i].defaultVal.toLowerCase().indexOf(Config.navig.value.toLowerCase()) == 0) { // 8 is backspace
               var start = Config.navig.value.length;
               var end = fs[i].defaultVal.length;
               Config.navig.value = fs[i].defaultVal;
