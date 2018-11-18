@@ -9,7 +9,7 @@
 
 Na tomto webu vychází články Jaroslava Pavelky o praktickém lékařství s cílem zvýšení schopnosti čtenářů řešit zdravotní problémy. Články jsou zaměřené na vymýcení zásadních chyb nemocných a jejich pečovatelů v přístupu k nemocem. Autor zejména poukazuje na podceňování nebo ignorování příznaků, přecházení nemoci a na všelijaké pověry.
 
-{class="figure"}
+{class="figure author"}
 
 ![MUDr. Jaroslav Pavelka][1] 
 :   MUDr. Jaroslav Pavelka (*1952) je absolventem první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku po promoci působil jako vojenský lékař v Havlíčkově Brodě. Po návratu z vojny nastoupil do nemocnice v Litoměřicích.
