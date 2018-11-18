@@ -14,6 +14,6 @@ Disallow: /</robots>
 Disallow:</robots>
   
   <xslt>themes/default/h1desc.xsl</xslt>
-  <xslt>themes/pralek.xsl</xslt>
+<!--   <xslt>themes/pralek.xsl</xslt> -->
   <xslt>themes/delna.xsl</xslt>
 </HtmlOutput>
