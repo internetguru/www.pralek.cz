@@ -126,38 +126,38 @@ ol.contentlink-bc > li+li:before {
   }
 }
 /***************************/
-dl.figure.mike {
+dl.figure.author {
   display: block;
   background: none;
   max-width: 57em;
   margin: 5em auto;
 }
-dl.figure.mike:after {
+dl.figure.author:after {
   content: "";
   display: table;
   clear: both;
 }
-dl.figure.mike .img + dd {
+dl.figure.author .img + dd {
   font-size: 1.5em;
 }
-dl.figure.mike dt q {
+dl.figure.author dt q {
   display: block;
   margin-top: 1rem;
   font-size: 1.2em;
   font-style: italic;
   color: #A76820;
 }
-dl.figure.mike dd q {
+dl.figure.author dd q {
   font-style: italic;
 }
 @media all and (min-width: 42em) {
-  dl.figure.mike {
+  dl.figure.author {
     text-align: left;
   }
-  dl.figure.mike .img {
+  dl.figure.author .img {
     float: left;
   }
-  dl.figure.mike > *:not(.img) {
+  dl.figure.author > *:not(.img) {
     margin-left: 16rem;
   }
 }
