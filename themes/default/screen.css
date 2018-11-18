@@ -290,6 +290,10 @@ a.tag[href^="#"] {
   /* background: #68acaa; */
   border: thin solid #c0905a;
 }
+a.tag[href^="#neaktivni"] {
+  border: none;
+  color: #868686;
+}
 /***************************/
 .taglist {
   border-bottom: thin solid #cecece;
