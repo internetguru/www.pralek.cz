@@ -29,7 +29,7 @@
     <call>replacenames</call>
   </fn>
   
-  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;?clanky=\1#koutek&#x22; class=&#x22;tag&#x22;&#x3E;\1&#x3C;/a&#x3E;" />
+  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;?clanky=\1#koutek&#x22; class=&#x22;tag nowarning&#x22;&#x3E;\1&#x3C;/a&#x3E;" />
   
   <fn id="replacenames" fn="replace">
     <data name="=nejčtenější">=nejctenejsi</data>
@@ -64,16 +64,16 @@
     <data name="=látková výměna">=latkova_vymena</data>
     <data name="=srdce">=srdce</data>
     <data name="=zvracení">=zvraceni</data>
-    <data name="?clanky=močová soustava#koutek">#neaktivni</data>
-    <data name="?clanky=stařecké#koutek">#neaktivni</data>
-    <data name="?clanky=antibiotika#koutek">#neaktivni</data>
-    <data name="?clanky=imunita#koutek">#neaktivni</data>
-    <data name="?clanky=rehabilitace#koutek">#neaktivni</data>
-    <data name="?clanky=boulička#koutek">#neaktivni</data>
-    <data name="?clanky=zvíře#koutek">#neaktivni</data>
-    <data name="?clanky=mýty#koutek">#neaktivni</data>
-    <data name="?clanky=žláza#koutek">#neaktivni</data>
-    <data name="?clanky=Label#koutek">#neaktivni</data>
+    <data name="?clanky=močová soustava#koutek"></data>
+    <data name="?clanky=stařecké#koutek"></data>
+    <data name="?clanky=antibiotika#koutek"></data>
+    <data name="?clanky=imunita#koutek"></data>
+    <data name="?clanky=rehabilitace#koutek"></data>
+    <data name="?clanky=boulička#koutek"></data>
+    <data name="?clanky=zvíře#koutek"></data>
+    <data name="?clanky=mýty#koutek"></data>
+    <data name="?clanky=žláza#koutek"></data>
+    <data name="?clanky=Label#koutek"></data>
     <data name="?clanky=nejctenejsi"></data>
   </fn>
  
