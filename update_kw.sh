@@ -25,7 +25,7 @@ do
   file="plugins/Agregator/koutek/$id.html"
   sed -i "s/kw=\"[^\"]\+\"/kw=\"$labels\"/" "$file"
   sed -i "s/class=\"completable\">/class=\"completable\">\n<option class=\"article\" value=\"$id\">$(hxselect -c "body > h" < "$file")<\/option>/" $INPUTVAR_XML
-  sed -i "s/<UrlHandler>/<UrlHandler>\n<redir gen=\"gen\" parName='s' parValue='$id'>$id<\/redir>/" $URLHANDLER_XML
+  sed -i "s/<UrlHandler>/<UrlHandler>\n<redir gen=\"gen\" parName='s' parValue='$id'>$id?<\/redir>/" $URLHANDLER_XML
 done <<< "$(echo "$export" | tail -n+2)"
 
 
