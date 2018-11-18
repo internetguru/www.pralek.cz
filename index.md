@@ -87,7 +87,7 @@ n/a
 
 {id="koutek" title="Seznam všech článků na webu"}
 
-### Lékařský koutek
+## Lékařský koutek
 
 {kw="články, koutek, novinky, upozornění"}
 
