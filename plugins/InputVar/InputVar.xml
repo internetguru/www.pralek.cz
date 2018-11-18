@@ -64,16 +64,17 @@
     <data name="=látková výměna">=latkova_vymena</data>
     <data name="=srdce">=srdce</data>
     <data name="=zvracení">=zvraceni</data>
-    <data name="?clanky=močová soustava#koutek"></data>
-    <data name="?clanky=stařecké#koutek"></data>
-    <data name="?clanky=antibiotika#koutek"></data>
-    <data name="?clanky=imunita#koutek"></data>
-    <data name="?clanky=rehabilitace#koutek"></data>
-    <data name="?clanky=boulička#koutek"></data>
-    <data name="?clanky=zvíře#koutek"></data>
-    <data name="?clanky=mýty#koutek"></data>
-    <data name="?clanky=žláza#koutek"></data>
-    <data name="?clanky=Label#koutek"></data>
+    <data name="?clanky=močová soustava#koutek">#</data>
+    <data name="?clanky=stařecké#koutek">#</data>
+    <data name="?clanky=antibiotika#koutek">#</data>
+    <data name="?clanky=imunita#koutek">#</data>
+    <data name="?clanky=rehabilitace#koutek">#</data>
+    <data name="?clanky=boulička#koutek">#</data>
+    <data name="?clanky=zvíře#koutek">#</data>
+    <data name="?clanky=mýty#koutek">#</data>
+    <data name="?clanky=žláza#koutek">#</data>
+    <data name="?clanky=Label#koutek">#</data>
+    <data name="?clanky=nejctenejsi"></data>
   </fn>
  
 </InputVar>

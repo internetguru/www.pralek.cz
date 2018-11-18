@@ -13,12 +13,13 @@ INPUTVAR_XML="plugins/InputVar/InputVar.xml"
 sed -i '/for="/d' $AGREGATOR_XML 
 sed -i '/<data/d' $INPUTVAR_XML 
 
+sed -i "s/<fn id=\"replacenames\" fn=\"replace\">/<fn id=\"replacenames\" fn=\"replace\">\n    <data name=\"?clanky=nejctenejsi\"><\/data>/" $INPUTVAR_XML
 while IFS=, read -r label count
 do
   label="$(getValue "$label")"
   count="$(getValue "$count")"
   if [[ $count -lt $MIN_COUNT ]]; then
-    sed -i "s/<fn id=\"replacenames\" fn=\"replace\">/<fn id=\"replacenames\" fn=\"replace\">\n    <data name=\"?clanky=$label#koutek\"><\/data>/" $INPUTVAR_XML
+    sed -i "s/<fn id=\"replacenames\" fn=\"replace\">/<fn id=\"replacenames\" fn=\"replace\">\n    <data name=\"?clanky=$label#koutek\">#<\/data>/" $INPUTVAR_XML
     continue
   fi
   normalizedLabel="$(echo "$label" | iconv -f utf8 -t ascii//TRANSLIT | tr " " "_")"
