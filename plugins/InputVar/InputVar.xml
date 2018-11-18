@@ -76,5 +76,22 @@
     <data name="?clanky=Label#koutek"></data>
     <data name="?clanky=nejctenejsi"></data>
   </fn>
+
+  <var id="tags-files-list">
+  <form action="/" method="get">
+    <fieldset class="filepicker"><legend>Vyhledávání</legend>
+      <ul>
+        <li><select name="s" class="completable">
+          <option value="nejctenejsi" class="tag">Nejčtenější #štítek</option>
+          <option value="strevni_nepruchodnost" class="article">Střevní neprůchodnost bývá komplikací jiné choroby #článek</option>
+          <option value="naplastovy_steh" class="article">Ošetření kožní rány náplasťovým stehem</option>
+        </select></li>
+        <li>
+          <input type="submit" value="Zvolit soubor"/>
+        </li>
+      </ul>
+    </fieldset>
+  </form>
+  </var>
  
 </InputVar>
