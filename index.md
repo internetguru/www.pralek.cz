@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.pralek.cz"}
+{data-og-type="article" data-og-image="/files/preview/koutek/main.jpg" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="autor" id="pralek" ctime="2007-03-29" short="Pralék" title="Pralék: Praktické lékařství"}
 
