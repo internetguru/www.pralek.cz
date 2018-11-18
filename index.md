@@ -14,18 +14,6 @@ Na tomto webu vychází články Jaroslava Pavelky o praktickém lékařství s 
 ![MUDr. Jaroslav Pavelka][1] {class="img"}
 :   MUDr. Jaroslav Pavelka (*1952) je absolventem první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku po promoci působil jako vojenský lékař v Havlíčkově Brodě. Po návratu z vojny nastoupil do nemocnice v Litoměřicích.
 
-{id="koutek" title="Seznam všech článků na webu"}
-
-## Lékařský koutek
-
-{kw="články, koutek, novinky, upozornění"}
-
-Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata článků závisí na aktuálním dění a na odezvě čtenářů.
-
-{var="doclist-clanky"}
-
-  * n/a
-
 {short="Odběr novinek" id="upozorneni"}
 
 ## Odběr upozornění na nově vyšlé články
@@ -96,6 +84,18 @@ n/a
      
     o odhlášení z odebírání upozornění klikněte na následující odkaz:
        http://alert.pralek.cz/… {class="nohighlight"}
+
+{id="koutek" title="Seznam všech článků na webu"}
+
+### Lékařský koutek
+
+{kw="články, koutek, novinky, upozornění"}
+
+Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata článků závisí na aktuálním dění a na odezvě čtenářů.
+
+{var="doclist-clanky"}
+
+  * n/a
 
 <!--
     <h short="Autor" id="jaroslav_pavelka">MUDr. Jaroslav Pavelka, autor</h>
