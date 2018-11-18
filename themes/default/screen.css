@@ -290,10 +290,6 @@ a.tag[href^="#"] {
   /* background: #68acaa; */
   border: thin solid #c0905a;
 }
-a.tag[href^="#neaktivni"] {
-  border: none;
-  color: #868686;
-}
 /***************************/
 .taglist {
   border-bottom: thin solid #cecece;
@@ -303,5 +299,9 @@ a.tag[href^="#neaktivni"] {
 #footer {
   margin-top: 3em;
   margin-bottom: 3em;
+}
+/***************************/
+.hdesc:before { 
+  background-image: url("/files/koutek/main.jpg");
 }
 /***************************/
