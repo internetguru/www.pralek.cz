@@ -136,7 +136,6 @@
 <redir gen="gen" parName='s' parValue='antibiotika'>antibiotika?</redir>
 <redir gen="gen" parName='s' parValue='akutni_torticollis'>akutni_torticollis?</redir>
 <redir gen="gen" parName='s' parValue='akne'>akne?</redir>
-<redir gen="gen" parName='s'>https://www.google.com/search?sitesearch=www.pralek.cz&amp;q=$parvalue</redir>
   <rewrite match="koutek/"></rewrite>
   <redir link="urazy_malych_deti">urazy_deti</redir>
   <redir link="urychleni_rakoviny_operaci">mytus_o_rakovine</redir>
