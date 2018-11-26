@@ -31,35 +31,35 @@
   </doclist>
 
   <doclist id="zvraceni" kw="zvracení" for="clanky" />
-  <doclist id="srdce" kw="srdce" for="clanky" />
-  <doclist id="latkova_vymena" kw="látková výměna" for="clanky" />
-  <doclist id="nezhoubne" kw="nezhoubné" for="clanky" />
-  <doclist id="mozek-nervy" kw="mozek-nervy" for="clanky" />
   <doclist id="zlomeniny" kw="zlomeniny" for="clanky" />
+  <doclist id="zhoubne" kw="zhoubné" for="clanky" />
+  <doclist id="zdravy_zivotni_styl" kw="zdravý životní styl" for="clanky" />
+  <doclist id="zanet" kw="zánět" for="clanky" />
   <doclist id="zaludek" kw="žaludek" for="clanky" />
   <doclist id="usni-nosni-krcni" kw="ušní-nosní-krční" for="clanky" />
-  <doclist id="poruchy_vedomi" kw="poruchy vědomí" for="clanky" />
-  <doclist id="detske" kw="dětské" for="clanky" />
-  <doclist id="prvni_pomoc" kw="první pomoc" for="clanky" />
-  <doclist id="zdravy_zivotni_styl" kw="zdravý životní styl" for="clanky" />
-  <doclist id="zhoubne" kw="zhoubné" for="clanky" />
-  <doclist id="kuze-podkozi" kw="kůže-podkoží" for="clanky" />
-  <doclist id="mikroorganizmy" kw="mikroorganizmy" for="clanky" />
-  <doclist id="nadory" kw="nádory" for="clanky" />
-  <doclist id="teplota" kw="teplota" for="clanky" />
-  <doclist id="osetreni" kw="ošetření" for="clanky" />
-  <doclist id="krvaceni" kw="krvácení" for="clanky" />
-  <doclist id="strava-zazivani" kw="strava-zažívání" for="clanky" />
-  <doclist id="neurazove" kw="neúrazové" for="clanky" />
-  <doclist id="cevy" kw="cévy" for="clanky" />
   <doclist id="urazy" kw="úrazy" for="clanky" />
-  <doclist id="bricho" kw="břicho" for="clanky" />
+  <doclist id="teplota" kw="teplota" for="clanky" />
+  <doclist id="strava-zazivani" kw="strava-zažívání" for="clanky" />
+  <doclist id="srdce" kw="srdce" for="clanky" />
+  <doclist id="prvni_pomoc" kw="první pomoc" for="clanky" />
+  <doclist id="prevence" kw="prevence" for="clanky" />
+  <doclist id="poruchy_vedomi" kw="poruchy vědomí" for="clanky" />
   <doclist id="poraneni" kw="poranění" for="clanky" />
   <doclist id="pohyb" kw="pohyb" for="clanky" />
-  <doclist id="prevence" kw="prevence" for="clanky" />
-  <doclist id="zanet" kw="zánět" for="clanky" />
+  <doclist id="osetreni" kw="ošetření" for="clanky" />
   <doclist id="organy" kw="orgány" for="clanky" />
+  <doclist id="nezhoubne" kw="nezhoubné" for="clanky" />
+  <doclist id="neurazove" kw="neúrazové" for="clanky" />
   <doclist id="nemoc" kw="nemoc" for="clanky" />
-  <doclist id="bolest" kw="bolest" for="clanky" />
   <doclist id="nejctenejsi" kw="nejčtenější" for="clanky" />
+  <doclist id="nadory" kw="nádory" for="clanky" />
+  <doclist id="mozek-nervy" kw="mozek-nervy" for="clanky" />
+  <doclist id="mikroorganizmy" kw="mikroorganizmy" for="clanky" />
+  <doclist id="latkova_vymena" kw="látková výměna" for="clanky" />
+  <doclist id="kuze-podkozi" kw="kůže-podkoží" for="clanky" />
+  <doclist id="krvaceni" kw="krvácení" for="clanky" />
+  <doclist id="detske" kw="dětské" for="clanky" />
+  <doclist id="cevy" kw="cévy" for="clanky" />
+  <doclist id="bricho" kw="břicho" for="clanky" />
+  <doclist id="bolest" kw="bolest" for="clanky" />
 </Agregator>
