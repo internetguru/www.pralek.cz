@@ -313,6 +313,9 @@ a.tag:not([href]) {
   width: 30em;
   max-width: 100%;
 }
+#content .navigList strong {
+  font-weight: 600;
+}
 #content .navigList .article:before,
 #content .navigList .tag:before {
   font-family: "FontAwesome";
