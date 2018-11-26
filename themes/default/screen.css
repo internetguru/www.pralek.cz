@@ -309,3 +309,19 @@ a.tag:not([href]) {
   background-image: url("/files/koutek/main.jpg");
 }
 /***************************/
+#content input.completable-input {
+  width: 30em;
+  max-width: 100%;
+}
+#content .navigList .article:before,
+#content .navigList .tag:before {
+  font-family: "FontAwesome";
+  margin-right: 0.5em;
+}
+#content .navigList .article:before {
+  content: "\f0f6";
+}
+#content .navigList .tag:before {
+  content: "\f02b";
+}
+/***************************/
