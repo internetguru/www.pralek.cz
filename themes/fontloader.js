@@ -1,7 +1,7 @@
 require("WebFont", function() {
   WebFont.load({
     google: {
-      families: ['Open Sans:400,300,400italic,500,700:latin-ext'],
+      families: ['Lato:400,300,400italic,700:latin-ext'],
 //     families: ['Roboto'],
 //     urls: ['/lib/roboto/roboto.css'],
     },
