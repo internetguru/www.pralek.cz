@@ -179,7 +179,16 @@ dl.figure.author dd q {
 .clanek dt:first-child {
   position: relative;
 }
-.clanek dt:first-child:after {
+.clanek dt:first-child a {
+  display: block;
+  position: relative;
+  z-index: 1;
+  border: none;
+}
+.clanek dt:first-child img {
+  display: inline-block;
+}
+.clanek dt:first-child a:after {
   content: "";
   position: absolute;
   top: 0;
@@ -197,8 +206,11 @@ dl.figure.author dd q {
 }
 .clanek .heading {
   font-size: 1.5em;
-  margin: 0 0 0.5em 0;
-  color: #111111;
+  margin: 0 0 0.25em 0;
+}
+.clanek .heading a {
+  color: #111;
+  border: none;
 }
 .clanek .date {
   position: absolute;
@@ -209,6 +221,7 @@ dl.figure.author dd q {
   text-align: right;
   padding: 0.5rem 1rem;
   width: calc(100% - 2rem);
+  z-index: 2;
 }
 .clanek .desc {
   flex-grow: 1;
