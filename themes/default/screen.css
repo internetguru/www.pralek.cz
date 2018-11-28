@@ -186,7 +186,13 @@ dl.figure.author dd q {
   border: none;
 }
 .clanek dt:first-child img {
-  display: inline-block;
+  display: block;
+}
+.clanek dt:first-child a:after {
+  transition: all .5s ease-in-out;
+}
+.clanek .heading a {
+  transition: all .2s ease-in-out;
 }
 .clanek dt:first-child a:after {
   content: "";
@@ -196,6 +202,9 @@ dl.figure.author dd q {
   width: 100%;
   height: 100%;
   background: linear-gradient(to bottom, rgba(0, 0, 0,0.8) 0%,rgba(0, 0, 0, 0) 25%);
+}
+.clanek dt:first-child a:hover:after {
+  background: #00000059;
 }
 .clanek > * {
   margin: 0;
@@ -211,6 +220,9 @@ dl.figure.author dd q {
 .clanek .heading a {
   color: #111;
   border: none;
+}
+.clanek .heading a:hover {
+  color: #0076c1;
 }
 .clanek .date {
   position: absolute;
@@ -275,25 +287,31 @@ dl.figure.author dd q {
 /***************************/
 a.tag {
   border: none;
-  margin: 0.2em;
+  margin: 0.2em 0.5em 0.2em 0;
   display: inline-block;
   border-radius: 0.2em;
+}
+a.tag:hover:before {
+  color: #979797;
 }
 a.tag:before {
   font-family: "FontAwesome";
   margin-right: 0.25em;
   vertical-align: middle;
   content: "\f02b";
-  color: #b5b5b5;
+  color: #e4e4e4;
+  font-size: 1.25em;
+  line-height: 0;
 }
 a.tag[href^="#"]:before {
-  color: #525252;
+  color: #979797;
 }
 a.tag:not([href]) {
   border: none;
-  color: #737373;
+  color: inherit;
 }
-a.tag:not([href]):before {
+a.tag:not([href]):hover:before {
+  color: #e4e4e4;
 }
 .clanek .kw {
   display: flex;
