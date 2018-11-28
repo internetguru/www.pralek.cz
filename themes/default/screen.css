@@ -188,12 +188,13 @@ dl.figure.author dd q {
 .clanek dt:first-child img {
   display: block;
 }
-.clanek dt:first-child a:after {
+.clanek dt:first-child a:before {
   transition: all .5s ease-in-out;
 }
 .clanek .heading a {
   transition: all .2s ease-in-out;
 }
+.clanek dt:first-child a:before,
 .clanek dt:first-child a:after {
   content: "";
   position: absolute;
@@ -203,7 +204,10 @@ dl.figure.author dd q {
   height: 100%;
   background: linear-gradient(to bottom, rgba(0, 0, 0,0.8) 0%,rgba(0, 0, 0, 0) 25%);
 }
-.clanek dt:first-child a:hover:after {
+.clanek dt:first-child a:before {
+  background: none;
+}
+.clanek dt:first-child a:hover:before {
   background: #00000059;
 }
 .clanek > * {
