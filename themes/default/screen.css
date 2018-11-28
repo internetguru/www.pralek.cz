@@ -261,7 +261,7 @@ dl.figure.author dd q {
 /***************************/
 a.tag {
   border: none;
-  padding: 0.25em;
+  margin: 0.2em;
   display: inline-block;
   border-radius: 0.2em;
 }
@@ -270,24 +270,27 @@ a.tag:before {
   margin-right: 0.25em;
   vertical-align: middle;
   content: "\f02b";
+  color: #b5b5b5;
 }
-a.tag[href^="#"] {
-  border-bottom: thick solid #dfdfdf
+a.tag[href^="#"]:before {
+  color: #525252;
 }
 a.tag:not([href]) {
   border: none;
   color: #737373;
 }
+a.tag:not([href]):before {
+}
 .clanek .kw {
   display: flex;
   flex-wrap: wrap;
-  max-height: 4em;
+  max-height: 3.5em;
   overflow: hidden;
 }
 .clanek .kw a.tag[href^="#"] {
   order: -1;
 }
-.clanek .kw a.tag:not(href) {
+.clanek .kw a.tag:not([href]) {
   order: 1000;
 }
 /***************************/
