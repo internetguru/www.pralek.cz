@@ -11,7 +11,7 @@ div.list.multiple div > * {
   max-width: 100%;
   box-sizing: border-box;
   margin: 0.5em 0;
-  padding: 0.5em;
+  padding: 0.5em 1em;
 }
 
 @media screen and (min-width: 22em) {
