@@ -198,6 +198,7 @@ dl.figure.author dd q {
 .clanek .heading {
   font-size: 1.5em;
   margin: 0 0 0.5em 0;
+  color: #111111;
 }
 .clanek .date {
   position: absolute;
