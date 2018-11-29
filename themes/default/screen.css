@@ -191,6 +191,7 @@ dl.figure.author dd q {
 .clanek dt:first-child a:before {
   transition: all .5s ease-in-out;
 }
+a.tag:before,
 .clanek .heading a {
   transition: all .2s ease-in-out;
 }
