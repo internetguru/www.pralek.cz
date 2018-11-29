@@ -39,19 +39,19 @@ diffOut="$(diff <(echo "$currentIds" | sort) <(echo -e "$exportIds" | sort))"
 
 labels="$(curl 'https://docs.google.com/spreadsheets/d/18hz-SdBnXhB4CumVAEzZU5E5Rr6eUswvopMFb32QDPw/gviz/tq?tqx=out:csv&sheet=Labels')"
 
-sed -i "s/<fn id=\"replacenames\" fn=\"replace\">/<fn id=\"replacenames\" fn=\"replace\">\n    <data name=\"?clanky=nejctenejsi\"><\/data>/" $INPUTVAR_XML
+sed -i "s/<fn id=\"replacenames\" fn=\"replace\">/<fn id=\"replacenames\" fn=\"replace\">\n    <data name=\"\/?clanky=nejctenejsi\">\/<\/data>/" $INPUTVAR_XML
 while IFS=, read -r label count
 do
   label="$(getValue "$label")"
   count="$(getValue "$count")"
   if [[ $count -lt $MIN_COUNT ]]; then
-    sed -i "s/<fn id=\"replacenames\" fn=\"replace\">/<fn id=\"replacenames\" fn=\"replace\">\n    <data name=\"?clanky=$label#koutek\"><\/data>/" $INPUTVAR_XML
+    sed -i "s/<fn id=\"replacenames\" fn=\"replace\">/<fn id=\"replacenames\" fn=\"replace\">\n    <data name=\"\/?clanky=$label#koutek\"><\/data>/" $INPUTVAR_XML
     continue
   fi
   normalizedLabel="$(echo "$label" | iconv -f utf8 -t ascii//TRANSLIT | tr " " "_")"
   sed -i "s/<\/Agregator>/  <doclist id=\"$normalizedLabel\" kw=\"$label\" for=\"clanky\" \/>\n<\/Agregator>/" $AGREGATOR_XML
   sed -i "s/<fn id=\"replacenames\" fn=\"replace\">/<fn id=\"replacenames\" fn=\"replace\">\n    <data name=\"=$label\">=$normalizedLabel<\/data>/" $INPUTVAR_XML
   sed -i "s/class=\"completable\">/class=\"completable\">\n<option class=\"tag\" value=\"$normalizedLabel\">$label ($count výskytů) #$normalizedLabel<\/option>/" $INPUTVAR_XML
-  sed -i "s/<UrlHandler>/<UrlHandler>\n<redir gen=\"gen\" parName='s' parValue='$normalizedLabel'>?clanky=$normalizedLabel#koutek<\/redir>/" $URLHANDLER_XML
+  sed -i "s/<UrlHandler>/<UrlHandler>\n<redir gen=\"gen\" parName='s' parValue='$normalizedLabel'>\/?clanky=$normalizedLabel#koutek<\/redir>/" $URLHANDLER_XML
 done <<< "$(echo "$labels" | tail -n+2)"
 

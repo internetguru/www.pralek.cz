@@ -73,7 +73,7 @@
     <data name="=zlomeniny">=zlomeniny</data>
     <data name="/?clanky=zvíře#koutek"></data>
     <data name="=zvracení">=zvraceni</data>
-    <data name="/?clanky=nejctenejsi"></data>
+    <data name="/?clanky=nejctenejsi">/</data>
   </fn>
 
   <var id="tags-files-list">
