@@ -78,7 +78,7 @@
   </fn>
 
   <var id="tags-files-list">
-  <form action="/" method="get">
+  <form action="/" method="get" class="search">
     <fieldset class="filepicker"><legend>Vyhledávání</legend>
       <ul>
         <li><select name="s" class="completable">
