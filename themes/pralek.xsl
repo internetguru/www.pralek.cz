@@ -20,7 +20,7 @@
     </div></div>
   </xsl:template> -->
 
-  <xsl:template match="div[contains(@class = 'hdesc')]">
+  <xsl:template match="div[contains(@class, 'hdesc')]">
     <xsl:apply-tepmlates select="."/>
     <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
 <!--     <div id="docfooter">

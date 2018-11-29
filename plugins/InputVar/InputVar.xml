@@ -81,38 +81,38 @@
     <fieldset class="filepicker"><legend>Vyhledávání</legend>
       <ul>
         <li><select name="s" class="completable">
-<option class="tag" value="bolest">bolest (65) #bolest</option>
-<option class="tag" value="bricho">břicho (34) #bricho</option>
-<option class="tag" value="cevy">cévy (30) #cevy</option>
-<option class="tag" value="detske">dětské (12) #detske</option>
-<option class="tag" value="krvaceni">krvácení (24) #krvaceni</option>
-<option class="tag" value="kuze-podkozi">kůže-podkoží (17) #kuze-podkozi</option>
-<option class="tag" value="latkova_vymena">látková výměna (8) #latkova_vymena</option>
-<option class="tag" value="mikroorganizmy">mikroorganizmy (17) #mikroorganizmy</option>
-<option class="tag" value="mozek-nervy">mozek-nervy (8) #mozek-nervy</option>
-<option class="tag" value="nadory">nádory (18) #nadory</option>
-<option class="tag" value="nejctenejsi">nejčtenější (9) #nejctenejsi</option>
-<option class="tag" value="nemoc">nemoc (56) #nemoc</option>
-<option class="tag" value="neurazove">neúrazové (25) #neurazove</option>
-<option class="tag" value="nezhoubne">nezhoubné (8) #nezhoubne</option>
-<option class="tag" value="organy">orgány (53) #organy</option>
-<option class="tag" value="osetreni">ošetření (21) #osetreni</option>
-<option class="tag" value="pohyb">pohyb (36) #pohyb</option>
-<option class="tag" value="poraneni">poranění (35) #poraneni</option>
-<option class="tag" value="poruchy_vedomi">poruchy vědomí (11) #poruchy_vedomi</option>
-<option class="tag" value="prevence">prevence (41) #prevence</option>
-<option class="tag" value="prvni_pomoc">první pomoc (15) #prvni_pomoc</option>
-<option class="tag" value="srdce">srdce (5) #srdce</option>
-<option class="tag" value="strava-zazivani">strava-zažívání (23) #strava-zazivani</option>
-<option class="tag" value="teplota">teplota (19) #teplota</option>
-<option class="tag" value="urazy">úrazy (34) #urazy</option>
-<option class="tag" value="usni-nosni-krcni">ušní-nosní-krční (8) #usni-nosni-krcni</option>
-<option class="tag" value="zaludek">žaludek (10) #zaludek</option>
-<option class="tag" value="zanet">zánět (48) #zanet</option>
-<option class="tag" value="zdravy_zivotni_styl">zdravý životní styl (16) #zdravy_zivotni_styl</option>
-<option class="tag" value="zhoubne">zhoubné (16) #zhoubne</option>
-<option class="tag" value="zlomeniny">zlomeniny (9) #zlomeniny</option>
-<option class="tag" value="zvraceni">zvracení (5) #zvraceni</option>
+<option class="tag" value="bolest">bolest (65 výskytů) #bolest</option>
+<option class="tag" value="bricho">břicho (34 výskytů) #bricho</option>
+<option class="tag" value="cevy">cévy (30 výskytů) #cevy</option>
+<option class="tag" value="detske">dětské (12 výskytů) #detske</option>
+<option class="tag" value="krvaceni">krvácení (24 výskytů) #krvaceni</option>
+<option class="tag" value="kuze-podkozi">kůže-podkoží (17 výskytů) #kuze-podkozi</option>
+<option class="tag" value="latkova_vymena">látková výměna (8 výskytů) #latkova_vymena</option>
+<option class="tag" value="mikroorganizmy">mikroorganizmy (17 výskytů) #mikroorganizmy</option>
+<option class="tag" value="mozek-nervy">mozek-nervy (8 výskytů) #mozek-nervy</option>
+<option class="tag" value="nadory">nádory (18 výskytů) #nadory</option>
+<option class="tag" value="nejctenejsi">nejčtenější (9 výskytů) #nejctenejsi</option>
+<option class="tag" value="nemoc">nemoc (56 výskytů) #nemoc</option>
+<option class="tag" value="neurazove">neúrazové (25 výskytů) #neurazove</option>
+<option class="tag" value="nezhoubne">nezhoubné (8 výskytů) #nezhoubne</option>
+<option class="tag" value="organy">orgány (52 výskytů) #organy</option>
+<option class="tag" value="osetreni">ošetření (21 výskytů) #osetreni</option>
+<option class="tag" value="pohyb">pohyb (36 výskytů) #pohyb</option>
+<option class="tag" value="poraneni">poranění (35 výskytů) #poraneni</option>
+<option class="tag" value="poruchy_vedomi">poruchy vědomí (11 výskytů) #poruchy_vedomi</option>
+<option class="tag" value="prevence">prevence (41 výskytů) #prevence</option>
+<option class="tag" value="prvni_pomoc">první pomoc (15 výskytů) #prvni_pomoc</option>
+<option class="tag" value="srdce">srdce (5 výskytů) #srdce</option>
+<option class="tag" value="strava-zazivani">strava-zažívání (23 výskytů) #strava-zazivani</option>
+<option class="tag" value="teplota">teplota (19 výskytů) #teplota</option>
+<option class="tag" value="urazy">úrazy (34 výskytů) #urazy</option>
+<option class="tag" value="usni-nosni-krcni">ušní-nosní-krční (8 výskytů) #usni-nosni-krcni</option>
+<option class="tag" value="zaludek">žaludek (10 výskytů) #zaludek</option>
+<option class="tag" value="zanet">zánět (48 výskytů) #zanet</option>
+<option class="tag" value="zdravy_zivotni_styl">zdravý životní styl (16 výskytů) #zdravy_zivotni_styl</option>
+<option class="tag" value="zhoubne">zhoubné (16 výskytů) #zhoubne</option>
+<option class="tag" value="zlomeniny">zlomeniny (9 výskytů) #zlomeniny</option>
+<option class="tag" value="zvraceni">zvracení (5 výskytů) #zvraceni</option>
 <option class="article" value="akne">Boj proti akné #akne</option>
 <option class="article" value="akutni_torticollis">(Ne)závažnost strnutí šíje #akutni_torticollis</option>
 <option class="article" value="antibiotika">Proč nelze mít svá oblíbená antibiotika #antibiotika</option>
