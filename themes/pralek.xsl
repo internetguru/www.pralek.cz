@@ -7,7 +7,7 @@
   <xsl:param name="inputvar-otazky_desc" select="''"/>
   <xsl:param name="linklist" select="'&lt;p&gt;&lt;em&gt;Nebyly nalezeny žádné odkazy.&lt;/em&gt;&lt;/p&gt;'"/>
 
-  <xsl:template match="div[@id = 'header']">
+<!--   <xsl:template match="div[@id = 'header']">
     <div id="header"><div>
       <form class="search" action="//google.com/search" method="get"><div>
         <input type="search" placeholder="Co Vás zajímá?" class="eventable" required="required" name="q"/>
@@ -18,19 +18,17 @@
       </div></form>
       <xsl:apply-templates/>
     </div></div>
-  </xsl:template>
+  </xsl:template> -->
 
-  <xsl:template match="div[@id = 'content'][ancestor::body[contains(@class, 'agregator')]]">
-    <div id="content" class="article"><div>
-      <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
-      <xsl:apply-templates select="div/*"/>
-    </div></div>
-    <div id="docfooter">
+  <xsl:template match="div[contains(@class = 'hdesc')]">
+    <xsl:apply-tepmlates select="."/>
+    <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
+<!--     <div id="docfooter">
       <ul>
         <li><a href="pralek/archiv">Další články lékařova koutku</a> (kompletní seznam).</li>
         <li><a href="upozorneni">Odebírejte krátká upozornění na nově vyšlé články lékařova koutku.</a></li>
       </ul>
-    </div>
+    </div> -->
   </xsl:template>
   
   <xsl:template match="//ul[@class = 'docinfo nomultiple global']"/>
