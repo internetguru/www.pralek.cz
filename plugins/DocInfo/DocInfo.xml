@@ -2,7 +2,7 @@
 <DocInfo>
     <var modifyonly="modifyonly" id="docinfo">
     <ul class="docinfo nomultiple global">
-      <li var="kw" fn="maketags">n/a</li>
+      <li><span var="kw">n/a</span></li>
       <li><span var="created">n/a</span></li>li>
       <li><span var="modified">n/a</span></li>
       <li><span var="responsible">n/a</span></li>
