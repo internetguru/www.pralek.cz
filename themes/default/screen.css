@@ -377,3 +377,8 @@ a.tag:not([href]):hover:before {
   display: inline-block;
 }
 /***************************/
+.pralek.hdesc + div + div > .part:first-child {
+  background: #dedede;
+  padding: 0.1em 0 1em 0;
+}
+/***************************/
