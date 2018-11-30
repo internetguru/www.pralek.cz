@@ -78,9 +78,8 @@
 
   <var id="tags-files-list">
   <form action="/" method="get" class="search">
-    <fieldset class="filepicker"><legend>Vyhledávání</legend>
-      <ul>
-        <li><select name="s" class="completable">
+    <ul>
+      <li><select name="s" class="completable">
 <option class="tag" value="bolest">bolest (65 výskytů) #bolest</option>
 <option class="tag" value="bricho">břicho (34 výskytů) #bricho</option>
 <option class="tag" value="cevy">cévy (30 výskytů) #cevy</option>
@@ -217,9 +216,8 @@
 <option class="article" value="zlomeniny_kosti">Zlomeniny kostí #zlomeniny_kosti</option>
 <option class="article" value="zlucove_kameny">Prevence a léčba žlučových kamenů #zlucove_kameny</option>
 <option class="article" value="znamenko-bradavice-rakovina">Mateřské znaménko, bradavice nebo rakovina #znamenko-bradavice-rakovina</option>
-      </select><button type="submit">Vyhledat</button></li>
-      </ul>
-    </fieldset>
+    </select><button type="submit">Vyhledat</button></li>
+    </ul>
   </form>
   </var>
  
