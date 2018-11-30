@@ -36,7 +36,7 @@ dl.figure {
   flex-direction: column;
   text-align: center;
 }
-dl.figure:not(.mike) dt {
+dl.figure dt {
   padding: 0;
   display: inline-flex;
   min-height: 12em;
@@ -46,6 +46,9 @@ dl.figure dt img {
   object-fit: cover;
   /* width: 100%; */
   max-width: 13em;
+}
+dl.figure.author dt img {
+  border-radius: 100%;
 }
 dl.figure dd {
   padding-top: 0.5em;
