@@ -49,8 +49,6 @@ h1 + p {
   z-index: 11;
   top: 0;
   left: 0;
-  max-width: 62rem;
-  margin: 0 auto;
   justify-content: space-between;
   padding: 1em;
   width: calc(100% - 2em);
@@ -351,32 +349,38 @@ a.tag:not([href]):hover:before {
   background-image: url("/files/koutek/main.jpg");
 }
 /***************************/
-#content input.completable-input {
-  width: 30em;
-  max-width: 100%;
-}
-#content .navigList strong {
+.search .navigList strong {
   font-weight: 600;
 }
-#content .navigList .article:before,
-#content .navigList .tag:before {
+.search .navigList .article:before,
+.search .navigList .tag:before {
   font-family: "FontAwesome";
   margin-right: 0.5em;
 }
-#content .navigList .article:before {
+.search .navigList .article:before {
   content: "\f0f6";
 }
-#content .navigList .tag:before {
+.search .navigList .tag:before {
   content: "\f02b";
 }
-/***************************/
+.search ul input {
+  height: 2.5em;
+  border: 0;
+  width: 30em;
+  outline: none;
+  padding: 0.5em 1em;
+  max-width: 100%;
+}
 .search button[type="submit"] {
   font-family: "FontAwesome";
-  width: 2em;
-  height: 2.2em;
-  line-height: 2.2em;
+  width: 2.5em;
+  height: 2.5em;
+  line-height: 2.5em;
   overflow: hidden;
   border: none;
+  position: absolute;
+  right: -2em;
+  top: 0;
 }
 .search button[type="submit"]:before {
   content: "\f002";
@@ -389,6 +393,7 @@ a.tag:not([href]):hover:before {
 }
 .search ul li {
   margin: 0;
+  position: relative;
 }
 /***************************/
 .pralek.hdesc + div + div > .part:first-child {
