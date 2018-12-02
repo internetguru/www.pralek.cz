@@ -41,17 +41,23 @@ h1 + p {
 }
 /***************************/
 #header {
-  position: relative;
-}
-#header > div {
-  position: absolute;
-  display: flex;
-  z-index: 11;
+  /* background: #00000061; */
   top: 0;
   left: 0;
+  position: absolute;
+  z-index: 11;
+  width: 100%;
+}
+#header > div {
+  /* position: absolute; */
+  display: flex;
+  z-index: 11;
+  /* top: 0; */
+  /* left: 0; */
   justify-content: space-between;
-  padding: 1em;
-  width: calc(100% - 2em);
+  padding: 0 1em;
+  /* width: calc(100% - 2em); */
+  align-items: center;
 }
 #header .contentlink-bc a {
   color: white;
@@ -349,6 +355,9 @@ a.tag:not([href]):hover:before {
   background-image: url("/files/koutek/main.jpg");
 }
 /***************************/
+.search {
+  padding-right: 4em;
+}
 .search .navigList strong {
   font-weight: 600;
 }
@@ -364,23 +373,30 @@ a.tag:not([href]):hover:before {
   content: "\f02b";
 }
 .search ul input {
-  height: 2.5em;
+  height: 3.5em;
   border: 0;
   width: 30em;
   outline: none;
   padding: 0.5em 1em;
   max-width: 100%;
+  background: #ffffff3b;
 }
 .search button[type="submit"] {
   font-family: "FontAwesome";
-  width: 2.5em;
-  height: 2.5em;
-  line-height: 2.5em;
+  width: 4rem;
+  height: 3.5rem;
+  line-height: 3.5rem;
   overflow: hidden;
   border: none;
   position: absolute;
-  right: -2.5em;
+  right: -4rem;
   top: 0;
+  background: #ef6c00;
+  color: white;
+  padding: 0 1rem;
+  /* border-radius: 0 1rem 1rem 0; */
+  font-size: 1.2em;
+  outline: none;
 }
 .search button[type="submit"]:before {
   content: "\f002";
