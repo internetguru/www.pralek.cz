@@ -374,6 +374,9 @@ a.tag:not([href]):hover:before {
   content: "\f02b";
 }
 .search ul input {
+  color: white;
+}
+.search ul input {
   height: 3.5em;
   border: 0;
   width: 18em;
@@ -384,6 +387,7 @@ a.tag:not([href]):hover:before {
   max-width: 100%;
 }
 .search ul input:focus {
+  color: inherit;
   background: #ffffff;
   width: 40em;
 }
@@ -401,7 +405,7 @@ a.tag:not([href]):hover:before {
   color: #fbe9e7;
   padding: 0 1rem;
   /* border-radius: 0 1rem 1rem 0; */
-  font-size: 2em;
+  font-size: 1.8em;
   outline: none;
 }
 .search button[type="submit"]:before {
