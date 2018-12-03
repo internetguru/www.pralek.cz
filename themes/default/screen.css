@@ -55,7 +55,7 @@ h1 + p {
   /* top: 0; */
   /* left: 0; */
   justify-content: space-between;
-  padding: 0 1em;
+  padding: 0 0 0 1em;
   /* width: calc(100% - 2em); */
   align-items: center;
 }
