@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocInfo>
-    <var modifyonly="modifyonly" id="docinfo">
+<!--       <li><span var="edit">n/a</span></li> -->
+  <var modifyonly="modifyonly" id="docinfo">
     <ul class="docinfo nomultiple global">
       <li class="kw" var="kw" fn="inputvar-maketags">n/a</li>
       <li><span var="created">n/a</span></li>
       <li><span var="modified">n/a</span></li>
       <li><span var="responsible">n/a</span></li>
-      <li><span var="edit">n/a</span></li>
       <li><a href="#" var="inputvar-ghedit">n/a</a></li>
     </ul>
   </var>
