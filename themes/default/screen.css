@@ -383,7 +383,7 @@ a.tag:not([href]):hover:before {
   height: 3.5em;
   border: 0;
   width: 18em;
-  outline: none;Q
+  outline: none;
   padding: 0.5em 1em;
   background: #ffffff70;
   transition: all .2s ease-in-out;
