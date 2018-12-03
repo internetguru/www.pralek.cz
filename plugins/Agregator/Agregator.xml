@@ -11,6 +11,7 @@
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
       <dt class="heading"><a title="Autor: %s" var="link@href author@title heading">n/a</a></dt>
       <dd class="desc" var="desc">n/a</dd>
+      <dd class="extra"><a var="link@href heading">n/a</a></dd>
     </dl>
   </doclist>
 
