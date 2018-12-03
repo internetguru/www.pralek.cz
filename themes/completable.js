@@ -172,6 +172,9 @@
           var fs = [];
           var qvalue = IGCMS.preg_quote(value).replace(/\\\*/g, "[^/ ]*");
           var pattern = new RegExp("(^|[^a-z0-9])(" + qvalue + ")", "gi");
+          if (!value) {
+            pattern = false;
+          }
           for (var i = 0; i < arr.length; i++) {
             if (arr[i].class == "google") {
                 fs.push(arr[i]);
@@ -187,18 +190,23 @@
         },
         doFilter = function (f, value, pattern) {
           try {
-            if (!f.val.match(pattern)) return;
+            if (pattern && !f.val.match(pattern)) return;
             var r = {};
             var priority = 3;
-            if (f.path.replace(/^.*[\\\/]/, '').indexOf(value) === 0) priority = 1;
-            else {
-              var parts = f.path.split(/[ _\/-]/);
-              for (var i = 0; i < parts.length; i++) {
-                if (parts[i].indexOf(value) !== 0) continue;
-                priority = 2;
+            if (pattern) {
+              if (f.path.replace(/^.*[\\\/]/, '').indexOf(value) === 0) priority = 1;
+              else {
+                var parts = f.path.split(/[ _\/-]/);
+                for (var i = 0; i < parts.length; i++) {
+                  if (parts[i].indexOf(value) !== 0) continue;
+                  priority = 2;
+                }
               }
+              r.val = f.val.replace(pattern, "$1<strong>$2</strong>");
+            } else {
+              r.val = f.val;
             }
-            r.val = f.val.replace(pattern, "$1<strong>$2</strong>");
+            r.val = r.val.replace(/(#.+$)/, "<span>$1</span>");
             r.priority = priority;
             r.defaultVal = f.defaultVal;
             r.path = f.path;
