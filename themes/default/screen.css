@@ -12,7 +12,7 @@ strong {
   font-weight: 600;
 }
 a {
-  color: #212d81;
+  color: #3949ab;
 }
 /***************************/
 dl.figure {
@@ -255,7 +255,7 @@ a.tag:before,
   border: none;
 }
 .clanek .heading a:hover {
-  color: #0076c1;
+  color: #3949ab;
 }
 .clanek .date {
   position: absolute;
@@ -282,6 +282,21 @@ a.tag:before,
   margin-left: 0.25em;
   line-height: 0;
   vertical-align: -0.1em;
+}
+#content .clanek .extra {
+  padding: 0.5em;
+  padding-top: 0;
+}
+.clanek .extra .button {
+  border: none;
+  display: inline-block;
+}
+.clanek .extra .button:hover {
+  background: #e8eaf6;
+}
+.clanek .extra .button:focus,
+.clanek .extra .button:active {
+  background: #c5cae9;
 }
 /***************************/
 a.tag {
@@ -417,9 +432,9 @@ a.tag:not([href]):hover:before {
   padding: 0.1em 0 1em 0;
 }
 /***************************/
-ol.otazky button {
+.button,
+button {
   border: none;
-  margin: 0.2em 0;
   padding: 0.5em 1em;
   letter-spacing: .08929em;
   border-radius: 0.35em;
@@ -433,12 +448,16 @@ ol.otazky button {
     0 0.05em 0.25em 0 rgba(0,0,0,0.2);
   */
 }
-ol.otazky button:hover {
+.button:hover,
+button:hover {
   /*
   box-shadow: 0 0.15em 0.15em 0 rgba(0,0,0,0.14),
     0 0.05em 0.35em 0 rgba(0,0,0,0.12),
     0 0.15em 0.05em -0.05em rgba(0,0,0,0.2);
   */
+}
+ol.otazky button {
+  margin: 0.2em 0;
 }
 ol.otazky button:before {
   content: "\f00c";
