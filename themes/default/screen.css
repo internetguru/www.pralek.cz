@@ -462,8 +462,7 @@ a.tag:not([href]):hover:before {
 }
 @media (max-width: 38em) {
   .search .navigList {
-    width: calc(100% + 6em) !important;
-    overflow-y: hidden;
+    width: calc(100% + 6em) !important;    
   }
   .search .navigList li {
     max-width: calc(100% - 0.5em);
