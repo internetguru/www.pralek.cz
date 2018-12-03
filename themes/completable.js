@@ -103,6 +103,7 @@
                 return;
               }
               list.childNodes[active].classList.add("active");
+              list.childNodes[active].scrollIntoView();
               Config.navig.value = list.childNodes[active].dataset.val;
               e.preventDefault();
               break;
