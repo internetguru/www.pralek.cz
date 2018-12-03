@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
+  <xsl:template match="ul"/>
+  
   <xsl:template match="/">
     <xsl:apply-templates/>
   </xsl:template>
@@ -39,7 +41,6 @@
     </xsl:if>
   </xsl:template>
   
-  <xsl:template match="ul"/>
 
   <!-- ignore elements between h1 and div.section -->
   <xsl:template match="//*[preceding-sibling::h1 and (following-sibling::div[contains(@class, 'section')] or not(//div[contains(@class, 'section')]))]"/>
