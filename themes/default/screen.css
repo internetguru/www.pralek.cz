@@ -380,8 +380,7 @@ a.tag:not([href]):hover:before {
 .search .navigList strong {
   font-weight: 600;
 }
-.search .navigList .article:before,
-.search .navigList .tag:before {
+.search .navigList li:before {
   font-family: "FontAwesome";
   margin-right: 0.5em;
 }
@@ -390,6 +389,9 @@ a.tag:not([href]):hover:before {
 }
 .search .navigList .tag:before {
   content: "\f02b";
+}
+.search .navigList .google:before {
+  content: "\f1a0";
 }
 .search ul input::placeholder {
   color: #f0f0f0;
