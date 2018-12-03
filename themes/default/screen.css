@@ -356,8 +356,8 @@ a.tag:not([href]):hover:before {
 }
 /***************************/
 .search {
-  padding-right: 4em;
-  max-width: 50%;
+  padding-right: 6em;
+  max-width: 45%;
 }
 .search .navigList strong {
   font-weight: 600;
@@ -376,7 +376,7 @@ a.tag:not([href]):hover:before {
 .search ul input {
   height: 3.5em;
   border: 0;
-  width: 20em;
+  width: 18em;
   outline: none;
   padding: 0.5em 1em;
   background: #ffffff70;
@@ -389,13 +389,13 @@ a.tag:not([href]):hover:before {
 }
 .search button[type="submit"] {
   font-family: "FontAwesome";
-  width: 7rem;
+  width: 6rem;
   height: 3.5rem;
   line-height: 3.5rem;
   overflow: hidden;
   border: none;
   position: absolute;
-  right: -4rem;
+  right: -6rem;
   top: 0;
   background: #ef6c00;
   color: #fbe9e7;
