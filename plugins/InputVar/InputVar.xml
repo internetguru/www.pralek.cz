@@ -80,142 +80,142 @@
   <form action="/" method="get" class="search">
     <ul>
       <li><select name="s" class="completable">
-<option class="tag" value="bolest">bolest (65 výskytů) #bolest</option>
-<option class="tag" value="bricho">břicho (34 výskytů) #bricho</option>
-<option class="tag" value="cevy">cévy (30 výskytů) #cevy</option>
-<option class="tag" value="detske">dětské (12 výskytů) #detske</option>
-<option class="tag" value="krvaceni">krvácení (24 výskytů) #krvaceni</option>
-<option class="tag" value="kuze-podkozi">kůže-podkoží (17 výskytů) #kuze-podkozi</option>
-<option class="tag" value="latkova_vymena">látková výměna (8 výskytů) #latkova_vymena</option>
-<option class="tag" value="mikroorganizmy">mikroorganizmy (17 výskytů) #mikroorganizmy</option>
-<option class="tag" value="mozek-nervy">mozek-nervy (8 výskytů) #mozek-nervy</option>
-<option class="tag" value="nadory">nádory (18 výskytů) #nadory</option>
-<option class="tag" value="nejctenejsi">nejčtenější (9 výskytů) #nejctenejsi</option>
-<option class="tag" value="nemoc">nemoc (56 výskytů) #nemoc</option>
-<option class="tag" value="neurazove">neúrazové (25 výskytů) #neurazove</option>
-<option class="tag" value="nezhoubne">nezhoubné (8 výskytů) #nezhoubne</option>
-<option class="tag" value="organy">orgány (52 výskytů) #organy</option>
-<option class="tag" value="osetreni">ošetření (21 výskytů) #osetreni</option>
-<option class="tag" value="pohyb">pohyb (36 výskytů) #pohyb</option>
-<option class="tag" value="poraneni">poranění (35 výskytů) #poraneni</option>
-<option class="tag" value="poruchy_vedomi">poruchy vědomí (11 výskytů) #poruchy_vedomi</option>
-<option class="tag" value="prevence">prevence (41 výskytů) #prevence</option>
-<option class="tag" value="prvni_pomoc">první pomoc (15 výskytů) #prvni_pomoc</option>
-<option class="tag" value="srdce">srdce (5 výskytů) #srdce</option>
-<option class="tag" value="strava-zazivani">strava-zažívání (23 výskytů) #strava-zazivani</option>
-<option class="tag" value="teplota">teplota (19 výskytů) #teplota</option>
-<option class="tag" value="urazy">úrazy (34 výskytů) #urazy</option>
-<option class="tag" value="usni-nosni-krcni">ušní-nosní-krční (8 výskytů) #usni-nosni-krcni</option>
-<option class="tag" value="zaludek">žaludek (10 výskytů) #zaludek</option>
-<option class="tag" value="zanet">zánět (48 výskytů) #zanet</option>
-<option class="tag" value="zdravy_zivotni_styl">zdravý životní styl (16 výskytů) #zdravy_zivotni_styl</option>
-<option class="tag" value="zhoubne">zhoubné (16 výskytů) #zhoubne</option>
-<option class="tag" value="zlomeniny">zlomeniny (9 výskytů) #zlomeniny</option>
-<option class="tag" value="zvraceni">zvracení (5 výskytů) #zvraceni</option>
-<option class="article" value="akne">Boj proti akné #akne</option>
-<option class="article" value="akutni_torticollis">(Ne)závažnost strnutí šíje #akutni_torticollis</option>
-<option class="article" value="antibiotika">Proč nelze mít svá oblíbená antibiotika #antibiotika</option>
-<option class="article" value="artroza">Bolesti kloubů – jak žít s artrózou #artroza</option>
-<option class="article" value="bercovy_vred">Bércový vřed, jeho vývoj a hojení #bercovy_vred</option>
-<option class="article" value="bodne_a_strelne_poraneni">Bodné a střelné poranění a jeho závažnost #bodne_a_strelne_poraneni</option>
-<option class="article" value="bolest_hlavy_migrena">Bolest hlavy, migréna #bolest_hlavy_migrena</option>
-<option class="article" value="bolest_v_krku_angina">Bolest v krku, nachlazení, angína #bolest_v_krku_angina</option>
-<option class="article" value="bolest_zaludku">Žaludeční potíže: bolest žaludku #bolest_zaludku</option>
-<option class="article" value="bolesti_v_zadech_houser">Bolesti v zádech, houser #bolesti_v_zadech_houser</option>
-<option class="article" value="boule_nasledkem_urazu">Boule vzniklé následkem úrazu #boule_nasledkem_urazu</option>
-<option class="article" value="cert">Pohádkový čert: kterak na svět přišel #cert</option>
-<option class="article" value="cholesterol">Jak snížit hladinu cholesterolu v krvi #cholesterol</option>
-<option class="article" value="chripka">Chřipka: virové onemocnění #chripka</option>
-<option class="article" value="cukrovka">Cukrovka: jak žít s cukrovkou #cukrovka</option>
-<option class="article" value="darcovstvi_krve">Dárcovství krve, krevní plazmy a kostní dřeně #darcovstvi_krve</option>
-<option class="article" value="detske_zlomeniny">Nejčastější dětské zlomeniny a jejich zvláštnosti #detske_zlomeniny</option>
-<option class="article" value="doktor_nebo_lecitel">Doktor nebo léčitel: koho kdy vyhledat a komu věřit #doktor_nebo_lecitel</option>
-<option class="article" value="drobna_krvava_poraneni">Drobná krvavá poranění #drobna_krvava_poraneni</option>
-<option class="article" value="dupuytrenova_kontraktura">Uzly a zatvrdliny ve dlani: Dupuytrenova kontraktura #dupuytrenova_kontraktura</option>
-<option class="article" value="funkcni_poruchy_traveni">Funkční poruchy trávení: zvracení, průjem, škytání, větry #funkcni_poruchy_traveni</option>
-<option class="article" value="iktus">Cévní mozková příhoda neboli iktus či mrtvice #iktus</option>
-<option class="article" value="imunita">Imunita: obranyschopnost organizmu #imunita</option>
-<option class="article" value="karpalni_syndrom">Noční brnění prstů ruky: karpální syndrom #karpalni_syndrom</option>
-<option class="article" value="kasel_a_typy_kasle">Kdy kašel potlačovat a kdy podporovat #kasel_a_typy_kasle</option>
-<option class="article" value="kinetoza">Nevolnost a zvracení v dopravních prostředcích #kinetoza</option>
-<option class="article" value="komplikace_vredu">Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku #komplikace_vredu</option>
-<option class="article" value="koureni_cigaret">Závislosti na kouření je snazší předejít #koureni_cigaret</option>
-<option class="article" value="krecove_zily">Křečové žíly dolních končetin neboli varixy #krecove_zily</option>
-<option class="article" value="krevni_tlak">Krevní tlak, správné měření a vyhodnocení tlaku #krevni_tlak</option>
-<option class="article" value="krvacejici_varix">Krvácení z křečové žíly dolní končetiny #krvacejici_varix</option>
-<option class="article" value="krvaceni_dasni">Příčinou krvácení dásní je nedostatek vitamínu C #krvaceni_dasni</option>
-<option class="article" value="krvaceni_z_konecniku">Krvácení z konečníku: hemoroidy nebo nádor #krvaceni_z_konecniku</option>
-<option class="article" value="kyla">Kýla: boulička v třísle, v pupku nebo jeho okolí #kyla</option>
-<option class="article" value="lecba_zanetu">Léčba zánětu podle druhu a stádia #lecba_zanetu</option>
-<option class="article" value="leceni_zlomenin">Metody léčení zlomenin #leceni_zlomenin</option>
-<option class="article" value="lekarnicka">Obsah domácí lékárničky #lekarnicka</option>
-<option class="article" value="lekove_formy">Možnosti podávání léků a lékové formy #lekove_formy</option>
-<option class="article" value="leky_proti_bolesti">Léky proti bolesti neboli analgetika #leky_proti_bolesti</option>
-<option class="article" value="lupavy_prst">Lupavý prst #lupavy_prst</option>
-<option class="article" value="lymfaticke_uzliny">Zvětšené lymfatické uzliny #lymfaticke_uzliny</option>
-<option class="article" value="mdloba_neboli_kolaps">Mdloba neboli kolaps #mdloba_neboli_kolaps</option>
-<option class="article" value="mikroorganizmy">Mikroorganizmus jako pomocník nebo nepřítel člověka #mikroorganizmy</option>
-<option class="article" value="mocove_kameny">Močové kameny a ledvinová kolika #mocove_kameny</option>
-<option class="article" value="mytus_o_rakovine">Mýtus o urychlení rakoviny operací #mytus_o_rakovine</option>
-<option class="article" value="nadmerne_dychani">Nadměrné dýchání – předýchávání #nadmerne_dychani</option>
-<option class="article" value="nalehavost_lekarskeho_vysetreni">Vyhledání lékařské péče: kdy, kde a jak naléhavě #nalehavost_lekarskeho_vysetreni</option>
-<option class="article" value="naplastovy_steh">Ošetření kožní rány náplasťovým stehem #naplastovy_steh</option>
-<option class="article" value="natazeni_natrzeni_svalu">Natažení nebo natržení svalu #natazeni_natrzeni_svalu</option>
-<option class="article" value="nezhoubne_nadory">Nezhoubné nádory a bouličky s nimi zaměňované #nezhoubne_nadory</option>
-<option class="article" value="nezhoubny_nebo_zhoubny_nador">Nezhoubný nebo zhoubný nádor: obecné srovnání #nezhoubny_nebo_zhoubny_nador</option>
-<option class="article" value="obezita_a_energie">Obezita jako nepoměr příjmu a výdeje energie #obezita_a_energie</option>
-<option class="article" value="ochlazeni_spaleniny">Ochlazení jako první pomoc při spálenině #ochlazeni_spaleniny</option>
-<option class="article" value="odhaleni_rakoviny">Včasné odhalení rakoviny tlustého střeva a konečníku #odhaleni_rakoviny</option>
-<option class="article" value="odreniny_neboli_oderky">Odřeniny – proč je nutné mechanicky vyčistit oděrku #odreniny_neboli_oderky</option>
-<option class="article" value="onemocneni_prsu">Onemocnění prsu #onemocneni_prsu</option>
-<option class="article" value="onemocneni_slach">Onemocnění šlach: zánět šlach, gangliom, tenisový loket #onemocneni_slach</option>
-<option class="article" value="otres_mozku">Otřes mozku nebo jen pohmoždění hlavy #otres_mozku</option>
-<option class="article" value="pady_z_kola">Úrazy související s pádem z kola #pady_z_kola</option>
-<option class="article" value="panaricium">Nebezpečný zánět prstu ruky – panaricium #panaricium</option>
-<option class="article" value="patni_ostruha">Bolest paty: patní ostruha #patni_ostruha</option>
-<option class="article" value="pece_o_zvukovod">Péče o zevní zvukovod #pece_o_zvukovod</option>
-<option class="article" value="penis-fimoza-obrizka">Péče o penis, hygiena chlapců, fimóza, obřízka #penis-fimoza-obrizka</option>
-<option class="article" value="pichnuti_injekce">Píchnutí injekce svépomocí #pichnuti_injekce</option>
-<option class="article" value="plisne_kuze">Plísňová onemocnění kůže #plisne_kuze</option>
-<option class="article" value="pneumotorax">Závažné poranění hrudníku a pneumotorax #pneumotorax</option>
-<option class="article" value="podvrtnuti_kotniku">Podvrtnutí kotníku #podvrtnuti_kotniku</option>
-<option class="article" value="poraneni_jedovatym_zviretem">Poranění jedovatým zvířetem #poraneni_jedovatym_zviretem</option>
-<option class="article" value="poraneni_nehtu">Poranění nehtu #poraneni_nehtu</option>
-<option class="article" value="poraneni_sleziny">Záludnost poranění sleziny u dětí #poraneni_sleziny</option>
-<option class="article" value="prisate_kliste">Nákaza přisátým klíštětem #prisate_kliste</option>
-<option class="article" value="prostata">Prostata: potíže s močením #prostata</option>
-<option class="article" value="puchyr_mozol_kuri_oko">Puchýř, mozol, kuří oko: jak správně ošetřovat #puchyr_mozol_kuri_oko</option>
-<option class="article" value="rakovina_prsu">Rakovina prsu #rakovina_prsu</option>
-<option class="article" value="rakovina_tlusteho_streva_a_konecniku">Rakovina tlustého střeva a konečníku #rakovina_tlusteho_streva_a_konecniku</option>
-<option class="article" value="resuscitace-ozivovani">Resuscitace neboli oživování #resuscitace-ozivovani</option>
-<option class="article" value="rychla_lekarska_pomoc">Rychlá lékařská pomoc #rychla_lekarska_pomoc</option>
-<option class="article" value="ryma_a_smrkani">Rýma a smrkání, komplikace rýmy #ryma_a_smrkani</option>
-<option class="article" value="skoky_do_vody">Nebezpečí skoku do vody #skoky_do_vody</option>
-<option class="article" value="slepak">Slepák: zánět červovitého přívěsku slepého střeva #slepak</option>
-<option class="article" value="spolknute_predmety">Spolknuté nebezpečné a ostré předměty #spolknute_predmety</option>
-<option class="article" value="srdecni_infarkt">Srdeční infarkt: rozpoznání infarktu #srdecni_infarkt</option>
-<option class="article" value="starecke_zlomeniny">Nejčastější stařecké zlomeniny #starecke_zlomeniny</option>
-<option class="article" value="stravovaci_navyky">Stravovací návyky a trávicí systém #stravovaci_navyky</option>
-<option class="article" value="strevni_nepruchodnost">Střevní neprůchodnost bývá komplikací jiné choroby #strevni_nepruchodnost</option>
-<option class="article" value="subduralni_hematom">Poúrazové krvácení do hlavy: chronický subdurální hematom #subduralni_hematom</option>
-<option class="article" value="telisko_v_oku">Cizí tělísko v oku #telisko_v_oku</option>
-<option class="article" value="teplota">Normální tělesná teplota, podchlazení, horečka #teplota</option>
-<option class="article" value="tesny_prstynek">Prstýnek na oteklém prstu #tesny_prstynek</option>
-<option class="article" value="tlak_zaludku">Žaludeční potíže: krátkodobý tlak žaludku #tlak_zaludku</option>
-<option class="article" value="urazy_deti">Časté úrazy malých dětí #urazy_deti</option>
-<option class="article" value="vhodna_obuv">Vhodná a nevhodná obuv #vhodna_obuv</option>
-<option class="article" value="vodni_rezim">Dodržování vodního režimu #vodni_rezim</option>
-<option class="article" value="vykoubene_rameno">Šetrná léčba vykloubeného ramene #vykoubene_rameno</option>
-<option class="article" value="zaludecni_vredy">Žaludeční a dvanáctníkový vřed #zaludecni_vredy</option>
-<option class="article" value="zanet">Kdy zánět léčit, kdy rozhánět a kdy podporovat #zanet</option>
-<option class="article" value="zanet_mocoveho_mechyre">Zánět močového měchýře žen #zanet_mocoveho_mechyre</option>
-<option class="article" value="zanet_slinivky">Prudký zánět slinivky břišní: akutní pankreatitida #zanet_slinivky</option>
-<option class="article" value="zanetlive_lozisko_nad_hyzdovou_ryhou">Zánětlivé ložisko nad hýžďovou rýhou #zanetlive_lozisko_nad_hyzdovou_ryhou</option>
-<option class="article" value="zarustajici_nehty">Zarůstající nehty na palcích dolních končetin #zarustajici_nehty</option>
-<option class="article" value="zasady_spravneho_opalovani">Zásady správného opalování #zasady_spravneho_opalovani</option>
-<option class="article" value="zlomeniny_kosti">Zlomeniny kostí #zlomeniny_kosti</option>
-<option class="article" value="zlucove_kameny">Prevence a léčba žlučových kamenů #zlucove_kameny</option>
-<option class="article" value="znamenko-bradavice-rakovina">Mateřské znaménko, bradavice nebo rakovina #znamenko-bradavice-rakovina</option>
+<option class="tag" value="stitky/bolest">bolest (65 výskytů) #bolest</option>
+<option class="tag" value="stitky/bricho">břicho (34 výskytů) #bricho</option>
+<option class="tag" value="stitky/cevy">cévy (30 výskytů) #cevy</option>
+<option class="tag" value="stitky/detske">dětské (12 výskytů) #detske</option>
+<option class="tag" value="stitky/krvaceni">krvácení (24 výskytů) #krvaceni</option>
+<option class="tag" value="stitky/kuze-podkozi">kůže-podkoží (17 výskytů) #kuze-podkozi</option>
+<option class="tag" value="stitky/latkova_vymena">látková výměna (8 výskytů) #latkova_vymena</option>
+<option class="tag" value="stitky/mikroorganizmy">mikroorganizmy (17 výskytů) #mikroorganizmy</option>
+<option class="tag" value="stitky/mozek-nervy">mozek-nervy (8 výskytů) #mozek-nervy</option>
+<option class="tag" value="stitky/nadory">nádory (18 výskytů) #nadory</option>
+<option class="tag" value="stitky/nejctenejsi">nejčtenější (9 výskytů) #nejctenejsi</option>
+<option class="tag" value="stitky/nemoc">nemoc (56 výskytů) #nemoc</option>
+<option class="tag" value="stitky/neurazove">neúrazové (25 výskytů) #neurazove</option>
+<option class="tag" value="stitky/nezhoubne">nezhoubné (8 výskytů) #nezhoubne</option>
+<option class="tag" value="stitky/organy">orgány (52 výskytů) #organy</option>
+<option class="tag" value="stitky/osetreni">ošetření (21 výskytů) #osetreni</option>
+<option class="tag" value="stitky/pohyb">pohyb (36 výskytů) #pohyb</option>
+<option class="tag" value="stitky/poraneni">poranění (35 výskytů) #poraneni</option>
+<option class="tag" value="stitky/poruchy_vedomi">poruchy vědomí (11 výskytů) #poruchy_vedomi</option>
+<option class="tag" value="stitky/prevence">prevence (41 výskytů) #prevence</option>
+<option class="tag" value="stitky/prvni_pomoc">první pomoc (15 výskytů) #prvni_pomoc</option>
+<option class="tag" value="stitky/srdce">srdce (5 výskytů) #srdce</option>
+<option class="tag" value="stitky/strava-zazivani">strava-zažívání (23 výskytů) #strava-zazivani</option>
+<option class="tag" value="stitky/teplota">teplota (19 výskytů) #teplota</option>
+<option class="tag" value="stitky/urazy">úrazy (34 výskytů) #urazy</option>
+<option class="tag" value="stitky/usni-nosni-krcni">ušní-nosní-krční (8 výskytů) #usni-nosni-krcni</option>
+<option class="tag" value="stitky/zaludek">žaludek (10 výskytů) #zaludek</option>
+<option class="tag" value="stitky/zanet">zánět (48 výskytů) #zanet</option>
+<option class="tag" value="stitky/zdravy_zivotni_styl">zdravý životní styl (16 výskytů) #zdravy_zivotni_styl</option>
+<option class="tag" value="stitky/zhoubne">zhoubné (16 výskytů) #zhoubne</option>
+<option class="tag" value="stitky/zlomeniny">zlomeniny (9 výskytů) #zlomeniny</option>
+<option class="tag" value="stitky/zvraceni">zvracení (5 výskytů) #zvraceni</option>
+<option class="article" value="clanky/akne">Boj proti akné #akne</option>
+<option class="article" value="clanky/akutni_torticollis">(Ne)závažnost strnutí šíje #akutni_torticollis</option>
+<option class="article" value="clanky/antibiotika">Proč nelze mít svá oblíbená antibiotika #antibiotika</option>
+<option class="article" value="clanky/artroza">Bolesti kloubů – jak žít s artrózou #artroza</option>
+<option class="article" value="clanky/bercovy_vred">Bércový vřed, jeho vývoj a hojení #bercovy_vred</option>
+<option class="article" value="clanky/bodne_a_strelne_poraneni">Bodné a střelné poranění a jeho závažnost #bodne_a_strelne_poraneni</option>
+<option class="article" value="clanky/bolest_hlavy_migrena">Bolest hlavy, migréna #bolest_hlavy_migrena</option>
+<option class="article" value="clanky/bolest_v_krku_angina">Bolest v krku, nachlazení, angína #bolest_v_krku_angina</option>
+<option class="article" value="clanky/bolest_zaludku">Žaludeční potíže: bolest žaludku #bolest_zaludku</option>
+<option class="article" value="clanky/bolesti_v_zadech_houser">Bolesti v zádech, houser #bolesti_v_zadech_houser</option>
+<option class="article" value="clanky/boule_nasledkem_urazu">Boule vzniklé následkem úrazu #boule_nasledkem_urazu</option>
+<option class="article" value="clanky/cert">Pohádkový čert: kterak na svět přišel #cert</option>
+<option class="article" value="clanky/cholesterol">Jak snížit hladinu cholesterolu v krvi #cholesterol</option>
+<option class="article" value="clanky/chripka">Chřipka: virové onemocnění #chripka</option>
+<option class="article" value="clanky/cukrovka">Cukrovka: jak žít s cukrovkou #cukrovka</option>
+<option class="article" value="clanky/darcovstvi_krve">Dárcovství krve, krevní plazmy a kostní dřeně #darcovstvi_krve</option>
+<option class="article" value="clanky/detske_zlomeniny">Nejčastější dětské zlomeniny a jejich zvláštnosti #detske_zlomeniny</option>
+<option class="article" value="clanky/doktor_nebo_lecitel">Doktor nebo léčitel: koho kdy vyhledat a komu věřit #doktor_nebo_lecitel</option>
+<option class="article" value="clanky/drobna_krvava_poraneni">Drobná krvavá poranění #drobna_krvava_poraneni</option>
+<option class="article" value="clanky/dupuytrenova_kontraktura">Uzly a zatvrdliny ve dlani: Dupuytrenova kontraktura #dupuytrenova_kontraktura</option>
+<option class="article" value="clanky/funkcni_poruchy_traveni">Funkční poruchy trávení: zvracení, průjem, škytání, větry #funkcni_poruchy_traveni</option>
+<option class="article" value="clanky/iktus">Cévní mozková příhoda neboli iktus či mrtvice #iktus</option>
+<option class="article" value="clanky/imunita">Imunita: obranyschopnost organizmu #imunita</option>
+<option class="article" value="clanky/karpalni_syndrom">Noční brnění prstů ruky: karpální syndrom #karpalni_syndrom</option>
+<option class="article" value="clanky/kasel_a_typy_kasle">Kdy kašel potlačovat a kdy podporovat #kasel_a_typy_kasle</option>
+<option class="article" value="clanky/kinetoza">Nevolnost a zvracení v dopravních prostředcích #kinetoza</option>
+<option class="article" value="clanky/komplikace_vredu">Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku #komplikace_vredu</option>
+<option class="article" value="clanky/koureni_cigaret">Závislosti na kouření je snazší předejít #koureni_cigaret</option>
+<option class="article" value="clanky/krecove_zily">Křečové žíly dolních končetin neboli varixy #krecove_zily</option>
+<option class="article" value="clanky/krevni_tlak">Krevní tlak, správné měření a vyhodnocení tlaku #krevni_tlak</option>
+<option class="article" value="clanky/krvacejici_varix">Krvácení z křečové žíly dolní končetiny #krvacejici_varix</option>
+<option class="article" value="clanky/krvaceni_dasni">Příčinou krvácení dásní je nedostatek vitamínu C #krvaceni_dasni</option>
+<option class="article" value="clanky/krvaceni_z_konecniku">Krvácení z konečníku: hemoroidy nebo nádor #krvaceni_z_konecniku</option>
+<option class="article" value="clanky/kyla">Kýla: boulička v třísle, v pupku nebo jeho okolí #kyla</option>
+<option class="article" value="clanky/lecba_zanetu">Léčba zánětu podle druhu a stádia #lecba_zanetu</option>
+<option class="article" value="clanky/leceni_zlomenin">Metody léčení zlomenin #leceni_zlomenin</option>
+<option class="article" value="clanky/lekarnicka">Obsah domácí lékárničky #lekarnicka</option>
+<option class="article" value="clanky/lekove_formy">Možnosti podávání léků a lékové formy #lekove_formy</option>
+<option class="article" value="clanky/leky_proti_bolesti">Léky proti bolesti neboli analgetika #leky_proti_bolesti</option>
+<option class="article" value="clanky/lupavy_prst">Lupavý prst #lupavy_prst</option>
+<option class="article" value="clanky/lymfaticke_uzliny">Zvětšené lymfatické uzliny #lymfaticke_uzliny</option>
+<option class="article" value="clanky/mdloba_neboli_kolaps">Mdloba neboli kolaps #mdloba_neboli_kolaps</option>
+<option class="article" value="clanky/mikroorganizmy">Mikroorganizmus jako pomocník nebo nepřítel člověka #mikroorganizmy</option>
+<option class="article" value="clanky/mocove_kameny">Močové kameny a ledvinová kolika #mocove_kameny</option>
+<option class="article" value="clanky/mytus_o_rakovine">Mýtus o urychlení rakoviny operací #mytus_o_rakovine</option>
+<option class="article" value="clanky/nadmerne_dychani">Nadměrné dýchání – předýchávání #nadmerne_dychani</option>
+<option class="article" value="clanky/nalehavost_lekarskeho_vysetreni">Vyhledání lékařské péče: kdy, kde a jak naléhavě #nalehavost_lekarskeho_vysetreni</option>
+<option class="article" value="clanky/naplastovy_steh">Ošetření kožní rány náplasťovým stehem #naplastovy_steh</option>
+<option class="article" value="clanky/natazeni_natrzeni_svalu">Natažení nebo natržení svalu #natazeni_natrzeni_svalu</option>
+<option class="article" value="clanky/nezhoubne_nadory">Nezhoubné nádory a bouličky s nimi zaměňované #nezhoubne_nadory</option>
+<option class="article" value="clanky/nezhoubny_nebo_zhoubny_nador">Nezhoubný nebo zhoubný nádor: obecné srovnání #nezhoubny_nebo_zhoubny_nador</option>
+<option class="article" value="clanky/obezita_a_energie">Obezita jako nepoměr příjmu a výdeje energie #obezita_a_energie</option>
+<option class="article" value="clanky/ochlazeni_spaleniny">Ochlazení jako první pomoc při spálenině #ochlazeni_spaleniny</option>
+<option class="article" value="clanky/odhaleni_rakoviny">Včasné odhalení rakoviny tlustého střeva a konečníku #odhaleni_rakoviny</option>
+<option class="article" value="clanky/odreniny_neboli_oderky">Odřeniny – proč je nutné mechanicky vyčistit oděrku #odreniny_neboli_oderky</option>
+<option class="article" value="clanky/onemocneni_prsu">Onemocnění prsu #onemocneni_prsu</option>
+<option class="article" value="clanky/onemocneni_slach">Onemocnění šlach: zánět šlach, gangliom, tenisový loket #onemocneni_slach</option>
+<option class="article" value="clanky/otres_mozku">Otřes mozku nebo jen pohmoždění hlavy #otres_mozku</option>
+<option class="article" value="clanky/pady_z_kola">Úrazy související s pádem z kola #pady_z_kola</option>
+<option class="article" value="clanky/panaricium">Nebezpečný zánět prstu ruky – panaricium #panaricium</option>
+<option class="article" value="clanky/patni_ostruha">Bolest paty: patní ostruha #patni_ostruha</option>
+<option class="article" value="clanky/pece_o_zvukovod">Péče o zevní zvukovod #pece_o_zvukovod</option>
+<option class="article" value="clanky/penis-fimoza-obrizka">Péče o penis, hygiena chlapců, fimóza, obřízka #penis-fimoza-obrizka</option>
+<option class="article" value="clanky/pichnuti_injekce">Píchnutí injekce svépomocí #pichnuti_injekce</option>
+<option class="article" value="clanky/plisne_kuze">Plísňová onemocnění kůže #plisne_kuze</option>
+<option class="article" value="clanky/pneumotorax">Závažné poranění hrudníku a pneumotorax #pneumotorax</option>
+<option class="article" value="clanky/podvrtnuti_kotniku">Podvrtnutí kotníku #podvrtnuti_kotniku</option>
+<option class="article" value="clanky/poraneni_jedovatym_zviretem">Poranění jedovatým zvířetem #poraneni_jedovatym_zviretem</option>
+<option class="article" value="clanky/poraneni_nehtu">Poranění nehtu #poraneni_nehtu</option>
+<option class="article" value="clanky/poraneni_sleziny">Záludnost poranění sleziny u dětí #poraneni_sleziny</option>
+<option class="article" value="clanky/prisate_kliste">Nákaza přisátým klíštětem #prisate_kliste</option>
+<option class="article" value="clanky/prostata">Prostata: potíže s močením #prostata</option>
+<option class="article" value="clanky/puchyr_mozol_kuri_oko">Puchýř, mozol, kuří oko: jak správně ošetřovat #puchyr_mozol_kuri_oko</option>
+<option class="article" value="clanky/rakovina_prsu">Rakovina prsu #rakovina_prsu</option>
+<option class="article" value="clanky/rakovina_tlusteho_streva_a_konecniku">Rakovina tlustého střeva a konečníku #rakovina_tlusteho_streva_a_konecniku</option>
+<option class="article" value="clanky/resuscitace-ozivovani">Resuscitace neboli oživování #resuscitace-ozivovani</option>
+<option class="article" value="clanky/rychla_lekarska_pomoc">Rychlá lékařská pomoc #rychla_lekarska_pomoc</option>
+<option class="article" value="clanky/ryma_a_smrkani">Rýma a smrkání, komplikace rýmy #ryma_a_smrkani</option>
+<option class="article" value="clanky/skoky_do_vody">Nebezpečí skoku do vody #skoky_do_vody</option>
+<option class="article" value="clanky/slepak">Slepák: zánět červovitého přívěsku slepého střeva #slepak</option>
+<option class="article" value="clanky/spolknute_predmety">Spolknuté nebezpečné a ostré předměty #spolknute_predmety</option>
+<option class="article" value="clanky/srdecni_infarkt">Srdeční infarkt: rozpoznání infarktu #srdecni_infarkt</option>
+<option class="article" value="clanky/starecke_zlomeniny">Nejčastější stařecké zlomeniny #starecke_zlomeniny</option>
+<option class="article" value="clanky/stravovaci_navyky">Stravovací návyky a trávicí systém #stravovaci_navyky</option>
+<option class="article" value="clanky/strevni_nepruchodnost">Střevní neprůchodnost bývá komplikací jiné choroby #strevni_nepruchodnost</option>
+<option class="article" value="clanky/subduralni_hematom">Poúrazové krvácení do hlavy: chronický subdurální hematom #subduralni_hematom</option>
+<option class="article" value="clanky/telisko_v_oku">Cizí tělísko v oku #telisko_v_oku</option>
+<option class="article" value="clanky/teplota">Normální tělesná teplota, podchlazení, horečka #teplota</option>
+<option class="article" value="clanky/tesny_prstynek">Prstýnek na oteklém prstu #tesny_prstynek</option>
+<option class="article" value="clanky/tlak_zaludku">Žaludeční potíže: krátkodobý tlak žaludku #tlak_zaludku</option>
+<option class="article" value="clanky/urazy_deti">Časté úrazy malých dětí #urazy_deti</option>
+<option class="article" value="clanky/vhodna_obuv">Vhodná a nevhodná obuv #vhodna_obuv</option>
+<option class="article" value="clanky/vodni_rezim">Dodržování vodního režimu #vodni_rezim</option>
+<option class="article" value="clanky/vykoubene_rameno">Šetrná léčba vykloubeného ramene #vykoubene_rameno</option>
+<option class="article" value="clanky/zaludecni_vredy">Žaludeční a dvanáctníkový vřed #zaludecni_vredy</option>
+<option class="article" value="clanky/zanet">Kdy zánět léčit, kdy rozhánět a kdy podporovat #zanet</option>
+<option class="article" value="clanky/zanet_mocoveho_mechyre">Zánět močového měchýře žen #zanet_mocoveho_mechyre</option>
+<option class="article" value="clanky/zanet_slinivky">Prudký zánět slinivky břišní: akutní pankreatitida #zanet_slinivky</option>
+<option class="article" value="clanky/zanetlive_lozisko_nad_hyzdovou_ryhou">Zánětlivé ložisko nad hýžďovou rýhou #zanetlive_lozisko_nad_hyzdovou_ryhou</option>
+<option class="article" value="clanky/zarustajici_nehty">Zarůstající nehty na palcích dolních končetin #zarustajici_nehty</option>
+<option class="article" value="clanky/zasady_spravneho_opalovani">Zásady správného opalování #zasady_spravneho_opalovani</option>
+<option class="article" value="clanky/zlomeniny_kosti">Zlomeniny kostí #zlomeniny_kosti</option>
+<option class="article" value="clanky/zlucove_kameny">Prevence a léčba žlučových kamenů #zlucove_kameny</option>
+<option class="article" value="clanky/znamenko-bradavice-rakovina">Mateřské znaménko, bradavice nebo rakovina #znamenko-bradavice-rakovina</option>
     </select><button type="submit">Vyhledat</button></li>
     </ul>
   </form>
