@@ -512,6 +512,7 @@ ol.otazky button:not(.selected):disabled {
   color: #b71c1c;
   display: flex;
   overflow: hidden;
+  align-items: center;
 }
 .important:before {
   content: "\f071";
