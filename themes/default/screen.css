@@ -473,7 +473,7 @@ ol.otazky button:last-child:before {
   content: "\f00d";
 }
 ol.otazky button {
-  border: thin solid #d8d8d8;
+  border: 0.1em solid;
   background: none;
   color: #4caf50;
 }
@@ -518,9 +518,8 @@ ol.otazky button:not(.selected):disabled {
   padding: 1em;
   background: #ffebee;
   color: #b71c1c;
-  display: flex;
   overflow: hidden;
-  align-items: center;
+  display: table;
 }
 .important:before {
   content: "\f071";
@@ -528,5 +527,7 @@ ol.otazky button:not(.selected):disabled {
   color: #ef9a9a;
   font-size: 2em;
   padding-right: 1rem;
+  display: table-cell;
+  vertical-align: middle;
 }
 /***************************/
