@@ -416,14 +416,16 @@ a.tag:not([href]):hover:before {
   .search ul input {
     width: 18em;
   }
-}
-.search ul input:focus::placeholder {
-  color: #a7a7a7;
+  .search ul input:focus {
+    width: 40em;
+  }
 }
 .search ul input:focus {
   color: inherit;
   background: #ffffff;
-  width: 40em;
+}
+.search ul input:focus::placeholder {
+  color: #a7a7a7;
 }
 .search button[type="submit"] {
   font-family: "FontAwesome";
