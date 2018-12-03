@@ -384,6 +384,7 @@ a.tag:not([href]):hover:before {
   transition: all .2s ease-in-out;
   width: 100%;
   max-width: 100%;
+  border-radius: 0;
   -webkit-appearance: none;
 }
 @media (min-width: 38em) {
