@@ -373,6 +373,9 @@ a.tag:not([href]):hover:before {
 .search .navigList .tag:before {
   content: "\f02b";
 }
+.search ul input::placeholder {
+  color: #f0f0f0;
+}
 .search ul input {
   color: white;
 }
@@ -380,11 +383,14 @@ a.tag:not([href]):hover:before {
   height: 3.5em;
   border: 0;
   width: 18em;
-  outline: none;
+  outline: none;Q
   padding: 0.5em 1em;
   background: #ffffff70;
   transition: all .2s ease-in-out;
   max-width: 100%;
+}
+.search ul input:focus::placeholder {
+  color: #a7a7a7;
 }
 .search ul input:focus {
   color: inherit;
