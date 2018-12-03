@@ -14,7 +14,7 @@ sed -i '/<data/d' $INPUTVAR_XML
 sed -i '/<option /d' $INPUTVAR_XML
 sed -i '/gen="gen"/d' $URLHANDLER_XML
 
-sed -i "s/<UrlHandler>/<UrlHandler>\n<redir gen=\"gen\" parName='s'>https:\/\/www.google.com?sitesearch=www.pralek.cz\&amp;q=\$parvalue<\/redir>/" $URLHANDLER_XML
+sed -i "s/<UrlHandler>/<UrlHandler>\n<redir gen=\"gen\" parName='s'>https:\/\/www.google.com\/search?sitesearch=www.pralek.cz\&amp;q=\$parvalue<\/redir>/" $URLHANDLER_XML
 
 currentIds="$(for f in plugins/Agregator/koutek/*.html; do f="${f##*/}"; echo "${f%.html}"; done)"
 export="$(curl 'https://docs.google.com/spreadsheets/d/18hz-SdBnXhB4CumVAEzZU5E5Rr6eUswvopMFb32QDPw/gviz/tq?tqx=out:csv&sheet=Export')"
