@@ -379,7 +379,7 @@ a.tag:not([href]):hover:before {
   width: 20em;
   outline: none;
   padding: 0.5em 1em;
-  background: #ffffff3b;
+  background: #ffffff70;
   transition: all .2s ease-in-out;
   max-width: 100%;
 }
@@ -389,7 +389,7 @@ a.tag:not([href]):hover:before {
 }
 .search button[type="submit"] {
   font-family: "FontAwesome";
-  width: 4rem;
+  width: 7rem;
   height: 3.5rem;
   line-height: 3.5rem;
   overflow: hidden;
@@ -398,10 +398,10 @@ a.tag:not([href]):hover:before {
   right: -4rem;
   top: 0;
   background: #ef6c00;
-  color: white;
+  color: #fbe9e7;
   padding: 0 1rem;
   /* border-radius: 0 1rem 1rem 0; */
-  font-size: 1.2em;
+  font-size: 2em;
   outline: none;
 }
 .search button[type="submit"]:before {
