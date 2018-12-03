@@ -89,7 +89,9 @@
               }
               list.childNodes[active].classList.add("active");
               list.childNodes[active].scrollIntoView({behavior: "instant", block: "end", inline: "nearest"});
-              Config.navig.value = list.childNodes[active].dataset.val;
+              if (!list.childNodes[active].classList.contains("google")) {
+                Config.navig.value = list.childNodes[active].dataset.val;
+              }
               e.preventDefault();
               break;
             case 40: //down
@@ -106,7 +108,9 @@
               }
               list.childNodes[active].classList.add("active");
               list.childNodes[active].scrollIntoView({behavior: "instant", block: "end", inline: "nearest"});
-              Config.navig.value = list.childNodes[active].dataset.val;
+              if (!list.childNodes[active].classList.contains("google")) {
+                Config.navig.value = list.childNodes[active].dataset.val;
+              }
               e.preventDefault();
               break;
             default:
@@ -169,6 +173,10 @@
           var qvalue = IGCMS.preg_quote(value).replace(/\\\*/g, "[^/ ]*");
           var pattern = new RegExp("(^|[^a-z0-9])(" + qvalue + ")", "gi");
           for (var i = 0; i < arr.length; i++) {
+            if (arr[i].class == "google") {
+                fs.push(arr[i]);
+                continue;
+            }
             var r = doFilter(arr[i], value, pattern);
             if (typeof r != "undefined") {
               fs.push(r);
@@ -221,8 +229,13 @@
             li.onmousedown = (function () {
               var localValue = fs[i].defaultVal;
               var navig = Config.navig;
+              if (fs[i].class == "google") {
+                localValue = false;
+              }
               return function () {
-                navig.value = localValue;
+                if (localValue !== false) {
+                  navig.value = localValue;
+                }
                 window.setTimeout(function () {
                   navig.focus();
                   closeNavig();
@@ -272,6 +285,15 @@
           class: options[j].className
         })
       }
+      files.push({
+        path: "",
+        priority: 10,
+        val: "Hledat na Google",
+        defaultVal: "Hledat na Google",
+        user: false,
+        disable: false,
+        class: "google"
+      })
       toInit.push({files: files, navig: s});
     }
 
