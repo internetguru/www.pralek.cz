@@ -13,9 +13,6 @@ div.list.multiple div > * {
   margin: 0.5em 2%;
   padding: 0.5em 1em;
 }
-div.list.multiple div > * > * {
-  box-sizing: border-box;
-}
 
 @media screen and (min-width: 22em) {
 
