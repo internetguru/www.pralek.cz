@@ -41,8 +41,8 @@
   
 
   <!-- ignore elements between h1 and div.section -->
-<!--   <xsl:template match="//*[preceding-sibling::h1 and (following-sibling::div[contains(@class, 'section')] or not(//div[contains(@class, 'section')]))]"/> -->
-<!--   <xsl:template match="p[contains(@class, 'description')][preceding-sibling::*[1][name() = 'h1']]"/> -->
+  <xsl:template match="//*[preceding-sibling::h1 and (following-sibling::div[contains(@class, 'section')] or not(//div[contains(@class, 'section')]))]"/>
+  <xsl:template match="p[contains(@class, 'description')][preceding-sibling::*[1][name() = 'h1']]"/>
   <xsl:template match="ul[contains(@class, 'docinfo')][contains(@class, 'global')]"/>
 
   <xsl:template match="node()|@*">
