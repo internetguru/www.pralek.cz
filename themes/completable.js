@@ -60,6 +60,7 @@
           }
         },
         openNavig = function () {
+          updateSize();
           if (list.classList.contains("active")) inputText(null);
           else list.classList.add("active");
         },
