@@ -426,7 +426,8 @@ a.tag:not([href]):hover:before {
 ol.otazky button {
   border: none;
   margin: 0.2em 0;
-  padding: 0.3em 0.7em;
+  padding: 0.5em 1em;
+  letter-spacing: .08929em;
   border-radius: 0.35em;
   transition: 0.1s ease-out;
   text-transform: uppercase;
@@ -458,11 +459,25 @@ ol.otazky button {
   background: none;
   color: #4caf50;
 }
+ol.otazky button:hover {
+  background-color: #e8f5e9;
+}
+ol.otazky button:active,
+ol.otazky button:focus {
+  background-color: #c8e6c9;
+}
 ol.otazky button:last-child {
   color: #f44336;
 }
+ol.otazky button:last-child:hover {
+  background-color: #ffebee;
+}
+ol.otazky button:last-child:active,
+ol.otazky button:last-child:focus {
+  background-color: #ffcdd2;
+}
 ol.otazky button:not(.selected):disabled {
-  background-color: #dadada;
+  color: #dadada;
 }
 .otazky li span {
   display: flex;
