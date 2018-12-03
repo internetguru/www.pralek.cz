@@ -87,6 +87,7 @@
                 return;
               }
               list.childNodes[active].classList.add("active");
+              list.childNodes[active].scrollIntoView({behavior: "instant", block: "end", inline: "nearest"});
               Config.navig.value = list.childNodes[active].dataset.val;
               e.preventDefault();
               break;
@@ -103,7 +104,7 @@
                 return;
               }
               list.childNodes[active].classList.add("active");
-              list.childNodes[active].scrollIntoView();
+              list.childNodes[active].scrollIntoView({behavior: "instant", block: "end", inline: "nearest"});
               Config.navig.value = list.childNodes[active].dataset.val;
               e.preventDefault();
               break;
