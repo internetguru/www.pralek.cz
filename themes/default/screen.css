@@ -438,7 +438,7 @@ button {
   padding: 0.5em 1em;
   letter-spacing: .08929em;
   border-radius: 0.35em;
-  transition: 0.1s ease-out;
+  transition: 0.25s ease-out;
   text-transform: uppercase;
   font-weight: 500;
   outline: none;
