@@ -306,19 +306,19 @@ a.tag {
   border-radius: 0.2em;
 }
 a.tag:hover:before {
-  color: #979797;
+  color: #9e9e9e;
 }
 a.tag:before {
   font-family: "FontAwesome";
   margin-right: 0.25em;
   vertical-align: middle;
   content: "\f02b";
-  color: #e4e4e4;
+  color: #e0e0e0;
   font-size: 1.25em;
   line-height: 0;
 }
 a.tag[href^="#"]:before {
-  color: #979797;
+  color: #9e9e9e;
 }
 a.tag:not([href]) {
   border: none;
