@@ -461,3 +461,19 @@ ol.otazky button:not(.selected):disabled {
   }
 }
 /***************************/
+.important {
+  max-width: 60em !important;
+  padding: 1em;
+  background: #ffebee;
+  color: #b71c1c;
+  display: flex;
+  overflow: hidden;
+}
+.important:before {
+  content: "\f071";
+  font-family: "FontAwesome";
+  color: #ef9a9a;
+  font-size: 2em;
+  padding-right: 1rem;
+}
+/***************************/
