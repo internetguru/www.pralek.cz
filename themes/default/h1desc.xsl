@@ -39,7 +39,7 @@
     </xsl:if>
   </xsl:template>
   
-  <xsl:template match="ul[contains(@class, 'docinfo')][contains(@class, 'global')]"/>
+  <xsl:template match="ul"/>
 
   <!-- ignore elements between h1 and div.section -->
   <xsl:template match="//*[preceding-sibling::h1 and (following-sibling::div[contains(@class, 'section')] or not(//div[contains(@class, 'section')]))]"/>
