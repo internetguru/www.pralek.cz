@@ -192,6 +192,7 @@ dl.figure.author dd q {
     0 0.05em 0.25em 0 rgba(0,0,0,.12);
   padding: 0;
   border-radius: 0.25em;
+  background: white;
 }
 dl.clanek > *:not(:first-child):not(.date) {
   padding: 0 1rem;
@@ -449,9 +450,16 @@ a.tag:not([href]):hover:before {
   }
 }
 /***************************/
+.pralek.hdesc {
+  margin-bottom: 0;
+}
 .pralek.hdesc + div + div > .part:first-child {
-  background: #dedede;
   padding: 0.1em 0 1em 0;
+}
+.pralek.hdesc + div,
+.pralek.hdesc + div + div > .part + .part {
+  padding: 0.1em 0 1em 0;
+  background: #eceff1;
 }
 /***************************/
 .button,
