@@ -508,7 +508,7 @@ a.tag:not([href]):hover:before {
   }
 }
 /***************************/
-.hdesc {
+.pralek.hdesc {
   margin-bottom: 0;
 }
 .pralek.hdesc + div + div > .part:first-child {
