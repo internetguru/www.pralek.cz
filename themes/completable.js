@@ -244,10 +244,7 @@
                 if (localValue !== false) {
                   navig.value = localValue;
                 }
-                window.setTimeout(function () {
-                  navig.focus();
-                  closeNavig();
-                }, 50);
+                navig.form.submit();
               }
             })();
             list.appendChild(li);
