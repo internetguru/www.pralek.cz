@@ -22,7 +22,7 @@
 
   <xsl:template match="div[contains(@class, 'hdesc')]">
     <xsl:copy-of select="."/>
-    <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
+<!--     <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/> -->
 <!--     <div id="docfooter">
       <ul>
         <li><a href="pralek/archiv">Další články lékařova koutku</a> (kompletní seznam).</li>
@@ -31,7 +31,7 @@
     </div> -->
   </xsl:template>
   
-  <xsl:template match="//ul[@class = 'docinfo nomultiple global']"/>
+<!--   <xsl:template match="//ul[@class = 'docinfo nomultiple global']"/> -->
   
   <xsl:template match="node()|@*">
     <xsl:copy>
