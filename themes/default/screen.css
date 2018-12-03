@@ -132,6 +132,15 @@ ol.contentlink-bc > li+li:before {
   z-index: 1;
   height: 100%;
 }
+.hdesc .docinfo,
+.hdesc .docinfo > * {
+  padding: 0;
+  margin: 1em 0;
+  text-align: left;
+}
+.hdesc .docinfo {
+  padding-top: 2em;
+}
 .hdesc:before,
 .hdesc:after {
   content: "";
@@ -143,7 +152,6 @@ ol.contentlink-bc > li+li:before {
 }
 .hdesc:after {
   background: #000000a6;
-  /* filter: blur(1em); */
 }
 .hdesc:before {
   background: url("/files/header.jpg") no-repeat;
@@ -357,8 +365,6 @@ a.tag:not([href]):hover:before {
   color: #e4e4e4;
 }
 .kw {
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   flex-wrap: wrap;
   max-height: 3.5em;
