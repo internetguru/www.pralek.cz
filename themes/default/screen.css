@@ -144,6 +144,9 @@ ol.contentlink-bc > li+li:before {
   display: inline;
   padding: 0;
 }
+.hdesc > div  a.tag:last-child {
+  margin-right: 0;
+}
 .hdesc > div > div > p.description {
   padding-left: 0.25em;
 }
