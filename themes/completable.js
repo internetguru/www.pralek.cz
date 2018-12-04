@@ -270,6 +270,13 @@
               }
             })();
             list.appendChild(li);
+            list.onmouseout = (function(){
+              var previousValue = textNavigValue;
+              var navig = Config.navig;
+              return function () {
+                Config.navig.value = previousValue;
+              }
+            })();
           }
         };
 
