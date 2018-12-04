@@ -127,7 +127,7 @@ ol.contentlink-bc > li+li:before {
   position: relative;
   z-index: 1;
   height: 100%;
-  max-width: 30em;
+  max-width: 33em;
   margin-left: auto;
   margin-right: auto;
 }
