@@ -240,7 +240,7 @@
             li.className = fs[i].class;
             li.dataset.path = fs[i].path;
             li.dataset.val = fs[i].defaultVal;
-            li.onmouseenter = (function () {
+            li.onover = (function () {
               var localValue = fs[i].defaultVal;
               var navig = Config.navig;
               if (fs[i].class == "google") {
@@ -257,6 +257,7 @@
             li.onmousedown = (function () {
               var localValue = fs[i].path;
               var navig = Config.navig;
+              var list = list
               if (fs[i].class == "google") {
                 localValue = false;
               }
@@ -266,6 +267,7 @@
                 } else {
                   IGCMS.Completable.clearSelection(navig);
                 }
+                list.onmouseout = null;
                 navig.form.submit();
               }
             })();
