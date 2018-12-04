@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
+  <xsl:param name="inputvar-articlemeta" select="''"/>
+
   <xsl:template match="/">
     <xsl:apply-templates/>
   </xsl:template>
@@ -18,6 +20,7 @@
             <xsl:value-of select="."/>
           </xsl:element>
         </xsl:element>
+        <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlemeta"/>
         <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
         <!--<xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>-->
       </xsl:element>

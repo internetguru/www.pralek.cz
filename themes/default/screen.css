@@ -1,4 +1,4 @@
-@charset "UTF-8";
+rset "UTF-8";
 /***************************/
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -121,26 +121,13 @@ ol.contentlink-bc > li+li:before {
 .hdesc a {
   color: white;
 }
-.hdesc h1,
-.hdesc h1 + p,
-.hdesc .kw {
+.hdesc > div > * {
   text-align: center;
   padding: 0;
-  max-width: 48rem;
-}
-.hdesc > * {
+  max-width: 30em;
   position: relative;
   z-index: 1;
   height: 100%;
-}
-.hdesc .docinfo,
-.hdesc .docinfo > * {
-  padding: 0;
-  margin: 1em auto;
-  text-align: left;
-}
-.hdesc .docinfo {
-  padding-top: 2em;
 }
 .hdesc:before,
 .hdesc:after {
@@ -596,3 +583,4 @@ ol.otazky button:not(.selected):disabled {
   vertical-align: middle;
 }
 /***************************/
+
