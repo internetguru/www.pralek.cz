@@ -459,17 +459,8 @@ a.tag:not([href]):hover:before {
   color: inherit;
   background: #ffffff;
 }
-.search ul input:focus::-webkit-input-placeholder {
-  color: #a7a7a7;
-}
-.search ul input:focus::-moz-placeholder {
-  color: #a7a7a7;
-}
-.search ul input:focus:-ms-input-placeholder {
-  color: #a7a7a7;
-}
 .search ul input:focus::placeholder {
-  color: #a7a7a7;
+  color: #eee;
 }
 .search button[type="submit"] {
   font-family: "FontAwesome";
