@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinkList>
-  <var id="heading" modifyonly="modifyonly">Související články</var>
+  <var id="template">long</var>
+  <item id="long" modifyonly="modifyonly">
+    <dl class="clanek">
+      <dt><a title="Autor: %s" var="link@href author@title"><img var="og-image@src heading@alt"/></a></dt>
+      <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
+      <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
+      <dt class="heading"><a title="Autor: %s" var="link@href author@title heading">n/a</a></dt>
+      <dd class="desc" var="desc">n/a</dd>
+      <dd class="extra"><a var="link@href" class="button">Přečíst</a></dd>
+    </dl>
+  </item>
 </LinkList>
