@@ -292,6 +292,7 @@ a.tag:before,
 .clanek dd.kw {
   margin: 0.75em 0;
   order: 0;
+  justify-content: flex-start;
 }
 .clanek .heading {
   font-size: 1.5em;
