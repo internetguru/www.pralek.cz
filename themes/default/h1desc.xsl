@@ -20,7 +20,9 @@
             <xsl:value-of select="."/>
           </xsl:element>
         </xsl:element>
-        <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlemeta"/>
+        <xsl:if test="/body[contains(@class, 'agregator')]">
+          <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlemeta"/>
+        </xsl:if>
         <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
         <!--<xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>-->
       </xsl:element>
@@ -33,11 +35,9 @@
   <xsl:template name="topdiv">
     <xsl:param name="pos" select="1"/>
     <xsl:if test="following-sibling::*[$pos][not(contains(@class, 'section'))]">
-      <!--
-      <xsl:if test="following-sibling::*[$pos][not(contains(@class, 'description'))][not(contains(@class, 'docinfo'))]">
+      <xsl:if test="following-sibling::*[$pos][not(contains(@class, 'description'))]">
         <xsl:copy-of select="following-sibling::*[$pos]"/>
       </xsl:if>
-      -->
       <xsl:call-template name="topdiv">
         <xsl:with-param name="pos" select="$pos+1"/>
       </xsl:call-template>
