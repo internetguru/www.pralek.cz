@@ -6,6 +6,7 @@ body {
 }
 .wf-active body {
   font-family: Cabin, sans-serif;
+  color: #444;
 }
 /***************************/
 strong {
