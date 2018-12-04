@@ -127,6 +127,17 @@
           var fs = filter(Config.files, value);
           update(fs);
         },
+        clearSelection = function (navig) {
+          if (navig.getSelection) {
+            if (navig.getSelection().empty) {
+              navig.getSelection().empty();
+            } else if (navig.getSelection().removeAllRanges) {
+              navig.getSelection().removeAllRanges();
+            }
+          } else if (document.selection) {
+            document.selection.empty();
+          }
+        },
         createSelection = function (navig, start, end) {
           if (navig.createTextRange) {
             var selRange = navig.createTextRange();
@@ -177,8 +188,8 @@
           }
           for (var i = 0; i < arr.length; i++) {
             if (arr[i].class == "google") {
-                fs.push(arr[i]);
-                continue;
+              fs.push(arr[i]);
+              continue;
             }
             var r = doFilter(arr[i], value, pattern);
             if (typeof r != "undefined") {
@@ -234,10 +245,17 @@
             li.className = fs[i].class;
             li.dataset.path = fs[i].path;
             li.dataset.val = fs[i].defaultVal;
+            li.hover = (function () {
+              var navig = Config.navig;
+              return function () {
+                // TODO
+              }
+            })()
             li.onmousedown = (function () {
               var localValue = fs[i].path;
               var navig = Config.navig;
               if (fs[i].class == "google") {
+                IGCMS.completable.clearSelection(navig)
                 localValue = false;
               }
               return function () {
@@ -264,7 +282,8 @@
         openNavig: function () {
           Config.navig.focus();
           inputText(null);
-        }
+        },
+        clearSelection: clearSelection
       }
     };
 
