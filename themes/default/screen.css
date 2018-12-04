@@ -134,6 +134,9 @@ ol.contentlink-bc > li+li:before {
 .hdesc > div > h1 {
   max-width: 15em;
 }
+.hdesc > div > h1 + div {
+  margin-bottom: 3em;
+}
 .hdesc > div > div > * {
   display: inline;
   padding: 0;
