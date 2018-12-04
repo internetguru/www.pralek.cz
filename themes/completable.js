@@ -91,8 +91,6 @@
               list.childNodes[active].scrollIntoView({behavior: "instant", block: "end", inline: "nearest"});
               if (!list.childNodes[active].classList.contains("google")) {
                 Config.navig.value = list.childNodes[active].dataset.val;
-              } else {
-                Config.navig.value = textNavigValue
               }
               e.preventDefault();
               break;
@@ -112,8 +110,6 @@
               list.childNodes[active].scrollIntoView({behavior: "instant", block: "end", inline: "nearest"});
               if (!list.childNodes[active].classList.contains("google")) {
                 Config.navig.value = list.childNodes[active].dataset.val;
-              } else {
-                Config.navig.value = textNavigValue
               }
               e.preventDefault();
               break;
@@ -130,12 +126,6 @@
           textNavigValue = value;
           var fs = filter(Config.files, value);
           update(fs);
-        },
-        clearSelection = function (navig) {
-          if (!navig.selectionStart) {
-            return;
-          }
-          navig.value = navig.value.substring(0, navig.selectionStart);
         },
         createSelection = function (navig, start, end) {
           if (navig.createTextRange) {
@@ -187,8 +177,8 @@
           }
           for (var i = 0; i < arr.length; i++) {
             if (arr[i].class == "google") {
-              fs.push(arr[i]);
-              continue;
+                fs.push(arr[i]);
+                continue;
             }
             var r = doFilter(arr[i], value, pattern);
             if (typeof r != "undefined") {
@@ -230,7 +220,12 @@
         update = function (fs) {
           var first = true;
           for (var i = 0; i < fs.length; i++) {
-            if (first && Config.navig.value.length && key !== 8 && fs[i].defaultVal.toLowerCase().indexOf(Config.navig.value.toLowerCase()) == 0) { // 8 is backspace
+            if (first 
+              && Config.navig.value.length 
+              && key !== 8 
+              && fs[i].defaultVal.toLowerCase().indexOf(Config.navig.value.toLowerCase()) == 0
+              && fs[i].class != "google"
+              ) { // 8 is backspace
               var start = Config.navig.value.length;
               var end = fs[i].defaultVal.length;
               Config.navig.value = fs[i].defaultVal;
@@ -244,7 +239,7 @@
             li.className = fs[i].class;
             li.dataset.path = fs[i].path;
             li.dataset.val = fs[i].defaultVal;
-            li.onmouseover = (function () {
+            li.onmousedown = (function () {
               var localValue = fs[i].defaultVal;
               var navig = Config.navig;
               if (fs[i].class == "google") {
@@ -253,36 +248,14 @@
               return function () {
                 if (localValue !== false) {
                   navig.value = localValue;
-                } else {
-                  IGCMS.Completable.clearSelection(navig);
                 }
-              }
-            })();
-            li.onmousedown = (function () {
-              var localValue = fs[i].path;
-              var navig = Config.navig;
-              var localList = list
-              if (fs[i].class == "google") {
-                localValue = false;
-              }
-              return function () {
-                if (localValue !== false) {
-                  navig.value = localValue;
-                } else {
-                  IGCMS.Completable.clearSelection(navig);
-                }
-                localList.onmouseout = null;
-                navig.form.submit();
+                window.setTimeout(function () {
+                  navig.focus();
+                  closeNavig();
+                }, 50);
               }
             })();
             list.appendChild(li);
-            list.onmouseout = (function(){
-              var previousValue = textNavigValue;
-              var navig = Config.navig;
-              return function () {
-                Config.navig.value = previousValue;
-              }
-            })();
           }
         };
 
@@ -299,8 +272,7 @@
         openNavig: function () {
           Config.navig.focus();
           inputText(null);
-        },
-        clearSelection: clearSelection
+        }
       }
     };
 
