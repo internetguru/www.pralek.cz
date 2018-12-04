@@ -240,7 +240,7 @@
             li.className = fs[i].class;
             li.dataset.path = fs[i].path;
             li.dataset.val = fs[i].defaultVal;
-            li.onmouseover = (function () {
+            li.onmouseenter = (function () {
               var localValue = fs[i].defaultVal;
               var navig = Config.navig;
               if (fs[i].class == "google") {
@@ -253,7 +253,7 @@
                   IGCMS.Completable.clearSelection(navig);
                 }
               }
-            })()
+            })();
             li.onmousedown = (function () {
               var localValue = fs[i].path;
               var navig = Config.navig;
