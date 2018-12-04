@@ -19,6 +19,14 @@
       <xsl:apply-templates/>
     </div></div>
   </xsl:template> -->
+  
+  <xsl:template match="h2[contains(@id, 'otazky')]">
+    <ul class="docinfo nomultiple global">
+    <xsl:template match="//ul[@class = 'docinfo nomultiple global'] li[not(contains(@class, 'kw')]"/>
+    </ul>
+  </xsl:template>
+  
+  <xsl:template match="//ul[@class = 'docinfo nomultiple global'] li[not(contains(@class, 'kw')]"/>
 
   <xsl:template match="div[contains(@class, 'hdesc')]">
     <xsl:copy-of select="."/>
