@@ -19,7 +19,7 @@
           </xsl:element>
         </xsl:element>
         <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
-        <xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>
+        <!--<xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>-->
       </xsl:element>
     </xsl:element>
     <xsl:element name="div">
@@ -30,9 +30,11 @@
   <xsl:template name="topdiv">
     <xsl:param name="pos" select="1"/>
     <xsl:if test="following-sibling::*[$pos][not(contains(@class, 'section'))]">
+      <!--
       <xsl:if test="following-sibling::*[$pos][not(contains(@class, 'description'))][not(contains(@class, 'docinfo'))]">
         <xsl:copy-of select="following-sibling::*[$pos]"/>
       </xsl:if>
+      -->
       <xsl:call-template name="topdiv">
         <xsl:with-param name="pos" select="$pos+1"/>
       </xsl:call-template>
@@ -43,7 +45,7 @@
   <!-- ignore elements between h1 and div.section -->
   <xsl:template match="//*[preceding-sibling::h1 and (following-sibling::div[contains(@class, 'section')] or not(//div[contains(@class, 'section')]))]"/>
   <xsl:template match="p[contains(@class, 'description')][preceding-sibling::*[1][name() = 'h1']]"/>
-  <xsl:template match="ul[contains(@class, 'docinfo')][contains(@class, 'global')]"/>
+  <!--<xsl:template match="ul[contains(@class, 'docinfo')][contains(@class, 'global')]"/>-->
 
   <xsl:template match="node()|@*">
     <xsl:copy>

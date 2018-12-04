@@ -91,6 +91,8 @@
               list.childNodes[active].scrollIntoView({behavior: "instant", block: "end", inline: "nearest"});
               if (!list.childNodes[active].classList.contains("google")) {
                 Config.navig.value = list.childNodes[active].dataset.val;
+              } else {
+                Config.navig.value = textNavigValue
               }
               e.preventDefault();
               break;
@@ -110,6 +112,8 @@
               list.childNodes[active].scrollIntoView({behavior: "instant", block: "end", inline: "nearest"});
               if (!list.childNodes[active].classList.contains("google")) {
                 Config.navig.value = list.childNodes[active].dataset.val;
+              } else {
+                Config.navig.value = textNavigValue
               }
               e.preventDefault();
               break;
@@ -240,7 +244,7 @@
             li.className = fs[i].class;
             li.dataset.path = fs[i].path;
             li.dataset.val = fs[i].defaultVal;
-            li.onover = (function () {
+            li.onmouseover = (function () {
               var localValue = fs[i].defaultVal;
               var navig = Config.navig;
               if (fs[i].class == "google") {
@@ -257,7 +261,7 @@
             li.onmousedown = (function () {
               var localValue = fs[i].path;
               var navig = Config.navig;
-              var list = list
+              var localList = list
               if (fs[i].class == "google") {
                 localValue = false;
               }
@@ -267,7 +271,7 @@
                 } else {
                   IGCMS.Completable.clearSelection(navig);
                 }
-                list.onmouseout = null;
+                localList.onmouseout = null;
                 navig.form.submit();
               }
             })();
