@@ -124,10 +124,20 @@ ol.contentlink-bc > li+li:before {
 .hdesc > div > * {
   text-align: center;
   padding: 0;
-  max-width: 30em;
   position: relative;
   z-index: 1;
   height: 100%;
+  max-width: 30em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hdesc > div > h1 {
+  max-width: 15em;
+}
+.hdesc > div > div > * {
+  display: inline;
+  padding: 0;
+  padding-left: 0.25em;
 }
 .hdesc:before,
 .hdesc:after {
