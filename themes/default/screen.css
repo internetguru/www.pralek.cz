@@ -2,10 +2,10 @@ rset "UTF-8";
 /***************************/
 body {
   font-family: Arial, Helvetica, sans-serif;
+  color: #555;
 }
 .wf-active body {
   font-family: Cabin, sans-serif;
-  color: #444;
 }
 /***************************/
 strong {
@@ -128,7 +128,8 @@ ol.contentlink-bc > li+li:before {
   z-index: 1;
   height: 100%;
   max-width: 30em;
-  margin-left: auto;
+  text-align: left;
+  margin-left: 0;
   margin-right: auto;
 }
 .hdesc > div > h1 {
