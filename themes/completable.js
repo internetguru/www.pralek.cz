@@ -230,7 +230,12 @@
         update = function (fs) {
           var first = true;
           for (var i = 0; i < fs.length; i++) {
-            if (first && Config.navig.value.length && key !== 8 && fs[i].defaultVal.toLowerCase().indexOf(Config.navig.value.toLowerCase()) == 0) { // 8 is backspace
+            if (first 
+              && Config.navig.value.length
+              && key !== 8
+              && fs[i].defaultVal.toLowerCase().indexOf(Config.navig.value.toLowerCase()) == 0
+              && fs[i].class != "google"
+              ) { // 8 is backspace
               var start = Config.navig.value.length;
               var end = fs[i].defaultVal.length;
               Config.navig.value = fs[i].defaultVal;
