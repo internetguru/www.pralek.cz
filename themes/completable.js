@@ -127,16 +127,11 @@
           var fs = filter(Config.files, value);
           update(fs);
         },
-        clearSelection = function () {
-          if (window.getSelection) {
-            if (window.getSelection().empty) {
-              window.getSelection().empty();
-            } else if (window.getSelection().removeAllRanges) {
-              window.getSelection().removeAllRanges();
-            }
-          } else if (document.selection) {
-            document.selection.empty();
+        clearSelection = function (navig) {
+          if (!navig.selectionStart) {
+            return;
           }
+          navig.value = navig.value.substring(0, navig.selectionStart);
         },
         createSelection = function (navig, start, end) {
           if (navig.createTextRange) {
@@ -261,7 +256,7 @@
                 if (localValue !== false) {
                   navig.value = localValue;
                 } else {
-                  IGCMS.Completable.clearSelection();
+                  IGCMS.Completable.clearSelection(navig);
                 }
                 navig.form.submit();
               }
