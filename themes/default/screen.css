@@ -141,6 +141,7 @@ ol.contentlink-bc > li+li:before {
   font-size: 1.15em;
 }
 .hdesc > div > div > * {
+  line-height: 1;
   display: inline;
   padding: 0;
 }
