@@ -2,10 +2,11 @@ rset "UTF-8";
 /***************************/
 body {
   font-family: Arial, Helvetica, sans-serif;
-  color: #555;
+  color: #444;
 }
 .wf-active body {
   font-family: Cabin, sans-serif;
+  color: #444;
 }
 /***************************/
 strong {
