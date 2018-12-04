@@ -255,12 +255,13 @@
               var localValue = fs[i].path;
               var navig = Config.navig;
               if (fs[i].class == "google") {
-                IGCMS.completable.clearSelection(navig)
                 localValue = false;
               }
               return function () {
                 if (localValue !== false) {
                   navig.value = localValue;
+                } else {
+                  IGCMS.Completable.clearSelection(navig);
                 }
                 navig.form.submit();
               }
