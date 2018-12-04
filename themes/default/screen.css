@@ -101,9 +101,8 @@ ol.contentlink-bc > li+li:before {
     margin-top: 3.5em;
   }
   #header > div {
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
+    flex-wrap: nowrap;
     z-index: 11;
     justify-content: space-between;
     padding: 0 0 0 1em;
