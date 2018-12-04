@@ -20,10 +20,12 @@
             <xsl:value-of select="."/>
           </xsl:element>
         </xsl:element>
-        <xsl:if test="/body[contains(@class, 'agregator')]">
-          <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlemeta"/>
-        </xsl:if>
-        <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
+        <div>
+          <xsl:if test="/body[contains(@class, 'agregator')]">
+            <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlemeta"/>
+          </xsl:if>
+          <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
+        </div>
         <!--<xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>-->
       </xsl:element>
     </xsl:element>
