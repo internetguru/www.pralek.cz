@@ -139,6 +139,9 @@ ol.contentlink-bc > li+li:before {
   padding: 0;
   padding-left: 0.25em;
 }
+.hdesc > div > div > div > span + span a:last-child {
+  margin-right: 0;
+}
 .hdesc:before,
 .hdesc:after {
   content: "";
