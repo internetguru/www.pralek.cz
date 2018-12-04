@@ -137,6 +137,7 @@ ol.contentlink-bc > li+li:before {
 }
 .hdesc > div > h1 + div {
   margin-bottom: 3em;
+  font-size: 1.15em;
 }
 .hdesc > div > div > * {
   display: inline;
