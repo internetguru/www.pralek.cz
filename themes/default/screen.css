@@ -417,9 +417,6 @@ a.tag:not([href]):hover:before {
 .search .navigList span {
   color: #9e9e9e;
 }
-.search ul input::placeholder {
-  color: #eee;
-}
 .search ul input {
   color: white;
 }
@@ -450,8 +447,11 @@ a.tag:not([href]):hover:before {
   color: inherit;
   background: #ffffff;
 }
+.search ul input::placeholder {
+  color: #fff;
+}
 .search ul input:focus::placeholder {
-  color: #eee;
+  color: #555;
 }
 .search button[type="submit"] {
   font-family: "FontAwesome";
