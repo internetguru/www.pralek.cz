@@ -128,13 +128,13 @@ ol.contentlink-bc > li+li:before {
   position: relative;
   z-index: 1;
   height: 100%;
-  max-width: 30em;
-  text-align: left;
-  margin-left: 0;
+  max-width: 33em;
+  /* text-align: left; */
+  margin-left: auto;
   margin-right: auto;
 }
 .hdesc > div > h1 {
-  max-width: 15em;
+  max-width: 17em;
 }
 .hdesc > div > h1 + div {
   margin-bottom: 3em;
