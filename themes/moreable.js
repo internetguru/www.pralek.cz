@@ -55,7 +55,7 @@
             }
         }
     }
-    var parents = document.querySelectorAll(".moreable")
+    var parents = document.querySelectorAll(".part:last-child > .list.multiple:last-child > div")
     for (var i = 0; i < parents.length; i++) {
         var step = parents[i].getAttribute("data-moreable-step")
         var limit = parents[i].getAttribute("data-moreable-limit")
