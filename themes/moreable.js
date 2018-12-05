@@ -22,7 +22,7 @@
                 hiddenItems.shift().style.display = ""
             }
             if (hiddenItems.length == 0) {
-                parent.removeChild(event.target)
+                parent.removeChild(event.target.parentNode)
             }
         },
         initStructure = function () {
