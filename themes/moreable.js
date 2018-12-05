@@ -3,7 +3,7 @@
     var Config = {}
     Config.defaultStep = 6
     Config.defaultLimit = 4
-    Config.defaultMoreText = "More"
+    Config.defaultMoreText = "Další články"
 
     function Moreable () {
 
