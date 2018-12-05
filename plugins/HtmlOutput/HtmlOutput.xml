@@ -3,6 +3,7 @@
   <jsFile append="body">themes/otazky.js</jsFile>
   <jsFile append="body">themes/expand.js</jsFile>
   <jsFile append="body">themes/moreable.js</jsFile>
+  <jsFile append="body">themes/moreableinit.js</jsFile>
   <jsFile append="body" if-xpath="/body[contains(@class, 'agregator')]">themes/article-bg.js</jsFile>
   <stylesheet>lib/font-awesome/css/font-awesome.css</stylesheet>
   <stylesheet>themes/iefix.css</stylesheet>
@@ -16,7 +17,6 @@ Disallow:</robots>
   
   <xslt>themes/default/h1desc.xsl</xslt>
   <xslt>themes/pralek.xsl</xslt>
-  <xslt>themes/moreable.xsl</xslt>
   <xslt>themes/delna.xsl</xslt>
   <xslt>themes/default/part.xsl</xslt>
 </HtmlOutput>
