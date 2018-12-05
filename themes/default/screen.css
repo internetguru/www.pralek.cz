@@ -58,7 +58,7 @@ h1 + p {
 }
 #header .contentlink-bc {
   color: white;
-  padding: 0 1.2em;
+  padding: 0 1.25em;
   flex-shrink: 0;
 }
 #header .contentlink-bc li {
@@ -479,6 +479,17 @@ a.tag:not([href]):hover:before {
 .search ul input:focus {
   color: inherit;
   background: #ffffff;
+}
+@media (max-width: 38em) {
+  .search ul input:focus {
+    position: absolute;
+    xleft: -5em;
+    xtop: 0;
+    max-width: calc(100% + 5em);
+    width: calc(100% + 5em);
+    border-radius: 0;
+    border-left: none;
+  }
 }
 .search ul input::placeholder {
   color: #fff;
