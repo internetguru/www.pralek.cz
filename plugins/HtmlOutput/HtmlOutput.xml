@@ -7,7 +7,7 @@
   <stylesheet>lib/font-awesome/css/font-awesome.css</stylesheet>
   <stylesheet>themes/iefix.css</stylesheet>
   
-  <favicon>themes/pralek.ico</favicon>
+  <favicon>themes/icon/Lovoo_Icon_Heart.ico</favicon>
   <var id="robots" modifyonly="modifyonly">noindex,nofollow</var>
   <robots domain="*.pralek.cz" meta="noindex, nofollow">User-agent: *
 Disallow: /</robots>
