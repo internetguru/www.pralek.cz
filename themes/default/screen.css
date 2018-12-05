@@ -515,6 +515,7 @@ a.tag:not([href]):hover:before {
   background: #eceff1;
 }
 /***************************/
+.moreable-linkwrapper a,
 .button,
 button {
   border: none;
@@ -528,6 +529,7 @@ button {
   max-width: 15em;
   /* box-shadow: 0 0.1em 0.1em 0 rgba(0,0,0,0.14),     0 0.15em 0.05em -0.1em rgba(0,0,0,0.12),     0 0.05em 0.25em 0 rgba(0,0,0,0.2); */
 }
+.moreable-linkwrapper a,
 .button:hover,
 button:hover {
   /*
@@ -548,6 +550,7 @@ ol.otazky button:last-child:before {
   content: "\f00d";
 }
 ol.otazky button {
+  cursor: pointer;
   border: 0.1em solid;
   background: none;
   color: #4caf50;
@@ -606,4 +609,17 @@ ol.otazky button:not(.selected):disabled {
   vertical-align: middle;
 }
 /***************************/
-
+.moreable-linkwrapper {
+  width: 100%;
+  max-width: 100% !important;
+  flex: 0 0 100% !important;
+  text-align: center;
+}
+.moreable-linkwrapper a {
+  display: inline-block;
+  margin: 0 auto !important;
+  width: auto;
+  border: 0.1em solid;
+  cursor: pointer;
+}
+/***************************/
