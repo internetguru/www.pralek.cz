@@ -483,8 +483,6 @@ a.tag:not([href]):hover:before {
 @media (max-width: 38em) {
   .search ul input:focus {
     position: absolute;
-    xleft: -5em;
-    xtop: 0;
     max-width: calc(100% + 5em);
     width: calc(100% + 5em);
     border-radius: 0;
@@ -524,7 +522,7 @@ a.tag:not([href]):hover:before {
   padding: 0;
   list-style: none;
 }
-.search ul li {
+.search ul > li {
   margin: 0;
   position: relative;
   display: flex;
@@ -532,10 +530,14 @@ a.tag:not([href]):hover:before {
 }
 @media (max-width: 38em) {
   .search .navigList {
-    width: calc(100% + 6em) !important;    
+    width: calc(100% + 11em) !important;
+    right: -6em;
+    top: 3.5em;
+    display: block;
   }
   .search .navigList li {
     max-width: calc(100% - 0.5em);
+    display: block;
   }
 }
 /***************************/
