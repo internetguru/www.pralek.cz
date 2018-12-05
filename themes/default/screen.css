@@ -1,4 +1,4 @@
-@charset "UTF-8";
+rset "UTF-8";
 /***************************/
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -64,7 +64,7 @@ ol.contentlink-bc {
   border-color: #ececec;
 }
 #header .contentlink-bc li:first-child a:not([href]) {
-  font-size: 1.2em;
+  /* font-size: 1.2em; */
 }
 ol.contentlink-bc > li+li:before {
   color: #e6e6e6;
@@ -107,7 +107,7 @@ ol.contentlink-bc > li+li:before {
     z-index: 11;
     justify-content: space-between;
     padding: 0 0 0 1em;
-    align-items: center;
+    align-items: : center;
   }
   #header > div > * {
     width: auto;
@@ -134,7 +134,7 @@ ol.contentlink-bc > li+li:before {
   margin-right: auto;
 }
 .hdesc > div > h1 {
-  max-width: 17em;
+  max-width: 15em;
 }
 .hdesc > div > h1 + div {
   margin-bottom: 3em;
@@ -434,10 +434,11 @@ a.tag:not([href]):hover:before {
   border: 0;
   outline: none;
   padding: 0.5em 1em;
-  background: #ffffff70;
+  background: #ffffff52;
   transition: all .2s ease-in-out;
   width: 100%;
   max-width: 100%;
+  /* border: thin solid #ffffff61; */
   border-radius: 0;
   -webkit-appearance: none;
 }
@@ -447,6 +448,9 @@ a.tag:not([href]):hover:before {
   }
   .search ul input {
     width: 18em;
+    border-radius: 0 0 0 0.25em;
+    border: thin solid #ffaf6e9e;
+    border-top: none;
   }
   .search ul input:focus {
     width: 40em;
