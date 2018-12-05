@@ -107,7 +107,7 @@ ol.contentlink-bc > li+li:before {
     z-index: 11;
     justify-content: space-between;
     padding: 0 0 0 1em;
-    align-items: : center;
+    align-items: center;
   }
   #header > div > * {
     width: auto;
