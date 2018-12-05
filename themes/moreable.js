@@ -2,7 +2,7 @@
 
     var Config = {}
     Config.defaultStep = 6
-    Config.defaultLimit = 3
+    Config.defaultLimit = 4
     Config.defaultMoreText = "More"
 
     function Moreable () {
@@ -55,7 +55,7 @@
             }
         }
     }
-    var parents = document.querySelectorAll(".list.multiple > div")
+    var parents = document.querySelectorAll(".moreable")
     for (var i = 0; i < parents.length; i++) {
         var step = parents[i].getAttribute("data-moreable-step")
         var limit = parents[i].getAttribute("data-moreable-limit")
