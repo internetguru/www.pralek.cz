@@ -64,9 +64,12 @@ h1 + p {
   padding: 0 1.25em;
   flex-shrink: 0;
 }
-#header .contentlink-bc li {
+#header .contentlink-bc li a {
   display: flex;
   align-items: center;
+}
+#header .contentlink-bc li a[href] span {
+  border-bottom: thin solid #ffffff99;
 }
 #header .contentlink-bc li ~ li {
   display: none;
