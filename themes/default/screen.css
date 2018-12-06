@@ -67,9 +67,10 @@ h1 + p {
 #header .contentlink-bc li a {
   display: flex;
   align-items: center;
+  margin-top: 0.6em;
 }
 #header .contentlink-bc li a[href] span {
-  border-bottom: thin solid #ffffff99;
+  border-color: #ffffff99;
 }
 #header .contentlink-bc li ~ li {
   display: none;
@@ -80,11 +81,13 @@ h1 + p {
 }
 #header .contentlink-bc img {
   width: 2.5em;
-  margin-top: 0.6em;
+  /* margin-top: 0.6em; */
 }
 #header .contentlink-bc span {
   display: none;
   margin-left: 0.8em;
+  border-bottom: thin solid transparent;
+  margin-bottom: 0.1em;
 }
 .hdesc {
   color: white;
