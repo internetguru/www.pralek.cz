@@ -2,9 +2,13 @@
 /***************************/
 h1,h2,h3,h4,h5,h6,p,ul,ol,dl,
 div.paragraph, div.list, pre {
-  margin: 1em auto;
+  margin: 1.5em auto 1em;
   padding-left: 1rem;
   padding-right: 1rem;
+}
+li {
+  margin-bottom: 0.3em;
+  max-width: 45em;
 }
 #content > :not(.hdesc):not(.section) > *, #content > .hdesc > *, #content > .section > .part > *, #header > *, #footer > * {
   max-width: 62rem;
