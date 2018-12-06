@@ -65,9 +65,12 @@ h1 + p {
   display: flex;
   align-items: center;
 }
+#header .contentlink-bc li ~ li {
+  display: none;
+}
 #header .contentlink-bc a {
   color: white;
-  border-color: #ececec;
+  border: none;
 }
 #header .contentlink-bc img {
   width: 2.5em;
