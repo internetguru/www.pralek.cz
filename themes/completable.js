@@ -54,7 +54,7 @@
           Config.navig.addEventListener("keydown", processKey, false);
         },
         fillVal = function (event) {
-          if (!open && Config.textNavigValue == "") {
+          if (!open && Config.navig.value == "") {
             openNavig();
             event.preventDefault();
             return false;
