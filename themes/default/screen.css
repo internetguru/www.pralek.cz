@@ -95,8 +95,11 @@ h1 + p {
   padding: 0 1em;
 }
 .hdesc h1 {
-  margin-top: 1em;
+  margin-top: 3em;
   margin-bottom: 2em;
+}
+.hdesc div + h1 {
+  margin-top: 1em;
 }
 #header > div {
   display: flex;
