@@ -679,3 +679,14 @@ ol.otazky button:not(.selected):disabled {
   background: #c5cae9;
 }
 /***************************/
+
+
+a#scrolltop {
+  transition-property: all !important;
+  /* transition-duration: 0.5s !important; */
+  transition-timing-function: ease-in-out !important;
+  background: #ef6c009e !important;
+}
+a#scrolltop:hover {
+  background: #ef6c00d6 !important;
+}
