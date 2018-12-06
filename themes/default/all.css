@@ -11,10 +11,13 @@ li {
   max-width: 45em;
 }
 #content > :not(.hdesc):not(.section) > *, #content > .hdesc > *, #content > .section > .part > *, #header > *, #footer > * {
-  max-width: 62rem;
+  max-width: 55rem;
   margin-left: auto;
   margin-right: auto;
   box-sizing: border-box;
+}
+#content p.description {
+  max-width: 45em;
 }
 /***************************/
 #content strong  {
@@ -51,7 +54,7 @@ dl.figure.author dt img {
   border-radius: 100%;
 }
 dl.figure dd {
-  padding-top: 0.5em;
+  padding-top: 1.5em;
   margin: 0;
 }
 /***************************/
