@@ -57,7 +57,9 @@
           if (!open && Config.navig.value == "") {
             Config.navig.focus();
             openNavig();
-            openNavig();
+            window.setTimeout(function() {
+              openNavig();
+            }, 200);
             event.preventDefault();
             return false;
           }
@@ -82,6 +84,10 @@
         processKey = function (e) {
           switch (e.keyCode) {
             case 27: //esc
+              if (!open) {
+                Config.navig.blur();
+                break;
+              }
               Config.navig.value = textNavigValue;
               closeNavig();
               break;
