@@ -33,7 +33,7 @@ h1, h2, h3 {
   font-family: Rubik, sans-serif;
 }
 h1 {
-  font-size: 3em;
+  font-size: 2.5em;
 }
 h2 {
   font-size: 2em;
@@ -74,18 +74,13 @@ h1 + p {
 }
 #header .contentlink-bc img {
   width: 2.5em;
-  /* margin-right: 0.8em; */
   margin-top: 0.6em;
 }
 #header .contentlink-bc span {
   display: none;
   margin-left: 0.8em;
 }
-ol.contentlink-bc > li+li:before {
-  /* color: #e6e6e6; */
-}
 .hdesc {
-  min-height: 17em;
   color: white;
   position: relative;
   overflow: hidden;
@@ -97,29 +92,21 @@ ol.contentlink-bc > li+li:before {
   padding: 0 1em;
 }
 .hdesc h1 {
-  margin-top: 0.5em;
+  margin-top: 1em;
+  margin-bottom: 2em;
 }
 #header > div {
   display: flex;
-  /* flex-wrap: wrap; */
-}
-#header > div > * {
-  /* width: 100%; */
 }
 #header > div form {
-  /* order: -1; */
   flex-grow: 1;
 }
 @media (min-width: 38em) {
   #header .contentlink-bc span {
     display: initial;
   }
-  .hdesc {
-    min-height: 35em;
-  }
   #header > div {
     display: flex;
-    /* flex-wrap: nowrap; */
     z-index: 11;
     justify-content: space-between;
     padding: 0;
@@ -149,15 +136,15 @@ ol.contentlink-bc > li+li:before {
   margin-right: auto;
 }
 .hdesc > div .meta {
-  margin-top: 8.5em;
+  margin-top: 6.5em;
   max-width: 25em;
 }
 .hdesc > div > h1 {
-  max-width: 15em;
+  max-width: 18em;
 }
 .hdesc > div > h1 + div {
-  margin-bottom: 3em;
-  font-size: 1.15em;
+  margin-bottom: 4em;
+  /* font-size: 1.15em; */
 }
 .hdesc > div > div > * {
   line-height: 1;
