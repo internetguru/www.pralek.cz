@@ -205,7 +205,7 @@ dl.figure.author {
   display: block;
   background: none;
   max-width: 57em;
-  margin: 5em auto;
+  margin: 4em auto;
 }
 dl.figure.author:after {
   content: "";
@@ -459,7 +459,7 @@ a.tag:not([href]):hover:before {
 }
 @media (min-width: 38em) {
   .search {
-    max-width: 28em;
+    max-width: 25em;
   }
   .search ul input {
     width: 18em;
