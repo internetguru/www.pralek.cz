@@ -55,6 +55,7 @@
         },
         fillVal = function (event) {
           if (!open && Config.navig.value == "") {
+            Config.navig.focus();
             openNavig();
             event.preventDefault();
             return false;
