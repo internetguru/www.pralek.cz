@@ -53,7 +53,12 @@
           win.addEventListener("scroll", updateSize, false);
           Config.navig.addEventListener("keydown", processKey, false);
         },
-        fillVal = function () {
+        fillVal = function (event) {
+          if (!open && Config.textNavigValue == "") {
+            openNavig();
+            event.preventDefault();
+            return false;
+          }
           files = Config.files;
           for (var i = 0; i < files.length; i++) {
             if (files[i].defaultVal.toLowerCase() != Config.navig.value.toLowerCase()) continue;
