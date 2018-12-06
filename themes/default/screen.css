@@ -532,15 +532,21 @@ a.tag:not([href]):hover:before {
   display: flex;
   justify-content: flex-end;
 }
+.search .navigList {
+  width: calc(100% + 6em) !important;
+  right: -6em;
+  top: 3.5em;
+  display: block;
+}
+.search .navigList li {
+  max-width: calc(100% - 0.5em);
+  display: block;
+}
 @media (max-width: 38em) {
   .search .navigList {
     width: calc(100% + 11em) !important;
     right: -6em;
     top: 3.5em;
-    display: block;
-  }
-  .search .navigList li {
-    max-width: calc(100% - 0.5em);
     display: block;
   }
 }
