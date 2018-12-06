@@ -13,7 +13,10 @@ strong {
   font-weight: 600;
 }
 a {
-  color: #3949ab;
+  color: #3f51b5;
+}
+a[href] {
+  border-color: #9fa8da;
 }
 /***************************/
 dl.figure {
@@ -628,7 +631,7 @@ ol.otazky button:not(.selected):disabled {
 }
 /***************************/
 .important {
-  max-width: 60em !important;
+  max-width: 45em !important;
   padding: 1em;
   background: #ffebee;
   color: #b71c1c;
@@ -650,6 +653,7 @@ ol.otazky button:not(.selected):disabled {
   max-width: 100% !important;
   flex: 0 0 100% !important;
   text-align: center;
+  padding-top: 3em !important;
 }
 .moreable-linkwrapper a {
   display: inline-block;
@@ -657,5 +661,12 @@ ol.otazky button:not(.selected):disabled {
   width: auto;
   border: 0.1em solid;
   cursor: pointer;
+}
+.moreable-linkwrapper a:hover {
+  background: #e8eaf6;
+}
+.moreable-linkwrapper a:focus,
+.moreable-linkwrapper a:active {
+  background: #c5cae9;
 }
 /***************************/
