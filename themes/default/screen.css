@@ -97,7 +97,7 @@ ol.contentlink-bc > li+li:before {
   padding: 0 1em;
 }
 .hdesc h1 {
-  margin-top: 3em;
+  margin-top: 0.5em;
 }
 #header > div {
   display: flex;
@@ -116,9 +116,6 @@ ol.contentlink-bc > li+li:before {
   }
   .hdesc {
     min-height: 35em;
-  }
-  .hdesc h1 {
-    margin-top: 3.5em;
   }
   #header > div {
     display: flex;
@@ -150,6 +147,10 @@ ol.contentlink-bc > li+li:before {
   /* text-align: left; */
   margin-left: auto;
   margin-right: auto;
+}
+.hdesc > div .meta {
+  margin-top: 8.5em;
+  max-width: 25em;
 }
 .hdesc > div > h1 {
   max-width: 15em;
