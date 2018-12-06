@@ -57,6 +57,7 @@
           if (!open && Config.navig.value == "") {
             Config.navig.focus();
             openNavig();
+            openNavig();
             event.preventDefault();
             return false;
           }
