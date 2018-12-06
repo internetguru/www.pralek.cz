@@ -14,6 +14,9 @@
         <xsl:text> hdesc</xsl:text>
       </xsl:attribute>
       <xsl:element name="div">
+        <xsl:if test="/body[contains(@class, 'agregator')]">
+          <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlemeta"/>
+        </xsl:if>
         <xsl:element name="{name()}">
           <xsl:copy-of select="@*"/>
           <xsl:element name="span">
@@ -21,9 +24,6 @@
           </xsl:element>
         </xsl:element>
         <div>
-          <xsl:if test="/body[contains(@class, 'agregator')]">
-            <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlemeta"/>
-          </xsl:if>
           <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
         </div>
         <!--<xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>-->
