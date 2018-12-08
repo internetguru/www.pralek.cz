@@ -1,3 +1,3 @@
 require("ClipboardJS", function () {
-  var clipboard = new ClipboardJS('.share');
+  //var clipboard = new ClipboardJS('.share');
 })
