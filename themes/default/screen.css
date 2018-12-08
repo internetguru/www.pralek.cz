@@ -718,6 +718,9 @@ ol.otazky button:not(.selected):disabled {
   }
 }
 /***************************/
+.newsletter {
+  margin-top: 3em;
+}
 .newsletter input[type="submit"] {
   background: white;
   border-radius: 0 0.3em 0.3em 0;
