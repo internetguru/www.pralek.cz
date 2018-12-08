@@ -410,6 +410,9 @@ a.tag:before,
   background: #c5cae9;
 }
 /***************************/
+.contentbalancer-simple {
+  margin: 2.5em 0;
+}
 .contentbalancer-simple ul {
   list-style: none;
   padding: 0;
@@ -707,26 +710,25 @@ ol.otazky button:not(.selected):disabled {
 }
 /***************************/
 .newsletter input[type="submit"] {
-  background: #ef6c00;
+  background: white;
   border-radius: 0 0.3em 0.3em 0;
-  color: white;
+  color: #bf360c;
 }
 .newsletter input[type="submit"]:hover {
-  background: #fb8c00;
+  background: #fbe9e7;
 }
 .newsletter input[type="submit"]:active,
 .newsletter input[type="submit"]:focus {
-    background: #e65100;
+    background: #ffab91;
 }
 .newsletter span {
   display: inline-flex;
 }
 .newsletter input[type="email"] {
   border: none;
-  background: #eeeeee;
   padding: 0.35em 0.75em; 
-  border-radius: 0.3em 0 0 0.3em;
   margin-left: 0.5em;
+  border-bottom: thin solid #e0e0e0;
 }
 /***************************/
 .important {
