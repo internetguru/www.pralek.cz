@@ -373,16 +373,14 @@ a.tag:before,
   cursor: pointer;
   color: #3f51b5;
   display: inline-flex;
+  margin-left: 0.5em;
+  text-transform: none;
 }
 .clanek .extra ul li > span span:first-child {
   flex: 0 0 1em;
   width: 1em;
   height: 1.2em;
   overflow: hidden;
-}
-.clanek .extra ul li > span span + span {
-  margin-left: 0.5em;
-  text-transform: none;
 }
 #content .clanek .extra ul li > span.facebook {
   /*! background: red; */
