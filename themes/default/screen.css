@@ -384,6 +384,19 @@ a.tag:before,
   margin-left: 0.5em;
   text-transform: none;
 }
+#content .clanek .extra ul li > span.facebook {
+  /*! background: red; */
+  border-radius: 100%;
+  width: 0.5em;
+  height: 0.5em;
+  padding: 1em;
+}
+#content .clanek .extra ul li > span.facebook span {
+  
+  position: relative;
+  top: -0.4em;
+  left: -0.05em;
+}
 .clanek .extra .button {
   border: none;
   display: inline-block;
