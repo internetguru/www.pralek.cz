@@ -401,12 +401,28 @@ a.tag:before,
   border: none;
   display: inline-block;
 }
+.contentbalancer-simple a:hover,
 .clanek .extra .button:hover {
   background: #e8eaf6;
 }
+.contentbalancer-simple a:focus,
+.contentbalancer-simple a:active,
 .clanek .extra .button:focus,
 .clanek .extra .button:active {
   background: #c5cae9;
+}
+/***************************/
+.contentbalancer-simple ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.contentbalancer-simple ul li {
+  margin: 0.5em 0;
+}
+.contentbalancer-simple ul li a {
+  margin: 1em 0;
 }
 /***************************/
 a.tag {
@@ -608,6 +624,8 @@ a.tag:not([href]):hover:before {
 }
 /***************************/
 .moreable-linkwrapper a,
+.contentbalancer-simple a,
+.newsletter input[type="submit"],
 .button,
 button {
   border: none;
@@ -683,6 +701,29 @@ ol.otazky button:not(.selected):disabled {
   }
 }
 /***************************/
+.newsletter input[type="submit"] {
+  background: #ef6c00;
+  border-radius: 0 0.3em 0.3em 0;
+  color: white;
+}
+.newsletter input[type="submit"]:hover {
+  background: #fb8c00;
+}
+.newsletter input[type="submit"]:active,
+.newsletter input[type="submit"]:focus {
+    background: #e65100;
+}
+.newsletter span {
+  display: inline-flex;
+}
+.newsletter input[type="email"] {
+  border: none;
+  background: #eeeeee;
+  padding: 0.35em 0.75em; 
+  border-radius: 0.3em 0 0 0.3em;
+  margin-left: 0.5em;
+}
+/***************************/
 .important {
   max-width: 45em !important;
   padding: 1em;
@@ -723,8 +764,6 @@ ol.otazky button:not(.selected):disabled {
   background: #c5cae9;
 }
 /***************************/
-
-
 a#scrolltop {
   transition-property: all !important;
   /* transition-duration: 0.5s !important; */
@@ -734,3 +773,4 @@ a#scrolltop {
 a#scrolltop:hover {
   background: #ef6c00d6 !important;
 }
+/***************************/
