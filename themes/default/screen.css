@@ -789,6 +789,7 @@ a#scrolltop {
   /* transition-duration: 0.5s !important; */
   transition-timing-function: ease-in-out !important;
   background: #ef6c009e !important;
+  border-radius: 0.3rem !important;
 }
 a#scrolltop:hover {
   background: #ef6c00d6 !important;
