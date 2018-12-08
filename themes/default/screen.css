@@ -352,6 +352,34 @@ a.tag:before,
 #content .clanek .extra {
   padding: 0.5em;
   padding-top: 0;
+  width: calc(100% - 1rem);
+}
+.clanek .extra ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.clanek .extra ul li {
+  margin: 0;
+  padding: 0;
+}
+.clanek .extra ul li:nth-child(2) {
+  margin-left: auto;
+}
+.clanek .extra ul li:nth-child(2) a {
+  display: inline-flex;
+  max-width: none;
+}
+.clanek .extra ul li:nth-child(2) a span:first-child {
+  flex: 0 0 1em;
+  width: 1em;
+  height: 1.2em;
+  overflow: hidden;
+}
+.clanek .extra ul li:nth-child(2) a span + span {
+  margin-left: 0.5em;
+  text-transform: none;
 }
 .clanek .extra .button {
   border: none;
