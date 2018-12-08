@@ -576,6 +576,13 @@ a.tag:not([href]):hover:before {
   border-radius: 0;
   -webkit-appearance:  none;
 }
+.search button[type="submit"]:hover {
+  background: #fb8c00;
+}
+.search button[type="submit"]:active,
+.search button[type="submit"]:focus {
+    background: #e65100;
+}
 .search button[type="submit"]:before {
   content: "\f002";
   display: inline-block;
