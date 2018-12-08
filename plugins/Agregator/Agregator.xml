@@ -13,7 +13,7 @@
       <dd class="desc" var="desc">n/a</dd>
       <dd class="extra"><ul>
         <li><a var="link@href" class="button">Přečíst</a></li>
-        <li><span class="button share nowarning" var="lin@data-clipboard-text" data-clipboard-text="https://www.pralek.cz/%s"><span class="fa fa-share-alt">share</span><span var="link">n/a</span></span></li>
+        <li><span class="button share nowarning" title="Zkopírovat odkaz" var="lin@data-clipboard-text" data-clipboard-text="https://www.pralek.cz/%s"><span class="fa fa-share-alt">share</span><span var="link">n/a</span></span></li>
       </ul></dd>
     </dl>
   </doclist>
