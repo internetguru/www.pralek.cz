@@ -11,7 +11,10 @@
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
       <dt class="heading"><a title="Autor: %s" var="link@href author@title heading">n/a</a></dt>
       <dd class="desc" var="desc">n/a</dd>
-      <dd class="extra"><a var="link@href" class="button">Přečíst</a></dd>
+      <dd class="extra"><ul>
+        <li><a var="link@href" class="button">Přečíst</a></li>
+        <li><a var="link@href" class="button share nowarning"><span class="fa fa-share-alt">share</span><span var="link">n/a</span></a></li>
+      </ul></dd>
     </dl>
   </doclist>
 
