@@ -367,17 +367,19 @@ a.tag:before,
 .clanek .extra ul li:nth-child(2) {
   margin-left: auto;
 }
-.clanek .extra ul li:nth-child(2) a {
+.clanek .extra ul li:nth-child(2) > span {
   display: inline-flex;
   max-width: none;
+  cursor: pointer;
+  color: #3f51b5;
 }
-.clanek .extra ul li:nth-child(2) a span:first-child {
+.clanek .extra ul li:nth-child(2) > span span:first-child {
   flex: 0 0 1em;
   width: 1em;
   height: 1.2em;
   overflow: hidden;
 }
-.clanek .extra ul li:nth-child(2) a span + span {
+.clanek .extra ul li:nth-child(2) > span span + span {
   margin-left: 0.5em;
   text-transform: none;
 }
