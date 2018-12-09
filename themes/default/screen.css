@@ -23,6 +23,10 @@ dl.figure {
   background: #e4e4e4;
   padding: 0.5em;
 }
+dl.figure dt {
+  width: 100%;
+  align-items: center;
+}
 /***************************/
 .clanek .heading a,
 h1, h2, h3 {
@@ -207,6 +211,9 @@ h1 + p {
   }
 }
 /***************************/
+dl.figure dt object {
+  width: 100%;
+}
 dl.figure.author {
   display: block;
   background: none;
