@@ -86,7 +86,7 @@
   </fn>
   
   <var id="taglist">
-    <ul class="taglist">
+    <p class="taglist">
       <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=bolest">bolest</a></li>
       <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=bricho">břicho</a></li>
       <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=cevy">cévy</a></li>
@@ -119,7 +119,7 @@
       <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=zhoubne">zhoubné</a></li>
       <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=zlomeniny">zlomeniny</a></li>
       <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=zvraceni">zvracení</a></li>
-    </ul>
+    </p>
   </var>
 
   <var id="tags-files-list">
