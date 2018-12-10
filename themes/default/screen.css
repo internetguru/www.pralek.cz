@@ -488,17 +488,23 @@ a.tag:not([href]):hover:before {
 /***************************/
 .current-label {
   display: flex;
+  flex-wrap: wrap;
   list-style: none;
   align-items: center;
   padding: 0;
 }
 .current-label li {
   margin: 0;
+  display: flex;
+  align-items: center;
+}
+.current-label li span {
+  margin-left: 0.5em;
 }
 a.taglist-tag {
   display: none;
 }
-a.taglist-tag:not([href]) {
+.current-label a.taglist-tag:not([href]) {
   display: block;
 }
 /***************************/
