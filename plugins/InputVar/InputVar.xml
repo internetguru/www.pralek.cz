@@ -86,40 +86,38 @@
   </fn>
   
   <var id="taglist">
-    <p class="taglist">
-      <a class="taglist-tag tag nowarning" href="/?clanky=bolest">bolest</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=bricho">břicho</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=cevy">cévy</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=detske">dětské</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=krvaceni">krvácení</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=kuze-podkozi">kůže-podkoží</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=latkova_vymena">látková výměna</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=mikroorganizmy">mikroorganizmy</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=mozek-nervy">mozek-nervy</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=nadory">nádory</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=nejctenejsi">nejčtenější</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=nemoc">nemoc</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=neurazove">neúrazové</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=nezhoubne">nezhoubné</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=organy">orgány</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=osetreni">ošetření</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=pohyb">pohyb</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=poraneni">poranění</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=poruchy_vedomi">poruchy vědomí</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=prevence">prevence</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=prvni_pomoc">první pomoc</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=srdce">srdce</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=strava-zazivani">strava-zažívání</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=teplota">teplota</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=urazy">úrazy</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=usni-nosni-krcni">ušní-nosní-krční</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=zaludek">žaludek</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=zanet">zánět</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=zdravy_zivotni_styl">zdravý životní styl</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=zhoubne">zhoubné</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=zlomeniny">zlomeniny</a>
-      <a class="taglist-tag tag nowarning" href="/?clanky=zvraceni">zvracení</a>
-    </p>
+    <a class="taglist-tag tag nowarning" href="/?clanky=bolest">bolest</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=bricho">břicho</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=cevy">cévy</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=detske">dětské</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=krvaceni">krvácení</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=kuze-podkozi">kůže-podkoží</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=latkova_vymena">látková výměna</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=mikroorganizmy">mikroorganizmy</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=mozek-nervy">mozek-nervy</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=nadory">nádory</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=nejctenejsi">nejčtenější</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=nemoc">nemoc</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=neurazove">neúrazové</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=nezhoubne">nezhoubné</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=organy">orgány</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=osetreni">ošetření</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=pohyb">pohyb</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=poraneni">poranění</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=poruchy_vedomi">poruchy vědomí</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=prevence">prevence</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=prvni_pomoc">první pomoc</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=srdce">srdce</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=strava-zazivani">strava-zažívání</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=teplota">teplota</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=urazy">úrazy</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=usni-nosni-krcni">ušní-nosní-krční</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=zaludek">žaludek</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=zanet">zánět</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=zdravy_zivotni_styl">zdravý životní styl</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=zhoubne">zhoubné</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=zlomeniny">zlomeniny</a>
+    <a class="taglist-tag tag nowarning" href="/?clanky=zvraceni">zvracení</a>
   </var>
 
   <var id="tags-files-list">
