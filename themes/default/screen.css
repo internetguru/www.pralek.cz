@@ -245,6 +245,7 @@ dl.figure.author dd q {
   }
   dl.figure.author .img {
     float: left;
+    width: auto;
   }
   dl.figure.author > *:not(.img) {
     margin-left: 16rem;
