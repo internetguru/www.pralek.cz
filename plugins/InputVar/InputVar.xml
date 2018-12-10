@@ -84,6 +84,11 @@
     <data name="=zvracení">=zvraceni</data>
     <data name="/?clanky=nejctenejsi">/</data>
   </fn>
+  
+  <var id="taglist">
+    <ul class="taglist">
+    </ul>
+  </var>
 
   <var id="tags-files-list">
   <form action="/" method="get" class="search">
