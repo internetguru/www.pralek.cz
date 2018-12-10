@@ -486,10 +486,19 @@ a.tag:not([href]):hover:before {
   order: 1000;
 }
 /***************************/
-.taglist a {
+.current-label {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  padding: 0;
+}
+.current-label li {
+  margin: 0;
+}
+a.taglist-tag {
   display: none;
 }
-.taglist a.tag:not([href]) {
+a.taglist-tag:not([href]) {
   display: block;
 }
 /***************************/
