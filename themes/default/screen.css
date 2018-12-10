@@ -498,14 +498,17 @@ a.tag:not([href]):hover:before {
   display: flex;
   align-items: center;
 }
+.current-label li + li a {
+  cursor: pointer;
+}
 .current-label li span {
   margin-left: 0.5em;
 }
 a.taglist-tag {
   display: none;
 }
-.current-label a.taglist-tag:not([href]) {
-  display: block;
+a.taglist-tag:not([href]) {
+  display: inline;
 }
 /***************************/
 #footer {
