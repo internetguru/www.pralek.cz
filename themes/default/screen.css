@@ -486,11 +486,13 @@ a.tag:not([href]):hover:before {
   order: 1000;
 }
 /***************************/
-.taglist {
-  border-bottom: thin solid #cecece;
-  padding: 0;
-  padding-bottom: 5em;
+.taglist a {
+  display: none;
 }
+.taglist a.tag:not([href]) {
+  display: block;
+}
+/***************************/
 #footer {
   margin-top: 3em;
   margin-bottom: 3em;
