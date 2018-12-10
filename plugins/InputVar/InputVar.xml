@@ -87,6 +87,38 @@
   
   <var id="taglist">
     <ul class="taglist">
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=bolest">bolest</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=bricho">břicho</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=cevy">cévy</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=detske">dětské</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=krvaceni">krvácení</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=kuze-podkozi">kůže-podkoží</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=latkova_vymena">látková výměna</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=mikroorganizmy">mikroorganizmy</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=mozek-nervy">mozek-nervy</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=nadory">nádory</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=nejctenejsi">nejčtenější</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=nemoc">nemoc</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=neurazove">neúrazové</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=nezhoubne">nezhoubné</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=organy">orgány</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=osetreni">ošetření</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=pohyb">pohyb</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=poraneni">poranění</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=poruchy_vedomi">poruchy vědomí</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=prevence">prevence</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=prvni_pomoc">první pomoc</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=srdce">srdce</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=strava-zazivani">strava-zažívání</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=teplota">teplota</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=urazy">úrazy</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=usni-nosni-krcni">ušní-nosní-krční</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=zaludek">žaludek</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=zanet">zánět</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=zdravy_zivotni_styl">zdravý životní styl</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=zhoubne">zhoubné</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=zlomeniny">zlomeniny</a></li>
+      <li><a class="tag nowarning" fn="inputvar-replacenames@href" href="/?clanky=zvraceni">zvracení</a></li>
     </ul>
   </var>
 

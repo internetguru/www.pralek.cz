@@ -12,6 +12,8 @@ URLHANDLER_XML="plugins/UrlHandler/UrlHandler.xml"
 sed -i '/for="/d' $AGREGATOR_XML
 sed -i '/<data/d' $INPUTVAR_XML
 sed -i '/<option /d' $INPUTVAR_XML
+sed -i '/<option /d' $INPUTVAR_XML
+sed -i '/<li class="label"/d' $INPUTVAR_XML
 sed -i '/gen="gen"/d' $URLHANDLER_XML
 
 sed -i "s/<UrlHandler>/<UrlHandler>\n<redir gen=\"gen\" parName='s'>https:\/\/www.google.com\/search?sitesearch=www.pralek.cz\&amp;q=\$parvalue<\/redir>/" $URLHANDLER_XML
@@ -52,6 +54,7 @@ do
   fi
   normalizedLabel="$(echo "$label" | iconv -f utf8 -t ascii//TRANSLIT | tr " " "_")"
   sed -i "s/<\/Agregator>/  <doclist id=\"$normalizedLabel\" kw=\"$label\" for=\"clanky\" \/>\n<\/Agregator>/" $AGREGATOR_XML
+  sed -i "s/<ul class=\"taglist\">/<ul class=\"taglist\">\n      <li><a class=\"tag nowarning\" fn=\"inputvar-replacenames@href\" href=\"\/?clanky=$normalizedLabel\">$label<\/a><\/li>/" $INPUTVAR_XML
   sed -i "s/<fn id=\"replacenames\" fn=\"replace\">/<fn id=\"replacenames\" fn=\"replace\">\n    <data name=\"=$label\">=$normalizedLabel<\/data>/" $INPUTVAR_XML
   sed -i "s/class=\"completable\">/class=\"completable\">\n<option class=\"tag\" value=\"stitky\/$normalizedLabel\">$label ($count výskytů) #stitky\/$normalizedLabel<\/option>/" $INPUTVAR_XML
   sed -i "s/<UrlHandler>/<UrlHandler>\n<redir gen=\"gen\" parName='s' parValue='stitky\/$normalizedLabel'>\/?clanky=$normalizedLabel#koutek<\/redir>/" $URLHANDLER_XML
