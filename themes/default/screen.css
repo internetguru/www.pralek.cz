@@ -500,6 +500,7 @@ a.tag:not([href]):hover:before {
 }
 .current-label li + li a {
   cursor: pointer;
+  max-width: none;
 }
 .current-label li span {
   margin-left: 0.5em;
