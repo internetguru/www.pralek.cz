@@ -845,5 +845,6 @@ ul.docinfo.nomultiple.global {
 ul.docinfo.nomultiple.global li {
   margin: 0;
   margin-right: 1em;
+  margin-bottom: 0.5em;
 }
 /***************************/
