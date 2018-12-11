@@ -510,6 +510,16 @@ a.taglist-tag {
 a.taglist-tag:not([href]) {
   display: inline;
 }
+a.taglist-tag:not([href]):before {
+  color: #9e9e9e !important;
+}
+.filter .button:hover {
+  background: #c5cae9;
+}
+.filter .button:active,
+.filter .button:focus {
+  background: #e8eaf6;
+}
 /***************************/
 #footer {
   margin-top: 3em;
