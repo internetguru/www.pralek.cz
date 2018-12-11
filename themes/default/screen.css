@@ -847,4 +847,7 @@ ul.docinfo.nomultiple.global li {
   margin-right: 1em;
   margin-bottom: 0.5em;
 }
+ul.docinfo.nomultiple.global li:before {
+  color: #757575;
+}
 /***************************/
