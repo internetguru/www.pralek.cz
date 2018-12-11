@@ -10,5 +10,13 @@
 <!--       <li><span var="edit">n/a</span></li> -->
     </ul>
   </var>
+  
+  <var modifyonly="modifyonly" id="partinfo">
+    <ul class="docinfo nomultiple partial">
+      <li class="fa fa-file"><span var="part_created">n/a</span></li>
+      <li class="fa fa-wrench"><span var="part_modified">n/a</span></li>
+    </ul>
+  </var>
+
   <var modifyonly="modifyonly" id="modified">Datum revize: <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
 </DocInfo>
