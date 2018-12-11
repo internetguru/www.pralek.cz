@@ -54,7 +54,7 @@ do
   fi
   normalizedLabel="$(echo "$label" | iconv -f utf8 -t ascii//TRANSLIT | tr " " "_")"
   sed -i "s/<\/Agregator>/  <doclist id=\"$normalizedLabel\" kw=\"$label\" for=\"clanky\" \/>\n<\/Agregator>/" $AGREGATOR_XML
-  sed -i "s/<var id=\"taglist\">/<var id=\"taglist\">\n    <a class=\"taglist-tag tag nowarning\" href=\"\/?clanky=$normalizedLabel\">$label<\/a>/" $INPUTVAR_XML
+  sed -i "s/<var id=\"taglist\">/<var id=\"taglist\">\n    <a fn=\"inputvar-replacenames@href\" class=\"taglist-tag tag nowarning\" href=\"\/?clanky=$normalizedLabel\">$label<\/a>/" $INPUTVAR_XML
   sed -i "s/<fn id=\"replacenames\" fn=\"replace\">/<fn id=\"replacenames\" fn=\"replace\">\n    <data name=\"=$label\">=$normalizedLabel<\/data>/" $INPUTVAR_XML
   sed -i "s/class=\"completable\">/class=\"completable\">\n<option class=\"tag\" value=\"stitky\/$normalizedLabel\">$label ($count výskytů) #stitky\/$normalizedLabel<\/option>/" $INPUTVAR_XML
   sed -i "s/<UrlHandler>/<UrlHandler>\n<redir gen=\"gen\" parName='s' parValue='stitky\/$normalizedLabel'>\/?clanky=$normalizedLabel#koutek<\/redir>/" $URLHANDLER_XML
