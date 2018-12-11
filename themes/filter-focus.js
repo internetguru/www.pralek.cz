@@ -12,7 +12,7 @@
   
   document.addEventListener ("keydown", function (event) {
     if (event.ctrlKey  &&  event.shiftKey  &&  event.keyCode === 70) {
-        document.querySelector(".search input").focus()
+        search.focus()
     }
   } )
 
