@@ -855,4 +855,9 @@ ul.docinfo.nomultiple.partial {
   text-align: right;
   font-style: italic;
 }
+ul.docinfo.nomultiple.partial li {
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+}
 /***************************/
