@@ -36,7 +36,7 @@
           textNavig.autocomplete = "off";
           if (Config.navig.tabIndex) textNavig.tabIndex = Config.navig.tabIndex;
           textNavig.name = Config.navig.name;
-          textNavig.placeholder = "Co Vás zajímá?"
+          textNavig.placeholder = "Co Vás zajímá? (Ctrl+Shift+F)"
           textNavig.type = "text";
           textNavig.className = "completable-input";
           Config.navig.parentNode.replaceChild(textNavig, Config.navig);
