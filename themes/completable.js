@@ -262,7 +262,7 @@
             li.className = fs[i].class;
             li.dataset.path = fs[i].path;
             li.dataset.val = fs[i].defaultVal;
-            li.onmouseover = (function () {
+            li.onmousemove = (function () {
               var localValue = fs[i].defaultVal;
               var navig = Config.navig;
               if (fs[i].class == "google") {
