@@ -850,4 +850,9 @@ ul.docinfo.nomultiple.global li {
 ul.docinfo.nomultiple.global li:before {
   color: #757575;
 }
+ul.docinfo.nomultiple.partial {
+  list-style: none;
+  text-align: right;
+  font-style: italic;
+}
 /***************************/
