@@ -23,8 +23,6 @@
     <li><a var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>) <em var="editlink">n/a</em></li>
   </doclist>
 
-<!--   <filter id="bolest" doclist="html" kw="bolest" /> -->
-
   <doclist id="htmltop1" limit="1" path="koutek">
     <li><strong><a title="Nejnovější článek Praléku" var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>)</strong> <em var="editlink">n/a</em>
       <ul><li var="desc" class="desc">n/a</li></ul>
