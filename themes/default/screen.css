@@ -792,6 +792,7 @@ ol.otazky button:not(.selected):disabled {
   border-bottom: thin solid #e0e0e0;
 }
 /***************************/
+.example,
 .important {
   max-width: 45em !important;
   padding: 1em;
@@ -800,6 +801,7 @@ ol.otazky button:not(.selected):disabled {
   overflow: hidden;
   display: table;
 }
+.example:before,
 .important:before {
   content: "\f071";
   font-family: "FontAwesome";
@@ -808,6 +810,14 @@ ol.otazky button:not(.selected):disabled {
   padding-right: 1rem;
   display: table-cell;
   vertical-align: middle;
+}
+.example {
+  background: #fff3e0;
+  color: #e65100;
+}
+.example:before {
+  content: "\f0eb";
+  color: #ef6c00;
 }
 /***************************/
 .moreable-linkwrapper {
