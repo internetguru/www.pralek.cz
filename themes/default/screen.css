@@ -138,6 +138,12 @@ h1 + p {
     /* padding: 0; */
   }
 }
+@media (min-width: 62em) {
+  .hdesc > div {
+    padding-top: 4em;
+    padding-bottom: 3em;
+  }
+}
 .hdesc a {
   color: white;
 }
