@@ -197,7 +197,6 @@ h1 + p {
   background: #000000a6;
 }
 .hdesc:before {
-  background: url("/files/header.jpg") no-repeat;
   background-size: cover;
   background-position: 50% 30%;
 }
