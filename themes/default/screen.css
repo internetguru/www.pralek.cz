@@ -25,7 +25,7 @@ dl.figure {
   padding: 0.5em;
 }
 dl.figure dt {
-  width: 100%;
+  /* width: 100%; */
   align-items: center;
 }
 /***************************/
@@ -782,7 +782,7 @@ ol.otazky button:not(.selected):disabled {
   background: white;
   border-radius: 0 0.3em 0.3em 0;
   color: #bf360c;
-  border-bottom: thin solid #ffccbc;
+  /* border-bottom: thin solid #ffccbc; */
 }
 .newsletter input[type="submit"]:hover {
   background: #fbe9e7;
