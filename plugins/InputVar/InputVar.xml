@@ -9,15 +9,15 @@
 
   <var id="newsletter">
 <form class="newsletter" action="http://alert.pralek.cz" method="post">
-  <p>
-    <label for="newsletter-email">Vaše emailová adresa: </label>
-    <span>
-      <input type="email" pattern="[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.[a-zA-Z]{2,}" placeholder="moje@adresa.cz" name="email" required="required" size="37" id="newsletter-email" class="eventable"/>
+  <dl>
+    <dt><label for="newsletter-email">Vaše emailová adresa</label></dt>
+    <dd>
+      <input type="email" pattern="[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.[a-zA-Z]{2,}" placeholder="Vaše emailová adresa" name="email" required="required" size="37" id="newsletter-email" class="eventable"/>
       <input type="submit" value="Přihlásit"/>
       <input type="hidden" name="emailcheck" value=""/>
       <input type="hidden" name="formid" value="form0"/>
-    </span>
-  </p>
+    </dd>
+  </dl>
 </form></var>
   
   <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
