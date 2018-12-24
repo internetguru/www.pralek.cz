@@ -535,7 +535,7 @@ a.taglist-tag:not([href]):before {
 }
 .filter .button {
   color: #1a237e;
-  border: 0.1em solid;
+  /* border: 0.1em solid; */
   margin-left: 1em;
 }
 .filter .button:before {
