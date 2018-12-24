@@ -4,7 +4,7 @@
   <var modifyonly="modifyonly" id="creation"><a href="" var="authorid@href author">n/a</a> na téma úrazy a nemoci, <span var="ctime" fn="inputvar-dateformat">n/a</span></var>
   <var modifyonly="modifyonly" id="modified">Tento článek byl revidován <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
 
-  <doclist id="clanky" path="koutek" kw="nejčtenější">
+  <doclist id="clanky" path="clanky" kw="nejčtenější">
     <dl class="clanek">
       <dt><a title="Autor: %s" var="link@href author@title"><img var="og-image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
@@ -19,16 +19,16 @@
     </dl>
   </doclist>
 
-  <doclist id="html" path="koutek">
+  <doclist id="html" path="clanky">
     <li><a var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>) <em var="editlink">n/a</em></li>
   </doclist>
 
-  <doclist id="htmltop1" limit="1" path="koutek">
+  <doclist id="htmltop1" limit="1" path="clanky">
     <li><strong><a title="Nejnovější článek Praléku" var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>)</strong> <em var="editlink">n/a</em>
       <ul><li var="desc" class="desc">n/a</li></ul>
     </li>
   </doclist>
-  <doclist id="htmltop2" skip="1" limit="3" path="koutek">
+  <doclist id="htmltop2" skip="1" limit="3" path="clanky">
       <li><strong><a var="link@href heading">n/a</a> (<span fn="inputvar-dateformat" var="ctime">n/a</span>)</strong> <em var="editlink">n/a</em></li>
   </doclist>
 
