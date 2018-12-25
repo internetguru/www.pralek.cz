@@ -4,10 +4,11 @@
     Config.defaultChangeText = "Změnit"
 
     var selectedTag = document.querySelectorAll("a.tag.nowarning[href^='#']")
-    alert(selectedTag.length)
-    
     var filters = document.querySelectorAll(".filter")
     for (var i = 0; i < filters.length; i++) {
+        if (selectedTag.length > 0) {
+            filters[i].appendChild(selectedTag[0])
+        }
         var changeLink = document.createElement("a")
         changeLink.textContent = Config.defaultChangeText
         changeLink.className = "button"
