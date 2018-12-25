@@ -3,10 +3,14 @@
     var Config = {}
     Config.defaultChangeText = "Změnit"
 
+    var selectedTag = document.querySelectorAll("a.tag.nowarning[href^='#']")
+    alert(selectedTag.length)
+    
     var filters = document.querySelectorAll(".filter")
     for (var i = 0; i < filters.length; i++) {
         var changeLink = document.createElement("a")
         changeLink.textContent = Config.defaultChangeText
+        changeLink.className = "button"
         changeLink.addEventListener("click", function () {
             var search = document.querySelector(".search input")
             search.focus()
