@@ -7,7 +7,7 @@
     var filters = document.querySelectorAll(".filter")
     for (var i = 0; i < filters.length; i++) {
         if (selectedTag.length > 0) {
-            filters[i].appendChild(selectedTag[0])
+            filters[i].appendChild(selectedTag[0].cloneNode(true))
         }
         var changeLink = document.createElement("a")
         changeLink.textContent = Config.defaultChangeText
