@@ -104,9 +104,12 @@ h1 + p {
   flex-direction: column;
   padding: 0 1em;
 }
-.hdesc h1 {
-  margin-top: 3em;
-  margin-bottom: 1.5em;
+.hdesc > div > h1 {
+  max-width: 18em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-bottom: 3vw;
+  padding-top: 3vw;
 }
 #header > div {
   display: flex;
@@ -114,16 +117,14 @@ h1 + p {
 #header > div form {
   flex-grow: 1;
 }
-.hdesc > div .meta {
+.hdesc > div {
   margin-top: 7em;
-  max-width: 25em;
   padding-top: 4vw;
-  padding-bottom: 3vw;
-}
-.hdesc > div > h1 + div {
   margin-bottom: 4em;
-  padding-top: 3vw;
   padding-bottom: 4vw;
+}
+.hdesc > div .meta {
+  max-width: 25em;
 }
 @media (min-width: 38em) {
   #header .contentlink-bc span {
@@ -147,11 +148,6 @@ h1 + p {
   max-width: 37em;
   margin-left: auto;
   margin-right: auto;
-}
-.hdesc > div > h1 {
-  max-width: 18em;
-  margin-top: 1em;
-  margin-bottom: 1em;
 }
 .hdesc > div > div > * {
   line-height: 1;
