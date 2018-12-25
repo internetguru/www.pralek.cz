@@ -6,7 +6,7 @@
   <var id="otazky_desc">Cílem tohoto článku je srozumitelně odpovědět na následující otázky. Kliknutím na tlačítko můžete vyjádřit svůj názor, jak se mu to podařilo. Pořadí otázek odpovídá pořadí jednotlivých částí textu článku.</var>
   <var id="odkazy_h">Související články</var>
   <var id="odkazy_desc">Článek ve svém textu odkazuje následující zdroje (v uvedeném pořadí). Zdroje danou problematiku rozvádějí či zmiňují v dalších souvislostech.</var>
-
+  <fn id="tmpdateformat" fn="strftime" format="%e. [%m] %Y"/>
   <var id="newsletter">
 <form class="newsletter" action="http://alert.pralek.cz" method="post">
   <dl>
@@ -31,7 +31,7 @@
   </fn>
   <fn id="stripkws" fn="pregreplace" pattern="^((:?[^,]+,){0,2}[^,]+).*" replacement="\1" />
   <var id="strippedkws" fn="stripkws" var="kw" />
-  <var id="articlemeta"><div class="meta"><span var="author">n/a</span> na téma <span var="inputvar-strippedkws" fn="inputvar-makemetatags">n/a</span> z <span fn="inputvar-dateformat" var="ctime">n/a</span>:</div></var>
+  <var id="articlemeta"><div class="meta"><span var="author">n/a</span> na téma <span var="inputvar-strippedkws" fn="inputvar-makemetatags">n/a</span> z <span fn="inputvar-dateformat" var="ctime">n/a</span></div></var>
 
   <fn id="maketags" fn="sequence">
     <call>makeelements</call>
