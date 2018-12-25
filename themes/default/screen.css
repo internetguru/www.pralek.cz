@@ -106,9 +106,8 @@ h1 + p {
 }
 .hdesc > div > h1 {
   max-width: 18em;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  padding-bottom: 3vw;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 #header > div {
   display: flex;
@@ -122,9 +121,14 @@ h1 + p {
   margin-bottom: 4em;
   padding-bottom: 4vw;
 }
-.hdesc > div .meta {
+.hdesc > div div.meta {
   max-width: 25em;
+  margin-bottom: 2em;
   padding-bottom: 3vw;
+}
+.hdesc > div h1 + div {
+  margin-top: 2em;
+  padding-top: 3vw;
 }
 @media (min-width: 38em) {
   #header .contentlink-bc span {
