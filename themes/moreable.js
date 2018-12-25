@@ -2,8 +2,8 @@
 
     var Config = {}
     Config.defaultStep = 6
-    Config.defaultLimit = 4
-    Config.defaultMoreText = "Další články"
+    Config.minHidden = 3
+    Config.defaultMoreText = "Zobrazit další články"
 
     function Moreable () {
 
@@ -49,7 +49,7 @@
             init: function (p, s, l, m) {
                 parent = p
                 step = (s === null) ? Config.defaultStep : s
-                limit = (l === null) ? Config.defaultLimit : l
+                limit = (l === null) ? Config.minHidden : l
                 moreText = (m === null) ? Config.defaultMoreText : m
                 initStructure()
             }
