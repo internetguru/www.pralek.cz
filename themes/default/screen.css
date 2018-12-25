@@ -774,9 +774,8 @@ ol.otazky button:not(.selected):disabled {
 }
 .newsletter dd {
   display: flex;
-  /* justify-content: center; */
-  /* align-items: center; */
-  /* width: 100%; */
+  float: none;
+  margin: 0 auto;
 }
 .newsletter input[type="submit"] {
   background: white;
