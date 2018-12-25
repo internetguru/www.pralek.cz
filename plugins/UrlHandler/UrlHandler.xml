@@ -274,8 +274,7 @@
   </redir>
   <redir gen="gen" parName='s'>https://www.google.com/search?sitesearch=dev.pralek.cz&amp;q=$parvalue
   </redir>
-  <rewrite match="clanky/">
-  </rewrite>
+  <rewrite match="clanky/"/>
   <redir link="urazy_malych_deti">urazy_deti
   </redir>
   <redir link="urychleni_rakoviny_operaci">mytus_o_rakovine
