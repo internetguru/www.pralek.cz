@@ -42,7 +42,7 @@ dl.figure dt {
   width: 100%;
 }
 #header .contentlink-bc {
-  color: white;
+  color: white !important;
 }
 #header .contentlink-bc li a[href] span {
   border-color: #ffffff99;
