@@ -336,12 +336,6 @@ a.tag:before,
   margin: 1em 0;
 }
 /***************************/
-a.tag {
-  border: none;
-  margin: 0.2em 0.5em 0.2em 0;
-  display: inline-block;
-  border-radius: 0.2em;
-}
 a.tag[href]:hover:before {
   color: #9e9e9e;
 }
