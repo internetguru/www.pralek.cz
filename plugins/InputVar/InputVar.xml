@@ -42,10 +42,10 @@
   
   <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;/?clanky=\1#clanky&#x22; title=&#x22;Filtrovat&#x22; class=&#x22;tag nowarning&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
   
-  <fn id="removetitle" fn="pregreplace" pattern='href=""' replacement='x' />
+  <fn id="removetitle" fn="pregreplace" pattern='EMPTY.*title="Filtrovat"' replacement='' />
   
   <fn id="replacenames" fn="replace">
-    <data name="/?clanky=antibiotika#clanky"></data>
+    <data name="/?clanky=antibiotika#clanky">EMPTY</data>
     <data name="=bolest">=bolest</data>
     <data name="/?clanky=boulička#clanky"></data>
     <data name="=břicho">=bricho</data>
