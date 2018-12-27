@@ -2,6 +2,13 @@
 
   require("IGCMS", function () {
 
+    var GlobalConfig = {};
+    GlobalConfig.ns = "completable";
+    GlobalConfig.inputClass = GlobalConfig.ns + "-input";
+    GlobalConfig.placeholder = "Co Vás zajímá? (Ctrl+Shift+F)";
+    GlobalConfig.defaultChangeText = "Změnit";
+    GlobalConfig.filterClass = ".filter";
+
     var Completable = function () {
 
       var
@@ -17,7 +24,6 @@
             d = document,
             e = d.documentElement,
             g = d.getElementsByTagName('body')[0];
-          //x = w.innerWidth || e.clientWidth || g.clientWidth
           return w.innerHeight || e.clientHeight || g.clientHeight;
         },
         getScrolltop = function () {
@@ -34,11 +40,13 @@
           list.className = "navigList";
           var textNavig = document.createElement("input");
           textNavig.autocomplete = "off";
-          if (Config.navig.tabIndex) textNavig.tabIndex = Config.navig.tabIndex;
+          if (Config.navig.tabIndex) {
+            textNavig.tabIndex = Config.navig.tabIndex;
+          }
           textNavig.name = Config.navig.name;
-          textNavig.placeholder = "Co Vás zajímá? (Ctrl+Shift+F)"
+          textNavig.placeholder = GlobalConfig.placeholder;
           textNavig.type = "text";
-          textNavig.className = "completable-input";
+          textNavig.className = GlobalConfig.inputClass;
           Config.navig.parentNode.replaceChild(textNavig, Config.navig);
           Config.navig = textNavig;
           Config.navig.parentNode.appendChild(list);
@@ -52,6 +60,27 @@
           win.addEventListener("resize", updateSize, false);
           win.addEventListener("scroll", updateSize, false);
           Config.navig.addEventListener("keydown", processKey, false);
+          document.addEventListener ("keydown", function (event) {
+            // Ctrl + Shift + S
+            if (event.ctrlKey  &&  event.shiftKey  &&  event.keyCode === 70) {
+              Config.navig.focus()
+            }
+          })
+          initFilterButtonEvent()
+        },
+        initFilterButtonEvent = function () {
+          var filters = document.querySelectorAll(GlobalConfig.filterClass)
+          for (var i = 0; i < filters.length; i++) {
+            var changeLink = document.createElement("a")
+            changeLink.textContent = GlobalConfig.defaultChangeText
+            changeLink.className = "button"
+            changeLink.addEventListener("click", function () {
+              Config.navig.focus()
+              Config.navig.click()
+              Config.navig.click()
+            }, false)
+            filters[i].appendChild(changeLink)
+          }
         },
         fillVal = function (event) {
           if (!open && Config.navig.value == "") {
@@ -71,8 +100,12 @@
         },
         openNavig = function () {
           updateSize();
-          if (list.classList.contains("active")) inputText(null);
-          else list.classList.add("active");
+          if (list.classList.contains("active")) {
+            inputText(null);
+          }
+          else {
+            list.classList.add("active");
+          }
         },
         closeNavig = function () {
           list.innerHTML = "";
@@ -80,6 +113,15 @@
           open = false;
           active = -1;
           list.classList.remove("active");
+        },
+        setActiveList = function () {
+          list.childNodes[active].classList.add("active");
+          list.childNodes[active].scrollIntoView({behavior: "instant", block: "end", inline: "nearest"});
+          if (!list.childNodes[active].classList.contains("google")) {
+            Config.navig.value = list.childNodes[active].dataset.val;
+          } else {
+            Config.navig.value = textNavigValue;
+          }
         },
         processKey = function (e) {
           switch (e.keyCode) {
@@ -92,42 +134,36 @@
               closeNavig();
               break;
             case 38: //up
-              if (typeof list.childNodes[active] !== "undefined")
+              if (typeof list.childNodes[active] !== "undefined") {
                 list.childNodes[active].classList.remove("active");
-              if (active == -1) active = list.childNodes.length;
+              }
+              if (active == -1) {
+                active = list.childNodes.length;
+              }
               if (--active <= -1) {
                 Config.navig.value = textNavigValue;
                 e.preventDefault();
                 return;
               }
-              list.childNodes[active].classList.add("active");
-              list.childNodes[active].scrollIntoView({behavior: "instant", block: "end", inline: "nearest"});
-              if (!list.childNodes[active].classList.contains("google")) {
-                Config.navig.value = list.childNodes[active].dataset.val;
-              } else {
-                Config.navig.value = textNavigValue
-              }
+              setActiveList();
               e.preventDefault();
               break;
             case 40: //down
               if (!open) {
                 inputText(null);
               }
-              if (typeof list.childNodes[active] !== "undefined")
+              if (typeof list.childNodes[active] !== "undefined") {
                 list.childNodes[active].classList.remove("active");
-              if (active == list.childNodes.length) active = -1;
+              }
+              if (active == list.childNodes.length) {
+                active = -1;
+              }
               if (++active >= list.childNodes.length) {
                 Config.navig.value = textNavigValue;
                 e.preventDefault();
                 return;
               }
-              list.childNodes[active].classList.add("active");
-              list.childNodes[active].scrollIntoView({behavior: "instant", block: "end", inline: "nearest"});
-              if (!list.childNodes[active].classList.contains("google")) {
-                Config.navig.value = list.childNodes[active].dataset.val;
-              } else {
-                Config.navig.value = textNavigValue
-              }
+              setActiveList();
               e.preventDefault();
               break;
             default:
@@ -158,10 +194,14 @@
             selRange.moveEnd('character', end);
             selRange.select();
             navig.focus();
-          } else if (navig.setSelectionRange) {
+            return;
+          }
+          if (navig.setSelectionRange) {
             navig.focus();
             navig.setSelectionRange(start, end);
-          } else if (typeof navig.selectionStart != 'undefined') {
+            return;
+          }
+          if (typeof navig.selectionStart != 'undefined') {
             navig.selectionStart = start;
             navig.selectionEnd = end;
             navig.focus();
@@ -172,11 +212,11 @@
           list.style.maxHeight = (getWinHeight() - getOffsetTop(list) + getScrolltop()) + "px";
         },
         fileMergeSort = function (arr) {
-          if (arr.length < 2) return arr;
+          if (arr.length < 2) {
+            return arr;
+          }
           var middle = parseInt(arr.length / 2);
-          var left = arr.slice(0, middle);
-          var right = arr.slice(middle, arr.length);
-          return merge(fileMergeSort(left), fileMergeSort(right));
+          return merge(fileMergeSort(arr.slice(0, middle)), fileMergeSort(arr.slice(middle, arr.length)));
         },
         merge = function (left, right) {
           var result = [];
@@ -187,8 +227,12 @@
               result.push(right.shift());
             }
           }
-          while (left.length) result.push(left.shift());
-          while (right.length) result.push(right.shift());
+          while (left.length) {
+            result.push(left.shift());
+          }
+          while (right.length) {
+            result.push(right.shift());
+          }
           return result;
         },
         filter = function (arr, value) {
@@ -199,6 +243,7 @@
             pattern = false;
           }
           for (var i = 0; i < arr.length; i++) {
+            // do not filter
             if (arr[i].class == "google") {
               fs.push(arr[i]);
               continue;
@@ -213,11 +258,15 @@
         },
         doFilter = function (f, value, pattern) {
           try {
-            if (pattern && !f.val.match(pattern)) return;
+            if (pattern && !f.val.match(pattern)) {
+              return;
+            }
             var r = {};
             var priority = 3;
             if (pattern) {
-              if (f.path.replace(/^.*[\\\/]/, '').indexOf(value) === 0) priority = 1;
+              if (f.path.replace(/^.*[\\\/]/, '').indexOf(value) === 0) {
+                priority = 1;
+              }
               else {
                 var parts = f.path.split(/[ _\/-]/);
                 for (var i = 0; i < parts.length; i++) {
@@ -233,8 +282,6 @@
             r.priority = priority;
             r.defaultVal = f.defaultVal;
             r.path = f.path;
-            r.user = f.user;
-            r.disable = f.disable;
             r.class = f.class;
             return r;
           } catch (e) {
@@ -243,12 +290,13 @@
         update = function (fs) {
           var first = true;
           for (var i = 0; i < fs.length; i++) {
-            if (first 
+            // selection
+            if (first
               && Config.navig.value.length
               && key !== 8
               && fs[i].defaultVal.toLowerCase().indexOf(Config.navig.value.toLowerCase()) == 0
               && fs[i].class != "google"
-              ) { // 8 is backspace
+            ) { // 8 is backspace
               var start = Config.navig.value.length;
               var end = fs[i].defaultVal.length;
               Config.navig.value = fs[i].defaultVal;
@@ -257,8 +305,6 @@
             }
             var li = document.createElement("li");
             li.innerHTML = fs[i].val;
-            if (fs[i].user) li.classList.add("user");
-            if (fs[i].disable) li.classList.add("disabled");
             li.className = fs[i].class;
             li.dataset.path = fs[i].path;
             li.dataset.val = fs[i].defaultVal;
@@ -310,7 +356,9 @@
           Config.files = {};
           Config.navig = null;
           IGCMS.initCfg(Config, cfg);
-          if (Config.navig === null) throw "Config.navig is null";
+          if (Config.navig === null) {
+            throw "Config.navig is null";
+          }
           initStructure();
           initEvents();
         },
@@ -321,7 +369,6 @@
         clearSelection: clearSelection
       }
     };
-
 
     var found = false;
     var selects = document.getElementsByTagName("select");
@@ -334,14 +381,19 @@
       var files = [];
       for (var j = 0; j < options.length; j++) {
         var val = options[j].textContent;
+        var classes = options[j].className;
+        if (val.indexOf("#user") !== -1) {
+          classes += " user";
+        }
+        if (val.indexOf("#disabled") !== -1) {
+          classes += " disabled";
+        }
         files.push({
           path: (options[j].value ? options[j].value : options[j].textContent),
           priority: 0,
           val: val,
           defaultVal: val,
-          user: val.indexOf("#user") !== -1,
-          disable: val.indexOf("#disabled") !== -1,
-          class: options[j].className
+          class: classes
         })
       }
       files.push({
@@ -349,8 +401,6 @@
         priority: 10,
         val: "Hledat na Google",
         defaultVal: "Hledat na Google",
-        user: false,
-        disable: false,
         class: "google"
       })
       toInit.push({files: files, navig: s});
@@ -358,7 +408,7 @@
 
     if (found) {
       var css = '/* completable.js */'
-        + ' .completable-input { width: 35em; max-width: 100%; }'
+        + GlobalConfig.inputClass + ' { width: 35em; max-width: 100%; }'
         + ' ul.navigList {overflow-y: auto; position: absolute; background: white; z-index: 100; /*width: 25em; max-width: 100%;*/ margin: 0; padding: 0; list-style: none; box-shadow: 0.2em 0.2em 0.2em #555; }'
         + ' ul.navigList li { margin: 0; padding: 0.25em 0.5em; }'
         + ' ul.navigList li:hover { background: #eee; cursor: pointer; }'
