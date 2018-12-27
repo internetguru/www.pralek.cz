@@ -15,7 +15,8 @@ ol.contentlink-bc li {display: inline-block;}
 }
 #header form,
 .moreable-linkwrapper,
-.filter a {
+.filter a,
+ol.otazky button {
   display: none;
 }
 /***************************/
