@@ -8,6 +8,12 @@ body {
   font-family: Cabin, sans-serif;
   color: #444;
 }
+.clanek .heading a,
+.wf-active h1,
+.wf-active h2,
+.wf-active h3 {
+  font-family: Rubik, sans-serif;
+}
 /***************************/
 strong {
   font-weight: 600;
@@ -20,41 +26,12 @@ a[href] {
 }
 /***************************/
 dl.figure {
-  
   color: #37474f;
   padding: 0.5em;
 }
 dl.figure dt {
   /* width: 100%; */
   align-items: center;
-}
-/***************************/
-.clanek .heading a,
-h1, h2, h3 {
-  font-weight: 400;
-  font-family: Arial, Helvetica, sans-serif;
-}
-.clanek .heading a,
-.wf-active h1,
-.wf-active h2,
-.wf-active h3 {
-  font-family: Rubik, sans-serif;
-}
-h1 {
-  font-size: 2.5em;
-}
-h2 {
-  font-size: 2em;
-}
-h2, h3 {
-  color: #111;
-}
-h1 + p {
-  font-style: italic;
-  font-size: 1.2em;
-  margin-top: 0;
-  margin-bottom: 3em;
-  max-width: 45em;
 }
 /***************************/
 #header {
@@ -66,13 +43,7 @@ h1 + p {
 }
 #header .contentlink-bc {
   color: white;
-  padding: 0 1.25em;
   flex-shrink: 0;
-}
-#header .contentlink-bc li a {
-  display: flex;
-  align-items: center;
-  margin-top: 0.6em;
 }
 #header .contentlink-bc li a[href] span {
   border-color: #ffffff99;
@@ -83,9 +54,6 @@ h1 + p {
 #header .contentlink-bc a {
   color: white;
   border: none;
-}
-#header .contentlink-bc img {
-  width: 2.5em;
 }
 #header .contentlink-bc span {
   display: none;
@@ -145,13 +113,9 @@ h1 + p {
   color: white;
 }
 .hdesc > div > * {
-  text-align: center;
   padding: 0;
   position: relative;
   z-index: 1;
-  max-width: 37em;
-  margin-left: auto;
-  margin-right: auto;
 }
 .hdesc > div > div > * {
   line-height: 1;
@@ -201,23 +165,6 @@ h1 + p {
   }
 }
 /***************************/
-dl.figure dt object {
-  width: 100%;
-}
-dl.figure.author {
-  display: block;
-  background: none;
-  max-width: 57em;
-  margin: 4em auto;
-}
-dl.figure.author:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-dl.figure.author .img + dd {
-  font-size: 1.2em;
-}
 dl.figure.author dt q {
   display: block;
   margin-top: 1rem;
@@ -227,18 +174,6 @@ dl.figure.author dt q {
 }
 dl.figure.author dd q {
   font-style: italic;
-}
-@media all and (min-width: 42em) {
-  dl.figure.author {
-    text-align: left;
-  }
-  dl.figure.author .img {
-    float: left;
-    width: auto;
-  }
-  dl.figure.author > *:not(.img) {
-    margin-left: 16rem;
-  }
 }
 /***************************/
 #content .clanek {
@@ -255,26 +190,6 @@ dl.figure.author dd q {
   background: white;
   width: 100%;
   max-width: 25em;
-}
-dl.clanek > *:not(:first-child):not(.date) {
-  padding: 0 1rem;
-  width: calc(100% - 2rem);
-}
-.clanek img {
-  object-fit: cover;
-  width: 100%;
-  height: 15em;
-  max-height: 100%;
-  border-radius: 0.25em 0.25em 0 0;
-}
-.clanek dt:first-child {
-  position: relative;
-}
-.clanek dt:first-child a {
-  display: block;
-  position: relative;
-  z-index: 1;
-  border: none;
 }
 .clanek dt:first-child img {
   display: block;
@@ -307,15 +222,6 @@ a.tag:before,
   margin: 0;
   width: 100%;
 }
-.clanek dd.kw {
-  margin: 0.75em 0;
-  order: 0;
-  justify-content: flex-start;
-}
-.clanek .heading {
-  font-size: 1.5em;
-  margin: 0 0 0.25em 0;
-}
 .clanek .heading a {
   color: #111;
   border: none;
@@ -328,13 +234,7 @@ a.tag:before,
   top: 0.5em;
   right: 0.5em;
   color: white;
-  text-align: right;
-  width: calc(100% - 2rem);
   z-index: 2;
-}
-.clanek .desc {
-  flex-grow: 1;
-  margin: 0.5em 0;
 }
 .clanek .desc.expand {
   height: auto;
@@ -349,11 +249,6 @@ a.tag:before,
   line-height: 0;
   vertical-align: -0.1em;
 }
-#content .clanek .extra {
-  padding: 0.5em;
-  padding-top: 0;
-  width: calc(100% - 1rem);
-}
 .clanek .extra ul {
   list-style: none;
   margin: 0;
@@ -362,8 +257,6 @@ a.tag:before,
   max-width: 100%;
 }
 .clanek .extra ul li {
-  margin: 0;
-  padding: 0;
   height: 2.25em;
 }
 .clanek .extra ul li:nth-child(2) {
