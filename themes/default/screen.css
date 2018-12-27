@@ -41,8 +41,8 @@ dl.figure dt {
   z-index: 11;
   width: 100%;
 }
-#header .contentlink-bc {
-  color: white !important;
+#header .contentlink-bc a {
+  color: white;
 }
 #header .contentlink-bc li a[href] span {
   border-color: #ffffff99;
