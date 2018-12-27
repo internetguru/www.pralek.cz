@@ -47,7 +47,7 @@
   </fn>
   
   <fn id="replacenames" fn="replace">
-    <data name="/?clanky=antibiotika#clanky"></data>
+    <data name="/?clanky=antibiotika#clanky">x</data>
     <data name="=bolest">=bolest</data>
     <data name="/?clanky=boulička#clanky"></data>
     <data name="=břicho">=bricho</data>
