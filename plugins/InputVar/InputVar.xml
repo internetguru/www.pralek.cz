@@ -43,7 +43,7 @@
   <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;/?clanky=\1#clanky&#x22; title=&#x22;Filtrovat&#x22; class=&#x22;tag nowarning&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
   
   <fn id="removetitle" fn="replace">
-    <data name='title=&#x22;Filtrovat&#x22;'></data>
+    <data name='title="Filtrovat"'></data>
   </fn>
   
   <fn id="replacenames" fn="replace">
