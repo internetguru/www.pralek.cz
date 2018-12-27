@@ -193,3 +193,18 @@ dl.clanek > *:not(:first-child):not(.date) {
   width: calc(100% - 2rem);
 }
 /***************************/
+a.tag {
+  border: none;
+  margin: 0.2em 0.5em 0.2em 0;
+  display: inline-block;
+  border-radius: 0.2em;
+}
+a.tag:before {
+  font-family: "FontAwesome";
+  margin-right: 0.25em;
+  vertical-align: middle;
+  content: "\f02b";
+  font-size: 1.25em;
+  line-height: 0;
+}
+/***************************/
