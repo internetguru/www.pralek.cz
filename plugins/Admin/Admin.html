@@ -19,8 +19,9 @@
   <h id="user" class="hideable hideable-nohide">Uživatelský soubor</h>
   <desc>n/a</desc>
   <form class="editable fillable" action="/" method="post" var="linkadmin@action disabled@class">
-    <textarea cols="40" name="content" rows="20" class="codemirror" var="content classtype@class"/>
     <ul>
+      <dt>Obsah souboru</dt>
+      <dd><textarea cols="40" name="content" rows="20" class="codemirror" var="content classtype@class"/></dd>
       <li><label>Uložit do souboru <input name="filename" type="text" var="filename@value filepathpattern@pattern"/></label></li>
       <li><label><input name="repair" value="repair" type="checkbox" checked="checked" /> Automaticky opravovat chyby</label></li>
       <li><label><input name="overwrite" value="overwrite" type="checkbox"/> Přepsat soubor, pokud existuje</label></li>
