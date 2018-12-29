@@ -1,7 +1,7 @@
 (function() {
   require("IGCMS.Completable", function() {
     IGCMS.Completable.init({
-      selector: 'select[name="Admin"]',
+      selectSelector: 'select[name="Admin"]',
       placeholder: "Vybrat soubor",
       sendFormText: "Odeslat formulář",
       sendFormClass: "sendform"
