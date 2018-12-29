@@ -5,7 +5,8 @@
   <!-- <desc kw="administrace, plugin, soubory">Administrace souboru <samp var="filename">n/a</samp> ve formátu <samp var="schema">n/a</samp></desc> -->
   <form action="/" method="get" var="rooturl@action">
     <dl>
-      <dt><select name="Admin" class="completable"><option var="filepicker_options">n/a</option></select></dt>
+      <dt><label for="filepicker">Seznam souborů</label></dt>
+      <dd><select id="filepicker" name="Admin" class="completable"><option var="filepicker_options">n/a</option></select></dd>
       <dd>
         <span var="pagespeed"><input type="hidden" value="off" name="PageSpeed"/></span>
         <span var="debug"><input type="hidden" value="on" name="Debug"/></span>
@@ -20,8 +21,7 @@
   <desc>n/a</desc>
   <form class="editable fillable" action="/" method="post" var="linkadmin@action disabled@class">
     <ul>
-      <dt>Obsah souboru</dt>
-      <dd><textarea cols="40" name="content" rows="20" class="codemirror" var="content classtype@class"/></dd>
+      <li><label>Obsah souboru <textarea cols="40" name="content" rows="20" class="codemirror" var="content classtype@class"/></label></li>
       <li><label>Uložit do souboru <input name="filename" type="text" var="filename@value filepathpattern@pattern"/></label></li>
       <li><label><input name="repair" value="repair" type="checkbox" checked="checked" /> Automaticky opravovat chyby</label></li>
       <li><label><input name="overwrite" value="overwrite" type="checkbox"/> Přepsat soubor, pokud existuje</label></li>
@@ -42,4 +42,3 @@
   <p var="admin-varlist">n/a</p>
 </section>
 </body>
-
