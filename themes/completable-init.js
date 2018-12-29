@@ -4,7 +4,8 @@
       selectSelector: 'select[name="Admin"]',
       placeholder: "Vybrat soubor",
       sendFormText: "Odeslat formulář",
-      sendFormClass: "sendform"
+      sendFormClass: "sendform",
+      keyboardShortcut: "ctrl+p"
     })
 //     IGCMS.Completable.init({
 //       selector: '#header select.completable',
