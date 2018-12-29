@@ -5,7 +5,7 @@
 
 # Administrace
 
-{kw="administrace, plugin, soubory"}
+n/a
 
-Administrace souboru <samp>n/a {var="filename"}</samp> ve formátu <samp>n/a {var="schema"}</samp>
+<!-- <desc kw="administrace, plugin, soubory">Administrace souboru <samp var="filename">n/a</samp> ve formátu <samp var="schema">n/a</samp></desc> -->
 
