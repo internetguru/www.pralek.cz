@@ -1,11 +1,11 @@
-// (function() {
-//   require("IGCMS.Completable", function() {
-//     IGCMS.Completable.init({
-//       selector: 'select[name="Admin"]',
-//       placeholder: "Vybrat soubor",
-//       sendFormText: "Odeslat formulář",
-//       sendFormClass: "sendform"
-//     })
+(function() {
+  require("IGCMS.Completable", function() {
+    IGCMS.Completable.init({
+      selector: 'select[name="Admin"]',
+      placeholder: "Vybrat soubor",
+      sendFormText: "Odeslat formulář",
+      sendFormClass: "sendform"
+    })
 //     IGCMS.Completable.init({
 //       selector: '#header select.completable',
 //       placeholder: "Co Vás zajímá? (Ctrl+Shift+F)",
@@ -14,5 +14,5 @@
 //       sendFormText: "Hledat na Google",
 //       sendFormClass: "google"
 //     })
-//   })
-// })()
+  })
+})()
