@@ -17,21 +17,19 @@
   </form>
   <section>
     <!-- <h class="hideable hideable-nohide">Uživatelský soubor, mód <samp var="mode">n/a</samp>, stav <samp var="status warning@class">n/a</samp></h> -->
-    <h id="user" class="hideable hideable-nohide">Uživatelský soubor</h>
+    <h id="user">Uživatelský soubor</h>
     <desc>n/a</desc>
     <form class="editable fillable" action="/" method="post" var="linkadmin@action disabled@class">
-      <fieldset><legend>User</legend>
-        <label for="usercontent">Obsah souboru</label>
-        <textarea cols="40" id="usercontent" name="content" rows="20" class="codemirror" var="content classtype@class"/>
-        <ul>
-          <li><label>Uložit do souboru <input name="filename" type="text" var="filename@value filepathpattern@pattern"/></label></li>
-          <li><label><input name="repair" value="repair" type="checkbox" checked="checked" /> Automaticky opravovat chyby</label></li>
-          <li><label><input name="overwrite" value="overwrite" type="checkbox"/> Přepsat soubor, pokud existuje</label></li>
-          <li><input name="saveandstay" type="submit" value="Uložit" title="Ctrl+S"/></li>
-          <li><input name="saveandgo" type="submit" value="Uložit a přejít" title="Ctrl+Shift+S"/><input name="userfilehash" type="hidden" value="" var="userfilehash@value"/></li>
-          <li><a class="toggle" var="changestatusurl@href changestatus">n/a</a></li>
-        </ul>
-      </fieldset>
+      <ul>
+        <li><label for="usercontent">Obsah souboru</label></li>
+        <li><textarea cols="40" id="usercontent" name="content" rows="20" class="codemirror" var="content classtype@class"/></li>
+        <li><label>Uložit do souboru <input name="filename" type="text" var="filename@value filepathpattern@pattern"/></label></li>
+        <li><label><input name="repair" value="repair" type="checkbox" checked="checked" /> Automaticky opravovat chyby</label></li>
+        <li><label><input name="overwrite" value="overwrite" type="checkbox"/> Přepsat soubor, pokud existuje</label></li>
+        <li><input name="saveandstay" type="submit" value="Uložit" title="Ctrl+S"/></li>
+        <li><input name="saveandgo" type="submit" value="Uložit a přejít" title="Ctrl+Shift+S"/><input name="userfilehash" type="hidden" value="" var="userfilehash@value"/></li>
+        <li><a class="toggle" var="changestatusurl@href changestatus">n/a</a></li>
+      </ul>
     </form>
     <h id="default" class="hideable" var="nohide@class">Výchozí soubor</h>
     <desc>n/a</desc>
