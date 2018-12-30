@@ -7,11 +7,7 @@
 
 n/a
 
-<!-- <desc kw="administrace, plugin, soubory">Administrace souboru <samp var="filename">n/a</samp> ve formátu <samp var="schema">n/a</samp></desc> -->
-
-<!-- <h class="hideable hideable-nohide">Uživatelský soubor, mód <samp var="mode">n/a</samp>, stav <samp var="status warning@class">n/a</samp></h> -->
-
-{id="user"}
+{id="user" class="hideable hideable-nohide"}
 
 ## Uživatelský soubor
 
@@ -24,8 +20,6 @@ n/a
 n/a
 
     n/a {class="selectable" var="defaultcontent"}
-
-<!-- <h class="hideable">Výsledek, mód <samp var="mode">n/a</samp></h> -->
 
 {id="result" class="hideable"}
 

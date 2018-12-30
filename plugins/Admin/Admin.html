@@ -2,42 +2,15 @@
 <body xml:lang="cs" ns="https://www.internetguru.cz" class="admin">
   <h var="heading" author="InternetGuru" ctime="2015-05" id="admin">Administrace</h>
   <desc>n/a</desc>
-  <!-- <desc kw="administrace, plugin, soubory">Administrace souboru <samp var="filename">n/a</samp> ve formátu <samp var="schema">n/a</samp></desc> -->
-  <form action="/" method="get" var="rooturl@action">
-    <dl>
-      <dt><label for="filepicker">Seznam souborů</label></dt>
-      <dd><select id="filepicker" name="Admin" class="completable"><option var="filepicker_options">n/a</option></select></dd>
-      <dd>
-        <span var="pagespeed"><input type="hidden" value="off" name="PageSpeed"/></span>
-        <span var="debug"><input type="hidden" value="on" name="Debug"/></span>
-        <span var="cache"><input type="hidden" var="cache_value@value" name="Cache"/></span>
-        <input type="submit" value="Zvolit soubor"/>
-      </dd>
-    </dl>
-  </form>
   <section>
-    <!-- <h class="hideable hideable-nohide">Uživatelský soubor, mód <samp var="mode">n/a</samp>, stav <samp var="status warning@class">n/a</samp></h> -->
-    <h id="user" class="hideable">Uživatelský soubor</h>
+    <h id="user" class="hideable hideable-nohide">Uživatelský soubor</h>
     <desc>n/a</desc>
-    <form class="editable fillable" action="/" method="post" var="linkadmin@action disabled@class">
-      <ul>
-        <li><label for="usercontent">Obsah souboru</label></li>
-        <li><textarea cols="40" id="usercontent" name="content" rows="20" class="codemirror" var="content classtype@class"/></li>
-        <li><label>Uložit do souboru <input name="filename" type="text" var="filename@value filepathpattern@pattern"/></label></li>
-        <li><label><input name="repair" value="repair" type="checkbox" checked="checked" /> Automaticky opravovat chyby</label></li>
-        <li><label><input name="overwrite" value="overwrite" type="checkbox"/> Přepsat soubor, pokud existuje</label></li>
-        <li><input name="saveandstay" type="submit" value="Uložit" title="Ctrl+S"/></li>
-        <li><input name="saveandgo" type="submit" value="Uložit a přejít" title="Ctrl+Shift+S"/><input name="userfilehash" type="hidden" value="" var="userfilehash@value"/></li>
-        <li><a class="toggle" var="changestatusurl@href changestatus">n/a</a></li>
-      </ul>
-    </form>
     <h id="default" class="hideable" var="nohide@class">Výchozí soubor</h>
     <desc>n/a</desc>
-    <blockcode class="selectable" var="defaultcontent">n/a</blockcode>
-    <!-- <h class="hideable">Výsledek, mód <samp var="mode">n/a</samp></h> -->
+    <pre><code class="selectable" var="defaultcontent">n/a </code></pre>
     <h id="result" class="hideable">Výsledek</h>
     <desc>n/a</desc>
-    <blockcode class="selectable" var="resultcontent">n/a</blockcode>
+    <pre><code class="selectable" var="resultcontent">n/a </code></pre>
     <h id="vars" class="hideable">Globální proměnné</h>
     <desc>n/a</desc>
     <p var="admin-varlist">n/a</p>
