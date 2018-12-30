@@ -11,7 +11,7 @@ n/a
 
 <!-- <h class="hideable hideable-nohide">Uživatelský soubor, mód <samp var="mode">n/a</samp>, stav <samp var="status warning@class">n/a</samp></h> -->
 
-{id="user" class="hideable hideable-nohide"}
+{id="user"}
 
 ## Uživatelský soubor
 
