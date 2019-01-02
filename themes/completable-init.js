@@ -8,7 +8,7 @@
       keyboardShortcut: "ctrl+p"
     })
     IGCMS.Completable.init({
-      selector: '#header select.completable',
+      selectSelector: '#header select.completable',
       placeholder: "Co Vás zajímá? (Ctrl+Shift+F)",
       defaultChangeText: "Změnit",
       filterSelector: ".filter",
