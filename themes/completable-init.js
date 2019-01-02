@@ -14,7 +14,7 @@
       filterSelector: ".filter",
       sendFormText: "Hledat na Google",
       sendFormClass: "google",
-      keyboardShortcut: "ctrl+shif+f"
+      keyboardShortcut: "ctrl+shift+f"
     })
   })
 })()
