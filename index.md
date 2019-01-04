@@ -48,7 +48,7 @@ Po vložení adresy Vám na ni systém zašle kontrolní e-mail pro potvrzení, 
   * Pokud kontrolní mail nepotvrdíte, Váš účet nebude aktivován.
   * Ve schránce hledejte zprávu od <samp>no-reply@pralek.cz</samp> s předmětem <samp>Ověření žádosti o registraci</samp>.
 
-{id="nastaveni_filtru" short="Nastavení filtru"}
+{short="Nastavení filtru" id="nastaveni_filtru"}
 
 ### Zajištění, že zprávy dorazí
 
