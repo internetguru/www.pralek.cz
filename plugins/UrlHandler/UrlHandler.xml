@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UrlHandler>
-  <redir gen="gen" parName='s' parValue='stitky/bolest'>/?clanky=bolest#clanky
+  <redir gen="gen" parName='s' parValue='stitky/bolest'>/?stitek=bolest#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/bricho'>/?clanky=bricho#clanky
+  <redir gen="gen" parName='s' parValue='stitky/bricho'>/?stitek=bricho#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/cevy'>/?clanky=cevy#clanky
+  <redir gen="gen" parName='s' parValue='stitky/cevy'>/?stitek=cevy#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/detske'>/?clanky=detske#clanky
+  <redir gen="gen" parName='s' parValue='stitky/detske'>/?stitek=detske#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/krvaceni'>/?clanky=krvaceni#clanky
+  <redir gen="gen" parName='s' parValue='stitky/krvaceni'>/?stitek=krvaceni#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/kuze-podkozi'>/?clanky=kuze-podkozi#clanky
+  <redir gen="gen" parName='s' parValue='stitky/kuze-podkozi'>/?stitek=kuze-podkozi#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/latkova_vymena'>/?clanky=latkova_vymena#clanky
+  <redir gen="gen" parName='s' parValue='stitky/latkova_vymena'>/?stitek=latkova_vymena#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/mikroorganizmy'>/?clanky=mikroorganizmy#clanky
+  <redir gen="gen" parName='s' parValue='stitky/mikroorganizmy'>/?stitek=mikroorganizmy#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/mozek-nervy'>/?clanky=mozek-nervy#clanky
+  <redir gen="gen" parName='s' parValue='stitky/mozek-nervy'>/?stitek=mozek-nervy#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/nadory'>/?clanky=nadory#clanky
+  <redir gen="gen" parName='s' parValue='stitky/nadory'>/?stitek=nadory#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/nejctenejsi'>/?clanky=nejctenejsi#clanky
+  <redir gen="gen" parName='s' parValue='stitky/nejctenejsi'>/?stitek=nejctenejsi#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/nemoc'>/?clanky=nemoc#clanky
+  <redir gen="gen" parName='s' parValue='stitky/nemoc'>/?stitek=nemoc#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/neurazove'>/?clanky=neurazove#clanky
+  <redir gen="gen" parName='s' parValue='stitky/neurazove'>/?stitek=neurazove#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/nezhoubne'>/?clanky=nezhoubne#clanky
+  <redir gen="gen" parName='s' parValue='stitky/nezhoubne'>/?stitek=nezhoubne#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/organy'>/?clanky=organy#clanky
+  <redir gen="gen" parName='s' parValue='stitky/organy'>/?stitek=organy#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/osetreni'>/?clanky=osetreni#clanky
+  <redir gen="gen" parName='s' parValue='stitky/osetreni'>/?stitek=osetreni#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/pohyb'>/?clanky=pohyb#clanky
+  <redir gen="gen" parName='s' parValue='stitky/pohyb'>/?stitek=pohyb#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/poraneni'>/?clanky=poraneni#clanky
+  <redir gen="gen" parName='s' parValue='stitky/poraneni'>/?stitek=poraneni#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/poruchy_vedomi'>/?clanky=poruchy_vedomi#clanky
+  <redir gen="gen" parName='s' parValue='stitky/poruchy_vedomi'>/?stitek=poruchy_vedomi#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/prevence'>/?clanky=prevence#clanky
+  <redir gen="gen" parName='s' parValue='stitky/prevence'>/?stitek=prevence#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/prvni_pomoc'>/?clanky=prvni_pomoc#clanky
+  <redir gen="gen" parName='s' parValue='stitky/prvni_pomoc'>/?stitek=prvni_pomoc#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/srdce'>/?clanky=srdce#clanky
+  <redir gen="gen" parName='s' parValue='stitky/srdce'>/?stitek=srdce#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/strava-zazivani'>/?clanky=strava-zazivani#clanky
+  <redir gen="gen" parName='s' parValue='stitky/strava-zazivani'>/?stitek=strava-zazivani#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/teplota'>/?clanky=teplota#clanky
+  <redir gen="gen" parName='s' parValue='stitky/teplota'>/?stitek=teplota#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/urazy'>/?clanky=urazy#clanky
+  <redir gen="gen" parName='s' parValue='stitky/urazy'>/?stitek=urazy#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/usni-nosni-krcni'>/?clanky=usni-nosni-krcni#clanky
+  <redir gen="gen" parName='s' parValue='stitky/usni-nosni-krcni'>/?stitek=usni-nosni-krcni#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/zaludek'>/?clanky=zaludek#clanky
+  <redir gen="gen" parName='s' parValue='stitky/zaludek'>/?stitek=zaludek#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/zanet'>/?clanky=zanet#clanky
+  <redir gen="gen" parName='s' parValue='stitky/zanet'>/?stitek=zanet#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/zdravy_zivotni_styl'>/?clanky=zdravy_zivotni_styl#clanky
+  <redir gen="gen" parName='s' parValue='stitky/zdravy_zivotni_styl'>/?stitek=zdravy_zivotni_styl#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/zhoubne'>/?clanky=zhoubne#clanky
+  <redir gen="gen" parName='s' parValue='stitky/zhoubne'>/?stitek=zhoubne#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/zlomeniny'>/?clanky=zlomeniny#clanky
+  <redir gen="gen" parName='s' parValue='stitky/zlomeniny'>/?stitek=zlomeniny#clanky
   </redir>
-  <redir gen="gen" parName='s' parValue='stitky/zvraceni'>/?clanky=zvraceni#clanky
+  <redir gen="gen" parName='s' parValue='stitky/zvraceni'>/?stitek=zvraceni#clanky
   </redir>
   <redir gen="gen" parName='s' parValue='clanky/akne'>akne?
   </redir>
