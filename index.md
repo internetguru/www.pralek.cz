@@ -99,7 +99,7 @@ n/a
     </ul>
  -->
 
-{var="doclist-clanky" class="nomultiple"}
+{var="doclist-stitek" class="nomultiple"}
 
   * n/a
 
