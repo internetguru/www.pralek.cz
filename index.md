@@ -15,7 +15,7 @@ Tento web obsahuje články o praktickém lékařství s cílem zvýšit schopno
 :   MUDr. Jaroslav Pavelka (*1952) je absolventem první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978.
 :   Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař RLP.
 
-{short="Odběr novinek" id="upozorneni"}
+{short="Odběr novinek" id="odber_novinek"}
 
 ## Odběr upozornění na nově vyšlé články
 
