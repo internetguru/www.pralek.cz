@@ -13,6 +13,7 @@ Mazová žlála je drobný váček s kanálkem, kterým na povrch kůže vyték�
 
 Ucpaná mazová žláza se zvětšuje, stává se [viditelnou nebo hmatnou bouličkou (ateromem)][1]. V případě pnutí je citlivá. Ucpaný vývodný kanálek může být vidět jako černá tečka v kůži. Vyprázdnění ucpané žlázky lze podpořit mechanicky – vymáčknutím.
 
+{id="mechanicke\_vyprazdneni\_nezanicene_zlazy"}
 
 ## Mechanické vyprázdnění nezanícené žlázy
 
