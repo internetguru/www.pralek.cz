@@ -3,7 +3,7 @@
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="akne" short="Akné" ctime="2008-02-26" mtime="2017-10-01"}
 
-# Boj proti akné
+# Boj proti akné!
 
 {kw="žláza, kůže-podkoží, boulička, prevence, zánět, ošetření, nemoc, poranění, teplota"}
 
