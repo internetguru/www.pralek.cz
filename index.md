@@ -84,7 +84,7 @@ n/a
     Pro odhlášení z odebírání upozornění klikněte na následující odkaz:
        http://alert.pralek.cz/… {class="nohighlight"}
 
-{id="clanky" short="Články" class="filter"}
+{id="clanky" short="Články"}
 
 ## Seznam článků
 
@@ -92,12 +92,9 @@ n/a
 
 Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata nových článků závisí na aktuálním dění a na odezvě čtenářů.
 
-<!-- 
-    <ul class="current-label">
-      <li>Zobrazené články: <span var="inputvar-taglist">n/a</span></li>
-      <li class="filter"><a class="nowarning button">Změnit</a></li>
-    </ul>
- -->
+{class="current-label"}
+
+  * <span var="inputvar-createtag agregator-current-stitek">n/a</span> {class="filter"}
 
 {var="doclist-stitek" class="nomultiple"}
 
