@@ -94,7 +94,7 @@ n/a
 
 {class="current-label"}
 
-  * <span var="inputvar-createtag agregator-current-stitek">n/a</span> {class="filter"}
+  * <span var="inputvar-createtag agregator-current-stitek">nejčtenější</span> {class="filter"}
 
 {var="doclist-stitek" class="nomultiple"}
 
