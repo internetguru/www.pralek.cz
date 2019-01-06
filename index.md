@@ -94,7 +94,7 @@ n/a
 
 {class="current-label"}
 
-  * <a>nejčtenější {fn="inputvar-maketags" var="agregator-current-stitek"}</a> {class="filter"}
+  * nejčtenější {class="filter" fn="inputvar-maketags" var="agregator-current-stitek"}
 
 {var="doclist-stitek" class="nomultiple"}
 
