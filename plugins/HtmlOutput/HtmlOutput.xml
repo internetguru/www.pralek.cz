@@ -3,6 +3,7 @@
   <jsFile append="body">themes/otazky.js</jsFile>
   <jsFile append="body">themes/expand.js</jsFile>
   <jsFile append="body">themes/moreable.js</jsFile>
+  <jsFile append="body">themes/moreableinit.js</jsFile>
   <jsFile append="body">lib/clipboard.js/dist/clipboard.min.js</jsFile>
   <jsFile append="body">themes/clipboardinit.js</jsFile>
   <jsFile append="body">themes/filter-focus.js</jsFile>
