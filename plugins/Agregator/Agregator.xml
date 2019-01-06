@@ -15,10 +15,10 @@
         <li><a var="link@href" class="button">Přečíst</a></li>
 <!--         <li><span class="button facebook" title="Sdílet na facebooku"><span class="fa fa-facebook-official">share</span></span></li> -->
         <li>
-          <ul class="hideable">
-            <li>Zobrazit</li>
-            <li><span class="copyable">aaaaaaa</span></li>
-          </ul>
+          <span class="hideable">
+            <span>Zobrazit</span>
+            <span class="copyable">aaaaaaa</span>
+          </span>
         </li>
       </ul></dd>
     </dl>
