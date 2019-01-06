@@ -14,7 +14,7 @@
       <dd class="extra"><ul>
         <li><a var="link@href" class="button">Přečíst</a></li>
 <!--         <li><span class="button facebook" title="Sdílet na facebooku"><span class="fa fa-facebook-official">share</span></span></li> -->
-        <li><span class="button share fa fa-share-alt" title="Zkopírovat odkaz článku" var="link@data-clipboard-text link" data-clipboard-text="https://www.pralek.cz/%s">n/a</span></li>
+        <li><span class="copyable">aaaaaaa</span></li>
       </ul></dd>
     </dl>
   </doclist>
