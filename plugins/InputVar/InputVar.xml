@@ -20,8 +20,8 @@
   </dl>
 </form></var>
   
-  <fn id="xcreatelink" fn="pregreplace" pattern=".*" replacement="https://www.pralek.cz/$0?usp=share" />
-  <fn id="createlink" fn="pregreplace" pattern=".*" replacement="test/$0" />
+  <fn id="xcreatelink" fn="pregreplace" pattern=".+" replacement="https://www.pralek.cz/$0?usp=share" />
+  <fn id="createlink" fn="pregreplace" pattern=".+" replacement="test/$0" />
   
   <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
   <var id="mdfile" var="file" fn="html2md"/>
