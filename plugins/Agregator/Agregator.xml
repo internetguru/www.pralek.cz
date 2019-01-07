@@ -17,7 +17,7 @@
         <li>
           <span class="hideable">
             <span>Sdílet</span>
-            <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
+            <span class="copyable" fn="inputvar-createsharelink" var="link">n/a</span>
           </span>
         </li>
       </ul></dd>
