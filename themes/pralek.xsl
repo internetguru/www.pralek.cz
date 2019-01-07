@@ -22,11 +22,12 @@
   </xsl:template> -->
   
   <xsl:template match="h2[@id='clanky']">
-    <xsl:apply-templates />
-    <xsl:element name="span">
-      <xsl:attribute name="fn">inputvar-maketags</xsl:attribute>
-      <xsl:value-of disable-output-escaping="yes" select="$agregator-current-stitek"/>
-    </xsl:element>
+    <xsl:copy>
+      <xsl:element name="span">
+        <xsl:attribute name="fn">inputvar-maketags</xsl:attribute>
+        <xsl:value-of disable-output-escaping="yes" select="$agregator-current-stitek"/>
+      </xsl:element>
+    </xsl:copy>
   </xsl:template>
   
   <xsl:template match="div[ol[contains(@class, 'otazky')]]">
