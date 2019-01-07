@@ -136,6 +136,7 @@
 <redir gen="gen" parName='s' parValue='clanky/zlomeniny_kosti'>zlomeniny_kosti?</redir>
 <redir gen="gen" parName='s' parValue='clanky/zlucove_kameny'>zlucove_kameny?</redir>
 <redir gen="gen" parName='s' parValue='clanky/znamenko-bradavice-rakovina'>znamenko-bradavice-rakovina?</redir>
+<redir gen="gen" parName='s'>https://www.google.com/search?sitesearch=beta.pralek.cz&amp;q=$parvalue</redir>
   <rewrite match="clanky/"/>
   <redir link="urazy_malych_deti">urazy_deti</redir>
   <redir link="urychleni_rakoviny_operaci">mytus_o_rakovine</redir>
