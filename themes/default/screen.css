@@ -257,6 +257,8 @@ a.tag:before,
 }
 .clanek .extra ul li:nth-child(2) {
   margin-left: auto;
+  display: flex;
+  align-items: flex-end;
 }
 .clanek .extra .button {
   border: none;
@@ -742,5 +744,29 @@ ul.docinfo.nomultiple.global li:before {
 }
 .clanek span.copyable-wrapper > span:first-child + span {
   padding: 0 0.5em;
+}
+.clanek .extra .hideable > span:first-child {
+  font-size: 1.1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1em;
+  height: 2em;
+  width: 2em;
+}
+.clanek .extra .hideable > span:first-child:hover {
+  background: #e0e0e0;
+}
+.clanek .extra .hideable-switch {
+  width: 1em;
+  height: 1.2em;
+  display: block;
+  overflow: hidden;
+  line-height: 1.1;
+}
+.clanek .extra .hideable-switch:before {
+  content: "\f1e0";
+  font-family: "FontAwesome";
+  color: #757575;
 }
 /***************************/
