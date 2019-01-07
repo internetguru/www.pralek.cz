@@ -20,7 +20,7 @@
   </dl>
 </form></var>
   
-  <fn id="createlink" fn="pregreplace" pattern="^" replacement="https://www.pralek.cz/" />
+  <fn id="createsharelink" fn="pregreplace" pattern=".*" replacement="https://www.pralek.cz/$0?usp=share" />
   
   <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
   <var id="mdfile" var="file" fn="html2md"/>
