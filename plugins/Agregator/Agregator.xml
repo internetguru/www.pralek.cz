@@ -16,8 +16,8 @@
 <!--         <li><span class="button facebook" title="Sdílet na facebooku"><span class="fa fa-facebook-official">share</span></span></li> -->
         <li>
           <span class="hideable">
-            <span>Zobrazit</span>
-            <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
+            <span>Sdílet</span>
+            <span class="copyable" fn="inputvar-createsharelink" var="link">n/a</span>
           </span>
         </li>
       </ul></dd>
