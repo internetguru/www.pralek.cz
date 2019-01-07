@@ -715,16 +715,16 @@ ul.docinfo.nomultiple.global li:before {
 .clanek span.copyable-wrapper {
   position: absolute;
   left: 0;
-  top: -2em;
+  top: -2.4em;
   width: 100%;
   max-width: 100%;
   overflow: hidden;
-  background: #fff59d;
+  background: #f1f3ff;
   display: flex;
   justify-content: space-between;
   border-radius: 0.3rem;
   align-items: center;
-  box-shadow: 0 0.15em 0.05em -0.1em rgba(0,0,0,.2), 0 0.1em 0.1em 0 rgba(0,0,0,.14), 0 0.05em 0.25em 0 rgba(0,0,0,.12), 0 -0.6em 1em 0 white;
+  box-shadow: 0 0.15em 0.05em -0.1em rgba(0,0,0,.2), 0 0.1em 0.1em 0 rgba(0,0,0,.14), 0 0.05em 0.25em 0 rgba(0,0,0,.12), 0 -0.6em 0.5em 0em #ffffff9e;
 }
 .clanek span.copyable-wrapper > span:first-child {
   order: 2;
@@ -752,28 +752,24 @@ ul.docinfo.nomultiple.global li:before {
   height: 1.2em;
   flex-shrink: 1;
 }
-.clanek .extra .hideable > span:first-child {
+.clanek .extra .hideable-switch {
   transition: 0.25s ease-out;
   font-size: 1.1em;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 1em;
-  height: 2em;
-  width: 2em;
-}
-.clanek .extra .hideable > span:first-child:hover {
-  background: #e0e0e0;
-}
-.clanek .extra .hideable-switch {
-  width: 1.1em;
-  height: 1.2em;
   display: block;
   overflow: hidden;
   line-height: 1.1;
+  height: 2em;
+  width: 2em;
+  border-radius: 1em;
+  padding-top: 0.45em;
+  padding-left: 0.5em;
+  box-sizing: border-box;
+}
+.clanek .extra .hideable-switch:hover {
+  background: #e0e0e0;
 }
 .clanek .extra .hideable-switch:before {
-  content: "\f1e0";
+  content: "\f1e0\n\n";
   font-family: "FontAwesome";
   color: #757575;
 }
