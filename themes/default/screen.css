@@ -710,3 +710,37 @@ ul.docinfo.nomultiple.global li:before {
   color: #757575;
 }
 /***************************/
+.clanek span.copyable-wrapper {
+  position: absolute;
+  left: 0;
+  top: -2em;
+  width: 100%;
+  background: #eeeeee;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 0.3rem;
+  align-items: center;
+}
+.clanek span.copyable-wrapper > span:first-child {
+  order: 2;
+  font-size: 1.2em;
+  background: #e0e0e0;
+  padding: 0.1em 0.2em 0.1em 0.4em;
+  border-radius: 0 0.3rem 0.3rem 0;
+}
+.clanek span.copyable-wrapper > span:first-child button {
+  padding: 0;
+  height: 1.2em;
+  width: 1.2em;
+  border-radius: 0;
+  overflow: hidden;
+  background: none;
+}
+.clanek span.copyable-wrapper > span:first-child button:before {
+  content: "\f0ea";
+  font-family: "FontAwesome";
+}
+.clanek span.copyable-wrapper > span:first-child + span {
+  padding: 0 0.5em;
+}
+/***************************/
