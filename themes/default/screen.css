@@ -717,11 +717,12 @@ ul.docinfo.nomultiple.global li:before {
   left: 0;
   top: -2em;
   width: 100%;
-  background: #eeeeee;
+  background: #fff59d;
   display: flex;
   justify-content: space-between;
   border-radius: 0.3rem;
   align-items: center;
+  box-shadow: 0 0.15em 0.05em -0.1em rgba(0,0,0,.2), 0 0.1em 0.1em 0 rgba(0,0,0,.14), 0 0.05em 0.25em 0 rgba(0,0,0,.12), 0 -0.6em 1em 0 white;
 }
 .clanek span.copyable-wrapper > span:first-child {
   order: 2;
@@ -731,9 +732,9 @@ ul.docinfo.nomultiple.global li:before {
   border-radius: 0 0.3rem 0.3rem 0;
 }
 .clanek span.copyable-wrapper > span:first-child button {
-  padding: 0;
-  height: 1.2em;
-  width: 1.2em;
+  padding: 0.2em;
+  height: 1.7em;
+  width: 2em;
   border-radius: 0;
   overflow: hidden;
   background: none;
