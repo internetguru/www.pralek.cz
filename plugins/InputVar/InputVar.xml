@@ -20,6 +20,8 @@
   </dl>
 </form></var>
   
+  <fn id="createlink" fn="pregreplace" pattern="^" replacement="https://www.pralek.cz/" />
+  
   <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
   <var id="mdfile" var="file" fn="html2md"/>
   <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s">Navrhnout úpravy článku</a></var>
