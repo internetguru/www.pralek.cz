@@ -6,6 +6,7 @@
   <xsl:param name="inputvar-otazky_h" select="''"/>
   <xsl:param name="inputvar-otazky_desc" select="''"/>
   <xsl:param name="linklist" select="'&lt;p&gt;&lt;em&gt;Nebyly nalezeny žádné odkazy.&lt;/em&gt;&lt;/p&gt;'"/>
+  <xsl:param name="agregator-current-stitek" select="'nejčtenější'"/>
 
 <!--   <xsl:template match="div[@id = 'header']">
     <div id="header"><div>
@@ -19,6 +20,14 @@
       <xsl:apply-templates/>
     </div></div>
   </xsl:template> -->
+  
+  <xsl:template match="h2[@id='clanky']">
+    <xsl:apply-templates />
+    <xsl:element name="span">
+      <xsl:attribute name="fn">inputvar-maketags</xsl:attribute>
+      <xsl:value-of disable-output-escaping="yes" select="$agregator-current-stitek"/>
+    </xsl:element>
+  </xsl:template>
   
   <xsl:template match="div[ol[contains(@class, 'otazky')]]">
     <xsl:copy-of select="."/>
