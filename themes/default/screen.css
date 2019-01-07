@@ -250,47 +250,13 @@ a.tag:before,
   padding: 0;
   display: flex;
   max-width: 100%;
+  position: relative;
 }
 .clanek .extra ul li {
   height: 2.25em;
 }
 .clanek .extra ul li:nth-child(2) {
   margin-left: auto;
-}
-#content .clanek .extra ul li > span {
-  max-width: none;
-  cursor: pointer;
-  color: #9e9e9e;
-  width: .075em;
-  height: 1em;
-  overflow: hidden;
-  /*! background: red; */
-  font-size: 1.2em;
-  border-radius: 100%;
-}
-#content .clanek .extra ul li > span:before {
-  position: relative;
-  top: -0.15em;
-  left: -0.4em;
-}
-.clanek .extra ul li > span span:first-child {
-  flex: 0 0 1em;
-  width: 1em;
-  height: 1.2em;
-  overflow: hidden;
-}
-#content .clanek .extra ul li > span.facebook {
-  /*! background: red; */
-  border-radius: 100%;
-  width: 0.5em;
-  height: 0.5em;
-  padding: 1em;
-}
-#content .clanek .extra ul li > span.facebook span {
-  
-  position: relative;
-  top: -0.4em;
-  left: -0.05em;
 }
 .clanek .extra .button {
   border: none;
