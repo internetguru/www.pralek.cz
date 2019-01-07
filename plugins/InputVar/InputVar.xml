@@ -42,14 +42,18 @@
 <!--     <call>removetitle</call> -->
   </fn>
   
-  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;/?stitek=\1#clanky&#x22; title=&#x22;Filtrovat&#x22; class=&#x22;tag nowarning&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
+  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;href=\1&#x22; title=&#x22;title=\1&#x22; class=&#x22;tag nowarning&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
   
 <!--   <fn id="removetitle" fn="pregreplace" pattern='href="\/\?stitek=bolest#clanky"' replacement='href="aaa"' /> -->
   
   <fn id="replacenames" fn="replace">
-    <data name="/?stitek=antibiotika#clanky"></data>
-    <data name="=bolest">=bolest</data>
-    <data name="/?stitek=boulička#clanky"></data>
+    <data name="href=antibiotika"></data>
+    <data name="href=bolest">/?stitek=bolest#clanky</data>
+    <data name="href=boulička"></data>
+    <data name="title=antibiotika"></data>
+    <data name="title=bolest">Filtrovat</data>
+    <data name="title=boulička"></data>
+    
     <data name="=břicho">=bricho</data>
     <data name="=cévy">=cevy</data>
     <data name="=dětské">=detske</data>
