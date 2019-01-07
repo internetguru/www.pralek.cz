@@ -137,18 +137,11 @@
 <redir gen="gen" parName='s' parValue='clanky/zlucove_kameny'>zlucove_kameny?</redir>
 <redir gen="gen" parName='s' parValue='clanky/znamenko-bradavice-rakovina'>znamenko-bradavice-rakovina?</redir>
   <rewrite match="clanky/"/>
-  <redir link="urazy_malych_deti">urazy_deti
-  </redir>
-  <redir link="urychleni_rakoviny_operaci">mytus_o_rakovine
-  </redir>
-  <redir link="ochladit_spaleninu">ochlazeni_spaleniny
-  </redir>
-  <redir link="operace_zlucniku">zlucove_kameny
-  </redir>
-  <redir link="co_je_akne">akne
-  </redir>
-  <redir link="drobne_krvave_poraneni">drobna_krvava_poraneni
-  </redir>
-  <redir link="jaroslav_pavelka">/#jaroslav_pavelka
-  </redir>
+  <redir link="urazy_malych_deti">urazy_deti</redir>
+  <redir link="urychleni_rakoviny_operaci">mytus_o_rakovine</redir>
+  <redir link="ochladit_spaleninu">ochlazeni_spaleniny</redir>
+  <redir link="operace_zlucniku">zlucove_kameny</redir>
+  <redir link="co_je_akne">akne</redir>
+  <redir link="drobne_krvave_poraneni">drobna_krvava_poraneni</redir>
+  <redir link="jaroslav_pavelka">/#jaroslav_pavelka</redir>
 </UrlHandler>
