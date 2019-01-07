@@ -746,6 +746,7 @@ ul.docinfo.nomultiple.global li:before {
   padding: 0 0.5em;
 }
 .clanek .extra .hideable > span:first-child {
+  transition: 0.25s ease-out;
   font-size: 1.1em;
   display: flex;
   align-items: center;
@@ -758,7 +759,7 @@ ul.docinfo.nomultiple.global li:before {
   background: #e0e0e0;
 }
 .clanek .extra .hideable-switch {
-  width: 1em;
+  width: 1.1em;
   height: 1.2em;
   display: block;
   overflow: hidden;
