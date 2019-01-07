@@ -39,12 +39,12 @@
   <fn id="maketags" fn="sequence">
     <call>makeelements</call>
     <call>replacenames</call>
-<!--     <call>removetitle</call> -->
+    <call>removetitle</call>
   </fn>
   
   <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;/?stitek=\1#clanky&#x22; title=&#x22;Filtrovat&#x22; class=&#x22;tag nowarning&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
   
-<!--   <fn id="removetitle" fn="pregreplace" pattern='href=&#x22;EMPTY&#x22;' replacement='' /> -->
+  <fn id="removetitle" fn="pregreplace" pattern='title="Filtrovat"' replacement='' />
   
   <fn id="replacenames" fn="replace">
     <data name="/?stitek=antibiotika#clanky"></data>
