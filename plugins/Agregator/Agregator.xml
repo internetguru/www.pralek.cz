@@ -12,7 +12,7 @@
       <dt class="heading"><a title="Autor: %s" var="link@href author@title heading">n/a</a></dt>
       <dd class="desc" var="desc">n/a</dd>
       <dd class="extra"><ul>
-        <li><a var="link@href" class="button">Přečísti</a></li>
+        <li><a var="link@href" class="button">Přečíst</a></li>
 <!--         <li><span class="button facebook" title="Sdílet na facebooku"><span class="fa fa-facebook-official">share</span></span></li> -->
         <li>
           <span class="hideable">
