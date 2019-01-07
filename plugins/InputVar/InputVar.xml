@@ -78,7 +78,7 @@
     <data name="title=nádory">Filtrovat</data>
     <data name="href=nádory">/?stitek=nadory#clanky</data>
     <data name="title=nejčtenější">Filtrovat</data>
-    <data name="href=nejčtenější">/?stitek=nejctenejsi#clanky</data>
+    <data name="href=nejčtenější">/#clanky</data>
     <data name="title=nemoc">Filtrovat</data>
     <data name="href=nemoc">/?stitek=nemoc#clanky</data>
     <data name="title=neúrazové">Filtrovat</data>
@@ -129,8 +129,6 @@
     <data name="href=zvíře"></data>
     <data name="title=zvracení">Filtrovat</data>
     <data name="href=zvracení">/?stitek=zvraceni#clanky</data>
-    <data name="title=nejctenejsi">Filtrovat</data>
-    <data name="href=nejctenejsi">/#clanky</data>
     
   </fn>
   
