@@ -79,19 +79,20 @@ dl.figure dt {
   flex-grow: 1;
 }
 .hdesc > div {
-  margin-top: 7em;
+  margin-top: 6em;
   padding-top: 4vw;
   margin-bottom: 4em;
-  padding-bottom: 4vw;
+  padding-bottom: 5vw;
 }
 .hdesc > div div.meta {
   max-width: 25em;
   margin-bottom: 2em;
-  padding-bottom: 3vw;
+  padding-bottom: 2vw;
 }
 .hdesc > div h1 + div {
+  max-width: 40em;
   margin-top: 2em;
-  padding-top: 3vw;
+  padding-top: 2vw;
 }
 @media (min-width: 38em) {
   #header .contentlink-bc span {
