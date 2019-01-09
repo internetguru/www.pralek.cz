@@ -754,23 +754,29 @@ ul.docinfo.nomultiple.global li:before {
 }
 .clanek .extra .hideable-switch {
   transition: 0.25s ease-out;
-  font-size: 1.1em;
+  font-size: 1.2em;
   display: block;
   overflow: hidden;
-  line-height: 1.1;
+  line-height: 1;
   height: 2em;
   width: 2em;
   border-radius: 1em;
-  padding-top: 0.45em;
+  padding-top: 0.5em;
   padding-left: 0.5em;
   box-sizing: border-box;
+  color: transparent;
 }
+.clanek .extra .hideable-nohide .hideable-switch,
 .clanek .extra .hideable-switch:hover {
   background: #e0e0e0;
 }
-.clanek .extra .hideable-switch:before {
-  content: "\f1e0\n\n";
-  font-family: "FontAwesome";
+.clanek .extra .hideable-nohide .hideable-switch:before,
+.clanek .extra .hideable-switch:hover:before {
   color: #757575;
+}
+.clanek .extra .hideable-switch:before {
+  content: "\f1e0";
+  font-family: "FontAwesome";
+  color: #9e9e9e
 }
 /***************************/
