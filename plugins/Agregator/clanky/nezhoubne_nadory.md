@@ -5,7 +5,7 @@
 
 # Nezhoubné nádory a bouličky s nimi zaměňované
 
-{kw="nádory, neúrazové, nezhoubné, nemoc, břicho, kůže-podkoží, nejčtenější, bolest, cévy"}
+{kw="nádory, neúrazové, nezhoubné, nemoc, břicho, kůže-podkoží, bolest, cévy, nejčtenější"}
 
 Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Preventivní odstranění některých nádorů se stalo rutinou, u ostatních většinou postačí pravidelné kontroly.
 

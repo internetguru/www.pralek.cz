@@ -5,7 +5,7 @@
 
 # Poranění nehtu
 
-{kw="úrazy, bolest, krvácení, zánět, nejčtenější, pohyb"}
+{kw="úrazy, bolest, krvácení, zánět, pohyb, nejčtenější"}
 
 Úrazy nehtů bývají pro domnělou malichernost podceňované a ze strachu z bolestivosti ošetření zanedbávané. Neošetřená poranění nehtů však vedou ke zbytečným doživotním deformitám.
 
