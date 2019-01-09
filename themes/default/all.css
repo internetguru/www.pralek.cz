@@ -10,6 +10,13 @@ li {
   margin-bottom: 0.3em;
   max-width: 45em;
 }
+#header,
+#content {
+  max-width: 120em;
+}
+#header > div {
+  max-width: 80em;
+}
 #content > :not(.hdesc):not(.section) > *, #content > .hdesc > *, #content > .section > .part > *, #header > *, #footer > * {
   max-width: 55rem;
   margin-left: auto;
