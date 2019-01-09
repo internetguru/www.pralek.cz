@@ -26,15 +26,17 @@
   <var id="mdfile" var="file" fn="html2md"/>
   <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s">Navrhnout úpravy článku</a></var>
 
-  <fn id="makemetatags" fn="sequence">
+  <fn id="headertags" fn="sequence">
     <call>stripkws</call>
     <call>makeelements</call>
     <call>replacenames</call>
+    <call>addheaderusp</call>
 <!--     <call>removetitle</call> -->
   </fn>
   <fn id="stripkws" fn="pregreplace" pattern="^((:?[^,]+,){0,2}[^,]+).*" replacement="\1" />
+  <fn id="addheaderusp" fn="pregreplace" pattern="#.+$" replacement="&amp;usp=headertag\0" />
   <var id="strippedkws" fn="stripkws" var="kw" />
-  <var id="articlemeta"><div class="meta"><span var="author">n/a</span> na téma <span var="inputvar-strippedkws" fn="inputvar-makemetatags">n/a</span> z <span fn="inputvar-dateformat" var="ctime">n/a</span></div></var>
+  <var id="articlemeta"><div class="meta"><span var="author">n/a</span> na téma <span var="inputvar-strippedkws" fn="inputvar-headertags">n/a</span> z <span fn="inputvar-dateformat" var="ctime">n/a</span></div></var>
 
   <fn id="maketags" fn="sequence">
     <call>makeelements</call>
@@ -42,7 +44,7 @@
 <!--     <call>removetitle</call> -->
   </fn>
   
-  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;href=\1?usp=taglist&#x22; title=&#x22;title=\1&#x22; class=&#x22;tag nowarning&#x22; data-local-title=&#x22;Na začátek seznamu&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
+  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;href=\1&#x22; title=&#x22;title=\1&#x22; class=&#x22;tag nowarning&#x22; data-local-title=&#x22;Na začátek seznamu&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
   
 <!--   <fn id="removetitle" fn="pregreplace" pattern='href="\/\?stitek=bolest#clanky"' replacement='href="aaa"' /> -->
   
