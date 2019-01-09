@@ -30,7 +30,7 @@
     <call>stripkws</call>
     <call>makeelements</call>
     <call>replacenames</call>
-    <call>addheaderusp</call>
+<!--     <call>addheaderusp</call> -->
 <!--     <call>removetitle</call> -->
   </fn>
   <fn id="stripkws" fn="pregreplace" pattern="^((:?[^,]+,){0,2}[^,]+).*" replacement="\1" />
