@@ -530,7 +530,7 @@ a.taglist-tag:not([href]):before {
 .pralek.hdesc + div,
 .pralek.hdesc + div + div > .part + .part {
   padding: 0.1em 0 1em 0;
-  background: #eceff1;
+  background: url(https://www.toptal.com/designers/subtlepatterns/patterns/greyzz.png);
 }
 /***************************/
 .moreable-linkwrapper a,
