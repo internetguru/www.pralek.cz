@@ -20,7 +20,7 @@
   </dl>
 </form></var>
   
-  <fn id="createlink" fn="pregreplace" pattern=".+" replacement="https://www.pralek.cz/$0?usp=share" />
+  <fn id="createlink" fn="pregreplace" pattern=".+" replacement="https://www.pralek.cz/$0?usp=sharing" />
   
   <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
   <var id="mdfile" var="file" fn="html2md"/>
@@ -42,7 +42,7 @@
 <!--     <call>removetitle</call> -->
   </fn>
   
-  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;href=\1&#x22; title=&#x22;title=\1&#x22; class=&#x22;tag nowarning&#x22; data-local-title=&#x22;Na začátek seznamu&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
+  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;href=\1?usp=taglist&#x22; title=&#x22;title=\1&#x22; class=&#x22;tag nowarning&#x22; data-local-title=&#x22;Na začátek seznamu&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
   
 <!--   <fn id="removetitle" fn="pregreplace" pattern='href="\/\?stitek=bolest#clanky"' replacement='href="aaa"' /> -->
   
