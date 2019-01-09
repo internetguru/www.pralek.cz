@@ -437,7 +437,7 @@ a.taglist-tag:not([href]):before {
     width: 100%;
   }
 }
-@media (min-width: 62rem) {
+@media (min-width: 81em) {
   .search ul button {
     border-radius: 0 0 0.25em 0 !important;
   }
