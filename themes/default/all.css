@@ -12,7 +12,7 @@ li {
 }
 #header,
 #content {
-  max-width: 120em;
+/*   max-width: 120em; */
 }
 #header > div {
   max-width: 80em;
