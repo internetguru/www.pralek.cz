@@ -30,11 +30,11 @@
     <call>stripkws</call>
     <call>makeelements</call>
     <call>replacenames</call>
-<!--     <call>addheaderusp</call> -->
+    <call>addheaderusp</call>
 <!--     <call>removetitle</call> -->
   </fn>
   <fn id="stripkws" fn="pregreplace" pattern="^((:?[^,]+,){0,2}[^,]+).*" replacement="\1" />
-  <fn id="addheaderusp" fn="pregreplace" pattern="#.+$" replacement="&amp;usp=headertag\0" />
+  <fn id="addheaderusp" fn="pregreplace" pattern="#" replacement="usp=headertag#" />
   <var id="strippedkws" fn="stripkws" var="kw" />
   <var id="articlemeta"><div class="meta"><span var="author">n/a</span> na téma <span var="inputvar-strippedkws" fn="inputvar-headertags">n/a</span> z <span fn="inputvar-dateformat" var="ctime">n/a</span></div></var>
 
