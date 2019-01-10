@@ -53,37 +53,8 @@
 <!--   <fn id="removetitle" fn="pregreplace" pattern='href="\/\?stitek=bolest#clanky"' replacement='href="aaa"' /> -->
   
   <fn id="replacenames" fn="replace">
-<!-- [replacenames] generated content, do not edit -->
-    <data name="href=bolest">/?stitek=bolest#clanky</data>
-    <data name="href=nemoc">/?stitek=nemoc#clanky</data>
-    <data name="href=orgány">/?stitek=organy#clanky</data>
-    <data name="href=zánět">/?stitek=zanet#clanky</data>
-    <data name="href=prevence">/?stitek=prevence#clanky</data>
-    <data name="href=pohyb">/?stitek=pohyb#clanky</data>
-    <data name="href=poranění">/?stitek=poraneni#clanky</data>
-    <data name="href=břicho">/?stitek=bricho#clanky</data>
-    <data name="href=úrazy">/?stitek=urazy#clanky</data>
-    <data name="href=cévy">/?stitek=cevy#clanky</data>
-    <data name="href=neúrazové">/?stitek=neurazove#clanky</data>
-    <data name="href=krvácení">/?stitek=krvaceni#clanky</data>
-    <data name="href=strava-zažívání">/?stitek=strava-zazivani#clanky</data>
-    <data name="href=ošetření">/?stitek=osetreni#clanky</data>
-    <data name="href=teplota">/?stitek=teplota#clanky</data>
-    <data name="href=nádory">/?stitek=nadory#clanky</data>
-    <data name="href=kůže-podkoží">/?stitek=kuze-podkozi#clanky</data>
-    <data name="href=mikroorganizmy">/?stitek=mikroorganizmy#clanky</data>
-    <data name="href=zdravý životní styl">/?stitek=zdravy_zivotni_styl#clanky</data>
-    <data name="href=zhoubné">/?stitek=zhoubne#clanky</data>
-    <data name="href=první pomoc">/?stitek=prvni_pomoc#clanky</data>
-    <data name="href=dětské">/?stitek=detske#clanky</data>
-    <data name="href=poruchy vědomí">/?stitek=poruchy_vedomi#clanky</data>
-    <data name="href=žaludek">/?stitek=zaludek#clanky</data>
-    <data name="href=zlomeniny">/?stitek=zlomeniny#clanky</data>
-    <data name="href=látková výměna">/?stitek=latkova_vymena#clanky</data>
-    <data name="href=mozek-nervy">/?stitek=mozek-nervy#clanky</data>
-    <data name="href=nezhoubné">/?stitek=nezhoubne#clanky</data>
-    <data name="href=ušní-nosní-krční">/?stitek=usni-nosni-krcni#clanky</data>
-    <data name="href=srdce">/?stitek=srdce#clanky</data>
+<!-- [redir] generated content, do not edit -->
+    <data name="title=zvracení">Filtrovat</data>
     <data name="href=zvracení">/?stitek=zvraceni#clanky</data>
     <data name="title=močová soustava"></data>
     <data name="href=močová soustava"></data>
