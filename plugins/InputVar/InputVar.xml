@@ -146,6 +146,7 @@
   <form action="/" method="get" class="search">
     <ul>
       <li><select name="s" class="completable">
+<!-- [completable] generated content, do not edit -->
 <option class="article" value="clanky/akne">Boj proti akné #clanky/akne</option>
 <option class="article" value="clanky/akutni_torticollis">(Ne)závažnost strnutí šíje #clanky/akutni_torticollis</option>
 <option class="article" value="clanky/antibiotika">Proč nelze mít svá oblíbená antibiotika #clanky/antibiotika</option>
@@ -250,7 +251,6 @@
 <option class="article" value="clanky/zlomeniny_kosti">Zlomeniny kostí #clanky/zlomeniny_kosti</option>
 <option class="article" value="clanky/zlucove_kameny">Prevence a léčba žlučových kamenů #clanky/zlucove_kameny</option>
 <option class="article" value="clanky/znamenko-bradavice-rakovina">Mateřské znaménko, bradavice nebo rakovina #clanky/znamenko-bradavice-rakovina</option>
-<!-- [completable] generated content, do not edit -->
 <option class="tag" value="stitky/bolest">bolest (65 výskytů) #stitky/bolest</option>
 <option class="tag" value="stitky/nemoc">nemoc (56 výskytů) #stitky/nemoc</option>
 <option class="tag" value="stitky/organy">orgány (52 výskytů) #stitky/organy</option>
