@@ -53,7 +53,7 @@
 <!--   <fn id="removetitle" fn="pregreplace" pattern='href="\/\?stitek=bolest#clanky"' replacement='href="aaa"' /> -->
   
   <fn id="replacenames" fn="replace">
-<!-- [redir] generated content, do not edit -->
+<!-- [replacenames] generated content, do not edit -->
     <data name="title=zvracení">Filtrovat</data>
     <data name="href=zvracení">/?stitek=zvraceni#clanky</data>
     <data name="title=močová soustava"></data>
