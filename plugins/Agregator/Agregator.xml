@@ -18,6 +18,8 @@
           <span class="hideable">
             <span>Sdílet</span>
             <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
+            <span class="fb"><a var="link@href" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s">Sdílet na facebooku</a></span>
+            <span class="twitter"><a var="link@href" href="https://twitter.com/intent/tweet?url=www.pralek.cz/%s">Sdílet na twitteru</a></span>
           </span>
         </li>
       </ul></dd>
