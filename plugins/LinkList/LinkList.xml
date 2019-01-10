@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinkList>
-  <var id="template">long</var>
+  <var id="template">simple</var>
   <item id="long" modifyonly="modifyonly">
     <dl class="clanek">
       <dt><a title="Autor: %s" var="link@href author@title" href="%s?usp=image"><img var="og-image@src heading@alt"/></a></dt>
