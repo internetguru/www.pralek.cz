@@ -5,6 +5,8 @@
 
 # Příčinou krvácení dásní je nedostatek vitamínu C
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="krvácení, ošetření, prevence, cévy, neúrazové, mikroorganizmy, poranění, zánět, strava-zažívání"}
 
 Nedostatek vitamínu C oslabuje dásně. Ty mohou při čištění zubů nebo kousání tvrdé potravy krvácet. Po zvýšení konzumace přírodního vitamínu C krvácení dásní ustane.

@@ -1,11 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/onemocneni_slach/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-top="1" data-og-type="article" data-og-image="/files/preview/koutek/onemocneni_slach/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_slach" short="Onemocnění šlach" ctime="2010-01-14" mtime="2010-01-14"}
 
 # Onemocnění šlach: zánět šlach, gangliom, tenisový loket
 
-{kw="bolest, pohyb, zánět, mikroorganizmy, antibiotika, nemoc, nejčtenější"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
+{kw="bolest, pohyb, zánět, mikroorganizmy, antibiotika, nemoc"}
 
 Neúměrná zátěž šlachy může způsobit potíže – nadměrnou tvorbu mazu nebo jeho nedostatek. Obojí je nutné léčit klidem. Oslabená nebo dlouhodobě nemocná šlacha se může při zátěži přetrhnout.
 

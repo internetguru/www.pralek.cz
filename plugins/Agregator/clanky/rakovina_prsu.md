@@ -5,6 +5,8 @@
 
 # Rakovina prsu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="nádory, zhoubné, prevence, orgány"}
 
 Boulička v prsu nemusí být vždy rakovina. Včasné lékařské vyšetření je nezbytnou podmínkou vyvrácení nebo potvrzení obávané diagnózy a zároveň povede k vyřešení problému. Čas vždy pracuje pro případný nádor.

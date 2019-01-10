@@ -5,6 +5,8 @@
 
 # Nevolnost a zvracení v dopravních prostředcích
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="prevence, ošetření, mozek-nervy, strava-zažívání, žaludek, zánět, břicho, poranění"}
 
 Pocit nevolnosti může být vyvolán nejrůznějšími druhy pohybu. Tomu lze mnohdy snadno předejít. Někdy však mohou být tytéž stavy projevem onemocnění.

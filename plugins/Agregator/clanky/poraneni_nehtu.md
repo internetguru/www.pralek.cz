@@ -1,11 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/poraneni_nehtu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-top="5" data-og-type="article" data-og-image="/files/preview/koutek/poraneni_nehtu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu" ctime="2011-11-30" mtime="2011-11-30"}
 
 # Poranění nehtu
 
-{kw="úrazy, bolest, krvácení, zánět, pohyb, nejčtenější"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
+{kw="úrazy, bolest, krvácení, zánět, pohyb"}
 
 Úrazy nehtů bývají pro domnělou malichernost podceňované a ze strachu z bolestivosti ošetření zanedbávané. Neošetřená poranění nehtů však vedou ke zbytečným doživotním deformitám.
 

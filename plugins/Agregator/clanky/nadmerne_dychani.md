@@ -5,6 +5,8 @@
 
 # Nadměrné dýchání – předýchávání
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="poruchy vědomí, první pomoc, srdce, orgány, zvracení, žaludek, bolest"}
 
 Nadměrným dýcháním mohou vzniknout zdravotní potíže, porucha vědomí, bezvědomí a následně i závažná porucha zdraví. První pomocí při chorobném předýchávání je uklidnění pacienta nebo dýchání do sáčku.

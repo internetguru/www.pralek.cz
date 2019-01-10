@@ -5,6 +5,8 @@
 
 # Cukrovka: jak žít s cukrovkou
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="strava-zažívání, látková výměna, poruchy vědomí, první pomoc, mozek-nervy, cévy, břicho, orgány"}
 
 Ukázněný diabetik se nemusí během života setkat se žádnými komplikacemi cukrovky. Dlouhodobé komplikace jsou způsobené nedodržováním doporučených zásad.

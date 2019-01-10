@@ -5,6 +5,8 @@
 
 # Zásady správného opalování
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="kůže-podkoží, zdravý životní styl, prevence, zhoubné, nemoc, zánět, strava-zažívání, nádory"}
 
 Stále častěji se vyskytují výstražné zprávy o nebezpečnosti opalování. Lidé jsou však vystaveni slunečnímu záření od nepaměti. Slunění je pro většinu lidí prospěšné. Některým lidem (a za určitých podmínek) však může být zdraví škodlivé, a někdy dokonce nebezpečné.

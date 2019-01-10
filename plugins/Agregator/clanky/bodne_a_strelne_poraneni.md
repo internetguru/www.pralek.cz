@@ -5,6 +5,8 @@
 
 # Bodné a střelné poranění a jeho závažnost
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="poranění, bolest, krvácení, kůže-podkoží, orgány, pohyb, břicho, cévy"}
 
 Poranění zabodnutým předmětem nebo zástřel je natolik závažné, jak a které vnitřní orgány jsou poškozeny.

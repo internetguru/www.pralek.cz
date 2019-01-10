@@ -5,6 +5,8 @@
 
 # Krevní tlak, správné měření a vyhodnocení tlaku
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="srdce, nemoc, cévy, orgány, prevence, strava-zažívání, zdravý životní styl, látková výměna"}
 
 Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření.

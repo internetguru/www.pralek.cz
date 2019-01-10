@@ -5,6 +5,8 @@
 
 # Imunita: obranyschopnost organizmu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="zdravý životní styl, prevence, mikroorganizmy, antibiotika, dětské, nemoc, zánět"}
 
 Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imunita mění, lze ji podpořit zdravým způsobem života nebo naopak oslabit nadměrným užíváním léků.

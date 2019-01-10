@@ -5,6 +5,8 @@
 
 # Odřeniny – proč je nutné mechanicky vyčistit oděrku
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="poranění, úrazy, krvácení, kůže-podkoží, ošetření, nemoc, pohyb, zánět, bolest"}
 
 Plošné oděrky vznikají nejčastěji při různých sportovních aktivitách. Jejich důsledné mechanické vyčištění je důležitým krokem léčení. Nečistoty vrostlé do kůže by se jinak staly trvalou hyzdící vzpomínkou na úraz.

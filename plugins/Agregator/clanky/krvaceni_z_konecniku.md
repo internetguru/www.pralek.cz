@@ -1,11 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/krvaceni\_z\_konecniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-top="6" data-og-type="article" data-og-image="/files/preview/koutek/krvaceni\_z\_konecniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_z_konecniku" short="Krvácení z konečníku" ctime="2007-11-23" mtime="2017-11-08"}
 
 # Krvácení z konečníku: hemoroidy nebo nádor
 
-{kw="krvácení, zánět, neúrazové, nádory, cévy, břicho, orgány, zhoubné, nejčtenější"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
+{kw="krvácení, zánět, neúrazové, nádory, cévy, břicho, orgány, zhoubné"}
 
 Krvácení z konečníku mívá různé příčiny. Nejčastěji se jedná o hemoroidy. Včasné odhalení příčiny vždy zvyšuje šanci na uzdravení, i když se jedná o nádor. Zatímco u hemoroidů je operace jednou z mnoha možností léčby, v případě nádoru bývá operace nezbytná.
 

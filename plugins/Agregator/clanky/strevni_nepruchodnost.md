@@ -1,11 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/strevni_nepruchodnost/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-top="4" data-og-type="article" data-og-image="/files/preview/koutek/strevni_nepruchodnost/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="strevni\_nepruchodnost" short="Střevní neprůchodnost" ctime="2013-02-16" mtime="2013-02-16"}
 
 # Střevní neprůchodnost bývá komplikací jiné choroby
 
-{kw="bolest, břicho, nádory, látková výměna, orgány, žaludek, strava-zažívání, zhoubné, cévy, mikroorganizmy, nejčtenější"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
+{kw="bolest, břicho, nádory, látková výměna, orgány, žaludek, strava-zažívání, zhoubné, cévy, mikroorganizmy"}
 
 Střevní neprůchodnost (laicky zauzlení střev) je stav, při kterém dochází k zástavě posunu střevního obsahu v trávicím traktu. Nemocný velmi nepříjemně vnímá nadýmání, zástavu odchodu větrů a stolice a později i zvrací.
 

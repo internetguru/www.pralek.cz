@@ -5,6 +5,8 @@
 
 # Časté úrazy malých dětí
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="poranění, úrazy, první pomoc, zlomeniny, prevence, dětské, pohyb, břicho, bolest, krvácení, orgány"}
 
 Mechanizmy úrazů malých dětí se stále stejně opakují. Jestliže budou opatrovníkům známé, je snadné takovým úrazům předcházet.

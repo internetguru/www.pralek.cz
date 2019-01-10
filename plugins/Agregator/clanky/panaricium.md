@@ -1,11 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/panaricium/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-top="7" data-og-type="article" data-og-image="/files/preview/koutek/panaricium/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="panaricium" short="Panaricium" ctime="2012-05-18" mtime="2012-05-18"}
 
 # Nebezpečný zánět prstu ruky – panaricium
 
-{kw="zánět, poranění, bolest, neúrazové, nemoc, pohyb, cévy, úrazy, teplota, prevence, nejčtenější"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
+{kw="zánět, poranění, bolest, neúrazové, nemoc, pohyb, cévy, úrazy, teplota, prevence"}
 
 Zánětlivé onemocnění prstu ruky může být velmi závažné a nebezpečné. Včasné ošetření zánětu chirurgem předejde rozšíření zánětu nejen po nemocné ruce ale i do celého těla.
 

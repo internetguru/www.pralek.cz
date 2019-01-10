@@ -5,6 +5,8 @@
 
 # Žaludeční a dvanáctníkový vřed
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="žaludek, strava-zažívání, prevence, břicho, bolest, orgány"}
 
 Žaludeční vředy jsou v současnosti dobře léčitelným onemocněním. Vřed lze vyléčit běžnými léky a nemocný žaludek není třeba operovat. V případě zanedbání vředové choroby však mohou vzniknout život ohrožující komplikace.

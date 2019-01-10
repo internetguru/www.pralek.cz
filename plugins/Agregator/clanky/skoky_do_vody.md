@@ -5,6 +5,8 @@
 
 # Nebezpečí skoku do vody
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="úrazy, poranění, zlomeniny, krvácení, orgány, pohyb, bolest"}
 
 Skoky do známé i neznámé vody mohou být velmi nebezpečné. V drtivé většině případů mívají skokani změněné uvažování. Typicky se před někým předvádějí a nebývají tedy u vody sami. Proto je na jejich kamarádech, aby jim v takovém konání zabránili.

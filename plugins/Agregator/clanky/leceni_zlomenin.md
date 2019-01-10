@@ -5,6 +5,8 @@
 
 # Metody léčení zlomenin
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="zlomeniny, poranění, bolest, pohyb, nemoc, úrazy"}
 
 Zlomeniny lze léčit různými metodami. Každá metoda má své výhody a nevýhody. Poučený pacient by se měl aktivně podílet na výběru nejvhodnější metody léčení své zlomeniny.

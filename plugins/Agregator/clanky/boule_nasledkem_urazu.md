@@ -5,6 +5,8 @@
 
 # Boule vzniklé následkem úrazu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="úrazy, kůže-podkoží, bolest, cévy, nemoc, pohyb, první pomoc, orgány"}
 
 Boule vzniklé pohmožděním mají různou povahu; může jít o vylitou krev nebo jinou tekutinu. Podle místa vzniku se liší závažností, bolestivostí, léčbou a průběhem hojení.

@@ -5,6 +5,8 @@
 
 # Pohádkový čert: kterak na svět přišel
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="mýty, kůže-podkoží, zánět, zhoubné, nezhoubné, nádory, nemoc, cévy, pohyb"}
 
 Postava čerta vznikla pozorováním lidí s různým zdravotním postižením. Typické čertovské příznaky se totiž u lidí vyskytují dosud jako vrozené či získané vady. U jednoho člověka se může vyskytnout i více příznaků současně.

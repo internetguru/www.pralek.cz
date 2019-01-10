@@ -5,6 +5,8 @@
 
 # Kdy kašel potlačovat a kdy podporovat
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="zánět, ušní-nosní-krční, mikroorganizmy, nemoc, ošetření, teplota, břicho, poranění, orgány"}
 
 Každý kašel je dobré nejprve pojmenovat. Výprava do lékárny pro lék proti kašli není vždy účelným řešením potíží. Častěji pomůže lék k uvolnění průdušek, který naopak účinné odkašlání podpoří.

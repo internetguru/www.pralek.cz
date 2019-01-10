@@ -5,6 +5,8 @@
 
 # Dárcovství krve, krevní plazmy a kostní dřeně
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="zdravý životní styl, strava-zažívání, poruchy vědomí, zhoubné, nádory, orgány, dětské"}
 
 Darovat krev může člověk, který dovršil 18 let věku, neměl infekční žloutenku, jeho hmotnost je vyšší než 50 kg a cítí se být zdráv. Dárce je vyšetřen a jeho krev bude užita k návratu zdraví nebo k záchraně jiného života. Chybějící krev je v těle dárce obnovena za 72 hodin.

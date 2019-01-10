@@ -5,6 +5,8 @@
 
 # Nákaza přisátým klíštětem
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="zvíře, poranění, zánět, mozek-nervy, nemoc, bolest, teplota"}
 
 Přisáté klíště je možné odstranit několika způsoby. Případná nákaza se projeví až následnými příznaky.

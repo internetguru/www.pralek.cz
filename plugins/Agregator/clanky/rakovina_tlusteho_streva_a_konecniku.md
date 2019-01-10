@@ -5,6 +5,8 @@
 
 # Rakovina tlustého střeva a konečníku
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="nádory, zhoubné, břicho, krvácení, bolest, cévy, orgány, prevence, neúrazové"}
 
 Po rakovině tlustého střeva a konečníku je třeba [aktivně pátrat][1]. Její záludnost spočívá v naprosto bezpříznakovém počátku a jen velmi neurčitých projevech i při již plně rozvinutém onemocnění.

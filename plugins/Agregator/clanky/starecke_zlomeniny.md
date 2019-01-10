@@ -5,6 +5,8 @@
 
 # Nejčastější stařecké zlomeniny
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="poranění, stařecké, úrazy, zlomeniny, pohyb, nemoc, bolest"}
 
 Kosti se ve stáří stávají křehké a málo pevné. Mohou se tedy lámat i při velice malém násilí. To je způsobeno ztrátou chrupavčité složky v kostech, později i ztrátou pevné kostěné složky (takzvané řídnutí kostí).

@@ -5,6 +5,8 @@
 
 # Zlomeniny kostí
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="zlomeniny, úrazy, poranění, bolest, pohyb, poruchy vědomí, nemoc"}
 
 Rozpoznání zlomeniny kosti a správné poskytnutí první pomoci zabrání vzniku šoku a komplikací.

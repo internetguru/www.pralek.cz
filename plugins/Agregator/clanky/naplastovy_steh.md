@@ -1,11 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/naplastovy_steh/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-top="2" data-og-type="article" data-og-image="/files/preview/koutek/naplastovy_steh/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="naplastovy\_steh" short="Náplasťový steh" ctime="2011-10-24" mtime="2011-10-24"}
 
 # Ošetření kožní rány náplasťovým stehem
 
-{kw="úrazy, první pomoc, poranění, ošetření, krvácení, pohyb, bolest, nejčtenější"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
+{kw="úrazy, první pomoc, poranění, ošetření, krvácení, pohyb, bolest"}
 
 Kožní ránu lze po ošetření zafixovat náplasťovým stehem. Náplasťový steh může v takovém případě plnohodnotně nahradit klasický chirurgický steh (který zanechává jizvu) nebo plastický steh (který nelze použít vždy).
 

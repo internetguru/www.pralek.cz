@@ -5,6 +5,8 @@
 
 # (Ne)závažnost strnutí šíje
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+
 {kw="bolest, mozek-nervy, pohyb, rehabilitace, nemoc"}
 
 Náhle vzniklé strnutí šíje je nepříjemné, dramaticky vyhlížející, ale zcela nezávažné a dobře léčitelné onemocnění krku. Nejčastěji postihuje děti školního věku a mladé lidi.
