@@ -94,33 +94,20 @@ První podmínkou úspěšné léčby je nic nejíst ani nepít (jako u všech n
 
 Jako následek devastujícího zánětu slinivky břišní se často objeví [cukrovka][2].
 
-{id="otazky" var="inputvar-otazky_h"}
-
-## n/a
-
-{var="inputvar-otazky_desc"}
-
-n/a
-
-{class="otazky"}
-
-  1. Co je slinivka břišní a k čemu slouží?
-  2. Co bývá nejčastější příčinou prudkého zánětu slinivky břišní?
-  3. Jaké příčiny může mít zánět slinivky břišní?
-  4. Jaké jsou rizikové faktory pro vznik zánětu slinivky břišní?
-  5. Jak se projevuje prudký zánět slinivky břišní?
-
-{var="inputvar-odkazy_h" id="odkazy"}
-
-## n/a
-
-{var="inputvar-odkazy_desc"}
-
-n/a
-
-{var="linklist"}
-
-Seznam odkazů není k dispozici
+<!--
+    <h id="otazky" var="inputvar-otazky_h">n/a</h>
+    <desc var="inputvar-otazky_desc">n/a</desc>
+    <ol class="otazky">
+      <li>Co je slinivka břišní a k čemu slouží?</li>
+      <li>Co bývá nejčastější příčinou prudkého zánětu slinivky břišní?</li>
+      <li>Jaké příčiny může mít zánět slinivky břišní?</li>
+      <li>Jaké jsou rizikové faktory pro vznik zánětu slinivky břišní?</li>
+      <li>Jak se projevuje prudký zánět slinivky břišní?</li>
+    </ol>
+    <h var="inputvar-odkazy_h" id="odkazy">n/a</h>
+    <desc var="inputvar-odkazy_desc">n/a</desc>
+    <p var="linklist">Seznam odkazů není k dispozici</p>
+    -->
 
  [1]: stravovaci_navyky
  [2]: cukrovka
