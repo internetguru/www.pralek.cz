@@ -746,7 +746,7 @@ ul.docinfo.nomultiple.global li:before {
 .clanek span.copyable-wrapper > span:first-child + span {
   padding: 0 0.5em;
   overflow: hidden;
-  height: 1.2em;
+  height: 1.3em;
   flex-shrink: 1;
 }
 .clanek .extra .hideable-switch {
