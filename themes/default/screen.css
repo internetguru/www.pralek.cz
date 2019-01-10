@@ -749,7 +749,11 @@ ul.docinfo.nomultiple.global li:before {
   height: 1.3em;
   flex-shrink: 1;
 }
-.clanek .extra .hideable-switch {
+.clanek .extra .hideable {
+  display: flex;
+}
+.clanek .extra .hideable-switch,
+.clanek .extra span a {
   transition: 0.25s ease-out;
   font-size: 1.2em;
   display: block;
@@ -763,17 +767,35 @@ ul.docinfo.nomultiple.global li:before {
   box-sizing: border-box;
   color: transparent;
 }
+.clanek .extra .hideable > span:first-child {
+  order: 10;
+}
+.clanek .extra span a {
+  margin: 0 0.2em;
+}
 .clanek .extra .hideable-nohide .hideable-switch,
-.clanek .extra .hideable-switch:hover {
+.clanek .extra .hideable-switch:hover,
+.clanek .extra span a:hover {
   background: #e0e0e0;
 }
 .clanek .extra .hideable-nohide .hideable-switch:before,
-.clanek .extra .hideable-switch:hover:before {
+.clanek .extra .hideable-switch:hover:before,
+.clanek .extra span a:hover:before {
   color: #757575;
 }
-.clanek .extra .hideable-switch:before {
+.clanek .extra .hideable-switch:before,
+.clanek .extra span a:before {
   content: "\f1e0";
   font-family: "FontAwesome";
-  color: #9e9e9e
+  color: #9e9e9e;
+}
+.clanek .extra span.fb a {
+  padding-left: 0.7em;
+}
+.clanek .extra span.fb a:before {
+  content: "\f09a";
+}
+.clanek .extra span.twitter a:before {
+  content: "\f099";
 }
 /***************************/
