@@ -71,35 +71,22 @@ Původní kmeny blahodárně působících bakterií bývají antibiotiky vyhube
 
 Opakované nadměrné užívání antibiotik vede k oslabení imunitního systému. Přibývá i alergických reakcí na antibiotika. Tomu se bohužel nelze vyvarovat.
 
-{id="otazky" var="inputvar-otazky_h"}
-
-## n/a
-
-{var="inputvar-otazky_desc"}
-
-n/a
-
-{class="otazky"}
-
-  1. Za jakých podmínek je vhodné nasazení léčby antibiotiky?
-  2. Proč je lépe vždy vyhledat svého lékaře než cizího?
-  3. Proč se vyvíjejí nové druhy antibiotik?
-  4. Proč je nutné antibiotika dobrat?
-  5. Co znamená kultivace a citlivost na antibiotika?
-  6. Kdy je vhodné podat antibiotika preventivně?
-  7. V čem spočívají negativní účinky antibiotik?
-
-{var="inputvar-odkazy_h" id="odkazy"}
-
-## n/a
-
-{var="inputvar-odkazy_desc"}
-
-n/a
-
-{var="linklist"}
-
-Seznam odkazů není k dispozici
+<!--
+    <h id="otazky" var="inputvar-otazky_h">n/a</h>
+    <desc var="inputvar-otazky_desc">n/a</desc>
+    <ol class="otazky">
+      <li>Za jakých podmínek je vhodné nasazení léčby antibiotiky?</li>
+      <li>Proč je lépe vždy vyhledat svého lékaře než cizího?</li>
+      <li>Proč se vyvíjejí nové druhy antibiotik?</li>
+      <li>Proč je nutné antibiotika dobrat?</li>
+      <li>Co znamená kultivace a citlivost na antibiotika?</li>
+      <li>Kdy je vhodné podat antibiotika preventivně?</li>
+      <li>V čem spočívají negativní účinky antibiotik?</li>
+    </ol>
+    <h var="inputvar-odkazy_h" id="odkazy">n/a</h>
+    <desc var="inputvar-odkazy_desc">n/a</desc>
+    <p var="linklist">Seznam odkazů není k dispozici</p>
+    -->
 
  [1]: zanet
  [2]: bolest_v_krku_angina
