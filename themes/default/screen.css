@@ -81,8 +81,8 @@ dl.figure dt {
 .hdesc > div {
   margin-top: 6em;
   padding-top: 4vw;
-  margin-bottom: 2em;
-  padding-bottom: 5vw;
+  margin-bottom: 1em;
+  /* padding-bottom: 5vw; */
   position: relative;
 }
 .hdesc > div div.meta {
@@ -94,6 +94,7 @@ dl.figure dt {
   max-width: 40em;
   margin-top: 2em;
   padding-top: 2vw;
+  padding-bottom: 5vw;
 }
 @media (min-width: 38em) {
   #header .contentlink-bc span {
@@ -847,12 +848,12 @@ ul.docinfo.nomultiple.global li:before {
 }
 #content .hdesc .extra {
   /* position: absolute; */
-  bottom: 0;
+  /* bottom: 0; */
   /* right: 1em; */
   width: 100%;
   /* box-sizing: border-box; */
   /* text-align: right; */
-  position: relative;
+  /* position: relative; */
   /* right: 0; */
 }
 span.copyable-wrapper {
@@ -864,7 +865,7 @@ span.copyable-wrapper {
   /* box-shadow: none; */
 }
 #content .hdesc .extra {
-  bottom: -3.5em;
+  /* bottom: -3.5em; */
 }
 /***************************/
 .share {
