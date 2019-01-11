@@ -796,6 +796,9 @@ ul.docinfo.nomultiple.global li:before {
   border: none;
   text-align: left;
 }
+.hdesc .extra *:before {
+  color: white;
+}
 .extra .hideable-nohide .hideable-switch,
 .extra .hideable-switch:hover,
 .fb a:hover,
@@ -819,9 +822,7 @@ ul.docinfo.nomultiple.global li:before {
   transition: 0.25s ease-out;
   color: transparent;
 }
-.extra .hideable-switch:before,
-.fb a:before,
-.twitter a:before {
+.section .extra .hideable-switch:before, .fb a:before, .twitter a:before {
   color: #9e9e9e;
   margin: 0;
 }
@@ -846,6 +847,9 @@ span.copyable-wrapper {
   right: 0;
   left: auto;
   box-shadow: none;
+}
+#content .hdesc .extra {
+  bottom: -2em;
 }
 /***************************/
 .share {
