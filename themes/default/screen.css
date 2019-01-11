@@ -245,7 +245,7 @@ a.tag:before,
   line-height: 0;
   vertical-align: -0.1em;
 }
-.clanek .extra ul {
+.extra ul {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -253,29 +253,29 @@ a.tag:before,
   max-width: 100%;
   position: relative;
 }
-.clanek .extra ul li {
+.extra ul li {
   height: 2.25em;
 }
-.clanek .extra ul li:nth-child(2) {
+.extra ul li:nth-child(2) {
   margin-left: auto;
   display: flex;
   align-items: flex-end;
 }
-.clanek .extra .button {
+.extra .button {
   border: none;
   display: inline-block;
 }
 .filter .button:hover,
 .contentbalancer-simple a:hover,
-.clanek .extra .button:hover {
+.extra .button:hover {
   background: #e8eaf6;
 }
 .filter .button:active,
 .filter .button:focus,
 .contentbalancer-simple a:focus,
 .contentbalancer-simple a:active,
-.clanek .extra .button:focus,
-.clanek .extra .button:active {
+.extra .button:focus,
+.extra .button:active {
   background: #c5cae9;
 }
 /***************************/
@@ -520,6 +520,9 @@ a.taglist-tag:not([href]):before {
 .pralek.hdesc {
   margin-bottom: 0;
 }
+.pralek.hdesc > div {
+  position: relative;
+}
 .pralek.hdesc + div + div > .part:first-child {
   padding: 0.1em 0 1em 0;
 }
@@ -709,7 +712,7 @@ ul.docinfo.nomultiple.global li:before {
   color: #757575;
 }
 /***************************/
-.clanek span.copyable-wrapper {
+#content .extra span.copyable-wrapper {
   position: absolute;
   left: 0;
   top: -2.4em;
@@ -723,7 +726,7 @@ ul.docinfo.nomultiple.global li:before {
   align-items: center;
   box-shadow: 0 0.15em 0.05em -0.1em rgba(0,0,0,.2), 0 0.1em 0.1em 0 rgba(0,0,0,.14), 0 0.05em 0.25em 0 rgba(0,0,0,.12), 0 -0.6em 0.5em 0em #ffffff9e;
 }
-.clanek span.copyable-wrapper > span:first-child {
+#content .extra span.copyable-wrapper > span:first-child {
   order: 2;
   font-size: 1.2em;
   background: #e0e0e0;
@@ -731,7 +734,7 @@ ul.docinfo.nomultiple.global li:before {
   border-radius: 0 0.3rem 0.3rem 0;
   flex-shrink: 0;
 }
-.clanek span.copyable-wrapper > span:first-child button {
+#content .extra span.copyable-wrapper > span:first-child button {
   padding: 0.2em;
   height: 1.7em;
   width: 2em;
@@ -739,21 +742,21 @@ ul.docinfo.nomultiple.global li:before {
   overflow: hidden;
   background: none;
 }
-.clanek span.copyable-wrapper > span:first-child button:before {
+#content .extra span.copyable-wrapper > span:first-child button:before {
   content: "\f0ea";
   font-family: "FontAwesome";
 }
-.clanek span.copyable-wrapper > span:first-child + span {
+#content .extra span.copyable-wrapper > span:first-child + span {
   padding: 0 0.5em;
   overflow: hidden;
   height: 1.3em;
   flex-shrink: 1;
 }
-.clanek .extra .hideable {
+#content .extra .hideable {
   display: flex;
 }
-.clanek .extra .hideable-switch,
-.clanek .extra span a {
+#content .extra .hideable-switch,
+#content .extra span a {
   transition: 0.25s ease-out;
   font-size: 1.2em;
   display: block;
@@ -767,45 +770,59 @@ ul.docinfo.nomultiple.global li:before {
   box-sizing: border-box;
   color: transparent;
 }
-.clanek .extra .hideable > span:first-child {
+#content .extra .hideable > span:first-child {
   order: 10;
 }
-.clanek .extra span a {
+#content .extra span a {
   margin: 0 0.2em;
   border: none;
+  text-align: left;
 }
-.clanek .extra .hideable-nohide .hideable-switch,
-.clanek .extra .hideable-switch:hover,
-.clanek .extra span a:hover {
+.extra .hideable-nohide .hideable-switch,
+.extra .hideable-switch:hover,
+.extra span a:hover {
   background: #e0e0e0;
 }
-.clanek .extra .hideable-nohide .hideable-switch:before,
-.clanek .extra .hideable-switch:hover:before,
-.clanek .extra span.fb a:hover:before,
-.clanek .extra span.twitter a:hover:before {
+.extra .hideable-nohide .hideable-switch:before,
+.extra .hideable-switch:hover:before,
+.extra span.fb a:hover:before,
+.extra span.twitter a:hover:before {
   color: #757575;
 }
-.clanek .extra .hideable-switch:before,
-.clanek .extra span a:before {
+#content .extra .hideable-switch:before,
+#content .extra span a:before {
   content: "\f1e0";
   font-family: "FontAwesome";
 }
-.clanek .extra span.fb a:before,
-.clanek .extra span.twitter a:before {
+#content .extra span.fb a:before,
+#content .extra span.twitter a:before {
   transition: 0.25s ease-out;
   color: transparent;
 }
-.clanek .extra .hideable-switch:before,
-.clanek .extra .hideable-nohide span a:before {
+#content .extra .hideable-switch:before,
+#content .extra .hideable-nohide span a:before {
   color: #9e9e9e;
+  margin: 0;
 }
-.clanek .extra span.fb a {
+#content .extra span.fb a {
   padding-left: 0.7em;
 }
-.clanek .extra span.fb a:before {
+#content .extra span.fb a:before {
   content: "\f09a";
 }
-.clanek .extra span.twitter a:before {
+#content .extra span.twitter a:before {
   content: "\f099";
+}
+#content .pralek.hdesc .extra {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+#content .pralek.hdesc .extra span.copyable-wrapper {
+  color: #333;
+  width: 22em;
+  max-width: 100vw;
+  right: 0;
+  left: auto;
 }
 /***************************/
