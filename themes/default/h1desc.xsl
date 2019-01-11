@@ -33,7 +33,7 @@
             <span class="hideable">
               <span class="eventable">Sdílet</span>
               <span class="copyable" fn="inputvar-createlink">
-                <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlemeta"/>
+                <xsl:value-of disable-output-escaping="yes" select="$link"/>
               </span>
               <span class="fb"><a var="link@href" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s">Sdílet na facebooku</a></span>
               <span class="twitter"><a var="link@href" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s">Sdílet na twitteru</a></span>
