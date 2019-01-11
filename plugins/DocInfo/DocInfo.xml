@@ -12,7 +12,7 @@
     <ul class="share nomultiple">
       <li>test</li>
       <li><span class="copyable" fn="inputvar-createlink" var="link">n/a</span></li>
-       <li class="fb"><a var="link@href" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s">Sdílet na facebooku</a></li>
+       <li class="fb"><a var="link@href" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/">Sdílet na facebooku</a></li>
 <!--       
      
       <li class="twitter"><a var="link@href" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s">Sdílet na twitteru</a></li> -->
