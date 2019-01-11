@@ -748,6 +748,9 @@ ul.docinfo.nomultiple.global li:before {
   background: none;
   color: transparent;
 }
+.hdesc .copyable-wrapper > span:first-child button {
+  padding: 0.3em;
+}
 .copyable-wrapper > span:first-child button:before {
   content: "\f0ea";
   font-family: "FontAwesome";
@@ -758,6 +761,9 @@ ul.docinfo.nomultiple.global li:before {
   overflow: hidden;
   height: 1.3em;
   flex-shrink: 1;
+}
+.hdesc .copyable-wrapper > span:first-child + span {
+  height: 1.2em;
 }
 .extra .hideable {
   display: flex;
