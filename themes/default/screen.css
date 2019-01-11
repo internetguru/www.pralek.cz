@@ -742,10 +742,12 @@ ul.docinfo.nomultiple.global li:before {
   border-radius: 0;
   overflow: hidden;
   background: none;
+  color: transparent;
 }
 #content .extra span.copyable-wrapper > span:first-child button:before {
   content: "\f0ea";
   font-family: "FontAwesome";
+  color: #333;
 }
 #content .extra span.copyable-wrapper > span:first-child + span {
   padding: 0 0.5em;
@@ -817,7 +819,7 @@ ul.docinfo.nomultiple.global li:before {
 #content .hdesc .extra {
   position: absolute;
   bottom: 0;
-  right: 0;
+  right: 1em;
 }
 #content .hdesc .extra span.copyable-wrapper {
   color: #333;
