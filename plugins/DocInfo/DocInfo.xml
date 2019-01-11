@@ -8,9 +8,12 @@
       <li class="fa fa-github"><a href="#" var="inputvar-ghedit">n/a</a></li>
 <!--       <li class="kw" var="kw" fn="inputvar-maketags">n/a</li> -->
 <!--       <li><span var="edit">n/a</span></li> -->
-      <li class="copyable" fn="inputvar-createlink" var="link">n/a</li>
+    </ul>
+    <ul>
+      <li>test</li>
+<!--       <li class="copyable" fn="inputvar-createlink" var="link">n/a</li>
       <li class="fb"><a var="link@href" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s">Sdílet na facebooku</a></li>
-      <li class="twitter"><a var="link@href" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s">Sdílet na twitteru</a></li>
+      <li class="twitter"><a var="link@href" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s">Sdílet na twitteru</a></li> -->
     </ul>
   </var>
   
