@@ -803,13 +803,7 @@ ul.docinfo.nomultiple.global li:before {
 .extra .hideable-switch:hover,
 .fb a:hover,
 .twitter a:hover {
-  background: #e0e0e0;
-}
-.extra .hideable-nohide .hideable-switch:before,
-.extra .hideable-switch:hover:before,
-.fb a:hover:before,
-.twitter a:hover:before {
-  color: #757575;
+  background: #757575;
 }
 #content .extra .hideable-switch:before,
 .fb a:before,
