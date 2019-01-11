@@ -111,7 +111,7 @@ dl.figure dt {
 }
 .hdesc > div > * {
   padding: 0;
-  position: relative;
+  /* position: relative; */
   z-index: 1;
 }
 .hdesc > div > div > * {
@@ -724,15 +724,19 @@ ul.docinfo.nomultiple.global li:before {
 }
 .extra .copyable-wrapper {
   position: absolute;
-  right: 0;
+  /* right: 0; */
   top: -2.4em;
+  /* height: 100%; */
+  /* overflow: hidden; */
+  line-height: 110%;
+  text-align: left;
 }
 .clanek .copyable-wrapper {
   width: 100%; 
   box-shadow: 0 0.15em 0.05em -0.1em rgba(0,0,0,.2), 0 0.1em 0.1em 0 rgba(0,0,0,.14), 0 0.05em 0.25em 0 rgba(0,0,0,.12), 0 -0.6em 0.5em 0em #ffffff9e;
 }
 .hdesc .copyable-wrapper {
-  box-shadow: 0 0.15em 0.05em -0.1em rgba(0,0,0,.2), 0 0.1em 0.1em 0 rgba(0,0,0,.14), 0 0.05em 0.25em 0 rgba(0,0,0,.12), 0 -0.6em 0.5em 0em #ffffff21;
+  /* box-shadow: 0 0.15em 0.05em -0.1em rgba(0,0,0,.2), 0 0.1em 0.1em 0 rgba(0,0,0,.14), 0 0.05em 0.25em 0 rgba(0,0,0,.12), 0 -0.6em 0.5em 0em #00000000; */
 }
 .copyable-wrapper > span:first-child {
   order: 2;
@@ -770,6 +774,9 @@ ul.docinfo.nomultiple.global li:before {
 }
 .extra .hideable {
   display: flex;
+  /* text-align: right; */
+  /* align-items: flex-end; */
+  justify-content: flex-end;
 }
 .fb a,
 .twitter a {
@@ -839,16 +846,21 @@ ul.docinfo.nomultiple.global li:before {
   content: "\f099";
 }
 #content .hdesc .extra {
-  position: absolute;
+  /* position: absolute; */
   bottom: 0;
-  right: 1em;
+  /* right: 1em; */
+  width: 100%;
+  /* box-sizing: border-box; */
+  /* text-align: right; */
+  position: relative;
+  /* right: 0; */
 }
 span.copyable-wrapper {
   color: #333;
   width: max-content;
-  max-width: 100vw;
-  right: 0;
-  left: auto;
+  max-width: 100%;
+  /* right: 0; */
+  /* left: auto; */
   /* box-shadow: none; */
 }
 #content .hdesc .extra {
