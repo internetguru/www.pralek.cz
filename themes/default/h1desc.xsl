@@ -2,6 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
   <xsl:param name="inputvar-articlemeta" select="''"/>
+  <xsl:param name="link" select="''"/>
 
   <xsl:template match="/">
     <xsl:apply-templates/>
@@ -31,7 +32,9 @@
           <div class="extra">
             <span class="hideable">
               <span class="eventable">Sdílet</span>
-              <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
+              <span class="copyable" fn="inputvar-createlink">
+                <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlemeta"/>
+              </span>
               <span class="fb"><a var="link@href" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s">Sdílet na facebooku</a></span>
               <span class="twitter"><a var="link@href" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s">Sdílet na twitteru</a></span>
             </span>
