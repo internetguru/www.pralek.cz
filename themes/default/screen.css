@@ -864,4 +864,5 @@ span.copyable-wrapper {
   margin: 0;
   margin-right: 0.5em;
 }
+.share li a:before {float: left;}
 /***************************/
