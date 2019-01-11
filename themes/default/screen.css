@@ -766,7 +766,7 @@ ul.docinfo.nomultiple.global li:before {
 .copyable-wrapper > span:first-child + span {
   padding: 0 0.5em;
   overflow: hidden;
-  height: 1.3em;
+  height: 1.2em;
   flex-shrink: 1;
 }
 .hdesc .copyable-wrapper > span:first-child + span {
