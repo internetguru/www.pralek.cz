@@ -33,6 +33,8 @@
   
   <xsl:template match="div[ol[contains(@class, 'otazky')]]">
     <xsl:copy-of select="."/>
+    <h id="docinfo" class="hide">Informace o článku</h>
+    <desc>n/a</desc>
     <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
     <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>
 <!--     <div id="docfooter">
