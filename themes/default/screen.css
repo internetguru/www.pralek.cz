@@ -81,7 +81,7 @@ dl.figure dt {
 .hdesc > div {
   margin-top: 6em;
   padding-top: 4vw;
-  margin-bottom: 4em;
+  margin-bottom: 2em;
   padding-bottom: 5vw;
   position: relative;
 }
@@ -864,7 +864,7 @@ span.copyable-wrapper {
   /* box-shadow: none; */
 }
 #content .hdesc .extra {
-  bottom: -2.5em;
+  bottom: -3.5em;
 }
 /***************************/
 .share {
