@@ -713,10 +713,7 @@ ul.docinfo.nomultiple.global li:before {
   color: #757575;
 }
 /***************************/
-#content .extra span.copyable-wrapper {
-  position: absolute;
-  left: 0;
-  top: -2.4em;
+.copyable-wrapper {
   width: 100%;
   max-width: 100%;
   overflow: hidden;
@@ -727,7 +724,12 @@ ul.docinfo.nomultiple.global li:before {
   align-items: center;
   box-shadow: 0 0.15em 0.05em -0.1em rgba(0,0,0,.2), 0 0.1em 0.1em 0 rgba(0,0,0,.14), 0 0.05em 0.25em 0 rgba(0,0,0,.12), 0 -0.6em 0.5em 0em #ffffff9e;
 }
-#content .extra span.copyable-wrapper > span:first-child {
+.extra .copyable-wrapper {
+  position: absolute;
+  left: 0;
+  top: -2.4em;  
+}
+.copyable-wrapper > span:first-child {
   order: 2;
   font-size: 1.2em;
   background: #e0e0e0;
@@ -735,7 +737,7 @@ ul.docinfo.nomultiple.global li:before {
   border-radius: 0 0.3rem 0.3rem 0;
   flex-shrink: 0;
 }
-#content .extra span.copyable-wrapper > span:first-child button {
+.copyable-wrapper > span:first-child button {
   padding: 0.2em;
   height: 1.7em;
   width: 2em;
@@ -744,12 +746,12 @@ ul.docinfo.nomultiple.global li:before {
   background: none;
   color: transparent;
 }
-#content .extra span.copyable-wrapper > span:first-child button:before {
+.copyable-wrapper > span:first-child button:before {
   content: "\f0ea";
   font-family: "FontAwesome";
   color: #333;
 }
-#content .extra span.copyable-wrapper > span:first-child + span {
+.copyable-wrapper > span:first-child + span {
   padding: 0 0.5em;
   overflow: hidden;
   height: 1.3em;
@@ -758,8 +760,13 @@ ul.docinfo.nomultiple.global li:before {
 #content .extra .hideable {
   display: flex;
 }
+.fb a,
+.twitter a {
+  border: 0;
+}
 #content .extra .hideable-switch,
-#content .extra span a {
+.fb a,
+.twitter a {
   transition: 0.25s ease-out;
   font-size: 1.2em;
   display: block;
@@ -783,17 +790,19 @@ ul.docinfo.nomultiple.global li:before {
 }
 .extra .hideable-nohide .hideable-switch,
 .extra .hideable-switch:hover,
-.extra span a:hover {
+.fb a:hover,
+.twitter a:hover {
   background: #e0e0e0;
 }
 .extra .hideable-nohide .hideable-switch:before,
 .extra .hideable-switch:hover:before,
-.extra span.fb a:hover:before,
-.extra span.twitter a:hover:before {
+.fb a:hover:before,
+.twitter a:hover:before {
   color: #757575;
 }
 #content .extra .hideable-switch:before,
-#content .extra span a:before {
+.fb a:before,
+.twitter a:before {
   content: "\f1e0";
   font-family: "FontAwesome";
 }
@@ -803,17 +812,18 @@ ul.docinfo.nomultiple.global li:before {
   color: transparent;
 }
 #content .extra .hideable-switch:before,
-#content .extra .hideable-nohide span a:before {
+.fb a:before,
+.twitter a:before {
   color: #9e9e9e;
   margin: 0;
 }
-#content .extra span.fb a {
+.fb a {
   padding-left: 0.7em;
 }
-#content .extra span.fb a:before {
+.fb a:before {
   content: "\f09a";
 }
-#content .extra span.twitter a:before {
+.twitter a:before {
   content: "\f099";
 }
 #content .hdesc .extra {
@@ -821,12 +831,24 @@ ul.docinfo.nomultiple.global li:before {
   bottom: 0;
   right: 1em;
 }
-#content .hdesc .extra span.copyable-wrapper {
+span.copyable-wrapper {
   color: #333;
   width: max-content;
   max-width: 100vw;
   right: 0;
   left: auto;
   box-shadow: none;
+}
+/***************************/
+.share {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 1em;
+  padding-top: 0;
+}
+.share li {
+  margin: 0;
+  margin-right: 0.5em;
 }
 /***************************/
