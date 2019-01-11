@@ -868,19 +868,39 @@ span.copyable-wrapper {
   /* bottom: -3.5em; */
 }
 /***************************/
+h2#docinfo {
+  display: none;
+}
+ul.docinfo.nomultiple.global {
+  text-align: left;
+  border-top: thin solid #d6d6d6;
+  padding-top: 3em;
+  margin-top: 3em;
+}
 .share {
-  display: flex;
-  flex-wrap: wrap;
   align-items: center;
   list-style: none;
   margin: 0;
-  padding: 1em;
-  padding-top: 0;
-  margin-bottom: 3em;
+  padding: 0 1em 3em 1em;
 }
 .share li {
-  margin: 0;
+  margin: 0.5em 0;
   margin-right: 1em;
 }
-.share li a:before {float: left;color: #757575;}
+.share li a:before {
+  float: left;
+  color: #757575;
+  font-size: 1.2em;
+  line-height: 1.2;
+}
+@media (min-width: 30em) {
+  .share,
+  ul.docinfo.nomultiple.global {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  ul.docinfo.nomultiple.global li {
+    margin-bottom: 0;
+  }
+}
 /***************************/
