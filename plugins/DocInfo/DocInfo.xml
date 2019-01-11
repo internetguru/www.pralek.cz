@@ -9,7 +9,7 @@
 <!--       <li class="kw" var="kw" fn="inputvar-maketags">n/a</li> -->
 <!--       <li><span var="edit">n/a</span></li> -->
     </ul>
-    <ul>
+    <ul class="share nomultiple">
       <li>test</li>
 <!--       <li class="copyable" fn="inputvar-createlink" var="link">n/a</li>
       <li class="fb"><a var="link@href" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s">Sdílet na facebooku</a></li>
