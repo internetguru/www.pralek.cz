@@ -27,6 +27,14 @@
           <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
         </div>
         <!--<xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>-->
+        <div class="extra">
+          <span class="hideable">
+            <span class="eventable">Sdílet</span>
+            <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
+            <span class="fb"><a var="link@href" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s">Sdílet na facebooku</a></span>
+            <span class="twitter"><a var="link@href" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s">Sdílet na twitteru</a></span>
+          </span>
+        </div>
       </xsl:element>
     </xsl:element>
     <xsl:element name="div">
