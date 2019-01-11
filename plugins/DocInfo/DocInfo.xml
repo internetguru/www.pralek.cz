@@ -5,7 +5,7 @@
       <li class="fa fa-user">Autor: <span var="author">n/a</span></li>
       <li class="fa fa-file">Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
       <li class="fa fa-wrench"><span var="modified">n/a</span></li>
-      <li class="fa fa-github"><a href="#" var="inputvar-ghedit">n/a</a></li>
+      <li><a class="fa fa-github" href="#" var="inputvar-ghedit">n/a</a></li>
 <!--       <li class="kw" var="kw" fn="inputvar-maketags">n/a</li> -->
 <!--       <li><span var="edit">n/a</span></li> -->
     </ul>
