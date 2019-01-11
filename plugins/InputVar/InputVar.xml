@@ -12,7 +12,7 @@
   <dl>
     <dt><label for="newsletter-email">Vaše emailová adresa</label></dt>
     <dd>
-      <input type="email" pattern="[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.[a-zA-Z]{2,}" placeholder="Vaše emailová adresa" name="email" required="required" size="37" id="newsletter-email" class="eventable"/>
+      <input type="email" pattern="[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.[a-zA-Z]{2,}" placeholder="Vaše emailová adresa" name="email" required="required" size="37" id="newsletter-email"/>
       <input type="submit" value="Přihlásit"/>
       <input type="hidden" name="emailcheck" value=""/>
       <input type="hidden" name="formid" value="form0"/>
