@@ -853,7 +853,7 @@ ul.docinfo.nomultiple.global li:before {
   width: 100%;
   /* box-sizing: border-box; */
   /* text-align: right; */
-  /* position: relative; */
+  position: relative;
   /* right: 0; */
 }
 span.copyable-wrapper {
