@@ -83,7 +83,6 @@ dl.figure dt {
   padding-top: 4vw;
   margin-bottom: 4em;
   padding-bottom: 5vw;
-  position: relative;
 }
 .hdesc > div div.meta {
   max-width: 25em;
@@ -246,7 +245,7 @@ a.tag:before,
   line-height: 0;
   vertical-align: -0.1em;
 }
-.extra ul {
+#content .extra ul {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -254,29 +253,29 @@ a.tag:before,
   max-width: 100%;
   position: relative;
 }
-.extra ul li {
+#content .extra ul li {
   height: 2.25em;
 }
-.extra ul li:nth-child(2) {
+#content .extra ul li:nth-child(2) {
   margin-left: auto;
   display: flex;
   align-items: flex-end;
 }
-.extra .button {
+#content .extra .button {
   border: none;
   display: inline-block;
 }
 .filter .button:hover,
 .contentbalancer-simple a:hover,
-.extra .button:hover {
+#content .extra .button:hover {
   background: #e8eaf6;
 }
 .filter .button:active,
 .filter .button:focus,
 .contentbalancer-simple a:focus,
 .contentbalancer-simple a:active,
-.extra .button:focus,
-.extra .button:active {
+#content .extra .button:focus,
+#content .extra .button:active {
   background: #c5cae9;
 }
 /***************************/
@@ -779,15 +778,15 @@ ul.docinfo.nomultiple.global li:before {
   border: none;
   text-align: left;
 }
-#content .extra .hideable-nohide .hideable-switch,
-#content .extra .hideable-switch:hover,
-#content .extra span a:hover {
+.extra .hideable-nohide .hideable-switch,
+.extra .hideable-switch:hover,
+.extra span a:hover {
   background: #e0e0e0;
 }
-#content .extra .hideable-nohide .hideable-switch:before,
-#content .extra .hideable-switch:hover:before,
-#content .extra span.fb a:hover:before,
-#content .extra span.twitter a:hover:before {
+.extra .hideable-nohide .hideable-switch:before,
+.extra .hideable-switch:hover:before,
+.extra span.fb a:hover:before,
+.extra span.twitter a:hover:before {
   color: #757575;
 }
 #content .extra .hideable-switch:before,
@@ -814,16 +813,17 @@ ul.docinfo.nomultiple.global li:before {
 #content .extra span.twitter a:before {
   content: "\f099";
 }
-#content .hdesc .extra {
+#content .pralek.hdesc .extra {
   position: absolute;
   bottom: 0;
   right: 0;
 }
-#content .hdesc .extra span.copyable-wrapper {
+#content .pralek.hdesc .extra span.copyable-wrapper {
   color: #333;
-  width: 22em;
+  width: max-content;
   max-width: 100vw;
   right: 0;
   left: auto;
+  box-shadow: none;
 }
 /***************************/
