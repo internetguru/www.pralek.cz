@@ -10,9 +10,9 @@
 <!--       <li><span var="edit">n/a</span></li> -->
     </ul>
     <ul class="share nomultiple">
-      <li><span class="copyable" fn="inputvar-createlink" var="link">n/a</span></li>
        <li class="fb"><a var="link@href" fn="inputvar-createfblink@href">Sdílet na facebooku</a></li>
       <li class="twitter"><a var="link@href" fn="inputvar-createtwitterlink@href">Sdílet na twitteru</a></li>
+      <li><span class="copyable" fn="inputvar-createlink" var="link">n/a</span></li>
      
     </ul>
   </var>
