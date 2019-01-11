@@ -83,6 +83,7 @@ dl.figure dt {
   padding-top: 4vw;
   margin-bottom: 4em;
   padding-bottom: 5vw;
+  position: relative;
 }
 .hdesc > div div.meta {
   max-width: 25em;
@@ -778,15 +779,15 @@ ul.docinfo.nomultiple.global li:before {
   border: none;
   text-align: left;
 }
-.extra .hideable-nohide .hideable-switch,
-.extra .hideable-switch:hover,
-.extra span a:hover {
+#content .extra .hideable-nohide .hideable-switch,
+#content .extra .hideable-switch:hover,
+#content .extra span a:hover {
   background: #e0e0e0;
 }
-.extra .hideable-nohide .hideable-switch:before,
-.extra .hideable-switch:hover:before,
-.extra span.fb a:hover:before,
-.extra span.twitter a:hover:before {
+#content .extra .hideable-nohide .hideable-switch:before,
+#content .extra .hideable-switch:hover:before,
+#content .extra span.fb a:hover:before,
+#content .extra span.twitter a:hover:before {
   color: #757575;
 }
 #content .extra .hideable-switch:before,
@@ -813,12 +814,12 @@ ul.docinfo.nomultiple.global li:before {
 #content .extra span.twitter a:before {
   content: "\f099";
 }
-#content .pralek.hdesc .extra {
+#content .hdesc .extra {
   position: absolute;
   bottom: 0;
   right: 0;
 }
-#content .pralek.hdesc .extra span.copyable-wrapper {
+#content .hdesc .extra span.copyable-wrapper {
   color: #333;
   width: 22em;
   max-width: 100vw;
