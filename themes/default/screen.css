@@ -772,6 +772,7 @@ ul.docinfo.nomultiple.global li:before {
 }
 .clanek .extra span a {
   margin: 0 0.2em;
+  border: none;
 }
 .clanek .extra .hideable-nohide .hideable-switch,
 .clanek .extra .hideable-switch:hover,
@@ -780,13 +781,22 @@ ul.docinfo.nomultiple.global li:before {
 }
 .clanek .extra .hideable-nohide .hideable-switch:before,
 .clanek .extra .hideable-switch:hover:before,
-.clanek .extra span a:hover:before {
+.clanek .extra span.fb a:hover:before,
+.clanek .extra span.twitter a:hover:before {
   color: #757575;
 }
 .clanek .extra .hideable-switch:before,
 .clanek .extra span a:before {
   content: "\f1e0";
   font-family: "FontAwesome";
+}
+.clanek .extra span.fb a:before,
+.clanek .extra span.twitter a:before {
+  transition: 0.25s ease-out;
+  color: transparent;
+}
+.clanek .extra .hideable-switch:before,
+.clanek .extra .hideable-nohide span a:before {
   color: #9e9e9e;
 }
 .clanek .extra span.fb a {
