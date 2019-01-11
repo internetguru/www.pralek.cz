@@ -21,6 +21,8 @@
 </form></var>
   
   <fn id="createlink" fn="pregreplace" pattern=".+" replacement="https://www.pralek.cz/$0?usp=sharing" />
+  <fn id="createfblink" fn="pregreplace" pattern=".+" replacement="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/$0" />
+  <fn id="createtwitterlink" fn="pregreplace" pattern=".+" replacement="https://twitter.com/intent/tweet?text=www.pralek.cz/$0" />
   
   <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
   <var id="mdfile" var="file" fn="html2md"/>
