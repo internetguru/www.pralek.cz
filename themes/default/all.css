@@ -228,6 +228,7 @@ ul.docinfo.nomultiple.global {
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 0.5em;
+  margin-top: 3em;
 }
 ul.docinfo.nomultiple.global li {
   margin: 0;
