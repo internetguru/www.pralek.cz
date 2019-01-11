@@ -803,6 +803,12 @@ ul.docinfo.nomultiple.global li:before {
 .extra .hideable-switch:hover,
 .fb a:hover,
 .twitter a:hover {
+  background: #eeeeee;
+}
+.hdesc .extra .hideable-nohide .hideable-switch,
+.hdesc .extra .hideable-switch:hover,
+.hdesc .fb a:hover,
+.hdesc .twitter a:hover {
   background: #757575;
 }
 #content .extra .hideable-switch:before,
