@@ -42,15 +42,23 @@ div.list {
 }
 /***************************/
 dl.figure {
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
   display: inline-flex;
-  flex-direction: column;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
   text-align: center;
 }
 dl.figure dt {
   padding: 0;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
   display: inline-flex;
   min-height: 12em;
-  align-self:  center;
+  -webkit-align-self:  center;
+      -ms-flex-item-align:  center;
+          align-self:  center;
 }
 dl.figure dt img {
   object-fit: cover;
@@ -84,7 +92,9 @@ ol.contentlink-bc {
   padding: 0;
 }
 #header .contentlink-bc {
-  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
 }
 #header .contentlink-bc li ~ li {
   display: none;
@@ -122,8 +132,12 @@ h1 + p {
   padding: 0 1.25em;
 }
 #header .contentlink-bc li a {
+  display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
   margin-top: 0.6em;
 }
 .hdesc > div > * {
@@ -171,7 +185,7 @@ dl.clanek > *:not(:first-child):not(.date) {
   width: 100%;
   height: 15em;
   max-height: 100%;
-  border-radius: 0.4em 0.4em 0 0;
+  border-radius: 0.5em 0.5em 0 0;
 }
 .clanek dt:first-child {
   position: relative;
@@ -184,15 +198,21 @@ dl.clanek > *:not(:first-child):not(.date) {
 }
 .clanek dd.kw {
   margin: 0.75em 0;
-  order: 0;
-  justify-content: flex-start;
+  -webkit-order: 0;
+      -ms-flex-order: 0;
+          order: 0;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
 }
 .clanek .heading {
   font-size: 1.5em;
   margin: 0 0 0.25em 0;
 }
 .clanek .desc {
-  flex-grow: 1;
+  -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
   margin: 0.5em 0;
 }
 #content .clanek .extra {
