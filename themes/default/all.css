@@ -196,9 +196,9 @@ dl.clanek > *:not(:first-child):not(.date) {
   margin: 0.5em 0;
 }
 #content .clanek .extra {
-  padding: 0.5em;
-  padding-top: 0;
-  width: calc(100% - 1rem);
+  padding: 1em 0.4em 0.6em 0.4em;
+  padding-top: 1em;
+  width: calc(100% - 0.8rem);
 }
 .clanek .extra ul li {
   margin: 0;
