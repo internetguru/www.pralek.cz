@@ -31,7 +31,7 @@
         <xsl:if test="/body[contains(@class, 'agregator')]">
           <div class="extra">
             <span class="hideable">
-              <span class="eventable">Sdílet</span>
+              <span class="eventable material-icons">share</span>
               <span class="copyable" fn="inputvar-createlink">
                 <xsl:value-of disable-output-escaping="yes" select="$link"/>
               </span>
