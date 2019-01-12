@@ -809,6 +809,7 @@ ul.docinfo.nomultiple.global li:before {
   border: none;
   text-align: left;
 }
+.hdesc .extra .hideable-switch,
 .hdesc .extra *:before {
   color: white;
 }
