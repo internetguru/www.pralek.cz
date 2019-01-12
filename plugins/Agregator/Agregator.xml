@@ -11,7 +11,6 @@
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
       <dt class="heading"><a title="Autor: %s" var="link@href author@title heading" href="%s?usp=heading">n/a</a></dt>
       <dd class="desc" var="desc">n/a</dd>
-      <dd class="desc" var="desc">n/a</dd>
       <dd class="extra"><ul>
         <li><a var="link@href" class="button" href="%s?usp=button">Přečíst</a></li>
 <!--         <li><span class="button facebook" title="Sdílet na facebooku"><span class="fa fa-facebook-official">share</span></span></li> -->
