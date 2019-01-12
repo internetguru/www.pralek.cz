@@ -266,6 +266,8 @@ a.tag:before,
 .extra .button {
   border: none;
   display: inline-block;
+  padding-left: 0.6em;
+  padding-right: 0.6em;
 }
 .filter .button:hover,
 .contentbalancer-simple a:hover,
