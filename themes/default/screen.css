@@ -789,7 +789,7 @@ ul.docinfo.nomultiple.global li:before {
 .fb a,
 .twitter a {
   transition: 0.25s ease-out;
-  font-size: 1.2em;
+  font-size: 1.3rem;
   display: block;
   overflow: hidden;
   line-height: 1;
@@ -824,7 +824,9 @@ ul.docinfo.nomultiple.global li:before {
 .hdesc .twitter a:hover {
   background: #757575;
 }
-#content .extra .hideable-switch:before,
+#content .extra .hideable-switch:before {
+  content: none;
+}
 .fb a:before,
 .twitter a:before {
   content: "\f1e0";
@@ -835,7 +837,7 @@ ul.docinfo.nomultiple.global li:before {
   transition: 0.25s ease-out;
   color: transparent;
 }
-.section .extra .hideable-switch:before, .fb a:before, .twitter a:before {
+.section .extra .hideable-switch, .fb a:before, .twitter a:before {
   color: #9e9e9e;
   margin: 0;
 }
