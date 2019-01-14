@@ -152,7 +152,7 @@ dl.figure dt {
   left: 0;
 }
 .hdesc:after {
-  background: #000000a6;
+  background: rgba(0, 0, 0, 0.6509803921568628);
 }
 .hdesc:before {
   background-size: cover;
@@ -241,7 +241,7 @@ a.tag:before,
   background: none;
 }
 .clanek dt:first-child a:hover:before {
-  background: #00000059;
+  background: rgba(0, 0, 0, 0.34901960784313724);
 }
 .clanek > * {
   margin: 0;
@@ -474,7 +474,7 @@ a.taglist-tag:not([href]):before {
   border: 0;
   outline: none;
   padding: 0.5em 1em;
-  background: #ffffff52;
+  background: rgba(255, 255, 255, 0.3215686274509804);
   transition: all .2s ease-in-out;
   width: 100%;
   max-width: 100%;
