@@ -808,6 +808,9 @@ ul.docinfo.nomultiple.global li > span:first-child {
   font-size: 1.3rem;
   margin-right: 0.5rem;
 }
+ul.docinfo.nomultiple.global li > span:first-child ~ span {
+  margin-left: 0.25em;
+}
 /***************************/
 .copyable-wrapper {
   max-width: 100%;
