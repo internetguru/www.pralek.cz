@@ -799,9 +799,14 @@ a#scrolltop:hover {
   background: #ef6c00d6 !important;
 }
 /***************************/
-ul.docinfo.nomultiple.global li:before {
+ul.docinfo.nomultiple.global li {
+  display: flex;
+}
+ul.docinfo.nomultiple.global li > span:first-child {
   color: #757575;
   width: 1rem;
+  font-size: 1.3rem;
+  margin-right: 0.5rem;
 }
 /***************************/
 .copyable-wrapper {
