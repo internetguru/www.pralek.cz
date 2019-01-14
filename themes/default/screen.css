@@ -716,12 +716,16 @@ ol.otazky button:not(.selected):disabled {
   display: flex;
   float: none;
   margin: 0 auto;
+  max-width: 35em;
+  flex-wrap: wrap;
 }
 .newsletter input[type="submit"] {
   background: white;
   border-radius: 0 0.3em 0.3em 0;
   color: #bf360c;
   /* border-bottom: thin solid #ffccbc; */
+  width: 8em;
+  flex-shrink: 0;
 }
 .newsletter input[type="submit"]:hover {
   background: #fbe9e7;
@@ -735,6 +739,11 @@ ol.otazky button:not(.selected):disabled {
   padding: 0.3em 0.5em;
   margin-left: 0.5em;
   border-bottom: thin solid #e0e0e0;
+  /*!  */
+  max-width: none;
+  flex-grow: 1;
+  flex-shrink: 1;
+  width: auto;
 }
 /***************************/
 .example,
@@ -860,6 +869,7 @@ ul.docinfo.nomultiple.global li:nth-child(3) span + span {
       -ms-flex-negative: 0;
           flex-shrink: 0;
   height: 1.6em;
+  line-height: 1.6;
 }
 .copyable-wrapper > span:first-child button {
   padding: 0.2em;
