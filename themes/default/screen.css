@@ -467,7 +467,7 @@ a.taglist-tag:not([href]):before {
   color: #9e9e9e;
 }
 .search ul input {
-  color: #aaa;
+  color: #fff;
 }
 .search ul input {
   height: 3.5em;
@@ -518,15 +518,27 @@ a.taglist-tag:not([href]):before {
   }
 }
 .search ul input::-webkit-input-placeholder {
-  color: #555;
+  color: #fff;
 }
 .search ul input::-moz-placeholder {
-  color: #555;
+  color: #fff;
 }
 .search ul input:-ms-input-placeholder {
-  color: #555;
+  color: #fff;
 }
 .search ul input::placeholder {
+  color: #fff;
+}
+.search ul input:focus::-webkit-input-placeholder {
+  color: #555;
+}
+.search ul input:focus::-moz-placeholder {
+  color: #555;
+}
+.search ul input:focus:-ms-input-placeholder {
+  color: #555;
+}
+.search ul input:focus::placeholder {
   color: #555;
 }
 .search button[type="submit"] {
