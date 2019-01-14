@@ -717,7 +717,6 @@ ol.otazky button:not(.selected):disabled {
   float: none;
   margin: 0 auto;
   max-width: 35em;
-  flex-wrap: wrap;
 }
 .newsletter input[type="submit"] {
   background: white;
