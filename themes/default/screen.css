@@ -515,27 +515,15 @@ a.taglist-tag:not([href]):before {
   }
 }
 .search ul input::-webkit-input-placeholder {
-  color: #fff;
+  color: #555;
 }
 .search ul input::-moz-placeholder {
-  color: #fff;
+  color: #555;
 }
 .search ul input:-ms-input-placeholder {
-  color: #fff;
+  color: #555;
 }
 .search ul input::placeholder {
-  color: #fff;
-}
-.search ul input:focus::-webkit-input-placeholder {
-  color: #555;
-}
-.search ul input:focus::-moz-placeholder {
-  color: #555;
-}
-.search ul input:focus:-ms-input-placeholder {
-  color: #555;
-}
-.search ul input:focus::placeholder {
   color: #555;
 }
 .search button[type="submit"] {
