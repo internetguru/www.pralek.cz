@@ -35,8 +35,18 @@
               <span class="copyable" fn="inputvar-createlink">
                 <xsl:value-of disable-output-escaping="yes" select="$link"/>
               </span>
-              <span class="fb hideable-nohide"><a var="link@href" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s">Sdílet na facebooku</a></span>
-              <span class="twitter hideable-nohide"><a var="link@href" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s">Sdílet na twitteru</a></span>
+              <span class="fb hideable-nohide">
+              <xsl:element name="a">
+                <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
+                Sdílet na facebooku
+              </xsl:element>
+              </span>
+              <span class="twitter hideable-nohide">
+              <xsl:element name="a">
+                <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
+                Sdílet na twitteru
+              </xsl:element>
+              </span>
             </span>
           </div>
         </xsl:if>
