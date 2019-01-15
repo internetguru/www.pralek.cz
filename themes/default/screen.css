@@ -79,6 +79,7 @@ dl.figure dt {
   max-width: 18em;
   margin-top: 0;
   margin-bottom: 0;
+  width: 100%;
 }
 #header > div {
   display: -webkit-flex;
@@ -101,12 +102,14 @@ dl.figure dt {
   max-width: 25em;
   margin-bottom: 2em;
   padding-bottom: 2vw;
+  width: 100%;
 }
 .hdesc > div h1 + div {
   max-width: 40em;
   margin-top: 2em;
   padding-top: 2vw;
   padding-bottom: 5vw;
+  width: 100%;
 }
 @media (min-width: 38em) {
   #header .contentlink-bc span {
