@@ -744,6 +744,7 @@ ol.otazky button:not(.selected):disabled {
   margin-left: 0;
   border-bottom: thin solid #e0e0e0;
   /*!  */
+  min-width: 0;
 }
 /***************************/
 .example,
