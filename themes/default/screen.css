@@ -47,7 +47,7 @@ dl.figure dt {
   color: white;
 }
 #header .contentlink-bc li a[href] span {
-  border-color: #ffffff99;
+  border-color: rgba(255, 255, 255, 0.6);
 }
 #header .contentlink-bc a {
   border: none;
@@ -113,7 +113,7 @@ dl.figure dt {
 }
 @media (min-width: 38em) {
   #header .contentlink-bc span {
-    display: initial;
+    display: block;
   }
   #header > div {
     display: -webkit-flex;
