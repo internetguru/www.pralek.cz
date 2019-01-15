@@ -592,7 +592,6 @@ a.taglist-tag:not([href]):before {
   width: calc(100% + 6em) !important;
   right: -6em;
   top: 3.5em;
-  display: block;
 }
 .search .navigList li {
   max-width: calc(100% - 0.5em);
@@ -603,7 +602,6 @@ a.taglist-tag:not([href]):before {
     width: calc(100% + 11em) !important;
     right: -6em;
     top: 3.5em;
-    display: block;
   }
 }
 /***************************/
