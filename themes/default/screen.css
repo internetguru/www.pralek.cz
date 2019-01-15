@@ -705,9 +705,14 @@ ol.otazky button:not(.selected):disabled {
   }
 }
 /***************************/
+.newsletter {
+  display: block;
+  margin: 0 auto;
+  max-width: 30em !important;
+}
 .newsletter dl {
-  padding-left: 0;
-  padding-right: 0;
+  padding-left: 1em;
+  padding-right: 1em;
   margin-top: 3em;
   margin-bottom: 3em;
 }
@@ -715,20 +720,16 @@ ol.otazky button:not(.selected):disabled {
   display: none;
 }
 .newsletter dd {
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
   float: none;
-  margin: 0 auto;
-  max-width: 35em;
+  display: flex;
+  max-width: none;
 }
 .newsletter input[type="submit"] {
   background: white;
   border-radius: 0 0.3em 0.3em 0;
   color: #bf360c;
   /* border-bottom: thin solid #ffccbc; */
-  width: 8em;
-  flex-shrink: 0;
+  width: auto;
 }
 .newsletter input[type="submit"]:hover {
   background: #fbe9e7;
@@ -740,13 +741,9 @@ ol.otazky button:not(.selected):disabled {
 .newsletter input[type="email"] {
   border: none;
   padding: 0.3em 0.5em;
-  margin-left: 0.5em;
+  margin-left: 0;
   border-bottom: thin solid #e0e0e0;
   /*!  */
-  max-width: none;
-  flex-grow: 1;
-  flex-shrink: 1;
-  width: auto;
 }
 /***************************/
 .example,
