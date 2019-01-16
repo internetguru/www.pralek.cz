@@ -10,6 +10,7 @@
       <div id="header">
         <div>
           <xsl:value-of disable-output-escaping="yes" select="$breadcrumb"/>
+          <label for="completable-search">Vyhledávání</label>
           <xsl:value-of disable-output-escaping="yes" select="$inputvar-tags-files-list"/>
         </div>
       </div>
