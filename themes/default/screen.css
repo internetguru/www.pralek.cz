@@ -790,6 +790,7 @@ ol.otazky button:not(.selected):disabled {
   width: auto;
   border: 0.1em solid;
   cursor: pointer;
+  max-width: none !important;
 }
 .moreable-linkwrapper a:hover {
   background: #e8eaf6;
