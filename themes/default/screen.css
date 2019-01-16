@@ -942,6 +942,10 @@ ul.docinfo.nomultiple.global li > span:first-child ~ span {
   border: none;
   text-align: left;
 }
+html:not(.js) .extra .hideable > span:first-child,
+html:not(.js) .extra .hideable > .copyable {
+  display: none;
+}
 .hdesc .extra .hideable-switch,
 .hdesc .extra *:before {
   color: white;
@@ -977,7 +981,6 @@ ul.docinfo.nomultiple.global li > span:first-child ~ span {
 }
 .section .extra .hideable-switch {
   padding-left: 0.4em;
-  color: #666;
 }
 .fb a {
   padding-left: 0.7em;
