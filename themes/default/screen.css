@@ -286,6 +286,7 @@ a.tag:before,
   display: flex;
   max-width: 100%;
   position: relative;
+  align-items: center;
 }
 .extra ul li {
   height: 2.25em;
@@ -923,7 +924,7 @@ ul.docinfo.nomultiple.global li > span:first-child ~ span {
 .fb a,
 .twitter a {
   transition: 0.25s ease-out;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   display: block;
   overflow: hidden;
   line-height: 1;
