@@ -970,6 +970,9 @@ ul.docinfo.nomultiple.global li > span:first-child ~ span {
   transition: 0.25s ease-out;
   color: transparent;
 }
+.section .extra .hideable-switch {
+  padding-left: 0.4em;
+}
 .section .extra .hideable-switch, .fb a:before, .twitter a:before {
   color: #9e9e9e;
   margin: 0;
