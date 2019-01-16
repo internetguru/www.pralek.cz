@@ -24,10 +24,9 @@
   <xsl:template match="h2[@id='clanky']">
     <xsl:copy>
       <xsl:apply-templates select="@* | node()"/>
-      <xsl:element name="span">
-        <xsl:attribute name="fn">inputvar-maketags</xsl:attribute>
-        <xsl:value-of disable-output-escaping="yes" select="$agregator-current-stitek"/>
-      </xsl:element>
+      <span>
+        <a title="Aktuální filtr" class="tag nowarning"><xsl:value-of disable-output-escaping="yes" select="$agregator-current-stitek"/></a>
+      </span>
     </xsl:copy>
   </xsl:template>
   
