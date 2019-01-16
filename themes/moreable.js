@@ -6,6 +6,7 @@
     Config.displayStep = 6
     Config.displayMin = 3
     Config.moreText = "Show more"
+    Config.leftText = "%s left"
 
     function Moreable() {
 
@@ -41,7 +42,7 @@
           moreLink.textContent = Config.moreText
           moreLink.addEventListener("click", showMore, false)
           var left = document.createElement("span")
-          left.innerHTML = " (" + hiddenItems.length + ")"
+          left.innerHTML = " (" + Config.leftText.replace("%s", hiddenItems.length) + ")"
           moreLink.appendChild(left)
           wrapper.appendChild(moreLink)
           parent.appendChild(wrapper)
