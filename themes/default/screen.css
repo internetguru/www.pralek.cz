@@ -966,25 +966,24 @@ html:not(.js) .extra .hideable > .copyable {
 .hdesc .twitter a:hover {
   background: #757575;
 }
-#content .extra .hideable-switch:before {
-  content: none;
-}
+#content .extra .hideable-switch:before,
 .fb a:before,
 .twitter a:before {
   content: "\f1e0";
   font-family: "FontAwesome";
 }
+.section .extra .hideable-switch:before,
 .fb a:before,
 .twitter a:before {
   transition: 0.25s ease-out;
   color: transparent;
 }
-.section .extra .hideable-switch, .fb a:before, .twitter a:before {
+.section .extra .hideable-switch:before, .fb a:before, .twitter a:before {
   color: #999;
   margin: 0;
 }
 .section .extra .hideable-switch {
-  padding-left: 0.4em;
+  padding-left: 0.5em;
 }
 .fb a {
   padding-left: 0.7em;
