@@ -950,9 +950,11 @@ html:not(.js) .extra .hideable > span:first-child,
 html:not(.js) .extra .hideable > .copyable {
   display: none;
 }
-.hdesc .extra .hideable-switch,
 .hdesc .extra *:before {
   color: white;
+}
+.hdesc .extra .hideable-switch {
+  padding-top: 0.4em;
 }
 .extra .hideable-nohide .hideable-switch,
 .extra .hideable-switch:hover,
