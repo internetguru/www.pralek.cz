@@ -41,7 +41,7 @@
           button.innerText = "› ‹";
           button.title = "Sbalit"
         } else {
-          parent.innerText = shorten(fullDescs[index], 195);
+          parent.innerText = shorten(fullDescs[index], 150);
           button.innerText = "‹ ›";
           button.title = "Rozbalit"
         }
@@ -51,7 +51,7 @@
       }
     }, i, button);
     fullDescs.push(descs[i].innerText);
-    var short = shorten(descs[i].innerText, 195);
+    var short = shorten(descs[i].innerText, 150);
     if (short.length == descs[i].innerText.length) {
       continue;
     }
