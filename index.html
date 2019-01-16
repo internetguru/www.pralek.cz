@@ -9,8 +9,18 @@
   </dl>
   <section>
     <h short="Odběr novinek" id="odber_novinek">Odběr upozornění na nově vyšlé články</h>
-    <desc kw="upozornění, novinky, odběr">Dostávejte krátká upozornění na nově vyšlé články! Maximálně dvakrát za měsíc Vám přijde krátká zpráva s informacemi o novém článku.</desc>
-    <p var="inputvar-newsletter">Formulář není k dispozici</p>
+    <desc kw="upozornění, novinky, odběr"><label for="newsletter-email">Přihlašte se</label> k odběru krátkých upozornění na nově vyšlé články! Maximálně dvakrát za měsíc Vám přijde krátká zpráva s informacemi o novém článku.</desc>
+    <form class="newsletter" action="http://alert.pralek.cz" method="post">
+      <dl>
+        <dt><label for="newsletter-email">Vaše emailová adresa</label></dt>
+        <dd>
+          <input type="email" pattern="[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.[a-zA-Z]{2,}" placeholder="Vaše emailová adresa" name="email" required="required" size="37" id="newsletter-email"/>
+          <input type="submit" value="Přihlásit"/>
+          <input type="hidden" name="emailcheck" value=""/>
+          <input type="hidden" name="formid" value="form0"/>
+        </dd>
+      </dl>
+    </form>
     <section>
       <h id="soukromi" short="Ochrana soukromí">Politika ochrany soukromí</h>
       <desc>n/a</desc>
