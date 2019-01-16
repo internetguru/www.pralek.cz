@@ -21,11 +21,7 @@ Tento web obsahuje články o praktickém lékařství s cílem zvýšit schopno
 
 {kw="upozornění, novinky, odběr"}
 
-Dostávejte krátká upozornění na nově vyšlé články! Maximálně dvakrát za měsíc Vám přijde krátká zpráva s informacemi o novém článku.
-
-{var="inputvar-newsletter"}
-
-Formulář není k dispozici
+<label>Přihlašte se {for="newsletter-email"}</label> k odběru krátkých upozornění na nově vyšlé články! Maximálně dvakrát za měsíc Vám přijde krátká zpráva s informacemi o novém článku.
 
 {id="soukromi" short="Ochrana soukromí"}
 
