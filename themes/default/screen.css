@@ -18,10 +18,13 @@ body {
 strong {
   font-weight: 600;
 }
-a {
+a, label {
   color: #3f51b5;
 }
-a[href] {
+label {
+  border-bottom: thin solid;
+}
+a[href], label {
   border-color: #9fa8da;
 }
 /***************************/
