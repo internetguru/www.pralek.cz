@@ -7,18 +7,6 @@
   <var id="odkazy_h">Související články</var>
   <var id="odkazy_desc">Článek ve svém textu odkazuje následující zdroje (v uvedeném pořadí). Zdroje danou problematiku rozvádějí či zmiňují v dalších souvislostech.</var>
   <fn id="tmpdateformat" fn="strftime" format="%e. [%m] %Y"/>
-  <var id="newsletter">
-<form class="newsletter" action="http://alert.pralek.cz" method="post">
-  <dl>
-    <dt><label for="newsletter-email">Vaše emailová adresa</label></dt>
-    <dd>
-      <input type="email" pattern="[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.[a-zA-Z]{2,}" placeholder="Vaše emailová adresa" name="email" required="required" size="37" id="newsletter-email"/>
-      <input type="submit" value="Přihlásit"/>
-      <input type="hidden" name="emailcheck" value=""/>
-      <input type="hidden" name="formid" value="form0"/>
-    </dd>
-  </dl>
-</form></var>
   
   <fn id="createlink" fn="pregreplace" pattern=".+" replacement="https://www.pralek.cz/$0?usp=sharing" />
   <fn id="createfblink" fn="pregreplace" pattern=".+" replacement="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/$0" />
