@@ -178,7 +178,6 @@
   <var id="tags-files-list">
   <form action="/" method="get" class="search">
     <ul>
-      <li><label for="completable-search">Vyhledávání</label></li>
       <li><select id="completable-search" name="s" class="completable">
 <!-- [completable] generated content, do not edit -->
 <option class="tag" value="stitky/bolest">bolest (65 výskytů) #stitky/bolest</option>
