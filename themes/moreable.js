@@ -3,8 +3,8 @@
   require("IGCMS", function () {
 
     var Config = {}
-    Config.step = 6
-    Config.limit = 3
+    Config.displayStep = 6
+    Config.displayMin = 3
     Config.moreText = "Show more"
 
     function Moreable() {
@@ -13,8 +13,8 @@
         parent,
         hiddenItems = [],
         showMore = function (event) {
-          var displayCount = Config.limit
-          if (hiddenItems.length - Config.step - Config.limit < 0) {
+          var displayCount = Config.displayStep
+          if (hiddenItems.length - Config.displayStep - Config.displayMin < 0) {
             displayCount = hiddenItems.length
           }
           for (var i = 0; i < displayCount; i++) {
@@ -25,11 +25,11 @@
           }
         },
         initStructure = function () {
-          if (parent.children.length - Config.step - Config.limit < 0) {
+          if (parent.children.length - Config.displayStep - Config.displayMin < 0) {
             return;
           }
           for (var i = 0; i < parent.children.length; i++) {
-            if (i < Config.step) {
+            if (i < Config.displayStep) {
               continue;
             }
             parent.children[i].style.display = "none"
@@ -40,6 +40,9 @@
           var moreLink = document.createElement("a")
           moreLink.textContent = Config.moreText
           moreLink.addEventListener("click", showMore, false)
+          var left = document.createElement("span")
+          left.innerHTML = hiddenItems.length - displayCount
+          moreLink.appendChild(left)
           wrapper.appendChild(moreLink)
           parent.appendChild(wrapper)
         }
