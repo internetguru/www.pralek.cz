@@ -41,7 +41,7 @@
           moreLink.textContent = Config.moreText
           moreLink.addEventListener("click", showMore, false)
           var left = document.createElement("span")
-          left.innerHTML = hiddenItems.length - displayCount
+          left.innerHTML = hiddenItems.length - Config.displayStep
           moreLink.appendChild(left)
           wrapper.appendChild(moreLink)
           parent.appendChild(wrapper)
