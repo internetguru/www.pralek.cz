@@ -815,15 +815,19 @@ a#scrolltop:hover {
   background: #ef6c00d6 !important;
 }
 /***************************/
+ul.docinfo.nomultiple.partial li,
 ul.docinfo.nomultiple.global li {
-  display: flex;
+  display: inline-flex;
+  align-items: center;
 }
+ul.docinfo.nomultiple.partial li span:first-child,
 ul.docinfo.nomultiple.global li > span:first-child {
   color: #757575;
   width: 1rem;
   font-size: 1.3rem;
   margin-right: 0.5rem;
 }
+ul.docinfo.nomultiple.partial li span:first-child ~ span,
 ul.docinfo.nomultiple.global li > span:first-child ~ span {
   margin-left: 0.25em;
 }
