@@ -18,10 +18,12 @@
   
   <var modifyonly="modifyonly" id="partinfo">
     <ul class="docinfo nomultiple partial">
-      <li><span class="material-icons">description</span><span var="part_created">n/a</span></li>
-      <li><span class="material-icons">update</span><span var="part_modified">n/a</span></li>
+      <li var="part_created">n/a</li>
+      <li var="part_modified">n/a</li>
     </ul>
   </var>
 
   <var modifyonly="modifyonly" id="modified"><span class="material-icons">update</span>Datum revize: <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
+  <var modifyonly="modifyonly" id="part_created"><span class="material-icons">description</span>Tato část byla vytvořena dne <span fn="inputvar-dateformat" var="ctime">n/a</span></var>
+  <var modifyonly="modifyonly" id="part_modified"><span class="material-icons">update</span>Tato část byla upravena dne <span fn="inputvar-dateformat" var="mtime">n/a</span></var>
 </DocInfo>
