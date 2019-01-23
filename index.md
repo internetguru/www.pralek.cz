@@ -82,7 +82,7 @@ n/a
 
 {id="clanky" short="Články" class="filter"}
 
-## Seznam článků
+## Téma
 
 {kw="články, koutek, novinky, upozornění"}
 
