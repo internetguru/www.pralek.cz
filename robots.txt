@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /?LogViewer
+Disallow: /?Admin
+Disallow: /?Convertor
