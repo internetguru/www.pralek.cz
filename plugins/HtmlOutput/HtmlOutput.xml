@@ -20,4 +20,6 @@ Disallow:</robots>
   <xslt>themes/pralek.xsl</xslt>
   <xslt>themes/delna.xsl</xslt>
   <xslt>themes/default/part.xsl</xslt>
+  
+  <var id="usp">enabled</var>
 </HtmlOutput>
