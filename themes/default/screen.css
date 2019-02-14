@@ -439,6 +439,7 @@ a.taglist-tag:not([href]):before {
   vertical-align: middle;
   border: 0.1em solid;
   /* margin-left: 1em; */
+  white-space: nowrap;
 }
 /***************************/
 #footer {
