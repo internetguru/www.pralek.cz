@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <InputVar>
-  <var id="service_plain">Nestárnoucí weby, www.nestarnouciweby.cz</var>
-  <var id="service_html"><a href="https://www.nestarnouciweby.cz/">Nestárnoucí weby</a></var>
+  <var id="service_plain">Nestárnoucí weby, www.rostouciweby.cz</var>
+  <var id="service_html"><a href="https://www.rostouciweby.cz/">Nestárnoucí weby</a></var>
   <var id="otazky_h">Článek odpovídá na následující otázky</var>
   <var id="otazky_desc">Cílem tohoto článku je srozumitelně odpovědět na následující otázky. Kliknutím na tlačítko můžete vyjádřit svůj názor, jak se mu to podařilo. Pořadí otázek odpovídá pořadí jednotlivých částí textu článku.</var>
   <var id="odkazy_h">Související články</var>
