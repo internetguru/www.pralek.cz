@@ -267,3 +267,8 @@ ul.docinfo.nomultiple.partial li {
   max-width: 100%;
 }
 /***************************/
+p.filter {
+  margin: 2em 0;
+  text-align: center;
+}
+/***************************/
