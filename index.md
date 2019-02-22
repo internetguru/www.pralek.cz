@@ -96,5 +96,9 @@ n/a
 
   * n/a
 
+{class="filter"}
+
+ 
+
  [1]: /files/thumbs/jaroslav_pavelka.jpg "MUDr. Jaroslav Pavelka"
 
