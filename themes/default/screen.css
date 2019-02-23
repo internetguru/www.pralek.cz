@@ -438,7 +438,7 @@ a.taglist-tag:not([href]):before {
   margin-bottom: 2em;
 }
 .toptags:before {
-  content: "Další nejčastější štítky";
+  content: "Další populární štítky";
   display: block;
   font-size: 1.5em;
   color: #333;
