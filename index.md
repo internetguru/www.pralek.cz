@@ -96,9 +96,9 @@ n/a
 
   * n/a
 
-{class="filter"}
+{var="inputvar-taglist" fn="inputvar-besttags"}
 
- 
+n/a
 
  [1]: /files/thumbs/jaroslav_pavelka.jpg "MUDr. Jaroslav Pavelka"
 
