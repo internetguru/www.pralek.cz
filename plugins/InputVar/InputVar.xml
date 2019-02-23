@@ -17,24 +17,15 @@
   <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s">Navrhnout úpravy článku</a></var>
 
   <fn id="headertags" fn="sequence">
-    <call>stripkws</call>
+    <call>striptags</call>
     <call>makeelements</call>
     <call>replacenames</call>
     <call>adduspheader</call>
   </fn>
-  <fn id="besttags" fn="sequence">
-    <call>stripkws9</call>
-    <call>makeelements</call>
-    <call>replacenames</call>
-<!--     <call>adduspbest</call> -->
-  </fn>
+  <fn id="show10tags" fn="pregreplace" pattern="(&#x3C;a.*&#x3C;\/a&#x3E;){0,9}" replacement="\1" />
   <fn id="stripkws" fn="pregreplace" pattern="^((:?[^,]+,){0,2}[^,]+).*" replacement="\1" />
-  <fn id="stripkws9" fn="pregreplace" pattern="^((:?[^,]+,){0,9}[^,]+).*" replacement="\1" />
   <fn id="adduspheader" fn="replace">
     <data name="#clanky">&amp;amp;amp;usp=headertag#clanky</data>
-  </fn>
-  <fn id="adduspbest" fn="replace">
-    <data name="#clanky">&amp;amp;amp;usp=besttag#clanky</data>
   </fn>
   <fn id="addusptaglist" fn="replace">
     <data name="#clanky">&amp;amp;amp;usp=taglist#clanky</data>
