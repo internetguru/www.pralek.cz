@@ -96,7 +96,7 @@ n/a
 
   * n/a
 
-{var="inputvar-taglist" fn="inputvar-besttags"}
+{var="inputvar-taglist" fn="inputvar-show10tags"}
 
 n/a
 
