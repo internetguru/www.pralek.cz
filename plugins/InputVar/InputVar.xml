@@ -22,7 +22,7 @@
     <call>replacenames</call>
     <call>adduspheader</call>
   </fn>
-  <fn id="show10tags" fn="pregreplace" pattern="((?:&#x3C;a.*&#x3C;\/a&#x3E;){0,9})" replacement="\1" />
+  <fn id="show10tags" fn="pregreplace" pattern="((?:&#x3C;a.*?&#x3C;\/a&#x3E;){0,9})" replacement="\1" />
   <fn id="stripkws" fn="pregreplace" pattern="^((:?[^,]+,){0,2}[^,]+).*" replacement="\1" />
   <fn id="adduspheader" fn="replace">
     <data name="#clanky">&amp;amp;amp;usp=headertag#clanky</data>
