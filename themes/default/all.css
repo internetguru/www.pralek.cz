@@ -163,7 +163,7 @@ dl.figure.author:after {
 dl.figure.author .img + dd {
   font-size: 1.2em;
 }
-@media all and (min-width: 42em) {
+@media (min-width: 42em) {
   dl.figure.author {
     text-align: left;
   }
