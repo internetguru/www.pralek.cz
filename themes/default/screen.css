@@ -21,10 +21,10 @@ strong {
 a, label {
   color: #3f51b5;
 }
-label {
+p label {
   border-bottom: thin solid;
 }
-a[href], label {
+a[href] {
   border-color: #9fa8da;
 }
 .hdesc label,
