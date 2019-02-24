@@ -44,7 +44,7 @@ n/a
     Pro odhlášení z odebírání upozornění klikněte na následující odkaz:
        http://alert.pralek.cz/… {class="nohighlight"}
 
-{id="soukromi" short="Ochrana soukromí" class="nobalance"}
+{id="soukromi" short="Ochrana soukromí"}
 
 ### Podmínky ochrany osobních údajů
 
