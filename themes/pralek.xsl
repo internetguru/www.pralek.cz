@@ -30,7 +30,7 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="div[@class='section']">
+  <xsl:template match="div[contains(@class, 'section')]">
     <xsl:copy>
       <xsl:apply-templates select="@* | node()"/>
       <h2 id="test">Test</h2>
