@@ -17,7 +17,7 @@
   <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s">Navrhnout úpravy článku</a></var>
 
   <fn id="headertags" fn="sequence">
-    <call>striptags</call>
+    <call>stripkws</call>
     <call>makeelements</call>
     <call>replacenames</call>
     <call>adduspheader</call>
