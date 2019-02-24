@@ -3,7 +3,7 @@
     IGCMS.Completable.init({
       selectSelector: '#header select.completable',
       placeholder: "Co Vás zajímá? (Ctrl+Shift+F)",
-      defaultChangeText: "Změnit filtr",
+      defaultChangeText: "Změnit",
       filterSelector: ".filter",
       sendFormText: "Hledat na Google",
       sendFormClass: "google",
