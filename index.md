@@ -50,7 +50,7 @@ n/a
 
 n/a
 
-{class="nobalance" id="zakladni" short="Základní"}
+{id="zakladni" short="Základní"}
 
 #### Základní ustanovení
 
@@ -61,7 +61,7 @@ n/a
   3. Osobními údaji se rozumí veškeré informace o identifikované nebo identifikovatelné fyzické osobě; identifikovatelnou fyzickou osobou je fyzická osoba, kterou lze přímo či nepřímo identifikovat, zejména odkazem na určitý identifikátor, například jméno, identifikační číslo, lokační údaje, síťový identifikátor nebo na jeden či více zvláštních prvků fyzické, fyziologické, genetické, psychické, ekonomické, kulturní nebo společenské identity této fyzické osoby.
   4. Správce nejmenoval pověřence pro ochranu osobních údajů.
 
-{class="nobalance" id="duvod" short="Důvod"}
+{id="duvod" short="Důvod"}
 
 #### Zákonný důvod zpracování osobních údajů
 
@@ -70,7 +70,7 @@ n/a
   1. Zákonným důvodem zpracování osobních údajů je Váš souhlas se zpracováním pro účely zasílání newsletterů podle čl. 6 odst. 1 písm. a) GDPR ve spojení s § 7 odst. 2 zákona č. 480/2004 Sb., o některých službách informační společnosti v případě, že nedošlo k objednávce zboží nebo služby (dále jen Souhlas).
   2. Ze strany Správce nedochází k automatickému individuálnímu rozhodování ve smyslu čl. 22 GDPR. S takovým zpracováním jste poskytl/a svůj výslovný souhlas.
 
-{class="nobalance" id="ucel" short="Účel"}
+{id="ucel" short="Účel"}
 
 #### Účel zpracování, kategorie, zdroje a příjemci osobních údajů
 
@@ -106,7 +106,7 @@ Zdroj údajů
 Příjemci osobních údajů (zpracovatelé)
 :   Služba pro rozesílání e-mailů
 
-{class="nobalance" id="doba" short="Doba"}
+{id="doba" short="Doba"}
 
 #### Doba uchovávání údajů
 
@@ -115,7 +115,7 @@ n/a
   1. Pokud není v předchozích bodech uvedeno jinak, Správce uchovává osobní údaje po dobu, než je odvolán souhlas se zpracováním osobních údajů pro uvedené účely, jsou-li osobní údaje zpracovávány na základě souhlasu.
   2. Po odvolání souhlasu či uplynutí doby uchovávání osobních údajů Správce osobní údaje vymaže.
 
-{class="nobalance" id="cookies" short="Cookies"}
+{id="cookies" short="Cookies"}
 
 #### Soubory cookie
 
@@ -127,7 +127,7 @@ n/a
       * Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti [Google {title="Zásady ochrany osobních údajů Google"}][3] ([informace o cookies {title="Jak Google využívá soubory cookie"}][4]).
   2. Vznesete-li námitku proti zpracování technických cookies nezbytných pro fungování webových stránek, nelze v takovém případě zaručit plnou funkčnost a kompatibilitu webových stránek.
 
-{class="nobalance" id="prijemci" short="Příjemci"}
+{id="prijemci" short="Příjemci"}
 
 #### Příjemci osobních údajů (subdodavatelé správce)
 
@@ -135,7 +135,7 @@ n/a
 
   1. Správce má v úmyslu předat osobní údaje do třetí země (do země mimo EU) nebo mezinárodní organizaci. Příjemci osobních údajů ve třetích zemích jsou poskytovatelé mailingových služeb, úložiště dat a souborů, analytických nástrojů a služeb pro přímý marketing.
 
-{class="nobalance" id="prava" short="Práva"}
+{id="prava" short="Práva"}
 
 #### Vaše práva
 
@@ -150,7 +150,7 @@ n/a
       * odvolat souhlas se zpracováním písemně nebo elektronicky na adresu nebo email správce uvedený v čl. III těchto podmínek.
   2. Dále máte právo podat stížnost u Úřadu pro ochranu osobních údajů v případě, že se domníváte, že bylo porušeno Vaše právo na ochranu osobních údajů.
 
-{class="nobalance" id="zabezpeceni" short="Zabezpečení"}
+{id="zabezpeceni" short="Zabezpečení"}
 
 #### Podmínky zabezpečení osobních údajů
 
@@ -160,7 +160,7 @@ n/a
   2. Správce přijal technická opatření k zabezpečení datových úložišť a úložišť osobních údajů v listinné podobě.
   3. Správce prohlašuje, že k osobním údajům mají přístup pouze jím pověřené osoby.
 
-{class="nobalance" id="zaverecna" short="Závěrečná"}
+{id="zaverecna" short="Závěrečná"}
 
 #### Závěrečná ustanovení
 
