@@ -638,8 +638,30 @@ a.taglist-tag:not([href]):before {
 .pralek.hdesc > div {
   position: relative;
 }
-.pralek.hdesc + div + div > .part:first-child {
-  padding: 0.1em 0 1em 0;
+.pralek.hdesc + div + div > .part:first-child:before {
+  content: "";
+  display: block;
+  margin: 4em auto 2em auto;
+  width: 10.7em;
+  height: 11em;
+  background: url("/files/newsletter.png");
+  background-size: cover;
+}
+@media all and (min-width: 42em) {
+  .pralek.hdesc + div + div > .part:first-child {
+    padding: 0.1em 0 1em 0;
+    max-width: 55em;
+    margin: 0 auto;
+  }
+  .pralek.hdesc + div + div > .part:first-child > * {
+    max-width: 80% !important;
+    margin-left: 0 !important;
+    position: relative;
+  }
+  .pralek.hdesc + div + div > .part:first-child:before {
+    float: right;
+    margin-top: 3em;
+  }
 }
 .agregator .part:last-child,
 .pralek.hdesc + div,
@@ -734,8 +756,6 @@ ol.otazky button:not(.selected):disabled {
 /***************************/
 .newsletter {
   display: block;
-  margin: 0 auto;
-  max-width: 30em !important;
 }
 .newsletter dl {
   padding-left: 1em;
