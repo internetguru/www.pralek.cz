@@ -27,6 +27,11 @@ label {
 a[href], label {
   border-color: #9fa8da;
 }
+.hdesc label,
+.hdesc a {
+  color: white;
+  border-color: rgba(255, 255, 255, 0.74);
+}
 /***************************/
 dl.figure {
   color: #37474f;
