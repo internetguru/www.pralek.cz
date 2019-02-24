@@ -3,7 +3,7 @@
 
 {author="Jaroslav Pavelka" authorid="autor" id="pralek" ctime="2007-03-29" short="Pralék: Praktické lékařství" title="Pralék: Praktické lékařství"}
 
-# Jaroslav Pavelka na téma úrazy a nemoci
+# Prevence a řešení zdravotních problémů
 
 {kw="lékařství, články, chirurgie"}
 
@@ -22,44 +22,7 @@ Tento web obsahuje články o praktickém lékařství s cílem zvýšit schopno
 
 {kw="upozornění, novinky, odběr"}
 
-<label>Přihlašte se {for="newsletter-email"}</label> k odběru krátkých upozornění na nově vyšlé články! Maximálně dvakrát za měsíc Vám přijde krátká zpráva s informacemi o novém článku.
-
-{id="soukromi" short="Ochrana soukromí"}
-
-### Politika ochrany soukromí
-
-n/a
-
-Emailové adresy nebudou prodány ani poskytnuty třetí straně. Jedná se o oznámení s velmi omezeným obsahem: krátká zpráva jednou až dvakrát měsíčně. Odkaz pro odhlášení je na konci každé zprávy.
-
-Seznam adres je chráněný heslem a bude použit jedině za zde popsaným účelem. Žádná nevyžádaná pošta; žádný spam – bez diskuze!
-
-{id="potvrzeni_registrace" short="Potvrzení registrace"}
-
-### Zkontrolujte si mailovou schránku pro potvrzení registrace
-
-n/a
-
-Po vložení adresy Vám na ni systém zašle kontrolní e-mail pro potvrzení, že si skutečně přejete dostávat upozornění. Jedná se o dodatečný krok v prevenci proti spamu a nežádaným e-mailovým žertům.
-
-  * Pokud kontrolní mail nepotvrdíte, Váš účet nebude aktivován.
-  * Ve schránce hledejte zprávu od <samp>no-reply@pralek.cz</samp> s předmětem <samp>Ověření žádosti o registraci</samp>.
-
-{short="Nastavení filtru" id="nastaveni_filtru"}
-
-### Zajištění, že zprávy dorazí
-
-n/a
-
-Upozornění budou přicházet z adresy <samp>alert@pralek.cz</samp>. Pro ujištění, že zprávy dorazí si tuto adresu přidejte do seznamu povolených adres _(whitelist) {xml:lang="en"}_.
-
-{id="odhlaseni" short="Odhlášení"}
-
-### Jak se odhlásit
-
-n/a
-
-Pro odhlášení stačí kliknout na odkaz, který je v zápatí každého upozornění. Odkaz pro odhlášení je u každé adresy jiný, proto zde nemůže být uveden.
+<label>Přihlaste se {for="newsletter-email"}</label> k odběru krátkých upozornění na nově vyšlé články! Maximálně dvakrát za měsíc obdržíte zprávu s informacemi o novém článku.
 
 {id="ukazka"}
 
@@ -81,6 +44,23 @@ n/a
     Pro odhlášení z odebírání upozornění klikněte na následující odkaz:
        http://alert.pralek.cz/… {class="nohighlight"}
 
+{id="soukromi" short="Ochrana soukromí"}
+
+### Podmínky ochrany osobních údajů
+
+n/a
+
+{id="zakladni" short="Základní"}
+
+#### Základní ustanovení
+
+n/a
+
+  1. Správcem osobních údajů podle čl. 4 bod 7 nařízení Evropského parlamentu a Rady (EU) 2016/679 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů (dále jen GDPR) je Lubomír Brejník, IČ 40206246 se sídlem Vančurova 3, 412 01 Litoměřice (dále jen Správce).
+  2. Kontaktní údaje Správce jsou lubomir.brejnik@internetguru.cz
+  3. Osobními údaji se rozumí veškeré informace o identifikované nebo identifikovatelné fyzické osobě; identifikovatelnou fyzickou osobou je fyzická osoba, kterou lze přímo či nepřímo identifikovat, zejména odkazem na určitý identifikátor, například jméno, identifikační číslo, lokační údaje, síťový identifikátor nebo na jeden či více zvláštních prvků fyzické, fyziologické, genetické, psychické, ekonomické, kulturní nebo společenské identity této fyzické osoby.
+  4. Správce nejmenoval pověřence pro ochranu osobních údajů. 
+
 {id="clanky" short="Články" class="filter"}
 
 ## Seznam článků
@@ -88,10 +68,6 @@ n/a
 {kw="články, koutek, novinky, upozornění"}
 
 Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata nových článků závisí na aktuálním dění a na odezvě čtenářů.
-
-<!--     <ul class="current-label">
-      <li class="filter" fn="inputvar-maketags" var="agregator-current-stitek">nejčtenější</li>
-    </ul> -->
 
 {var="doclist-stitek" class="nomultiple"}
 
