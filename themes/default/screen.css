@@ -671,6 +671,7 @@ div.part.internetguru:before {
   div.part.internetguru:before {
     float: right;
     margin-top: 3em;
+    margin-right: 1em;
   }
 }
 
