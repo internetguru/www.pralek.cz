@@ -638,6 +638,10 @@ a.taglist-tag:not([href]):before {
 .pralek.hdesc > div {
   position: relative;
 }
+.pralek.hdesc + div + div > .part + .part + .part {
+  background: none;
+}
+.pralek.hdesc + div + div > .part + .part + .part:before,
 .pralek.hdesc + div + div > .part:first-child:before {
   content: "";
   display: block;
@@ -647,27 +651,43 @@ a.taglist-tag:not([href]):before {
   background: url("/files/newsletter.png");
   background-size: cover;
 }
+.pralek.hdesc + div + div > .part + .part + .part:before {
+  width: 5.8em;
+  height: 5em;
+  background: url("/files/leaf.png");
+  background-size: cover;
+}
 @media all and (min-width: 42em) {
+  .pralek.hdesc + div + div > .part + .part + .part,
   .pralek.hdesc + div + div > .part:first-child {
     padding: 0.1em 0 1em 0;
     max-width: 55em;
     margin: 0 auto;
   }
+  .pralek.hdesc + div + div > .part + .part + .part > *,
   .pralek.hdesc + div + div > .part:first-child > * {
     max-width: 80% !important;
     margin-left: 0 !important;
     position: relative;
   }
+  .pralek.hdesc + div + div > .part + .part + .part > * {
+    margin-left: auto !important;
+  }
+  .pralek.hdesc + div + div > .part + .part + .part:before,
   .pralek.hdesc + div + div > .part:first-child:before {
     float: right;
     margin-top: 3em;
   }
+  .pralek.hdesc + div + div > .part + .part + .part:before {
+    float: left;
+  }
 }
+
 .agregator .part:last-child,
 .pralek.hdesc + div,
 .pralek.hdesc + div + div > .part + .part {
   padding: 0.1em 0 1em 0;
-  background: url(https://www.toptal.com/designers/subtlepatterns/patterns/greyzz.png);
+  background: url(https://www.toptal.com/designers/subtlepatterns/patterns/greyzz.png) #f9f9f9;
 }
 /***************************/
 .moreable-linkwrapper a,
