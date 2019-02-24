@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <InputVar>
+
   <var id="service_plain">Rostoucí weby, www.rostouciweby.cz</var>
   <var id="service_html"><a href="https://www.rostouciweby.cz/">Rostoucí weby</a></var>
   <var id="otazky_h">Článek odpovídá na následující otázky</var>
