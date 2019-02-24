@@ -115,6 +115,60 @@ n/a
   1. Pokud není v předchozích bodech uvedeno jinak, Správce uchovává osobní údaje po dobu, než je odvolán souhlas se zpracováním osobních údajů pro uvedené účely, jsou-li osobní údaje zpracovávány na základě souhlasu.
   2. Po odvolání souhlasu či uplynutí doby uchovávání osobních údajů Správce osobní údaje vymaže.
 
+{id="cookies" short="Cookies"}
+
+#### Soubory cookie
+
+n/a
+
+  1. Jsou-li v bodě [Účel][2] mezi osobními údaji uvedeny soubory cookie, platí pro jejich zpracování následující pravidla.
+      * Pravidla pro používání nebo zablokování cookies si může každý uživatel nastavit ve svém internetovém prohlížeči, čímž dává najevo svůj souhlas s jejich zpracováním.
+      * Uživatel si může nastavit povolení nebo odmítnutí veškerých nebo pouze některých souborů cookies (např. cookies třetích stran). Zablokování souborů cookies může mít negativní vliv na použitelnost webové stránky a služby.
+      * Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti [Google {title="Zásady ochrany osobních údajů Google"}][3] ([informace o cookies {title="Jak Google využívá soubory cookie"}][4]).
+  2. Vznesete-li námitku proti zpracování technických cookies nezbytných pro fungování webových stránek, nelze v takovém případě zaručit plnou funkčnost a kompatibilitu webových stránek.
+
+{id="prijemci" short="Příjemci"}
+
+#### Příjemci osobních údajů (subdodavatelé správce)
+
+n/a
+
+  1. Správce má v úmyslu předat osobní údaje do třetí země (do země mimo EU) nebo mezinárodní organizaci. Příjemci osobních údajů ve třetích zemích jsou poskytovatelé mailingových služeb, úložiště dat a souborů, analytických nástrojů a služeb pro přímý marketing.
+
+{id="prava" short="Práva"}
+
+#### Vaše práva
+
+n/a
+
+  1. Za podmínek stanovených v GDPR máte právo
+      * na přístup ke svým osobním údajům dle čl. 15 GDPR,
+      * opravu osobních údajů dle čl. 16 GDPR, popřípadě omezení zpracování dle čl. 18 GDPR,
+      * na výmaz osobních údajů dle čl. 17 GDPR,
+      * vznést námitku proti zpracování dle čl. 21 GDPR,
+      * na přenositelnost údajů dle čl. 20 GDPR,
+      * odvolat souhlas se zpracováním písemně nebo elektronicky na adresu nebo email správce uvedený v čl. III těchto podmínek.
+  2. Dále máte právo podat stížnost u Úřadu pro ochranu osobních údajů v případě, že se domníváte, že bylo porušeno Vaše právo na ochranu osobních údajů.
+
+{id="zabezpeceni" short="Zabezpečení"}
+
+#### Podmínky zabezpečení osobních údajů
+
+n/a
+
+  1. Správce prohlašuje, že přijal veškerá vhodná technická a organizační opatření k zabezpečení osobních údajů.
+  2. Správce přijal technická opatření k zabezpečení datových úložišť a úložišť osobních údajů v listinné podobě.
+  3. Správce prohlašuje, že k osobním údajům mají přístup pouze jím pověřené osoby.
+
+{id="zaverecna" short="Závěrečná"}
+
+#### Závěrečná ustanovení
+
+n/a
+
+  1. Odesláním internetového registračního formuláře potvrzujete, že jste seznámen/a s podmínkami ochrany osobních údajů a že je v celém rozsahu přijímáte.
+  2. Správce je oprávněn tyto podmínky změnit. Novou verzi podmínek ochrany osobních údajů zveřejní na svých internetových stránkách a zároveň Vám zašle novou verzi těchto podmínek Vaši e-mailovou adresu, kterou jste správci poskytl/a.
+
 {id="clanky" short="Články" class="filter"}
 
 ## Seznam článků
@@ -132,4 +186,7 @@ n/a
 n/a
 
  [1]: /files/thumbs/jaroslav_pavelka.jpg "MUDr. Jaroslav Pavelka"
+ [2]: #ucel
+ [3]: https://policies.google.com/privacy?hl=cs
+ [4]: https://policies.google.com/technologies/cookies?hl=cs
 
