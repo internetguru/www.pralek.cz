@@ -173,9 +173,9 @@ n/a
 
 ## Kategorie článků
 
-{kw="články, koutek, novinky, upozornění"}
+n/a
 
-Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata nových článků závisí na aktuálním dění a na odezvě čtenářů.
+<!--     <desc kw="články, koutek, novinky, upozornění">Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata nových článků závisí na aktuálním dění a na odezvě čtenářů.</desc> -->
 
 {var="doclist-stitek" class="nomultiple"}
 
@@ -185,8 +185,24 @@ n/a
 
 n/a
 
+{id="internetguru" short="Internet Guru"}
+
+## Tento web roste s námi
+
+O tento web se staráme od roku 2007. Po celou dobu web neustále roste a nasbíral **přes 40.000 unikátních návštěvníků měsíčně**!
+
+  * Perfektní čitelnost na všech zařízeních
+  * Publikační proces s autorizací změn a testovacím webem
+  * Správa štítků jednoduše v tabulce Excel / Spreadsheet
+  * Neustálý rozvoj funkcí a vylepšování uživatelské zkušenosti
+  * Podrobné statistiky návštěvnosti
+
+Chcete také publikovat na internetu?  
+[Ozvěte se nám! {title="Rostoucí weby"}][5]
+
  [1]: /files/thumbs/jaroslav_pavelka.jpg "MUDr. Jaroslav Pavelka"
  [2]: #ucel
  [3]: https://policies.google.com/privacy?hl=cs
  [4]: https://policies.google.com/technologies/cookies?hl=cs
+ [5]: https://www.rostouciweby.cz
 
