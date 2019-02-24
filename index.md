@@ -171,7 +171,7 @@ n/a
 
 {id="clanky" short="Články" class="filter"}
 
-## Seznam článků
+## Kategorie článků
 
 {kw="články, koutek, novinky, upozornění"}
 
