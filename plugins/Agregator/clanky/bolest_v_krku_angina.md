@@ -69,7 +69,7 @@ n/a
   4. Jaké mohou vzniknout komplikace angíny?
   5. Co nahradí funkci krčních mandlí po jejich odstranění?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -80,6 +80,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: ryma_a_smrkani
  [2]: chripka
