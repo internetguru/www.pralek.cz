@@ -430,43 +430,29 @@ h2 a.tag:before {
 .current-label li span {
   margin-left: 0.5em;
 }
-a.taglist-tag {
-  display: none;
+dl.toptags {
+  max-width: 55em;
 }
-a.taglist-tag:not([href]) {
-  display: inline;
-}
-a.taglist-tag:not([href]):before {
-  color: #9e9e9e !important;
-}
-.toptags {
-  margin-bottom: 2em;
-}
-.toptags:before {
-  content: "Další oblíbené štítky";
-  display: block;
-  font-size: 1.5em;
-  color: #333;
+dl.toptags dt {
   margin-top: 2em;
   margin-bottom: 1em;
+  font-size: 1.5em;
 }
-.toptags a.taglist-tag {
-  display: inline-block;
-}
-.toptags a.taglist-tag:nth-child(16) ~ * {
-  display: none;
+dl.toptags dd {
+  max-height: 5em;
+  overflow: hidden;
+  margin-left: 0;
 }
 .filter .button {
-  /* color: #1a237e; */
   vertical-align: middle;
   border: 0.1em solid;
-  /* margin-left: 1em; */
+  margin-left: 0.5em;
   white-space: nowrap;
 }
 /***************************/
 #footer {
-  margin-top: 3em;
-  margin-bottom: 3em;
+  background: #e9e9e9;
+  padding-top: 3em;
 }
 /***************************/
 .hdesc:before { 
@@ -638,40 +624,42 @@ a.taglist-tag:not([href]):before {
 .pralek.hdesc > div {
   position: relative;
 }
+div.part.upozorneni,
+div.part.internetguru {
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
 div.part.upozorneni:before,
 div.part.internetguru:before {
   content: "";
   display: block;
-  margin: 4em auto 2em auto;
-  width: 10.7em;
-  height: 11em;
-  background: url("/files/newsletter.png");
-  background-size: cover;
+  margin: 0em auto 2em auto;
+  width: 12em;
+  height: 12em;
+  background: url("/files/newsletter.png") 50% 50% no-repeat;
+  background-size: 95%;
 }
 div.part.internetguru:before {
-  width: 5.8em;
-  height: 5em;
-  background: url("/files/leaf.png");
-  background-size: cover;
+  background: url("/files/leaf.png") 48% 64% #eaf6ff no-repeat;
+  background-size: 75%;
+  border-radius: 100%;
 }
 @media all and (min-width: 42em) {
   div.part.upozorneni,
   div.part.internetguru {
-    padding: 0.1em 0 1em 0;
     max-width: 55em;
     margin: 0 auto;
   }
   div.part.upozorneni > *,
   div.part.internetguru > * {
-    max-width: 80% !important;
+    width: 65%;
     margin-left: 0 !important;
-    position: relative;
   }
   div.part.upozorneni:before,
   div.part.internetguru:before {
     float: right;
-    margin-top: 3em;
-    margin-right: 1em;
+    margin-right: 2em;
+    margin-top: 4em;
   }
 }
 
