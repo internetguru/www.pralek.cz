@@ -431,7 +431,8 @@ h2 a.tag:before {
   margin-left: 0.5em;
 }
 dl.toptags {
-  max-width: 35em;
+  flex: 0 1 96% !important;
+  max-width: 36em !important;
 }
 dl.toptags dt {
   margin-top: 2em;
