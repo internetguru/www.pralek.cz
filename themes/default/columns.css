@@ -6,7 +6,7 @@ div.list.multiple > div {
   justify-content: center;
 }
 
-div.list.multiple div > dl.clanek {
+div.list.multiple div > dl {
   flex: 0 1 96%;
   max-width: 96%;
   box-sizing: border-box;
@@ -14,12 +14,8 @@ div.list.multiple div > dl.clanek {
   padding: 0.5em 1em;
 }
 
-@media screen and (min-width: 22em) {
-
-}
-
 @media (min-width: 46em) {
-  div.list.multiple div > dl.clanek {
+  div.list.multiple div > dl {
     flex: 0 1 46%;
     max-width: 46%;
   }
