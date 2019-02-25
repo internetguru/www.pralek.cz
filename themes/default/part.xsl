@@ -22,13 +22,13 @@
       <xsl:copy-of select="@*"/>
       <xsl:apply-templates/>
     </div>
-    <xsl:text disable-output-escaping="yes">&lt;/div&gt;</xsl:text>
+    <xsl:text disable-output-escaping="yes">[end]&lt;/div&gt;</xsl:text>
   </xsl:template>
   
   
   <xsl:template match="//body/div/p[contains(@class,'description')]">
     <xsl:text disable-output-escaping="yes">&lt;div class="part"&gt;</xsl:text>
-<!--     <xsl:copy-of select="."/> -->
+    <xsl:copy-of select="."/>
     <xsl:text disable-output-escaping="yes">&lt;/div&gt;</xsl:text>
   </xsl:template>
   
