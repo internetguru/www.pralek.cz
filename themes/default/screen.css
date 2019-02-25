@@ -507,10 +507,10 @@ dl.toptags dd {
     max-width: 25em;
   }
   .search ul input {
-    width: 18em;
+    max-width: 18em;
   }
   .search ul input:focus {
-    width: 100%;
+    max-width: 100%;
   }
 }
 @media (min-width: 81em) {
@@ -525,8 +525,8 @@ dl.toptags dd {
 @media (max-width: 38em) {
   .search ul input:focus {
     position: absolute;
-    max-width: calc(100% + 5em);
-    width: calc(100% + 5em);
+    max-width: 100vw;
+    width: 100vw;
     border-radius: 0;
     border-left: none;
     left: 0;
