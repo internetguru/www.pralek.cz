@@ -119,7 +119,7 @@ dl.figure dt {
   padding-bottom: 5vw;
   width: 100%;
 }
-@media (min-width: 38em) {
+@media (min-width: 42em) {
   #header .contentlink-bc span {
     display: block;
   }
@@ -463,6 +463,7 @@ dl.toptags dd {
 .search {
   padding-right: 6em;
   width: 100%;
+  /* max-width: 25em; */
 }
 .search .navigList strong {
   font-weight: 600;
@@ -494,7 +495,7 @@ dl.toptags dd {
   background: rgba(255, 255, 255, 0.3215686274509804);
   transition: all .2s ease-in-out;
   width: 100%;
-  max-width: 100%;
+  max-width: 18em;
   /* border: thin solid #ffffff61; */
   border-radius: 0;
   -webkit-appearance: none;
@@ -502,16 +503,9 @@ dl.toptags dd {
   border: thin solid rgba(255, 175, 110, 0.6196078431372549);
   border-top: none;
 }
-@media (min-width: 38em) {
-  .search {
-    max-width: 25em;
-  }
-  .search ul input {
-    max-width: 18em;
-  }
-  .search ul input:focus {
-    max-width: 100%;
-  }
+.search ul input:focus {
+  max-width: 25em;
+  width: 100%;
 }
 @media (min-width: 81em) {
   .search ul button {
@@ -522,7 +516,7 @@ dl.toptags dd {
   color: inherit;
   background: #ffffff;
 }
-@media (max-width: 38em) {
+@media (max-width: 31em) {
   .search ul input:focus {
     position: absolute;
     max-width: 100vw;
@@ -610,13 +604,6 @@ dl.toptags dd {
 .search .navigList li {
   max-width: calc(100% - 0.5em);
   display: block;
-}
-@media (max-width: 38em) {
-  .search .navigList {
-    width: calc(100% + 11em) !important;
-    right: -6em;
-    top: 3.5em;
-  }
 }
 /***************************/
 .pralek.hdesc {
