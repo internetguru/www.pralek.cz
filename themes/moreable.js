@@ -21,7 +21,9 @@
             displayCount = hiddenItems.length
           }
           for (var i = 0; i < displayCount; i++) {
-            hiddenItems.shift().style.display = ""
+            var item = hiddenItems.shift()
+            item.style.display = ""
+            item.classList.add("moreable-shown")
           }
           left.innerHTML = " (" + Config.leftText.replace("%s", hiddenItems.length) + ")"
           if (hiddenItems.length === 0) {
