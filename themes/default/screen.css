@@ -1101,16 +1101,15 @@ ul.docinfo.nomultiple.global {
 /***************************/
 @keyframes moreable-shown {
   0% {
-    background-color: yellow;
+    background-color: #ffffd0;
     opacity: 1;
   }
   100% {
     background-color: inherit;
   }
 }
-
 .moreable-shown {
-  animation-name: quickFlash;
+  animation-name: moreable-shown;
   animation-duration: 1900ms;
   animation-iteration-count: 1;
   animation-timing-function: ease;
