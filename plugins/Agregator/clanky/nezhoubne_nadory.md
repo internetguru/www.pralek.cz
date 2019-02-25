@@ -109,7 +109,7 @@ n/a
   4. Které nezhoubné nádory se mohou nejčastěji přeměnit ve zhoubné?
   5. S čím bývají zaměňovány nezhoubné nádory?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

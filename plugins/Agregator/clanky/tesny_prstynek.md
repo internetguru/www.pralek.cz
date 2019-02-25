@@ -59,7 +59,7 @@ n/a
   3. Jak se provádí sejmutí těsného prstýnku pomocí pevné nitě?
   4. Jak se odstraňuje prsten z tvrdého kovu (z chirurgické oceli), který není možné přeštípnout kleštěmi?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

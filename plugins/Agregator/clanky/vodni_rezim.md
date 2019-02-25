@@ -90,7 +90,7 @@ n/a
   5. Čím je způsobena otrava vodou?
   6. Proč staří lidé málo pijí?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

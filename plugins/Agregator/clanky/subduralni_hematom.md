@@ -89,7 +89,7 @@ n/a
   4. Jaké mohou být projevy subdurálního hematomu?
   5. Proč se mohou jednotlivé projevy mozkového útlaku v průběhu vývoje subdurálního hematomu měnit?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

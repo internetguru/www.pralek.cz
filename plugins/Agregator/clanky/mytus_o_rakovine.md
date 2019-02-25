@@ -64,7 +64,7 @@ n/a
   3. Proč přichází hodně lidí k vyšetření pro podezření na rakovinu pozdě?
   4. Může laik sám u sebe určit rakovinu a proč?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

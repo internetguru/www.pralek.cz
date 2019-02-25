@@ -76,7 +76,7 @@ n/a
   4. V čem je užívání aspirinu výhodnější než užívání jiných léků proti bolesti?
   5. Jaký je rozdíl mezi léky známými z reklam a ostatními léky proti bolesti?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

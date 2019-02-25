@@ -50,7 +50,7 @@ n/a
   3. Za jakých podmínek může být onemocnění chřipkou osudné?
   4. Jak léčit rozvinutou chřipku?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

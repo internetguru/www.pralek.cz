@@ -103,7 +103,7 @@ n/a
   6. Proč není vhodné hned srážet zvýšenou teplotu v začátku horečnatého onemocnění?
   7. Jak se projevuje meningokoková infekce a koho nejspíše postihne?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

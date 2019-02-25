@@ -83,7 +83,7 @@ n/a
   4. Co bývá příčinou vzniku patní ostruhy?
   5. Jaké jsou možnosti léčení ostruhy?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

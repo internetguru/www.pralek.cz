@@ -93,7 +93,7 @@ n/a
   4. Jaké jsou možnosti včasného odhalení nádoru tlustého střeva a konečníku?
   5. Jakým způsobem lze vyléčit nádor tlustého střeva v ideálním případě?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

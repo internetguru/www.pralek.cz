@@ -68,7 +68,7 @@ n/a
   2. Jaká jsou hlediska serioznosti léčitele?
   3. Proč nestačí dobrá pověst léčitele pro posouzení jeho kvality?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

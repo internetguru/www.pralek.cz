@@ -96,7 +96,7 @@ n/a
   4. Kdy se může a kdy se nesmí dostat voda do ucha?
   5. Proč je nevhodné užívat k čištění uší tvrdé předměty?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

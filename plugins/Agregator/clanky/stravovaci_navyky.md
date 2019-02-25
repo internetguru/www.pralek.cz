@@ -100,7 +100,7 @@ n/a
   7. Ve které části dochází k největšímu vstřebávání živin?
   8. Kde se vstřebává hlavně voda?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

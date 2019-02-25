@@ -72,7 +72,7 @@ n/a
   4. Čím je způsobena hořká pachuť v ústech?
   5. Čím je způsobeno nadměrné říhání?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

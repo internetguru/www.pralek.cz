@@ -97,7 +97,7 @@ n/a
   4. Jaké jsou invazivní možnosti podání léku?
   5. Jaké jsou nejznámější lékové formy?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

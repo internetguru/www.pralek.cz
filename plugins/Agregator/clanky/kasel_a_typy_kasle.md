@@ -102,7 +102,7 @@ n/a
   5. Co je kuřácký kašel?
   6. Proč není vhodné kašlat vleže na zádech?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

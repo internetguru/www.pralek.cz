@@ -77,7 +77,7 @@ n/a
   5. Čím je dáno, že někdo infarkt přechodí bez následků a někdo má vážné potíže?
   6. Proč je dobře pospíchat při vzniku popsaných potíží s vyhledáním lékařské pomoci?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

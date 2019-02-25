@@ -59,7 +59,7 @@ n/a
   4. Co se děje časem s neléčenou kýlou?
   5. Jaké mohou vzniknout komplikace kýly?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

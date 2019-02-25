@@ -64,7 +64,7 @@ n/a
   5. Proč nerozřezávat ránu po kousnutí zmijí a nevysávat jed?
   6. Za jakých okolností se podává sérum proti uštknutí zmijí obecnou?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

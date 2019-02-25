@@ -75,7 +75,7 @@ n/a
   3. Jaké musí být místo zvolené k píchnutí injekce?
   4. Co dělat, pokud se po aspiraci v injekční stříkačce objeví krev?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

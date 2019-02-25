@@ -66,7 +66,7 @@ n/a
   2. Proč se nesmí dítě zvedat do výšky za jednu ruku?
   3. Proč má mít dítě při všech tělesných aktivitách prázdná ústa?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

@@ -75,7 +75,7 @@ n/a
   4. Za jakých podmínek se lze poranit o vodní hladinu?
   5. Jaký člověk skočí v noci do vypuštěného bazénu?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

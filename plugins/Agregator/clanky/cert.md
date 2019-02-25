@@ -89,7 +89,7 @@ n/a
   4. Proč byl čert špinavý a zanedbaný?
   5. Jaké vyhledával čert obydlí?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

@@ -76,7 +76,7 @@ n/a
   3. Za jakých okolností bolí nezhoubný nádor?
   4. Co to je metastáza?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

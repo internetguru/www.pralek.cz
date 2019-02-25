@@ -72,7 +72,7 @@ n/a
   3. Čím je způsobena recidiva zánětu močového měchýře?
   4. Jaké jsou formy léčení zánětu močového měchýře?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

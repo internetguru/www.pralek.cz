@@ -65,7 +65,7 @@ n/a
   4. Proč není dobré užívat léky na snížení hladiny cholesterolu v krvi?
   5. Jak lze skutečně snížit hladinu cholesterolu v krvi?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

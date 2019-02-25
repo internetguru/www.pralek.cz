@@ -121,7 +121,7 @@ n/a
   4. Které choroby mají přímou souvislost s kouřením cigaret?
   5. V čem spočívá záludnost vzniku návyku na nikotin?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

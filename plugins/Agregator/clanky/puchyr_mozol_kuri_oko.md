@@ -84,7 +84,7 @@ n/a
   4. Za jakých okolností je nutné si mozol ošetřovat?
   5. Proč chirurgické odstranění kuřího oka nevyřeší bolestivost při chůzi?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

@@ -70,7 +70,7 @@ n/a
   3. Jak působí na nemocnou dáseň zubní pasta proti paradentóze?
   4. Jaké přednosti má měkký kartáček na zuby před tvrdým?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

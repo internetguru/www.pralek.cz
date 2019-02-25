@@ -63,7 +63,7 @@ n/a
   4. Co je fimóza?
   5. Co je parafimóza?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

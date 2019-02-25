@@ -51,7 +51,7 @@ n/a
   2. Čím je způsobena ledvinová kolika?
   3. Jaké jsou možnosti léčení ledvinových kamenů?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

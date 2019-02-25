@@ -55,7 +55,7 @@ n/a
   4. Jací jsou mimo klíště další přenašeči klíšťové encefalitidy?
   5. Jaké jsou první příznaky boreliózy?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
