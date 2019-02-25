@@ -65,7 +65,7 @@ n/a
   3. Proč zvětšená uzlina někdy bolí a někdy nebolí?
   4. Co bývá nejčastější příčinou zvětšení podčelistních uzlin?
 
-{var="inputvar-odkazy_h" id="odkazy" class="filter"}
+{var="inputvar-odkazy_h" id="odkazy"}
 
 ## n/a
 
@@ -76,10 +76,6 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
-
-{var="inputvar-taglist" class="toptags"}
-
-n/a
 
  [1]: krevni_tlak
  [2]: bolest_v_krku_angina
