@@ -81,7 +81,7 @@ n/a
   4. Co při akutním torticollis vždy přitíží?
   5. Jaké existují jiné (neakutní) formy strnutí šíje?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

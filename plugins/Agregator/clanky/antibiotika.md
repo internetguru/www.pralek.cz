@@ -89,7 +89,7 @@ n/a
   6. Kdy je vhodné podat antibiotika preventivně?
   7. V čem spočívají negativní účinky antibiotik?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
