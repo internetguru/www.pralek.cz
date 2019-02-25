@@ -42,7 +42,7 @@ n/a
     onemocněních.
      
     Pro odhlášení z odebírání upozornění klikněte na následující odkaz:
-       http://alert.pralek.cz/… {class="nohighlight"}
+       http://alert.pralek.cz/2QuTamc2hBM87dwa {class="nohighlight"}
 
 {id="soukromi" short="Ochrana soukromí"}
 
