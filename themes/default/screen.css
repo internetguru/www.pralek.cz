@@ -1105,12 +1105,12 @@ ul.docinfo.nomultiple.global {
     opacity: 1;
   }
   100% {
-    background-color: inherit;
+    background-color: white;
   }
 }
 .moreable-shown {
   animation-name: moreable-shown;
-  animation-duration: 1900ms;
+  animation-duration: 1500ms;
   animation-iteration-count: 1;
   animation-timing-function: ease;
 }
