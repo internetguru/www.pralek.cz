@@ -80,7 +80,7 @@ n/a
   4. Jakou barvu má spodina bércového vředu?
   5. Jaké jsou možné příčiny vzniku bércového vředu?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -91,6 +91,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: zanet
  [2]: zasady_spravneho_opalovani

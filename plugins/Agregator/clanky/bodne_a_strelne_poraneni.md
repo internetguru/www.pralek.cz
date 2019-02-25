@@ -66,7 +66,7 @@ n/a
   3. Proč není nutné vždy odstraňovat v těle uvízlé kovové střepiny?
   4. S čím může souviset drobná ranka na zápěstí?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -77,6 +77,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: drobna_krvava_poraneni
  [2]: onemocneni_slach
