@@ -513,7 +513,7 @@ dl.toptags dd {
     width: 100%;
   }
 }
-@media (min-width: 63.5em) {
+@media (min-width: 81em) {
   .search ul button {
     border-radius: 0 0 0.25em 0 !important;
   }
