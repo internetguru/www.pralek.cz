@@ -93,6 +93,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: leky_proti_bolesti
  [2]: bolesti_v_zadech_houser
 
