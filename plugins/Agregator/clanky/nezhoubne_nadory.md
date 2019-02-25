@@ -121,6 +121,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: nezhoubny_nebo_zhoubny_nador
  [2]: zanet
  [3]: znamenko-bradavice-rakovina

@@ -111,6 +111,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: mikroorganizmy
  [2]: odreniny_neboli_oderky
  [3]: nalehavost_lekarskeho_vysetreni

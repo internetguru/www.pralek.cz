@@ -101,6 +101,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: znamenko-bradavice-rakovina
  [2]: zasady_spravneho_opalovani
  [3]: puchyr_mozol_kuri_oko

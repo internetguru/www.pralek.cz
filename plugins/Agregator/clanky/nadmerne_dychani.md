@@ -119,6 +119,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: iktus
  [2]: srdecni_infarkt
  [3]: funkcni_poruchy_traveni

@@ -78,6 +78,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: lecba_zanetu
  [2]: puchyr_mozol_kuri_oko
  [3]: mikroorganizmy

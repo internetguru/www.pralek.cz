@@ -78,5 +78,9 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: rakovina_tlusteho_streva_a_konecniku
 

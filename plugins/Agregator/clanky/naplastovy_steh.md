@@ -90,6 +90,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: drobna_krvava_poraneni
  [2]: bodne_a_strelne_poraneni
  [3]: akne

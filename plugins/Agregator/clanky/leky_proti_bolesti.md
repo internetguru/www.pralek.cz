@@ -88,6 +88,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: bolest_hlavy_migrena
  [2]: mocove_kameny
  [3]: artroza

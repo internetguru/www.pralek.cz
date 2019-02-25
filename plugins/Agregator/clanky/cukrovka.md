@@ -89,6 +89,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: stravovaci_navyky
  [2]: srdecni_infarkt
  [3]: mocove_kameny

@@ -97,6 +97,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: krevni_tlak
  [2]: krvaceni_z_konecniku
  [3]: zanet

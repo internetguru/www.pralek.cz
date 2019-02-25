@@ -87,6 +87,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: cukrovka
  [2]: lekove_formy
  [3]: mdloba_neboli_kolaps

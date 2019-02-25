@@ -73,6 +73,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: antibiotika
  [2]: mikroorganizmy
  [3]: teplota

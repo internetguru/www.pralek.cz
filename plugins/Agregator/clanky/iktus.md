@@ -78,6 +78,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: cholesterol
  [2]: koureni_cigaret
  [3]: srdecni_infarkt

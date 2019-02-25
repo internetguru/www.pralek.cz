@@ -133,6 +133,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: kasel_a_typy_kasle
  [2]: rakovina_tlusteho_streva_a_konecniku
  [3]: srdecni_infarkt

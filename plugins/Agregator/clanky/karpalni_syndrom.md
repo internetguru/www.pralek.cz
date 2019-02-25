@@ -84,6 +84,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: onemocneni_slach
  [2]: iktus
  [3]: nezhoubne_nadory

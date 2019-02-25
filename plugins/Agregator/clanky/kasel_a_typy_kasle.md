@@ -114,6 +114,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: ryma_a_smrkani
  [2]: bolest_v_krku_angina
  [3]: mytus_o_rakovine

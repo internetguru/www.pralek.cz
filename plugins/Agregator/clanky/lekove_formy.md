@@ -109,6 +109,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: funkcni_poruchy_traveni
  [2]: bolest_v_krku_angina
  [3]: srdecni_infarkt

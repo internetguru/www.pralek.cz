@@ -124,6 +124,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: resuscitace-ozivovani
  [2]: rychla_lekarska_pomoc
  [3]: ochlazeni_spaleniny

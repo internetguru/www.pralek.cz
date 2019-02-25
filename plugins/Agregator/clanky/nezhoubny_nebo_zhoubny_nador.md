@@ -88,6 +88,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: rakovina_prsu
  [2]: karpalni_syndrom
  [3]: obezita_a_energie

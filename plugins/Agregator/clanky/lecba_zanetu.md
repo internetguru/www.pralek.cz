@@ -92,6 +92,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: zanet
  [2]: leky_proti_bolesti
  [3]: ryma_a_smrkani

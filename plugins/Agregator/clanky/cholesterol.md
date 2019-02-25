@@ -77,6 +77,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: srdecni_infarkt
  [2]: stravovaci_navyky
 

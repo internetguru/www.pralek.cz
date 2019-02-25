@@ -85,6 +85,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: funkcni_poruchy_traveni
  [2]: teplota
  [3]: bolest_v_krku_angina

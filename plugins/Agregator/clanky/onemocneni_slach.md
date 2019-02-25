@@ -104,6 +104,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: artroza
  [2]: zanet
  [3]: mikroorganizmy

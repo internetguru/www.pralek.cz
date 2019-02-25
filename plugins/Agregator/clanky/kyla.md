@@ -71,6 +71,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: kasel_a_typy_kasle
  [2]: ryma_a_smrkani
  [3]: krvaceni_z_konecniku

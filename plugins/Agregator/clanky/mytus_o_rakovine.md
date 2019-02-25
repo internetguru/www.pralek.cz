@@ -76,6 +76,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: lymfaticke_uzliny
  [2]: kyla
  [3]: znamenko-bradavice-rakovina

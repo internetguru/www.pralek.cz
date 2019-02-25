@@ -137,6 +137,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: mikroorganizmy
  [2]: plisne_kuze
  [3]: teplota

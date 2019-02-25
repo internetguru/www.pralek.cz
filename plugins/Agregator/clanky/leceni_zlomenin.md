@@ -88,6 +88,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: podvrtnuti_kotniku
  [2]: zlomeniny_kosti
  [3]: nalehavost_lekarskeho_vysetreni

@@ -100,6 +100,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: tlak_zaludku
  [2]: nalehavost_lekarskeho_vysetreni
  [3]: zaludecni_vredy

@@ -101,6 +101,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: krecove_zily
  [2]: bercovy_vred
  [3]: darcovstvi_krve

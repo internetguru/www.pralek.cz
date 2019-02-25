@@ -63,6 +63,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: zanet_mocoveho_mechyre
  [2]: teplota
  [3]: mikroorganizmy

@@ -77,6 +77,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: krevni_tlak
  [2]: bolest_v_krku_angina
  [3]: odreniny_neboli_oderky

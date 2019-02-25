@@ -108,6 +108,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: nalehavost_lekarskeho_vysetreni
  [2]: funkcni_poruchy_traveni
  [3]: lymfaticke_uzliny

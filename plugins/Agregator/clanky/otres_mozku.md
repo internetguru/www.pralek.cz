@@ -84,6 +84,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: drobna_krvava_poraneni
  [2]: mdloba_neboli_kolaps
  [3]: resuscitace-ozivovani

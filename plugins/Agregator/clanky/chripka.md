@@ -62,6 +62,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: mikroorganizmy
  [2]: ryma_a_smrkani
  [3]: teplota

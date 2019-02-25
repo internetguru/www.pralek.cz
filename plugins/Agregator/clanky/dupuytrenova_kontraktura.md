@@ -69,6 +69,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: puchyr_mozol_kuri_oko
  [2]: onemocneni_slach
  [3]: lupavy_prst

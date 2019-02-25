@@ -70,6 +70,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: otres_mozku
  [2]: lecba_zanetu
  [3]: mikroorganizmy

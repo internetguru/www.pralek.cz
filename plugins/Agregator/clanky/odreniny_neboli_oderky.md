@@ -89,6 +89,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: pady_z_kola
  [2]: drobna_krvava_poraneni
  [3]: mikroorganizmy

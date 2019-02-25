@@ -95,6 +95,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: vhodna_obuv
  [2]: onemocneni_slach
  [3]: leky_proti_bolesti
