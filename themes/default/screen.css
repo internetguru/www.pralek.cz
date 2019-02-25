@@ -96,8 +96,8 @@ dl.figure dt {
 }
 #header > div form {
   -webkit-flex-grow: 1;
-      -ms-flex-positive: 1;
-          flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
 }
 .hdesc > div {
   margin-top: 6em;
@@ -129,8 +129,8 @@ dl.figure dt {
     display: flex;
     z-index: 11;
     -webkit-justify-content: space-between;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     padding: 0;
   }
 }
@@ -464,6 +464,7 @@ dl.toptags dd {
   padding-right: 6em;
   width: 100%;
   /* max-width: 25em; */
+  max-width: 100%;
 }
 .search .navigList strong {
   font-weight: 600;
