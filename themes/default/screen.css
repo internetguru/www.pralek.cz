@@ -1108,7 +1108,7 @@ ul.docinfo.nomultiple.global {
     background-color: white;
   }
 }
-.moreable-shown {
+.clanek.moreable-shown {
   animation-name: moreable-shown;
   animation-duration: 1500ms;
   animation-iteration-count: 1;
