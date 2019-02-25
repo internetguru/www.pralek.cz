@@ -101,6 +101,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: funkcni_poruchy_traveni
  [2]: bolest_hlavy_migrena
  [3]: kinetoza

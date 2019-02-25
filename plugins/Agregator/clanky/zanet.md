@@ -129,6 +129,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: lymfaticke_uzliny
  [2]: lecba_zanetu
  [3]: imunita

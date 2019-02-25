@@ -98,6 +98,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: stravovaci_navyky
  [2]: strevni_nepruchodnost
  [3]: zlucove_kameny

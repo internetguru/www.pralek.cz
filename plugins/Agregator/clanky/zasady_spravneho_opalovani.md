@@ -85,6 +85,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: ochlazeni_spaleniny
  [2]: puchyr_mozol_kuri_oko
  [3]: znamenko-bradavice-rakovina

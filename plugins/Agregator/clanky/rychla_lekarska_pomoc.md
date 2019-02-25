@@ -111,6 +111,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: resuscitace-ozivovani
  [2]: lekove_formy
  [3]: urazy_deti

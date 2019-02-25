@@ -78,6 +78,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: detske_zlomeniny
  [2]: drobna_krvava_poraneni
  [3]: otres_mozku

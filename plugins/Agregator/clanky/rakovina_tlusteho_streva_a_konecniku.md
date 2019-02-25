@@ -105,6 +105,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: odhaleni_rakoviny
  [2]: stravovaci_navyky
  [3]: funkcni_poruchy_traveni

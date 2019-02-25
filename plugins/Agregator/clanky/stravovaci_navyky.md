@@ -112,6 +112,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: obezita_a_energie
  [2]: spolknute_predmety
  [3]: funkcni_poruchy_traveni

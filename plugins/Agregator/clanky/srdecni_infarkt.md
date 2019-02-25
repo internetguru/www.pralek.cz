@@ -89,6 +89,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: koureni_cigaret
  [2]: obezita_a_energie
  [3]: cukrovka

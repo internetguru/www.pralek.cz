@@ -88,6 +88,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: pneumotorax
  [2]: rychla_lekarska_pomoc
 

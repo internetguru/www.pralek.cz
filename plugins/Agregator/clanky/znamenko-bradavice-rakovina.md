@@ -87,6 +87,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: mytus_o_rakovine
  [2]: chripka
  [3]: puchyr_mozol_kuri_oko

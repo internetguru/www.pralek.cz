@@ -79,6 +79,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: podvrtnuti_kotniku
  [2]: nalehavost_lekarskeho_vysetreni
  [3]: patni_ostruha

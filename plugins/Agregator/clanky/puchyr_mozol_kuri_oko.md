@@ -96,6 +96,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: nezhoubne_nadory
  [2]: lymfaticke_uzliny
  [3]: mikroorganizmy

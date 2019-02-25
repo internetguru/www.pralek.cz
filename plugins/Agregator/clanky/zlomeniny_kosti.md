@@ -114,6 +114,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: rychla_lekarska_pomoc
  [2]: mdloba_neboli_kolaps
  [3]: podvrtnuti_kotniku

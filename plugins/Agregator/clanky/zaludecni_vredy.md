@@ -84,6 +84,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: mikroorganizmy
  [2]: stravovaci_navyky
  [3]: tlak_zaludku

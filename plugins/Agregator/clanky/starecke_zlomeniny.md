@@ -82,6 +82,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: bolesti_v_zadech_houser
  [2]: leky_proti_bolesti
  [3]: nalehavost_lekarskeho_vysetreni

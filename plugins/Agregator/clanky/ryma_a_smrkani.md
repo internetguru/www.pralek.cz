@@ -72,6 +72,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: chripka
  [2]: teplota
  [3]: mikroorganizmy

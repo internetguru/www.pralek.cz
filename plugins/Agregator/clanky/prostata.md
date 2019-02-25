@@ -96,6 +96,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: mocove_kameny
  [2]: zanet
  [3]: antibiotika

@@ -71,6 +71,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
  [1]: lecba_zanetu
  [2]: plisne_kuze
  [3]: krevni_tlak
