@@ -66,7 +66,7 @@ n/a
   2. Proč se nesmí dítě zvedat do výšky za jednu ruku?
   3. Proč má mít dítě při všech tělesných aktivitách prázdná ústa?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -77,6 +77,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: detske_zlomeniny
  [2]: drobna_krvava_poraneni

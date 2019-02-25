@@ -89,7 +89,7 @@ n/a
   4. Proč byl čert špinavý a zanedbaný?
   5. Jaké vyhledával čert obydlí?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -100,6 +100,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: znamenko-bradavice-rakovina
  [2]: zasady_spravneho_opalovani

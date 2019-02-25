@@ -100,7 +100,7 @@ n/a
   7. Ve které části dochází k největšímu vstřebávání živin?
   8. Kde se vstřebává hlavně voda?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -111,6 +111,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: obezita_a_energie
  [2]: spolknute_predmety

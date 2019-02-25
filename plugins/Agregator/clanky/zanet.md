@@ -117,7 +117,7 @@ n/a
   6. Jaký obklad patří na čerstvě natlučené koleno nebo na podvrtnutý kotník a proč?
   7. Proč je vhodné na stejnou nemoc dávat někdy obklady studené a jindy teplé?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -128,6 +128,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: lymfaticke_uzliny
  [2]: lecba_zanetu

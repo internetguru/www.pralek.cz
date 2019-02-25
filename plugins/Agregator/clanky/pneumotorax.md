@@ -88,7 +88,7 @@ n/a
   3. Čím dýchá pacient s proraženým hrudníkem s otevřeným pneumotoraxem?
   4. Jak ohrožuje pacienta na životě tenzní (záklopkový) pneumotorax?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -99,6 +99,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: kasel_a_typy_kasle
  [2]: resuscitace-ozivovani

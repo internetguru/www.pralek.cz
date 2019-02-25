@@ -83,7 +83,7 @@ n/a
   4. Co bývá příčinou vzniku patní ostruhy?
   5. Jaké jsou možnosti léčení ostruhy?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -94,6 +94,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: vhodna_obuv
  [2]: onemocneni_slach

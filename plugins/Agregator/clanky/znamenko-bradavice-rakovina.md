@@ -75,7 +75,7 @@ n/a
   4. Je nebezpečné svědící mateřské znaménko?
   5. Měsíce se nehojící boláček v obličeji staršího člověka může být zhoubný nádor?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -86,6 +86,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: mytus_o_rakovine
  [2]: chripka

@@ -79,7 +79,7 @@ n/a
   4. Jak se projeví, je-li zánětem více postižen žaludek nebo střevo?
   5. Jaké jsou zásady léčení prudkého zánětu žaludku a střeva?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 

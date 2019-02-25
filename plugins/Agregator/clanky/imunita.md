@@ -61,7 +61,7 @@ n/a
   3. Čím mohou antibiotika snižovat imunitu?
   4. Proč nelze na stejnou chorobu dávat opakovaně stejná antibiotika?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -72,6 +72,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: antibiotika
  [2]: mikroorganizmy

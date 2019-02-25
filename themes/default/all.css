@@ -163,7 +163,7 @@ dl.figure.author:after {
 dl.figure.author .img + dd {
   font-size: 1.2em;
 }
-@media all and (min-width: 42em) {
+@media (min-width: 42em) {
   dl.figure.author {
     text-align: left;
   }
@@ -265,5 +265,10 @@ ul.docinfo.nomultiple.partial li {
   padding: 0;
   margin: 0;
   max-width: 100%;
+}
+/***************************/
+p.filter {
+  margin: 2em 0;
+  text-align: center;
 }
 /***************************/

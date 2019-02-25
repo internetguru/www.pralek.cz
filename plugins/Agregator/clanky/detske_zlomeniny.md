@@ -82,7 +82,7 @@ n/a
   3. Proč je vhodná první pomoc u zlomenin horní končetiny dětí uložení do šátkového obvazu
   4. V čem spočívá závažnost zlomeniny lokte?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -93,6 +93,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: zlomeniny_kosti
  [2]: urazy_deti

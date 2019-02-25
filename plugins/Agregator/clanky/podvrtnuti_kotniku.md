@@ -81,7 +81,7 @@ n/a
   4. Jaké jsou možnosti léčení vyvrtnutého kotníku?
   5. Jaká je výhoda léčení distorze kotníku pevnou fixací?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -92,6 +92,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: zlomeniny_kosti
  [2]: nalehavost_lekarskeho_vysetreni

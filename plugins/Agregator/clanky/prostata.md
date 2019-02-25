@@ -84,7 +84,7 @@ n/a
   5. Jakým zákrokem je řešena zástava močení?
   6. Proč je nutné neotálet s vyšetřením při potížích s prostatou?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -95,6 +95,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: mocove_kameny
  [2]: zanet

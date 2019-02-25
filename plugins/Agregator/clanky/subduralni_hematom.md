@@ -89,7 +89,7 @@ n/a
   4. Jaké mohou být projevy subdurálního hematomu?
   5. Proč se mohou jednotlivé projevy mozkového útlaku v průběhu vývoje subdurálního hematomu měnit?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -100,6 +100,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: funkcni_poruchy_traveni
  [2]: bolest_hlavy_migrena

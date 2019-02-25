@@ -65,7 +65,7 @@ n/a
   3. Proč jsou vhodné v počátku onemocnění koupele v dezinfekčním roztoku a později koupele v hojivém roztoku?
   4. Může po zdařilé plastice opět zarůstat nehet?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -76,6 +76,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: mikroorganizmy
  [2]: lecba_zanetu

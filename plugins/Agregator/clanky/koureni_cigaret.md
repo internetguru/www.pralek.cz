@@ -121,7 +121,7 @@ n/a
   4. Které choroby mají přímou souvislost s kouřením cigaret?
   5. V čem spočívá záludnost vzniku návyku na nikotin?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -132,6 +132,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: kasel_a_typy_kasle
  [2]: rakovina_tlusteho_streva_a_konecniku

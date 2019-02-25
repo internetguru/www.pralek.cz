@@ -81,7 +81,7 @@ n/a
   4. Co při akutním torticollis vždy přitíží?
   5. Jaké existují jiné (neakutní) formy strnutí šíje?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -92,6 +92,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: leky_proti_bolesti
  [2]: bolesti_v_zadech_houser

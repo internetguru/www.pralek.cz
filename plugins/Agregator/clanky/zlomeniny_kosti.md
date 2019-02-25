@@ -102,7 +102,7 @@ n/a
   4. V čem spočívá závažnost zlomeniny lebky?
   5. Čím je ohrožen skokan do neznámé nebo mělké vody po hlavě?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -113,6 +113,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: rychla_lekarska_pomoc
  [2]: mdloba_neboli_kolaps

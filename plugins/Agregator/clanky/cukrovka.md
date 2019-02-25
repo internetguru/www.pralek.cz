@@ -77,7 +77,7 @@ n/a
   6. Jaké jsou 3 možnosti léčení cukrovky?
   7. Jak pomoci diabetikovi, který je zmatený, potí se, není mu dobře?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -88,6 +88,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: stravovaci_navyky
  [2]: srdecni_infarkt

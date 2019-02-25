@@ -80,7 +80,7 @@ n/a
   4. Jak lze ovlivnit tvorbu keloidní jizvy po spálenině?
   5. Jakým způsobem organizmus vyrovnává defekt způsobený zánětem?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -91,6 +91,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: zanet
  [2]: leky_proti_bolesti

@@ -99,7 +99,7 @@ n/a
   4. Čím může být nebezpečné pohmoždění břicha?
   5. Jaká je příčina zranění nohy vstrčené do drátů dítěte vezeného na kole?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -110,6 +110,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: mikroorganizmy
  [2]: odreniny_neboli_oderky

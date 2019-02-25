@@ -60,7 +60,7 @@ n/a
   3. Jaká je nejčastější komplikace rýmy?
   4. Co je senná rýma a jak proti ní bojovat?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -71,6 +71,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: chripka
  [2]: teplota

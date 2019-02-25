@@ -84,7 +84,7 @@ n/a
   4. Za jakých okolností je nutné si mozol ošetřovat?
   5. Proč chirurgické odstranění kuřího oka nevyřeší bolestivost při chůzi?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -95,6 +95,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: nezhoubne_nadory
  [2]: lymfaticke_uzliny

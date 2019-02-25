@@ -103,7 +103,7 @@ n/a
   4. Čím je nebezpečné tělísko zaseknuté v oční rohovce?
   5. Jaká je první pomoc v případě poleptání oka?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -114,6 +114,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: zanet
  [2]: nalehavost_lekarskeho_vysetreni

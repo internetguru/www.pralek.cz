@@ -51,7 +51,7 @@ n/a
   2. Čím je způsobena ledvinová kolika?
   3. Jaké jsou možnosti léčení ledvinových kamenů?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -62,6 +62,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: zanet_mocoveho_mechyre
  [2]: teplota

@@ -76,7 +76,7 @@ n/a
   4. V čem je užívání aspirinu výhodnější než užívání jiných léků proti bolesti?
   5. Jaký je rozdíl mezi léky známými z reklam a ostatními léky proti bolesti?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -87,6 +87,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: bolest_hlavy_migrena
  [2]: mocove_kameny

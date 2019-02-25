@@ -55,7 +55,7 @@ n/a
   4. Jací jsou mimo klíště další přenašeči klíšťové encefalitidy?
   5. Jaké jsou první příznaky boreliózy?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -66,6 +66,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: mikroorganizmy
  [2]: bolest_hlavy_migrena

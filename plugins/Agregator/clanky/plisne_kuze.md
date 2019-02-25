@@ -88,7 +88,7 @@ n/a
   4. Jaký vliv má v léčbě akutních plísní zvýšená hygiena?
   5. Proč trpí plísní častěji člověk s neléčenou cukrovkou?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -99,6 +99,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: zasady_spravneho_opalovani
  [2]: znamenko-bradavice-rakovina

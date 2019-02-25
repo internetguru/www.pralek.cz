@@ -71,7 +71,7 @@ n/a
   4. Co zhorší potíže s hemoroidy?
   5. Jak lze odlišit hemoroidy od rakoviny konečníku?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -82,6 +82,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: zanet
  [2]: krecove_zily

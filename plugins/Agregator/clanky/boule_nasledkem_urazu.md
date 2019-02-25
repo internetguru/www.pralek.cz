@@ -58,7 +58,7 @@ n/a
   4. V případě které boule vzniklé úrazem nepomůže studený obklad?
   5. Co má společného boule nad loktem a nad jablkem kolena?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -69,6 +69,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: otres_mozku
  [2]: lecba_zanetu

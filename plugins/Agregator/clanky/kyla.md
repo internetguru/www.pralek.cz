@@ -59,7 +59,7 @@ n/a
   4. Co se děje časem s neléčenou kýlou?
   5. Jaké mohou vzniknout komplikace kýly?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -70,6 +70,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: kasel_a_typy_kasle
  [2]: ryma_a_smrkani

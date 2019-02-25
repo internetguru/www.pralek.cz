@@ -78,7 +78,7 @@ n/a
   4. Které rány je vhodné fixovat náplasťovým stehem?
   5. Jaký je rozdíl mezi steri stripem a „mašličkou“?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -89,6 +89,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: drobna_krvava_poraneni
  [2]: bodne_a_strelne_poraneni

@@ -88,7 +88,7 @@ n/a
   4. Jaké jsou počáteční projevy rakoviny žaludku?
   5. Jaké jsou projevy rozvinutého stádia rakoviny žaludku?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -99,6 +99,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: tlak_zaludku
  [2]: nalehavost_lekarskeho_vysetreni

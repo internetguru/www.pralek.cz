@@ -89,7 +89,7 @@ n/a
   4. Jaká je správná první pomoc při krvácení z prasklého varixu?
   5. Jaký je mechanizmus samovolné zástavy krvácení u prasklého varixu?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -100,6 +100,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: krecove_zily
  [2]: bercovy_vred

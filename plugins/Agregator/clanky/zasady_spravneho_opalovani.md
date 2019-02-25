@@ -73,7 +73,7 @@ n/a
   6. Proč albíni nesmějí na sluníčko?
   7. Čím je dána hodnota faktoru ochranného krému na opalování pro konkrétního člověka?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -84,6 +84,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: ochlazeni_spaleniny
  [2]: puchyr_mozol_kuri_oko

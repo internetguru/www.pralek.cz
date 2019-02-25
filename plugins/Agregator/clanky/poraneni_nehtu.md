@@ -93,7 +93,7 @@ n/a
   3. Jak se projevuje krevní výron pod nehtem?
   4. O čem svědčí krvácení zpod nehtu spojené s odtržením části nehtu?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -104,6 +104,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: plisne_kuze
  [2]: zarustajici_nehty

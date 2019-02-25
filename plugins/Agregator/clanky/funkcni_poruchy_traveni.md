@@ -85,7 +85,7 @@ n/a
   5. Proč je nutné pít, pokud trvá průjem?
   6. Co může způsobit opakované zadržování stolice?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -96,6 +96,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: mocove_kameny
  [2]: kinetoza

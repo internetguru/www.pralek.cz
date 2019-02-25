@@ -77,7 +77,7 @@ n/a
   5. Čím je dáno, že někdo infarkt přechodí bez následků a někdo má vážné potíže?
   6. Proč je dobře pospíchat při vzniku popsaných potíží s vyhledáním lékařské pomoci?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -88,6 +88,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: koureni_cigaret
  [2]: obezita_a_energie

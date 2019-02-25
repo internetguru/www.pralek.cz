@@ -67,7 +67,7 @@ n/a
   4. Který lékař specialista se zabývá léčbou akné?
   5. Jaký má na akné vliv sexuální chování?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -78,6 +78,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: nezhoubne_nadory
  [2]: zanet

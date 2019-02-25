@@ -76,7 +76,7 @@ n/a
   3. Za jakých okolností bolí nezhoubný nádor?
   4. Co to je metastáza?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -87,6 +87,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: rakovina_prsu
  [2]: karpalni_syndrom

@@ -12,6 +12,8 @@
 
       var
         parent,
+        wrapper,
+        left,
         hiddenItems = [],
         showMore = function (event) {
           var displayCount = Config.displayStep
@@ -19,10 +21,13 @@
             displayCount = hiddenItems.length
           }
           for (var i = 0; i < displayCount; i++) {
-            hiddenItems.shift().style.display = ""
+            var item = hiddenItems.shift()
+            item.style.display = ""
+            item.classList.add("moreable-shown")
           }
+          left.innerHTML = " (" + Config.leftText.replace("%s", hiddenItems.length) + ")"
           if (hiddenItems.length === 0) {
-            parent.removeChild(event.target.parentNode)
+            wrapper.parentNode.removeChild(wrapper)
           }
         },
         initStructure = function () {
@@ -36,12 +41,12 @@
             parent.children[i].style.display = "none"
             hiddenItems.push(parent.children[i])
           }
-          var wrapper = document.createElement("div")
+          wrapper = document.createElement("div")
           wrapper.className = "moreable-linkwrapper eventable"
           var moreLink = document.createElement("a")
           moreLink.textContent = Config.moreText
           moreLink.addEventListener("click", showMore, false)
-          var left = document.createElement("span")
+          left = document.createElement("span")
           left.innerHTML = " (" + Config.leftText.replace("%s", hiddenItems.length) + ")"
           moreLink.appendChild(left)
           wrapper.appendChild(moreLink)

@@ -30,6 +30,22 @@
     </xsl:copy>
   </xsl:template>
   
+  <xsl:template match="//body/div/div[contains(@class, 'section')]">
+    <xsl:copy>
+      <xsl:apply-templates select="@* | node()"/>
+      <h2 id="internetguru">Tento web roste s námi</h2>
+      <p class="description">O tento web se stará Internet Guru od roku 2007. Po celou dobu web neustále roste a nasbíral <strong>přes 40.000 unikátních návštěvníků měsíčně</strong>!</p>
+      <div class="list"><ul>
+        <li>Perfektní čitelnost na všech zařízeních</li>
+        <li>Publikační proces s autorizací změn a testovacím webem</li>
+        <li>Správa štítků jednoduše v tabulce Excel / Spreadsheet</li>
+        <li>Neustálý rozvoj funkcí a vylepšování uživatelské zkušenosti</li>
+        <li>Podrobné statistiky návštěvnosti</li>
+      </ul></div>
+      <p>Chcete také publikovat na internetu?<br /><a href="https://www.rostouciweby.cz" title="Rostoucí weby">Ozvěte se nám!</a></p>
+    </xsl:copy>
+  </xsl:template>
+  
   <xsl:template match="div[ol[contains(@class, 'otazky')]]">
     <xsl:copy-of select="."/>
     <h2 id="docinfo" class="hide">Informace o článku</h2>

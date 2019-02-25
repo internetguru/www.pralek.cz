@@ -66,7 +66,7 @@ n/a
   4. Který sval si nejčastěji poraní sportovci?
   5. Jaký je rozdíl v léčení nataženého a natrženého svalu?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -77,6 +77,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: onemocneni_slach
 

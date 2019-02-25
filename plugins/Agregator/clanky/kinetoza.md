@@ -70,7 +70,7 @@ n/a
   4. Jaké jsou možnosti prevence vzniku kinetózy?
   5. Co odlišuje kinetózu od onemocnění se stejnými příznaky?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -81,6 +81,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: lekove_formy
  [2]: pece_o_zvukovod

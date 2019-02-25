@@ -57,7 +57,7 @@ n/a
   4. Jaké jsou počáteční příznaky onemocnění Dupuytrenovou kontrakturou?
   5. Jak lze předejít recidivě Dupuytrenovy kontraktury po operaci?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -68,6 +68,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: puchyr_mozol_kuri_oko
  [2]: onemocneni_slach

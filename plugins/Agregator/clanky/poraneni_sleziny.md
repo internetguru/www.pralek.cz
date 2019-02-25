@@ -80,7 +80,7 @@ n/a
   4. Kde je uložena slezina a k čemu slouží?
   5. Jaké jsou možnosti léčení poraněné sleziny?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -91,6 +91,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: imunita
  [2]: nalehavost_lekarskeho_vysetreni

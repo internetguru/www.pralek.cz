@@ -67,7 +67,7 @@ n/a
   4. Proč je důležitá chůze bosýma nohama hlavně pro děti začínající chodit?
   5. Jaká obuv je vhodná pro sportující děti?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -78,6 +78,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: podvrtnuti_kotniku
  [2]: nalehavost_lekarskeho_vysetreni

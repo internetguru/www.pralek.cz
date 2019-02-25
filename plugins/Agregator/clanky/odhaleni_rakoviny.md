@@ -66,7 +66,7 @@ n/a
   3. Proč mají osoby starší 50 let jedno bezplatné vyšetření okultního krvácení do stolice ročně?
   4. Co následuje v případě pozitivního výsledku testu na okultní krvácení?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -77,6 +77,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: rakovina_tlusteho_streva_a_konecniku
 

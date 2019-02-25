@@ -84,7 +84,7 @@ n/a
   5. V čem je dárcovství kostní dřeně složitější než dárcovství krve?
   6. Proč může být darování krve opakované a darování dřeně jen zřídkakdy?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -95,6 +95,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: bodne_a_strelne_poraneni
  [2]: lymfaticke_uzliny

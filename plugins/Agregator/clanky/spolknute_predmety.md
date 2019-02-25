@@ -66,7 +66,7 @@ n/a
   5. Čím může být dítěti nebezpečná spolknutá mince?
   6. Jaká je první pomoc při polknutí kyseliny?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -77,6 +77,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: stravovaci_navyky
  [2]: strevni_nepruchodnost

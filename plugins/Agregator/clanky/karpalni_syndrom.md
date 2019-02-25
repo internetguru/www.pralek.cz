@@ -72,7 +72,7 @@ n/a
   4. Jaké mohou být příčiny brnění prstů ruky?
   5. Který lékař řeší potíže s karpálním tunelem?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -83,6 +83,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: onemocneni_slach
  [2]: iktus

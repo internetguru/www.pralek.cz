@@ -50,7 +50,7 @@ n/a
   3. Za jakých podmínek může být onemocnění chřipkou osudné?
   4. Jak léčit rozvinutou chřipku?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -61,6 +61,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: mikroorganizmy
  [2]: ryma_a_smrkani

@@ -72,7 +72,7 @@ n/a
   3. Čím je způsobena recidiva zánětu močového měchýře?
   4. Jaké jsou formy léčení zánětu močového měchýře?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -83,6 +83,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: mikroorganizmy
  [2]: teplota

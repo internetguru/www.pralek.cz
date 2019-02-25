@@ -73,7 +73,7 @@ n/a
   2. Co znamená termín bakteriální kmen?
   3. Za jakých podmínek nechoroboplodné bakterie mohou způsobit chorobu?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -84,6 +84,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: funkcni_poruchy_traveni
  [2]: teplota

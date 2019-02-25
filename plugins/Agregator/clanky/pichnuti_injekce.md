@@ -75,7 +75,7 @@ n/a
   3. Jaké musí být místo zvolené k píchnutí injekce?
   4. Co dělat, pokud se po aspiraci v injekční stříkačce objeví krev?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -86,6 +86,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: cukrovka
  [2]: lekove_formy

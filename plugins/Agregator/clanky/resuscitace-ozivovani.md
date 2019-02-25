@@ -73,7 +73,7 @@ n/a
   3. Proč je srdeční masáž důležitější než dýchání?
   4. Proč zkolabovaný člověk nemá být resuscitován?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -84,6 +84,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: otres_mozku
  [2]: kasel_a_typy_kasle

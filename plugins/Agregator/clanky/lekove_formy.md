@@ -97,7 +97,7 @@ n/a
   4. Jaké jsou invazivní možnosti podání léku?
   5. Jaké jsou nejznámější lékové formy?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -108,6 +108,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: funkcni_poruchy_traveni
  [2]: bolest_v_krku_angina

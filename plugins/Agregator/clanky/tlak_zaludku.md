@@ -72,7 +72,7 @@ n/a
   4. Čím je způsobena hořká pachuť v ústech?
   5. Čím je způsobeno nadměrné říhání?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -83,6 +83,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: funkcni_poruchy_traveni
  [2]: stravovaci_navyky

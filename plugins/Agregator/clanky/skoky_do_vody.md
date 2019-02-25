@@ -75,7 +75,7 @@ n/a
   4. Za jakých podmínek se lze poranit o vodní hladinu?
   5. Jaký člověk skočí v noci do vypuštěného bazénu?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -86,6 +86,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: drobna_krvava_poraneni
  [2]: zlomeniny_kosti

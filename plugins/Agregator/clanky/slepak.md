@@ -86,7 +86,7 @@ n/a
   4. Pro co svědčí náhlý ústup bolestí břicha při podezření na apendicitidu?
   5. Za jakých podmínek je vhodná plánovaná operace apendixu?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -97,6 +97,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: stravovaci_navyky
  [2]: strevni_nepruchodnost

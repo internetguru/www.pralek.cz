@@ -72,7 +72,7 @@ n/a
   4. Jak se léčí žaludeční vředy?
   5. Co je doplňkem léčby vředové choroby?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -83,6 +83,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: mikroorganizmy
  [2]: stravovaci_navyky
