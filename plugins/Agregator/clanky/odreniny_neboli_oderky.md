@@ -3,7 +3,7 @@
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odreniny\_neboli_oderky" short="Odřeniny neboli oděrky" ctime="2012-11-03" mtime="2012-11-03"}
 
-# Odřeniny – proč je nutné mechanicky vyčistit oděrku
+# Odřeniny – proč je nutné mechanicky vyčistit oděrku!
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
