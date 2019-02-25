@@ -130,7 +130,7 @@
   
   <var id="taglist">
     <dl>
-      <dt>Další kategorie článků (řazené podle četnosti)</dt>
+      <dt class="filter">Nejčastější kategorie článků</dt>
       <dd>
 <!-- [taglist] generated content, do not edit -->
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=bolest" href="href=bolest">bolest</a>
