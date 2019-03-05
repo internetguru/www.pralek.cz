@@ -34,7 +34,7 @@
     <xsl:copy>
       <xsl:apply-templates select="@* | node()"/>
       <h2 id="internetguru">Tento web roste s námi</h2>
-      <p class="description">O tento web se stará Internet Guru od roku 2007. Po celou dobu web neustále roste a nasbíral <strong>přes 40.000 unikátních návštěvníků měsíčně</strong>!</p>
+      <p class="description">O tento web se stará Internet Guru od roku 2007. Po celou dobu web neustále roste a nasbíral <strong>desítky tisíc unikátních návštěvníků měsíčně</strong>!</p>
       <div class="list"><ul>
         <li>Perfektní čitelnost na všech zařízeních</li>
         <li>Publikační proces s autorizací změn a testovacím webem</li>
