@@ -1,5 +1,5 @@
 
-{data-top="1" data-og-type="article" data-og-image="/files/preview/koutek/onemocneni_slach/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-top="1" data-type="article" data-image="/files/preview/koutek/onemocneni_slach/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_slach" short="Onemocnění šlach" ctime="2010-01-14" mtime="2010-01-14"}
 

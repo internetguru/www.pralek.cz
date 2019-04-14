@@ -1,5 +1,5 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/bolest\_hlavy\_migrena/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/bolest\_hlavy\_migrena/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_hlavy_migrena" short="Bolest hlavy, migréna" ctime="2010-03-16" mtime="2010-03-16"}
 
@@ -81,7 +81,7 @@ n/a
   3. Jaké je společné řešení bolesti hlavy zapříčiněné přehřátím organizmu, nadměrným pitím alkoholu či kouřením?
   4. Za jakých okolností je nutné při bolestech hlavy vyhledat lékařskou pomoc?
 
-{var="inputvar-odkazy_h" id="odkazy"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
@@ -92,6 +92,10 @@ n/a
 {var="linklist"}
 
 Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: leky_proti_bolesti
  [2]: nalehavost_lekarskeho_vysetreni
