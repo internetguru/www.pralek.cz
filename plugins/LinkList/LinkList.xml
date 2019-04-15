@@ -3,7 +3,7 @@
   <var id="template">long</var>
   <item id="long" modifyonly="modifyonly">
     <dl class="clanek">
-      <dt><a title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=image"><img var="og-image@src heading@alt"/></a></dt>
+      <dt><a title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=image"><img var="image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
       <dt class="heading"><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=heading">n/a</a></dt>
