@@ -22,4 +22,5 @@ Disallow:</robots>
   <xslt>themes/default/part.xsl</xslt>
   
   <var id="usp">enabled</var>
+  <var id="schemaorg">enabled</var>
 </HtmlOutput>

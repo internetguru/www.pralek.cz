@@ -272,3 +272,7 @@ p.filter {
   text-align: center;
 }
 /***************************/
+.newsletter dd + dd {
+  display: none;
+}
+/***************************/
