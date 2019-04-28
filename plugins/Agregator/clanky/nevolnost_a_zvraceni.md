@@ -91,7 +91,11 @@ n/a
 
 {class="otazky"}
 
-  1. TODO
+ 1. Jak postupovat při úporném zvracení a průjmu malého dítěte?
+ 2. Které nápoje by zhoršily potíže při onemocnění žlučníku?
+ 3. Jaké vhodné nápoje lze popíjet při kinetóze?
+ 4. Proč není dobré pít colu při zvracení a průjmu s teplotou?
+ 5. Jak lze zklidnit žaludek při kocovině?
 
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
