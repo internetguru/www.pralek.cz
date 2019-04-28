@@ -98,6 +98,34 @@ Dlouhodobé onemocnění postihuje starší lidi. Epizody mají různé intenzit
 
 Příčina nemoci je neznámá. Léčení spočívá v potlačování jednotlivých velmi obtěžujících příznaků.
 
+{id="otazky" var="inputvar-otazky_h"}
+
+## n/a
+
+{var="inputvar-otazky_desc"}
+
+n/a
+
+{class="otazky"}
+
+  1. TODO
+  
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
+
+## n/a
+
+{var="inputvar-odkazy_desc"}
+
+n/a
+
+{var="linklist"}
+
+Seznam odkazů není k dispozici
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
+
 [1]: /kinetoza
 [2]: /krevni_tlak
 [3]: /vodni_rezim
