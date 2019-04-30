@@ -32,7 +32,7 @@ Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče,
 
 Práce s obsahem přináší nemalé náklady. Vytvoření kvalitního textu, který je dobře čitelný pro širokou veřejnost, vyžaduje revizní proces a profesionální podporu. Organizace článků, jejich aktualizace a udržování vzájemných vztahů mezi články je nekončící proces.
 
-Hlavním cílem finanční podpory je udržení, správa a rozvoj obsahu se zachováním nestrannosti a nekomerční podstaty webu -- bez reklam a s veřejným nestranným obsahem. Jakýmkoli finančním příspěvek podpoříte tyto cíle naplnit.
+Hlavním cílem finanční podpory je udržení, správa a rozvoj obsahu se zachováním nestrannosti a nekomerční podstaty webu – bez reklam a s veřejným nestranným obsahem. Jakýmkoli finančním příspěvek podpoříte tyto cíle naplnit.
 
 Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah a pomáhat tak čím dál více lidem. S rostoucí částkou vytvoří další cíle, které mohou sponzoři přímo či nepřímo ovlivnit.
 
