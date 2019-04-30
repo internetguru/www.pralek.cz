@@ -22,7 +22,7 @@ Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče,
 ![MUDr. Jaroslav Pavelka][1] {class="img"}
 :   **MUDr. Jaroslav Pavelka** (*1952)  
     Ambulantní chirurg s 40letou praxí
-:   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař RLP.
+:   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař [rychlé lékařské pomoci]().
 :     * [Dotace a sponzoring][2] {data-visibility="/"}
       * [Staňte se patronem][3] {class="donation"}
     <!--         <li class="donation"><a href="https://cs.liberapay.com/pralek.cz/donate">Přispívejte</a></li> --> {class="contentbalancer-simple"}
@@ -33,15 +33,19 @@ Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče,
 
 Práce s obsahem přináší nemalé náklady. Vytvoření kvalitního textu, který je dobře čitelný pro širokou veřejnost, vyžaduje revizní proces a profesionální podporu. Organizace článků, jejich aktualizace a udržování vzájemných vztahů mezi články je nekončící proces.
 
-Hlavním cílem finanční podpory je udržení, správa a rozvoj obsahu se zachováním nestrannosti a nekomerční podstaty webu – bez reklam a s veřejným nestranným obsahem. Jakýmkoli finančním příspěvek podpoříte tyto cíle naplnit.
+{class="important"}
 
-Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah a pomáhat tak čím dál více lidem. S rostoucí částkou vytvoří další cíle, které mohou sponzoři přímo či nepřímo ovlivnit.
+Hlavním cílem finanční podpory je udržení, správa a rozvoj obsahu se zachováním nekomerční podstaty webu – **nestranný obsah bez reklam**. Jakýmkoli finančním příspěvkem podpoříte tento cíl naplnit.
 
-  * Hlasování či přímá volba tématu nového obsahu.
-  * Diskuze k jednotlivým článkům (veřejná i soukromá).
-  * Generované sady otázek na zvolené téma.
-  * Interaktivní testy (abc) s automatickým vyhodnocením.
-  * Zpřístupnění obsahu ve více jazycích.
+Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah a pomáhat tak čím dál tím více lidem. S rostoucí částkou bude možné rozšiřovat funkcionalu, kterou mohou sponzoři přímo či nepřímo ovlivnit. Jedná se např. o
+
+  * off-line procházení webu (bez připojení k internetu),
+  * mobilní aplikace,
+  * tisk papírových brožur (sady článků na míru),
+  * Facebook s aktivní diskuzí ke článkům,
+  * generované sady otázek na zvolené téma,
+  * interaktivní testy (abc) s automatickým vyhodnocením,
+  * překlady, lokalizace a zpřístupnění obsahu ve více jazycích.
 
 {short="Odběr novinek" id="upozorneni"}
 
