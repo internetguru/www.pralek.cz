@@ -44,7 +44,7 @@
       </ul></div>
       <p>Chcete také publikovat na internetu?</p>
       <ul class="contentbalancer-simple">
-        <li class="donation"><a href="https://www.rostouciweby.cz" title="Rostoucí weby">Zjistit více o rostoucích webech!</a></li>
+        <li><a href="https://www.rostouciweby.cz" title="Rostoucí weby">Zjistit více o rostoucích webech!</a></li>
       </ul>
     </xsl:copy>
   </xsl:template>
