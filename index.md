@@ -9,11 +9,11 @@
 
 Tento web obsahuje články o praktickém lékařství s cílem zvýšit schopnost odborné i laické veřejnosti řešit zdravotní problémy. Autor zejména poukazuje na podceňování nebo ignorování příznaků, přecházení nemoci a na všelijaké pověry.
 
-{data-visibility="o\_praleku" id="o\_praleku"}
+{data-visibility="/o\_praleku" id="o\_praleku"}
 
 ## O praléku
 
-{data-visibility="o_praleku"}
+{data-visibility="/o_praleku"}
 
 Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče, které pomáhají široké veřejnosti i odborným pracovníkům. Cílem autora je nestranně a srozumitelně vzdělat čtenáře v oblasti prevence a péče o zdraví a informovat o běžných zdravotních problémech.
 
