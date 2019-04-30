@@ -212,7 +212,7 @@ n/a
 n/a
 
  [1]: /files/thumbs/jaroslav_pavelka.jpg "MUDr. Jaroslav Pavelka"
- [2]: /o_praleku#dotace_a_sponzoring
+ [2]: #dotace_a_sponzoring
  [3]: https://cs.liberapay.com/pralek.cz/donate
  [4]: #ucel
  [5]: https://policies.google.com/privacy?hl=cs
