@@ -24,9 +24,8 @@ Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče,
     Ambulantní chirurg s 40letou praxí
 :   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař RLP.
 :     * [Dotace a sponzoring][2] {data-visibility="/"}
-    <!--         <li class="donation"><a href="https://cs.liberapay.com/pralek.cz/donate"><img src="/files/thumbs/lb.png" alt="lb"/>Přispívejte</a></li> -->
-    
-      * [Přispívejte][3] {class="donation"} {class="contentbalancer-simple"}
+      * [Staňte se patronem][3] {class="donation"}
+    <!--         <li class="donation"><a href="https://cs.liberapay.com/pralek.cz/donate">Přispívejte</a></li> --> {class="contentbalancer-simple"}
 
 {id="dotace\_a\_sponzoring"}
 
@@ -215,7 +214,7 @@ n/a
 
  [1]: /files/thumbs/jaroslav_pavelka.jpg "MUDr. Jaroslav Pavelka"
  [2]: #dotace_a_sponzoring
- [3]: https://cs.liberapay.com/pralek.cz/donate
+ [3]: https://www.patreon.com/pralek
  [4]: #ucel
  [5]: https://policies.google.com/privacy?hl=cs
  [6]: https://policies.google.com/technologies/cookies?hl=cs
