@@ -23,8 +23,8 @@ Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče,
 :   **MUDr. Jaroslav Pavelka** (*1952)  
     Ambulantní chirurg s 40letou praxí
 :   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař RLP.
-:     * [Dotace a sponzoring][2]
-      * [Přispívejte][3] {data-visibility="/" class="contentbalancer-simple"}
+:     * [Dotace a sponzoring][2] {data-visibility="/"}
+      * [Přispívejte][3] {class="contentbalancer-simple"}
 
 {id="dotace\_a\_sponzoring"}
 
