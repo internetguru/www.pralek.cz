@@ -399,6 +399,12 @@ div.part.o_praleku .contentbalancer-simple a,
   margin-left: 0.5em;
   white-space: nowrap;
 }
+div.part.o_praleku .contentbalancer-simple li + li a {
+  color: #E64A19;
+}
+div.part.o_praleku .contentbalancer-simple li + li a:hover {
+  background: #FBE9E7;
+}
 /***************************/
 #footer {
   background: #e9e9e9;
