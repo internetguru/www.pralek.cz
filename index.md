@@ -24,8 +24,7 @@ Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče,
     Ambulantní chirurg s 40letou praxí
 :   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař [rychlé lékařské pomoci]().
 :     * [Dotace a sponzoring][2]
-      * [Staňte se patronem][3] {class="donation"}
-    <!--         <li class="donation"><a href="https://cs.liberapay.com/pralek.cz/donate">Přispívejte</a></li> --> {data-visibility="/" class="contentbalancer-simple"}
+      * [Staňte se patronem][3] {class="donation"} {data-visibility="/" class="contentbalancer-simple"}
 
 {id="dotace\_a\_sponzoring"}
 
@@ -46,6 +45,9 @@ Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah
   * generované sady otázek na zvolené téma,
   * interaktivní testy (abc) s automatickým vyhodnocením,
   * překlady, lokalizace a zpřístupnění obsahu ve více jazycích.
+
+{class="contentbalancer-simple nobalance"}
+
   * [Staňte se patronem][3] {class="donation"}
 
 {short="Odběr novinek" id="upozorneni"}
