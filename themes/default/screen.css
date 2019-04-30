@@ -392,6 +392,7 @@ dl.toptags dd {
   overflow: hidden;
   margin-left: 0;
 }
+.contentbalancer-simple .donation a,
 .author .contentbalancer-simple a,
 .filter .button {
   vertical-align: middle;
@@ -408,10 +409,10 @@ dl.toptags dd {
 .author .contentbalancer-simple a {
   margin-left: 0;
 }
-.author .contentbalancer-simple li.donation a {
+.contentbalancer-simple li.donation a {
   color: #E64A19;
 }
-.author .contentbalancer-simple li.donation a:hover {
+.contentbalancer-simple li.donation a:hover {
   background: #FBE9E7;
 }
 /***************************/
