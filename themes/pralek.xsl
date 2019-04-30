@@ -43,9 +43,11 @@
         <li>Podrobné statistiky návštěvnosti</li>
       </ul></div>
       <p>Chcete také publikovat na internetu?</p>
-      <ul class="contentbalancer-simple">
-        <li><a href="https://www.rostouciweby.cz" title="Rostoucí weby">Zjistit více o rostoucích webech!</a></li>
-      </ul>
+      <div class="contentbalancer-simple">
+        <ul>
+          <li><a href="https://www.rostouciweby.cz" title="Rostoucí weby">Zjistit více o rostoucích webech!</a></li>
+        </ul>
+      </div>
     </xsl:copy>
   </xsl:template>
   
