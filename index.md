@@ -23,6 +23,8 @@ Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče,
 :   **MUDr. Jaroslav Pavelka** (*1952)  
     Ambulantní chirurg s 40letou praxí
 :   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař RLP.
+:     * [Dotace a sponzoring][2]
+      * [Přispívejte][3] {data-visibility="/" class="contentbalancer-simple"}
 
 {id="dotace\_a\_sponzoring"}
 
@@ -145,10 +147,10 @@ n/a
 
 n/a
 
-  1. Jsou-li v bodě [Účel][2] mezi osobními údaji uvedeny soubory cookie, platí pro jejich zpracování následující pravidla.
+  1. Jsou-li v bodě [Účel][4] mezi osobními údaji uvedeny soubory cookie, platí pro jejich zpracování následující pravidla.
       * Pravidla pro používání nebo zablokování cookies si může každý uživatel nastavit ve svém internetovém prohlížeči, čímž dává najevo svůj souhlas s jejich zpracováním.
       * Uživatel si může nastavit povolení nebo odmítnutí veškerých nebo pouze některých souborů cookies (např. cookies třetích stran). Zablokování souborů cookies může mít negativní vliv na použitelnost webové stránky a služby.
-      * Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti [Google {title="Zásady ochrany osobních údajů Google"}][3] ([informace o cookies {title="Jak Google využívá soubory cookie"}][4]).
+      * Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti [Google {title="Zásady ochrany osobních údajů Google"}][5] ([informace o cookies {title="Jak Google využívá soubory cookie"}][6]).
   2. Vznesete-li námitku proti zpracování technických cookies nezbytných pro fungování webových stránek, nelze v takovém případě zaručit plnou funkčnost a kompatibilitu webových stránek.
 
 {id="prijemci" short="Příjemci"}
@@ -210,7 +212,9 @@ n/a
 n/a
 
  [1]: /files/thumbs/jaroslav_pavelka.jpg "MUDr. Jaroslav Pavelka"
- [2]: #ucel
- [3]: https://policies.google.com/privacy?hl=cs
- [4]: https://policies.google.com/technologies/cookies?hl=cs
+ [2]: /o_praleku#dotace_a_sponzoring
+ [3]: https://cs.liberapay.com/pralek.cz/donate
+ [4]: #ucel
+ [5]: https://policies.google.com/privacy?hl=cs
+ [6]: https://policies.google.com/technologies/cookies?hl=cs
 
