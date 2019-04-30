@@ -34,7 +34,7 @@
     <xsl:copy>
       <xsl:apply-templates select="@* | node()"/>
       <h2 id="internetguru">Tento web roste s námi</h2>
-      <p class="description">O tento web se stará Internet Guru od roku 2007. Po celou dobu web neustále roste a nasbíral <strong>desítky tisíc unikátních návštěvníků měsíčně</strong>!</p>
+      <p class="description">O tento web se stará <a href="https://www.internetguru.cz">Internet Guru</a> od roku 2007. Po celou dobu web neustále roste a pomáhá <strong>desítkám tisícům unikátních návštěvníků měsíčně</strong>!</p>
       <div class="list"><ul>
         <li>Perfektní čitelnost na všech zařízeních</li>
         <li>Publikační proces s autorizací změn a testovacím webem</li>
@@ -42,7 +42,10 @@
         <li>Neustálý rozvoj funkcí a vylepšování uživatelské zkušenosti</li>
         <li>Podrobné statistiky návštěvnosti</li>
       </ul></div>
-      <p>Chcete také publikovat na internetu?<br /><a href="https://www.rostouciweby.cz" title="Rostoucí weby">Ozvěte se nám!</a></p>
+      <p>Chcete také publikovat na internetu?</p>
+      <ul class="contentbalancer-simple">
+        <li class="donation"><a href="https://www.rostouciweby.cz" title="Rostoucí weby">Zjistit více o rostoucích webech!</a></li>
+      </ul>
     </xsl:copy>
   </xsl:template>
   
