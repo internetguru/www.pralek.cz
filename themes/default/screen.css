@@ -392,26 +392,26 @@ dl.toptags dd {
   overflow: hidden;
   margin-left: 0;
 }
-div.part.o_praleku .contentbalancer-simple a,
+.author .contentbalancer-simple a,
 .filter .button {
   vertical-align: middle;
   border: 0.1em solid;
   margin-left: 0.5em;
   white-space: nowrap;
 }
-div.part.o_praleku .contentbalancer-simple li {
+.author .contentbalancer-simple li {
   margin-top: 1em;
 }
-div.part.o_praleku .contentbalancer-simple li:first-child {
+.author .contentbalancer-simple li:first-child {
   margin-right: 1em;
 }
-div.part.o_praleku .contentbalancer-simple a {
+.author .contentbalancer-simple a {
   margin-left: 0;
 }
-div.part.o_praleku .contentbalancer-simple li + li a {
+.author .contentbalancer-simple li.donation a {
   color: #E64A19;
 }
-div.part.o_praleku .contentbalancer-simple li + li a:hover {
+.author .contentbalancer-simple li.donation a:hover {
   background: #FBE9E7;
 }
 /***************************/
