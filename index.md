@@ -9,12 +9,34 @@
 
 Tento web obsahuje články o praktickém lékařství s cílem zvýšit schopnost odborné i laické veřejnosti řešit zdravotní problémy. Autor zejména poukazuje na podceňování nebo ignorování příznaků, přecházení nemoci a na všelijaké pověry.
 
+{id="o_praleku"}
+
+## O praléku
+
+Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče, které pomáhají široké veřejnosti i odborným pracovníkům. Cílem autora je nestranně a srozumitelně vzdělat čtenáře v oblasti prevence a péče o zdraví a informovat o běžných zdravotních problémech.
+
 {class="figure author" id="jaroslav_pavelka"}
 
 ![MUDr. Jaroslav Pavelka][1] {class="img"}
 :   **MUDr. Jaroslav Pavelka** (*1952)  
     Ambulantní chirurg s 40letou praxí
 :   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař RLP.
+
+{id="dotace\_a\_sponzoring"}
+
+### Dotace a sponzoring
+
+Práce s obsahem přináší nemalé náklady. Vytvoření kvalitního textu, který je dobře čitelný pro širokou veřejnost, vyžaduje revizní proces a profesionální podporu. Organizace článků, jejich aktualizace a udržování vzájemných vztahů mezi články je nekončící proces.
+
+Hlavním cílem finanční podpory je udržení, správa a rozvoj obsahu se zachováním nestrannosti a nekomerční podstaty webu -- bez reklam a s veřejným nestranným obsahem. Jakýmkoli finančním příspěvek podpoříte tyto cíle naplnit.
+
+Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah a pomáhat tak čím dál více lidem. S rostoucí částkou vytvoří další cíle, které mohou sponzoři přímo či nepřímo ovlivnit.
+
+  * Hlasování či přímá volba tématu nového obsahu.
+  * Diskuze k jednotlivým článkům (veřejná i soukromá).
+  * Generované sady otázek na zvolené téma.
+  * Interaktivní testy (abc) s automatickým vyhodnocením.
+  * Zpřístupnění obsahu ve více jazycích.
 
 {short="Odběr novinek" id="upozorneni"}
 
