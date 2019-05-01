@@ -39,9 +39,7 @@ dl.figure {
 }
 dl.figure dt {
   /* width: 100%; */
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
 /***************************/
 #header {
@@ -72,15 +70,9 @@ dl.figure dt {
   overflow: hidden;
 }
 .hdesc > div {
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  flex-wrap: wrap;
+  flex-direction: column;
   padding: 0 1em;
 }
 .hdesc > div > h1 {
@@ -90,13 +82,9 @@ dl.figure dt {
   width: 100%;
 }
 #header > div {
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
 }
 #header > div form {
-  -webkit-flex-grow: 1;
-  -ms-flex-positive: 1;
   flex-grow: 1;
 }
 .hdesc > div {
@@ -124,12 +112,8 @@ dl.figure dt {
     display: block;
   }
   #header > div {
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
     z-index: 11;
-    -webkit-justify-content: space-between;
-    -ms-flex-pack: justify;
     justify-content: space-between;
     padding: 0;
   }
@@ -207,14 +191,8 @@ dl.figure.author dd q {
 }
 /***************************/
 #content .clanek {
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
   flex-direction: column;
   margin-top: 1.5em;
   position: relative;
@@ -289,8 +267,6 @@ a.tag:before,
   list-style: none;
   margin: 0;
   padding: 0;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   max-width: 100%;
   position: relative;
@@ -301,12 +277,8 @@ a.tag:before,
 }
 .extra ul li:nth-child(2) {
   margin-left: auto;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-align-items: flex-end;
-      -ms-flex-align: end;
-          align-items: flex-end;
+  align-items: flex-end;
   width: 100%;
 }
 .extra .button {
@@ -335,22 +307,14 @@ a.tag:before,
 .contentbalancer-simple ul {
   list-style: none;
   padding: 0;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
+  flex-wrap: wrap;
   /* align-items: center; */
 }
 @media (max-width: 30em) {
   .contentbalancer-simple ul {
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    -webkit-align-items: center;
-        -ms-flex-align: center;
-            align-items: center;
+    flex-direction: column;
+    align-items: center;
   }
 }
 .contentbalancer-simple ul li {
@@ -382,17 +346,11 @@ a.tag:not([href]) {
   color: inherit;
 }
 .kw {
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
+  flex-wrap: wrap;
   height: 1.5em;
   overflow: hidden;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
 }
 h2 a.tag {
   margin-left: 0.5em;
@@ -402,26 +360,16 @@ h2 a.tag:before {
 }
 /***************************/
 .current-label {
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
+  flex-wrap: wrap;
   list-style: none;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   padding: 0;
 }
 .current-label li {
   margin: 0;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
 .current-label li + li a {
   cursor: pointer;
@@ -444,11 +392,28 @@ dl.toptags dd {
   overflow: hidden;
   margin-left: 0;
 }
+.contentbalancer-simple .donation a,
+.author .contentbalancer-simple a,
 .filter .button {
   vertical-align: middle;
   border: 0.1em solid;
   margin-left: 0.5em;
   white-space: nowrap;
+}
+.author .contentbalancer-simple li {
+  margin-top: 1em;
+}
+.author .contentbalancer-simple li:first-child {
+  margin-right: 1em;
+}
+.author .contentbalancer-simple a {
+  margin-left: 0;
+}
+.contentbalancer-simple li.donation a {
+  color: #E64A19;
+}
+.contentbalancer-simple li.donation a:hover {
+  background: #FBE9E7;
 }
 /***************************/
 #footer {
@@ -641,8 +606,7 @@ div.part.internetguru:before {
     margin-top: 4em;
   }
 }
-
-.pralek.hdesc + div,
+div.part.o_praleku,
 div.part.odkazy,
 div.part.clanky {
   padding: 0.1em 0 1em 0;
@@ -714,12 +678,8 @@ ol.otazky button:not(.selected):disabled {
   color: #dadada;
 }
 .otazky li span {
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  flex-direction: column;
   max-width: 100%;
 }
 @media (min-width: 30em) {
@@ -804,9 +764,7 @@ ol.otazky button:not(.selected):disabled {
 .moreable-linkwrapper {
   width: 100%;
   max-width: 100% !important;
-  -webkit-flex: 0 0 100% !important;
-      -ms-flex: 0 0 100% !important;
-          flex: 0 0 100% !important;
+  flex: 0 0 100% !important;
   text-align: center;
   padding-top: 3em !important;
 }
@@ -858,16 +816,10 @@ ul.docinfo.nomultiple.global li > span:first-child ~ span {
   max-width: 100%;
   overflow: hidden;
   background: #f1f3ff;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  justify-content: space-between;
   border-radius: 0.3rem;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
 }
 .extra .copyable-wrapper {
   position: absolute;
@@ -887,16 +839,12 @@ ul.docinfo.nomultiple.global li > span:first-child ~ span {
   top: -2.4rem;
 }
 .copyable-wrapper > span:first-child {
-  -webkit-order: 2;
-      -ms-flex-order: 2;
-          order: 2;
+  order: 2;
   font-size: 1.2em;
   background: #e0e0e0;
   padding: 0.1em 0.2em 0.1em 0.4em;
   border-radius: 0 0.3rem 0.3rem 0;
-  -webkit-flex-shrink: 0;
-      -ms-flex-negative: 0;
-          flex-shrink: 0;
+  flex-shrink: 0;
   height: 1.6em;
   line-height: 1.6;
 }
@@ -921,8 +869,6 @@ ul.docinfo.nomultiple.global li > span:first-child ~ span {
   padding: 0 0.5em;
   overflow: hidden;
   height: 1.2em;
-  -webkit-flex-shrink: 1;
-  -ms-flex-negative: 1;
   flex-shrink: 1;
   word-break: break-all;
   outline: none;
@@ -931,14 +877,10 @@ ul.docinfo.nomultiple.global li > span:first-child ~ span {
   /*! height: 1.2em; */
 }
 .extra .hideable {
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   /* text-align: right; */
   /* align-items: flex-end; */
-  -webkit-justify-content: flex-end;
-      -ms-flex-pack: end;
-          justify-content: flex-end;
+  justify-content: flex-end;
   /*! position: relative; */
   margin-left: auto;
 }
@@ -963,9 +905,7 @@ ul.docinfo.nomultiple.global li > span:first-child ~ span {
   color: transparent;
 }
 .extra .hideable > span:first-child {
-  -webkit-order: 10;
-      -ms-flex-order: 10;
-          order: 10;
+  order: 10;
 }
 .extra span a {
   margin: 0 0.2em;
@@ -1034,8 +974,6 @@ html:not(.js) .extra .hideable > .copyable {
 }
 span.copyable-wrapper {
   color: #333;
-  width: -webkit-max-content;
-  width: -moz-max-content;
   width: max-content;
   max-width: 100%;
   /* right: 0; */
@@ -1056,9 +994,7 @@ ul.docinfo.nomultiple.global {
   margin-top: 3em;
 }
 .share {
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   list-style: none;
   margin: 0;
   padding: 0 1em 3em 1em;
@@ -1077,12 +1013,8 @@ ul.docinfo.nomultiple.global {
 @media (min-width: 30em) {
   .share,
   ul.docinfo.nomultiple.global {
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-flex-wrap: wrap;
-        -ms-flex-wrap: wrap;
-            flex-wrap: wrap;
+    flex-wrap: wrap;
   }
   ul.docinfo.nomultiple.global li {
     margin-bottom: 0;
