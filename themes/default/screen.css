@@ -1066,6 +1066,7 @@ ul.docinfo.nomultiple.global {
   display: none;
 }
 #feedback dt {
+  font-size: 1.15em;
   margin-top: 1em;
 }
 #feedback dd {
