@@ -287,11 +287,14 @@ a.tag:before,
   padding-left: 0.6em;
   padding-right: 0.6em;
 }
+#feedback button:hover,
 .filter .button:hover,
 .contentbalancer-simple a:hover,
 .extra .button:hover {
   background: #e8eaf6;
 }
+#feedback button:active,
+#feedback button:focus,
 .filter .button:active,
 .filter .button:focus,
 .contentbalancer-simple a:focus,
@@ -640,36 +643,50 @@ button:hover {
     0 0.15em 0.05em -0.05em rgba(0,0,0,0.2);
   */
 }
+#feedback .feedback-yes,
+#feedback .feedback-no,
 ol.otazky button {
   margin: 0.2em 0;
 }
+#feedback .feedback-yes:before,
+#feedback .feedback-no:before,
 ol.otazky button:before {
   content: "\f00c";
   font-family: "FontAwesome";
   padding-right: 0.5em;
 }
+#feedback .feedback-no:before,
 ol.otazky button:last-child:before {
   content: "\f00d";
 }
+#feedback .feedback-yes,
+#feedback .feedback-no,
 ol.otazky button {
   cursor: pointer;
   border: 0.1em solid;
   background: none;
   color: #4caf50;
 }
+#feedback .feedback-yes:hover,
 ol.otazky button:hover {
   background-color: #e8f5e9;
 }
+#feedback .feedback-yes:active,
+#feedback .feedback-yes:focus,
 ol.otazky button:active,
 ol.otazky button:focus {
   background-color: #c8e6c9;
 }
+#feedback .feedback-no,
 ol.otazky button:last-child {
   color: #f44336;
 }
+#feedback .feedback-no:hover,
 ol.otazky button:last-child:hover {
   background-color: #ffebee;
 }
+#feedback .feedback-no:active,
+#feedback .feedback-no:focus,
 ol.otazky button:last-child:active,
 ol.otazky button:last-child:focus {
   background-color: #ffcdd2;
@@ -1037,3 +1054,47 @@ ul.docinfo.nomultiple.global {
   animation-timing-function: ease;
 }
 /***************************/
+#feedback {
+  border-top: thin solid #ddd;
+  padding: 1em 0;
+}
+#feedback button {
+  background: none;
+  color: #3f51b5;
+}
+#feedback .hide {
+  display: none;
+}
+#feedback dt {
+  margin-top: 1em;
+}
+#feedback dd {
+  margin-left: 0;
+  margin-top: 0.5em;
+}
+.feedback-no {
+  margin-left: 1em;
+}
+.feedback-invalid-input {
+  border-color: #E57373 !important;
+}
+#feedback-text:focus,
+#feedback-email:focus {
+  border-color: #37474F;
+  outline: none;
+}
+#feedback-text,
+#feedback-email {
+  border: none;
+  border-bottom: thin solid #B0BEC5;
+  background: #ECEFF1;
+  padding: 1em 1.25em;
+  border-radius: 0.5em 0.5em 0 0
+}
+#feedback-text {
+  min-height: 6.5em;
+}
+#feedback-email {
+  width: 100%;
+  max-width: 17em;
+}
