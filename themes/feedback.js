@@ -19,7 +19,13 @@
         }
         return elm
       },
-      validateInput = function (inputElm) {
+      validateInput = function (inputElm, optional) {
+        if (typeof optional == "undefined") {
+          optional = false
+        }
+        if (optional && inpuElm.value == "") {
+          return true
+        }
         if (inputElm.value != "" && inpuElm.checkValidity()) {
           return true
         }
