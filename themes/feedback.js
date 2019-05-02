@@ -20,7 +20,7 @@
         return elm
       },
       validateInput = function (inputElm) {
-        if (inputElm.value != "") {
+        if (inputElm.value != "" && inpuElm.checkValidity()) {
           return true
         }
         inputElm.classList.add("feedback-invalid-input")
@@ -89,7 +89,9 @@
         nextStepDd.appendChild(nextStepNext)
         nextStepDd.appendChild(nextStepSkip)
         nextStepNext.addEventListener("click", function () {
-          emailInput.checkValidity()
+          if (!validateInput(emailInput)) {
+            return
+          }
           if (!validateInput(questionInput)) {
             return
           }
