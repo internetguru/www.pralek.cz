@@ -66,14 +66,14 @@
           <dt>Co byste vzkázali autorovi nebo ostatním čtenářům? Jak byl pro Vás článek nebo celý Pralék přínosný?</dt>
           <dd><label for="feedback-possitive-comment">Komentář</label></dd>
           <dd>
-            <textarea name="feedback-possitive-comment" placeholder="">
+            <textarea name="feedback-possitive-comment" id="feedback-possitive-comment" placeholder="">
 * Článek pomohl mně nebo mému blízkému s uzdravením.
 * Jako zdravotníkovi mi článek pomohl pochopit problematiku.
 * Na Pralék se obracím, když…
             </textarea>
           </dd>
           <dd><label for="feedback-possitive-email">E-mail (nepovinné)</label></dd>
-          <dd><input type="email" name="feedback-possitive-email"/></dd>
+          <dd><input type="email" name="feedback-possitive-email" id="feedback-possitive-email"/></dd>
           <dd>Autoři nejlepších komentářů obdrží nabídku zveřejnění komentářů na webu.</dd>
           <dt>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</dt>
           <dd class="contentbalancer-simple"><ul>
@@ -89,14 +89,14 @@
           <dt>Co Vám ve článku nebo na Praléku obecně chybí?</dt>
           <dd><label for="feedback-negative-comment">Komentář</label></dd>
           <dd>
-            <textarea name="feedback-negative-comment" placeholder="">
+            <textarea name="feedback-negative-comment" id="feedback-negative-comment" placeholder="">
 * Článek je příliš neodborný a obshuje málo zdrojů.
 * Jsem v rozpacích, neboť mi můj lékař doporučil pravý opak.
 * #TODO
             </textarea>
           </dd>
           <dd><label for="feedback-negative-email">E-mail (nepovinné)</label></dd>
-          <dd><input type="email" name="feedback-negative-email"/></dd>
+          <dd><input type="email" name="feedback-negative-email" id="feedback-negative-email"/></dd>
           <dt>Pomohla by veřejná diskuze, osobní konzultace či jiné rozšíření Praléku?</dt>
           <dd class="contentbalancer-simple"><ul>
             <li><a href="pralek#sponzoring">Jak to funguje</a></li>
