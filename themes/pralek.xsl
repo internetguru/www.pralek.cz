@@ -56,12 +56,57 @@
     <h2 id="docinfo" class="hide">Informace o článku</h2>
     <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
     <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>
-<!--     <div id="docfooter">
-      <ul>
-        <li><a href="pralek/archiv">Další články lékařova koutku</a> (kompletní seznam).</li>
-        <li><a href="upozorneni">Odebírejte krátká upozornění na nově vyšlé články lékařova koutku.</a></li>
-      </ul>
-    </div> -->
+    
+    <h2 id="zpetna_vazba" class="hide">Zpětná vazba</h2>
+    <dl>
+      <dt>Byl pro Vás tento článek přínosný?</dt>
+      <dd>
+        <a class="nowarning eventable button">ano</a>
+        <dl>
+          <dt>Co byste vzkázali autorovi nebo ostatním čtenářům? Jak byl pro Vás článek nebo celý Pralék přínosný?</dt>
+          <dd><label for="feedback-possitive-comment">Komentář</label></dd>
+          <dd>
+            <textarea name="feedback-possitive-comment" placeholder="">
+* Článek pomohl mně nebo mému blízkému s uzdravením.
+* Jako zdravotníkovi mi článek pomohl pochopit problematiku.
+* Na Pralék se obracím, když…
+            </textarea>
+          </dd>
+          <dd><label for="feedback-possitive-email">E-mail (nepovinné)</label></dd>
+          <dd><input type="email" name="feedback-possitive-email"/></dd>
+          <dd>Autoři nejlepších komentářů obdrží nabídku zveřejnění komentářů na webu.</dd>
+          <dt>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</dt>
+          <dd class="contentbalancer-simple"><ul>
+            <li><a href="pralek#sponzoring">Jak to funguje</a></li>
+            <li class="donation"><a href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
+            </ul>
+          </dd>
+        </dl>
+      </dd>
+      <dd>
+        <a class="nowarning eventable button">ne</a>
+        <dl>
+          <dt>Co Vám ve článku nebo na Praléku obecně chybí?</dt>
+          <dd><label for="feedback-negative-comment">Komentář</label></dd>
+          <dd>
+            <textarea name="feedback-negative-comment" placeholder="">
+* Článek je příliš neodborný a obshuje málo zdrojů.
+* Jsem v rozpacích, neboť mi můj lékař doporučil pravý opak.
+* #TODO
+            </textarea>
+          </dd>
+          <dd><label for="feedback-negative-email">E-mail (nepovinné)</label></dd>
+          <dd><input type="email" name="feedback-negative-email"/></dd>
+          <dt>Pomohla by veřejná diskuze, osobní konzultace či jiné rozšíření Praléku?</dt>
+          <dd class="contentbalancer-simple"><ul>
+            <li><a href="pralek#sponzoring">Jak to funguje</a></li>
+            <li class="donation"><a href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
+            </ul>
+          </dd>
+        </dl>
+      </dd>
+    </dl>
+    
   </xsl:template>
   
   <xsl:template match="//ul[@class = 'docinfo nomultiple global']"/>
