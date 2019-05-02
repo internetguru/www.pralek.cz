@@ -26,7 +26,7 @@
         if (optional && inputElm.value == "") {
           return true
         }
-        if (inputElm.value != "" && inpuElm.checkValidity()) {
+        if (inputElm.value != "" && inputElm.checkValidity()) {
           return true
         }
         inputElm.classList.add("feedback-invalid-input")
