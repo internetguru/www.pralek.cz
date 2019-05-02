@@ -56,7 +56,7 @@
     <h2 id="docinfo" class="hide">Informace o článku</h2>
     <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
     <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>
-    
+<!--     
     <h2 id="zpetna_vazba" class="hide">Zpětná vazba</h2>
     <dl>
       <dt>Byl pro Vás tento článek přínosný?</dt>
@@ -105,7 +105,7 @@
           </dd>
         </dl>
       </dd>
-    </dl>
+    </dl> -->
     
   </xsl:template>
   
