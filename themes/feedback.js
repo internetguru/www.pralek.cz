@@ -1,5 +1,5 @@
 (function() {
-  require("IGCMS", function() {
+  require("IGCMS", function() { require("IGCMS.Eventable", function() {})
     
     var Feedback = function () {
       
@@ -40,7 +40,11 @@
         initStep2("no", question, placeholder, emailDesc)        
       },
       initStep2 = function (type, question, placeholder, emailDesc) {
-        // TODO send event
+        IGCMS.Eventable.sendGAEvent(
+          "feedback",
+          "value",
+          type == "yes" ? 1 : 0
+        )
         wrapper.innerHTML = ""
         
         var questionDt = getElm("dt")
@@ -87,19 +91,24 @@
           if (!validateInput(questionInput)) {
             return
           }
-          initStep3(donationText)
+          initStep3(donationText, questionInput.value, emailInput.value)
         }, false)
         nextStepSkip.addEventListener("click", function () {
           if (validateInput(emailInput) && !validateInput(questionInput)) {
             return;
           }
-          initStep3(donationText)
+          initStep3(donationText, questionInput.value, emailInput.value)
         }, false)
         wrapper.appendChild(nextStepDt)
         wrapper.appendChild(nextStepDd)
       },
-      initStep3 = function (donationText) {
-        // TODO send event
+      initStep3 = function (donationText, answer, email) {
+        if (answer) {
+          IGCMS.Eventable.sendGAEvent("feedback", "answer", answer)
+        }
+        if (email) {
+          IGCMS.Eventable.sendGAEvent("feedback", "email", email)
+        }
         wrapper.innerHTML = origContent
         wrapper.getElementsByTagName("p")[0].innerText = donationText
       },
