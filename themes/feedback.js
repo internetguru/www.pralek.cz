@@ -108,11 +108,8 @@
             if (!confirm("Formulář má vyplněná pole, jste si jistí, že chcete přeskočit odeslání odpovědi?")) {
               return
             }
-            if (!validateInput(emailInput, true)) {
-              return
-            }
           }
-          initStep3(donationText, questionInput.value, emailInput.value)
+          initStep3(donationText)
         }, false)
         wrapper.appendChild(nextStepDt)
         wrapper.appendChild(nextStepDd)
