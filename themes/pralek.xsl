@@ -56,6 +56,13 @@
     <h2 id="docinfo" class="hide">Informace o článku</h2>
     <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
     <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>
+    
+    <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku. <dd class="contentbalancer-simple"><ul>
+      <li><a href="pralek#sponzoring">Jak to funguje</a></li>
+      <li class="donation"><a href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
+      </ul></dd>
+    </p>
+
 <!--     
     <h2 id="zpetna_vazba" class="hide">Zpětná vazba</h2>
     <dl>
