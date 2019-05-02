@@ -29,6 +29,7 @@
         if (inputElm.value != "" && inputElm.checkValidity()) {
           return true
         }
+        inputElm.reportValidity()
         inputElm.classList.add("feedback-invalid-input")
         inputElm.focus()
         return false
