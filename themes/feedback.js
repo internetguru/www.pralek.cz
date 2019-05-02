@@ -1,5 +1,5 @@
 (function() {
-  require("IGCMS", function() { require("IGCMS.Eventable", function() {})
+  require("IGCMS", function() { require("IGCMS.Eventable", function() {
     
     var Feedback = function () {
       
@@ -149,5 +149,5 @@
       elmSelector: "#feedback"
     })
 
-  })
+  }) })
 })()
