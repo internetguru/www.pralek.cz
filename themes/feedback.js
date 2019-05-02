@@ -23,7 +23,7 @@
         if (typeof optional == "undefined") {
           optional = false
         }
-        if (optional && inpuElm.value == "") {
+        if (optional && inputElm.value == "") {
           return true
         }
         if (inputElm.value != "" && inpuElm.checkValidity()) {
