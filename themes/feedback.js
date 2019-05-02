@@ -68,7 +68,7 @@
         
         emailLabel.setAttribute("for", "feedback-email")
         emailDt.appendChild(emailLabel)
-        emailInput.type = "text"
+        emailInput.type = "email"
         emailInput.id = "feedback-email"
         emailInput.setAttribute("pattern", '[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$')
         emailInputDd.appendChild(emailInput)
@@ -89,6 +89,7 @@
         nextStepDd.appendChild(nextStepNext)
         nextStepDd.appendChild(nextStepSkip)
         nextStepNext.addEventListener("click", function () {
+          emailInput.checkValidity()
           if (!validateInput(questionInput)) {
             return
           }
