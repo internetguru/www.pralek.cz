@@ -42,9 +42,8 @@
       },
       processNo = function (event) {
         var question = " Co Vám ve článku nebo na Praléku obecně chybí?"
-        var placeholder = "* Článek je příliš neodborný a obshuje málo zdrojů.\n* Jsem v rozpacích, neboť mi můj lékař doporučil pravý opak.\n* #TODO"
-        var emailDesc = "#TODO"
-        initStep2("no", question, placeholder, emailDesc)        
+        var placeholder = "* Článek je příliš neodborný a obshuje málo zdrojů.\n* Jsem v rozpacích, neboť mi můj lékař doporučil pravý opak.\n* Problematika mě zajímá z jiného či rozšířeného pohledu"
+        initStep2("no", question, placeholder, "")        
       },
       initStep2 = function (type, question, placeholder, emailDesc) {
         IGCMS.Eventable.sendGAEvent(
@@ -71,25 +70,18 @@
         var emailLabel = getElm("label", "Email (nepovinné)")
         var emailInputDd = getElm("dd")
         var emailInput = getElm("input")
-        var emailInputDescDd = getElm("dd", emailDesc)
         
         emailLabel.setAttribute("for", "feedback-email")
         emailDt.appendChild(emailLabel)
         emailInput.type = "email"
         emailInput.id = "feedback-email"
-        /*
-        emailInput.setAttribute("pattern", '[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$')
-        emailInput.oninvalid = function (e) {
-          e.target.setCustomValidity("Hodnota musí být ve formátu e-mailové adresy")
-        }
-        emailInput.oninput = function (e) {
-          e.target.setCustomValidity("");
-        }
-        */
         emailInputDd.appendChild(emailInput)
         wrapper.appendChild(emailDt)
         wrapper.appendChild(emailInputDd)
-        wrapper.appendChild(emailInputDescDd)
+        if (emailDesc) {
+          var emailInputDescDd = getElm("dd", emailDesc)
+          wrapper.appendChild(emailInputDescDd)
+        }
         
         var donationText = "Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku."
         if (type == "no") {
