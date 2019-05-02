@@ -95,9 +95,10 @@
           initStep3(donationText, questionInput.value, emailInput.value)
         }, false)
         nextStepSkip.addEventListener("click", function () {
-          
-          if (validateInput(emailInput) && !validateInput(questionInput)) {
-            return;
+          if (emailInput.value || questionInput.value) {
+            if (!confirm("Formulář má vyplněná pole, jste si jistí, že chcete přeskočit odeslání odpovědi?")) {
+              return;
+            }
           }
           initStep3(donationText, questionInput.value, emailInput.value)
         }, false)
