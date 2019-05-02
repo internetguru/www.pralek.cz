@@ -1065,9 +1065,11 @@ ul.docinfo.nomultiple.global {
 #feedback .hide {
   display: none;
 }
+#feedback p,
 #feedback dt {
   font-size: 1.15em;
   margin-top: 1em;
+  margin-bottom: 0.75em;
 }
 #feedback dd {
   margin-left: 0;
