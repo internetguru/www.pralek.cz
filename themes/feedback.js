@@ -70,7 +70,7 @@
         emailDt.appendChild(emailLabel)
         emailInput.type = "email"
         emailInput.id = "feedback-email"
-        emailInput.setAttribute("pattern, '[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$')
+        emailInput.setAttribute("pattern", '[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$')
         emailInputDd.appendChild(emailInput)
         wrapper.appendChild(emailDt)
         wrapper.appendChild(emailInputDd)
