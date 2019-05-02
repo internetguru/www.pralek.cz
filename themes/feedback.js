@@ -77,6 +77,7 @@
         emailDt.appendChild(emailLabel)
         emailInput.type = "email"
         emailInput.id = "feedback-email"
+        /*
         emailInput.setAttribute("pattern", '[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$')
         emailInput.oninvalid = function (e) {
           e.target.setCustomValidity("Hodnota musí být ve formátu e-mailové adresy")
@@ -84,6 +85,7 @@
         emailInput.oninput = function (e) {
           e.target.setCustomValidity("");
         }
+        */
         emailInputDd.appendChild(emailInput)
         wrapper.appendChild(emailDt)
         wrapper.appendChild(emailInputDd)
