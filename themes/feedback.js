@@ -70,6 +70,7 @@
         emailDt.appendChild(emailLabel)
         emailInput.type = "email"
         emailInput.id = "feedback-email"
+        emailInput.setAttribute("pattern, '[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$')
         emailInputDd.appendChild(emailInput)
         wrapper.appendChild(emailDt)
         wrapper.appendChild(emailInputDd)
@@ -94,6 +95,7 @@
           initStep3(donationText, questionInput.value, emailInput.value)
         }, false)
         nextStepSkip.addEventListener("click", function () {
+          
           if (validateInput(emailInput) && !validateInput(questionInput)) {
             return;
           }
