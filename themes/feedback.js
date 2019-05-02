@@ -95,10 +95,10 @@
         nextStepDd.appendChild(nextStepNext)
         nextStepDd.appendChild(nextStepSkip)
         nextStepNext.addEventListener("click", function () {
-          if (!validateInput(emailInput)) {
+          if (!validateInput(questionInput)) {
             return
           }
-          if (!validateInput(questionInput)) {
+          if (!validateInput(emailInput, true)) {
             return
           }
           initStep3(donationText, questionInput.value, emailInput.value)
