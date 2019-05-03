@@ -97,13 +97,13 @@
         nextStepDd.appendChild(nextStepNext)
         nextStepDd.appendChild(nextStepSkip)
         nextStepNext.addEventListener("click", function () {
+          questionInput.setCustomValidity("")
+          questionInput.reportValidity()
           if (!validateInput(questionInput)) {
             questionInput.setCustomValidity("Položka je povinná")
             questionInput.reportValidity()
             return
           }
-          questionInput.setCustomValidity("")
-          questionInput.reportValidity()
           if (!validateInput(emailInput, true)) {
             return
           }
