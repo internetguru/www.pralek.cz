@@ -54,11 +54,11 @@
           var label = form.getAttribute(Config.dataLabel) || ""
           var value = ""
           for (var i = 0; i < inputs.length; i++) {
-            if (value != "") {
-              value += "\n"
-            }
             if (inputs[i].type == "hidden") {
               continue
+            }
+            if (value != "") {
+              value += "\n"
             }
             value = value + (inputs[i].name || inputs[i].nodeName) + ":" + inputs[i].value
           }
