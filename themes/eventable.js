@@ -46,9 +46,6 @@
           var action = element.getAttribute(Config.dataAction) || element.href || element.nodeName
           var label = element.getAttribute(Config.dataLabel) || element.innerText
           sendGAEvent(category, action, label)
-          if (Config.debug) {
-            event.preventDefault();
-          }
         },
         sendGAFormEvents = function (event) {
           var form = event.target
@@ -57,11 +54,6 @@
           for (var i = 0; i < inputs.length; i++) {
             sendGAEvent(category, inputs[i].name, inputs[i].value)
           }
-          /*
-          if (Config.debug) {
-            event.preventDefault();
-          }
-          */
         },
         sendGAEvent = function (category, action, label, value) {
           if (typeof value == "undefined") {
