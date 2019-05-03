@@ -57,7 +57,7 @@
             if (value != "") {
               value += "\n"
             }
-            value = value + inputs[i].name + ":" + inputs[i].value
+            value = value + (inputs[i].name || inputs[i].nodeName) + ":" + inputs[i].value
           }
           sendGAEvent(category, action, label, value)
         },
