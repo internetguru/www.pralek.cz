@@ -395,6 +395,7 @@
                   var event = document.createEvent('Event');
                   event.initEvent('submit', true, true);
                   navig.form.dispatchEvent(event);
+                  navig.form.submit();
                 }
               })();
               list.appendChild(li);
