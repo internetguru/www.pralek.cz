@@ -59,7 +59,15 @@
         var questionInput = getElm("textarea")
         
         questionLabel.setAttribute("for", "feedback-text")
-        questionInput.setAttribute("pattern", "\s*\w+\s*")
+        questionInput.setAttribute("pattern", "\w+")
+        questionInput.oninput = function () {
+          questionInput.setCustomValidity("")
+          questionInput.reportValidity()
+        }
+        questionInput.oninvalid = function () {
+          questionInput.setCustomValidity("Položka je povinná")
+          questionInput.reportValidity()
+        }
         questionDt.appendChild(questionLabel)
         questionInput.id = "feedback-text"
         questionInput.setAttribute("placeholder", placeholder)
@@ -97,11 +105,7 @@
         nextStepDd.appendChild(nextStepNext)
         nextStepDd.appendChild(nextStepSkip)
         nextStepNext.addEventListener("click", function () {
-          questionInput.setCustomValidity("")
-          questionInput.reportValidity()
           if (!validateInput(questionInput)) {
-            questionInput.setCustomValidity("Položka je povinná")
-            questionInput.reportValidity()
             return
           }
           if (!validateInput(emailInput, true)) {
