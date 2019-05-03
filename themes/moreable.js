@@ -47,7 +47,7 @@
           moreLink.textContent = Config.moreText
           moreLink.addEventListener("click", showMore, false)
           left = document.createElement("span")
-          left.innerHTML = " (" + Config.leftText.replace("%s", hiddenItems.length) + ")"
+          left.innerHTML = " (" + Config.leftText.replace("%s", hiddenItems.length - 1) + ")"
           moreLink.appendChild(left)
           wrapper.appendChild(moreLink)
           parent.appendChild(wrapper)
