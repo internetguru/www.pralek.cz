@@ -403,6 +403,9 @@ dl.toptags dd {
   margin-left: 0.5em;
   white-space: nowrap;
 }
+.filter .button {
+  margin-left: 1em;
+}
 .author .contentbalancer-simple li {
   margin-top: 1em;
 }
