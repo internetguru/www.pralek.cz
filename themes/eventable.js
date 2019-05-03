@@ -33,11 +33,14 @@
         },
         sendGAEvents = function (event) {
           var element = event.target
-          if (!element.classList.contains(Config.ns)) {
-            element = element.parentNode
-          }
-          if (!element.classList.contains(Config.ns)) {
-            return
+          // always send external
+          if (element.host === window.location.host) {
+            if (!element.classList.contains(Config.ns)) {
+              element = element.parentNode
+            }
+            if (!element.classList.contains(Config.ns)) {
+              return
+            }
           }
           var category = element.getAttribute(Config.dataCategory) || element.id || element.className || element.nodeName
           var action = element.getAttribute(Config.dataAction) || element.href || element.nodeName
