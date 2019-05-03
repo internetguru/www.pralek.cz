@@ -119,7 +119,6 @@
           if (!validateInput(emailInput, true)) {
             return
           }
-          IGCMS.Eventable.sendGAEvent("feedback", "next", 1)
           initStep3(donationText, questionInput.value, emailInput.value, 1)
         }, false)
         nextStepSkip.addEventListener("click", function () {
