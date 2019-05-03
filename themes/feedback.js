@@ -118,6 +118,7 @@
           if (!validateInput(emailInput, true)) {
             return
           }
+          IGCMS.Eventable.sendGAEvent("feedback", "next", 1)
           initStep3(donationText, questionInput.value, emailInput.value)
         }, false)
         nextStepSkip.addEventListener("click", function () {
@@ -126,6 +127,7 @@
               return
             }
           }
+          IGCMS.Eventable.sendGAEvent("feedback", "next", 0)
           initStep3(donationText)
         }, false)
         wrapper.appendChild(nextStepDt)
