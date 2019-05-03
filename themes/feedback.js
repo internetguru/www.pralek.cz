@@ -59,6 +59,8 @@
         var questionInput = getElm("textarea")
         
         questionLabel.setAttribute("for", "feedback-text")
+        questionInput.setAttribute("pattern", "\w{3,}")
+        questionInput.setCustomValidity("Položka je povinná")
         questionDt.appendChild(questionLabel)
         questionInput.id = "feedback-text"
         questionInput.setAttribute("placeholder", placeholder)
