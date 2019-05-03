@@ -413,12 +413,10 @@ dl.toptags dd {
 .author .contentbalancer-simple a {
   margin-left: 0;
 }
-#feedback button:first-child,
-.contentbalancer-simple li.donation a {
+#feedback button:first-child {
   color: #E64A19;
 }
-#feedback button:first-child:hover,
-.contentbalancer-simple li.donation a:hover {
+#feedback button:first-child:hover {
   background: #FBE9E7;
 }
 /***************************/
@@ -662,7 +660,8 @@ ol.otazky button:before {
 ol.otazky button:last-child:before {
   content: "\f00d";
 }
-#feedback .feedback-yes,
+.contentbalancer-simple li.donation a,
+#content #feedback .feedback-yes,
 #feedback .feedback-no,
 ol.otazky button {
   cursor: pointer;
@@ -670,10 +669,13 @@ ol.otazky button {
   background: none;
   color: #4caf50;
 }
-#feedback .feedback-yes:hover,
+.contentbalancer-simple li.donation a:hover,
+#content #feedback .feedback-yes:hover,
 ol.otazky button:hover {
   background-color: #e8f5e9;
 }
+.contentbalancer-simple li.donation a:active,
+.contentbalancer-simple li.donation a:focus,
 #feedback .feedback-yes:active,
 #feedback .feedback-yes:focus,
 ol.otazky button:active,
