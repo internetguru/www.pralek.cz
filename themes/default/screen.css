@@ -409,12 +409,15 @@ dl.toptags dd {
 .author .contentbalancer-simple li:first-child {
   margin-right: 1em;
 }
+#feedback button:first-child,
 .author .contentbalancer-simple a {
   margin-left: 0;
 }
+#feedback button:first-child,
 .contentbalancer-simple li.donation a {
   color: #E64A19;
 }
+#feedback button:first-child:hover,
 .contentbalancer-simple li.donation a:hover {
   background: #FBE9E7;
 }
@@ -1061,7 +1064,8 @@ ul.docinfo.nomultiple.global {
 #feedback button {
   background: none;
   color: #3f51b5;
-  margin-top: 1em;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
 }
 #feedback .hide {
   display: none;
@@ -1091,9 +1095,9 @@ ul.docinfo.nomultiple.global {
 #feedback-email {
   border: none;
   border-bottom: thin solid #B0BEC5;
-  background: #ECEFF1;
+  background: #F5F5F5;
   padding: 1em 1.25em;
-  border-radius: 0.5em 0.5em 0 0
+  border-radius: 0.5em 0.5em 0 0;
 }
 #feedback-text {
   min-height: 6.5em;
