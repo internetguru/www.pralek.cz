@@ -87,6 +87,7 @@
         emailLabel.setAttribute("for", "feedback-email")
         emailDt.appendChild(emailLabel)
         emailInput.type = "email"
+        emailInput.name = "email"
         emailInput.id = "feedback-email"
         emailInputDd.appendChild(emailInput)
         wrapper.appendChild(emailDt)
