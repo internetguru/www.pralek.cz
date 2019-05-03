@@ -127,7 +127,7 @@
               return
             }
           }
-          initStep3(donationText, "", "", 0)
+          initStep3(donationText, questionInput.value, emailInput.value, 0)
         }, false)
         wrapper.appendChild(nextStepDt)
         wrapper.appendChild(nextStepDd)
