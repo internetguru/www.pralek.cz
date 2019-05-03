@@ -621,7 +621,7 @@ div.part.clanky {
 .newsletter input[type="submit"],
 .button,
 button {
-  border-width: unset;
+  border-style: none;
   padding: 0.6rem 1rem 0.5em;
   letter-spacing: .08929em;
   border-radius: 0.35em;
@@ -669,6 +669,9 @@ ol.otazky button {
   background: none;
   color: #4CAF50;
   border-color: #66BB6A;
+}
+#feedback .contentbalancer-simple li.donation a {
+  border: none;
 }
 #feedback button:first-child:hover,
 .contentbalancer-simple li.donation a:hover,
