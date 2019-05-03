@@ -58,6 +58,7 @@
         IGCMS.Eventable.sendGAEvent(
           "feedback",
           "value",
+          type,
           type == "yes" ? 1 : 0
         )
         wrapper.innerHTML = ""
