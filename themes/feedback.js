@@ -41,14 +41,17 @@
         return false
       }
       processYes = function (event) {
-        var question = "Co byste vzkázali autorovi nebo ostatním čtenářům? Jak byl pro Vás článek nebo celý Pralék přínosný?"
-        var placeholder = "* Článek pomohl mně nebo mému blízkému s uzdravením.\n* Jako zdravotníkovi mi článek pomohl pochopit problematiku.\n* Na Pralék se obracím, když…"
+//         var question = "Co byste vzkázali autorovi nebo ostatním čtenářům? Jak byl pro Vás článek nebo celý Pralék přínosný?"
+        var question = "Co byste vzkázali autorovi nebo ostatním čtenářům?"
+//         var placeholder = "* Článek pomohl mně nebo mému blízkému s uzdravením.\n* Jako zdravotníkovi mi článek pomohl pochopit problematiku.\n* Na Pralék se obracím, když…"
+        var placeholder = ""
         var emailDesc = "Autoři nejlepších komentářů obdrží nabídku zveřejnění komentářů na webu."
         initStep2("yes", question, placeholder, emailDesc)
       },
       processNo = function (event) {
         var question = " Co Vám ve článku nebo na Praléku obecně chybí?"
         var placeholder = "* Článek je příliš neodborný a obshuje málo zdrojů.\n* Jsem v rozpacích, neboť mi můj lékař doporučil pravý opak.\n* Problematika mě zajímá z jiného či rozšířeného pohledu"
+        var placeholder = ""
         initStep2("no", question, placeholder, "")        
       },
       initStep2 = function (type, question, placeholder, emailDesc) {
@@ -106,7 +109,7 @@
         nextStepDd.appendChild(nextStepNext)
         nextStepDd.appendChild(nextStepSkip)
         nextStepNext.addEventListener("click", function () {
-          if (!validateInput(questionInput, false, ".*\\w{2,}.*")) {
+          if (!validateInput(questionInput, false, ".*\\w{10,}.*")) {
             questionInput.setCustomValidity("Položka je povinná")
             questionInput.reportValidity()
             return
