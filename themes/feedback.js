@@ -135,7 +135,7 @@
       initStep3 = function (donationText, answer, email, next) {
         var feedback = answer
         if (email) {
-          feedback = email + ": " + answer
+          feedback = answer + "\nEmail: " + email
         }
         IGCMS.Eventable.sendGAEvent("feedback", "value", feedback, next)
         wrapper.innerHTML = origContent
