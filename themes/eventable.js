@@ -42,6 +42,7 @@
               return
             }
           }
+          var category = element.getAttribute(Config.dataCategory) || element.id || element.className || element.nodeName
           var action = element.getAttribute(Config.dataAction) || element.href || element.nodeName
           var label = element.getAttribute(Config.dataLabel) || element.innerText
           sendGAEvent(category, action, label)
