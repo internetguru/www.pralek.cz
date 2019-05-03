@@ -57,7 +57,7 @@
       initStep2 = function (type, question, placeholder, emailDesc) {
         IGCMS.Eventable.sendGAEvent(
           "feedback",
-          "value",
+          "beneficial",
           type,
           type == "yes" ? 1 : 0
         )
