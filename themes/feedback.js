@@ -144,7 +144,7 @@
       init = function () {
         var feedbackElm = document.querySelector(Config.elmSelector)
         if (!feedbackElm) {
-          throw "Feedback element " + elmSelector + " not found"
+          return
         }
         origContent = feedbackElm.innerHTML
 
