@@ -54,9 +54,11 @@
           for (var i = 0; i < inputs.length; i++) {
             sendGAEvent(category, inputs[i].name, inputs[i].value)
           }
+          /*
           if (Config.debug) {
             event.preventDefault();
           }
+          */
         },
         sendGAEvent = function (category, action, label, value) {
           if (typeof value == "undefined") {
