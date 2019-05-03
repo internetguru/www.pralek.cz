@@ -659,6 +659,7 @@ ol.otazky button:before {
 ol.otazky button:last-child:before {
   content: "\f00d";
 }
+.newsletter input[type="submit"],
 #feedback button:first-child,
 .contentbalancer-simple li.donation a,
 #content #feedback .feedback-yes,
@@ -670,15 +671,19 @@ ol.otazky button {
   color: #4CAF50;
   border-color: #66BB6A;
 }
+.newsletter input[type="submit"],
 #feedback .contentbalancer-simple li.donation a {
   border: none;
 }
+.newsletter input[type="submit"]:hover,
 #feedback button:first-child:hover,
 .contentbalancer-simple li.donation a:hover,
 #content #feedback .feedback-yes:hover,
 ol.otazky button:hover {
   background-color: #e8f5e9;
 }
+.newsletter input[type="submit"]:active,
+.newsletter input[type="submit"]:focus,
 #feedback button:first-child:active,
 #feedback button:first-child:focus,
 .contentbalancer-simple li.donation a:active,
@@ -741,18 +746,7 @@ ol.otazky button:not(.selected):disabled {
   max-width: none;
 }
 .newsletter input[type="submit"] {
-  background: white;
-  border-radius: 0 0.3em 0.3em 0;
-  color: #bf360c;
-  /* border-bottom: thin solid #ffccbc; */
   width: auto;
-}
-.newsletter input[type="submit"]:hover {
-  background: #fbe9e7;
-}
-.newsletter input[type="submit"]:active,
-.newsletter input[type="submit"]:focus {
-    background: #ffab91;
 }
 .newsletter input[type="email"] {
   border: none;
