@@ -1072,6 +1072,9 @@ ul.docinfo.nomultiple.global {
   margin-top: 1.5em;
   margin-bottom: 1em;
 }
+#feedback button + button {
+  margin-left: 0.5em;
+}
 #feedback .hide {
   display: none;
 }
@@ -1084,9 +1087,6 @@ ul.docinfo.nomultiple.global {
 #feedback dd {
   margin-left: 0;
   margin-top: 0.5em;
-}
-#feedback .feedback-no {
-  margin-left: 1em;
 }
 .feedback-invalid-input {
   border-color: #E57373 !important;
