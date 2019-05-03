@@ -102,8 +102,8 @@
         }
         var nextStepDt = getElm("dt", "Další krok")
         var nextStepDd = getElm("dd")
-        var nextStepNext = getElm("button", "Další")
-        var nextStepSkip = getElm("button", "Přeskočit")
+        var nextStepNext = getElm("button", "Pokračovat")
+        var nextStepSkip = getElm("button", "Přeskočit tento krok")
 
         nextStepDt.className = "hide"
         nextStepDd.appendChild(nextStepNext)
