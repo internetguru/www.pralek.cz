@@ -113,6 +113,8 @@ h1 {
 }
 h2 {
   font-size: 2em;
+  margin-top: 0.5em;
+  padding-top: 1em;
 }
 h2, h3 {
   color: #111;
