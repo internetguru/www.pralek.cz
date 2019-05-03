@@ -54,7 +54,7 @@
           var label = form.getAttribute(Config.dataLabel) || ""
           var value = ""
           for (var i = 0; i < inputs.length; i++) {
-            value = inputs[i].name + ":" + inputs[i].value + "\n"
+            value = value + inputs[i].name + ":" + inputs[i].value + "\n"
           }
           sendGAEvent(category, action, label, value)
         },
