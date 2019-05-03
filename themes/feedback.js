@@ -29,7 +29,7 @@
         if (!pattern && inputElm.checkValidity()) {
           return true
         }
-        if (pattern && inputElm.value.test("/^"+pattern+"$/")) {
+        if (pattern && inputElm.value.match("/^"+pattern+"$/")) {
           return true
         }
         inputElm.reportValidity()
