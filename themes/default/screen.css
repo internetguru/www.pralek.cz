@@ -19,7 +19,8 @@ strong {
   font-weight: 600;
 }
 a, label {
-  color: #3f51b5;
+  color: #3F51B5;
+  border-color: #5C6BC0;
 }
 p label {
   border-bottom: thin solid;
@@ -399,9 +400,10 @@ dl.toptags dd {
 .author .contentbalancer-simple a,
 .filter .button {
   vertical-align: middle;
-  border: 0.1em solid;
+  border-width: 0.1em;
   margin-left: 0.5em;
   white-space: nowrap;
+  border-style: solid;
 }
 .filter .button {
   margin-left: 1em;
@@ -619,7 +621,7 @@ div.part.clanky {
 .newsletter input[type="submit"],
 .button,
 button {
-  border: none;
+  border-width: unset;
   padding: 0.6rem 1rem 0.5em;
   letter-spacing: .08929em;
   border-radius: 0.35em;
@@ -665,7 +667,8 @@ ol.otazky button {
   cursor: pointer;
   border: 0.1em solid;
   background: none;
-  color: #4caf50;
+  color: #4CAF50;
+  border-color: #66BB6A;
 }
 #feedback button:first-child:hover,
 .contentbalancer-simple li.donation a:hover,
@@ -685,7 +688,8 @@ ol.otazky button:focus {
 }
 #feedback .feedback-no,
 ol.otazky button:last-child {
-  color: #f44336;
+  color: #F44336;
+  border-color: #EF5350;
 }
 #feedback .feedback-no:hover,
 ol.otazky button:last-child:hover {
