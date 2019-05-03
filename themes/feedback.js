@@ -59,7 +59,7 @@
         var questionInput = getElm("textarea")
         
         questionLabel.setAttribute("for", "feedback-text")
-        questionInput.setAttribute("data-pattern", ".*[A-Za-z0-9]{2,}.*")
+        questionInput.setAttribute("pattern", ".*[A-Za-z0-9]{2,}.*")
         questionInput.oninput = function () {
           questionInput.setCustomValidity("")
           questionInput.reportValidity()
