@@ -45,7 +45,7 @@
         var question = "Co byste vzkázali autorovi nebo ostatním čtenářům?"
 //         var placeholder = "* Článek pomohl mně nebo mému blízkému s uzdravením.\n* Jako zdravotníkovi mi článek pomohl pochopit problematiku.\n* Na Pralék se obracím, když…"
         var placeholder = ""
-        var emailDesc = "Autoři nejlepších komentářů obdrží nabídku zveřejnění komentářů na webu."
+        var emailDesc = "Autoři nejmilejšách komentářů obdrží nabídku zveřejnění komentáře na webu."
         initStep2("yes", question, placeholder, emailDesc)
       },
       processNo = function (event) {
