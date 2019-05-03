@@ -51,7 +51,7 @@
           var inputs = form.getElementsByTagName("input")
           var category = form.getAttribute(Config.dataCategory) || form.id || form.className || 'form-' + form.action + '-' + form.method
           var action = form.action + '-' + form.method
-          var label = element.getAttribute(Config.dataLabel) || ""
+          var label = form.getAttribute(Config.dataLabel) || ""
           var value = ""
           for (var i = 0; i < inputs.length; i++) {
             value = inputs[i].name + ":" + inputs[i].value + "\n"
