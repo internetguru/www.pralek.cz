@@ -106,7 +106,7 @@
         nextStepDd.appendChild(nextStepNext)
         nextStepDd.appendChild(nextStepSkip)
         nextStepNext.addEventListener("click", function () {
-          if (!validateInput(questionInput, false, ".*\S{2,}.*")) {
+          if (!validateInput(questionInput, false, ".*\\w{2,}.*")) {
             questionInput.setCustomValidity("Položka je povinná")
             questionInput.reportValidity()
             return
