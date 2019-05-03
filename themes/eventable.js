@@ -65,7 +65,7 @@
           if (Config.debug) {
             alert("category: '" + category + "',"
               + "action: '" + action + "',"
-              + "label: '" + label + "'",
+              + "label: '" + label + "',"
               + "value: '" + value + "'")
           } else {
             ga('send', {
