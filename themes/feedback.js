@@ -99,9 +99,11 @@
         nextStepNext.addEventListener("click", function () {
           if (!validateInput(questionInput)) {
             questionInput.setCustomValidity("Položka je povinná")
+            questionInput.reportValidity()
             return
           }
           questionInput.setCustomValidity("")
+          questionInput.reportValidity()
           if (!validateInput(emailInput, true)) {
             return
           }
