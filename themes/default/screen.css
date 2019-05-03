@@ -1109,6 +1109,8 @@ ul.docinfo.nomultiple.global {
   width: 100%;
   max-width: 17em;
 }
+#feedback .feedback-no,
+#content #feedback .feedback-yes,
 #feedback button:first-child {
   border: none;
 }
