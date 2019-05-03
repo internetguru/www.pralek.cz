@@ -19,14 +19,17 @@
         }
         return elm
       },
-      validateInput = function (inputElm, optional) {
+      validateInput = function (inputElm, optional, pattern) {
         if (typeof optional == "undefined") {
           optional = false
         }
         if (optional && inputElm.value == "") {
           return true
         }
-        if (inputElm.checkValidity()) {
+        if (!pattern && inputElm.checkValidity()) {
+          return true
+        }
+        if (pattern && inputElm.test("/^"+pattern+"$/")) {
           return true
         }
         inputElm.reportValidity()
@@ -59,7 +62,6 @@
         var questionInput = getElm("textarea")
         
         questionLabel.setAttribute("for", "feedback-text")
-        questionInput.setAttribute("pattern", ".*[A-Za-z0-9]{2,}.*")
         questionInput.oninput = function () {
           questionInput.setCustomValidity("")
           questionInput.reportValidity()
@@ -101,7 +103,7 @@
         nextStepDd.appendChild(nextStepNext)
         nextStepDd.appendChild(nextStepSkip)
         nextStepNext.addEventListener("click", function () {
-          if (!validateInput(questionInput)) {
+          if (!validateInput(questionInput, false, ".*\w{2,}.*")) {
             questionInput.setCustomValidity("Položka je povinná")
             questionInput.reportValidity()
             return
