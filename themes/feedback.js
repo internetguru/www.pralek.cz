@@ -60,7 +60,12 @@
         
         questionLabel.setAttribute("for", "feedback-text")
         questionInput.setAttribute("pattern", "\w+")
-        questionInput.setCustomValidity("Položka je povinná")
+        questionInput.oninvalid = function(e) {
+          questionInput.setCustomValidity("Položka je povinná")
+        }
+        questionInput.oninput = function(e) {
+          questionInput.setCustomValidity("");
+        }
         questionDt.appendChild(questionLabel)
         questionInput.id = "feedback-text"
         questionInput.setAttribute("placeholder", placeholder)
