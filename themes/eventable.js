@@ -59,7 +59,7 @@
           }
         },
         sendGAEvent = function (category, action, label, value) {
-          if (!value) {
+          if (typeof value == "undefined") {
             value = 1
           }
           if (Config.debug) {
