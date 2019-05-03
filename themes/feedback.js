@@ -77,7 +77,7 @@
         wrapper.appendChild(questionInputDd)
 
         var emailDt = getElm("dt")
-        var emailLabel = getElm("label", "Email (nepovinné)")
+        var emailLabel = getElm("label", "Váš e-mail (nepovinné)")
         var emailInputDd = getElm("dd")
         var emailInput = getElm("input")
         
