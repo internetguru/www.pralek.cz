@@ -33,6 +33,15 @@
         },
         sendGAEvents = function (event) {
           var element = event.target
+          // all external
+          if (element.host === window.location.host) {
+            if (!element.classList.contains(Config.ns)) {
+              element = element.parentNode
+            }
+            if (!element.classList.contains(Config.ns)) {
+              return
+            }
+          }
           var action = element.getAttribute(Config.dataAction) || element.href || element.nodeName
           var label = element.getAttribute(Config.dataLabel) || element.innerText
           sendGAEvent(category, action, label)
@@ -41,6 +50,7 @@
           var form = event.target
           var inputs = form.getElementsByTagName("input")
           var category = form.getAttribute(Config.dataCategory) || form.id || form.className || 'form-' + form.action + '-' + form.method
+          
           for (var i = 0; i < inputs.length; i++) {
             sendGAEvent(category, inputs[i].name, inputs[i].value)
           }
