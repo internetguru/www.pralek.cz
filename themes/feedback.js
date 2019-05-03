@@ -29,8 +29,11 @@
         if (!pattern && inputElm.checkValidity()) {
           return true
         }
-        if (pattern && inputElm.value.match("/^"+pattern+"$/")) {
-          return true
+        if (pattern) {
+          var regexp = new RegExp("^" + pattern + "$")
+          if (regexp.test(inputElm.value)) {
+            return true
+          }
         }
         inputElm.reportValidity()
         inputElm.classList.add("feedback-invalid-input")
