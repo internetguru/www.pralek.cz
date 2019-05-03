@@ -1073,7 +1073,7 @@ ul.docinfo.nomultiple.global {
   margin-bottom: 1em;
 }
 #feedback button + button {
-  margin-left: 0.5em;
+  margin-left: 0.5em !important;
 }
 #feedback .hide {
   display: none;
