@@ -119,7 +119,7 @@
             return
           }
           IGCMS.Eventable.sendGAEvent("feedback", "next", 1)
-          initStep3(donationText, questionInput.value, emailInput.value)
+          initStep3(donationText, questionInput.value, emailInput.value, 1)
         }, false)
         nextStepSkip.addEventListener("click", function () {
           if (emailInput.value || questionInput.value) {
@@ -127,19 +127,17 @@
               return
             }
           }
-          IGCMS.Eventable.sendGAEvent("feedback", "next", 0)
-          initStep3(donationText)
+          initStep3(donationText, "", "", 0)
         }, false)
         wrapper.appendChild(nextStepDt)
         wrapper.appendChild(nextStepDd)
       },
-      initStep3 = function (donationText, answer, email) {
-        if (answer) {
-          IGCMS.Eventable.sendGAEvent("feedback", "answer", answer)
-        }
+      initStep3 = function (donationText, answer, email, next) {
+        var feedback = answer
         if (email) {
-          IGCMS.Eventable.sendGAEvent("feedback", "email", email)
+          feedback = email + ": " + answer
         }
+        IGCMS.Eventable.sendGAEvent("feedback", "value", feedback, next)
         wrapper.innerHTML = origContent
         wrapper.getElementsByTagName("p")[0].innerText = donationText
       },
