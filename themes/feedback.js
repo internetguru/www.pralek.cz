@@ -64,10 +64,6 @@
           questionInput.setCustomValidity("")
           questionInput.reportValidity()
         }
-        questionInput.oninvalid = function () {
-          questionInput.setCustomValidity("Položka je povinná")
-          questionInput.reportValidity()
-        }
         questionDt.appendChild(questionLabel)
         questionInput.id = "feedback-text"
         questionInput.setAttribute("placeholder", placeholder)
@@ -106,6 +102,8 @@
         nextStepDd.appendChild(nextStepSkip)
         nextStepNext.addEventListener("click", function () {
           if (!validateInput(questionInput)) {
+            questionInput.setCustomValidity("Položka je povinná")
+            questionInput.reportValidity()
             return
           }
           if (!validateInput(emailInput, true)) {
