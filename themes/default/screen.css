@@ -307,6 +307,9 @@ a.tag:before,
 .contentbalancer-simple {
   margin: 2.5em 0;
 }
+#feedback .contentbalancer-simple {
+  padding-left: 0;
+}
 .contentbalancer-simple ul {
   list-style: none;
   padding: 0;
@@ -325,7 +328,7 @@ a.tag:before,
   /* min-width: 14em; */
 }
 .contentbalancer-simple ul li a {
-  margin: 1em 0;
+  /* margin: 1em 0; */
 }
 /***************************/
 a.tag[href]:hover:before {
@@ -395,7 +398,7 @@ dl.toptags dd {
   overflow: hidden;
   margin-left: 0;
 }
-.author .contentbalancer-simple a,
+.contentbalancer-simple a,
 .filter .button {
   vertical-align: middle;
   border-width: 0.1em;
