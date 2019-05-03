@@ -141,7 +141,7 @@
         IGCMS.Eventable.sendGAEvent("feedback", "value", feedback, next)
         wrapper.parentNode.removeChild(wrapper)
         for (var i = 0; i < feedbackElm.children.length; i++) {
-          feedbackElm.children.item(i).style.display = "none"
+          feedbackElm.children.item(i).style.display = ""
         }
         feedbackElm.getElementsByTagName("p")[0].innerText = donationText
       },
@@ -168,7 +168,6 @@
         yesButton.addEventListener("click", processYes, false)
         noButton.addEventListener("click", processNo, false)
 
-        feedbackElm.innerHTML = ""
         feedbackElm.appendChild(wrapper)
       }
 
