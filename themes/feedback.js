@@ -59,7 +59,7 @@
         var questionInput = getElm("textarea")
         
         questionLabel.setAttribute("for", "feedback-text")
-        questionInput.setAttribute("pattern", "^.*[^\s]+.*$")
+        questionInput.setAttribute("pattern", ".*\w{2,}.*")
         questionInput.oninput = function () {
           questionInput.setCustomValidity("")
           questionInput.reportValidity()
