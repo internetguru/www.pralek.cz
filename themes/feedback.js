@@ -6,6 +6,7 @@
       var
       wrapper = null,
       origContent = null,
+      feedbackElm = null,
       Config = {
         elmSelector: null
       },
@@ -138,13 +139,19 @@
           feedback = answer + "\nEmail: " + email
         }
         IGCMS.Eventable.sendGAEvent("feedback", "value", feedback, next)
-        wrapper.innerHTML = origContent
-        wrapper.getElementsByTagName("p")[0].innerText = donationText
+        wrapper.parentNode.removeChild(wrapper)
+        for (var i = 0; i < feedbackElm.children.length; i++) {
+          feedbackElm.children.item(i).style.display = "none"
+        }
+        feedbackElm.getElementsByTagName("p")[0].innerText = donationText
       },
       init = function () {
-        var feedbackElm = document.querySelector(Config.elmSelector)
+        feedbackElm = document.querySelector(Config.elmSelector)
         if (!feedbackElm) {
           return
+        }
+        for (var i = 0; i < feedbackElm.children.length; i++) {
+          feedbackElm.children.item(i).style.display = "none"
         }
         origContent = feedbackElm.innerHTML
 
