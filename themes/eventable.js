@@ -57,6 +57,9 @@
             if (value != "") {
               value += "\n"
             }
+            if (inputs[i].type == "hidden") {
+              continue
+            }
             value = value + (inputs[i].name || inputs[i].nodeName) + ":" + inputs[i].value
           }
           sendGAEvent(category, action, label, value)
