@@ -336,7 +336,9 @@
                   IGCMS.Completable.clearSelection(navig);
                 }
                 localList.onmouseout = null;
-                navig.form.submit();
+                var event = document.createEvent('Event');
+                event.initEvent('submit', true, true);
+                navig.form.dispatchEvent(event);
               }
             })();
             list.appendChild(li);
