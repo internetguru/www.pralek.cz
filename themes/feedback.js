@@ -26,7 +26,7 @@
         if (optional && inputElm.value == "") {
           return true
         }
-        if (inputElm.value != "" && inputElm.checkValidity()) {
+        if (inputElm.checkValidity()) {
           return true
         }
         inputElm.reportValidity()
