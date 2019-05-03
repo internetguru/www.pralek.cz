@@ -60,7 +60,6 @@
         
         questionLabel.setAttribute("for", "feedback-text")
         questionInput.setAttribute("pattern", ".*\w+.*")
-        questionInput.setCustomValidity("Položka je povinná")
         questionDt.appendChild(questionLabel)
         questionInput.id = "feedback-text"
         questionInput.setAttribute("placeholder", placeholder)
@@ -99,8 +98,10 @@
         nextStepDd.appendChild(nextStepSkip)
         nextStepNext.addEventListener("click", function () {
           if (!validateInput(questionInput)) {
+            questionInput.setCustomValidity("Položka je povinná")
             return
           }
+          questionInput.setCustomValidity("")
           if (!validateInput(emailInput, true)) {
             return
           }
