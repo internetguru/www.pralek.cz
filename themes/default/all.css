@@ -42,12 +42,13 @@ div.list {
 }
 /***************************/
 dl.figure {
-  display: -webkit-inline-flex;
-  display: -ms-inline-flexbox;
-  display: inline-flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 35em;
   text-align: center;
 }
 dl.figure dt {
@@ -279,3 +280,4 @@ p.filter {
   display: none;
 }
 /***************************/
+
