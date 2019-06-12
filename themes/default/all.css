@@ -46,8 +46,9 @@ dl.figure {
   display: -ms-flexbox;
   display: flex;
   -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 35em;
   text-align: center;
 }
 dl.figure dt {
@@ -150,7 +151,7 @@ h1 + p {
 /***************************/
 dl.figure dt object {
   width: 100%;
-  /* width: 35em; */
+  width: 35em;
 }
 dl.figure.author {
   display: block;
@@ -279,3 +280,4 @@ p.filter {
   display: none;
 }
 /***************************/
+
