@@ -57,8 +57,8 @@ dl.figure dt {
   display: inline-flex;
   min-height: 12em;
   -webkit-align-self:  center;
-      -ms-flex-item-align:  center;
-          align-self:  center;
+  -ms-flex-item-align:  center;
+  align-self:  center;
 }
 dl.figure dt img {
   object-fit: cover;
@@ -150,6 +150,7 @@ h1 + p {
 /***************************/
 dl.figure dt object {
   width: 100%;
+  width: 35em;
 }
 dl.figure.author {
   display: block;
