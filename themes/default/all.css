@@ -42,9 +42,9 @@ div.list {
 }
 /***************************/
 dl.figure {
-  display: -webkit-inline-flex;
-  display: -ms-inline-flexbox;
-  display: inline-flex;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
@@ -150,7 +150,7 @@ h1 + p {
 /***************************/
 dl.figure dt object {
   width: 100%;
-  width: 35em;
+  /* width: 35em; */
 }
 dl.figure.author {
   display: block;
