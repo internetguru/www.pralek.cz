@@ -11,12 +11,7 @@
   <stylesheet>themes/iefix.css</stylesheet>
 
   <favicon>themes/icon/Lovoo_Icon_Heart.ico</favicon>
-  <var id="robots" modifyonly="modifyonly">noindex,nofollow</var>
-  <robots domain="*.pralek.cz" meta="noindex, nofollow">User-agent: *
-Disallow: /</robots>
-  <robots domain="www.pralek.cz" meta="all">User-agent: *
-Disallow:</robots>
-  
+ 
   <xslt>themes/default/h1desc.xsl</xslt>
   <xslt>themes/pralek.xsl</xslt>
   <xslt>themes/delna.xsl</xslt>
