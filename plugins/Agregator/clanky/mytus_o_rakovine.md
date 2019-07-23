@@ -47,6 +47,8 @@ Z laického pohledu tak vzniká _mýtus_, že viditelné zhoršení zdravotního
 
 ## Rakovina či zcela nezávažné onemocnění
 
+<!-- Comment, REMOVEME -->
+
 Výše zmíněné nejasné příznaky bývají často **známkou i zcela banálního onemocnění**. Tuto jistotu lze však získat jen po poradě s lékařem.
 
 Je mnoho typů [zhoubných i nezhoubných nádorů][13], které se mohou projevovat výše uvedenými příznaky. I zhoubné nádory jsou ve většině případů tím lépe léčitelné, čím dříve jsou odhaleny.
