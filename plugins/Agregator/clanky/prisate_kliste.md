@@ -11,29 +11,33 @@
 
 Přisáté klíště je možné odstranit několika způsoby. Případná nákaza se projeví až následnými příznaky.
 
-Klíště může být přenašečem dvou [infekčních chorob][1] – virového zánětu mozku nebo bakteriové boreliózy. Přisátím může nemoc přenést na člověka. Přisátí klíštěte můžeme předejít vhodným oblečením pro pobyt v přírodě a různými chemickými přípravky k odpuzování hmyzu.
+Klíště může být přenašečem dvou [infekčních chorob][1] – virového zánětu mozku _(klíšťová encefalitida)_ nebo bakteriové boreliózy. Přisátím může klíště nemoc přenést na člověka.
+
+{class="example"}
+
+Přisátí klíštěte můžeme předejít vhodným oblečením pro pobyt v přírodě a různými chemickými přípravky k odpuzování hmyzu.
 
 {id="odstraneni\_prisateho\_klistete"}
 
 ## Odstranění přisátého klíštěte
 
-n/a
+Přisáté klíště je třeba neodkladně a přitom šetrně odstranit. K tomu se hodí například sada k odstranění klíštěte s návodem na použití (k dostání v lékárnách). Na odstranění klíštěte není třeba chvátat, neboť případná infekce vstupuje do rány už v okamžiku zakousnutí.
 
-Přisáté klíště je třeba neodkladně a přitom šetrně odstranit například pomocí sady k odstranění klíštěte s návodem na použití (k dostání v lékárnách). K zahubení klíštěte dobře poslouží také alkoholová desinfekce nebo jakákoli mast.
+K zahubení klíštěte také dobře poslouží alkoholová desinfekce nebo jakákoli mast. Udušené klíště se pak dá z kůže snadno **odstranit šetrným kývavým pohybem**.
 
-Udušené klíště se dá z kůže snadno **odstranit šetrným kývavým pohybem**. Na svém ostrém sosáku má klíště zpětné háčky (nikoli vruty). Proto **jej nelze vytočit** ani ve směru ani proti směru hodinových ručiček. Tím naopak často zůstane část klíštěte v ráně.
+{class="important"}
 
-Po odstranění klíštěte zůstává vždy kolem místa poranění zarudlý pupínek. Jedná se o běžnou reakci na látku proti srážení krve, kterou klíště vstříklo do kůže v okamžiku zakousnutí. Na odstranění klíštěte není třeba chvátat, neboť případná infekce vstupuje do rány v okamžiku zakousnutí (spolu s uvedenou látkou).
+Na svém ostrém sosáku má klíště zpětné háčky, **nikoli vruty**. Proto **jej nelze vytočit** ani ve směru ani proti směru hodinových ručiček. Tím naopak často zůstane část klíštěte v ráně.
+
+Po odstranění klíštěte zůstává vždy kolem místa poranění zarudlý pupínek. Jedná se o běžnou reakci na látku proti srážení krve, kterou klíště vstříklo do kůže v okamžiku zakousnutí.
 
 {id="pocatecni\_priznaky\_onemocneni"}
 
 ## Počáteční příznaky onemocnění
 
-n/a
+Známkou nakažení boreliózou je až postupně se rozšiřující **začervenalá skvrna (mapa), která směrem k centru bledne**. V případě nejasnosti po odstranění klíštěte je lepší vyhledat lékaře. Laboratorní vyšetření vyloučí nebo potvrdí nákazu boreliózou a léčení nebývá složité. Problémy vznikají v případě rozvinutí nepoznané boreliózy.
 
-Známkou nakažení boreliózou je až postupně se rozšiřující **začervenalá skvrna (mapa), která směrem k centru bledne**. V případě nejasnosti po odstranění klíštěte je vždy lépe vyhledat lékaře. Laboratorní vyšetření vyloučí nebo potvrdí nákazu boreliózou a léčení nebývá složité. Problémy vznikají v případě rozvinutí nepoznané boreliózy.
-
-Další chorobou, kterou může klíště na člověka přenést je virový zánět mozku (klíšťová encefalitida). Jejími projevy jsou **[bolest hlavy][2], [teplota][3], ztvrdnutí šíje**. Jedná se o závažné onemocnění, proti kterému je možné se očkovat. Informace o očkování poskytuje praktický lékař.
+Další chorobou, kterou může klíště na člověka přenést je virový zánět mozku. Jeho projevy jsou **[bolest hlavy][2], [teplota][3], [ztvrdnutí šíje][4]**. Jedná se o závažné onemocnění, proti kterému se lze očkovat. Informace o očkování poskytuje praktický lékař.
 
 {class="example"}
 
@@ -51,9 +55,9 @@ n/a
 
   1. Čím je ohrožen člověk, který má přisáté klíště?
   2. Na kterou stranu se musí při odstraňování klíště vytočit?
-  3. Jací jsou mimo klíště další přenašeči boreliózy?
-  4. Jací jsou mimo klíště další přenašeči klíšťové encefalitidy?
-  5. Jaké jsou první příznaky boreliózy?
+  3. Jaké jsou první příznaky boreliózy?
+  4. Jací jsou mimo klíště další přenašeči boreliózy?
+  5. Jací jsou mimo klíště další přenašeči klíšťové encefalitidy?
 
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
@@ -74,4 +78,5 @@ n/a
  [1]: mikroorganizmy
  [2]: bolest_hlavy_migrena
  [3]: teplota
+ [4]: akutni_torticollis
 
