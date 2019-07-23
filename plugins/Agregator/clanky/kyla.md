@@ -11,15 +11,15 @@
 
 Plánovaná operace kýly časně po potvrzení diagnózy je jediným správným řešením problému. Ostatní řešení jsou pouze dočasná a nevyhnutelnou operaci mohou pouze zkomplikovat.
 
-Kýla je boulička způsobená vniknutím útrob do podkoží defektem břišní stěny – _kýlní brankou_. Defekt břišní stěny vzniká v typických místech neúměrně prudkým stažením břicha. Nejčastější příčinou bývá zvedání břemene, [kašel][1], [kýchání][2] nebo [tlačení na stolici][3].
+Kýla je boulička způsobená vniknutím útrob do podkoží defektem břišní stěny neboli _kýlní brankou_. Defekt břišní stěny vzniká v typických místech neúměrně prudkým stažením břicha. Nejčastější příčinou bývá zvedání břemene, [kašel][1], [kýchání][2] nebo [tlačení na stolici][3].
+
+{class="important"}
 
 Defekt může vzniknout v okamžiku jednorázové námahy nebo se tvoří dlouhodobě opakovaným přetěžováním. Samotná **tvorba defektu je vždy spojená s místní bolestí**. Pokud je to možné a pacient se bolestivým pohybům vyhne, defekt (kýla) se nemusí vůbec vytvořit.
 
 {id="projevy\_vyskyt\_a\_prubeh\_leceni_kyly"}
 
 ## Projevy, výskyt a průběh léčení kýly
-
-n/a
 
 Kýla se nejčastěji projevuje jako [boulička v třísle][4], v jizvě, v pupku nebo v jeho okolí. Vytvořená kýla již většinou nebolí a nečiní jiné než kosmetické potíže. Její velikost se mění v závislosti na namáhání břišních svalů _(užívání břišního lisu)_.
 
@@ -31,17 +31,17 @@ Kýla se vyskytuje v každém věku – od novorozeneckého jako vrozená až po
 
 ## Komplikace spojené s kýlou
 
-n/a
+Strach a nejistota mohou vést k odkládání operace. Mimo operace jsou jakékoliv pokusy o napravení kýly zbytečné a mohou vést k dalším komplikacím.
 
-Strach a nejistota mohou vést k odkládání operace. Pacient se často naučí sám kýlu napravovat. Stlačením bouličky přesune obsah kýlního vaku zpět do dutiny břišní. Takové řešení je však pouze provizorní stejně jako kýlní pas, který může pomoci snad jen krátkodobě v individuálních případech.
+Pacient se často naučí sám kýlu napravovat. Stlačením bouličky přesune obsah kýlního vaku zpět do dutiny břišní. Takové řešení je však pouze provizorní stejně jako kýlní pas, který může pomoci snad jen krátkodobě v individuálních případech.
 
 {class="important"}
 
 I přes veškeré snahy se časem **kýla neustále pomalu zvětšuje**. Může nabýt i bizarních rozměrů tím, že se do vaku dostává stále více útrob.
 
-Kdykoli mohou vzniknout komplikace projevující se bolestí či zatvrdnutím kýly, často i [zvracením][5] nebo až [střevní neprůchodností][6]. Nejčastěji se jedná o **zaškrcení obsahu kýlního vaku v kýlní brance** – _uskřinutá kýla_. Střevo se před překážkou rozpíná, břicho se nadýmá a intenzivně bolí.
+Kdykoli mohou vzniknout komplikace projevující se bolestí či zatvrdnutím kýly, často i [zvracením][5] nebo až [střevní neprůchodností][6]. Nejčastěji se jedná o **zaškrcení obsahu kýlního vaku v kýlní brance** neboli _uskřinutá kýla_. Střevo se před překážkou rozpíná, břicho se nadýmá a intenzivně bolí.
 
-Pacient s uskřinutou kýlou vnímá pocit zástavy větrů a posléze začíná zvracet. Tehdy je již operace neodkladná, avšak složitější – život zachraňující. Neplánovaná operace navíc typicky nastává pro pacienta v nevhodnou dobu (pozdní věk, dovolená, svátky a podobně).
+Pacient s uskřinutou kýlou vnímá pocit zástavy větrů a posléze začíná zvracet. Tehdy je již operace neodkladná, avšak složitější a život zachraňující. Neplánovaná operace navíc typicky nastává pro pacienta v nevhodnou dobu (pozdní věk, dovolená, svátky a podobně).
 
 {id="otazky" var="inputvar-otazky_h"}
 
