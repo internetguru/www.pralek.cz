@@ -18,7 +18,7 @@ Srdce pumpuje krev. Žílami ji nabírá a tepnami ji rozvádí zpět do celého
 
 {class="example"}
 
-Rozdíl tlaků mezi systolou a diastolou se přenáší na tepny. Tím je srdeční akce _(puls)_ měřitelná na všech hmatných tepnách, nejsnáze na palcové straně zápěstí.
+Rozdíl tlaků mezi systolou a diastolou se přenáší na tepny. Tím je akce srdeční _(puls)_ měřitelná na všech hmatných tepnách, nejsnáze na palcové straně zápěstí.
 
 **Krevní tlak je vyjádřený dvěma čísly**: systolický tlak (vyšší hodnota) a diastolický tlak (nižší hodnota). K měření krevného tlaku slouží přístroj zvaný _tonometr_.
 
