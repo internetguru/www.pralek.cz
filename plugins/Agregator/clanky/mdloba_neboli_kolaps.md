@@ -52,11 +52,15 @@ Zkolabovaný člověk s poruchou dýchání
 
 ## Specifické příčiny kolapsu a první pomoc
 
+<!-- KOMENTÁŘ: přidat popisek -->
+
 n/a
 
 Nemocný [cukrovkou][4] (diabetik)
 :  Pozvolna ztrácí vědomí v případě příliš nízké hladiny cukru v krvi.
 :  Jako první pomoc **potřebuje neprodleně cukr**, a to nejlépe formou sladkého nápoje.
+
+<!-- KOMENTÁŘ: jaká je první pomoc určitého onemocnění srdce (níže)? -->
 
 Určitá [onemocnění srdce][5]
 :  Způsobí poruchu vědomí tím, že srdce nedostatečně pumpuje krev a mozek nedostává dostatek okysličené krve.
