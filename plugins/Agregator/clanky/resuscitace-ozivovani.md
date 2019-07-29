@@ -57,8 +57,6 @@ Podstatné je, **zahájit resuscitaci co nejdříve**. Do 2 minut zahájené ož
 
 {id="proces\_ozivovani\_kolaps"}
 
-(( KOMENTÁŘ: Je to opravdu kolaps? Nevím jak to napsat lépe. ))
-
 ## Proces oživování při kolapsu
 
 Člověk upadne do bezvědomí v případě poruchy funkce mozku. Nejčastější a zároveň nejjednodušší porucha vědomí je [mdloba neboli kolaps][4], způsobená nedostatečným prokrvením mozku z důvodu náhlého snížení krevního tlaku.
