@@ -412,8 +412,10 @@ dl.toptags dd {
 .author .contentbalancer-simple li {
   margin-top: 1em;
 }
-.author .contentbalancer-simple li:first-child {
-  margin-right: 1em;
+@media all and (min-width: 42em) {
+  .author .contentbalancer-simple li:first-child {
+    margin-right: 1em;
+  }
 }
 #feedback button:first-child,
 .author .contentbalancer-simple a {
