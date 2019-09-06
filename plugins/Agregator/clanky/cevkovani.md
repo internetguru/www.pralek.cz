@@ -18,7 +18,7 @@ Příčiny retence moči jsou
   * ucpání močové trubice např. krevní sraženinou a
   * porucha nervového zásobení močového měchýře.
 
-Cévka je sterilní trubička, kterou je z močového měchýře vypouštěna moč. Je vždy na jedno použití. Cévkování je jednoduchý nebolestivý zákrok, který je nepříjemný a obtěžuje převážně studem. 
+Cévka je sterilní trubička, kterou je z močového měchýře vypouštěna moč. Je vždy na jedno použití. Cévkování je jednoduchý nebolestivý zákrok, který je nepříjemný a obtěžuje převážně studem.
 
 {class="example"}
 
@@ -42,7 +42,7 @@ V případě očekávaných, opakovaných nebo dlouhodobých problémů s retenc
 
 Hlavní hadička odvádí moč. Druhá tenká hadička má na zevním ústí ventilek, kterým se po zavedení cévky naplňuje malý balónek v měchýři. Po naplnění balónku (5 až 10 ml vody) nemůže cévka vypadnout, a tedy ji nelze z měchýře vytáhnout ani vytrhnout.
 
-Močová cévka je následně napojena průhlednou hadičkou na kalibrovaný průhledný sběrný vak. Lze tedy sledovat množství moči i její eventuální příměsi. Moč přitéká do vaku průběžně podle toho, jak rychle je tvořena ledvinami. V močovém měchýři se tedy žádná moč neudržuje. Jedná se o uzavřený systém, který nepáchne a nijak neobtěžuje pacienta ani jeho okolí. 
+Močová cévka je následně napojena průhlednou hadičkou na kalibrovaný průhledný sběrný vak. Lze tedy sledovat množství moči i její eventuální příměsi. Moč přitéká do vaku průběžně podle toho, jak rychle je tvořena ledvinami. V močovém měchýři se tedy žádná moč neudržuje. Jedná se o uzavřený systém, který nepáchne a nijak neobtěžuje pacienta ani jeho okolí.
 
 Cévku lze v měchýři ponechat asi 4 až 5 týdnů, pak je ji třeba vyměnit. Postupně se totiž na cévce usazují různé organické a anorganické látky, které by způsobily nepříjemné komplikace. Pokud se cévka vyměňuje, je nejprve nutné ventilkem vypustit obsah balónku. Pak lze cévku snadno vytáhnout.
 
@@ -70,7 +70,7 @@ n/a
 
   1. Kdy je nutné zavést pacientovi cévku?
   2. Jaký je rozdíl mezi cévkou k jednorázovému vycévkování a trvalou cévkou?
-  3. Proč nelze trvalou cévku vytrhnout z močového měchýře? 
+  3. Proč nelze trvalou cévku vytrhnout z močového měchýře?
   4. Za jak dlouho a proč je třeba vyměnit trvalou cévku?
 
 {id="odkazy" var="inputvar-odkazy_h" class="filter"}
@@ -89,9 +89,9 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: http://www.pralek.cz/prostata
- [2]: http://www.pralek.cz/zanet_mocoveho_mechyre
- [3]: http://www.pralek.cz/penis-fimoza-obrizka
- [4]: http://www.pralek.cz/mikroorganizmy
- [5]: https://www.pralek.cz/lecba_zanetu
+ [1]: /prostata
+ [2]: /zanet_mocoveho_mechyre
+ [3]: /penis-fimoza-obrizka
+ [4]: /mikroorganizmy
+ [5]: /lecba_zanetu
 
