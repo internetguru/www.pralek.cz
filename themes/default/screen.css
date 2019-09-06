@@ -304,6 +304,23 @@ a.tag:before,
   background: #c5cae9;
 }
 /***************************/
+dl.clanek[data-new] > dt:first-child {
+  position: relative;
+}
+dl.clanek[data-new] > dt:first-child:after  {
+  content: "Nový článek";
+  background: rgba(255, 255, 255, 0.8);
+  position: absolute;
+  bottom: 0.5em;
+  right: 0.5em;
+  z-index: 1;
+  pointer-events: none;
+  padding: 0.25em 0.5em;
+  border-radius: 0.3em;
+  color: black;
+  font-weight: 500;
+}
+/***************************/
 .contentbalancer-simple {
   margin: 2.5em 0;
 }
