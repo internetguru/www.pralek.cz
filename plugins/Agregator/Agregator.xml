@@ -5,7 +5,7 @@
   <var modifyonly="modifyonly" id="modified">Tento článek byl revidován <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
 
   <doclist id="stitek" path="clanky" filter-name="top">
-    <dl class="clanek">
+    <dl class="clanek %s" var="new@class">
       <dt><a title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=image"><img var="image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
