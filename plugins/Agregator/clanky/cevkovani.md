@@ -89,9 +89,9 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: /prostata
- [2]: /zanet_mocoveho_mechyre
- [3]: /penis-fimoza-obrizka
- [4]: /mikroorganizmy
- [5]: /lecba_zanetu
+ [1]: prostata
+ [2]: zanet_mocoveho_mechyre
+ [3]: penis-fimoza-obrizka
+ [4]: mikroorganizmy
+ [5]: lecba_zanetu
 
