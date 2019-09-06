@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://beta.pralek.cz/</loc>
-    <lastmod>2019-06-09T16:34:12+02:00</lastmod>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
   </url>
   <url>
     <loc>http://beta.pralek.cz/o_praleku</loc>
-    <lastmod>2019-06-09T16:34:12+02:00</lastmod>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
   </url>
   <url>
     <loc>http://beta.pralek.cz/upozorneni</loc>
-    <lastmod>2019-06-09T16:34:12+02:00</lastmod>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
   </url>
   <url>
     <loc>http://beta.pralek.cz/karpalni_syndrom</loc>
@@ -106,7 +106,7 @@
   </url>
   <url>
     <loc>http://beta.pralek.cz/cukrovka</loc>
-    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+    <lastmod>2019-07-04T15:21:37+02:00</lastmod>
   </url>
   <url>
     <loc>http://beta.pralek.cz/podvrtnuti_kotniku</loc>
@@ -351,6 +351,10 @@
   <url>
     <loc>http://beta.pralek.cz/natazeni_natrzeni_svalu</loc>
     <lastmod>2019-06-09T16:34:12+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.pralek.cz/cevkovani</loc>
+    <lastmod>2019-09-06T18:46:45+02:00</lastmod>
   </url>
   <url>
     <loc>http://beta.pralek.cz/kyla</loc>
