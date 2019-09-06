@@ -57,7 +57,7 @@ n/a
   * Jestliže dávku inzulínu nenásleduje patřičný příjem potravy, dojde spotřebováním cukru z krve k nadměrnému poklesu jeho hladiny – **hypoglykémie**.
   * Jestli si diabetik nepodá inzulín a nasytí se sladkým jídlem, hladina cukru v jeho krvi se může mnohonásobně zvýšit – **hyperglykémie**.
 
-V obou případech může následovat pocení, nevolnost až s následným [bezvědomím][4]. Zachránce nepozná, zda se jedná o příliš vysokou či nízkou hladinu cukru. Hrozícímu **kolapsu lze předejít podáním sladkého nápoje**. V případě hyperglykémie podaný cukr nepomůže ale neublíží a v případě mnohem častější hypoglykémie podaný cukr zachríní život.
+V obou případech může následovat pocení, nevolnost až s následným [bezvědomím][4]. Zachránce nepozná, zda se jedná o příliš vysokou či nízkou hladinu cukru. Hrozícímu **kolapsu lze předejít podáním sladkého nápoje**. V případě hyperglykémie podaný cukr nepomůže ale neublíží a v případě mnohem častější hypoglykémie podaný cukr zachrání život.
 
 {id="otazky" var="inputvar-otazky_h"}
 
