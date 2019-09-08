@@ -325,6 +325,7 @@ dl.clanek[data-new] > dt:first-child:after  {
   -webkit-transform: rotate(-45deg);
   font-weight: 500;
   z-index: 1;
+  pointer-events: none;
 }
 /***************************/
 .contentbalancer-simple {
