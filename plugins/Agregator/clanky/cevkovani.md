@@ -5,7 +5,7 @@
 
 # Cévkování močového měchýře
 
-{kw="ledviny, močovod, močový měchýř, retence moči, močová cévka, cévkování, katetrizace, močový katetr, vycévkování, potíže"}
+{kw="ledviny, močová soustava, močový měchýř, retence moči, močová cévka, cévkování, katetrizace, močový katetr, vycévkování, potíže"}
 
 Pokud má pacient plný močový měchýř a nemůže se vymočit, jedná se o retenci moči. Pak je nutné moč vypustit cévkou, pacienta tzv. vycévkovat. V určitých případech se močová cévka zavádí také preventivně nebo z hygienických důvodů.
 
