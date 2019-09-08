@@ -1136,6 +1136,6 @@ ul.docinfo.nomultiple.global {
 #feedback button:first-child {
   border: none;
 }
-p, div, ul, ol, dl {
+p:not(.description), div:not(.list), .author ul, ol, dl {
   clear: both;
 }
