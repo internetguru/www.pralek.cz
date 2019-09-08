@@ -304,21 +304,27 @@ a.tag:before,
   background: #c5cae9;
 }
 /***************************/
+dl.clanek[data-new] {
+  overflow: hidden;
+}
 dl.clanek[data-new] > dt:first-child {
   position: relative;
 }
 dl.clanek[data-new] > dt:first-child:after  {
-  content: "Nový článek";
-  background: rgba(255, 255, 255, 0.8);
+  content: "Nový";
+  width: 12em;
+  background: #4CAF50;
   position: absolute;
-  bottom: 0;
-  right: 0;
-  z-index: 1;
-  pointer-events: none;
-  padding: 0.25em 0.5em;
-  border-radius: 0.3em 0 0 0;
-  color: black;
+  top: 1em;
+  left: -4em;
+  text-align: center;
+  line-height: 2em;
+  letter-spacing: 0.075em;
+  color: #f0f0f0;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
   font-weight: 500;
+  z-index: 1;
 }
 /***************************/
 .contentbalancer-simple {
