@@ -316,9 +316,9 @@ dl.clanek[data-new] > dt:first-child:after  {
   background: #4CAF50;
   position: absolute;
   top: 1em;
-  left: -4em;
+  left: -3.9em;
   text-align: center;
-  line-height: 2em;
+  line-height: 2.4em;
   letter-spacing: 0.075em;
   color: #f0f0f0;
   transform: rotate(-45deg);
