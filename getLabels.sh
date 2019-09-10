@@ -11,10 +11,12 @@ echo
 echo "--- link-labels ---"
 for f in plugins/Agregator/clanky/*.html; do
   #id="$(hxselect -c "body > h::attr(id)" < "$f")"
+  cnt=0
   while read -r kw; do
     fname="${f##*/}"
     fname="${fname%.html}"
-    echo -e "$fname;$kw"
+    cnt=$((cnt+1))
+    echo -e "$fname;$kw;$cnt"
   done <<< "$(hxselect -c "body > h + desc::attr(kw)" < "$f" | tr "," $'\n' | sed 's/^ *\| *$//')"
 done
 
