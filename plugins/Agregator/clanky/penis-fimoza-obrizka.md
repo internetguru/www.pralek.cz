@@ -7,7 +7,7 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="močová soustava, dětské, ošetření, prevence, zánět, poranění, orgány, nemoc"}
+{kw="močová soustava, dětské, ošetření, prevence, zánět, poranění, orgány, nemoc, moč"}
 
 Péče o penis již od útlého věku je podmínkou jeho správného dalšího vývoje. Tím se zamezí vzniku zánětu a hlavně následných komplikací a potíží v dospívání.
 

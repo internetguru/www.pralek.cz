@@ -7,7 +7,7 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="zánět, imunita, mikroorganizmy, teplota, nemoc, ušní-nosní-krční, prevence"}
+{kw="zánět, imunita, mikroorganizmy, teplota, nemoc, ušní-nosní-krční, prevence, moč"}
 
 Bakterie, které imunitní systém vyhodnotí jako nežádoucí, jsou likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud dočasně mikroorganizmy vítězí (to se projevuje příznaky zánětu).
 

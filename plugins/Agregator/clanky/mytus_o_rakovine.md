@@ -7,7 +7,7 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="mýty, břicho, nádory, ošetření, zhoubné, orgány, bolest, poranění"}
+{kw="mýty, břicho, nádory, ošetření, zhoubné, orgány, bolest, poranění, moč, strach"}
 
 Rakovina je tím lépe léčitelná, čím dříve je odhalená. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací.
 

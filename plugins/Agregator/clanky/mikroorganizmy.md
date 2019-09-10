@@ -7,7 +7,7 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="mikroorganizmy, antibiotika, teplota, zánět, nemoc, strava-zažívání, zvracení"}
+{kw="mikroorganizmy, antibiotika, teplota, zánět, nemoc, strava-zažívání, zvracení, moč"}
 
 Dostanou-li se jinak prospěšné bakterie do míst, kam nepatří, mohou způsobit nemoc. Jsou-li správné bakteriální kmeny na správném místě, pak vzniká oboustranně prospěšná spolupráce a tělo funguje jak má. Přirozená bakteriální flóra bývá vždy narušena užíváním antibiotik.
 

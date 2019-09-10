@@ -7,7 +7,7 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="bolest, cévy, nemoc, látková výměna, neúrazové, pohyb, orgány, prevence, mikroorganizmy, strava-zažívání, úrazy, teplota, zánět"}
+{kw="bolest, cévy, nemoc, látková výměna, neúrazové, pohyb, orgány, prevence, mikroorganizmy, strava-zažívání, úrazy, teplota, zánět, strach"}
 
 Nejkrutější bolestí hlavy je migréna. Řešením je včasné podání vhodného léku proti bolesti. Běžná bolest hlavy má svou příčinu a nemusí se vyvíjet tak dramaticky. Ideálním řešením je odstranit příčinu bolesti než bolest tlumit léky.
 

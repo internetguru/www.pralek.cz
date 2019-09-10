@@ -7,7 +7,7 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="nádory, neúrazové, nezhoubné, nemoc, břicho, kůže-podkoží, bolest, cévy"}
+{kw="nádory, neúrazové, nezhoubné, nemoc, břicho, kůže-podkoží, bolest, cévy, moč, strach"}
 
 Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Preventivní odstranění některých nádorů se stalo rutinou, u ostatních většinou postačí pravidelné kontroly.
 

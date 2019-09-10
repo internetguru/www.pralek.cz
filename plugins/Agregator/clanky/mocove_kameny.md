@@ -7,7 +7,7 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="bolest, břicho, prevence, neúrazové, nemoc, krvácení, orgány, zánět, zvracení"}
+{kw="bolest, břicho, prevence, neúrazové, nemoc, krvácení, orgány, zánět, zvracení, moč"}
 
 V močovém ústrojí mohou vzniknout kameny. Tlakem moči a prodíráním se kamenu močovodem může vzniknout ledvinová kolika.
 
