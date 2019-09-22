@@ -5,8 +5,6 @@
 
 # Prostata: potíže s močením
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
 {kw="močová soustava, břicho, nádory, orgány, nemoc, zhoubné, nezhoubné, moč"}
 
 Zvětšená prostata je nejčastější příčinou potíží s močením. Při léčení jakýchkoli potíží s prostatou provádí urolog taková vyšetření, která prokáží nebo vyloučí i rakovinu prostaty. Největší problém tedy hrozí, jestliže se pacient se svými problémy vůbec neléčí.
@@ -33,10 +31,10 @@ n/a
 
 [Zánět prostaty][2] _(prostatitis)_ postihuje muže v mladším a středním věku a [je poměrně špatně léčitelný][3].
 
-  1. Zánět prostaty [bakteriálního původu][4] není časté onemocnění.
+  1. Zánět prostaty [bakteriálního původu][4] není časté onemocnění. 
       * Vzniká jako [komplikace infekce močových cest][5], nebo jako zánětlivá komplikace po pohlavním styku,
       * Většinou souvisí se zánětem močové trubice. Tehdy se projevuje pálením hlavně v začátku močení, nutkáním k častému močení, v těžších případech i horečkou.
-  2. Zánět prostaty nebakteriálního původu je ještě vzácnější.
+  2. Zánět prostaty nebakteriálního původu je ještě vzácnější. 
       * Jde o svízelné onemocnění vyprovokované například namožením prostaty neúměrně zatěžující jízdou na kole (přímý tlak sedla na prostatu).
       * Většinou se jedná o dlouhodobý (chronický) zánět.
       * Projevuje se potížemi při močení, slabým proudem moči a bolestmi konečníku vlivem tlaku zánětlivě zvětšené prostaty.
@@ -50,12 +48,12 @@ n/a
 
 Nezánětlivé zvětšení prostaty _(hypertrofie prostaty)_ je časté onemocnění mužů středního a vyššího věku, kdy se prostata chová [podobně jako nezhoubný nádor][7].
 
-  1. Dvojnásobné zvětšení může poněkud utiskovat [začátek močové trubice][1].
+  1. Dvojnásobné zvětšení může poněkud utiskovat [začátek močové trubice][1]. 
       * Projevuje se slábnoucím proudem moči při močení, obtížným spuštěním močení a nočním močením (2x za noc a více).
-  2. Nadměrné **zvětšování prostaty může až zcela zablokovat odtok moče** tlakem obsahu močového měchýře.
+  2. Nadměrné **zvětšování prostaty může až zcela zablokovat odtok moče** tlakem obsahu močového měchýře. 
       * Až při povolení tlaku na močení (po neúspěšném pokusu vymočit se) může z přeplněného měchýře samovolně odtékat malé množství moče. Měchýř ovšem zůstává stále přeplněný.
       * Nemožnost se vymočit [přivádí pacienta na urologii][8].
-      * Jednoduchým léčebným úkonem je „vycévkování“ – zavedení cévky močovou trubicí do močového měchýře. Tím dojde k vyprázdnění bolestivě přeplněného močového měchýře a k ustání bolestí.
+      * Jednoduchým léčebným úkonem je [vycévkování][9] – zavedení cévky močovou trubicí do močového měchýře. Tím dojde k vyprázdnění bolestivě přeplněného močového měchýře a k ustání bolestí.
       * Následně urolog provede patřičná vyšetření a dle výsledků doporučí další léčení.
       * Jednou z možností léčení značně zvětšené prostaty je i její operační odstranění, které pacienta nikterak neinvalidizuje (ani v sexuálním životě).
 
@@ -65,7 +63,7 @@ Nezánětlivé zvětšení prostaty _(hypertrofie prostaty)_ je časté onemocn�
 
 n/a
 
-Rakovina prostaty se projevuje podobnými potížemi jako zvětšená prostata. Postihuje muže vyššího věku a je dobře léčitelná, je-li odhalena včas. [Druhotná ložiska _(metastázy)_ rakoviny prostaty][7] totiž vznikají až v pokročilejším stádiu (tvoří se v plicích, v kostech a v mozku). Proto je nutné **s vyšetřením prostaty neotálet**.
+Rakovina prostaty se projevuje podobnými potížemi jako zvětšená prostata. Postihuje muže vyššího věku a je dobře léčitelná, je-li odhalena včas. [Druhotná ložiska _(metastázy)_ rakoviny prostaty][7] totiž vznikají až v pokročilejším stádiu (tvoří se v plicích, v kostech a v mozku). Proto je nutné **s vyšetřením prostaty neotálet**. 
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -108,4 +106,5 @@ n/a
  [6]: bolest_v_krku_angina
  [7]: nezhoubny_nebo_zhoubny_nador
  [8]: nalehavost_lekarskeho_vysetreni
+ [9]: cevkovani
 
