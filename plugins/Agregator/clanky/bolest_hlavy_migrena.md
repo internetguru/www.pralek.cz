@@ -5,9 +5,9 @@
 
 # Bolest hlavy, migréna
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="bolest, cévy, nemoc, látková výměna, neúrazové, pohyb, orgány, prevence, mikroorganizmy, strava-zažívání, úrazy, teplota, zánět, strach"}
+{kw="bolest, cévy, látková výměna, neúrazové, prevence, mikroorganizmy, strava-zažívání, úrazy, teplota, zánět, strach"}
 
 Nejkrutější bolestí hlavy je migréna. Řešením je včasné podání vhodného léku proti bolesti. Běžná bolest hlavy má svou příčinu a nemusí se vyvíjet tak dramaticky. Ideálním řešením je odstranit příčinu bolesti než bolest tlumit léky.
 
@@ -29,41 +29,41 @@ Migréna je následkem chybného prokrvení části mozku. Počínající bolest
 
 n/a
 
-  * používání nesprávných nebo znečištěných dioptrických brýlí;
+  * používání nesprávných nebo znečištěných dioptrických brýlí; 
       * Problémy může vyřešit [vyšetření očním lékařem][2] a nové (nebo jen vyčištěné) brýle.
-  * ztuhlá krční páteř;
+  * ztuhlá krční páteř; 
       * Pomůže [uvolnění krční páteře a její prohřátí][3], případně rehabilitační lékař.
-  * [zánětlivé ložisko][4] v zubu nebo v jeho okolí;
+  * [zánětlivé ložisko][4] v zubu nebo v jeho okolí; 
       * K odhalení příčiny je nutné vyšetření stomatologem.
-  * [přehřátí organizmu][5];
+  * [přehřátí organizmu][5]; 
       * Je třeba opustit horké prostředí, pomůže chladná sprcha nebo chladná místnost a příjem tekutin.
-  * [nedostatek tekutin][6];
+  * [nedostatek tekutin][6]; 
       * Stačí tekutiny doplnit (dostatečně se napít vody).
-  * požití zkažené potraviny nejčastěji [s pomnoženými mikroorganizmy][7];
+  * požití zkažené potraviny nejčastěji [s pomnoženými mikroorganizmy][7]; 
       * Je třeba vyhledat lékařskou pomoc.
-  * počátek [horečnatého onemocnění][5];
+  * počátek [horečnatého onemocnění][5]; 
       * Pomůže klid, teplo a příjem tekutin (nejlépe čaje).
-  * požití jedovaté potraviny (např. alkoholu);
+  * požití jedovaté potraviny (např. alkoholu); 
       * Pomůže se vyspat, hodně se napít (nejlépe čaje) a vyčkat, až se tělo jedů zbaví jejich rozložením a vyloučením.
-  * nadměrné [kouření tabáku][8], marihuany, heroinu;
+  * nadměrné [kouření tabáku][8], marihuany, heroinu; 
       * Pomůže čerstvý vzduch, klid a chladné tekutiny.
-  * [vysoký krevní tlak][9];
+  * [vysoký krevní tlak][9]; 
       * Po zaléčení vysokého tlaku a jeho normalizaci mohou bolesti hlavy ustat.
-  * požití velkého množství silně [aromatické potraviny][10] (například čerstvých zdravých hřibů);
+  * požití velkého množství silně [aromatické potraviny][10] (například čerstvých zdravých hřibů); 
       * Je třeba vyčkat, až se látky rozloží a vyloučí.
-  * [zadržování stolice][11];
+  * [zadržování stolice][11]; 
       * Stolici není dobré zadržovat a vyřešit péčí o pravidelnou stolici (nejlépe ráno).
-  * únava ze stereotypní vyčerpávající práce;
+  * únava ze stereotypní vyčerpávající práce; 
       * Je dobré dělat přestávky, zacvičit si a osvěžit se.
-  * únava z nadměrné aktivity (například během víkendu);
+  * únava z nadměrné aktivity (například během víkendu); 
       * Nezapomínat odpočívat i při zábavě.
-  * reakce na psychotrauma (leknutí, stres, rozčílení, strach, starost);
+  * reakce na psychotrauma (leknutí, stres, rozčílení, strach, starost); 
       * Dle závažnosti srovnat myšlenky nebo vyhledat psychologa.
-  * [poúrazová bolest hlavy][12];
+  * [poúrazová bolest hlavy][12]; 
       * Vždy je nutné vyhledat odborného lékaře (chirurga nebo neurologa).
-  * projevy závažných onemocnění jako [mozková mrtvice][13], [krvácení do mozku][14], mozkový nádor a jiné;
+  * projevy závažných onemocnění jako [mozková mrtvice][13], [krvácení do mozku][14], mozkový nádor a jiné; 
       * Bolest hlavy bývá neobvyklá (jiná než jindy) a _je nutné vyhledat lékaře_.
-  * pobyt v místnosti zakouřené tabákovým kouřem nebo zplodinami z kamen (CO);
+  * pobyt v místnosti zakouřené tabákovým kouřem nebo zplodinami z kamen (CO); 
       * Pomůže opustit místnost nebo řádně vyvětrat (případně požádat vrchního, aby pustil klimatizaci).
 
 {id="otazky" var="inputvar-otazky_h"}

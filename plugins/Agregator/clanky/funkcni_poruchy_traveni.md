@@ -5,9 +5,9 @@
 
 # Funkční poruchy trávení: zvracení, průjem, škytání, větry
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="strava-zažívání, zdravý životní styl, látková výměna, břicho, bolest, orgány, cévy, žaludek, prevence"}
+{kw="strava-zažívání, zdravý životní styl, látková výměna, břicho, bolest, cévy, žaludek, prevence"}
 
 Mnohým funkčním poruchám trávení lze předejít dodržováním správných stravovacích návyků.
 
@@ -36,7 +36,7 @@ Průjem je stav, kdy má nemocný **opakované řídké stolice** často spojen�
 
 Když pronikne kontaminovaná potrava do střeva (nelze tedy vyzvracet), snaží se organizmus po rozpoznání jedů urychlit její průchod střevem a tím minimalizovat vstřebávání jedů. Průjem často doprovází zvracení; část zkažené stravy se již dostala do střeva a pak se organizmus snaží zbavit jedů ze zažívacího traktu oběma směry.
 
-**Je důležité průjmem [ztracené tekutiny doplňovat][11].** Zvláště malé děti a staří lidé nemají velké rezervy a v případě kombinace zvracení a průjmu je nemožné tekutiny doplňovat a je nutné lékařské ošetření. Ustalo-li zvracení, je možné postupně začít pít. Nejprve vlažný čaj po lžičkách, posléze i větší množství, kolik žaludek udrží a podle počtu stolic. Brzy je nutné podávat i slané nápoje (minerálka, řídká nemastná polévka nejlépe jen mrkev a trochu rýže).
+**Je důležité průjmem [ztracené tekutiny doplňovat][11].** Zvláště malé děti a staří lidé nemají velké rezervy a v případě kombinace zvracení a průjmu je nemožné tekutiny doplňovat a je nutné lékařské ošetření. Ustalo-li zvracení, je možné postupně začít pít. Nejprve vlažný čaj po lžičkách, posléze i větší množství, kolik žaludek udrží a podle počtu stolic. Brzy je nutné podávat i slané nápoje (minerálka, řídká nemastná polévka nejlépe jen mrkev a trochu rýže). 
 
 Je-li průjem způsoben potravinou kontaminovanou bakteriálně, je dobré vydržet nejíst a zvláště ne sladké jídlo. Taková potrava zhorší průjmy a bolesti – „nakrmením“ a následným opětným pomnožením choroboplodných bakterií. Zde není vhodná ani (často doporučovaná) cola pro vysoký obsah cukru. Takové nápoje budou vhodné až po ústupu potíží a uzdravení zažívacího traktu.
 

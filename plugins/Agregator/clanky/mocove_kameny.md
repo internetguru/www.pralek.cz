@@ -5,15 +5,15 @@
 
 # Močové kameny a ledvinová kolika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="bolest, břicho, prevence, neúrazové, nemoc, krvácení, orgány, zánět, zvracení, moč"}
+{kw="ledviny, močová soustava, kolika, bolest, prevence, neúrazové, krvácení, zánět"}
 
 V močovém ústrojí mohou vzniknout kameny. Tlakem moči a prodíráním se kamenu močovodem může vzniknout ledvinová kolika.
 
 V bederní oblasti jsou uloženy 2 ledviny, ve kterých se tvoří moč. Z ledvinové pánvičky (dutina uvnitř ledviny) průběžně odtéká moč dvěma močovody [do močového měchýře][1]. Zde se moč shromažďuje a při močení je močovou trubicí vypuzena ven z těla.
 
-Močí jsou z těla odstraňovány zplodiny látkové přeměny. Aby ledviny správně fungovaly, je třeba aby v těle bylo [dostatek tekutin][2]. V případě nedostatku tekutin jsou ledviny přetěžovány a tvorba moči je velmi náročná. **V příliš koncentrované moči se snadno vytvoří kameny nebo [zánět][3].**
+Močí jsou z těla odstraňovány zplodiny látkové přeměny. Aby ledviny správně fungovaly, je třeba aby v těle bylo [dostatek tekutin][2]. V případě nedostatku tekutin jsou ledviny přetěžovány a tvorba moči je velmi náročná. **V příliš koncentrované moči se snadno vytvoří kameny nebo [zánět][3].** 
 
 {id="ledvinove\_kameny\_a\_ledvinova\_kolika"}
 
@@ -31,7 +31,7 @@ Za určitých podmínek se v ledvinové pánvičce může vytvořit kámen. Doku
 
 n/a
 
-Kdo jednou zažije ledvinovou koliku, dělá všechno pro to, aby se již neopakovala. [Vhodná životospráva][7] a **úměrné [množství různých tekutin][8]** většinou zajistí proplachování močových cest a **zamezí tvorbě nových kamenů**.
+Kdo jednou zažije ledvinovou koliku, dělá všechno pro to, aby se již neopakovala. [Vhodná životospráva][7] a **úměrné [množství různých tekutin][8]** většinou zajistí proplachování močových cest a **zamezí tvorbě nových kamenů**. 
 
 Vzniklý kámen v pánvičce ledviny lze rozbít. Zvláštním ultrazvukovým přístrojem je řízená rázová vlna směrována přesně na kámen, který je postupnými výboji rozdrcen. Proces je nebolestivý, okolní tkáně nijak netrpí.
 

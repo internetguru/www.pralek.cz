@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="cévy, prevence, neúrazové, nemoc, krvácení, úrazy, zánět, zdravý životní styl"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="cévy, prevence, neúrazové, krvácení, úrazy, zánět, zdravý životní styl"}
 
 Vznik křečových žil dolních končetin lze preventivně ovlivnit. Již vzniklé varixy je možno odstranit. Po operaci je nutné opět preventivně dbát na to, aby se varixy znovu nevytvořily.
 

@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="poranění, první pomoc, úrazy, ošetření, kůže-podkoží, bolest, břicho, nemoc, pohyb"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="poranění, první pomoc, úrazy, kůže-podkoží, bolest, břicho, pohyb"}
 
 Okamžité ochlazení spáleniny zásadně snižuje závažnost úrazu a jeho následky! Nejlépe poslouží proud studené čisté vody. O výsledné závažnosti úrazu rozhoduje každá sekunda.
 

@@ -5,9 +5,9 @@
 
 # Jak snížit hladinu cholesterolu v krvi
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="látková výměna, strava-zažívání, zdravý životní styl, prevence, cévy, orgány, mozek-nervy, nemoc"}
+{kw="látková výměna, strava-zažívání, zdravý životní styl, prevence, cévy, mozek-nervy"}
 
 Vysoká hladina cholesterolu v krvi a jeho usazování v cévách je následkem dlouhodobého stresu a nedostatku vitamínu C. Obojímu lze tedy přirozeně předejít omezením stresu a správnou životosprávou. Vynechání tučných jídel nemá na hladinu cholesterolu v krvi žádný vliv.
 
@@ -26,9 +26,9 @@ Lidský organizmus si v játrech vyrobí právě tolik cholesterolu, kolik zrovn
 Pro standardní chod potřebuje organizmus určité (standardní) množství cholesterolu. **Zvýšená hladina cholesterolu v krvi je následkem zvýšené potřeby organizmu cholesterol tvořit.** Důvody zvýšené potřeby cholesterolu jsou:
 
   * **Dlouhodobý stres**  
-    Játra dočasně vytváří více cholesterolu např. k obnově a opravě buněk (cholesterol je potřebný k hojení ran) a to dokonce i preventivně, pokud úraz hrozí – krátkodobý stres. Pokud je organizmus ve stresu opakovaně nebo dlouhodobě, zvýšená hladina cholesterolu v krvi přetrvává.
+    Játra dočasně vytváří více cholesterolu např. k obnově a opravě buněk (cholesterol je potřebný k hojení ran) a to dokonce i preventivně, pokud úraz hrozí – krátkodobý stres. Pokud je organizmus ve stresu opakovaně nebo dlouhodobě, zvýšená hladina cholesterolu v krvi přetrvává. 
   * **Dlouhodobý nedostatek vitamínu C**  
-    Následkem nedostatku vitamínu C je (mimo jiné) zvýšená křehkost a krvácivost cév. Lidský organizmus si vitamín C neumí vytvořit. Jako nouzové řešení proto „záplatuje“ neustále poškozované (popraskané) cévy cholesterolem. Při dlouhodobém nedostatku vitamínu C zvýšená hladina cholesterolu v krvi přetrvává.
+    Následkem nedostatku vitamínu C je (mimo jiné) zvýšená křehkost a krvácivost cév. Lidský organizmus si vitamín C neumí vytvořit. Jako nouzové řešení proto „záplatuje“ neustále poškozované (popraskané) cévy cholesterolem. Při dlouhodobém nedostatku vitamínu C zvýšená hladina cholesterolu v krvi přetrvává. 
 
 {id="snizovani\_vysoke\_hladiny\_cholesterolu\_v_krvi"}
 

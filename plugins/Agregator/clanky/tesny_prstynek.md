@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="bolest, nemoc, cévy, úrazy, pohyb"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="bolest, cévy, úrazy, pohyb"}
 
 Včasné odstranění prstýnku z poraněné končetiny zabrání vzniku zdravotních komplikací. Ty mohou ve spojení s neléčeným škrtícím prstenem vést až ke ztrátě prstu. Přeštípnutí nebo přeříznutí prstýnku na nemocném prstu může být obtížné.
 

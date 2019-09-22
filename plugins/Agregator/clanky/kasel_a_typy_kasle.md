@@ -5,9 +5,9 @@
 
 # Kdy kašel potlačovat a kdy podporovat
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="zánět, ušní-nosní-krční, mikroorganizmy, nemoc, ošetření, teplota, břicho, poranění, orgány, strach"}
+{kw="kašel, dýchání, zánět, mikroorganizmy, teplota, strach, břicho, poranění"}
 
 Každý kašel je dobré nejprve pojmenovat. Výprava do lékárny pro lék proti kašli není vždy účelným řešením potíží. Častěji pomůže lék k uvolnění průdušek, který naopak účinné odkašlání podpoří.
 
@@ -50,33 +50,33 @@ Pálení nebo podráždění dýchacích cest vede ke kašli. Kašlem – prudk�
 
 n/a
 
-  * Neurotický kašel – nesmyslný;
+  * Neurotický kašel – nesmyslný; 
       * Slouží nejčastěji v průběhu slovního projevu k získání času na urovnání myšlenky.
       * Pomůže kamarádovo šetrné opakované upozornění.
-  * Pokašlání před začátkem slovního projevu – nesmyslné;
+  * Pokašlání před začátkem slovního projevu – nesmyslné; 
       * Většinou je vyvolané pocitem sucha v ústech v souvislosti s nervozitou.
       * Lépe je polknout a tím rovnoměrně rozprostřít sliny po dutině ústní a hrtanu.
-  * Suchý dráždivý (štěkavý) kašel – obtěžující, nepřinášející úlevu;
+  * Suchý dráždivý (štěkavý) kašel – obtěžující, nepřinášející úlevu; 
       * Bývá v začátku horečnatého onemocnění nebo podrážděním zevní škodlivinou.
       * Lze jej zklidnit vdechováním teplé páry (nad hrncem s vodou nebo nad sprchou), **pomůže čaj s citronem a medem a klid na lůžku**. Lze podat lék proti kašli a na udržení [správné teploty][8].
-  * Vlhký kašel – přinášející úlevu;
+  * Vlhký kašel – přinášející úlevu; 
       * Navazuje na suchý dráždivý kašel.
       * Je třeba **pokračovat v přijmu tekutin**. Je vhodné podat lék k uvolnění průdušek který podpoří odkašlávání (na rozdíl od léků kašel potlačujících).
-  * Alergický kašel – obtěžující;
+  * Alergický kašel – obtěžující; 
       * Vzniká podrážděním vdechováním alergenu.
       * Zklidňuje se zvláštním [sprejem nebo jinou formou léku][9] (alergici znají a mají mít stále u sebe).
       * Je vhodná změna prostředí.
-  * Hrčivý kašel se zkolabováním průdušek – škodící organizmu;
+  * Hrčivý kašel se zkolabováním průdušek – škodící organizmu; 
       * **Nepřináší úlevu a vyskytuje se nejvíce u dětí**.
       * Opět je dobré podat léky na uvolnění dýchacích cest a snažit se tento typ kašle převést na vlhký kašel.
-  * Prudký kašel spojený s následným pocitem nedostatku vzduchu (dušnost) – vyčerpávající;
+  * Prudký kašel spojený s následným pocitem nedostatku vzduchu (dušnost) – vyčerpávající; 
       * Nelze se mu bránit.
       * Je dobré se postavit do otevřeného okna a opřít dlaněmi o parapet palci od sebe (pro maximální využití pomocného dýchacího svalstva) a **snažit se dýchat klidně, zhluboka a pomalu**.
-  * Usilovný kašel s nemožností se následně nadechnout a se strachem o život;
+  * Usilovný kašel s nemožností se následně nadechnout a se strachem o život; 
       * Bývá spojen s [vdechnutím cizího tělesa][6].
       * Po vykašlání veškerého vzduchu z plic může poskytnout pomoc přítomný dobrovolník.
       * V opačném případě se musí postižený sám snažit o pozvolný výdech a poté teprve nádech. Křeč kolem vdechnutého tělesa často sama povolí a dýchací cesty se uvolní.
-  * Kuřácký kašel – pro kuřáky nezbytný;
+  * Kuřácký kašel – pro kuřáky nezbytný; 
       * Nahrazuje činnost zničeného _řasinkového epitelu_.
 
 Kašel se mění v průběhu onemocnění podle stupně podráždění nebo podle [stádia zánětlivých změn][10]. Při kašli jsou velmi zatěžovány všechny dýchací svaly. V extrémním případě si [lze kašlem způsobit kýlu][11].

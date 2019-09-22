@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="nádory, nezhoubné, zhoubné, ošetření, orgány, poranění, zánět"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="nádory, nezhoubné, zhoubné, poranění, zánět"}
 
 Ženský i mužský prs mají stejný základ, chorobami prsu trpí ženy i muži, ženy častěji. Některé změny prsu jsou přirozené, jiné je nutné vyšetřit a mnohdy i řešit. Včasné vyšetření vede k definitivnímu vyléčení bez následků.
 

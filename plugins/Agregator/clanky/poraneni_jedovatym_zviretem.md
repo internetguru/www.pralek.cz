@@ -5,7 +5,7 @@
 
 # Poranění jedovatým zvířetem
 
-{class="description" kw="zvíře, poranění, úrazy, první pomoc, zánět, bolest, pohyb, orgány"}
+{class="description" kw="zvíře, poranění, úrazy, první pomoc, zánět, bolest, pohyb"}
 
 Kdo netrpí alergií, nemusí se obávat ani opakovaného poranění u nás žijícím hmyzem nebo hadem. Závažné alergické reakce na jed bodavého hmyzu (bodnutí žihadla) však přibývají.
 

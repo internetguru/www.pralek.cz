@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="bolest, břicho, nádory, látková výměna, orgány, žaludek, strava-zažívání, zhoubné, cévy, mikroorganizmy"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="bolest, břicho, nádory, látková výměna, žaludek, strava-zažívání, zhoubné, cévy, mikroorganizmy"}
 
 Střevní neprůchodnost (laicky zauzlení střev) je stav, při kterém dochází k zástavě posunu střevního obsahu v trávicím traktu. Nemocný velmi nepříjemně vnímá nadýmání, zástavu odchodu větrů a stolice a později i zvrací.
 

@@ -5,9 +5,9 @@
 
 # Žaludeční potíže: bolest žaludku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="žaludek, bolest, břicho, orgány, strava-zažívání, teplota, zánět, mikroorganizmy, strach"}
+{kw="žaludek, bolest, břicho, strach, strava-zažívání, teplota, zánět, mikroorganizmy"}
 
 Správnou životosprávou lze předejít vzniku různých onemocnění žaludku včetně žaludečního vředu. Žaludeční problémy souvisí často se stresem. Podmínkami zažívací pohody jsou zvládnutí vlastní psychiky a správné stravovací návyky.
 

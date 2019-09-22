@@ -5,9 +5,9 @@
 
 # Bodné a střelné poranění a jeho závažnost
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="poranění, bolest, krvácení, kůže-podkoží, orgány, pohyb, břicho, cévy"}
+{kw="poranění, bolest, krvácení, kůže-podkoží, pohyb, břicho, cévy"}
 
 Poranění zabodnutým předmětem nebo zástřel je natolik závažné, jak a které vnitřní orgány jsou poškozeny.
 
@@ -31,7 +31,7 @@ To neplatí pro velmi ostré předměty, které při pronikání kůži nenapnou
 
 Velmi ostré jsou skleněné střepy, které při pronikání kůži řežou pod určitým úhlem, a vzniklá rána může být zcela jiná než původní střep. Nebezpečí poranění střepem spočívá v jeho **snadném pronikání do hlubokých struktur**.
 
-**[Drobná ranka][1] na zápěstí může souviset se závažným poraněním šlach, cév nebo nervů.** [Při poranění ruky][2] je třeba vždy vyzkoušet hybnost a čití prstů. V prstech totiž nejsou žádné svaly. Prsty jsou složeny pouze z kostí, kloubů, vazů, šlach, tuku, kůže a nehtů. Svaly, které prsty pohybují jsou uloženy na předloktí a k prstům vedou pevné šlachy, které pohyb přenáší. V případě přerušení některé šlachy nelze provést pohyb příslušným prstem.
+**[Drobná ranka][1] na zápěstí může souviset se závažným poraněním šlach, cév nebo nervů.** [Při poranění ruky][2] je třeba vždy vyzkoušet hybnost a čití prstů. V prstech totiž nejsou žádné svaly. Prsty jsou složeny pouze z kostí, kloubů, vazů, šlach, tuku, kůže a nehtů. Svaly, které prsty pohybují jsou uloženy na předloktí a k prstům vedou pevné šlachy, které pohyb přenáší. V případě přerušení některé šlachy nelze provést pohyb příslušným prstem. 
 
 {id="zabodnuty\_nebo\_uvizly\_predmet\_v_tele"}
 
@@ -45,8 +45,8 @@ Drobné kovové předměty (nejčastěji odštěpky kovu při uhození kladivem 
 
 {class="example"}
 
-Střelné poranění je natolik závažné, jaké tkáně jsou projektilem zdevastované nebo poškozené ([průstřel hrudníku][6]). Přežije-li postřelený člověk, cílem chirurgů na operačním sále je napravovat škody, které způsobila energie projektilu.  
-  
+Střelné poranění je natolik závažné, jaké tkáně jsou projektilem zdevastované nebo poškozené ([průstřel hrudníku][6]). Přežije-li postřelený člověk, cílem chirurgů na operačním sále je napravovat škody, které způsobila energie projektilu.
+
 Spojují se roztříštěné kosti, sešívají se porušené cévy, šlachy, svaly, nervy. Všechny části často roztrhaného projektilu nebo všechny broky často ani není možné ani nutné odstranit. Vyjmutí projektilu samotného bývá prioritou pouze v amerických filmech :-)
 
 Zapíchnuté silnější předměty (jako např. šíp, drát, větev) není vhodné při první pomoci z těla vůbec uvolňovat, ale naopak transportovat poraněného k ošetření i se zapíchnutým předmětem.

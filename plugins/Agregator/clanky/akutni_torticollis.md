@@ -5,15 +5,15 @@
 
 # (Ne)závažnost strnutí šíje
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="bolest, mozek-nervy, pohyb, rehabilitace, nemoc"}
+{kw="bolest, mozek-nervy, pohyb, rehabilitace"}
 
 Náhle vzniklé strnutí šíje je nepříjemné, dramaticky vyhlížející, ale zcela nezávažné a dobře léčitelné onemocnění krku. Nejčastěji postihuje děti školního věku a mladé lidi.
 
 Torticollis neboli strnutí šíje nebo zkroucení krku je onemocnění, při kterém dochází ke stočení hlavy k jedné straně. Bývá doprovázené bolestivým stažením svalů na jedné straně krku. Člověk postižený strnutím šíje bývá vyděšený a těžko se orientuje v mnoha popisovaných formách jeho problému na internetu.
 
-Strnutí šíje má dvě formy, které mají společný projev a různou závažnost. **Náhle vzniklé strnutí šíje _(akutní torticollis)_ je zcela nezávažné onemocnění.** Ostatní formy strnutí šíje _(neakutní torticollis)_ jsou naopak závažná a obtížně léčitelná onemocnění.
+Strnutí šíje má dvě formy, které mají společný projev a různou závažnost. **Náhle vzniklé strnutí šíje _(akutní torticollis)_ je zcela nezávažné onemocnění.** Ostatní formy strnutí šíje _(neakutní torticollis)_ jsou naopak závažná a obtížně léčitelná onemocnění. 
 
 {id="nastup\_a\_mozne\_priciny\_nahle\_vznikleho\_strnuti_sije"}
 

@@ -5,9 +5,9 @@
 
 # Závislosti na kouření je snazší předejít
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="nádory, nemoc, prevence, zdravý životní styl, cévy, orgány, zhoubné, zánět, ušní-nosní-krční, strava-zažívání"}
+{kw="nádory, prevence, zdravý životní styl, cévy, zhoubné, zánět, ušní-nosní-krční, strava-zažívání"}
 
 Kouření tabáku (nejčastěji cigaret) přináší kuřákovi krátkodobě příjemný prožitek, ale dlouhodobě nepříjemnou závislost na nikotinu. Podle stupně závislosti již nebývá kouření nikterak příjemným zážitkem, spíše vzniká problém, když nezbytná cigareta chybí.
 
@@ -48,7 +48,7 @@ Vývoj stádií návyku na cigarety:
   5. Ještě později si kuřák zakouří kdykoli chce, ale vždy před situací, kdy nebude moci delší dobu kouřit (na autobusové zastávce).
   6. Pak kuřák kouří i v každé přestávce mezi prací a po každém jídle.
   7. V dalším stádiu kuřák hledá každou příležitost ke kouření (mezi prací dělá častější přestávky a vyhýbá se pobytu na místech, kde by nemohl kouřit).
-  8. Plně závislý kuřák kouří kdykoli, i když sám (rozumem) nechce, například:
+  8. Plně závislý kuřák kouří kdykoli, i když sám (rozumem) nechce, například: 
       * při práci,
       * v rozrušení nebo v pohodě,
       * pro zklidnění,
@@ -100,7 +100,7 @@ Pro zvýšení úspěšnosti odvykání kouření je z mé zkušenosti potřeba:
   2. Nehlásit dopředu přátelům, že přestávám kouřit.
   3. Přestat ihned (nikoli až k nějaké události v budoucnu).
   4. Cigarety mít stále u sebe (nedeprimovat se).
-  5. Někomu pomáhá obelhávání sebe sama.
+  5. Někomu pomáhá obelhávání sebe sama. 
       * Naplánovat si zakouření (například hned po dokončení určité činnosti).
       * Až ta doba přijde, dokázat si nezapálit a naplánovat si ke kouření jinou příležitost.
   6. Spoléhat sám na sebe (nikoli na náhražky jako jsou elektronické cigarety, náplasti, šidítka či tablety proti kouření).

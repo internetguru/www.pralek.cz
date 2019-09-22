@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="ušní-nosní-krční, ošetření, zánět, mikroorganizmy, nemoc, dětské, poranění"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="ušní-nosní-krční, zánět, mikroorganizmy, dětské, poranění"}
 
 Nekomplikovaná rýma bývá banální onemocnění. Podmínkou však je smrkání (či odsávání zahleněného nosu kojencům zvláštním nástrojem).
 

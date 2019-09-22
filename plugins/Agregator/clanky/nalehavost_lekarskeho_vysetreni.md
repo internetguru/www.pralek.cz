@@ -5,9 +5,9 @@
 
 # Vyhledání lékařské péče: kdy, kde a jak naléhavě
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="krvácení, zlomeniny, poranění, bolest, cévy, zánět, břicho, pohyb, orgány, neúrazové, moč"}
+{kw="úrazy, krvácení, bolest, poranění, spáleniny, zlomeniny, zánět, močová soustava, břicho"}
 
 Úrazy a ostatní poruchy zdraví mají různý stupeň naléhavosti a způsob řešení od technické první pomoci přes hospitalizaci až po rehabilitaci.
 
@@ -17,17 +17,17 @@
 
 n/a
 
-  * Při **ohrožení života** je vždy nejprve nutná
+  * Při **ohrožení života** je vždy nejprve nutná 
       1. okamžitá _technická první pomoc_ (přerušit kontakt zraněného se zdrojem elektrického proudu, vytažení tonoucího z vody, vyproštění zraněného z hořícího auta a podobně).
       2. V případě vymizení základních životních funkcí (vědomí, dýchání, tep) [zahájit oživování][1] _(resuscitaci)_. Úspěšnost resuscitace je závislá na včasnosti jejího zahájení.
       3. Zároveň je třeba neprodleně [zavolat záchranku][2].
-  * Při **prudkém krvácení** (krvácení z velké tepny) je nutné
+  * Při **prudkém krvácení** (krvácení z velké tepny) je nutné 
       1. neprodleně zastavit krvácení (nejlépe stlačením tepny nebo přiložením tlakového obvazu). Z přerušené stehenní tepny by mohl poraněný vykrvácet už během 1 minuty.
       2. Bezprostředně je nutné zavolat záchranku.
-  * Každou **spáleninu** je nutné
+  * Každou **spáleninu** je nutné 
       1. [okamžitě ochladit][3]. Kůže je vynikající tepelný izolátor a teplo proniká do hloubky pomalu a postupně. Bezprostřední chlazení podstatně **snižuje závažnost úrazu** i jeho následky.
       2. Zavolat záchranku, pokud je spálenina závažná (rozsáhlá). Běžné drobné spáleniny jsou léčeny na chirurgických ambulancích, závažné na specializovaných klinikách.
-  * **Poleptání oka** je nutné
+  * **Poleptání oka** je nutné 
       1. neprodleně řešit opakovanými výplachy oka čistou vodou nebo lépe oční vodou.
       2. Následně je třeba zavolat záchranku nebo zraněného co nejrychleji dopravit na oční oddělení spádové nemocnice.
       3. Oko je třeba vyplachovat až do předání pacienta lékaři z důvodu minimalizace poruchy zraku způsobené následným jizvením rohovky.
@@ -38,10 +38,10 @@ n/a
 
 n/a
 
-  * Prudká **[ledvinová kolika][4]** je velmi bolestivá, proto je nutné
+  * Prudká **[ledvinová kolika][4]** je velmi bolestivá, proto je nutné 
       1. užít [lék proti bolesti][5] a
       2. pokud bolesti neustoupí, zavolat záchranku.
-  * Při vykloubení velkých kloubů a deformujících [zlomeninách dlouhých kostí][6] (končetina má změněný tvar) je nutné
+  * Při vykloubení velkých kloubů a deformujících [zlomeninách dlouhých kostí][6] (končetina má změněný tvar) je nutné 
       1. zavolat záchranku.
       2. Postižený **nesmí brát léky proti bolesti, jíst ani pít** (pro případ operačního řešení).
 

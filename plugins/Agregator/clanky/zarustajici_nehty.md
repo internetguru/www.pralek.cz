@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="zánět, bolest, prevence, teplota, mikroorganizmy, pohyb"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="nehet, hygiena, zánět, bolest, prevence, teplota, mikroorganizmy, pohyb"}
 
 Zarůstání nehtů je časté bolestivé onemocnění vzniklé špatným zastřižením nehtu. Řešením je odstranění zánětu a jeho prevence. K úplnému zhojení dojde až tehdy, když zastřižený nehet doroste na správné místo.
 

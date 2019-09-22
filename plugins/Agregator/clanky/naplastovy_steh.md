@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="úrazy, první pomoc, poranění, ošetření, krvácení, pohyb, bolest"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="úrazy, první pomoc, poranění, krvácení, pohyb, bolest"}
 
 Kožní ránu lze po ošetření zafixovat náplasťovým stehem. Náplasťový steh může v takovém případě plnohodnotně nahradit klasický chirurgický steh (který zanechává jizvu) nebo plastický steh (který nelze použít vždy).
 
