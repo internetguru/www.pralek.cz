@@ -3,7 +3,7 @@
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vodni\_rezim" short="Přísun tekutin" ctime="2010-02-17" mtime="2010-02-17"}
 
-# Přiměřený přísun tekutin.
+# Přiměřený přísun tekutin
 
 {kw="zdravý životní styl, močová soustava, prevence, nemoc, orgány, břicho, moč"}
 
