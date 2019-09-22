@@ -1,11 +1,9 @@
 
 {data-type="article" data-image="/files/preview/koutek/vodni_rezim/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vodni\_rezim" short="Vodní režim" ctime="2010-02-17" mtime="2010-02-17"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vodni\_rezim" short="Přísun tekutin" ctime="2010-02-17" mtime="2010-02-17"}
 
-# Dodržování vodního režimu
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+# Přiměřený přísun tekutin
 
 {kw="zdravý životní styl, močová soustava, prevence, nemoc, orgány, břicho, moč"}
 
