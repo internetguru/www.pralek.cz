@@ -49,20 +49,32 @@
     <data name="href=antibiotika"></data>
     <data name="title=bolest">Filtrovat články</data>
     <data name="href=bolest">/?stitek=bolest#clanky</data>
-    <data name="title=boulička"></data>
-    <data name="href=boulička"></data>
+    <data name="title=boulička">Filtrovat články</data>
+    <data name="href=boulička">/?stitek=boulicka#clanky</data>
     <data name="title=břicho">Filtrovat články</data>
     <data name="href=břicho">/?stitek=bricho#clanky</data>
-    <data name="title=cévkování"></data>
-    <data name="href=cévkování"></data>
     <data name="title=cévy">Filtrovat články</data>
     <data name="href=cévy">/?stitek=cevy#clanky</data>
     <data name="title=dětské">Filtrovat články</data>
     <data name="href=dětské">/?stitek=detske#clanky</data>
+    <data name="title=dýchání"></data>
+    <data name="href=dýchání"></data>
+    <data name="title=hrudník"></data>
+    <data name="href=hrudník"></data>
+    <data name="title=hygiena"></data>
+    <data name="href=hygiena"></data>
     <data name="title=imunita"></data>
     <data name="href=imunita"></data>
+    <data name="title=kašel"></data>
+    <data name="href=kašel"></data>
     <data name="title=katetrizace"></data>
     <data name="href=katetrizace"></data>
+    <data name="title=kloub"></data>
+    <data name="href=kloub"></data>
+    <data name="title=kolika"></data>
+    <data name="href=kolika"></data>
+    <data name="title=krev"></data>
+    <data name="href=krev"></data>
     <data name="title=krvácení">Filtrovat články</data>
     <data name="href=krvácení">/?stitek=krvaceni#clanky</data>
     <data name="title=kůže-podkoží">Filtrovat články</data>
@@ -73,46 +85,52 @@
     <data name="href=ledviny"></data>
     <data name="title=mikroorganizmy">Filtrovat články</data>
     <data name="href=mikroorganizmy">/?stitek=mikroorganizmy#clanky</data>
-    <data name="title=moč">Filtrovat články</data>
-    <data name="href=moč">/?stitek=moc#clanky</data>
-    <data name="title=močová cévka"></data>
-    <data name="href=močová cévka"></data>
     <data name="title=močová soustava">Filtrovat články</data>
     <data name="href=močová soustava">/?stitek=mocova_soustava#clanky</data>
-    <data name="title=močový měchýř"></data>
-    <data name="href=močový měchýř"></data>
     <data name="title=mozek-nervy">Filtrovat články</data>
     <data name="href=mozek-nervy">/?stitek=mozek-nervy#clanky</data>
     <data name="title=mýty"></data>
     <data name="href=mýty"></data>
     <data name="title=nádory">Filtrovat články</data>
     <data name="href=nádory">/?stitek=nadory#clanky</data>
-    <data name="title=nemoc">Filtrovat články</data>
-    <data name="href=nemoc">/?stitek=nemoc#clanky</data>
+    <data name="title=nehet"></data>
+    <data name="href=nehet"></data>
     <data name="title=neúrazové">Filtrovat články</data>
     <data name="href=neúrazové">/?stitek=neurazove#clanky</data>
     <data name="title=nezhoubné">Filtrovat články</data>
     <data name="href=nezhoubné">/?stitek=nezhoubne#clanky</data>
-    <data name="title=orgány">Filtrovat články</data>
-    <data name="href=orgány">/?stitek=organy#clanky</data>
-    <data name="title=ošetření">Filtrovat články</data>
-    <data name="href=ošetření">/?stitek=osetreni#clanky</data>
+    <data name="title=penis"></data>
+    <data name="href=penis"></data>
+    <data name="title=podchlazení"></data>
+    <data name="href=podchlazení"></data>
     <data name="title=pohyb">Filtrovat články</data>
     <data name="href=pohyb">/?stitek=pohyb#clanky</data>
     <data name="title=poranění">Filtrovat články</data>
     <data name="href=poranění">/?stitek=poraneni#clanky</data>
     <data name="title=poruchy vědomí">Filtrovat články</data>
     <data name="href=poruchy vědomí">/?stitek=poruchy_vedomi#clanky</data>
-    <data name="title=potíže"></data>
-    <data name="href=potíže"></data>
+    <data name="title=předkožka"></data>
+    <data name="href=předkožka"></data>
+    <data name="title=přehřátí"></data>
+    <data name="href=přehřátí"></data>
     <data name="title=prevence">Filtrovat články</data>
     <data name="href=prevence">/?stitek=prevence#clanky</data>
+    <data name="title=prostata"></data>
+    <data name="href=prostata"></data>
     <data name="title=první pomoc">Filtrovat články</data>
     <data name="href=první pomoc">/?stitek=prvni_pomoc#clanky</data>
+    <data name="title=rakovina"></data>
+    <data name="href=rakovina"></data>
+    <data name="title=rameno"></data>
+    <data name="href=rameno"></data>
     <data name="title=rehabilitace"></data>
     <data name="href=rehabilitace"></data>
     <data name="title=retence moči"></data>
     <data name="href=retence moči"></data>
+    <data name="title=říhání"></data>
+    <data name="href=říhání"></data>
+    <data name="title=spáleniny"></data>
+    <data name="href=spáleniny"></data>
     <data name="title=srdce">Filtrovat články</data>
     <data name="href=srdce">/?stitek=srdce#clanky</data>
     <data name="title=stařecké"></data>
@@ -121,8 +139,14 @@
     <data name="href=strach">/?stitek=strach#clanky</data>
     <data name="title=strava-zažívání">Filtrovat články</data>
     <data name="href=strava-zažívání">/?stitek=strava-zazivani#clanky</data>
+    <data name="title=střevo"></data>
+    <data name="href=střevo"></data>
+    <data name="title=tekutiny"></data>
+    <data name="href=tekutiny"></data>
     <data name="title=teplota">Filtrovat články</data>
     <data name="href=teplota">/?stitek=teplota#clanky</data>
+    <data name="title=tlakoměr"></data>
+    <data name="href=tlakoměr"></data>
     <data name="title=úrazy">Filtrovat články</data>
     <data name="href=úrazy">/?stitek=urazy#clanky</data>
     <data name="title=ušní-nosní-krční">Filtrovat články</data>
@@ -139,11 +163,13 @@
     <data name="href=žláza"></data>
     <data name="title=zlomeniny">Filtrovat články</data>
     <data name="href=zlomeniny">/?stitek=zlomeniny#clanky</data>
+    <data name="title=žlučník"></data>
+    <data name="href=žlučník"></data>
     <data name="title=zvíře"></data>
     <data name="href=zvíře"></data>
-    <data name="title=zvracení">Filtrovat články</data>
-    <data name="href=zvracení">/?stitek=zvraceni#clanky</data>
-<!-- generated by user_update.sh on 2019-09-10 -->
+    <data name="title=zvracení"></data>
+    <data name="href=zvracení"></data>
+<!-- generated by user_update.sh on 2019-09-22 -->
   </fn>
   
   <var id="taglist">
@@ -152,6 +178,7 @@
       <dd>
 <!-- [taglist] generated content, do not edit -->
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=bolest" href="href=bolest">bolest</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=boulička" href="href=boulička">boulička</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=břicho" href="href=břicho">břicho</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=cévy" href="href=cévy">cévy</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=dětské" href="href=dětské">dětské</a>
@@ -159,15 +186,11 @@
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=kůže-podkoží" href="href=kůže-podkoží">kůže-podkoží</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=látková výměna" href="href=látková výměna">látková výměna</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=mikroorganizmy" href="href=mikroorganizmy">mikroorganizmy</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=moč" href="href=moč">moč</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=močová soustava" href="href=močová soustava">močová soustava</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=mozek-nervy" href="href=mozek-nervy">mozek-nervy</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=nádory" href="href=nádory">nádory</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=nemoc" href="href=nemoc">nemoc</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=neúrazové" href="href=neúrazové">neúrazové</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=nezhoubné" href="href=nezhoubné">nezhoubné</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=orgány" href="href=orgány">orgány</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=ošetření" href="href=ošetření">ošetření</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=pohyb" href="href=pohyb">pohyb</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=poranění" href="href=poranění">poranění</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=poruchy vědomí" href="href=poruchy vědomí">poruchy vědomí</a>
@@ -184,8 +207,7 @@
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=zdravý životní styl" href="href=zdravý životní styl">zdravý životní styl</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=zhoubné" href="href=zhoubné">zhoubné</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=zlomeniny" href="href=zlomeniny">zlomeniny</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=zvracení" href="href=zvracení">zvracení</a>
-<!-- generated by user_update.sh on 2019-09-10 -->
+<!-- generated by user_update.sh on 2019-09-22 -->
       </dd>
     </dl>
   </var>
@@ -196,39 +218,35 @@
       <li><select id="completable-search" name="s" class="completable">
 <!-- [completable] generated content, do not edit -->
 <option class="tag" value="stitky/bolest">bolest (65 výskytů) #stitky/bolest</option>
-<option class="tag" value="stitky/bricho">břicho (34 výskytů) #stitky/bricho</option>
-<option class="tag" value="stitky/cevy">cévy (30 výskytů) #stitky/cevy</option>
+<option class="tag" value="stitky/boulicka">boulička (5 výskytů) #stitky/boulicka</option>
+<option class="tag" value="stitky/bricho">břicho (31 výskytů) #stitky/bricho</option>
+<option class="tag" value="stitky/cevy">cévy (28 výskytů) #stitky/cevy</option>
 <option class="tag" value="stitky/detske">dětské (12 výskytů) #stitky/detske</option>
 <option class="tag" value="stitky/krvaceni">krvácení (24 výskytů) #stitky/krvaceni</option>
-<option class="tag" value="stitky/kuze-podkozi">kůže-podkoží (17 výskytů) #stitky/kuze-podkozi</option>
+<option class="tag" value="stitky/kuze-podkozi">kůže-podkoží (16 výskytů) #stitky/kuze-podkozi</option>
 <option class="tag" value="stitky/latkova_vymena">látková výměna (8 výskytů) #stitky/latkova_vymena</option>
 <option class="tag" value="stitky/mikroorganizmy">mikroorganizmy (17 výskytů) #stitky/mikroorganizmy</option>
-<option class="tag" value="stitky/moc">moč (15 výskytů) #stitky/moc</option>
-<option class="tag" value="stitky/mocova_soustava">močová soustava (5 výskytů) #stitky/mocova_soustava</option>
+<option class="tag" value="stitky/mocova_soustava">močová soustava (12 výskytů) #stitky/mocova_soustava</option>
 <option class="tag" value="stitky/mozek-nervy">mozek-nervy (8 výskytů) #stitky/mozek-nervy</option>
-<option class="tag" value="stitky/nadory">nádory (18 výskytů) #stitky/nadory</option>
-<option class="tag" value="stitky/nemoc">nemoc (56 výskytů) #stitky/nemoc</option>
-<option class="tag" value="stitky/neurazove">neúrazové (25 výskytů) #stitky/neurazove</option>
+<option class="tag" value="stitky/nadory">nádory (16 výskytů) #stitky/nadory</option>
+<option class="tag" value="stitky/neurazove">neúrazové (24 výskytů) #stitky/neurazove</option>
 <option class="tag" value="stitky/nezhoubne">nezhoubné (8 výskytů) #stitky/nezhoubne</option>
-<option class="tag" value="stitky/organy">orgány (52 výskytů) #stitky/organy</option>
-<option class="tag" value="stitky/osetreni">ošetření (21 výskytů) #stitky/osetreni</option>
-<option class="tag" value="stitky/pohyb">pohyb (36 výskytů) #stitky/pohyb</option>
-<option class="tag" value="stitky/poraneni">poranění (35 výskytů) #stitky/poraneni</option>
+<option class="tag" value="stitky/pohyb">pohyb (33 výskytů) #stitky/pohyb</option>
+<option class="tag" value="stitky/poraneni">poranění (32 výskytů) #stitky/poraneni</option>
 <option class="tag" value="stitky/poruchy_vedomi">poruchy vědomí (11 výskytů) #stitky/poruchy_vedomi</option>
 <option class="tag" value="stitky/prevence">prevence (41 výskytů) #stitky/prevence</option>
-<option class="tag" value="stitky/prvni_pomoc">první pomoc (15 výskytů) #stitky/prvni_pomoc</option>
+<option class="tag" value="stitky/prvni_pomoc">první pomoc (17 výskytů) #stitky/prvni_pomoc</option>
 <option class="tag" value="stitky/srdce">srdce (5 výskytů) #stitky/srdce</option>
-<option class="tag" value="stitky/strach">strach (14 výskytů) #stitky/strach</option>
-<option class="tag" value="stitky/strava-zazivani">strava-zažívání (23 výskytů) #stitky/strava-zazivani</option>
-<option class="tag" value="stitky/teplota">teplota (19 výskytů) #stitky/teplota</option>
-<option class="tag" value="stitky/urazy">úrazy (34 výskytů) #stitky/urazy</option>
-<option class="tag" value="stitky/usni-nosni-krcni">ušní-nosní-krční (8 výskytů) #stitky/usni-nosni-krcni</option>
-<option class="tag" value="stitky/zaludek">žaludek (10 výskytů) #stitky/zaludek</option>
-<option class="tag" value="stitky/zanet">zánět (48 výskytů) #stitky/zanet</option>
+<option class="tag" value="stitky/strach">strach (15 výskytů) #stitky/strach</option>
+<option class="tag" value="stitky/strava-zazivani">strava-zažívání (22 výskytů) #stitky/strava-zazivani</option>
+<option class="tag" value="stitky/teplota">teplota (18 výskytů) #stitky/teplota</option>
+<option class="tag" value="stitky/urazy">úrazy (35 výskytů) #stitky/urazy</option>
+<option class="tag" value="stitky/usni-nosni-krcni">ušní-nosní-krční (6 výskytů) #stitky/usni-nosni-krcni</option>
+<option class="tag" value="stitky/zaludek">žaludek (9 výskytů) #stitky/zaludek</option>
+<option class="tag" value="stitky/zanet">zánět (49 výskytů) #stitky/zanet</option>
 <option class="tag" value="stitky/zdravy_zivotni_styl">zdravý životní styl (16 výskytů) #stitky/zdravy_zivotni_styl</option>
 <option class="tag" value="stitky/zhoubne">zhoubné (16 výskytů) #stitky/zhoubne</option>
 <option class="tag" value="stitky/zlomeniny">zlomeniny (9 výskytů) #stitky/zlomeniny</option>
-<option class="tag" value="stitky/zvraceni">zvracení (5 výskytů) #stitky/zvraceni</option>
 <option class="article" value="clanky/akne">Boj proti akné #clanky/akne</option>
 <option class="article" value="clanky/akutni_torticollis">(Ne)závažnost strnutí šíje #clanky/akutni_torticollis</option>
 <option class="article" value="clanky/antibiotika">Proč nelze mít svá oblíbená antibiotika #clanky/antibiotika</option>
@@ -322,7 +340,7 @@
 <option class="article" value="clanky/tlak_zaludku">Žaludeční potíže: krátkodobý tlak žaludku #clanky/tlak_zaludku</option>
 <option class="article" value="clanky/urazy_deti">Časté úrazy malých dětí #clanky/urazy_deti</option>
 <option class="article" value="clanky/vhodna_obuv">Vhodná a nevhodná obuv #clanky/vhodna_obuv</option>
-<option class="article" value="clanky/vodni_rezim">Dodržování vodního režimu #clanky/vodni_rezim</option>
+<option class="article" value="clanky/vodni_rezim">Přiměřený přísun tekutin #clanky/vodni_rezim</option>
 <option class="article" value="clanky/vykoubene_rameno">Šetrná léčba vykloubeného ramene #clanky/vykoubene_rameno</option>
 <option class="article" value="clanky/zaludecni_vredy">Žaludeční a dvanáctníkový vřed #clanky/zaludecni_vredy</option>
 <option class="article" value="clanky/zanet">Kdy zánět léčit, kdy rozhánět a kdy podporovat #clanky/zanet</option>
@@ -334,7 +352,7 @@
 <option class="article" value="clanky/zlomeniny_kosti">Zlomeniny kostí #clanky/zlomeniny_kosti</option>
 <option class="article" value="clanky/zlucove_kameny">Prevence a léčba žlučových kamenů #clanky/zlucove_kameny</option>
 <option class="article" value="clanky/znamenko-bradavice-rakovina">Mateřské znaménko, bradavice nebo rakovina #clanky/znamenko-bradavice-rakovina</option>
-<!-- generated by user_update.sh on 2019-09-10 -->
+<!-- generated by user_update.sh on 2019-09-22 -->
     </select><button type="submit">Vyhledat</button></li>
     </ul>
   </form>
