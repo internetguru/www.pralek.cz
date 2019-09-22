@@ -14,4 +14,6 @@
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
   <redir parName='s' parValueMatch='(.*)'>https://www.google.com/search?sitesearch=www.pralek.cz&amp;q=$1</redir>
   
+  <redir link="vodni_rezim">prijem_tekutin</redir>
+  
 </UrlHandler>
