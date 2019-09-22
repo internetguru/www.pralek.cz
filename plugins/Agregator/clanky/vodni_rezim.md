@@ -1,9 +1,9 @@
 
 {data-type="article" data-image="/files/preview/koutek/vodni_rezim/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vodni\_rezim" short="Přísun tekutin" ctime="2010-02-17" mtime="2010-02-17"}
+{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prijem\_tekutin" short="Příjem tekutin" ctime="2010-02-17" mtime="2010-02-17"}
 
-# Přiměřený přísun tekutin
+# Přiměřený příjem tekutin
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
