@@ -3,7 +3,7 @@
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prijem\_tekutin" short="Příjem tekutin" ctime="2010-02-17" mtime="2010-02-17"}
 
-# Přiměřený příjem tekutin
+# Přiměřený příjem tekutin.
 
 {kw="tekutiny, zdravý životní styl, močová soustava, prevence, dětské, stařecké, břicho"}
 
