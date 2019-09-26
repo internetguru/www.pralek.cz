@@ -18,7 +18,7 @@ Mozková mrtvice neboli cévní mozková příhoda (CMP), iktus či mozkový inf
 
 Do mozku přitéká krev čtyřmi tepnami, které jsou vzájemně propojeny. Proto se [částečné zmenšení průtoku][2] některé z nich nemusí projevit. Ostatní ji mohou do určité míry nahradit.
 
-V případě pokročilejšího nebo náhle vzniklého stavu snížení prokrvení části mozku se projeví některé známky mozkové mrtvice. Na rozdíl od [infarktu srdečního][3] **mozková mrtvice vůbec nebolí**. Proto bývají její příznaky bohužel podceňovány a následky pak tragické.
+V případě pokročilejšího nebo náhle vzniklého stavu zhoršení prokrvení části mozku se projeví některé známky mozkové mrtvice. Na rozdíl od [infarktu srdečního][3] **mozková mrtvice vůbec nebolí**. Proto bývají její příznaky bohužel podceňovány a následky pak tragické.
 
 {id="nejcastejsi\_projevy\_cevni\_mozkove\_prihody"}
 
