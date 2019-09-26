@@ -304,13 +304,13 @@ a.tag:before,
   background: #c5cae9;
 }
 /***************************/
-dl.clanek[data-new] {
+dl.clanek.doclist-new {
   overflow: hidden;
 }
-dl.clanek[data-new] > dt:first-child {
+dl.clanek.doclist-new > dt:first-child {
   position: relative;
 }
-dl.clanek[data-new] > dt:first-child:after  {
+dl.clanek.doclist-new > dt:first-child:after  {
   content: "Nový";
   width: 12em;
   background: #4CAF50;
