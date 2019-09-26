@@ -5,7 +5,7 @@
 
 # Cévkování močového měchýře
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
 
 {kw="močová soustava, retence moči, strach, katetrizace"}
 

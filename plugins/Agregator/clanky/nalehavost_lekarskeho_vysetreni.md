@@ -5,9 +5,9 @@
 
 # Vyhledání lékařské péče: kdy, kde a jak naléhavě
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
 
-{kw="úrazy, krvácení, bolest, poranění, spáleniny, zlomeniny, zánět, močová soustava, břicho"}
+{kw="úrazy, krvácení, bolest, poranění, spáleniny, zlomeniny, vykloubení, zánět"}
 
 Úrazy a ostatní poruchy zdraví mají různý stupeň naléhavosti a způsob řešení od technické první pomoci přes hospitalizaci až po rehabilitaci.
 

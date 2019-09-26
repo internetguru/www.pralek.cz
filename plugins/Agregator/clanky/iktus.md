@@ -5,9 +5,9 @@
 
 # Cévní mozková příhoda neboli iktus či mrtvice
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
 
-{kw="cévy, mozek-nervy, poruchy vědomí, neúrazové, prevence, srdce"}
+{kw="infarkt, cévy, mozek-nervy, zvracení, poruchy vědomí, srdce"}
 
 Záludnost cévní mozkové příhody spočívá v nenápadnosti jejího nástupu a v jejím pozvolném a nebolestivém rozvoji.
 

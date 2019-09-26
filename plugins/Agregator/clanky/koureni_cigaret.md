@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="nádory, prevence, zdravý životní styl, cévy, zhoubné, zánět, ušní-nosní-krční, strava-zažívání"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="prevence, zdravý životní styl, cévy, kašel, nádory, zhoubné, infarkt"}
 
 Kouření tabáku (nejčastěji cigaret) přináší kuřákovi krátkodobě příjemný prožitek, ale dlouhodobě nepříjemnou závislost na nikotinu. Podle stupně závislosti již nebývá kouření nikterak příjemným zážitkem, spíše vzniká problém, když nezbytná cigareta chybí.
 

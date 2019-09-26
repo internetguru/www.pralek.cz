@@ -9,7 +9,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="břicho, úrazy, dětské, bolest, žaludek, strava-zažívání"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="poranění, břicho, úrazy, dětské, bolest, žaludek, střevo, zvracení"}
 
 Spolknutý ostrý předmět většinou nezpůsobí žádné potíže a bez problémů projde zažívacím traktem. Potíže může způsobit spíše větší předmět, který nemusí projít zúženými místy zažívacího traktu. Nejzávažnější poranění způsobí spolknutá kyselina nebo zásada.
 

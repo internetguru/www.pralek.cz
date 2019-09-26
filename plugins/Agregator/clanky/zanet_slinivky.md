@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="bolest, zánět, břicho, orgány"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="bolest, zánět, břicho, stravovací návyky, cukrovka"}
 
 Prudký zánět slinivky břišní je závažné život ohrožující onemocnění. Vzniká nejčastěji v návaznosti na přejedení nevhodnou kombinací jídel (a tvrdého alkoholu).
 

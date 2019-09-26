@@ -9,7 +9,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="ušní-nosní-krční, bolest, zánět, prevence, poranění, kůže-podkoží"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="ušní-nosní-krční, bolest, zánět, zvracení, prevence, poranění"}
 
 Zanedbaná hygiena zevního zvukovodu a nadměrné množství ušního mazu mohou působit velmi nepříjemné potíže. Některé z nich (např. točení hlavy) zdánlivě s uchem nesouvisejí.
 

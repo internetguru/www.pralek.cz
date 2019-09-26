@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="střevo, bolest, zánět, břicho, zdravý životní styl, teplota"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="břicho, bolest, střevo, zánět, zvracení, teplota"}
 
 Mnohotvárnost příznaků zánětu červovitého přívěsku slepého střeva (hovorově slepák) bývá příčinou komplikací nebo zanedbání jeho léčení. V případě nejasných bolestí břicha je třeba vyhledat odborného lékaře (chirurga).
 

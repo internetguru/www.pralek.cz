@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="cévy"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="angína, bezvědomí, teplota, cévy, zvracení, alergie"}
 
 Léky se mohou dostat do těla různými cestami. Stejné množství léku (účinná dávka léku) působí stejně, je-li podáno kteroukoli formou a kteroukoli cestou. Většinou je možné nasadit takovou formu, která pacientovi vyhovuje.
 
