@@ -37,7 +37,7 @@ n/a
 
 Střevní neprůchodnost _(ileus)_ bývá způsobena mechanickou překážkou. Překážka se může nalézat uvnitř střeva, ve střevní stěně nebo zcela mimo střevní stěnu. Dále může být střevní neprůchodnost způsobena porušením nervového či cévního zásobení střeva. Nejčastěji však _ileus_ vzniká jako komplikace jiné choroby – například bývá často bezprostřední příčinou smrti u pokročilé [rakoviny střev][3].
 
-  1. **Funkční ileus** bývá přechodný a většinou samovolně během hodin ustoupí. V opačném případě je nutné užití patřičných léků k obnovení střevní pasáže. _Funkční ileus_ je velmi obtížné odlišit od jiného typu střevní neprůchodnosti. Příznaky jsou podobné, ale časem samy ustoupí. Příčinami jeho vzniku bývají:
+  1. **Funkční ileus** bývá přechodný a většinou samovolně během hodin ustoupí. V opačném případě je nutné užití patřičných léků k obnovení střevní pasáže. _Funkční ileus_ je velmi obtížné zpočátku odlišit od jiného typu střevní neprůchodnosti. Příznaky jsou podobné, ale časem samy ustoupí. Příčinami jeho vzniku bývají:
       * mozkové, hrudní a břišních operace (vždy),
       * [ledvinové koliky][4] (často),
       * [žlučníkové koliky][5] (často),
