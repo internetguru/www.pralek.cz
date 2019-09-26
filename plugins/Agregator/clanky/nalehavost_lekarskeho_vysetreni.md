@@ -45,9 +45,9 @@ n/a
       1. zavolat záchranku.
       2. Postižený **nesmí brát léky proti bolesti, jíst ani pít** (pro případ operačního řešení).
 
-{id="nutnost\_resit\_behem_hodin"}
+{id="nutnost\_resit\_behem_hodiny"}
 
-## Nutnost řešit během hodin
+## Nutnost řešit během hodiny
 
 n/a
 
