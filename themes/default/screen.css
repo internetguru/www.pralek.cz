@@ -304,13 +304,16 @@ a.tag:before,
   background: #c5cae9;
 }
 /***************************/
+dl.clanek.linklist-new,
 dl.clanek.doclist-new {
   overflow: hidden;
 }
+dl.clanek.linklist-new > dt:first-child,
 dl.clanek.doclist-new > dt:first-child {
   position: relative;
 }
-dl.clanek.doclist-new > dt:first-child:after  {
+dl.clanek.linklist-new > dt:first-child:after,
+dl.clanek.doclist-new > dt:first-child:after {
   content: "Nový";
   width: 12em;
   background: #4CAF50;
