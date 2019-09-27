@@ -332,13 +332,25 @@ dl.clanek.doclist-new > dt:first-child:after {
 }
 .agregator-new .hdesc > div:after {
   content: "Nový";
-  background: #4CAF50;
+  transform: rotate(0deg);
+  color: #4CAF50;
+  font-size: 2rem;
+  font-weight: 700;
+  border: 0.25rem solid #4CAF50;
+  display: inline-block;
+  width: fit-content;
+  padding: 0.25rem 1rem;
+  text-transform: uppercase;
+  border-radius: 1rem;
+  -webkit-mask-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/8399/grunge.png');
+  -webkit-mask-size: 944px 604px;
+  mix-blend-mode: color-dodge;
   z-index: 1;
+  position: relative;
+  /* bottom: 0.5em; */
   position: absolute;
   bottom: 0;
-  left: 1em;
-  padding: 0.5em 1em;
-  border-radius: 0.3em;
+  left: 1rem;
 }
 /***************************/
 .contentbalancer-simple {
