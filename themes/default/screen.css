@@ -338,7 +338,6 @@ dl.clanek.doclist-new > dt:first-child:after {
   font-weight: 700;
   border: 0.25rem solid #4CAF50;
   display: inline-block;
-  width: fit-content;
   padding: 0.25rem 1rem;
   text-transform: uppercase;
   border-radius: 1rem;
