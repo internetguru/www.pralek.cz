@@ -331,12 +331,12 @@ dl.clanek.doclist-new > dt:first-child:after {
   pointer-events: none;
 }
 .agregator-new .hdesc > div:after {
-  content: "Nový";
+  content: "Nový článek";
   transform: rotate(0deg);
   color: #4CAF50;
   font-size: 1.75rem;
-  font-weight: 700;
-  border: 0.25rem solid #4CAF50;
+  font-weight: 500;
+  border: medium solid #4CAF50;
   display: inline-block;
   padding: 0.25rem 1rem;
   text-transform: uppercase;
