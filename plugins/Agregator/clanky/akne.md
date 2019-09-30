@@ -89,5 +89,5 @@ n/a
  [4]: teplota
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: stravovaci_navyky
- [7]: vodni_rezim
+ [7]: prijem_tekutin
 
