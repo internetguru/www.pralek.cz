@@ -102,7 +102,7 @@ n/a
  [3]: bolesti_v_zadech_houser
  [4]: lecba_zanetu
  [5]: teplota
- [6]: vodni_rezim
+ [6]: prijem_tekutin
  [7]: mikroorganizmy
  [8]: koureni_cigaret
  [9]: krevni_tlak

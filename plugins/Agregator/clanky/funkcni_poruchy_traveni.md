@@ -111,7 +111,7 @@ n/a
  [8]: otres_mozku
  [9]: strevni_nepruchodnost
  [10]: kyla
- [11]: vodni_rezim
+ [11]: prijem_tekutin
  [12]: nalehavost_lekarskeho_vysetreni
  [13]: stravovaci_navyky
  [14]: krvaceni_z_konecniku

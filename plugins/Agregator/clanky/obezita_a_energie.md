@@ -86,5 +86,5 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: stravovaci_navyky
- [2]: vodni_rezim
+ [2]: prijem_tekutin
 

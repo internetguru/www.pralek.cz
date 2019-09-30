@@ -72,6 +72,6 @@ n/a
  [4]: imunita
  [5]: leky_proti_bolesti
  [6]: kasel_a_typy_kasle
- [7]: vodni_rezim
+ [7]: prijem_tekutin
  [8]: funkcni_poruchy_traveni
 

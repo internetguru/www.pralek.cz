@@ -91,7 +91,7 @@ n/a
  [1]: mikroorganizmy
  [2]: teplota
  [3]: zanet
- [4]: vodni_rezim
+ [4]: prijem_tekutin
  [5]: imunita
  [6]: bolest_v_krku_angina
  [7]: mocove_kameny

@@ -119,5 +119,5 @@ n/a
  [13]: srdecni_infarkt
  [14]: mikroorganizmy
  [15]: zanet
- [16]: vodni_rezim
+ [16]: prijem_tekutin
 

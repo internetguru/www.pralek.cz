@@ -5,8 +5,6 @@
 
 # Stravovací návyky a trávicí systém
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
 {kw="zdravý životní styl, strava-zažívání, břicho, žaludek"}
@@ -124,5 +122,5 @@ n/a
  [4]: zlucove_kameny
  [5]: zanet_slinivky
  [6]: mikroorganizmy
- [7]: vodni_rezim
+ [7]: prijem_tekutin
 

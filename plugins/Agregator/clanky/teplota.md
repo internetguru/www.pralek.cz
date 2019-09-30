@@ -5,8 +5,6 @@
 
 # Normální tělesná teplota, podchlazení, horečka
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
 
 {kw="teplota, podchlazení, přehřátí, zánět, bolest, prevence, tekutiny, mikroorganizmy"}
@@ -122,7 +120,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: resuscitace-ozivovani
- [2]: vodni_rezim
+ [2]: prijem_tekutin
  [3]: funkcni_poruchy_traveni
  [4]: bolest_hlavy_migrena
  [5]: zanet

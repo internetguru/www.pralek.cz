@@ -93,7 +93,7 @@ n/a
  [6]: lymfaticke_uzliny
  [7]: zanet
  [8]: teplota
- [9]: vodni_rezim
+ [9]: prijem_tekutin
  [10]: lecba_zanetu
  [11]: nezhoubne_nadory
  [12]: mocove_kameny

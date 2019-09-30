@@ -5,8 +5,6 @@
 
 # Močové kameny a ledvinová kolika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
 
 {kw="ledviny, močová soustava, kolika, bolest, prevence, neúrazové, krvácení, zvracení, zánět"}
@@ -76,5 +74,5 @@ n/a
  [5]: funkcni_poruchy_traveni
  [6]: nalehavost_lekarskeho_vysetreni
  [7]: stravovaci_navyky
- [8]: vodni_rezim
+ [8]: prijem_tekutin
 
