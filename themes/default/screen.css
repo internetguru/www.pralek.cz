@@ -312,6 +312,7 @@ dl.clanek.linklist-new > dt:first-child,
 dl.clanek.doclist-new > dt:first-child {
   position: relative;
 }
+.agregator-new .hdesc > div:after,
 dl.clanek.linklist-new > dt:first-child:after,
 dl.clanek.doclist-new > dt:first-child:after {
   content: "Nový";
@@ -325,34 +326,39 @@ dl.clanek.doclist-new > dt:first-child:after {
   letter-spacing: 0.075em;
   color: #f0f0f0;
   transform: rotate(-45deg);
-  -webkit-transform: rotate(-45deg);
   font-weight: 500;
   z-index: 1;
   pointer-events: none;
 }
 .agregator-new .hdesc > div:after {
   content: "Nový článek";
-  transform: rotate(0deg);
-  color: #4CAF50;
-  font-size: 1.75rem;
-  font-weight: 500;
-  border: medium solid #4CAF50;
-  display: inline-block;
-  padding: 0.25rem 1rem;
-  text-transform: uppercase;
-  border-radius: 1rem;
-  -webkit-mask-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/8399/grunge.png');
-  -webkit-mask-size: 944px 604px;
-  mix-blend-mode: color-dodge;
-  position: relative;
-  z-index: 2;
-  width: fit-content;
-  margin-top: 1rem;
-  margin-left: auto;
-  margin-right: auto;
+  transform: rotate(45deg);
+  top: auto;
+  bottom: 0.5em;
+  left: -3.5em;
+  letter-spacing: normal;
 }
 @media all and (min-width: 52em) {
   .agregator-new .hdesc > div:after {
+    transform: rotate(0deg);
+    background: none;
+    line-height: normal;
+    color: #4CAF50;
+    font-size: 1.75rem;
+    font-weight: 500;
+    border: medium solid #4CAF50;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    text-transform: uppercase;
+    border-radius: 1rem;
+    -webkit-mask-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/8399/grunge.png');
+    -webkit-mask-size: 944px 604px;
+    mix-blend-mode: color-dodge;
+    z-index: 2;
+    width: fit-content;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
     position: absolute;
     z-index: 1;
     bottom: 0;
