@@ -1,7 +1,9 @@
 
 {xml:lang="cs" data-type="article" data-image="/files/preview/koutek/cevkovani/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{id="cevkovani" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Cévkování" ctime="2019-09-06T18:37:51+02:00"}
+<!-- https://search.creativecommons.org/photos/111aaef0-3658-4281-9142-02902f560527  -->
+
+{id="cevkovani" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Cévkování" ctime="2019-10-07T18:44:03+02:00"}
 
 # Cévkování močového měchýře
 
@@ -18,7 +20,7 @@ Příčiny retence moči jsou
   * ucpání močové trubice např. krevní sraženinou a
   * porucha nervového zásobení močového měchýře.
 
-Cévka je sterilní trubička, kterou je z močového měchýře vypouštěna moč. Je vždy na jedno použití. Cévkování je jednoduchý nebolestivý zákrok, který je nepříjemný a obtěžuje převážně studem.
+Cévka je sterilní trubička, kterou je z močového měchýře vypouštěna moč. Je vždy na jedno použití. Cévkování je jednoduchý nebolestivý zákrok, který je nepříjemný a obtěžuje převážně studem. 
 
 {class="example"}
 
@@ -42,7 +44,7 @@ V případě očekávaných, opakovaných nebo dlouhodobých problémů s retenc
 
 Hlavní hadička odvádí moč. Druhá tenká hadička má na zevním ústí ventilek, kterým se po zavedení cévky naplňuje malý balónek v měchýři. Po naplnění balónku (5 až 10 ml vody) nemůže cévka vypadnout, a tedy ji nelze z měchýře vytáhnout ani vytrhnout.
 
-Močová cévka je následně napojena průhlednou hadičkou na kalibrovaný průhledný sběrný vak. Lze tedy sledovat množství moči i její eventuální příměsi. Moč přitéká do vaku průběžně podle toho, jak rychle je tvořena ledvinami. V močovém měchýři se tedy žádná moč neudržuje. Jedná se o uzavřený systém, který nepáchne a nijak neobtěžuje pacienta ani jeho okolí.
+Močová cévka je následně napojena průhlednou hadičkou na kalibrovaný průhledný sběrný vak. Lze tedy sledovat množství moči i její eventuální příměsi. Moč přitéká do vaku průběžně podle toho, jak rychle je tvořena ledvinami. V močovém měchýři se tedy žádná moč neudržuje. Jedná se o uzavřený systém, který nepáchne a nijak neobtěžuje pacienta ani jeho okolí. 
 
 Cévku lze v měchýři ponechat asi 4 až 5 týdnů, pak je ji třeba vyměnit. Postupně se totiž na cévce usazují různé organické a anorganické látky, které by způsobily nepříjemné komplikace. Pokud se cévka vyměňuje, je nejprve nutné ventilkem vypustit obsah balónku. Pak lze cévku snadno vytáhnout.
 
@@ -70,7 +72,7 @@ n/a
 
   1. Kdy je nutné zavést pacientovi cévku?
   2. Jaký je rozdíl mezi cévkou k jednorázovému vycévkování a trvalou cévkou?
-  3. Proč nelze trvalou cévku vytrhnout z močového měchýře?
+  3. Proč nelze trvalou cévku vytrhnout z močového měchýře? 
   4. Za jak dlouho a proč je třeba vyměnit trvalou cévku?
 
 {id="odkazy" var="inputvar-odkazy_h" class="filter"}
