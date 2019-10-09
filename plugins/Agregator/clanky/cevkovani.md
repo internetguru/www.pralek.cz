@@ -60,7 +60,7 @@ Cévkování je nepříjemné a lidé z něj mívají strach. Značnou roli hraj
   * V případě ucpání cévky je nutné nefunkční cévku odstranit a zavést novou (přecévkovat).
   * Po odstranění cévky mívají pacienti dočasné potíže s udržením moče.
 
-{id="n\_a" var="inputvar-otazky\_h"}
+{id="otazky" var="inputvar-otazky_h"}
 
 ## n/a
 
