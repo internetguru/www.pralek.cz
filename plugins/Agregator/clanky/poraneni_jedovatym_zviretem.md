@@ -27,7 +27,7 @@ Bodnutí včelím či vosím žihadlem lze **ošetřit ledovým obkladem, přilo
 
 Má-li člověk zkušenost a reakci na bodnutí (otok) má minimální, **není třeba podléhat panice ani při bodnutí do úst nebo do jazyka**. Lze předpokládat, že se nevyvine závažnější reakce, než při bodnutí do jiné části těla. Eventuální otok lze potlačit cucáním ledu.
 
-Lidem trpícím značnou reakcí na bodnutí hmyzem je potřeba [neprodleně zavolat záchranku][2]. Alergici u sebe mívají injekci s vhodným lékem, kterou si v takovém případě [svépomocí aplikují][4].
+Lidem trpícím značnou reakcí na bodnutí hmyzem je potřeba [neprodleně zavolat záchranku][2]. [Alergici u sebe mívají][1] injekci s vhodným lékem, kterou si v takovém případě [svépomocí aplikují][4].
 
 Zvláštní kapitolou je **poranění drobným hmyzem** (mouchou či muškou), který není jedovatý a nemá žihadlo. Může však kousnutím do kůže [zanést infekci][5]. Takový kousanec zprvu pouze svědí, ale po několika dnech se projeví místním [rozvojem zánětu][6].
 
