@@ -31,11 +31,11 @@ n/a
 
 Může vzniknout problém ve stavbě páteře, jako:
 
-  * deformita vrozená nebo získaná (velmi časté),
+  * deformita vrozená nebo získaná (velmi časté), například [torticolis][3]
   * přetížení části páteře (např. nezvyklou prací, pádem, sportem, prudkým pohybem, spánkem v nevhodné poloze, dlouhodobým pobytem v nepřirozené poloze) nebo naopak
   * přílišné uvolnění vazů,
-  * [zborcení těla obratle][3] (zároveň s rozvolněním vazů),
-  * v místech přetěžovaných [úponů svalů a vazů ke kosti][4] (tvoří se kostěné výrůstky),
+  * [zborcení těla obratle][4] (zároveň s rozvolněním vazů),
+  * v místech přetěžovaných [úponů svalů a vazů ke kosti][5] (tvoří se kostěné výrůstky),
   * podráždění, prochlazení, rozvolnění nebo přetížení SI skloubení.
 
 V případě takového onemocnění kloubů a vazů přebírá jejich funkci (udržet polohu těla) svalový korzet. Nahrazuje však jejich funkci pouze částečně nebo krátkodobě. Brzy se objevují v přetížených svalech bolestivé zatvrdliny – _svalové kontraktury_. Jestliže je kontrakturou utlačován z páteře vystupující nerv, bolest vyzařuje tím směrem, kam tento nerv vede – _kořenové bolesti_. Úplné bolestivé ztuhlosti části pateře s nemožností pohybu se říká houser.
@@ -55,14 +55,14 @@ Hlavní zásady, jak zmírnit bolesti v zádech:
   * zatěžování páteře musí být přiměřené a pravidelné (ne nárazové),
   * po větší zátěži má následovat hodnotný (třeba aktivní) odpočinek,
   * vzniklou bolest v zádech neřešit ihned lékem proti bolesti (bolest je upozorněním, že je něco v nepořádku) ale snažit se páteř vyhřát suchým teplem a rozhýbat,
-  * [lék proti bolesti][5] si vzít až v případě delšího přetrvávání potíží, a to ne na práci ale až k odpočinku – nejlépe na noc a začít spíše slabšími (žádný lék páteř nevyléčí, žádný není nejlepší nebo nejhorší, ani ten, který někomu jinému pomohl),
+  * [lék proti bolesti][6] si vzít až v případě delšího přetrvávání potíží, a to ne na práci ale až k odpočinku – nejlépe na noc a začít spíše slabšími (žádný lék páteř nevyléčí, žádný není nejlepší nebo nejhorší, ani ten, který někomu jinému pomohl),
   * klidný a pohodlný spánek (třeba s lékem proti bolesti) na kvalitní madraci,
   * bránit se propocení a následnému prochlazení (hlavně bederní a krční páteř),
   * k jednostranné zátěži střídat strany (prostřídat končetiny),
   * v případě propocení se převléknout,
   * rehabilitace (masáže, trakce) a fyzikální terapie jsou příjemné, jistě ovlivní bolavou páteř blahodárně, ale příčinu potíží neodstraní (nevyléčí) většinou jen bolest přemístí,
   * dlouhodobé potíže s páteří vedou vždy k narušení psychiky, je vhodné vyhledat psychologa nebo lépe psychiatra,
-  * v případě dlouhodobých problémů nebo náhle vzniklých prudkých bolestí a potíží je třeba [vyhledat lékaře][6] a po vyšetření se podrobit doporučenému léčebnému postupu.
+  * v případě dlouhodobých problémů nebo náhle vzniklých prudkých bolestí a potíží je třeba [vyhledat lékaře][7] a po vyšetření se podrobit doporučenému léčebnému postupu.
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -100,8 +100,9 @@ n/a
 
  [1]: artroza
  [2]: starecke_zlomeniny
- [3]: zlomeniny_kosti
- [4]: onemocneni_slach
- [5]: leky_proti_bolesti
- [6]: nalehavost_lekarskeho_vysetreni
+ [3]: akutni_torticollis
+ [4]: zlomeniny_kosti
+ [5]: onemocneni_slach
+ [6]: leky_proti_bolesti
+ [7]: nalehavost_lekarskeho_vysetreni
 
