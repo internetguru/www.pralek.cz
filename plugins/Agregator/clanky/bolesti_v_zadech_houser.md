@@ -31,7 +31,7 @@ n/a
 
 Může vzniknout problém ve stavbě páteře, jako:
 
-  * deformita vrozená nebo získaná (velmi časté), například [torticolis][3]
+  * deformita vrozená nebo získaná (velmi časté), například [torticollis][3]
   * přetížení části páteře (např. nezvyklou prací, pádem, sportem, prudkým pohybem, spánkem v nevhodné poloze, dlouhodobým pobytem v nepřirozené poloze) nebo naopak
   * přílišné uvolnění vazů,
   * [zborcení těla obratle][4] (zároveň s rozvolněním vazů),
