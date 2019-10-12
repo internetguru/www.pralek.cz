@@ -27,10 +27,10 @@ Některé látky si organizmus vyrobit neumí (esenciální bílkoviny, vitamín
 
 n/a
 
-Při jídle je strava **v ústech řádně rozmělněna a promíchána se slinami**. Tím je zahájen proces trávení, protože už sliny obsahují látku (enzym), štěpící složité cukry. Ve stěnách jícnu, žaludku i střev jsou hladké svaly, které zvolna posunují obsah požadovaným směrem (peristaltika).
+Při jídle je strava **v ústech řádně rozmělněna a promíchána se slinami**. Tím je zahájen proces trávení, protože už sliny obsahují látku (enzym), štěpící složité cukry. Ve stěnách jícnu, žaludku i střev jsou hladké svaly, které zvolna posunují obsah [požadovaným směrem][2] (peristaltika).
 
-  * Nedostatečné rozkousání potravy (hltání jídla) může způsobit [uvíznutí polykaného sousta v jícnu][2].
-  * V případě, že nedostatečně rozkousaná strava projde, bude déle „přemílána“ v žaludku. To může působit [pocit plnosti nebo tlaku v nadbřišku po jídle][3]. Řešením těchto potíží nemusí být hned lék; často postačí stravu dostatečně kousat.
+  * Nedostatečné rozkousání potravy (hltání jídla) může způsobit [uvíznutí polykaného sousta v jícnu][3].
+  * V případě, že nedostatečně rozkousaná strava projde, bude déle „přemílána“ v žaludku. To může působit [pocit plnosti nebo tlaku v nadbřišku po jídle][4]. Řešením těchto potíží nemusí být hned lék; často postačí stravu dostatečně kousat.
   * V případě nedostatečného promísení stravy se slinami (zlozvyk zapíjení jídla vodou) budou chybět první trávicí enzymy a opozdí se rozkládání cukrů. Cukry se tak dostávají až do střeva, kde způsobují zažívací potíže (větry).
 
 **V žaludku je potrava míšena s dalšími enzymy a s kyselinou solnou.** Ty se tvoří ve zvláštních žlázkách v žaludeční stěně. Tím dochází k rozkladu bílkovin. Potrava zůstává v žaludku různě dlouhou dobu od několika minut po mnoho hodin – podle složení stravy a stupně rozkousání.
@@ -39,11 +39,11 @@ Při jídle je strava **v ústech řádně rozmělněna a promíchána se slinam
 
 Zapíjením jídla vodou se zmíněné enzymy a kyselina zbytečně ředí a odplavují dále do střeva. Tím se kvalita trávení znehodnocuje se všemi důsledky (tlačení břicha, větry a prodloužení trávicího procesu).
 
-**Zpracovaná potrava v tekutém stavu pokračuje do dvanáctníku.** Sem vyúsťují [žlučové cesty][4] společně s vývodem slinivky břišní. Žluč je trávicí šťáva, která se tvoří v játrech. Trávicí [šťáva slinivky břišní][5] je velmi agresivní tekutina; do střeva musí přitéct její přiměřené množství. Zde dochází k rozkladu tuků.
+**Zpracovaná potrava v tekutém stavu pokračuje do dvanáctníku.** Sem vyúsťují [žlučové cesty][5] společně s vývodem slinivky břišní. Žluč je trávicí šťáva, která se tvoří v játrech. Trávicí [šťáva slinivky břišní][6] je velmi agresivní tekutina; do střeva musí přitéct její přiměřené množství. Zde dochází k rozkladu tuků.
 
 **V dalších částech tenkého střeva** (lačník a kyčelník) probíhá štěpení potravy a postupné vstřebávání všech živin. V každé části střeva se vstřebává v návaznosti určitá živina, vitamín nebo minerál.
 
-**Nevstřebané zbytky potravy postupují do tlustého střeva** (tračník). Zde je pomocí zcela jiných [bakteriálních kmenů][6] dokončeno vstřebávání potravy a následuje zpětné vstřebávání tekutin a formování stolice. Ta je uložena v esovité kličce a při vyprazdňování (defekaci) vychází z konečníku řitním otvorem.
+**Nevstřebané zbytky potravy postupují do tlustého střeva** (tračník). Zde je pomocí zcela jiných [bakteriálních kmenů][7] dokončeno vstřebávání potravy a následuje zpětné vstřebávání tekutin a formování stolice. Ta je uložena v esovité kličce a při vyprazdňování (defekaci) vychází z konečníku řitním otvorem.
 
 {id="zasady\_spravneho\_stravovani"}
 
@@ -58,7 +58,7 @@ n/a
   * Jíst se má několikrát denně, vždy v klidu, beze spěchu.
   * Je dobré jíst opakovaně sezónní jídla a
   * preferovat potraviny z domácích zdrojů než dovážené.
-  * [Dodržování pitného režimu][7], tekutiny nelze vynechat.
+  * [Dodržování pitného režimu][8], tekutiny nelze vynechat.
   * Dodržení stravovacího režimu nutné naopak není; **půst je zdravý**.
   * Dobré jídlo lze doplnit sklenkou vína, piva nebo teplého čaje.
 
@@ -117,10 +117,11 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: obezita_a_energie
- [2]: spolknute_predmety
- [3]: funkcni_poruchy_traveni
- [4]: zlucove_kameny
- [5]: zanet_slinivky
- [6]: mikroorganizmy
- [7]: prijem_tekutin
+ [2]: strevni_nepruchodnost
+ [3]: spolknute_predmety
+ [4]: funkcni_poruchy_traveni
+ [5]: zlucove_kameny
+ [6]: zanet_slinivky
+ [7]: mikroorganizmy
+ [8]: prijem_tekutin
 
