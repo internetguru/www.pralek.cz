@@ -21,7 +21,7 @@ Strnutí šíje má dvě formy, které mají společný projev a různou závaž
 
 n/a
 
-Náhle vzniklé strnutí šíje je onemocnění především dětí školního věku a mladých lidí. Zcela zdravý člověk večer spokojeně uléhá ke spánku a ráno se probouzí s bolestivě zkrouceným krkem. Krk nelze narovnat, nelze jím ani pohnout.
+Náhle vzniklé strnutí šíje je onemocnění především dětí školního věku a mladých lidí. Zcela zdravý člověk večer spokojeně uléhá ke spánku a ráno se probouzí [s bolestivě zkrouceným krkem][1]. Krk nelze narovnat, nelze jím ani pohnout.
 
 Stažené svaly na jedné straně krku jsou bolestivé. Mohou být postiženy svaly vzadu podél páteře, nebo vpředu na krku. Prudká bolest může někdy „vystřelovat“ do hlavy nebo do ramene. **Potíže přicházejí náhle, bez varování, z plného zdraví.**
 
@@ -38,7 +38,7 @@ Příčina vzniku onemocnění většinou není známa. Někdy ji však lze hled
 
 n/a
 
-Cílem léčby je zmírnit bolest a co nejrychleji snížit svalovou ztuhlost. Na krk je nutné přiložit suchý teplý obklad (například vyhřátou šálu) a krk ponechat ve vynucené poloze až do ústupu bolestí. Lze užít libovolné [léky proti bolesti][1]. Teprve po zmírnění bolestí lze postupně [krk začít rozcvičovat][2].
+Cílem léčby je zmírnit bolest a co nejrychleji snížit svalovou ztuhlost. Na krk je nutné přiložit suchý teplý obklad (například vyhřátou šálu) a krk ponechat ve vynucené poloze až do ústupu bolestí. Lze užít libovolné [léky proti bolesti][2]. Teprve po zmírnění bolestí lze postupně [krk začít rozcvičovat][1].
 
 Takto vedená léčba odstraní problém během několika dnů; vždy nejpozději do týdne. **U dětí je možné se tímto postupem často zcela vyhnout použití léků.** Onemocnění nezanechává žádné trvalé následky a vracívá se jen zcela výjimečně.
 
@@ -97,6 +97,6 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: leky_proti_bolesti
- [2]: bolesti_v_zadech_houser
+ [1]: bolesti_v_zadech_houser
+ [2]: leky_proti_bolesti
 
