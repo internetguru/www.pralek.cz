@@ -10,7 +10,7 @@
     Config.closeValue = "×"
     Config.descClass = Config.ns + "-desc"
     Config.dataDescAttr = "data-" + Config.ns + "-desc"
-    Config.hrefClass = Config.ns + "-href eventable"
+    Config.hrefClass = Config.ns + "-href"
     Config.dataHrefTitleAttr = "data-" + Config.ns + "-href-title"
     Config.css = '/* deginition.js */' +
       '.' + Config.hiddenClass + ' {' +
@@ -114,6 +114,7 @@
           var terms = document.querySelectorAll("." + Config.ns)
           for (var i = 0; i < terms.length; i++) {
             var termComp = new DefinitionComponent(terms[i])
+            terms[i].classList.add("eventable")
             terms[i].addEventListener("click", toggleTerm.bind(termComp), false)
           }
           return terms.length
