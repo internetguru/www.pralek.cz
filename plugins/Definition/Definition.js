@@ -144,7 +144,7 @@
     };
 
     IGCMS.Definition = new Definition()
-    IGCMS.require("IGCMS.Eventable", function () {
+    require("IGCMS.Eventable", function () {
       IGCMS.Definition.init()
     })
   });
