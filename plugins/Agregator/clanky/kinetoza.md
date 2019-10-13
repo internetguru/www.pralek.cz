@@ -9,7 +9,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
 
-{kw="prevence, zvracení, mozek-nervy, strava-zažívání, žaludek, břicho"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="prevence, zvracení, mozek-nervy, žaludek, břicho"}
 
 Pocit nevolnosti může být vyvolán nejrůznějšími druhy pohybu. Tomu lze mnohdy snadno předejít. Někdy však mohou být tytéž stavy projevem onemocnění.
 

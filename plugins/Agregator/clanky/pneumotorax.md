@@ -9,7 +9,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="hrudník, dýchání, úrazy, zlomeniny, bolest, strach, krvácení, první pomoc, pohyb"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="hrudník, dýchání, úrazy, bolest, strach, krvácení, zlomeniny, první pomoc, pohyb"}
 
 Pneumotorax je výskyt vzduchu v prostoru mezi plícemi a hrudníkem. Příslušná plíce se tak stává nefunkční. Její úlohu (dýchání) většinou plně nahradí druhá (zdravá) plíce.
 

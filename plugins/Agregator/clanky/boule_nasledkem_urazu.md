@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="úrazy, kůže-podkoží, bolest, cévy, pohyb, první pomoc"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="úrazy, krvácení, kůže-podkoží, bolest, cévy, pohyb, první pomoc"}
 
 Boule vzniklé pohmožděním mají různou povahu; může jít o vylitou krev nebo jinou tekutinu. Podle místa vzniku se liší závažností, bolestivostí, léčbou a průběhem hojení.
 

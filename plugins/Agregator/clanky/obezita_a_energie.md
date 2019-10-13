@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="strava-zažívání, zdravý životní styl, látková výměna, prevence, břicho"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="strava-zažívání, zdravý životní styl, pohyb, látková výměna, prevence, břicho"}
 
 Obezitu může řešit jedině změna poměru příjmu a výdeje energie. Pokud se množství přijaté energie (potravou) rovná množství energie spotřebované (prací nebo cvičením), pak člověk nehubne ani netloustne.
 

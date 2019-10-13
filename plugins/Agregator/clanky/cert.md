@@ -9,7 +9,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="mýty, kůže-podkoží, zánět, zhoubné, nezhoubné, nádory, cévy, pohyb"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="mýty, nádory, kůže-podkoží, zánět, zhoubné, nezhoubné, cévy"}
 
 Postava čerta vznikla pozorováním lidí s různým zdravotním postižením. Typické čertovské příznaky se totiž u lidí vyskytují dosud jako vrozené či získané vady. U jednoho člověka se může vyskytnout i více příznaků současně.
 

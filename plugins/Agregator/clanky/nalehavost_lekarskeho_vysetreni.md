@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
 
-{kw="úrazy, krvácení, bolest, poranění, spáleniny, zlomeniny, vykloubení, zánět"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="úrazy, krvácení, poranění, spáleniny, zlomeniny, vykloubení, bolest, zánět"}
 
 Úrazy a ostatní poruchy zdraví mají různý stupeň naléhavosti a způsob řešení od technické první pomoci přes hospitalizaci až po rehabilitaci.
 
