@@ -57,7 +57,7 @@ V obličeji se může vyskytnout [rozsáhlý névus][1], nejčastěji pigmentov�
 
 n/a
 
-Vady řeči se vyskytují velmi často. Koktajícím lidem se někdy podaří jejich vadu obelstít např. opakováním nějakého slova či jeho části. A tak zjevně vzniklo i čertovo blekotání. Lidé s takovou vadou řeči působí většinou směšně, dříve jistě působili mnohdy i strašidelně.
+Vady řeči se vyskytují velmi často. Koktajícím lidem se někdy podaří jejich vadu obelstít např. opakováním nějakého slova či jeho části. A tak zjevně vzniklo i čertovo blekotání. Lidé s takovou vadou řeči působí většinou směšně, dříve působili jistě mnohdy i strašidelně.
 
 <!--     <p>Nutno dodat, že v dnešní době někteří řečníci považují vadu řeči za jakýsi image jako by vůbec netoužili naučit se správnou výslovnost.</p> -->
 
