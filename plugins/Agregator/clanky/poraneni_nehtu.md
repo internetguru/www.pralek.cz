@@ -68,7 +68,7 @@ Běžné uhození do nehtu (nejčastěji kladivem) je prosté odloučení nehtu 
 
 Od bolesti částečně uleví zvednutí poraněné končetiny do výšky nad úroveň těla a ledování. Sníží se tím tlak a prokrvení bolestivého místa. Bolest však může narůstat v souvislosti s eventuálním rozvojem zánětu.
 
-Pro urychlení léčení a odstranění bolesti lékař zcela bezbolestně provrtá nehtem drobný otvor _(fenestrace nehtu)_. Otvorem pod tlakem vyteče nahromaděná krev a potíže ihned ustoupí. Zánět se nerozvine. Po vyprázdnění nebo vstřebání krve nehet odpadne nebo postupně odroste a vyroste nový.
+Pro urychlení léčení a odstranění bolesti lékař zcela bezbolestně provrtá nehtem drobný otvor _(fenestrace nehtu)_. Otvorem vyteče pod tlakem nahromaděná krev a potíže ihned ustoupí. Zánět se nerozvine. Po vyprázdnění nebo vstřebání krve nehet odpadne nebo postupně odroste a vyroste nový.
 
 {id="uhozeni\_do\_nehtu\_s\_poranenim\_nehtoveho\_luzka"}
 
