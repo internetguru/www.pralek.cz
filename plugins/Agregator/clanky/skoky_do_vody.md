@@ -13,7 +13,7 @@
 
 Skoky do známé i neznámé vody mohou být velmi nebezpečné. V drtivé většině případů mívají skokani změněné uvažování. Typicky se před někým předvádějí a nebývají tedy u vody sami. Proto je na jejich kamarádech, aby jim v takovém konání zabránili.
 
-Neprozkoumaná voda je každoroční nástrahou „odvážlivců“ se sníženým úsudkem. Nemalý podíl na zraněních spojených se skokem do vody nesou i dobře známé vody. Úrazy závisí mimo ostatních faktorů také na typu skoku.
+Neprozkoumaná voda je každoroční nástrahou „odvážlivců“ se sníženým úsudkem. Nemalý podíl na zraněních spojených se skokem do mělké vody nesou i dobře známé vody. Úrazy závisí mimo ostatních faktorů také na typu skoku.
 
 {id="skok\_do\_nezname_vody"}
 
