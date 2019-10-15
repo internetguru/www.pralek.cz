@@ -5,10 +5,6 @@
 
 # Pohádkový čert: kterak na svět přišel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 <!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
 
 {kw="mýty, nádory, kůže-podkoží, zánět, zhoubné, nezhoubné, cévy"}
@@ -61,9 +57,9 @@ V obličeji se může vyskytnout [rozsáhlý névus][1], nejčastěji pigmentov�
 
 n/a
 
-Vady řeči se vyskytují velmi často. Koktajícím lidem se někdy podaří jejich vadu obelstít např. opakováním nějakého slova či jeho části. A tak zjevně vzniklo i čertovo blekotání, neboť lidé s takovou vadou řeči působili podivně.
+Vady řeči se vyskytují velmi často. Koktajícím lidem se někdy podaří jejich vadu obelstít např. opakováním nějakého slova či jeho části. A tak zjevně vzniklo i čertovo blekotání. Lidé s takovou vadou řeči působí většinou směšně, dříve jistě působili mnohdy i strašidelně.
 
-Nutno dodat, že v dnešní době někteří řečníci považují vadu řeči za jakýsi image jako by vůbec netoužili naučit se správnou výslovnost.
+<!--     <p>Nutno dodat, že v dnešní době někteří řečníci považují vadu řeči za jakýsi image jako by vůbec netoužili naučit se správnou výslovnost.</p> -->
 
 {id="socialni\_postaveni\_certa"}
 
