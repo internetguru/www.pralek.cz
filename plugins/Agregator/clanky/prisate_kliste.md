@@ -21,11 +21,11 @@ Klíště může být přenašečem dvou [infekčních chorob][1] – virového 
 
 n/a
 
-Přisáté klíště je třeba neodkladně a přitom šetrně odstranit například pomocí sady k odstranění klíštěte s návodem na použití (k dostání v lékárnách). K zahubení klíštěte dobře poslouží také alkoholová desinfekce nebo jakákoli mast.
+Přisáté klíště je třeba neodkladně a přitom šetrně odstranit například pomocí sady k odstranění klíštěte s návodem na použití (k dostání v lékárnách). K zahubení klíštěte dobře poslouží také alkoholová desinfekce nebo jakákoli mast nebo jedlý olej.
 
 Udušené klíště se dá z kůže snadno **odstranit šetrným kývavým pohybem**. Na svém ostrém sosáku má klíště zpětné háčky (nikoli vruty). Proto **jej nelze vytočit** ani ve směru ani proti směru hodinových ručiček. Tím naopak často zůstane část klíštěte v ráně.
 
-Po odstranění klíštěte zůstává vždy kolem místa poranění zarudlý pupínek. Jedná se o běžnou reakci na látku proti srážení krve, kterou klíště vstříklo do kůže v okamžiku zakousnutí. Na odstranění klíštěte není třeba chvátat, neboť případná infekce vstupuje do rány v okamžiku zakousnutí (spolu s uvedenou látkou).
+Po odstranění klíštěte zůstává vždy kolem místa poranění zarudlý pupínek. Jedná se o běžnou reakci na látku proti srážení krve, kterou klíště vstříklo do kůže v okamžiku zakousnutí. Na odstranění klíštěte není třeba chvátat, neboť případná infekce vstoupila do rány již v okamžiku zakousnutí (spolu s uvedenou látkou).
 
 {id="pocatecni\_priznaky\_onemocneni"}
 
