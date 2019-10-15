@@ -45,7 +45,8 @@ Vzniku kinetózy je možné předcházet **sledováním pohybu a vyhýbáním se
   * zastávkami s procházkou či proběhnutím,
   * psychickou podporou (u dětí s ujištěním, že dnes bude cesta jistě příjemná),
   * udržováním příjemných podmínek (čerstvý vzduch a příjemná teplota),
-  * příjmem malého množství chutného jídla a dostatkem oblíbených tekutin.
+  * příjmem malého množství chutného jídla a dostatkem oblíbených tekutin,
+  * zákazem hrát za jízdy videohry nebo si číst.
 
 {id="komplikace_kinetozy"}
 
