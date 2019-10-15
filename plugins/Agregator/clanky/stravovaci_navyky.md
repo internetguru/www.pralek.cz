@@ -76,7 +76,7 @@ n/a
 
   * [Nadměrný příjem potravy][1] (nad rámec potřeby organizmu).
   * Vybírání stále stejných oblíbených jídel (lhostejno, zda sladkých nebo smažených).
-  * Vynechávání méně oblíbených jídel (zeleniny).
+  * Vynechávání méně oblíbených jídel (např. zeleniny).
   * Rychlé stravování ve stoje, za jízdy v autě, v neklidu.
   * Opakované pití energetických nápojů a alkoholu nalačno.
   * Zapíjení jídla vodou.
