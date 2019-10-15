@@ -33,7 +33,7 @@ Vyskytuje se **bez souvislosti s jídlem** (nebo zpočátku jídla po delším h
 
 n/a
 
-  1. Kyselá pachuť v ústech se může objevit jako následek přejedení – tedy zvýšením tlaku v žaludku. Kyselý žaludeční obsah (odlišit od [pálení žáhy][3]) se může vracet jícnem do dutiny ústní. Stane-li se tak ve spánku, může dojít k jeho vdechnutí s následným prudkým kašlem nebo i s fatálním koncem.
+  1. Kyselá pachuť v ústech se může objevit jako následek přejedení – tedy zvýšením tlaku v žaludku. Kyselý žaludeční obsah (odlišit od [pálení žáhy][3]) se může vracet jícnem do dutiny ústní. Stane-li se tak ve spánku, může dojít k jeho vdechnutí s následným prudkým kašlem nebo dokonce s fatálním koncem.
   2. Hořká pachuť v ústech bývá doprovodným jevem při [onemocnění žlučníku][6]. Po požití nevhodného jídla se nesprávné množství a koncentrace žluči může dostat zpět z dvanáctníku do žaludku a jícnem do ústní dutiny. Nepříjemné hořko v ústech bývá spojeno s říháním.
 
 {id="zvraceni\_zaludecniho\_obsahu\_s\_primesi_krve"}
