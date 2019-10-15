@@ -58,7 +58,7 @@ Dlouho obtěžující bolestivost, otoky a nemožnost rychlého návratu k běž
 
 {class="example"}
 
-Se zlomeninou zevního kotníku lze například chodit nebo dohrát sportovní zápas.
+Se zlomeninou zevního kotníku lze chodit nebo například dohrát sportovní zápas.
 
 {id="prasklina_lebky"}
 
