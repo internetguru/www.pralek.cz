@@ -78,7 +78,7 @@ n/a
 
 Účastníci silničního provozu většinou respektují výstražná světla i zvukové výstražné zařízení záchranné služby. Často však **nedovedou odhadnout velmi vysokou rychlost záchranky** a manévrují tak, že nutí řidiče záchranky zbytečně brzdit. Tím zpomalují transport a velmi přitěžují pacientovi i posádce, která se snaží pacienta udržet při životě.
 
-Řidiči by měli zpomalit, zajet ke kraji vozovky a umožnit bezproblémové projetí záchranky. Na dvouproudové silnici projíždí sanita uprostřed, na víceproudové silnici mezi pravým a s ním sousedícím pruhem.
+Řidiči by měli zpomalit, zajet ke kraji vozovky a umožnit bezproblémové projetí záchranky. Na dvouproudové silnici projíždí sanita uprostřed, na víceproudové silnici mezi levým a s ním sousedícím pruhem.
 
 {class="example"}
 
