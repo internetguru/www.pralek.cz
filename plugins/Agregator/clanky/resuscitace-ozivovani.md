@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/resuscitace-ozivovani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="resuscitace-ozivovani" short="Resuscitace" ctime="2008-04-20" mtime="2008-04-20"}
+{ctime="2008-04-20" mtime="2008-04-20" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="resuscitace-ozivovani" short="Resuscitace"}
 
 # Resuscitace neboli oživování
 

@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/cert/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cert" short="Čert" ctime="2011-04-01" mtime="2011-04-01"}
+{ctime="2011-04-01" mtime="2011-04-01" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cert" short="Čert"}
 
 # Pohádkový čert: kterak na svět přišel
 

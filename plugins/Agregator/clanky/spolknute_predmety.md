@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/spolknute_predmety/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="spolknute\_predmety" short="Spolknuté předměty" ctime="2009-04-30" mtime="2009-04-30"}
+{ctime="2009-04-30" mtime="2009-04-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="spolknute\_predmety" short="Spolknuté předměty"}
 
 # Spolknuté nebezpečné a ostré předměty
 

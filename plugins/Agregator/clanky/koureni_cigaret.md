@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/koureni_cigaret/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="koureni\_cigaret" short="Kouření cigaret" ctime="2012-02-23" mtime="2012-02-23"}
+{ctime="2012-02-23" mtime="2012-02-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="koureni\_cigaret" short="Kouření cigaret"}
 
 # Závislosti na kouření je snazší předejít
 

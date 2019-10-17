@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/starecke_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="starecke\_zlomeniny" short="Stařecké zlomeniny" ctime="2009-06-22" mtime="2009-06-22"}
+{ctime="2009-06-22" mtime="2009-06-22" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="starecke\_zlomeniny" short="Stařecké zlomeniny"}
 
 # Nejčastější stařecké zlomeniny
 

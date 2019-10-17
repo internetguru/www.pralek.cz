@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/zanet/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zanet" short="Zánět" ctime="2014-04-07" mtime="2014-04-07"}
+{ctime="2014-04-07" mtime="2014-04-07" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zanet" short="Zánět"}
 
 # Kdy zánět léčit, kdy rozhánět a kdy podporovat
 

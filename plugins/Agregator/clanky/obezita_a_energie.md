@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/obezita\_a\_energie/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="obezita\_a_energie" short="Obezita" ctime="2008-02-28" mtime="2017-10-05"}
+{ctime="2008-02-28" mtime="2017-10-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="obezita\_a_energie" short="Obezita"}
 
 # Obezita jako nepoměr příjmu a výdeje energie
 

@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/zasady\_spravneho\_opalovani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zasady\_spravneho_opalovani" short="Zásady správného opalování" ctime="2010-09-03" mtime="2010-09-03"}
+{ctime="2010-09-03" mtime="2010-09-03" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zasady\_spravneho_opalovani" short="Zásady správného opalování"}
 
 # Zásady správného opalování
 

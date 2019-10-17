@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/bodne\_a\_strelne_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bodne\_a\_strelne\_poraneni" short="Bodné a střelné poranění" ctime="2009-05-15" mtime="2009-05-15"}
+{ctime="2009-05-15" mtime="2009-05-15" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bodne\_a\_strelne\_poraneni" short="Bodné a střelné poranění"}
 
 # Bodné a střelné poranění a jeho závažnost
 

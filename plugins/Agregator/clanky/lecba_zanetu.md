@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/lecba_zanetu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lecba\_zanetu" short="Léčba zánětu" ctime="2014-12-27" mtime="2014-12-27"}
+{ctime="2014-12-27" mtime="2014-12-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lecba\_zanetu" short="Léčba zánětu"}
 
 # Léčba zánětu podle druhu a stádia
 

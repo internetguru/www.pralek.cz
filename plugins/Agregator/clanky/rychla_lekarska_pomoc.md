@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/rychla\_lekarska\_pomoc/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rychla\_lekarska_pomoc" short="Rychlá lékařská pomoc" ctime="2010-02-28" mtime="2010-02-28"}
+{ctime="2010-02-28" mtime="2010-02-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rychla\_lekarska_pomoc" short="Rychlá lékařská pomoc"}
 
 # Rychlá lékařská pomoc
 

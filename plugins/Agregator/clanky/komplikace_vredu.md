@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/komplikace_vredu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="komplikace\_vredu" short="Komplikace žaludečních vředů" ctime="2011-07-31" mtime="2011-07-31"}
+{ctime="2011-07-31" mtime="2011-07-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="komplikace\_vredu" short="Komplikace žaludečních vředů"}
 
 # Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku
 

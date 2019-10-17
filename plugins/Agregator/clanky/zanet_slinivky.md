@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/zanet_slinivky/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_slinivky" short="Zánět slinivky" ctime="2011-05-04" mtime="2011-05-04"}
+{ctime="2011-05-04" mtime="2011-05-04" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_slinivky" short="Zánět slinivky"}
 
 # Prudký zánět slinivky břišní: akutní pankreatitida
 

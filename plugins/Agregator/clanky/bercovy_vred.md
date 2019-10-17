@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/bercovy_vred/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bercovy\_vred" short="Bércový vřed" ctime="2014-09-15" mtime="2014-09-15"}
+{ctime="2014-09-15" mtime="2014-09-15" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bercovy\_vred" short="Bércový vřed"}
 
 # Bércový vřed, jeho vývoj a hojení
 

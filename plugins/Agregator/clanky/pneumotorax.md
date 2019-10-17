@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/pneumotorax/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="pneumotorax" short="Pneumotorax" ctime="2013-08-22" mtime="2013-08-22"}
+{ctime="2013-08-22" mtime="2013-08-22" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="pneumotorax" short="Pneumotorax"}
 
 # Závažné poranění hrudníku a pneumotorax
 

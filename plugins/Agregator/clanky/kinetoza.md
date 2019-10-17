@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/kinetoza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Kinetóza" id="kinetoza" ctime="2015-07-13" mtime="2015-07-13"}
+{ctime="2015-07-13" mtime="2015-07-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Kinetóza" id="kinetoza"}
 
 # Nevolnost a zvracení v dopravních prostředcích
 

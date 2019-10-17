@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/bolest\_hlavy\_migrena/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_hlavy_migrena" short="Bolest hlavy, migréna" ctime="2010-03-16" mtime="2010-03-16"}
+{ctime="2010-03-16" mtime="2010-03-16" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_hlavy_migrena" short="Bolest hlavy, migréna"}
 
 # Bolest hlavy, migréna
 

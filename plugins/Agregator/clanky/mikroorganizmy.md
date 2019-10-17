@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/mikroorganizmy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="mikroorganizmy" short="Mikroorganizmy" ctime="2008-06-16" mtime="2008-06-16"}
+{ctime="2008-06-16" mtime="2008-06-16" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="mikroorganizmy" short="Mikroorganizmy"}
 
 # Mikroorganizmus jako pomocník nebo nepřítel člověka
 

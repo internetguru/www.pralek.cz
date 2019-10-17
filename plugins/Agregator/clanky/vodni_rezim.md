@@ -1,11 +1,13 @@
 
 {data-type="article" data-image="/files/preview/koutek/vodni_rezim/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prijem\_tekutin" short="Příjem tekutin" ctime="2010-02-17" mtime="2010-02-17"}
+{ctime="2010-02-17" mtime="2010-02-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prijem\_tekutin" short="Příjem tekutin"}
 
-# Přiměřený příjem tekutin.
+# Přiměřený příjem tekutin
 
-{kw="tekutiny, zdravý životní styl, močová soustava, prevence, dětské, stařecké, břicho"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-17, do not edit -->
+
+{kw="tekutiny, zdravý životní styl, močová soustava, teplota, prevence, dětské, stařecké"}
 
 Životodárná voda tvoří převážnou část objemu i hmotnosti lidského těla. Dostatek pitné vody je podmínkou pro správný chod celého organizmu (pitný režim). Stejně důležitý je přiměřený poměr mezi množstvím pitné vody, solí a minerálů.
 

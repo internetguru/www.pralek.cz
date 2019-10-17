@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/rakovina\_tlusteho\_streva\_a\_konecniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_tlusteho\_streva\_a_konecniku" short="Rakovina tlustého střeva a konečníku" ctime="2010-07-17" mtime="2010-07-17"}
+{ctime="2010-07-17" mtime="2010-07-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_tlusteho\_streva\_a_konecniku" short="Rakovina tlustého střeva a konečníku"}
 
 # Rakovina tlustého střeva a konečníku
 

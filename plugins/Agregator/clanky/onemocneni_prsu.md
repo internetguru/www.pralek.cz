@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/onemocneni_prsu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_prsu" short="Onemocnění prsu" ctime="2010-06-29" mtime="2010-06-29"}
+{ctime="2010-06-29" mtime="2010-06-29" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_prsu" short="Onemocnění prsu"}
 
 # Onemocnění prsu
 

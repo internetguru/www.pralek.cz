@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/krvacejici_varix/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvacejici\_varix" short="Krvácející varix" ctime="2014-09-06" mtime="2014-09-06"}
+{ctime="2014-09-06" mtime="2014-09-06" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvacejici\_varix" short="Krvácející varix"}
 
 # Krvácení z křečové žíly dolní končetiny
 

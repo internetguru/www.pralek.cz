@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/krecove_zily/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krecove\_zily" short="Křečové žíly" ctime="2009-03-11" mtime="2009-03-11"}
+{ctime="2009-03-11" mtime="2009-03-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krecove\_zily" short="Křečové žíly"}
 
 # Křečové žíly dolních končetin neboli varixy
 

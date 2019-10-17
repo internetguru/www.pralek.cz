@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/pady\_z\_kola/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pady\_z_kola" short="Pády z kola" ctime="2012-11-20" mtime="2012-11-20"}
+{ctime="2012-11-20" mtime="2012-11-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pady\_z_kola" short="Pády z kola"}
 
 # Úrazy související s pádem z kola
 

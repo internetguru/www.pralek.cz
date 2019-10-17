@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/imunita/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita" ctime="2008-06-01" mtime="2008-06-01"}
+{ctime="2008-06-01" mtime="2008-06-01" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita"}
 
 # Imunita: obranyschopnost organizmu
 

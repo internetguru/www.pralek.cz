@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/znamenko-bradavice-rakovina/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="znamenko-bradavice-rakovina" short="Znaménko, bradavice, rakovina" ctime="2009-02-28" mtime="2009-02-28"}
+{ctime="2009-02-28" mtime="2009-02-28" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="znamenko-bradavice-rakovina" short="Znaménko, bradavice, rakovina"}
 
 # Mateřské znaménko, bradavice nebo rakovina
 

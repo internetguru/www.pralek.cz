@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/tesny_prstynek/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tesny\_prstynek" short="Těsný prstýnek" ctime="2015-05-28" mtime="2015-05-28"}
+{ctime="2015-05-28" mtime="2015-05-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tesny\_prstynek" short="Těsný prstýnek"}
 
 # Prstýnek na oteklém prstu
 

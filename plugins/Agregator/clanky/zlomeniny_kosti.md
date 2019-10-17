@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/zlomeniny_kosti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlomeniny\_kosti" short="Zlomeniny kostí" ctime="2009-10-22" mtime="2009-10-22"}
+{ctime="2009-10-22" mtime="2009-10-22" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlomeniny\_kosti" short="Zlomeniny kostí"}
 
 # Zlomeniny kostí
 

@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/iktus/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="iktus" short="Cévní mozková příhoda" ctime="2008-07-05" mtime="2008-07-05"}
+{ctime="2008-07-05" mtime="2008-07-05" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="iktus" short="Cévní mozková příhoda"}
 
 # Cévní mozková příhoda neboli iktus či mrtvice
 

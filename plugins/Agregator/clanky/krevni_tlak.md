@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/krevni_tlak/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krevni\_tlak" short="Krevní tlak" ctime="2008-03-27" mtime="2008-03-27"}
+{ctime="2008-03-27" mtime="2008-03-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krevni\_tlak" short="Krevní tlak"}
 
 # Krevní tlak, správné měření a vyhodnocení tlaku
 

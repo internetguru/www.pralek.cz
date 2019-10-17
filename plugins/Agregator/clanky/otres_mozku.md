@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/otres_mozku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="otres\_mozku" short="Otřes mozku" ctime="2008-09-11" mtime="2008-09-11"}
+{ctime="2008-09-11" mtime="2008-09-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="otres\_mozku" short="Otřes mozku"}
 
 # Otřes mozku nebo jen pohmoždění hlavy
 

@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/karpalni_syndrom/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="karpalni\_syndrom" short="Karpální syndrom" ctime="2011-01-17" mtime="2011-01-17"}
+{ctime="2011-01-17" mtime="2011-01-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="karpalni\_syndrom" short="Karpální syndrom"}
 
 # Noční brnění prstů ruky: karpální syndrom
 

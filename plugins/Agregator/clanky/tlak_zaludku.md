@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/tlak_zaludku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tlak\_zaludku" short="Tlak žaludku" ctime="2011-06-14" mtime="2011-06-14"}
+{ctime="2011-06-14" mtime="2011-06-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tlak\_zaludku" short="Tlak žaludku"}
 
 # Žaludeční potíže: krátkodobý tlak žaludku
 

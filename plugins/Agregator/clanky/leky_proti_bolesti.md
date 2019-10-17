@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/leky\_proti\_bolesti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="leky\_proti_bolesti" short="Léky proti bolesti" ctime="2010-03-28" mtime="2010-03-28"}
+{ctime="2010-03-28" mtime="2010-03-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="leky\_proti_bolesti" short="Léky proti bolesti"}
 
 # Léky proti bolesti neboli analgetika
 

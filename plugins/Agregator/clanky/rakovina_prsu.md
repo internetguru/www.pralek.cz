@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/rakovina_prsu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_prsu" short="Rakovina prsu" ctime="2010-07-25" mtime="2010-07-25"}
+{ctime="2010-07-25" mtime="2010-07-25" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_prsu" short="Rakovina prsu"}
 
 # Rakovina prsu
 

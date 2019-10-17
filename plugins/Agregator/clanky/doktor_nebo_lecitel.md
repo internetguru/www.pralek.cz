@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/doktor\_nebo\_lecitel/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="doktor\_nebo_lecitel" short="Doktor nebo léčitel" ctime="2010-04-30" mtime="2010-04-30"}
+{ctime="2010-04-30" mtime="2010-04-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="doktor\_nebo_lecitel" short="Doktor nebo léčitel"}
 
 # Doktor nebo léčitel: koho kdy vyhledat a komu věřit
 

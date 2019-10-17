@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/cukrovka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cukrovka" short="Cukrovka" ctime="2008-03-26" mtime="2008-03-26"}
+{ctime="2008-03-26" mtime="2008-03-26" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cukrovka" short="Cukrovka"}
 
 # Cukrovka: jak žít s cukrovkou
 

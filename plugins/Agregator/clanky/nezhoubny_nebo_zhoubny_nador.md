@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/nezhoubny\_nebo\_zhoubny_nador/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubny\_nebo\_zhoubny\_nador" short="Nezhoubný nebo zhoubný nádor" ctime="2010-05-23" mtime="2010-05-23"}
+{ctime="2010-05-23" mtime="2010-05-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubny\_nebo\_zhoubny\_nador" short="Nezhoubný nebo zhoubný nádor"}
 
 # Nezhoubný nebo zhoubný nádor: obecné srovnání
 
