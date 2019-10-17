@@ -1,13 +1,17 @@
 
 {data-type="article" data-image="/files/preview/koutek/lekarnicka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Lékárnička" id="lekarnicka" ctime="2015-08-13" mtime="2015-08-13"}
+{ctime="2015-08-13" mtime="2015-08-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Lékárnička" id="lekarnicka"}
 
 # Obsah domácí lékárničky
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="první pomoc, zdravý životní styl, teplota, ošetření, poranění, mikroorganizmy, zvíře"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="první pomoc, teplota, poranění, mikroorganizmy, zánět, zvíře"}
 
 Domácí lékárnička má obsahovat čisté nástroje, zdravotní materiál a ověřené, majiteli známé léky. Každá domácnost by si měla obsah lékárničky upravit podle svých zkušeností a individuálních potřeb.
 

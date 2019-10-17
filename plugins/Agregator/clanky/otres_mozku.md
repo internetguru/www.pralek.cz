@@ -1,13 +1,17 @@
 
 {data-type="article" data-image="/files/preview/koutek/otres_mozku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="otres\_mozku" short="Otřes mozku" ctime="2008-09-11" mtime="2008-09-11"}
+{ctime="2008-09-11" mtime="2008-09-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="otres\_mozku" short="Otřes mozku"}
 
 # Otřes mozku nebo jen pohmoždění hlavy
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="poruchy vědomí, poranění, nemoc, úrazy, zvracení, orgány, dětské"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="poruchy vědomí, mozek-nervy, zvracení, poranění, úrazy"}
 
 Pohmoždění hlavy lékařské vyšetření nevyžaduje. Vyjmenované příznaky otřesu mozku však vedou zraněného k lékařskému vyšetření.
 

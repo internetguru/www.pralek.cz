@@ -1,13 +1,13 @@
 
 {data-type="article" data-image="/files/preview/koutek/akne/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="akne" short="Akné" ctime="2008-02-26" mtime="2017-10-01"}
+{ctime="2008-02-26" mtime="2017-10-01" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="akne" short="Akné"}
 
 # Boj proti akné
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="žláza, kůže-podkoží, boulička, prevence, zánět, ošetření, nemoc, poranění, teplota"}
+{kw="žláza, kůže-podkoží, boulička, prevence, zánět, poranění, teplota"}
 
 Akné je onemocnění mazových žláz v kůži. Vzniká nejčastěji v souvislosti s hormonálními změnami v pubertě, kdy se obsah mazových žláz stává tužší a samovolně nevytéká. Při mechanickém vyprazdňování akné je důležité dbát na hygienu.
 
@@ -89,5 +89,5 @@ n/a
  [4]: teplota
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: stravovaci_navyky
- [7]: vodni_rezim
+ [7]: prijem_tekutin
 

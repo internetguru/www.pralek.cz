@@ -1,13 +1,17 @@
 
 {data-type="article" data-image="/files/preview/koutek/pece\_o\_zvukovod/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pece\_o_zvukovod" short="Péče o zvukovod" ctime="2012-07-31" mtime="2012-07-31"}
+{ctime="2012-07-31" mtime="2012-07-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pece\_o_zvukovod" short="Péče o zvukovod"}
 
 # Péče o zevní zvukovod
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="ušní-nosní-krční, bolest, zánět, prevence, ošetření, poranění, nemoc, orgány, kůže-podkoží"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="ušní-nosní-krční, bolest, zánět, zvracení, prevence, poranění"}
 
 Zanedbaná hygiena zevního zvukovodu a nadměrné množství ušního mazu mohou působit velmi nepříjemné potíže. Některé z nich (např. točení hlavy) zdánlivě s uchem nesouvisejí.
 

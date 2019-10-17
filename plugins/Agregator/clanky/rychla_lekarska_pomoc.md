@@ -1,13 +1,17 @@
 
 {data-type="article" data-image="/files/preview/koutek/rychla\_lekarska\_pomoc/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rychla\_lekarska_pomoc" short="Rychlá lékařská pomoc" ctime="2010-02-28" mtime="2010-02-28"}
+{ctime="2010-02-28" mtime="2010-02-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rychla\_lekarska_pomoc" short="Rychlá lékařská pomoc"}
 
 # Rychlá lékařská pomoc
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="poruchy vědomí, cévy, poranění, první pomoc, úrazy, orgány, dětské, břicho"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="poruchy vědomí, infarkt, cévy, první pomoc, úrazy, zlomeniny"}
 
 Úkolem rychlé lékařské pomoci (záchranky) je záchrana lidí v ohrožení života. Záchranka nenahrazuje lékařskou službu první pomoci (pohotovost) a není na takovou práci ani prostorově ani technicky vybavena.
 
@@ -74,7 +78,7 @@ n/a
 
 Účastníci silničního provozu většinou respektují výstražná světla i zvukové výstražné zařízení záchranné služby. Často však **nedovedou odhadnout velmi vysokou rychlost záchranky** a manévrují tak, že nutí řidiče záchranky zbytečně brzdit. Tím zpomalují transport a velmi přitěžují pacientovi i posádce, která se snaží pacienta udržet při životě.
 
-Řidiči by měli zpomalit, zajet ke kraji vozovky a umožnit bezproblémové projetí záchranky. Na dvouproudové silnici projíždí sanita uprostřed, na víceproudové silnici mezi pravým a s ním sousedícím pruhem.
+Řidiči by měli zpomalit, zajet ke kraji vozovky a umožnit bezproblémové projetí záchranky. Na dvouproudové silnici projíždí sanita uprostřed, na víceproudové silnici mezi levým a s ním sousedícím pruhem.
 
 {class="example"}
 

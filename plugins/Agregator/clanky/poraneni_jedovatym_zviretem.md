@@ -1,11 +1,11 @@
 
 {data-type="article" data-image="/files/preview/koutek/poraneni\_jedovatym\_zviretem/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_jedovatym_zviretem" short="Poranění jedovatým zvířetem" ctime="2007-12-11" mtime="2017-11-11"}
+{ctime="2007-12-11" mtime="2017-11-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_jedovatym_zviretem" short="Poranění jedovatým zvířetem"}
 
 # Poranění jedovatým zvířetem
 
-{class="description" kw="zvíře, poranění, úrazy, první pomoc, zánět, bolest, pohyb, orgány"}
+{class="description" kw="zvíře, poranění, úrazy, alergie, první pomoc, zánět, bolest, pohyb"}
 
 Kdo netrpí alergií, nemusí se obávat ani opakovaného poranění u nás žijícím hmyzem nebo hadem. Závažné alergické reakce na jed bodavého hmyzu (bodnutí žihadla) však přibývají.
 
@@ -27,9 +27,9 @@ Bodnutí včelím či vosím žihadlem lze **ošetřit ledovým obkladem, přilo
 
 Má-li člověk zkušenost a reakci na bodnutí (otok) má minimální, **není třeba podléhat panice ani při bodnutí do úst nebo do jazyka**. Lze předpokládat, že se nevyvine závažnější reakce, než při bodnutí do jiné části těla. Eventuální otok lze potlačit cucáním ledu.
 
-Lidem trpícím značnou reakcí na bodnutí hmyzem je potřeba [neprodleně zavolat záchranku][2]. Alergici u sebe mívají injekci s vhodným lékem, kterou si v takovém případě [svépomocí aplikují][4].
+Lidem trpícím značnou reakcí na bodnutí hmyzem je potřeba [neprodleně zavolat záchranku][2]. [Alergici u sebe mívají][4] injekci s vhodným lékem, kterou si v takovém případě [svépomocí aplikují][5].
 
-Zvláštní kapitolou je **poranění drobným hmyzem** (mouchou či muškou), který není jedovatý a nemá žihadlo. Může však kousnutím do kůže [zanést infekci][5]. Takový kousanec zprvu pouze svědí, ale po několika dnech se projeví místním [rozvojem zánětu][6].
+Zvláštní kapitolou je **poranění drobným hmyzem** (mouchou či muškou), který není jedovatý a nemá žihadlo. Může však kousnutím do kůže [zanést infekci][6]. Takový kousanec zprvu pouze svědí, ale po několika dnech se projeví místním [rozvojem zánětu][7].
 
 {id="ustknuti\_zmiji\_obecnou"}
 
@@ -43,7 +43,7 @@ Uštknutí zmijí obecnou – jediným u nás volně žijícím jedovatým hadem
 
 {class="important"}
 
-První pomoc v případě uštknutí zmijí spočívá ve **zpomalení vstřebávání jedu** z rány. Poraněnou končetinu je dobré nezatěžovat (pochodem), přerušovaně zaškrcovat a chladit. [Transport k lékařskému ošetření][7] není třeba uspěchat. Jed zmije obecné působí v řádu hodin až dnů.
+První pomoc v případě uštknutí zmijí spočívá ve **zpomalení vstřebávání jedu** z rány. Poraněnou končetinu je dobré nezatěžovat (pochodem), přerušovaně zaškrcovat a chladit. [Transport k lékařskému ošetření][8] není třeba uspěchat. Jed zmije obecné působí v řádu hodin až dnů.
 
 Navzdory dříve doporučovanému postupu není vhodné ránu rozřezávat a vysávat. Jed by se dásněmi vstřebával a ohrožoval by zachránce. Času na lékařské ošetření je relativně dost. Sérum proti hadímu uštknutí se podává pouze výjimečně – v případě podezření na nepřiměřenou reakci.
 
@@ -83,8 +83,9 @@ n/a
  [1]: imunita
  [2]: rychla_lekarska_pomoc
  [3]: ryma_a_smrkani
- [4]: pichnuti_injekce
- [5]: mikroorganizmy
- [6]: lecba_zanetu
- [7]: nalehavost_lekarskeho_vysetreni
+ [4]: lekarnicka
+ [5]: pichnuti_injekce
+ [6]: mikroorganizmy
+ [7]: lecba_zanetu
+ [8]: nalehavost_lekarskeho_vysetreni
 

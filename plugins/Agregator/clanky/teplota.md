@@ -1,13 +1,13 @@
 
 {data-top="8" data-type="article" data-image="/files/preview/koutek/teplota/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="teplota" short="Tělesná teplota" ctime="2008-10-02" mtime="2008-10-02"}
+{ctime="2008-10-02" mtime="2008-10-02" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="teplota" short="Tělesná teplota"}
 
 # Normální tělesná teplota, podchlazení, horečka
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
 
-{kw="teplota, zánět, ušní-nosní-krční, dětské, bolest, stařecké, neúrazové, prevence"}
+{kw="teplota, podchlazení, přehřátí, zánět, bolest, prevence, tekutiny, mikroorganizmy"}
 
 Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá nebo klesá vlivem zevního prostředí a stoupá při některých onemocněních.
 
@@ -120,7 +120,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: resuscitace-ozivovani
- [2]: vodni_rezim
+ [2]: prijem_tekutin
  [3]: funkcni_poruchy_traveni
  [4]: bolest_hlavy_migrena
  [5]: zanet

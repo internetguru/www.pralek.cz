@@ -1,13 +1,17 @@
 
 {data-type="article" data-image="/files/preview/koutek/rakovina\_tlusteho\_streva\_a\_konecniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_tlusteho\_streva\_a_konecniku" short="Rakovina tlustého střeva a konečníku" ctime="2010-07-17" mtime="2010-07-17"}
+{ctime="2010-07-17" mtime="2010-07-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_tlusteho\_streva\_a_konecniku" short="Rakovina tlustého střeva a konečníku"}
 
 # Rakovina tlustého střeva a konečníku
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="nádory, zhoubné, břicho, krvácení, bolest, cévy, orgány, prevence, neúrazové"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="nádory, zhoubné, břicho, uzliny, krvácení, zvracení, prevence"}
 
 Po rakovině tlustého střeva a konečníku je třeba [aktivně pátrat][1]. Její záludnost spočívá v naprosto bezpříznakovém počátku a jen velmi neurčitých projevech i při již plně rozvinutém onemocnění.
 

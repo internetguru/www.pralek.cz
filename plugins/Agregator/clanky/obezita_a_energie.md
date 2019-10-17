@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/obezita\_a\_energie/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="obezita\_a_energie" short="Obezita" ctime="2008-02-28" mtime="2017-10-05"}
+{ctime="2008-02-28" mtime="2017-10-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="obezita\_a_energie" short="Obezita"}
 
 # Obezita jako nepoměr příjmu a výdeje energie
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="strava-zažívání, zdravý životní styl, látková výměna, prevence, břicho"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="strava-zažívání, zdravý životní styl, pohyb, látková výměna, prevence, břicho"}
 
 Obezitu může řešit jedině změna poměru příjmu a výdeje energie. Pokud se množství přijaté energie (potravou) rovná množství energie spotřebované (prací nebo cvičením), pak člověk nehubne ani netloustne.
 
@@ -86,5 +88,5 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: stravovaci_navyky
- [2]: vodni_rezim
+ [2]: prijem_tekutin
 

@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/resuscitace-ozivovani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="resuscitace-ozivovani" short="Resuscitace" ctime="2008-04-20" mtime="2008-04-20"}
+{ctime="2008-04-20" mtime="2008-04-20" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="resuscitace-ozivovani" short="Resuscitace"}
 
 # Resuscitace neboli oživování
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="poruchy vědomí, ošetření, orgány, poranění"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="poruchy vědomí, poranění"}
 
 V případě vyhasnutí základních životních funkcí zachrání život neodkladné zahájení srdeční masáže ještě před příjezdem lékaře.
 

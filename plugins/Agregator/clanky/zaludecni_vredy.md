@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/zaludecni_vredy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zaludecni\_vredy" short="Žaludeční vředy" ctime="2011-07-20" mtime="2011-07-20"}
+{ctime="2011-07-20" mtime="2011-07-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zaludecni\_vredy" short="Žaludeční vředy"}
 
 # Žaludeční a dvanáctníkový vřed
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="žaludek, strava-zažívání, prevence, břicho, bolest, orgány"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="žaludek, strava-zažívání, zvracení, prevence, mikroorganizmy, břicho, bolest"}
 
 Žaludeční vředy jsou v současnosti dobře léčitelným onemocněním. Vřed lze vyléčit běžnými léky a nemocný žaludek není třeba operovat. V případě zanedbání vředové choroby však mohou vzniknout život ohrožující komplikace.
 

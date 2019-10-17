@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/zarustajici_nehty/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zarustajici\_nehty" short="Zarůstající nehty" ctime="2009-04-19" mtime="2009-04-19"}
+{ctime="2009-04-19" mtime="2009-04-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zarustajici\_nehty" short="Zarůstající nehty"}
 
 # Zarůstající nehty na palcích dolních končetin
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="zánět, bolest, prevence, teplota, mikroorganizmy, pohyb"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="nehet, hygiena, zánět, bolest, prevence, teplota, mikroorganizmy, pohyb"}
 
 Zarůstání nehtů je časté bolestivé onemocnění vzniklé špatným zastřižením nehtu. Řešením je odstranění zánětu a jeho prevence. K úplnému zhojení dojde až tehdy, když zastřižený nehet doroste na správné místo.
 

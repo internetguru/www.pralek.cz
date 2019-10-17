@@ -1,11 +1,11 @@
 
 {data-type="article" data-image="/files/preview/koutek/zanet/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zanet" short="Zánět" ctime="2014-04-07" mtime="2014-04-07"}
+{ctime="2014-04-07" mtime="2014-04-07" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zanet" short="Zánět"}
 
 # Kdy zánět léčit, kdy rozhánět a kdy podporovat
 
-{class="description" kw="zánět, teplota, nemoc, bolest, ušní-nosní-krční, látková výměna, neúrazové"}
+{class="description" kw="zánět, teplota, bolest, ušní-nosní-krční, látková výměna, neúrazové"}
 
 Různé druhy zánětů mají různý průběh a vývoj, různé příčiny a projevy. Podle druhu a vývoje zánětu je třeba proti němu někdy intenzivně bojovat, jindy je lépe ponechat zánětu přirozený průběh a někdy jej dokonce podporovat.
 

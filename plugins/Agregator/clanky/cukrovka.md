@@ -1,11 +1,11 @@
 
 {data-type="article" data-image="/files/preview/koutek/cukrovka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cukrovka" short="Cukrovka" ctime="2008-03-26" mtime="2008-03-26"}
+{ctime="2008-03-26" mtime="2008-03-26" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cukrovka" short="Cukrovka"}
 
 # Cukrovka: jak žít s cukrovkou
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-08, do not edit -->
 
 {kw="strava-zažívání, látková výměna, poruchy vědomí, první pomoc, mozek-nervy, cévy, břicho, orgány"}
 

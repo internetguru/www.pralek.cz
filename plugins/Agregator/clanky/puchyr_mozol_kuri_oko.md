@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/puchyr\_mozol\_kuri_oko/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="puchyr\_mozol\_kuri\_oko" short="Puchýř, mozol, kuří oko" ctime="2010-08-19" mtime="2010-08-19"}
+{ctime="2010-08-19" mtime="2010-08-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="puchyr\_mozol\_kuri\_oko" short="Puchýř, mozol, kuří oko"}
 
 # Puchýř, mozol, kuří oko: jak správně ošetřovat
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="kůže-podkoží, ošetření, zánět, nemoc, poranění"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="kůže-podkoží, zánět, poranění"}
 
 Neporušený puchýř se nepropichuje ani nestříhá. Naopak je nutné dbát na to, aby nebyl ani omylem poškozen nebo porušen. V případě porušení krytu puchýře je hojení komplikováno zánětem a stává se bolestivým a zdlouhavým. Mozol může fyzické aktivitě napomáhat nebo ji znemožnit.
 

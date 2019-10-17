@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/plisne_kuze/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="plisne\_kuze" short="Plísně kůže" ctime="2011-09-25" mtime="2011-09-25"}
+{ctime="2011-09-25" mtime="2011-09-25" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="plisne\_kuze" short="Plísně kůže"}
 
 # Plísňová onemocnění kůže
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="kůže-podkoží, ošetření, nemoc, prevence, neúrazové, bolest, zánět"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="kůže-podkoží, prevence, neúrazové, bolest, zánět"}
 
 Projevem plísňového onemocnění je zapaření (zapářka) nebo opruzení kůže v místech nepřístupných vzduchu. Původcem jsou houbové mikroorganizmy, nejčastěji plísně nebo kvasinky. Nejrůznější plísně postihují čím dál více lidí a mají nejrůznější projevy.
 

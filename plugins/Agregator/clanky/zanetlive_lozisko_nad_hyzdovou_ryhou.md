@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/zanetlive\_lozisko\_nad\_hyzdovou\_ryhou/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanetlive\_lozisko\_nad\_hyzdovou_ryhou" short="Zánětlivé ložisko nad hýžďovou rýhou" ctime="2010-12-23" mtime="2010-12-23"}
+{ctime="2010-12-23" mtime="2010-12-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanetlive\_lozisko\_nad\_hyzdovou_ryhou" short="Zánětlivé ložisko nad hýžďovou rýhou"}
 
 # Zánětlivé ložisko nad hýžďovou rýhou
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="zánět, kůže-podkoží, bolest, nemoc, neúrazové, ošetření, teplota, prevence"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="zánět, kůže-podkoží, bolest, neúrazové, teplota, prevence"}
 
 Zánětlivé změny ložiska nad hýžďovou rýhou jsou extrémně bolestivé. Onemocnění však není nijak nebezpečné. K odstranění bolesti může dojít samovolně (prasknutím) nebo drobným chirurgickým zákrokem. Definitivním řešením onemocnění je však jedině operace.
 

@@ -1,13 +1,17 @@
 
 {data-type="article" data-image="/files/preview/koutek/kinetoza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Kinetóza" id="kinetoza" ctime="2015-07-13" mtime="2015-07-13"}
+{ctime="2015-07-13" mtime="2015-07-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Kinetóza" id="kinetoza"}
 
 # Nevolnost a zvracení v dopravních prostředcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="prevence, ošetření, mozek-nervy, strava-zažívání, žaludek, zánět, břicho, poranění"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="prevence, zvracení, mozek-nervy, žaludek, břicho"}
 
 Pocit nevolnosti může být vyvolán nejrůznějšími druhy pohybu. Tomu lze mnohdy snadno předejít. Někdy však mohou být tytéž stavy projevem onemocnění.
 
@@ -41,7 +45,8 @@ Vzniku kinetózy je možné předcházet **sledováním pohybu a vyhýbáním se
   * zastávkami s procházkou či proběhnutím,
   * psychickou podporou (u dětí s ujištěním, že dnes bude cesta jistě příjemná),
   * udržováním příjemných podmínek (čerstvý vzduch a příjemná teplota),
-  * příjmem malého množství chutného jídla a dostatkem oblíbených tekutin.
+  * příjmem malého množství chutného jídla a dostatkem oblíbených tekutin,
+  * zákazem hrát za jízdy videohry nebo si číst.
 
 {id="komplikace_kinetozy"}
 
