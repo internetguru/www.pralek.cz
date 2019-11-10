@@ -42,7 +42,7 @@ Dlouhodobé onemocnění plísní dokáže léčit [dermatolog][5]. Ten určí, 
 
 n/a
 
-Prudké (akutní) onemocnění plísní se nejčastěji projevuje jako intenzivní svědění až bolest v místech, kde kůže přiléhá k protilehlé kůži a to dlouhodobě nebo trvale. Laicky jsou tyto potíže označovány nejčastěji jako zapářka, zapaření či opruzení.
+Prudké (akutní) onemocnění plísní se nejčastěji projevuje jako intenzivní svědění až bolest v místech, kde kůže přiléhá k protilehlé kůži a to dlouhodobě nebo trvale. Laicky jsou tyto potíže označovány nejčastěji jako zapářka, zapaření či opruzení nebo vlk.
 
   1. **Plísňové onemocnění meziprstních prostorů na nohou:**
       * Vyskytuje se velmi často, především u lidí sdílejících společné prostory jako sprchy, bazény, tělocvičny či společnou obuv atd.
