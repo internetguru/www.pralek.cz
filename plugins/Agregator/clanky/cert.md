@@ -41,7 +41,7 @@ n/a
 
 Koňská noha _(pes equinovarus)_ je dodnes jedna z nejčetnějších vrozených vad (deformit) pohybového ústrojí. Většinou lze deformitu úspěšně řešit ortopedickými operacemi a rehabilitací.
 
-V dřívějších dobách však nikdo neuměl takto postiženému dítěti pomoci. Dítě našlapovalo na zdeformovanou nohu, nikoli na chodidlo. Tím došlo k tvorbě [rozsáhlého mozolu][3], který další chůzí stále narůstal. Pata se na postižené noze zcela ztratila a místo styku s podložkou se přeměnilo v jeden obrovský mozol. Taková neléčená deformita je podobná více koňskému kopytu než lidské noze.
+V dřívějších dobách však nikdo neuměl takto postiženému dítěti pomoci. Dítě našlapovalo na zdeformovanou nohu, nikoli na celé chodidlo. Tím došlo k tvorbě [rozsáhlého mozolu][3], který další chůzí stále narůstal. Pata se na postižené noze zcela ztratila a místo styku s podložkou se přeměnilo v jeden obrovský mozol. Taková neléčená deformita je podobná více koňskému kopytu než lidské noze.
 
 {id="certuv\_hruzny\_zjev\_nevus\_ci\_hemangiom\_v_obliceji"}
 
