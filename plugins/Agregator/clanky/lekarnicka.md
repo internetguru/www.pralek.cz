@@ -29,7 +29,7 @@ Nástroje v lékárničce mají být samozřejmě čisté. Před každým léče
 
 Lékařský teploměr
 :   Základní typy teploměrů jsou lihový, rtuťový a digitální. [Teplotu měří][3] v zásadě všechny stejně dobře, jen různě rychle. Nejrychlejší je bezkontaktní digitální teploměr vhodný obzvlášť pro měření teploty malých dětí.
-:   Při opakovaném použití bezkontaktního teploměru se naměřené hodnoty mohou mírně lišit. To je způsobené rozdílnou teplotou měřeného místa na těle (nikoli chybou teploměru). Nejteplejší místo měřené plochy těla je v blízkosti tepničky. {class="example"}
+:   Při opakovaném použití bezkontaktního teploměru se naměřené hodnoty mohou mírně lišit. To je způsobené rozdílnou teplotou měřeného místa na těle (nikoli chybou teploměru). Nejteplejší místo měřené plochy těla je v blízkosti podkožní tepničky. {class="example"}
 
 Pinzeta
 :   K mechanickému odstranění třísek, částeček [nečistot z oděrky][4], [zabodnutého žihadla][5] nebo [přisátého klíštěte][6] poslouží stejně dobře anatomická, kosmetická nebo jiná pinzeta.
@@ -39,7 +39,7 @@ Nůžky
 
 Zubní kartáček
 :   Nepoužitý zubní kartáček v originálním balení výborně poslouží k [vyčištění rány nebo oděrky][4]. Použitý kartáček je pro tyto účely nevhodný.
-:   Kartáček lze rovněž nabídnout k vyčištění zubů návštěvě. Následně je ale potřeba do lékárničky dokoupit nový.
+:   Kartáček lze rovněž nabídnout k vyčištění zubů nečekané návštěvě. Následně je ale potřeba do lékárničky dokoupit nový.
 
 {class="important"}
 
