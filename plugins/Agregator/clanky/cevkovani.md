@@ -15,7 +15,7 @@ Močová trubice při močení odvádí moč z močového měchýře ven z těla
 
 Příčiny retence moči jsou
 
-  * [zvětšení prostaty][1] (hypertrofie) nebo její zhoubný nádor,
+  * [zvětšení prostaty][1] – nezhoubná hypertrofie prostaty nebo její zhoubný nádor,
   * [pozánětlivé][2] [zúžení močové trubice][2],
   * ucpání močové trubice např. krevní sraženinou a
   * porucha nervového zásobení močového měchýře.
