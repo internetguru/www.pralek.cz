@@ -21,7 +21,7 @@ Ucpaná mazová žláza se zvětšuje, stává se [viditelnou nebo hmatnou bouli
 
 Jestliže se vymáčknutí podaří bez většího násilí a do žlázky nepronikne infekce, může být problém vyřešen. V opačném případě hrozí vznik zánětlivých komplikací.
 
-Před mechanickým vyprazdňováním přeplněných žláz je nutné kůži omýt teplou vodou a desinfikovat. Stejně je potřeba vyčistit ruce a k ošetřování používat čisté (ideálně sterilní) pleťové tampony.
+Před mechanickým vyprazdňováním přeplněných žláz je nutné kůži omýt teplou vodou a desinfikovat. Stejně je potřeba očistit ruce a k ošetřování používat čisté (ideálně sterilní) pleťové tampony.
 
 Mechanické vyprázdnění mazové žlázy se nemusí vždy podařit. Zejména vlivem počínajícího zánětu vývodného kanálku může dojít k zánětlivým komplikacím mazové žlázy.
 
