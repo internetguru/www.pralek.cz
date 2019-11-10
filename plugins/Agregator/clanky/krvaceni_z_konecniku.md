@@ -55,7 +55,7 @@ Přítomnost hlenu a krve ve stolici může svědčit pro nádorové onemocněn�
 
 Přítomnost hlenu a červené krve ve stolici je známkou [nádoru střeva nebo konečníku][5]. Takové krvácení může trvat týdny až měsíce. Pokud však nádor poruší tepnu, může dojít k masivnímu krvácení do stolice. Místo stolice se objeví velké množství jasně červené (tepenné) krve a **pacient je bezprostředně ohrožen na životě**.
 
-[Žaludeční vřed][6] či nádor žaludku se může projevit masivním krvácením do stolice. Krev prochází celým zažívacím traktem a proto je v konečníku **dehtovitě černá stolice** _(černá krev neboli melaena)_. Pacient je opocený, bledý, slabý a omdlévá poklesem krevního tlaku. Ač nemívá žádné bolesti, **je ohrožen na životě** a potřebuje [okamžitou lékařskou pomoc][7].
+[Žaludeční vřed][6] či nádor žaludku se může projevit masivním krvácením do stolice. Krev prochází celým zažívacím traktem a proto je v konečníku **dehtovitě černá stolice** _(černá krev neboli melaena)_. Pacient je opocený, bledý, slabý a omdlévá poklesem <a href="krevni_tlak">krevního tlaku</a>. Ač nemívá žádné bolesti, **je ohrožen na životě** a potřebuje [okamžitou lékařskou pomoc][7].
 
 {id="otazky" var="inputvar-otazky_h"}
 
