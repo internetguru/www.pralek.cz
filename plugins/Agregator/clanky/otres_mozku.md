@@ -59,7 +59,7 @@ n/a
 
 Jestli po poranění hlavy nenásledovalo bezvědomí, zvracení ani porucha paměti se zmateností, ale normální chování poraněného, nejedná se o otřes mozku ale o pohmoždění hlavy.
 
-Po tupém poranění hlavy vznikne boule – krevní výron. Studený obklad na hlavu udělá zraněnému dobře. Po úrazu hlavy je dobře být v klidu, šeru, chladnu, nejíst, pouze se napít. V případě chuti a únavy je možné spát, lépe ve společnosti druhé osoby. Bohužel může dojít k závažnému **[poranění mozku][5] i bez známek otřesu mozku**. Toto poranění se může projevit i s delším časovým odstupem.
+Po tupém poranění hlavy [vznikne boule][5] – krevní výron. Studený obklad na hlavu udělá zraněnému dobře. Po úrazu hlavy je dobře být v klidu, šeru, chladnu, nejíst, pouze se napít. V případě chuti a únavy je možné spát, lépe ve společnosti druhé osoby. Bohužel může dojít k závažnému **[poranění mozku][6] i bez známek otřesu mozku**. Toto poranění se může projevit i s delším časovým odstupem.
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -96,5 +96,6 @@ n/a
  [2]: mdloba_neboli_kolaps
  [3]: resuscitace-ozivovani
  [4]: funkcni_poruchy_traveni
- [5]: subduralni_hematom
+ [5]: boule_nasledkem_urazu
+ [6]: subduralni_hematom
 
