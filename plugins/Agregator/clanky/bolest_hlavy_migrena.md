@@ -9,7 +9,7 @@
 
 {kw="bolest, cévy, látková výměna, neúrazové, prevence, mikroorganizmy, strava-zažívání, úrazy, teplota, zánět, strach"}
 
-Nejkrutější bolestí hlavy je migréna. Řešením je včasné podání vhodného léku proti bolesti. Běžná bolest hlavy má svou příčinu a nemusí se vyvíjet tak dramaticky. Ideálním řešením je odstranit příčinu bolesti než bolest tlumit léky.
+Nejkrutější bolestí hlavy je migréna. Řešením je včasné podání vhodného léku. Běžná bolest hlavy má svou příčinu a nemusí se vyvíjet tak dramaticky. Ideálním řešením je odstranit příčinu bolesti než bolest tlumit léky.
 
 {id="migrena-nesnesitelna\_bolest\_hlavy"}
 
@@ -64,7 +64,7 @@ n/a
   * projevy závažných onemocnění jako [mozková mrtvice][13], [krvácení do mozku][14], mozkový nádor a jiné; 
       * Bolest hlavy bývá neobvyklá (jiná než jindy) a _je nutné vyhledat lékaře_.
   * pobyt v místnosti zakouřené tabákovým kouřem nebo zplodinami z kamen (CO); 
-      * Pomůže opustit místnost nebo řádně vyvětrat (případně požádat vrchního, aby pustil klimatizaci).
+      * Pomůže opustit místnost nebo řádně vyvětrat.
 
 {id="otazky" var="inputvar-otazky_h"}
 
