@@ -5,7 +5,9 @@
 
 # Onemocnění šlach: zánět šlach, gangliom, tenisový loket
 
-{kw="bolest, pohyb, zánět, mikroorganizmy, antibiotika, nemoc"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+
+{kw="bolest, pohyb, zánět, neúrazové, mikroorganizmy, antibiotika"}
 
 Neúměrná zátěž šlachy může způsobit potíže – nadměrnou tvorbu mazu nebo jeho nedostatek. Obojí je nutné léčit klidem. Oslabená nebo dlouhodobě nemocná šlacha se může při zátěži přetrhnout.
 

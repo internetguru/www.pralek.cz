@@ -5,11 +5,9 @@
 
 # Léčba zánětu podle druhu a stádia
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="zánět, teplota, bolest, neúrazové"}
+{kw="zánět, tekutiny, teplota, bolest, neúrazové"}
 
 Jednotlivé fáze a druhy některých zánětů na sebe navazují nebo mezi sebou v průběhu vývoje vzájemně přecházejí v souvislosti s úspěšností hojení. U jiných zánětů převažuje jediná fáze po téměř celou dobu trvání nemoci. Jednotlivá stádia mají své specifické projevy, proto je i léčba v různých fázích zánětu rozdílná.
 
@@ -38,11 +36,11 @@ Rozšířením cév v zánětlivém ložisku se zpomalí krevní proud a **doch�
 
   1. Pokud zánět produkuje **řídkou tekutinu**, nazývá se _serózní_. Příkladem je alergická [rýma][3], kdy „teče z nosu“. Jestliže se produkovaná tekutina mísí s hlenem, jedná se o _katar_. Tím je například katarální stádium rýmy, kdy se nos opakovaně plní. V obou případech lze místně podat léky tlumící tvorbu tekutiny. Při průjmech s hlenem hovoříme o střevním kataru.
   2. **Nehnisavý zánět** je takový zánět, při kterém převažuje prosáknutí postižené tkáně zvláštními krvinkami (např. [chronická gastritída][4]). V takovém případě se podávají léky tlumící projevy zánětu.
-  3. **[Hnisavý zánět][8]** produkuje hustou hnisavou tekutinu (hnis), která je tvořena zbytky odumřelé tkáně, rozpadajícími se krvinkami a odumřelými mikroorganizmy.
-      * **U ohraničeného zánětu** _(tzv. [absces][5])_ je prvořadým léčebným zákrokem chirurgické vyprázdnění dutiny (rozříznutí). Jsou-li nasazena antibiotika, pak jen preventivně.
-      * **U neohraničeného zánětu** _(tzv. flegmóna – např. [panaricium][6])_ se chirurgický výkon provádí až dle dalšího místního i celkového vývoje. Antibiotika se podávají vždy.
-  4. Narůstání **velmi tuhé tkáně** s nadměrným množstvím fibrinových vláken se označuje jako _fibrinózní zánět_. Při něm vzniká např. vystouplá jizva (hyzdící – nejčastěji po spálenině), označovaná jako [keloidní jizva][5]. Účelem léčby je zamezit nadměrnému růstu jizvy, a to nejčastěji mechanicky – jemným tlakem a masážemi. Někdy se podávají i zvláštní léky k potlačení nadměrného růstu jizvy.
-  5. **Odumírající tkáň** vzniká vlivem místního nedokrvení _(gangrenózní zánět)_ a má velmi specifickou léčbu, například při [srdečním infarktu][7].
+  3. **[Hnisavý zánět][5]** produkuje hustou hnisavou tekutinu (hnis), která je tvořena zbytky odumřelé tkáně, rozpadajícími se krvinkami a odumřelými mikroorganizmy. 
+      * **U ohraničeného zánětu** _(tzv. [absces][6])_ je prvořadým léčebným zákrokem chirurgické vyprázdnění dutiny (rozříznutí). Jsou-li nasazena antibiotika, pak jen preventivně. 
+      * **U neohraničeného zánětu** _(tzv. flegmóna – např. [panaricium][7])_ se chirurgický výkon provádí až dle dalšího místního i celkového vývoje. Antibiotika se podávají vždy. 
+  4. Narůstání **velmi tuhé tkáně** s nadměrným množstvím fibrinových vláken se označuje jako _fibrinózní zánět_. Při něm vzniká např. vystouplá jizva (hyzdící – nejčastěji po spálenině), označovaná jako [keloidní jizva][6]. Účelem léčby je zamezit nadměrnému růstu jizvy, a to nejčastěji mechanicky – jemným tlakem a masážemi. Někdy se podávají i zvláštní léky k potlačení nadměrného růstu jizvy.
+  5. **Odumírající tkáň** vzniká vlivem místního nedokrvení _(gangrenózní zánět)_ a má velmi specifickou léčbu, například při [srdečním infarktu][8].
 
 {id="nadmerne\_prosaknuti\_tekutinou"}
 
@@ -102,8 +100,8 @@ n/a
  [2]: leky_proti_bolesti
  [3]: ryma_a_smrkani
  [4]: bolest_zaludku
- [5]: nezhoubne_nadory
- [6]: panaricium
- [7]: srdecni_infarkt
- [8]: bolest_v_krku_angina
+ [5]: bolest_v_krku_angina
+ [6]: nezhoubne_nadory
+ [7]: panaricium
+ [8]: srdecni_infarkt
 

@@ -5,9 +5,9 @@
 
 # Zánětlivé ložisko nad hýžďovou rýhou
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-{kw="zánět, kůže-podkoží, bolest, neúrazové, teplota, prevence"}
+{kw="zánět, kůže-podkoží, boulička, bolest, neúrazové, teplota, prevence"}
 
 Zánětlivé změny ložiska nad hýžďovou rýhou jsou extrémně bolestivé. Onemocnění však není nijak nebezpečné. K odstranění bolesti může dojít samovolně (prasknutím) nebo drobným chirurgickým zákrokem. Definitivním řešením onemocnění je však jedině operace.
 

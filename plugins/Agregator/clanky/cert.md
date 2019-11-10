@@ -5,8 +5,6 @@
 
 # Pohádkový čert: kterak na svět přišel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
-
 {kw="mýty, nádory, kůže-podkoží, zánět, zhoubné, nezhoubné, cévy"}
 
 Postava čerta vznikla pozorováním lidí s různým zdravotním postižením. Typické čertovské příznaky se totiž u lidí vyskytují dosud jako vrozené či získané vady. U jednoho člověka se může vyskytnout i více příznaků současně.
@@ -58,8 +56,6 @@ V obličeji se může vyskytnout [rozsáhlý névus][1], nejčastěji pigmentov�
 n/a
 
 Vady řeči se vyskytují velmi často. Koktajícím lidem se někdy podaří jejich vadu obelstít např. opakováním nějakého slova či jeho části. A tak zjevně vzniklo i čertovo blekotání. Lidé s takovou vadou řeči působí většinou směšně, dříve působili jistě mnohdy i strašidelně.
-
-<!--     <p>Nutno dodat, že v dnešní době někteří řečníci považují vadu řeči za jakýsi image jako by vůbec netoužili naučit se správnou výslovnost.</p> -->
 
 {id="socialni\_postaveni\_certa"}
 

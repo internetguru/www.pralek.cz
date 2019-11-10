@@ -5,9 +5,9 @@
 
 # Uzly a zatvrdliny ve dlani: Dupuytrenova kontraktura
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-{kw="boulička, nezhoubné, prevence, mikroorganizmy, neúrazové, pohyb, zánět, bolest"}
+{kw="boulička, nezhoubné, prevence, neúrazové, pohyb, zánět, bolest"}
 
 Nebolestivé hrboly ve dlani mohou omezit nebo znemožnit hybnost prstů. Procvičováním prstů v počátečním stádiu nemoci lze zcela předejít nevratným změnám. Stejně důležité je cvičit po případné operaci, aby se nemoc nevrátila.
 

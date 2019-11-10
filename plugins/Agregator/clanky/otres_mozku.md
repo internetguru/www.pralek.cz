@@ -5,13 +5,9 @@
 
 # Otřes mozku nebo jen pohmoždění hlavy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
-
-{kw="poruchy vědomí, mozek-nervy, zvracení, poranění, úrazy"}
+{kw="mozek-nervy, poruchy vědomí, zvracení, poranění, boule, úrazy"}
 
 Pohmoždění hlavy lékařské vyšetření nevyžaduje. Vyjmenované příznaky otřesu mozku však vedou zraněného k lékařskému vyšetření.
 

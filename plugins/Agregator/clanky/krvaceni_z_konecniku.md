@@ -5,11 +5,9 @@
 
 # Krvácení z konečníku: hemoroidy nebo nádor
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="krvácení, zánět, neúrazové, nádory, cévy, břicho, zhoubné"}
+{kw="krvácení, zánět, boulička, strava-zažívání, neúrazové, nádory, cévy, břicho, zhoubné"}
 
 Krvácení z konečníku mívá různé příčiny. Nejčastěji se jedná o hemoroidy. Včasné odhalení příčiny vždy zvyšuje šanci na uzdravení, i když se jedná o nádor. Zatímco u hemoroidů je operace jednou z mnoha možností léčby, v případě nádoru bývá operace nezbytná.
 
@@ -55,7 +53,7 @@ Přítomnost hlenu a krve ve stolici může svědčit pro nádorové onemocněn�
 
 Přítomnost hlenu a červené krve ve stolici je známkou [nádoru střeva nebo konečníku][5]. Takové krvácení může trvat týdny až měsíce. Pokud však nádor poruší tepnu, může dojít k masivnímu krvácení do stolice. Místo stolice se objeví velké množství jasně červené (tepenné) krve a **pacient je bezprostředně ohrožen na životě**.
 
-[Žaludeční vřed][6] či nádor žaludku se může projevit masivním krvácením do stolice. Krev prochází celým zažívacím traktem a proto je v konečníku **dehtovitě černá stolice** _(černá krev neboli melaena)_. Pacient je opocený, bledý, slabý a omdlévá poklesem <a href="krevni_tlak">krevního tlaku</a>. Ač nemívá žádné bolesti, **je ohrožen na životě** a potřebuje [okamžitou lékařskou pomoc][7].
+[Žaludeční vřed][6] či nádor žaludku se může projevit masivním krvácením do stolice. Krev prochází celým zažívacím traktem a proto je v konečníku **dehtovitě černá stolice** _(černá krev neboli melaena)_. Pacient je opocený, bledý, slabý a omdlévá poklesem [krevního tlaku][7]. Ač nemívá žádné bolesti, **je ohrožen na životě** a potřebuje [okamžitou lékařskou pomoc][8].
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -95,5 +93,6 @@ n/a
  [4]: lekove_formy
  [5]: rakovina_tlusteho_streva_a_konecniku
  [6]: komplikace_vredu
- [7]: rychla_lekarska_pomoc
+ [7]: krevni_tlak
+ [8]: rychla_lekarska_pomoc
 
