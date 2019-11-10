@@ -19,7 +19,7 @@
 
 n/a
 
-  * V novorozeneckém věku se objevuje poměrně často zduření jednoho nebo obou prsních žláz, které je přirozeně způsobené hormony matky. Zduření většinou samo ustoupí, někdy však může dojít k [rozvoji zánětu][1] v prsu a [k tvorbě abscesu v prsní žláze][2]. Absces je pak nutno chirurgicky ošetřit.
+  * V novorozeneckém věku se u dívek i chlapců objevuje poměrně často zduření jednoho nebo obou prsních žláz, které je přirozeně způsobené hormony matky. Zduření většinou samo ustoupí, někdy však může dojít k [rozvoji zánětu][1] v prsu a [k tvorbě abscesu v prsní žláze][2]. Absces je pak nutno chirurgicky ošetřit.
   * V dětském věku se potíže objevují velmi zřídka, spíše se jedná o úrazy při pádech. Při ošetření úrazu je třeba dbát o celistvost bradavky i bradavkového dvorce.
   * V období dospívání se
       1. dívčí prs vyvíjí v součinnosti s ostatními pohlavními znaky. Vývoj ženského prsu je velmi individuální; u někoho dříve a u někoho o mnoho let později. Zneklidnění je třeba pouze v případě, že se kolem 12. roku věku dívky neobjevují _žádné ženské sekundární pohlavní znaky_ (růst prsů, ženského ochlupení, měsíčky, změna postavy do ženského typu).
