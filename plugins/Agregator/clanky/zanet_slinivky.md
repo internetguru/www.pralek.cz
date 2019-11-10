@@ -30,7 +30,7 @@ n/a
 
 Pro slinivku jsou charakteristické dvě formy zánětu:
 
-  1. Předčasná aktivace trypsinu již ve slinivce _(tryptická forma)_ spočívající ve významném poškození (natrávení) slinivky břišní sama sebou.
+  1. Předčasná aktivace trypsinu již ve slinivce _(tryptická forma)_ spočívající ve významném poškození slinivky břišní (natrávení sama sebou).
   2. [Zánět][3] probíhající jako v jakémkoli jiném orgánu _(netryptická forma)_, při kterém nedochází k předčasné aktivaci trypsinu a může se jednat o zánět prudký _(akutní)_, dlouhodobý _(chronický)_ nebo vracející se _(recidivující)_.
 
 {id="priciny\_zanetu\_slinivky_brisni"}
