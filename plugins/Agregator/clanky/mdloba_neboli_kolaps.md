@@ -9,9 +9,9 @@
 
 {kw="poruchy vědomí, mozek-nervy, prevence, první pomoc, srdce, poranění, mikroorganizmy"}
 
-Mdloba je způsobena nedostatečným okysličením mozku, nejčastěji z důvodu poklesu krevního tlaku. Oživování _(resuscitace)_ zkolabovaného je nutné jen výjimečně.
+Mdloba je způsobena nedostatečným okysličením mozku, a to nejčastěji z důvodu poklesu krevního tlaku. Oživování _(resuscitace)_ zkolabovaného je nutné jen výjimečně.
 
-Mdlobě většinou předchází slabost, zatočení hlavy a studený pot. Tehdy, aby nedošlo ke kolapsu, je třeba **podpořit prokrvení mozku**. Sklon k omdlívání mívají lidé (slečny) s [nižším krevním tlakem][1] a nervově labilnější. Člověk však může omdlít také bez varování a následným pádem se může poranit.
+Mdlobě většinou předchází slabost, zatočení hlavy a studený pot. Tehdy, aby nedošlo ke kolapsu, je třeba **podpořit prokrvení mozku**. Sklon k omdlívání mívají nervově labilnější lidé s [nižším krevním tlakem][1] (typicky např. slečny). Člověk však může omdlít také bez varování a následným pádem se může poranit.
 
 Podpora prokrvení mozku:
 
@@ -42,10 +42,10 @@ Počínající mdloba
 :  Vyžaduje **preventivně podpořit prokrvení mozku** (výše) a **vyprázdnit ústa** (bonbón, žvýkačka, zubní protéza, zbytky jídla).
 
 Zkolabovaný klidně a pravidelně dýchající člověk
-:  Člověk se srdeční akcí (pravidelně bijící srdce) vyžaduje rovněž **výše zmíněnou prevenci, nikoli resuscitaci**.
+:  Člověk se srdeční akcí (pravidelně bijící srdce) vyžaduje rovněž **výše zmíněnou prevenci a nikoli resuscitaci**.
 
 Zkolabovaný člověk s poruchou dýchání
-:  Porucha dýchání je způsobena zapadnutím kořene jazyka nebo vdechnutím cizího tělesa.
+:  Porucha dýchání bývá způsobena zapadnutím kořene jazyka nebo vdechnutím cizího tělesa.
 :  Takový člověk **je ohrožen na životě a [vyžaduje resuscitaci][3]**.
 
 {id="priciny\_a\_prvni_pomoc"}
@@ -62,7 +62,7 @@ Určitá [onemocnění srdce][5]
 :  Způsobí poruchu vědomí tím, že srdce nedostatečně pumpuje krev a mozek nedostává dostatek okysličené krve.
 
 Epilepsie (česky padoucnice)
-:  Je to nemoc, při které vzniká porucha vědomí a křeče vlastním onemocněním mozku, _nikoli snížením tlaku_.
+:  Je to nemoc, při které vzniká porucha vědomí a křeče vlastním onemocněním mozku a _nikoli snížením tlaku_.
 :  Při laické první pomoci **je nutné dbát pouze na volné dýchací cesty a předcházet poranění při pádu**.
 
 {id="otazky" var="inputvar-otazky_h"}
