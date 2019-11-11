@@ -3,7 +3,7 @@
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prisate\_kliste" short="Přisáté klíště" ctime="2007-12-13" mtime="2007-12-13"}
 
-# Nákaza přisátým klíštětem
+# Nakažení přisátým klíštětem
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
@@ -21,23 +21,23 @@ Přisátí klíštěte můžeme předejít vhodným oblečením pro pobyt v př�
 
 ## Odstranění přisátého klíštěte
 
-Přisáté klíště je třeba neodkladně a přitom šetrně odstranit. K tomu se hodí například sada k odstranění klíštěte s návodem na použití (k dostání v lékárnách). Na odstranění klíštěte není třeba chvátat, neboť případná infekce vstupuje do rány už v okamžiku zakousnutí.
+Přisáté klíště je třeba bezodkladně, a přitom šetrně odstranit. K tomu se hodí například sada k odstranění klíštěte s návodem na použití (k dostání v lékárnách). Na odstranění klíštěte není třeba chvátat, neboť případná infekce vstupuje do rány už v okamžiku zakousnutí.
 
 K zahubení klíštěte také dobře poslouží alkoholová desinfekce nebo jakákoli mast. Udušené klíště se pak dá z kůže snadno **odstranit šetrným kývavým pohybem**.
 
 {class="important"}
 
-Na svém ostrém sosáku má klíště zpětné háčky, **nikoli vruty**. Proto **jej nelze vytočit** ani ve směru ani proti směru hodinových ručiček. Tím naopak často zůstane část klíštěte v ráně.
+Na svém ostrém sosáku má klíště zpětné háčky. **Nejedná se o vruty, a proto klíště nelze vytočit** ani ve směru ani proti směru hodinových ručiček. Tím naopak často zůstane část klíštěte v ráně.
 
 Po odstranění klíštěte zůstává vždy kolem místa poranění zarudlý pupínek. Jedná se o běžnou reakci na látku proti srážení krve, kterou klíště vstříklo do kůže v okamžiku zakousnutí.
 
 {id="pocatecni\_priznaky\_onemocneni"}
 
-## Počáteční příznaky onemocnění
+## Příznaky onemocnění
 
 Známkou nakažení boreliózou je až postupně se rozšiřující **začervenalá skvrna (mapa), která směrem k centru bledne**. V případě nejasnosti po odstranění klíštěte je lepší vyhledat lékaře. Laboratorní vyšetření vyloučí nebo potvrdí nákazu boreliózou a léčení nebývá složité. Problémy vznikají v případě rozvinutí nepoznané boreliózy.
 
-Další chorobou, kterou může klíště na člověka přenést je virový zánět mozku. Jeho projevy jsou **[bolest hlavy][2], [teplota][3], [ztvrdnutí šíje][4]**. Jedná se o závažné onemocnění, proti kterému se lze očkovat. Informace o očkování poskytuje praktický lékař.
+Další chorobou, kterou může klíště na člověka přenést je virový zánět mozku. Jeho projevy jsou **[bolest hlavy][2], [teplota][3] či [ztvrdnutí šíje][4]**. Jedná se o závažné onemocnění, proti kterému se lze očkovat. Informace o očkování poskytuje praktický lékař.
 
 {class="example"}
 
