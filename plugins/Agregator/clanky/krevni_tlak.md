@@ -3,7 +3,7 @@
 
 {author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krevni\_tlak" short="Krevní tlak" ctime="2008-03-27" mtime="2008-03-27"}
 
-# Krevní tlak, správné měření a vyhodnocení tlaku
+# Měření a vyhodnocení krevního tlaku
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
@@ -11,16 +11,16 @@
 
 Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření.
 
-Srdce pumpuje krev. Žílami ji nabírá a tepnami ji rozvádí zpět do celého těla. V srdci jsou jednosměrné ventily – chlopně.
+Srdce pumpuje krev – žílami ji nabírá a tepnami ji rozvádí zpět do celého těla. K zachování směru toku krve slouží chlopně jakožto jednosměrné ventily.
 
   * Při **stažení srdeční komory** _(systola)_ je krev vypuzena díky chlopním jedním směrem do tepny.
-  * Při **uvolnění srdeční dutiny** _(diastola)_ se průchodnost chlopní vymění. Krev je z opačného směru nasávána ze žíly.
+  * Při **uvolnění srdeční komory** _(diastola)_ se průchodnost chlopní vymění. Krev je z opačného směru nasávána ze žíly.
 
 {class="example"}
 
-Rozdíl tlaků mezi systolou a diastolou se přenáší na tepny. Tím je akce srdeční _(puls)_ měřitelná na všech hmatných tepnách, nejsnáze na palcové straně zápěstí.
+Rozdíl tlaků mezi systolou a diastolou se přenáší na tepny. Tím je akce srdeční _(puls)_ měřitelná na všech hmatných tepnách, např. na palcové straně zápěstí.
 
-**Krevní tlak je vyjádřený dvěma čísly**: systolický tlak (vyšší hodnota) a diastolický tlak (nižší hodnota). K měření krevného tlaku slouží přístroj zvaný _tonometr_.
+**Krevní tlak je vyjádřený dvěma čísly**: systolický tlak (vyšší hodnota) a diastolický tlak (nižší hodnota). K měření krevního tlaku slouží přístroj zvaný _tonometr_ (česky tlakoměr).
 
 {id="tonometry"}
 
@@ -30,7 +30,7 @@ Na trhu jsou k dostání různé přístroje k měření tlaku krve. Původní t
 
 {class="example"}
 
-**Jednotka k měření krevního tlaku je „mm Hg“** (milimetry rtuťového sloupce). Dodnes je používaná i u modernějších digitálních tonometrů.
+**Jednotka k měření krevního tlaku je „mm Hg“** (milimetry rtuťového sloupce). Ta je dodnes používaná i u modernějších digitálních tonometrů.
 
 Existují tři základní typy tonometrů:
 
@@ -38,7 +38,7 @@ Existují tři základní typy tonometrů:
   * digitální tonometr s manžetou na paži a
   * digitální tonometr s manžetou na zápěstí.
 
-Rozdíly mezi jednotlivými přístroji jsou cenové, vzhledové, jestli jsou s displejem nebo ručičkou, s ručním nebo elektrickým kompresorem a podobně. Každý typ tonometru však naměří **ve stejný okamžik na shodné končetině identické hodnoty**.
+Rozdíly mezi jednotlivými přístroji jsou cenové, vzhledové, jestli jsou s displejem nebo s ručičkou, s ručním nebo elektrickým kompresorem atd. Každý typ tonometru však naměří **ve stejný okamžik na shodné končetině identické hodnoty**.
 
 {id="kolisani"}
 
@@ -46,7 +46,7 @@ Rozdíly mezi jednotlivými přístroji jsou cenové, vzhledové, jestli jsou s 
 
 Mnoho lidí vlastní tonometr a často se podivují nad **rozdíly naměřených hodnot** a považují svůj přístroj za porouchaný nebo nekvalitní.
 
-Za normální se u mladého zdravého člověka považuje hodnota kolem 120/80 mm Hg, která může kolísat mezi 100/50 až 180/100 mm Hg. Dočasné **zvýšení krevního tlaku** je způsobeno
+Za normální se u mladého zdravého člověka považuje hodnota kolem 120/80 mm Hg, která může kolísat mezi 100/50 až 180/100 mm Hg. Dočasné **zvýšení krevního tlaku** je způsobeno:
 
   * okamžitou poptávkou organizmu po živinách a kyslíku,
   * potřebou odvést zplodiny látkové výměny (ze svalů po námaze),
@@ -58,18 +58,18 @@ Krátkodobě **nízkou hodnotu krevního tlaku** naměří zdravý člověk v kl
 
 ## Podmínky správného měření krevního tlaku
 
-Správné měření krevní tlaku vyžaduje dodržení určitých podmínek. Jejich nedodržení vyžaduje opakované měření, a to na téže končetině.
+Správné měření krevní tlaku vyžaduje dodržení určitých podmínek. Jejich porušení vyžaduje opakované měření, a to na téže končetině.
 
 {class="important"}
 
 Z důvodu různého odstupu pažních tepen od srdeční tepny bývá **tlak na pravé a levé paži různý**.
 
-Čidlo tonometru považuje všechny tlakové změny přenesené na končetinu za pulsaci tepny. Aby naměřené hodnoty odpovídaly skutečnému stavu organizmu, musí měřený člověk dodržet určité podmínky:
+Čidlo tonometru považuje všechny tlakové změny přenesené na končetinu za pulsaci tepny. Aby naměřené hodnoty odpovídaly skutečnému stavu organizmu, musí být tonometr ve stejné výšce jako manžeta a měřený člověk:
 
-  * sedí klidně a nečinně (nemluví, nekašle, nesmrká, nekýchá, nejí, nepije a podobně),
+  * sedí klidně a nečinně,
+  * nemluví, nekašle, nesmrká, nekýchá, nejí, nepije a podobně,
   * pravidelně a klidně dýchá,
-  * končetina s manžetou je uvolněná (na stole nebo na klíně),
-  * tonometr je ve stejné výšce jako manžeta.
+  * má uvolněnou končetinu s manžetou na stole nebo na klíně.
 
 {id="hypertenze"}
 
@@ -77,7 +77,7 @@ Z důvodu různého odstupu pažních tepen od srdeční tepny bývá **tlak na 
 
 Opakované vyšší systolické hodnoty vyžadují poradu s lékařem. U zvýšené diastolické hodnoty je návštěva lékaře nezbytná.
 
-Mladí lidé mívají systolickou hodnotu 120 až 130 mm Hg, starší lidé i vyšší. Tato hodnota se mění během let, během dne i během okamžiku. Teprve **opakované vyšší hodnoty mohou znamenat hypertenzi** a vyžadují poradu s lékařem.
+Mladí lidé mívají systolickou hodnotu 120 až 130 mm Hg, starší lidé i vyšší. Tato hodnota se mění během let, během dne i během okamžiku. **Teprve až opakované vyšší hodnoty mohou znamenat hypertenzi** a vyžadují poradu s lékařem.
 
 **Diastolická hodnota musí být vždy menší než 100 mm Hg.** Je-li vyšší než 100 mm Hg, jedná se o hypertenzi a **návštěva lékaře je nezbytná**.
 
@@ -87,7 +87,7 @@ Existuje řada typů léků na snížení vysokého tlaku krve. Prvním a účin
 
 ## Nízký krevní tlak – hypotenze
 
-O hypotenzi se jedná tehdy, projevuje-li se a **obtěžuje-li svými projevy** (sklon k omdlívání a točení hlavy). Naměřené hodnoty mohou být i pod 100/50 mm Hg.
+O hypotenzi se jedná, pokud se projevuje a **obtěžuje svými projevy** jako je např. sklon k omdlívání a točení hlavy. Naměřené hodnoty mohou být i pod 100/50 mm Hg.
 
 Existují léky ke zvýšení tlaku krve. Většinou však postačí pití silného dobrého čaje, kávy či kofeinových nápojů.
 
