@@ -48,7 +48,7 @@ Základním úkonem v procesu oživování je **uvolnění dýchacích cest a vy
 
 Trvá-li bezdeší a chybí srdeční akce, následuje resuscitace v posloupnosti 2 vdechy a 30 stlačení hrudníku. Správné stačení hrudníku je důležitější, protože částečně nahrazuje i vdechy.
 
-  1. **Masáž srdeční**: zachránce uloží jednu svou dlaň přes druhou a zachraňovanému stlačuje hrudník uprostřed prsní kosti rychlostí asi 70x za minutu.
+  1. **Masáž srdeční**: zachránce uloží jednu svou dlaň přes druhou a zachraňovanému stlačuje hrudník uprostřed prsní kosti rychlostí asi 70krát za minutu.
   2. **Dýchání z úst do úst**: jedna ruka drží za krkem hlavu v záklonu a druhá ruka uzavře chřípí nosu, následuje vdechnutí do úst zachraňované osoby (dětem je nutné vdechovat do úst a nosu zároveň).
 
 {class="important"}
@@ -59,9 +59,9 @@ Podstatné je, **zahájit resuscitaci co nejdříve**. Do 2 minut zahájené ož
 
 ## Proces oživování při kolapsu
 
-Člověk upadne do bezvědomí v případě poruchy funkce mozku. Nejčastější a zároveň nejjednodušší porucha vědomí je [mdloba neboli kolaps][4], způsobená nedostatečným prokrvením mozku z důvodu náhlého snížení krevního tlaku.
+Člověk upadne do bezvědomí v případě poruchy funkce mozku. Nejčastější a zároveň nejjednodušší porucha vědomí je [mdloba neboli kolaps][4] způsobená nedostatečným prokrvením mozku z důvodu náhlého snížení krevního tlaku.
 
-V takovém případě postupujeme uvolněním dýchacích cest u ležícího člověka a pozvednutím dolních končetin do výšky podpoří prokrvení mozku. Pak už jen postačí vyčkat, až se postižený postupně probere k plnému vědomí (klidně dýchá, srdce mu tluče).
+V takovém případě u ležícího člověka postupujeme uvolněním dýchacích cest a pozvednutím dolních končetin do výšky. To podpoří prokrvení mozku. Pak už jen postačí vyčkat, až se postižený postupně probere k plnému vědomí (klidně dýchá, srdce mu tluče).
 
 {id="otazky" var="inputvar-otazky_h"}
 
