@@ -23,9 +23,9 @@ Defekt může vzniknout v okamžiku jednorázové námahy nebo se tvoří dlouho
 
 Kýla se nejčastěji projevuje jako [boulička v třísle][4], v jizvě, v pupku nebo v jeho okolí. Vytvořená kýla již většinou nebolí a nečiní jiné než kosmetické potíže. Její velikost se mění v závislosti na namáhání břišních svalů _(užívání břišního lisu)_.
 
-Během spánku může kýla zcela zmizet. Obsah kýlního vaku se vlivem uvolnění vrací kýlní brankou do dutiny břišní. Přes den však kýla znovu narůstá. **Dlouhodobě se kýla vždy postupně zvětšuje – sama se nikdy nezahojí.** Někdy se může sama zhojit pouze vrozená pupeční kýla kojencům.
+Během spánku může kýla zcela zmizet. Obsah kýlního vaku se vlivem uvolnění vrací kýlní brankou do dutiny břišní. Přes den však kýla znovu narůstá. **Dlouhodobě se kýla vždy postupně zvětšuje. Sama se nikdy nezahojí.** Někdy se může sama zhojit pouze vrozená pupeční kýla kojencům.
 
-Kýla se vyskytuje v každém věku – od novorozeneckého jako vrozená až po pozdní stáří jako získaná. Operačním řešením je uzavření defektu ve stěně břišní, což lze často provést laparoskopicky. Pooperační komplikace se vyskytují zřídka, pobyt v nemocnici je jen několikadenní. Návrat do běžného života bývá možný po 3 týdnech a plná fyzická zátěž asi po 6 týdnech.
+Kýla se vyskytuje v každém věku – od novorozeneckého jako vrozená až po pozdní stáří jako získaná. Operačním řešením je uzavření defektu ve stěně břišní. To lze často provést laparoskopicky. Pooperační komplikace se vyskytují zřídka a pobyt v nemocnici je jen několikadenní. Návrat do běžného života bývá možný po 3 týdnech a plná fyzická zátěž asi po 6 týdnech.
 
 {id="komplikace\_spojene\_s_kylou"}
 
@@ -39,9 +39,9 @@ Pacient se často naučí sám kýlu napravovat. Stlačením bouličky přesune 
 
 I přes veškeré snahy se časem **kýla neustále pomalu zvětšuje**. Může nabýt i bizarních rozměrů tím, že se do vaku dostává stále více útrob.
 
-Kdykoli mohou vzniknout komplikace projevující se bolestí či zatvrdnutím kýly, často i [zvracením][5] nebo až [střevní neprůchodností][6]. Nejčastěji se jedná o **zaškrcení obsahu kýlního vaku v kýlní brance** neboli _uskřinutá kýla_. Střevo se před překážkou rozpíná, břicho se nadýmá a intenzivně bolí.
+Kdykoli mohou vzniknout komplikace projevující se bolestí či zatvrdnutím kýly, často i [zvracením][5] nebo až [střevní neprůchodností][6]. Nejčastěji se jedná o **zaškrcení obsahu kýlního vaku v kýlní brance** nazývané _uskřinutá kýla_. Střevo se před překážkou rozpíná, břicho se nadýmá a intenzivně bolí.
 
-Pacient s uskřinutou kýlou vnímá pocit zástavy větrů a posléze začíná zvracet. Tehdy je již operace neodkladná, avšak složitější a život zachraňující. Neplánovaná operace navíc typicky nastává pro pacienta v nevhodnou dobu (pozdní věk, dovolená, svátky a podobně).
+Pacient s uskřinutou kýlou vnímá pocit zástavy větrů a posléze začíná zvracet. Tehdy je již operace bezodkladná, složitější a život zachraňující. Neplánovaná operace navíc typicky nastává pro pacienta v nevhodnou dobu (pozdní věk, dovolená, svátky a podobně).
 
 {id="otazky" var="inputvar-otazky_h"}
 
