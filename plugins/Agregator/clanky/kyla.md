@@ -45,7 +45,7 @@ I přes veškeré snahy se časem **kýla neustále pomalu zvětšuje**. Může 
 
 Kdykoli mohou vzniknout komplikace projevující se bolestí či zatvrdnutím kýly, často i [zvracením][5] nebo až [střevní neprůchodností][6]. Nejčastěji se jedná o **zaškrcení obsahu kýlního vaku v kýlní brance** – _uskřinutá kýla_. Střevo se před překážkou rozpíná, břicho se nadýmá a intenzivně bolí.
 
-Pacient s uskřinutou kýlou vnímá pocit zástavy větrů a posléze začíná zvracet. Tehdy je již operace neodkladná, avšak složitější – život zachraňující. Neplánovaná operace navíc typicky nastává pro pacienta v nevhodnou dobu (pozdní věk, dovolená, svátky a podobně).
+Pacient s uskřinutou kýlou vnímá pocit zástavy větrů a posléze začíná zvracet. Tehdy je již [operace neodkladná][7], avšak složitější – život zachraňující. Neplánovaná operace navíc typicky nastává pro pacienta v nevhodnou dobu (pozdní věk, dovolená, svátky a podobně).
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -85,4 +85,5 @@ n/a
  [4]: lymfaticke_uzliny
  [5]: funkcni_poruchy_traveni
  [6]: strevni_nepruchodnost
+ [7]: nalehavost_lekarskeho_vysetreni
 

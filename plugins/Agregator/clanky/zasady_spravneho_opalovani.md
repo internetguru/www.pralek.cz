@@ -5,11 +5,9 @@
 
 # Zásady správného opalování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="kůže-podkoží, zdravý životní styl, prevence, zhoubné, zánět, strava-zažívání, nádory"}
+{kw="kůže-podkoží, spáleniny, prevence, zhoubné, zánět, nádory"}
 
 Stále častěji se vyskytují výstražné zprávy o nebezpečnosti opalování. Lidé jsou však vystaveni slunečnímu záření od nepaměti. Slunění je pro většinu lidí prospěšné. Některým lidem (a za určitých podmínek) však může být zdraví škodlivé, a někdy dokonce nebezpečné.
 
@@ -17,7 +15,7 @@ Ochranu lidského těla proti nebezpečí slunečního záření zajišťuje ko�
 
 {class="example"}
 
-Nemá smysl se ihned po příjezdu do letoviska namazat krémem s vysokým ochranným faktorem. Nedošlo by k aktivaci melanocytů a takový člověk by si spálil jakékoli nechráněné místo. Smysluplnou prevencí spálení je zprvu krátkodobý pobyt na slunci nebo namazání se krémem se středním ochranným faktorem. Tím se nastartuje tvorba melaninu.
+Nemá smysl se ihned po příjezdu do letoviska namazat krémem s vysokým ochranným faktorem. Nedošlo by k aktivaci melanocytů a takový člověk by si spálil jakékoli nechráněné místo. Smysluplnou prevencí spálení je zprvu krátkodobý pobyt na slunci nebo namazání se krémem se středním ochranným faktorem. Tím se nastartuje přiměřená tvorba melaninu.
 
 {id="slunecni_zareni"}
 

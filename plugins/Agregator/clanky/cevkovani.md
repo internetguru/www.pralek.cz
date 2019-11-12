@@ -5,9 +5,9 @@
 
 # Cévkování močového měchýře
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-{kw="močová soustava, retence moči, strach, katetrizace"}
+{kw="močová soustava, retence moči, nádory, nezhoubné, strach, katetrizace"}
 
 Pokud má pacient plný močový měchýř a nemůže se vymočit, jedná se o retenci moči. Pak je nutné moč vypustit cévkou, pacienta tzv. vycévkovat. V určitých případech se močová cévka zavádí také preventivně nebo z hygienických důvodů.
 
@@ -15,7 +15,7 @@ Močová trubice při močení odvádí moč z močového měchýře ven z těla
 
 Příčiny retence moči jsou
 
-  * [zvětšení prostaty][1] (hypertrofie) nebo její zhoubný nádor,
+  * [zvětšení prostaty][1] – nezhoubná hypertrofie prostaty nebo její zhoubný nádor,
   * [pozánětlivé][2] [zúžení močové trubice][2],
   * ucpání močové trubice např. krevní sraženinou a
   * porucha nervového zásobení močového měchýře.

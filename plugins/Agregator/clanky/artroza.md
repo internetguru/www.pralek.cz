@@ -5,8 +5,6 @@
 
 # Bolesti kloubů – jak žít s artrózou
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="stařecké, rehabilitace, bolest, pohyb, prevence, úrazy"}
 
 Klouby se přetěžováním a věkem opotřebovávají. Poškozené klouby bolí, otékají, postupně se deformují a jsou omezeně pohyblivé. Pravidelná a přiměřená zátěž udrží nemoc relativně snesitelnou.
@@ -21,7 +19,7 @@ Zdravá chrupavka je bílá, lesklá a dokonale hladká. Vlivem artrózy chrupav
 
 n/a
 
-Příčina vzniku artrózy je nejasná, ale jsou známy faktory, které její vznik a vývoj podporují. Jedná se hlavně o **dlouhodobé přetěžování kloubů v kombinaci s opakovanými drobnými úrazy** – mikrotraumaty (nejčastěji při sportu). Jistou roli hraje také rodová dispozice.
+Příčina vzniku artrózy je nejasná, ale jsou známy faktory, které její vznik a vývoj podporují. Jedná se hlavně o **dlouhodobé přetěžování kloubů v kombinaci s opakovanými drobnými úrazy** – mikrotraumaty (nejčastěji při vrcholovém sportu). Jistou roli hraje také rodová dispozice.
 
 Nejčastější důvody přetěžování kloubů jsou:
 

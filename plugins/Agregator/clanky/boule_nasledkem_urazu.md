@@ -5,11 +5,9 @@
 
 # Boule vzniklé následkem úrazu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
-
-{kw="úrazy, krvácení, kůže-podkoží, bolest, cévy, pohyb, první pomoc"}
+{kw="boule, úrazy, krvácení, kůže-podkoží, bolest, cévy, pohyb, první pomoc"}
 
 Boule vzniklé pohmožděním mají různou povahu; může jít o vylitou krev nebo jinou tekutinu. Podle místa vzniku se liší závažností, bolestivostí, léčbou a průběhem hojení.
 
@@ -42,7 +40,7 @@ n/a
       * Nejčastěji bývá nutné odborné odsátí tekutiny _(punkce)_, mnohdy i opakovaně. Někdy je nutné zklidnění zánětu dlahou. Často musí následovat operační odstranění celé změněné burzy pro vracející se (recidivující) potíže. {class="example"}
   * **Boule nad nejširším svalem zádovým nebo nad svaly podél páteře** vzniklé [v souvislosti s onemocněním páteře][9] jsou bolestivé svalové zatvrdliny _(kontraktury)_. 
       * Při potížích nejlépe pomůže suché teplo a šetrná masáž.
-  * [Boule bez souvislosti s pohmožděním nebo otlačením][10] mají zcela jiný původ a charakter a vyžadují zcela odlišné léčení.
+  * [Boule bez souvislosti s pohmožděním nebo otlačením][10] mají zcela jiný původ a charakter a vyžadují odborné vyšetření a zcela odlišné léčení.
 
 {id="otazky" var="inputvar-otazky_h"}
 

@@ -5,13 +5,7 @@
 
 # Prudký zánět slinivky břišní: akutní pankreatitida
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
-
-{kw="bolest, zánět, břicho, žlučník, stravovací návyky, cukrovka"}
+{kw="bolest, zánět, břicho, žlučník, stravovací návyky, zhoubné, cukrovka"}
 
 Prudký zánět slinivky břišní je závažné život ohrožující onemocnění. Vzniká nejčastěji v návaznosti na přejedení nevhodnou kombinací jídel (a tvrdého alkoholu).
 
@@ -34,7 +28,7 @@ n/a
 
 Pro slinivku jsou charakteristické dvě formy zánětu:
 
-  1. Předčasná aktivace trypsinu již ve slinivce _(tryptická forma)_ spočívající ve významném poškození (natrávení) slinivky břišní.
+  1. Předčasná aktivace trypsinu již ve slinivce _(tryptická forma)_ spočívá ve významném poškození (natrávení) samotné slinivky břišní.
   2. [Zánět][3] probíhající jako v jakémkoli jiném orgánu _(netryptická forma)_, při kterém nedochází k předčasné aktivaci trypsinu a může se jednat o zánět prudký _(akutní)_, dlouhodobý _(chronický)_ nebo vracející se _(recidivující)_.
 
 {id="priciny\_zanetu\_slinivky_brisni"}
@@ -43,7 +37,7 @@ Pro slinivku jsou charakteristické dvě formy zánětu:
 
 n/a
 
-  * Nejčastěji nastává **zhoubnou kombinací velkého množství těchto jídel**:
+  * Nejčastěji nastává **zhoubnou kombinací velkého množství těchto jídel**: 
       * jitrnice (vepřové hody),
       * kyselé rybičky (zavináč),
       * smetanový nebo šlehačkový dort,
