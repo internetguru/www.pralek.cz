@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/prisate_kliste/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2007-12-13" mtime="2007-12-13" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prisate\_kliste" short="Přisáté klíště"}
+{ctime="2007-12-13" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prisate\_kliste" short="Přisáté klíště"}
 
 # Nakažení přisátým klíštětem
 
