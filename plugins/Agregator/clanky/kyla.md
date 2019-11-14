@@ -1,13 +1,13 @@
 
 {data-type="article" data-image="/files/preview/koutek/kyla/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="kyla" short="Kýla" ctime="2008-01-08" mtime="2008-01-08"}
+{ctime="2008-01-08" mtime="2008-01-08" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="kyla" short="Kýla"}
 
 # Kýla: boulička v třísle, v pupku nebo jeho okolí
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="boulička, bolest, břicho, orgány, pohyb, strava-zažívání, zánět"}
+{kw="boulička, břicho, bolest, strach, zvracení, pohyb"}
 
 Plánovaná operace kýly časně po potvrzení diagnózy je jediným správným řešením problému. Ostatní řešení jsou pouze dočasná a nevyhnutelnou operaci mohou pouze zkomplikovat.
 
@@ -41,7 +41,7 @@ I přes veškeré snahy se časem **kýla neustále pomalu zvětšuje**. Může 
 
 Kdykoli mohou vzniknout komplikace projevující se bolestí či zatvrdnutím kýly, často i [zvracením][5] nebo až [střevní neprůchodností][6]. Nejčastěji se jedná o **zaškrcení obsahu kýlního vaku v kýlní brance** nazývané _uskřinutá kýla_. Střevo se před překážkou rozpíná, břicho se nadýmá a intenzivně bolí.
 
-Pacient s uskřinutou kýlou vnímá pocit zástavy větrů a posléze začíná zvracet. Tehdy je již operace bezodkladná, složitější a život zachraňující. Neplánovaná operace navíc typicky nastává pro pacienta v nevhodnou dobu (pozdní věk, dovolená, svátky a podobně).
+Pacient s uskřinutou kýlou vnímá pocit zástavy větrů a posléze začíná zvracet. Tehdy je již [operace neodkladná][7], složitější a život zachraňující. Neplánovaná operace navíc typicky nastává pro pacienta v nevhodnou dobu (pozdní věk, dovolená, svátky a podobně).
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -81,4 +81,5 @@ n/a
  [4]: lymfaticke_uzliny
  [5]: funkcni_poruchy_traveni
  [6]: strevni_nepruchodnost
+ [7]: nalehavost_lekarskeho_vysetreni
 

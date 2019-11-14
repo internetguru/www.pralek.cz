@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/zlomeniny_kosti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlomeniny\_kosti" short="Zlomeniny kostí" ctime="2009-10-22" mtime="2009-10-22"}
+{ctime="2009-10-22" mtime="2009-10-22" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlomeniny\_kosti" short="Zlomeniny kostí"}
 
 # Zlomeniny kostí
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="zlomeniny, úrazy, poranění, bolest, pohyb, poruchy vědomí, nemoc"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="zlomeniny, úrazy, poranění, bolest, krvácení, pohyb"}
 
 Rozpoznání zlomeniny kosti a správné poskytnutí první pomoci zabrání vzniku šoku a komplikací.
 
@@ -56,7 +58,7 @@ Dlouho obtěžující bolestivost, otoky a nemožnost rychlého návratu k běž
 
 {class="example"}
 
-Se zlomeninou zevního kotníku lze například chodit nebo dohrát sportovní zápas.
+Se zlomeninou zevního kotníku lze chodit nebo například dohrát sportovní zápas.
 
 {id="prasklina_lebky"}
 

@@ -1,13 +1,13 @@
 
 {data-top="9" data-type="article" data-image="/files/preview/koutek/lymfaticke_uzliny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lymfaticke\_uzliny" short="Lymfatické uzliny" ctime="2009-01-20" mtime="2009-01-20"}
+{ctime="2009-01-20" mtime="2009-01-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lymfaticke\_uzliny" short="Lymfatické uzliny"}
 
 # Zvětšené lymfatické uzliny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-{kw="kůže-podkoží, teplota, ušní-nosní-krční, zánět, bolest, zhoubné, nezhoubné, neúrazové, orgány, cévy"}
+{kw="kůže-podkoží, teplota, boulička, zánět, bolest, nádory, zhoubné, nezhoubné, cévy"}
 
 Normální lymfatické uzliny nejsou bolestivé ani hmatné. Zvětšení nebo bolestivost uzliny má vždy svůj důvod, po kterém je třeba pátrat. Nejčastěji se jedná o zánět, bohužel někdy i o nádor.
 

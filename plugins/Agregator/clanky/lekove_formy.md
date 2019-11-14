@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/lekove_formy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lekove\_formy" short="Podávání léků a lékové formy" ctime="2010-05-09" mtime="2010-05-09"}
+{ctime="2010-05-09" mtime="2010-05-09" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lekove\_formy" short="Podávání léků a lékové formy"}
 
 # Možnosti podávání léků a lékové formy
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="cévy"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="angína, bezvědomí, teplota, cévy, zvracení, alergie"}
 
 Léky se mohou dostat do těla různými cestami. Stejné množství léku (účinná dávka léku) působí stejně, je-li podáno kteroukoli formou a kteroukoli cestou. Většinou je možné nasadit takovou formu, která pacientovi vyhovuje.
 

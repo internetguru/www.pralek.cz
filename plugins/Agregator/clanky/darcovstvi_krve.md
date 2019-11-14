@@ -1,13 +1,13 @@
 
 {data-type="article" data-image="/files/preview/koutek/darcovstvi_krve/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="darcovstvi\_krve" short="Dárcovství krve" ctime="2009-05-25" mtime="2009-05-25"}
+{ctime="2009-05-25" mtime="2009-05-25" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="darcovstvi\_krve" short="Dárcovství krve"}
 
 # Dárcovství krve, krevní plazmy a kostní dřeně
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-{kw="zdravý životní styl, strava-zažívání, poruchy vědomí, zhoubné, nádory, orgány, dětské"}
+{kw="krev, strava-zažívání, strach, poruchy vědomí, zhoubné, nádory, dětské"}
 
 Darovat krev může člověk, který dovršil 18 let věku, neměl infekční žloutenku, jeho hmotnost je vyšší než 50 kg a cítí se být zdráv. Dárce je vyšetřen a jeho krev bude užita k návratu zdraví nebo k záchraně jiného života. Chybějící krev je v těle dárce obnovena za 72 hodin.
 
@@ -28,7 +28,7 @@ Odběrem kapky krve z prstu (nástrojem na 1 použití) je vyšetřena hladina k
 n/a
 
   1. Při odběru napíchne transfuzní sestra loketní žílu (jehlou na 1 použití) a odebírá krev do vaku na 1 použití. Množství odebírané krve je necelého půl litru. Jehla je velmi ostrá, takže [vpich téměř nebolí][1]. V průběhu odběru již **dárce nevnímá žádnou bolest**, většinou se dobře baví s atraktivní a milou sestrou :-)
-  2. Odběr trvá asi 5–7 minut. Po odběru dostává dárce občerstvení – svačinu, kávu a čaj. Dostává také potvrzení o darování krve a má nárok na pracovní volno. Dárce rovněž dostává potvrzení na odpis z daní na 2 000 Kč. Kromě toho dárcovství krve různě podporují zdravotní pojišťovny.
+  2. Odběr trvá asi 5–7 minut. Po odběru dostává dárce občerstvení – svačinu, kávu a čaj. Dostává také potvrzení o darování krve a má nárok na pracovní volno. Dárce rovněž dostává potvrzení na odpis z daní na určitou finanční částku. Kromě toho dárcovství krve různě podporují zdravotní pojišťovny.
   3. Odebraná krev je následně rozložena na jednotlivé složky (zvláštní krvinky a [krevní plazma][2]). Jednotlivé složky krve navracejí zdraví jinak neléčitelně nemocným lidem. Plná krev se dnes již podává spíše výjimečně.
 
 Technicky není možné, aby se dárce krve nakazil krví přenosnou chorobou. Všechny vpichy jsou pouze jehlami na jedno použití. Odebraná krev je náležitě vyšetřena. Přesto se bohužel může někdy stát, že je nakažen příjemce krve nebo krevního derivátu. **Nikdy však není nakažen dárce.**

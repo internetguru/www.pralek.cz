@@ -1,13 +1,13 @@
 
 {data-type="article" data-image="/files/preview/koutek/odhaleni_rakoviny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odhaleni\_rakoviny" short="Odhalení rakoviny" ctime="2015-03-31" mtime="2015-03-31"}
+{ctime="2015-03-31" mtime="2015-03-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odhaleni\_rakoviny" short="Odhalení rakoviny"}
 
 # Včasné odhalení rakoviny tlustého střeva a konečníku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-{kw="nádory, zhoubné, prevence, krvácení, břicho, orgány, neúrazové"}
+{kw="prevence, nádory, zhoubné, krvácení, břicho, neúrazové"}
 
 Opakované vyšetřování stolice na krvácení může odhalit zhoubný nádor střeva a konečníku již v počátečním stádiu, kdy je nádor ještě vyléčitelný. Vyšetření je potřeba doporučit každému člověku od padesáti let, a to i jako laik (čtenář tohoto článku).
 

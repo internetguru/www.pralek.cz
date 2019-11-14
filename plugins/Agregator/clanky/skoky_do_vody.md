@@ -1,17 +1,19 @@
 
 {data-type="article" data-image="/files/preview/koutek/skoky\_do\_vody/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="skoky\_do_vody" short="Skoky do vody" ctime="2015-03-23" mtime="2015-03-23"}
+{ctime="2015-03-23" mtime="2015-03-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="skoky\_do_vody" short="Skoky do vody"}
 
 # Nebezpečí skoku do vody
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="úrazy, poranění, zlomeniny, krvácení, orgány, pohyb, bolest"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="úrazy, poranění, zlomeniny, krvácení, pohyb, bolest"}
 
 Skoky do známé i neznámé vody mohou být velmi nebezpečné. V drtivé většině případů mívají skokani změněné uvažování. Typicky se před někým předvádějí a nebývají tedy u vody sami. Proto je na jejich kamarádech, aby jim v takovém konání zabránili.
 
-Neprozkoumaná voda je každoroční nástrahou „odvážlivců“ se sníženým úsudkem. Nemalý podíl na zraněních spojených se skokem do vody nesou i dobře známé vody. Úrazy závisí mimo ostatních faktorů také na typu skoku.
+Neprozkoumaná voda je každoroční nástrahou „odvážlivců“ se sníženým úsudkem. Nemalý podíl na zraněních spojených se skokem do mělké vody nesou i dobře známé vody. Úrazy závisí mimo ostatních faktorů také na typu skoku.
 
 {id="skok\_do\_nezname_vody"}
 

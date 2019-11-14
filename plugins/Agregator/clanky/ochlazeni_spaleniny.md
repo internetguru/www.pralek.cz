@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/ochlazeni_spaleniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ochlazeni\_spaleniny" short="Ochlazení spáleniny" ctime="2007-10-21" mtime="2015-08-04"}
+{ctime="2007-10-21" mtime="2015-08-04" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ochlazeni\_spaleniny" short="Ochlazení spáleniny"}
 
 # Ochlazení jako první pomoc při spálenině
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="poranění, první pomoc, úrazy, ošetření, kůže-podkoží, bolest, břicho, nemoc, pohyb"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="poranění, první pomoc, úrazy, kůže-podkoží, bolest, břicho, pohyb"}
 
 Okamžité ochlazení spáleniny zásadně snižuje závažnost úrazu a jeho následky! Nejlépe poslouží proud studené čisté vody. O výsledné závažnosti úrazu rozhoduje každá sekunda.
 

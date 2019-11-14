@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/podvrtnuti_kotniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="podvrtnuti\_kotniku" short="Podvrtnutí kotníku" ctime="2009-12-23" mtime="2009-12-23"}
+{ctime="2009-12-23" mtime="2009-12-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="podvrtnuti\_kotniku" short="Podvrtnutí kotníku"}
 
 # Podvrtnutí kotníku
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="úrazy, bolest, pohyb, nemoc"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="kloub, vykloubení, úrazy, bolest, pohyb"}
 
 Jedná se o častý úraz převážně mladých lidí a sportovců. Panují však nejasnosti v tom, zda a kdy vyhledat lékařské vyšetření a existují různé možnosti léčení.
 
@@ -27,7 +29,7 @@ Jestliže násilí působí opačně (tlačí nohu pod zevní kotník), pak se p
 
 Často se zvrtnutí nesprávně laicky označuje jako _podvrknutí kotníku_, _vyvrknutí kotníku_ či _zvrknutí kotníku_.
 
-Větší násilí může poranit hlezno oboustranně. Jedná se o závažnější úraz, rychle nastupuje otok a brzy se ukazuje i krevní výron. Stav je označován jako **podvrtnutí, zvrtnutí nebo vyvrtnutí obou kotníků** (hlezna). Laicky bývá také označován jako „výron“. Vzhledem k nestabilitě kloubu lze mluvit i o **vymknutí hlezna** – _hlezenného kloubu_.
+Větší násilí může poranit hlezno oboustranně. Jedná se o závažnější úraz, rychle nastupuje otok a brzy se ukazuje i krevní výron. Stav je označován jako **podvrtnutí, zvrtnutí nebo vyvrtnutí obou kotníků** (hlezna). Laicky bývá také označován jako „výron“. Vzhledem k nestabilitě kloubu lze mluvit i o **vymknutí (vykloubení) hlezna** – _hlezenného kloubu_.
 
 **Hlezenný kloub** je velmi zatěžovaný složitý kloub, spojující 3 kosti:
 
@@ -62,6 +64,8 @@ Jiná možnost je **přiložení ortézy**. Ortéza limituje pohyb hlezna v pož
 {class="example"}
 
 Dlouhodobé [preventivní nošení ortézy][3] je však sporné. V případě běžné zátěže nahrazuje ortéza oslabený vaz a ten proto nesílí a nezpevňuje se. V případě nadměrného násilí nebo nečekaného úrazu nezabrání ortéza recidivě.
+
+**Správně provedené tejpování** může podpořit lehce poškozené kloubní pouzdro nebo vaz. Vzhledem k velkým silám v oblasti hlezna ale spíše jen symbolicky.
 
 **Pevná fixace** (sádrová chodička nebo plastová fixace) na 6 týdnů však zajistí pevné zhojení kloubního pouzdra i vazů v původním postavení a po následném rozcvičení lze očekávat plnohodnotné zhojení bez následků a s mnohem menším rizikem opětovného úrazu než bylo popsáno výše. Pevnou fixaci je dobré přiložit až po sejití otoku tedy asi 3 dny po úrazu.
 

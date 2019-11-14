@@ -304,6 +304,68 @@ a.tag:before,
   background: #c5cae9;
 }
 /***************************/
+dl.clanek.linklist-new,
+dl.clanek.doclist-new {
+  overflow: hidden;
+}
+dl.clanek.linklist-new > dt:first-child,
+dl.clanek.doclist-new > dt:first-child {
+  position: relative;
+}
+.agregator-new .hdesc > div:after,
+dl.clanek.linklist-new > dt:first-child:after,
+dl.clanek.doclist-new > dt:first-child:after {
+  content: "Nový";
+  width: 12em;
+  background: #4CAF50;
+  position: absolute;
+  top: 1em;
+  left: -3.9em;
+  text-align: center;
+  line-height: 2.4em;
+  letter-spacing: 0.075em;
+  color: #f0f0f0;
+  transform: rotate(-45deg);
+  font-weight: 500;
+  z-index: 1;
+  pointer-events: none;
+}
+.agregator-new .hdesc > div:after {
+  content: "Nový článek";
+  transform: rotate(45deg);
+  top: auto;
+  bottom: 0.5em;
+  left: -3.5em;
+  letter-spacing: normal;
+}
+@media all and (min-width: 52em) {
+  .agregator-new .hdesc > div:after {
+    transform: rotate(0deg);
+    background: none;
+    line-height: normal;
+    color: #4CAF50;
+    font-size: 1.75rem;
+    font-weight: 500;
+    border: medium solid #4CAF50;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    text-transform: uppercase;
+    border-radius: 1rem;
+    -webkit-mask-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/8399/grunge.png');
+    -webkit-mask-size: 944px 604px;
+    mix-blend-mode: color-dodge;
+    z-index: 2;
+    width: fit-content;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    left: 1rem;
+   }
+}
+/***************************/
 .contentbalancer-simple {
   margin: 2.5em 0;
 }
@@ -412,8 +474,10 @@ dl.toptags dd {
 .author .contentbalancer-simple li {
   margin-top: 1em;
 }
-.author .contentbalancer-simple li:first-child {
-  margin-right: 1em;
+@media all and (min-width: 42em) {
+  .author .contentbalancer-simple li:first-child {
+    margin-right: 1em;
+  }
 }
 #feedback button:first-child,
 .author .contentbalancer-simple a {
@@ -1116,4 +1180,7 @@ ul.docinfo.nomultiple.global {
 #content #feedback .feedback-yes,
 #feedback button:first-child {
   border: none;
+}
+p:not(.description), div:not(.list), .author ul, ol, dl {
+  clear: both;
 }

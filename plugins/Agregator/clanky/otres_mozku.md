@@ -1,13 +1,13 @@
 
 {data-type="article" data-image="/files/preview/koutek/otres_mozku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="otres\_mozku" short="Otřes mozku" ctime="2008-09-11" mtime="2008-09-11"}
+{ctime="2008-09-11" mtime="2008-09-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="otres\_mozku" short="Otřes mozku"}
 
 # Otřes mozku nebo jen pohmoždění hlavy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-{kw="poruchy vědomí, poranění, nemoc, úrazy, zvracení, orgány, dětské"}
+{kw="mozek-nervy, poruchy vědomí, zvracení, poranění, boule, úrazy"}
 
 Pohmoždění hlavy lékařské vyšetření nevyžaduje. Vyjmenované příznaky otřesu mozku však vedou zraněného k lékařskému vyšetření.
 
@@ -55,7 +55,7 @@ n/a
 
 Jestli po poranění hlavy nenásledovalo bezvědomí, zvracení ani porucha paměti se zmateností, ale normální chování poraněného, nejedná se o otřes mozku ale o pohmoždění hlavy.
 
-Po tupém poranění hlavy vznikne boule – krevní výron. Studený obklad na hlavu udělá zraněnému dobře. Po úrazu hlavy je dobře být v klidu, šeru, chladnu, nejíst, pouze se napít. V případě chuti a únavy je možné spát, lépe ve společnosti druhé osoby. Bohužel může dojít k závažnému **[poranění mozku][5] i bez známek otřesu mozku**. Toto poranění se může projevit i s delším časovým odstupem.
+Po tupém poranění hlavy [vznikne boule][5] – krevní výron. Studený obklad na hlavu udělá zraněnému dobře. Po úrazu hlavy je dobře být v klidu, šeru, chladnu, nejíst, pouze se napít. V případě chuti a únavy je možné spát, lépe ve společnosti druhé osoby. Bohužel může dojít k závažnému **[poranění mozku][6] i bez známek otřesu mozku**. Toto poranění se může projevit i s delším časovým odstupem.
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -92,5 +92,6 @@ n/a
  [2]: mdloba_neboli_kolaps
  [3]: resuscitace-ozivovani
  [4]: funkcni_poruchy_traveni
- [5]: subduralni_hematom
+ [5]: boule_nasledkem_urazu
+ [6]: subduralni_hematom
 

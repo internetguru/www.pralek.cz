@@ -1,13 +1,17 @@
 
 {data-type="article" data-image="/files/preview/koutek/imunita/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita" ctime="2008-06-01" mtime="2008-06-01"}
+{ctime="2008-06-01" mtime="2008-06-01" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita"}
 
 # Imunita: obranyschopnost organizmu
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="zdravý životní styl, prevence, mikroorganizmy, antibiotika, dětské, nemoc, zánět"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="zdravý životní styl, prevence, alergie, mikroorganizmy, antibiotika, dětské, zánět"}
 
 Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imunita mění, lze ji podpořit zdravým způsobem života nebo naopak oslabit nadměrným užíváním léků.
 

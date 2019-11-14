@@ -1,13 +1,11 @@
 
 {data-type="article" data-image="/files/preview/koutek/zanet_slinivky/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_slinivky" short="Zánět slinivky" ctime="2011-05-04" mtime="2011-05-04"}
+{ctime="2011-05-04" mtime="2011-05-04" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_slinivky" short="Zánět slinivky"}
 
 # Prudký zánět slinivky břišní: akutní pankreatitida
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-{kw="bolest, zánět, břicho, orgány"}
+{kw="bolest, zánět, břicho, žlučník, stravovací návyky, zhoubné, cukrovka"}
 
 Prudký zánět slinivky břišní je závažné život ohrožující onemocnění. Vzniká nejčastěji v návaznosti na přejedení nevhodnou kombinací jídel (a tvrdého alkoholu).
 
@@ -18,7 +16,7 @@ Slinivka břišní _(pancreas)_ je důležitá [žláza trávicí soustavy][1] a
 
 {class="example"}
 
-Název slinivky břišní je poněkud zavádějící, protože **slinivka břišní** nemá nic společného se slinami a není uložena v břiše.
+Název slinivky břišní je poněkud zavádějící, protože **slinivka břišní** nemá nic společného se slinami a není uložena v dutině břišní.
 
 Slinivka břišní je uložena vzadu za dutinou břišní mezi žaludkem, páteří a velkými cévami. Tím je velmi dobře chráněna před poraněním při úrazu.
 
@@ -30,7 +28,7 @@ n/a
 
 Pro slinivku jsou charakteristické dvě formy zánětu:
 
-  1. Předčasná aktivace trypsinu již ve slinivce _(tryptická forma)_ spočívající ve významném poškození (natrávení) slinivky břišní.
+  1. Předčasná aktivace trypsinu již ve slinivce _(tryptická forma)_ spočívá ve významném poškození (natrávení) samotné slinivky břišní.
   2. [Zánět][3] probíhající jako v jakémkoli jiném orgánu _(netryptická forma)_, při kterém nedochází k předčasné aktivaci trypsinu a může se jednat o zánět prudký _(akutní)_, dlouhodobý _(chronický)_ nebo vracející se _(recidivující)_.
 
 {id="priciny\_zanetu\_slinivky_brisni"}
@@ -39,7 +37,7 @@ Pro slinivku jsou charakteristické dvě formy zánětu:
 
 n/a
 
-  * Nejčastěji nastává **zhoubnou kombinací velkého množství těchto jídel**:
+  * Nejčastěji nastává **zhoubnou kombinací velkého množství těchto jídel**: 
       * jitrnice (vepřové hody),
       * kyselé rybičky (zavináč),
       * smetanový nebo šlehačkový dort,

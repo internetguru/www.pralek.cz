@@ -1,19 +1,19 @@
 
 {data-type="article" data-image="/files/preview/koutek/akutni_torticollis/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="akutni\_torticollis" short="Akutní torticollis" ctime="2014-11-17" mtime="2014-11-17"}
+{ctime="2014-11-17" mtime="2014-11-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="akutni\_torticollis" short="Akutní torticollis"}
 
 # (Ne)závažnost strnutí šíje
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="bolest, mozek-nervy, pohyb, rehabilitace, nemoc"}
+{kw="bolest, mozek-nervy, pohyb, rehabilitace"}
 
 Náhle vzniklé strnutí šíje je nepříjemné, dramaticky vyhlížející, ale zcela nezávažné a dobře léčitelné onemocnění krku. Nejčastěji postihuje děti školního věku a mladé lidi.
 
 Torticollis neboli strnutí šíje nebo zkroucení krku je onemocnění, při kterém dochází ke stočení hlavy k jedné straně. Bývá doprovázené bolestivým stažením svalů na jedné straně krku. Člověk postižený strnutím šíje bývá vyděšený a těžko se orientuje v mnoha popisovaných formách jeho problému na internetu.
 
-Strnutí šíje má dvě formy, které mají společný projev a různou závažnost. **Náhle vzniklé strnutí šíje _(akutní torticollis)_ je zcela nezávažné onemocnění.** Ostatní formy strnutí šíje _(neakutní torticollis)_ jsou naopak závažná a obtížně léčitelná onemocnění.
+Strnutí šíje má dvě formy, které mají společný projev a různou závažnost. **Náhle vzniklé strnutí šíje _(akutní torticollis)_ je zcela nezávažné onemocnění.** Ostatní formy strnutí šíje _(neakutní torticollis)_ jsou naopak závažná a obtížně léčitelná onemocnění. 
 
 {id="nastup\_a\_mozne\_priciny\_nahle\_vznikleho\_strnuti_sije"}
 
@@ -21,7 +21,7 @@ Strnutí šíje má dvě formy, které mají společný projev a různou závaž
 
 n/a
 
-Náhle vzniklé strnutí šíje je onemocnění především dětí školního věku a mladých lidí. Zcela zdravý člověk večer spokojeně uléhá ke spánku a ráno se probouzí s bolestivě zkrouceným krkem. Krk nelze narovnat, nelze jím ani pohnout.
+Náhle vzniklé strnutí šíje je onemocnění především dětí školního věku a mladých lidí. Zcela zdravý člověk večer spokojeně uléhá ke spánku a ráno se probouzí [s bolestivě zkrouceným krkem][1]. Krk nelze narovnat, nelze jím ani pohnout.
 
 Stažené svaly na jedné straně krku jsou bolestivé. Mohou být postiženy svaly vzadu podél páteře, nebo vpředu na krku. Prudká bolest může někdy „vystřelovat“ do hlavy nebo do ramene. **Potíže přicházejí náhle, bez varování, z plného zdraví.**
 
@@ -38,7 +38,7 @@ Příčina vzniku onemocnění většinou není známa. Někdy ji však lze hled
 
 n/a
 
-Cílem léčby je zmírnit bolest a co nejrychleji snížit svalovou ztuhlost. Na krk je nutné přiložit suchý teplý obklad (například vyhřátou šálu) a krk ponechat ve vynucené poloze až do ústupu bolestí. Lze užít libovolné [léky proti bolesti][1]. Teprve po zmírnění bolestí lze postupně [krk začít rozcvičovat][2].
+Cílem léčby je zmírnit bolest a co nejrychleji snížit svalovou ztuhlost. Na krk je nutné přiložit suchý teplý obklad (například vyhřátou šálu) a krk ponechat ve vynucené poloze až do ústupu bolestí. Lze užít libovolné [léky proti bolesti][2]. Teprve po zmírnění bolestí lze postupně [krk začít rozcvičovat][1].
 
 Takto vedená léčba odstraní problém během několika dnů; vždy nejpozději do týdne. **U dětí je možné se tímto postupem často zcela vyhnout použití léků.** Onemocnění nezanechává žádné trvalé následky a vracívá se jen zcela výjimečně.
 
@@ -97,6 +97,6 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: leky_proti_bolesti
- [2]: bolesti_v_zadech_houser
+ [1]: bolesti_v_zadech_houser
+ [2]: leky_proti_bolesti
 
