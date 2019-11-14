@@ -5,10 +5,6 @@
 
 # Měření a vyhodnocení krevního tlaku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="srdce, cévy, prevence, zdravý životní styl, tlakoměr, strach, látková výměna"}
 
 Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření.
@@ -56,7 +52,7 @@ Za normální se u mladého zdravého člověka považuje hodnota kolem 120/80 m
 
 Krátkodobě **nízkou hodnotu krevního tlaku** naměří zdravý člověk v klidu, v pohodě, dobře naladěný. Nervově labilní člověk si může v souvislosti s nějakou vzpomínkou nebo představou způsobit nadměrný [pokles tlaku s následným kolapsem][1].
 
-{id="podminky\_mereni"}
+{id="podminky_mereni"}
 
 ## Podmínky správného měření krevního tlaku
 

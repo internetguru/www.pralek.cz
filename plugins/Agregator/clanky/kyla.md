@@ -5,8 +5,6 @@
 
 # Kýla: boulička v třísle, v pupku nebo jeho okolí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
 {kw="boulička, břicho, bolest, strach, zvracení, pohyb"}
 
 Plánovaná operace kýly časně po potvrzení diagnózy je jediným správným řešením problému. Ostatní řešení jsou pouze dočasná a nevyhnutelnou operaci mohou pouze zkomplikovat.

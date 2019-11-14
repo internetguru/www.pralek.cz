@@ -5,8 +5,6 @@
 
 # Nakažení přisátým klíštětem
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
 {kw="zvíře, poranění, zánět, mozek-nervy, bolest, teplota"}
 
 Přisáté klíště je možné odstranit několika způsoby. Případná nákaza se projeví až následnými příznaky.
@@ -37,7 +35,7 @@ Po odstranění klíštěte zůstává vždy kolem místa poranění zarudlý pu
 
 Známkou nakažení boreliózou je až postupně se rozšiřující **začervenalá skvrna (mapa), která směrem k centru bledne**. V případě nejasnosti po odstranění klíštěte je lepší vyhledat lékaře. Laboratorní vyšetření vyloučí nebo potvrdí nákazu boreliózou a léčení nebývá složité. Problémy vznikají v případě rozvinutí nepoznané boreliózy.
 
-Další chorobou, kterou může klíště na člověka přenést je virový zánět mozku. Jeho projevy jsou **[bolest hlavy][2], [teplota][3] či [ztvrdnutí šíje][4]**. Jedná se o závažné onemocnění, proti kterému se lze očkovat. Informace o očkování poskytuje praktický lékař.
+Další chorobou, kterou může klíště na člověka přenést je virový zánět mozku. Jeho projevy jsou **[bolest hlavy][2], [teplota][3] či [ztvrdnutí šíje][4]** . Jedná se o závažné onemocnění, proti kterému se lze očkovat. Informace o očkování poskytuje praktický lékař. 
 
 {class="example"}
 

@@ -5,8 +5,6 @@
 
 # Jak žít s cukrovkou
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-08, do not edit -->
-
 {kw="strava-zažívání, látková výměna, poruchy vědomí, první pomoc, mozek-nervy, cévy, břicho, orgány"}
 
 Ukázněný diabetik (česky cukrovkář) se nemusí během života setkat se žádnými komplikacemi cukrovky. Dlouhodobé komplikace jsou způsobené nedodržováním doporučených zásad. Hladina cukru v krvi _(glykémie)_ **u zdravého člověka skoro nekolísá** bez ohledu na složení stravy.
@@ -19,7 +17,7 @@ Určitá glykémie je nezbytná jako energetická nabídka (potrava) pro buňky.
 
 Pokles hladiny cukru v krvi pod určitou hodnotu vyvolá pocit hladu. Trvá-li stav déle (člověk se nenasytí), **játra začnou cukr vyrábět z jiných zdrojů** tak, aby byla hladina cukru víceméně stálá.
 
-{id="nepoznana\_nebo\_nelecena\_cukrovka"}
+{id="nepoznana\_nebo\_nelecena_cukrovka"}
 
 ## Neléčená cukrovka dlouhodobě ničí organizmus
 
@@ -40,33 +38,33 @@ V případě požití sladkého jídla se glykémie ještě zvyšuje (i na něko
 
 **Po cukrovce je vhodné preventivně pátrat**, zejména v případě výskytu cukrovky v rodině. Praktický lékař dokáže cukrovku velmi snadno prokázat a pacienta předat specialistovi _(diabetologovi)_. Ten provede určitá vyšetření a určí typ a závažnost onemocnění a způsob léčení.
 
-{id="typy\_cukrovky"}
+{id="typy_cukrovky"}
 
 ## Typy cukrovky
 
 Existují tři typy cukrovky. Liší se podle závažnosti a způsobu léčení.
 
 Nejlehčí forma
-:  Lze ji léčit **pouze dietou**, tedy postačí omezit nabídku cukrů ve stravě.
-:  Na zpracování kaloricky i složením vyvážené stravy postačí vlastní inzulín. V případě nadbytku cukru ve stravě nedokáže slinivka uvolnit dostatek inzulínu na jeho zpracování. Následkem je dočasná vysoká hladina cukru v krvi _(hyperglykémie)_.
+:   Lze ji léčit **pouze dietou**, tedy postačí omezit nabídku cukrů ve stravě.
+:   Na zpracování kaloricky i složením vyvážené stravy postačí vlastní inzulín. V případě nadbytku cukru ve stravě nedokáže slinivka uvolnit dostatek inzulínu na jeho zpracování. Následkem je dočasná vysoká hladina cukru v krvi _(hyperglykémie)_.
 
 Závažnější forma
-:  Kromě dodržování diety je potřeba podávat **určité léky podporující tvorbu vlastního inzulínu** ve slinivce břišní. Ty se podávají formou tablet a množství je dáno závažností choroby.
+:   Kromě dodržování diety je potřeba podávat **určité léky podporující tvorbu vlastního inzulínu** ve slinivce břišní. Ty se podávají formou tablet a množství je dáno závažností choroby.
 
 Nejzávažnější forma
-:  Kromě diety vyžaduje také **injekční podávání cizího inzulínu**, protože vlastní inzulín se prakticky netvoří. Inzulínu je mnoho druhů s různou délkou působení. Různé jsou také možnosti aplikace, například pomocí inzulínové pumpy.
+:   Kromě diety vyžaduje také **injekční podávání cizího inzulínu**, protože vlastní inzulín se prakticky netvoří. Inzulínu je mnoho druhů s různou délkou působení. Různé jsou také možnosti aplikace, například pomocí inzulínové pumpy.
 
-{id="kratkodobe\_komplikace"}
+{id="kratkodobe_komplikace"}
 
 ## Krátkodobé komplikace cukrovky
 
 Krátkodobé komplikace cukrovky způsobuje dočasný nedostatek nebo naopak přebytek cukru v krvi. V obou případech může následovat pocení, nevolnost až s následným [bezvědomím][4].
 
 Nedostatek cukru v krvi _(hypoglykémie)_
-:  Jestliže dávku inzulínu nenásleduje patřičný příjem potravy, dojde spotřebováním cukru z krve k nadměrnému poklesu jeho hladiny.
+:   Jestliže dávku inzulínu nenásleduje patřičný příjem potravy, dojde spotřebováním cukru z krve k nadměrnému poklesu jeho hladiny.
 
 Nadbytek cukru v krvi _(hyperglykémie)_
-:  Jestli si diabetik nepodá inzulín a nasytí se sladkým jídlem, hladina cukru v jeho krvi se může mnohonásobně zvýšit.
+:   Jestli si diabetik nepodá inzulín a nasytí se sladkým jídlem, hladina cukru v jeho krvi se může mnohonásobně zvýšit.
 
 Zachránce nepozná, zda se jedná o příliš vysokou či nízkou hladinu cukru. Hrozícímu **kolapsu lze předejít podáním sladkého nápoje**. V případě mnohem častější _hypoglykémie_ podaný cukr zachrání život. Naopak v případě _hyperglykémie_ podaný cukr nepomůže, ale ani neublíží.
 

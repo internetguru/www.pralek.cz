@@ -5,8 +5,6 @@
 
 # Mdloba neboli kolaps
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
 {kw="poruchy vědomí, mozek-nervy, prevence, první pomoc, srdce, poranění, mikroorganizmy"}
 
 Mdloba je způsobena nedostatečným okysličením mozku, a to nejčastěji z důvodu poklesu krevního tlaku. Oživování _(resuscitace)_ zkolabovaného je nutné jen výjimečně.
@@ -31,22 +29,22 @@ Obecné podmínky zvyšující sklon k omdlívání:
   * únava a vyčerpání,
   * shlédnutí něčeho zvláštního nebo nepříjemného (například kolapsu někoho jiného).
 
-{id="hloubka\_bezvedomi"}
+{id="hloubka_bezvedomi"}
 
 ## Hloubka bezvědomí určuje postup při první pomoci
 
 [Porucha vědomí][2] _(bezvědomí)_ může mít různou hloubku. Od krátkodobé slabosti, kterou nemusí okolí ani postřehnout, až po plné bezvědomí s vyhasnutím všech obranných reakcí (včetně polykacího reflexu). Podle hloubky bezvědomí provádíme adekvátní první pomoc.
 
 Počínající mdloba
-:  Projevuje se zatočením hlavy, teplem, pocitem nejistoty a mžitkami před očima.
-:  Vyžaduje **preventivně podpořit prokrvení mozku** (výše) a **vyprázdnit ústa** (bonbón, žvýkačka, zubní protéza, zbytky jídla).
+:   Projevuje se zatočením hlavy, teplem, pocitem nejistoty a mžitkami před očima.
+:   Vyžaduje **preventivně podpořit prokrvení mozku** (výše) a **vyprázdnit ústa** (bonbón, žvýkačka, zubní protéza, zbytky jídla).
 
 Zkolabovaný klidně a pravidelně dýchající člověk
-:  Člověk se srdeční akcí (pravidelně bijící srdce) vyžaduje rovněž **výše zmíněnou prevenci a nikoli resuscitaci**.
+:   Člověk se srdeční akcí (pravidelně bijící srdce) vyžaduje rovněž **výše zmíněnou prevenci a nikoli resuscitaci**.
 
 Zkolabovaný člověk s poruchou dýchání
-:  Porucha dýchání bývá způsobena zapadnutím kořene jazyka nebo vdechnutím cizího tělesa.
-:  Takový člověk **je ohrožen na životě a [vyžaduje resuscitaci][3]**.
+:   Porucha dýchání bývá způsobena zapadnutím kořene jazyka nebo vdechnutím cizího tělesa.
+:   Takový člověk **je ohrožen na životě a [vyžaduje resuscitaci][3]** . 
 
 {id="priciny\_a\_prvni_pomoc"}
 
@@ -55,15 +53,15 @@ Zkolabovaný člověk s poruchou dýchání
 n/a
 
 Nemocný [cukrovkou][4] (diabetik)
-:  Pozvolna ztrácí vědomí v případě příliš nízké hladiny cukru v krvi.
-:  Jako první pomoc **potřebuje neprodleně cukr**, a to nejlépe formou sladkého nápoje.
+:   Pozvolna ztrácí vědomí v případě příliš nízké hladiny cukru v krvi.
+:   Jako první pomoc **potřebuje neprodleně cukr**, a to nejlépe formou sladkého nápoje.
 
 Určitá [onemocnění srdce][5]
-:  Způsobí poruchu vědomí tím, že srdce nedostatečně pumpuje krev a mozek nedostává dostatek okysličené krve.
+:   Způsobí poruchu vědomí tím, že srdce nedostatečně pumpuje krev a mozek nedostává dostatek okysličené krve.
 
 Epilepsie (česky padoucnice)
-:  Je to nemoc, při které vzniká porucha vědomí a křeče vlastním onemocněním mozku a _nikoli snížením tlaku_.
-:  Při laické první pomoci **je nutné dbát pouze na volné dýchací cesty a předcházet poranění při pádu**.
+:   Je to nemoc, při které vzniká porucha vědomí a křeče vlastním onemocněním mozku a _nikoli snížením tlaku_.
+:   Při laické první pomoci **je nutné dbát pouze na volné dýchací cesty a předcházet poranění při pádu**.
 
 {id="otazky" var="inputvar-otazky_h"}
 

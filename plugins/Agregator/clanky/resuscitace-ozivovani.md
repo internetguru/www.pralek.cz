@@ -5,10 +5,6 @@
 
 # Resuscitace neboli oživování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="poruchy vědomí, poranění"}
 
 V případě vyhasnutí základních životních funkcí zachrání život neodkladné zahájení srdeční masáže ještě před příjezdem lékaře.
@@ -29,10 +25,10 @@ Oživování (resuscitace) je náhrada vymizelých nebo snížených **základn�
 V případě zástavy srdeční akce a bezdeší je třeba neprodleně zahájit oživování.
 
 Zástava srdce
-:  Vymizení tepu na velkých tepnách (po stranách krku) nebo vymizení normálně hmatného úderu srdečního hrotu pod levým prsem.
+:   Vymizení tepu na velkých tepnách (po stranách krku) nebo vymizení normálně hmatného úderu srdečního hrotu pod levým prsem.
 
 Zástava dechu
-:  Chybí dýchací pohyby patrné pohledem (v nádechu se zvedá hrudník u žen a břicho u mužů) a není cítit dech na přiložených hřbetech prstů k ústům a nosu postiženého.
+:   Chybí dýchací pohyby patrné pohledem (v nádechu se zvedá hrudník u žen a břicho u mužů) a není cítit dech na přiložených hřbetech prstů k ústům a nosu postiženého.
 
 Celkově bledý obličej nabývá nádech domodra. Zvláště modrají rty, nos, uši a brada. Barva se mění z důvodu vyčerpání zásoby kyslíku v krvi. Původně okysličená krev byla jasně červená a dávala přirozenou barvu sliznicím a prosvítala i kůží. Vyčerpáním kyslíku krev tmavne.
 
@@ -40,7 +36,7 @@ Celkově bledý obličej nabývá nádech domodra. Zvláště modrají rty, nos,
 
 Zkolabovaný člověk se zachovanými základními životními funkcemi (to je dýchání a akce srdeční) resuscitaci nepotřebuje.
 
-{id="proces\_ozivovani\_zivotni\_funkce"}
+{id="proces\_ozivovani\_zivotni_funkce"}
 
 ## Proces oživování při vymizení základních životních funkcí
 
