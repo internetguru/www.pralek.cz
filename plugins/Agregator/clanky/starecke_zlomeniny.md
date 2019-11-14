@@ -1,13 +1,13 @@
 
 {data-type="article" data-image="/files/preview/koutek/starecke_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="starecke\_zlomeniny" short="Stařecké zlomeniny" ctime="2009-06-22" mtime="2009-06-22"}
+{ctime="2009-06-22" mtime="2009-06-22" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="starecke\_zlomeniny" short="Stařecké zlomeniny"}
 
 # Nejčastější stařecké zlomeniny
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="poranění, stařecké, úrazy, zlomeniny, pohyb, nemoc, bolest"}
+{kw="poranění, stařecké, úrazy, zlomeniny, pohyb, bolest"}
 
 Kosti se ve stáří stávají křehké a málo pevné. Mohou se tedy lámat i při velice malém násilí. To je způsobeno ztrátou chrupavčité složky v kostech, později i ztrátou pevné kostěné složky (takzvané řídnutí kostí).
 
@@ -39,7 +39,7 @@ První pomoc spočívá v podání léku proti bolesti a transportování k vyš
 
 n/a
 
-Zlomené zápěstí je nejčastější stařeckou zlomeninou. Po zakopnutí a pádu dopředu na ruce se často láme zápěstí. Zlomenina se vyznačuje bolestivostí, deformací a rychle nastupujícím otokem. První pomoc spočívá v **uložení končetiny do šátkového obvazu**.
+[Zlomené zápěstí][5] je nejčastější stařeckou zlomeninou. Po zakopnutí a pádu dopředu na ruce se často láme zápěstí. Zlomenina se vyznačuje bolestivostí, deformací a rychle nastupujícím otokem. První pomoc spočívá v **uložení končetiny do šátkového obvazu**.
 
 Na bolestivé místo je možno **přiložit studený obklad** (nejlépe zmrazená zelenina v plastovém sáčku) a _vsedě_ transportovat zraněného k vyšetření. Léčení spočívá podle druhu zlomeniny v narovnání kostí v místním znecitlivění nebo operační řešení v celkové anestesii, následuje fixace a rehabilitace. Doba léčení bývá asi 6 týdnů, trvalé následky závisí na druhu zlomeniny.
 
@@ -90,4 +90,5 @@ n/a
  [2]: leky_proti_bolesti
  [3]: nalehavost_lekarskeho_vysetreni
  [4]: artroza
+ [5]: leceni_zlomenin
 

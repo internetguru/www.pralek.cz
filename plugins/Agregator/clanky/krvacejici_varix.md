@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/krvacejici_varix/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvacejici\_varix" short="Krvácející varix" ctime="2014-09-06" mtime="2014-09-06"}
+{ctime="2014-09-06" mtime="2014-09-06" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvacejici\_varix" short="Krvácející varix"}
 
 # Krvácení z křečové žíly dolní končetiny
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="krvácení, cévy, první pomoc, kůže-podkoží, nemoc, stařecké, úrazy"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="krvácení, cévy, první pomoc, kůže-podkoží, stařecké, úrazy"}
 
 Krvácení z prasklé křečové žíly bývá vždy velmi dramatické. Větší ztrátě krve může zamezit jen správně poskytnutá první pomoc.
 

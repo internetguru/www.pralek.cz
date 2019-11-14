@@ -1,13 +1,17 @@
 
 {data-type="article" data-image="/files/preview/koutek/rakovina\_tlusteho\_streva\_a\_konecniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_tlusteho\_streva\_a_konecniku" short="Rakovina tlustého střeva a konečníku" ctime="2010-07-17" mtime="2010-07-17"}
+{ctime="2010-07-17" mtime="2010-07-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_tlusteho\_streva\_a_konecniku" short="Rakovina tlustého střeva a konečníku"}
 
 # Rakovina tlustého střeva a konečníku
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="nádory, zhoubné, břicho, krvácení, bolest, cévy, orgány, prevence, neúrazové"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="nádory, zhoubné, břicho, uzliny, krvácení, zvracení, prevence"}
 
 Po rakovině tlustého střeva a konečníku je třeba [aktivně pátrat][1]. Její záludnost spočívá v naprosto bezpříznakovém počátku a jen velmi neurčitých projevech i při již plně rozvinutém onemocnění.
 
@@ -50,7 +54,7 @@ Na základě zkušeností se navrhuje podle stádia onemocnění nejvhodnější
 
 n/a
 
-Onemocnění se vyskytuje nejčastěji ve středním a vyšším věku, více u mužů než u žen. Jistě by se po něm mělo pátrat v rámci preventivních vyšetření pro jeho bezpříznakový začátek. U mužů nad 50 let by měla být taková kontrola zcela běžná a pravidelná (např. každoroční). Lékaři by měli nezbytnost tohoto vyšetření svým pacientům připomínat a nutit je vyšetření podstoupit.
+Onemocnění se vyskytuje nejčastěji ve středním a vyšším věku, více u mužů než u žen. Jistě by se po něm mělo pátrat v rámci [preventivních vyšetření][1] pro jeho bezpříznakový začátek. U mužů nad 50 let by měla být taková kontrola zcela běžná a pravidelná (např. každoroční). Lékaři by měli nezbytnost tohoto vyšetření svým pacientům připomínat a nutit je vyšetření podstoupit.
 
 Nejjednodušší je vyšetření stolice na _okultní krvácení_ (zkráceně OK). V lékárně i u obvodního lékaře je k dostání papírový test na OK. Princip spočívá v tom, že lze testem prokázat i nepatrnou stopu krve ve stolici. Krev se ve stolici normálně vůbec nevyskytuje. [Polyp ani adenom][8] nikdy nekrvácí, zato karcinom je od začátku křehký a téměř stále mírně krvácí do stolice. Levný a jednoduchý **test stolice na OK vyloučí zhoubný nádor**. Test lze provádět i opakovaně.
 

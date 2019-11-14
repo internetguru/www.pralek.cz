@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/poraneni_sleziny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_sleziny" short="Poranění sleziny" ctime="2012-12-19" mtime="2012-12-19"}
+{ctime="2012-12-19" mtime="2012-12-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_sleziny" short="Poranění sleziny"}
 
 # Záludnost poranění sleziny u dětí
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="úrazy, dětské, krvácení, orgány, břicho, bolest, cévy"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="úrazy, dětské, krvácení, břicho, bolest, cévy"}
 
 Poranění sleziny může být velmi zákeřným úrazem. Přes relativní nenápadnost rozvoje příznaků může zraněná slezina ohrozit nemocného na životě. Operační odstranění poraněné sleziny naštěstí nevede následně k poruchám zdraví.
 

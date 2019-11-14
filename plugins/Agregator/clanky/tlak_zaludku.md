@@ -1,13 +1,17 @@
 
 {data-type="article" data-image="/files/preview/koutek/tlak_zaludku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tlak\_zaludku" short="Tlak žaludku" ctime="2011-06-14" mtime="2011-06-14"}
+{ctime="2011-06-14" mtime="2011-06-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tlak\_zaludku" short="Tlak žaludku"}
 
 # Žaludeční potíže: krátkodobý tlak žaludku
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="žaludek, břicho, strava-zažívání, orgány, zvracení, zánět, nádory"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+
+{kw="žaludek, břicho, strava-zažívání, žlučník, zvracení, říhání, strach"}
 
 Krátkodobý tlak žaludku bývá způsoben funkční poruchou trávení (např. přejedením) nebo nadměrným hladověním spojeným s nervozitou. Tlak většinou sám ustoupí po vytrávení nebo najedení a zklidnění.
 
@@ -29,7 +33,7 @@ Vyskytuje se **bez souvislosti s jídlem** (nebo zpočátku jídla po delším h
 
 n/a
 
-  1. Kyselá pachuť v ústech se může objevit jako následek přejedení – tedy zvýšením tlaku v žaludku. Kyselý žaludeční obsah (odlišit od [pálení žáhy][3]) se může vracet jícnem do dutiny ústní. Stane-li se tak ve spánku, může dojít k jeho vdechnutí s následným prudkým kašlem nebo i s fatálním koncem.
+  1. Kyselá pachuť v ústech se může objevit jako následek přejedení – tedy zvýšením tlaku v žaludku. Kyselý žaludeční obsah (odlišit od [pálení žáhy][3]) se může vracet jícnem do dutiny ústní. Stane-li se tak ve spánku, může dojít k jeho vdechnutí s následným prudkým kašlem nebo dokonce s fatálním koncem.
   2. Hořká pachuť v ústech bývá doprovodným jevem při [onemocnění žlučníku][6]. Po požití nevhodného jídla se nesprávné množství a koncentrace žluči může dostat zpět z dvanáctníku do žaludku a jícnem do ústní dutiny. Nepříjemné hořko v ústech bývá spojeno s říháním.
 
 {id="zvraceni\_zaludecniho\_obsahu\_s\_primesi_krve"}

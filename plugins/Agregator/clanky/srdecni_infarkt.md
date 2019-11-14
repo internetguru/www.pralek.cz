@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/srdecni_infarkt/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="srdecni\_infarkt" short="Srdeční infarkt" ctime="2008-05-12" mtime="2008-05-12"}
+{ctime="2008-05-12" mtime="2008-05-12" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="srdecni\_infarkt" short="Srdeční infarkt"}
 
 # Srdeční infarkt: rozpoznání infarktu
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="srdce, bolest, poruchy vědomí, cévy, orgány, nemoc, prevence"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="srdce, bolest, poruchy vědomí, cévy, prevence"}
 
 Bezodkladné zahájení masáže srdce při infarktu zachrání život a včasné další léčení může vrátit pacienta do plného zdraví.
 
