@@ -29,7 +29,6 @@ Příčina otravy a její příznaky
 :   Potrava bývá kontaminována nejčastěji bakteriemi nebo jiným jedem.
 :   Obvykle mívá potíže více lidí, kteří jedli stejné jídlo.
 :   Zvracení také navazuje bezprostředně po požití nadměrného množství alkoholu (otrava alkoholem)
-
 Léčba
 :   V žaludku se nepodaří udržet žádný nápoj, dokud se organizmus nezbaví požitých jedů.
 :   Je dobré si opakovaně omývat obličej studenou vodou a vyplachovat ústa.
@@ -53,20 +52,16 @@ Nemocný si je při nevolnosti často sám vědom, v čem pochybil. Pokud si vš
 
 [Kinetóza][3]
 :   Nevolnost nebo zvracení je možné psychicky překonat, prodýchávat a snažit se mu zabránit. Popíjení malých doušků jakéhokoli chutného nápoje vždy uleví.
-
 [Přehřátí organizmu][4]
 :   Nevolnost a zvracení je doprovázeno bolestí, točením hlavy a celkovou slabostí. Popíjení jakéhokoli oblíbeného chlazeného nápoje je bezpodmínečně nutné pro zmírnění potíží.
-
 Požití „nedietního“ jídla
 :   Problémy nastávají hlavně po požití příliš mastného, dráždivého či smaženého jídla.
 :   Nevolnost a zvracení může ukazovat na [onemocnění žlučníku][5].
 :   Zvracení s odstupem hodin po příjemném ukončení pití alkoholu může rovněž ukazovat na onemocnění žlučníku nebo dokonce jater. Zvláště, jsou-li potíže opakované.
 :   V případě podráždění žlučníku je důležité vůbec nic nejíst, pít se však mohou jakékoli nedráždivé nápoje v libovolném množství. Nesmí se tedy pít žádné dráždivé nápoje jako jsou např. kakao, káva a neředěný džus. {class="example"}
-
 Alkoholický exces (kocovina)
 :   Nevolnost, zvracení a [bolest hlavy][6] jsou známkou proběhlé otravy alkoholem. Ten je postupně odbouráván v játrech.
 :   Je vhodné pít velké množství libovolných tekutin. Pokud se nedaří tekutiny v žaludku udržet, tak k jeho zklidnění často pomůže chutná polévka, nejlépe hovězí vývar.
-
 [Bolest břicha][7]
 :   Při zvracení navazující na bolesti břicha, je nutné **nic nejíst ani nepít** a zajít na lékařské vyšetření.
 :   Může se jednat o závažná onemocnění jako např. [střevní neprůchodnost][8], [uskřinutou kýlu][9], [mrtvici][10] či [krvácení do mozku][11] nebo [otřesu mozku][12]. Ve všech případech je doprovodné zvracení zcela nepodstatné.
@@ -122,7 +117,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: tlak_zaludku
- [2]: vodni_rezim
+ [2]: prijem_tekutin
  [3]: kinetoza
  [4]: teplota
  [5]: zlucove_kameny
