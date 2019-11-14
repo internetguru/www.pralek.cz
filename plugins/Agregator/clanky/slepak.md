@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/slepak/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="slepak" short="Slepák" ctime="2009-12-13" mtime="2009-12-13"}
+{ctime="2009-12-13" mtime="2009-12-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="slepak" short="Slepák"}
 
 # Slepák: zánět červovitého přívěsku slepého střeva
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="břicho, bolest, zánět, orgány, zdravý životní styl, teplota"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+
+{kw="břicho, bolest, střevo, zánět, zvracení, teplota"}
 
 Mnohotvárnost příznaků zánětu červovitého přívěsku slepého střeva (hovorově slepák) bývá příčinou komplikací nebo zanedbání jeho léčení. V případě nejasných bolestí břicha je třeba vyhledat odborného lékaře (chirurga).
 
@@ -25,13 +27,13 @@ Pro zánět přívěsku slepého střeva **neexistují žádné typické přízn
 
 Zánět může začít tak, že zdravý člověk večer usne a v noci jej probudí
 
-  * **prudká nesnesitelná [bolest břicha][2]**, ale může také začít jako
+  * **prudká nesnesitelná [bolest břicha][2]** , ale může také začít jako 
   * občasné **pobolívání břicha**, které vždy po určité době samo ustane. Umístění bolesti bývá různé, nejčastěji kolem pupku. Do pravého podbřišku se bolest stěhuje spíše později. Počátek zánětu se může projevovat také pouze
-  * pocitem **zažívací nepohody**, nepopsatelným pocitem že je cosi v nepořádku _([střevní diskomfort][3])_.
-  * [**Nevolnost nebo zvracení**][4] bývá častým doprovodným znakem zánětu stejně jako
-  * **[nechutenství][5]**.
-  * [**Průjem**][4] se objevuje spíše výjimečně a
-  * [**teplota**][6] bývá často normální nebo jen lehce zvýšená.
+  * pocitem **zažívací nepohody**, nepopsatelným pocitem že je cosi v nepořádku _([střevní diskomfort][3])_ . 
+  * [**Nevolnost nebo zvracení**][4] bývá častým doprovodným znakem zánětu stejně jako 
+  * **[nechutenství][5]** . 
+  * [**Průjem**][4] se objevuje spíše výjimečně a 
+  * [**teplota**][6] bývá často normální nebo jen lehce zvýšená. 
 
 {id="pozdejsi\_priznaky\_apendicitidy"}
 
@@ -44,7 +46,7 @@ Jestli byly počáteční příznaky podceněny nebo přehlédnuty, [zánětliv�
 Zanícený přívěsek může kdykoli
 
   * **odumřít** včetně nervových zakončení a tím _náhle přestat bolet_ (chirurgické rčení: „mrtvý červ nebolí“) před následným prudkým zhoršením stavu, nebo také
-  * **prasknout**; střevní obsah se vylije do dutiny břišní. Pak se vyvíjí místní nebo celkový _velmi bolestivý [zánět pobřišnice][8]_ (blány, která vystýlá dutinu břišní).
+  * **prasknout**; střevní obsah se vylije do dutiny břišní. Pak se vyvíjí místní nebo celkový _velmi bolestivý [zánět pobřišnice][8]_ (blány, která vystýlá dutinu břišní). 
 
 Bolesti se mohou stupňovat – bolí každý pohyb. Pacient nemůže chodit a hledá úlevovou polohu; drží se v předklonu, dítě si sedá na bobek. Tehdy je většinou vysoká teplota, bolí pravý podbřišek nebo celé břicho (podle místa a ohraničení zánětu). **Stav je závažný a stále se zhoršuje**. Pacient je ohrožen na životě.
 

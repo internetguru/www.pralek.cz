@@ -1,13 +1,13 @@
 
 {data-type="article" data-image="/files/preview/koutek/zanet\_mocoveho\_mechyre/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_mocoveho_mechyre" short="Zánět močového měchýře" ctime="2010-01-27" mtime="2010-01-27"}
+{ctime="2010-01-27" mtime="2010-01-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_mocoveho_mechyre" short="Zánět močového měchýře"}
 
 # Zánět močového měchýře žen
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
-{kw="zánět, bolest, močová soustava, břicho, neúrazové, nemoc, orgány, prevence, krvácení"}
+{kw="močová soustava, zánět, bolest, břicho, neúrazové, prevence, krvácení"}
 
 Zánět močového měchýře je nepříjemné a velmi bolestivé onemocnění, které není nakažlivé ani nebezpečné. Postihuje nejčastěji mladé ženy a bohužel se vracívá. Není souvislost mezi zánětem močového měchýře a zanedbáváním hygieny.
 
@@ -31,7 +31,7 @@ Prodělané **onemocnění močového měchýře se vracívá** _(recidiva)_. P�
   * dbát na dostatečný (třeba aktivní) odpočinek,
   * zajistit dostatečný [příjem nedráždivých tekutin][4],
   * podporovat [tvorbu imunity][5] a
-  * **[přiměřeně se oblékat][2]**.
+  * **[přiměřeně se oblékat][2]** . 
   * Funkci močového měchýře blahodárně ovlivňují brusinky.
 
 {class="example"}
@@ -91,7 +91,7 @@ n/a
  [1]: mikroorganizmy
  [2]: teplota
  [3]: zanet
- [4]: vodni_rezim
+ [4]: prijem_tekutin
  [5]: imunita
  [6]: bolest_v_krku_angina
  [7]: mocove_kameny

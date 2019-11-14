@@ -1,13 +1,13 @@
 
 {data-top="4" data-type="article" data-image="/files/preview/koutek/strevni_nepruchodnost/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="strevni\_nepruchodnost" short="Střevní neprůchodnost" ctime="2013-02-16" mtime="2013-02-16"}
+{ctime="2013-02-16" mtime="2013-02-16" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="strevni\_nepruchodnost" short="Střevní neprůchodnost"}
 
 # Střevní neprůchodnost bývá komplikací jiné choroby
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-{kw="bolest, břicho, nádory, látková výměna, orgány, žaludek, strava-zažívání, zhoubné, cévy, mikroorganizmy"}
+{kw="bolest, břicho, nádory, strava-zažívání, zvracení, zhoubné, cévy"}
 
 Střevní neprůchodnost (laicky zauzlení střev) je stav, při kterém dochází k zástavě posunu střevního obsahu v trávicím traktu. Nemocný velmi nepříjemně vnímá nadýmání, zástavu odchodu větrů a stolice a později i zvrací.
 
@@ -33,9 +33,9 @@ Má-li však střevo skutečnou překážku, pak je _subileus_ jen začátkem po
 
 n/a
 
-Střevní neprůchodnost _(ileus)_ bývá způsobena mechanickou překážkou. Překážka se může nalézat uvnitř střeva, ve střevní stěně nebo zcela mimo střevní stěnu. Dále může být střevní neprůchodnost způsobena porušením nervového či cévního zásobení střeva. Nejčastěji však _ileus_ vzniká jako komplikace jiné choroby – například bývá často bezprostřední příčinou smrti u pokročilé [rakoviny střev][3].
+Střevní neprůchodnost _(ileus)_ bývá způsobena mechanickou překážkou. Překážka se může nalézat uvnitř střeva, ve střevní stěně nebo zcela mimo střevo. Dále může být střevní neprůchodnost způsobena porušením nervového či cévního zásobení střeva. Nejčastěji však _ileus_ vzniká jako komplikace jiné choroby – například bývá často bezprostřední příčinou smrti u pokročilé [rakoviny střev][3].
 
-  1. **Funkční ileus** bývá přechodný a většinou samovolně během hodin ustoupí. V opačném případě je nutné užití patřičných léků k obnovení střevní pasáže. _Funkční ileus_ je velmi obtížné odlišit od jiného typu střevní neprůchodnosti. Příznaky jsou podobné, ale časem samy ustoupí. Příčinami jeho vzniku bývají:
+  1. **Funkční ileus** bývá přechodný a většinou samovolně během hodin ustoupí. V opačném případě je nutné užití patřičných léků k obnovení střevní pasáže. _Funkční ileus_ je velmi obtížné zpočátku odlišit od jiného typu střevní neprůchodnosti. Příznaky jsou podobné, ale časem samy ustoupí. Příčinami jeho vzniku bývají: 
       * mozkové, hrudní a břišních operace (vždy),
       * [ledvinové koliky][4] (často),
       * [žlučníkové koliky][5] (často),
@@ -45,14 +45,14 @@ Střevní neprůchodnost _(ileus)_ bývá způsobena mechanickou překážkou. P
       * některé poruchy látkové výměny,
       * [otřes mozku][6] (občas) nebo pouhé
       * [požití nadměrného množství určitého jídla][7] (např. přejedení se sušeným nebo čerstvým avšak málo vodnatým ovocem).
-  2. **Mechanický ileus** je způsoben zúžením, zmáčknutím nebo úplným uzávěrem střeva.
-      1. **Ileus vzniklý ucpáním střeva** _(obturační ileus)_ na rozdíl od _funkční zástavy_ bez operace svévolně neustoupí. Je nejčastěji způsobený
+  2. **Mechanický ileus** je způsoben zúžením, zmáčknutím nebo úplným uzávěrem střeva. 
+      1. **Ileus vzniklý ucpáním střeva** _(obturační ileus)_ na rozdíl od _funkční zástavy_ bez operace svévolně neustoupí. Je nejčastěji způsobený 
           * [nádorem][3] nebo větším [polypem][8],
           * [žlučovým kamenem][5] _(biliární ileus)_,
           * nestrávenou potravou (u potravy jde vždy o extrémně velké množství spolykaných suchých jadérek, zrnek, slupek, pecek, dužiny tuhých pomerančů a podobně),
           * [spolknutým cizím předmětem][9],
           * vsunutím jedné části střeva do následné části _(invaginace)_ (vyskytuje se i v dětském a dokonce i v kojeneckém věku).
-      2. **Ileus vzniklý stisknutím střeva** a jeho cév _(strangulační ileus)_ se projevuje rychlým rozvojem příznaků s rizikem neprokrvení a tedy brzkého proděravění střevní stěny s fatálními následky. Mohou jej zapříčinit:
+      2. **Ileus vzniklý stisknutím střeva** a jeho cév _(strangulační ileus)_ se projevuje rychlým rozvojem příznaků s rizikem neprokrvení a tedy brzkého proděravění střevní stěny s fatálními následky. Mohou jej zapříčinit: 
           * [srůsty v břišní dutině][10] jako následek předchozích operací nebo zánětů,
           * [uskřinutá kýla][11] (zaškrcení střeva v kýlní brance),
           * otočení a zaškrcení střevní kličky včetně vyživujících cév _(volvulus)_ (odtud pochází laický název „zauzlení střev“ užívaný pro _ileus_ obecně) nebo
@@ -70,7 +70,7 @@ n/a
 
 Pacienta se střevní neprůchodností musí vyšetřit zkušený lékař, nejlépe chirurg. Převážná většina _ileozních_ stavů je po potřebných vyšetřeních řešena operací. Někdy je vhodnější vyčkávat a podávat léky podporující činnost střeva (u funkčních a neurogenních typů).
 
-Při operaci střevní neprůchodnosti se vždy chirurg snaží odstranit překážku. Při manipulaci s nepřipraveným tlustým střevem musí být vždy alespoň dočasně založen [vývod střeva bokem _(kolostomie)_][3]. Často následuje definitivní operační řešení problému s časovým odstupem několika týdnů až měsíců, kdy je možnost tlusté střevo na operaci připravit (vypláchnout a zbavit bakterií).
+Při operaci střevní neprůchodnosti se vždy chirurg snaží odstranit překážku. Při manipulaci s nepřipraveným tlustým střevem musí být vždy alespoň dočasně založen [vývod střeva bokem _(kolostomie)_][3] . Často následuje definitivní operační řešení problému s časovým odstupem několika týdnů až měsíců, kdy je možnost tlusté střevo na operaci připravit (vypláchnout a zbavit bakterií). 
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -119,5 +119,5 @@ n/a
  [13]: srdecni_infarkt
  [14]: mikroorganizmy
  [15]: zanet
- [16]: vodni_rezim
+ [16]: prijem_tekutin
 

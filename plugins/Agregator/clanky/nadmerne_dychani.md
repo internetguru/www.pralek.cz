@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/nadmerne_dychani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nadmerne\_dychani" short="Nadměrné dýchání" ctime="2012-02-05" mtime="2012-02-05"}
+{ctime="2012-02-05" mtime="2012-02-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nadmerne\_dychani" short="Nadměrné dýchání"}
 
 # Nadměrné dýchání – předýchávání
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="poruchy vědomí, první pomoc, srdce, orgány, zvracení, žaludek, bolest"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="dýchání, strach, poruchy vědomí, první pomoc, srdce, zvracení, bolest"}
 
 Nadměrným dýcháním mohou vzniknout zdravotní potíže, porucha vědomí, bezvědomí a následně i závažná porucha zdraví. První pomocí při chorobném předýchávání je uklidnění pacienta nebo dýchání do sáčku.
 

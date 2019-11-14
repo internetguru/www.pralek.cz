@@ -1,13 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/vhodna_obuv/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vhodna\_obuv" short="Vhodná obuv" ctime="2011-11-28" mtime="2011-11-28"}
+{ctime="2011-11-28" mtime="2011-11-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vhodna\_obuv" short="Vhodná obuv"}
 
 # Vhodná a nevhodná obuv
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-{kw="dětské, pohyb, prevence, zdravý životní styl, strava-zažívání, nemoc, bolest"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+
+{kw="dětské, pohyb, prevence, zdravý životní styl, strava-zažívání, bolest"}
 
 Vhodná obuv je taková, která je adekvátní danému sportu nebo jiné aktivitě. Sportování, chůze nebo běhání musí být příjemné, bota nesmí být volná ani nikde tlačit. Materiál, ze kterého je obuv vyrobena, nesmí alergizovat.
 

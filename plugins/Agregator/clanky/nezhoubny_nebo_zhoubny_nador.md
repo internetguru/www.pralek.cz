@@ -1,13 +1,13 @@
 
 {data-type="article" data-image="/files/preview/koutek/nezhoubny\_nebo\_zhoubny_nador/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubny\_nebo\_zhoubny\_nador" short="Nezhoubný nebo zhoubný nádor" ctime="2010-05-23" mtime="2010-05-23"}
+{ctime="2010-05-23" mtime="2010-05-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubny\_nebo\_zhoubny\_nador" short="Nezhoubný nebo zhoubný nádor"}
 
 # Nezhoubný nebo zhoubný nádor: obecné srovnání
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
 
-{kw="nádory, nezhoubné, zhoubné, orgány, břicho, bolest, krvácení, cévy"}
+{kw="nádory, boulička, strach, nezhoubné, zhoubné, bolest"}
 
 Nezhoubný nádor není nebezpečný a lze jej snadno odstranit. Včasně odhalená a léčená rakovina (zhoubný nádor) je rovněž léčitelná. Když však není včas odhalena, pacienta zahubí.
 
