@@ -26,7 +26,7 @@ Obecné podmínky zvyšující sklon k omdlívání:
   * teplo,
   * dusno,
   * vlhko (po dešti),
-  * únava a vyčerpání,
+  * ospalost, únava a vyčerpání,
   * shlédnutí něčeho zvláštního nebo nepříjemného (například kolapsu někoho jiného).
 
 {id="hloubka_bezvedomi"}
