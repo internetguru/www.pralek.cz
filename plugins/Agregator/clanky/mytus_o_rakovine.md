@@ -7,7 +7,7 @@
 
 {kw="rakovina, mýty, strach, nádory, zhoubné, krvácení, zvracení, bolest"}
 
-Rakovina je tím **lépe léčitelná, čím dříve je odhalená**. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací.
+Rakovina je tím **lépe léčitelná, čím dříve je odhalena**. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací.
 
 Strachem z rakoviny pacienti bohužel často **promarní vhodnou dobu, kdy je případná rakovina ještě dobře léčitelná**. Jak čas plyne, nejenže zhoubný nádor (rakovina) roste, ale může také v těle vytvářet druhotná ložiska neboli _metastázy_.
 
