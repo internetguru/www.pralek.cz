@@ -7,15 +7,14 @@
 
 {kw="strava-zažívání, látková výměna, poruchy vědomí, první pomoc, mozek-nervy, cévy, břicho, orgány"}
 
-Ukázněný diabetik (česky cukrovkář) se nemusí během života setkat se žádnými komplikacemi cukrovky. Dlouhodobé komplikace jsou způsobené nedodržováním doporučených zásad. Hladina cukru v krvi _(glykémie)_ **u zdravého člověka skoro nekolísá** bez ohledu na složení stravy.
+Ukázněný diabetik (česky cukrovkář) se nemusí během života setkat se žádnými komplikacemi cukrovky. Dlouhodobé komplikace cukrovky jsou způsobené nedodržováním doporučených léčebných zásad. Hladina cukru v krvi _(glykémie)_ u neukázněného diabetika značně kolísá. Naopak u ukázněného diabetika a u zdravého člověka kolísá glykémie přiměřeně.
 
 {class="example"}
-
 Potrava se v zažívacím traktu rozloží a ve střevě vstřebá, krví je vedena do jater. Játra jsou chemická továrna, která dokáže vzájemně [přetvářet cukry, tuky a bílkoviny podle potřeby organizmu][1]. Jestli např. strava neobsahuje žádný cukr, játra ho začnou tvořit. Když je cukru ve stravě naopak nadbytek, játra ho rozkládají.
 
 Určitá glykémie je nezbytná jako energetická nabídka (potrava) pro buňky. Pro umožnění přechodu cukru do buňky je nezbytný inzulín (hormon vytvářený slinivkou břišní). **Bez inzulínu cukr z krve do buňky nemůže proniknout.**
 
-Pokles hladiny cukru v krvi pod určitou hodnotu vyvolá pocit hladu. Trvá-li stav déle (člověk se nenasytí), **játra začnou cukr vyrábět z jiných zdrojů** tak, aby byla hladina cukru víceméně stálá.
+Pokles hladiny cukru v krvi pod určitou hodnotu vyvolá pocit hladu. Trvá-li stav déle (člověk se nenasytí), **játra začnou cukr vyrábět z jiných zdrojů** podle aktuálně nejdostupnější nabídky – z bílkovin nebo z tuků.
 
 {id="nepoznana\_nebo\_nelecena_cukrovka"}
 
