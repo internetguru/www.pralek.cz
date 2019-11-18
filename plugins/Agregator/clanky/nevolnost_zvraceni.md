@@ -68,6 +68,7 @@ Požití „nedietního“ jídla
 Alkoholický exces (kocovina)
 :   Nevolnost, zvracení a [bolest hlavy][6] jsou známkou proběhlé otravy alkoholem. Ten je postupně odbouráván v játrech.
 :   Je vhodné pít velké množství libovolných tekutin. Pokud se nedaří tekutiny v žaludku udržet, tak k jeho zklidnění často pomůže chutná polévka, nejlépe hovězí vývar.
+
 [Bolest břicha][7]
 :   Při zvracení navazující na bolesti břicha, je nutné **nic nejíst ani nepít** a zajít na lékařské vyšetření.
 :   Může se jednat o závažná onemocnění jako např. [střevní neprůchodnost][8], [uskřinutou kýlu][9], [mrtvici][10] či [krvácení do mozku][11] nebo [otřesu mozku][12]. Ve všech případech je doprovodné zvracení zcela nepodstatné.
