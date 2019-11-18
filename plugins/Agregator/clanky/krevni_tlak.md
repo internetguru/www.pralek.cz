@@ -11,8 +11,8 @@ Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na 
 
 Srdce pumpuje krev – žílami ji nabírá a tepnami ji rozvádí zpět do celého těla. K zachování směru toku krve slouží chlopně jakožto jednosměrné ventily.
 
-  * Při **stažení srdeční komory** _(systola)_ je krev vypuzena díky chlopním jedním směrem do tepny.
-  * Při **uvolnění srdeční komory** _(diastola)_ se průchodnost chlopní vymění. Krev je z opačného směru nasávána ze žíly.
+  * Při **stažení srdeční komory** _(systola)_ je krev vypuzena díky chlopním jedním směrem do tepen.
+  * Při **uvolnění srdeční komory** _(diastola)_ se průchodnost chlopní vymění. Krev je z opačného směru nasávána ze žil.
 
 {class="example"}
 
