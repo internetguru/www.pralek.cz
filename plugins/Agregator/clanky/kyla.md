@@ -21,7 +21,7 @@ Defekt může vzniknout v okamžiku jednorázové námahy nebo se tvoří dlouho
 
 Kýla se nejčastěji projevuje jako [boulička v třísle][4], v jizvě, v pupku nebo v jeho okolí. Vytvořená kýla již většinou nebolí a nečiní jiné než kosmetické potíže. Její velikost se mění v závislosti na namáhání břišních svalů _(užívání břišního lisu)_.
 
-Během spánku může kýla zcela zmizet. Obsah kýlního vaku se vlivem uvolnění vrací kýlní brankou do dutiny břišní. Přes den však kýla znovu narůstá. **Dlouhodobě se kýla vždy postupně zvětšuje. Sama se nikdy nezahojí.** Někdy se může sama zhojit pouze vrozená pupeční kýla kojencům.
+Během spánku může kýla zcela zmizet. Obsah kýlního vaku se vlivem uvolnění vrací kýlní brankou do dutiny břišní. Přes den však kýla znovu narůstá. **Dlouhodobě se kýla vždy postupně zvětšuje. Sama se nikdy nezahojí.** Sama se může zhojit pouze vrozená pupeční kýla kojencům.
 
 Kýla se vyskytuje v každém věku – od novorozeneckého jako vrozená až po pozdní stáří jako získaná. Operačním řešením je uzavření defektu ve stěně břišní. To lze často provést laparoskopicky. Pooperační komplikace se vyskytují zřídka a pobyt v nemocnici je jen několikadenní. Návrat do běžného života bývá možný po 3 týdnech a plná fyzická zátěž asi po 6 týdnech.
 
@@ -29,7 +29,7 @@ Kýla se vyskytuje v každém věku – od novorozeneckého jako vrozená až po
 
 ## Komplikace spojené s kýlou
 
-Strach a nejistota mohou vést k odkládání operace. Mimo operace jsou jakékoliv pokusy o napravení kýly zbytečné a mohou vést k dalším komplikacím.
+Strach a nejistota mohou vést k odkládání operace. Mimo operace jsou jakékoliv pokusy o „vyléčení“ kýly zbytečné a mohou vést k dalším komplikacím.
 
 Pacient se často naučí sám kýlu napravovat. Stlačením bouličky přesune obsah kýlního vaku zpět do dutiny břišní. Takové řešení je však pouze provizorní stejně jako kýlní pas, který může pomoci snad jen krátkodobě v individuálních případech.
 
