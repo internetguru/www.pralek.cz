@@ -810,15 +810,17 @@ ol.otazky button:not(.selected):disabled {
   display: flex;
   max-width: none;
 }
-.newsletter input[type="submit"] {
+.newsletter button {
   width: auto;
+}
+.newsletter .hide {
+  display: none;
 }
 .newsletter input[type="email"] {
   border: none;
   padding: 0.3em 0.5em;
   margin-left: 0;
   border-bottom: thin solid #e0e0e0;
-  /*!  */
   min-width: 0;
 }
 /***************************/
