@@ -59,7 +59,11 @@ Pro účely dotací jsme zvolili službu [Patreon][4]. Služba je napůl anglick
 
 {kw="upozornění, novinky, odběr"}
 
-<label>Přihlaste se {for="newsletter-email"}</label> k odběru krátkých upozornění na nově vyšlé články! Maximálně dvakrát za měsíc obdržíte zprávu s informacemi o novém článku.
+<label>Přihlaste se {for="EMAIL"}</label> k odběru krátkých upozornění na nově vyšlé články! Maximálně dvakrát za měsíc obdržíte zprávu s informacemi o novém článku.
+
+<!--
+    
+-->
 
 {id="ukazka"}
 
