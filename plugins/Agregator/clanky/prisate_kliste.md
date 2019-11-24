@@ -19,7 +19,7 @@ Přisátí klíštěte můžeme předejít vhodným oblečením pro pobyt v př�
 
 ## Odstranění přisátého klíštěte
 
-Přisáté klíště je třeba bezodkladně, a přitom šetrně odstranit. K tomu se hodí například sada k odstranění klíštěte s návodem na použití (k dostání v lékárnách). Na odstranění klíštěte není třeba chvátat, neboť případná infekce vstupuje do rány už v okamžiku jeho zakousnutí.
+Přisáté klíště je třeba bezodkladně, a přitom šetrně odstranit. K tomu se hodí například sada k odstranění klíštěte s návodem na použití (k dostání v lékárnách). Na odstranění klíštěte není třeba chvátat, neboť případná infekce vstupuje do rány už v okamžiku, kdy se klíště zakousne.
 
 K zahubení klíštěte také dobře poslouží alkoholová desinfekce nebo jakákoli mast. Udušené klíště se pak dá z kůže snadno **odstranit šetrným kývavým pohybem**.
 
