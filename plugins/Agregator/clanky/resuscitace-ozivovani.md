@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/resuscitace-ozivovani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-04-20" mtime="2008-04-20" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="resuscitace-ozivovani" short="Resuscitace"}
+{ctime="2008-04-20" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="resuscitace-ozivovani" short="Resuscitace"}
 
 # Resuscitace neboli oživování
 
@@ -44,9 +44,9 @@ Proces oživování při zástavě srdeční akce a bezdeší spočívá v uvoln
 
 Základním úkonem v procesu oživování je **uvolnění dýchacích cest a vyprázdnění dutiny ústní**. Záklon hlavy, předsunutí dolní čelisti nebo prosté povytažení jazyka z úst často způsobí, že postižený začne sám dýchat. Život je zachráněn, čímž resuscitace končí. K uchopení jazyka a vyprázdnění ústní dutiny dobře poslouží například kapesník nebo cíp košile.
 
-Trvá-li bezdeší a chybí srdeční akce, následuje resuscitace v posloupnosti 2 vdechy a 30 stlačení hrudníku. Správné stačení hrudníku je důležitější, protože částečně nahrazuje i vdechy.
+Trvá-li bezvědomí, ale postižený sám dýchá a bije mu srdce, je vhodné jej uložit na bok do tzv. stabilizované polohy. Trvá-li bezdeší a chybí srdeční akce, následuje resuscitace v posloupnosti **2 vdechy a 30 stlačení hrudníku**. Správné stačení hrudníku je důležitější, protože částečně nahrazuje i vdechy.
 
-  1. **Masáž srdeční**: zachránce uloží jednu svou dlaň přes druhou a zachraňovanému stlačuje hrudník uprostřed prsní kosti rychlostí asi 70krát za minutu.
+  1. **Masáž srdeční**: zachránce uloží jednu svou dlaň přes druhou a zachraňovanému stlačuje hrudník uprostřed prsní kosti rychlostí asi 70krát za minutu. Včasná srdeční masáž je při oživování mnohem podstatnější než dýchání z úst do úst.
   2. **Dýchání z úst do úst**: jedna ruka drží za krkem hlavu v záklonu a druhá ruka uzavře chřípí nosu, následuje vdechnutí do úst zachraňované osoby (dětem je nutné vdechovat do úst a nosu zároveň).
 
 {class="important"}
