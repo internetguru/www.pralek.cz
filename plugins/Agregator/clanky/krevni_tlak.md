@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/krevni_tlak/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-03-27" mtime="2008-03-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krevni\_tlak" short="Krevní tlak"}
+{ctime="2008-03-27" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krevni\_tlak" short="Krevní tlak"}
 
 # Měření a vyhodnocení krevního tlaku
 
@@ -11,8 +11,8 @@ Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na 
 
 Srdce pumpuje krev – žílami ji nabírá a tepnami ji rozvádí zpět do celého těla. K zachování směru toku krve slouží chlopně jakožto jednosměrné ventily.
 
-  * Při **stažení srdeční komory** _(systola)_ je krev vypuzena díky chlopním jedním směrem do tepny.
-  * Při **uvolnění srdeční komory** _(diastola)_ se průchodnost chlopní vymění. Krev je z opačného směru nasávána ze žíly.
+  * Při **stažení srdeční komory** _(systola)_ je krev vypuzena díky chlopním jedním směrem do tepen.
+  * Při **uvolnění srdeční komory** _(diastola)_ se průchodnost chlopní vymění. Krev je z opačného směru nasávána ze žil.
 
 {class="example"}
 
