@@ -1,19 +1,15 @@
 
 {data-type="article" data-image="/files/preview/koutek/mytus\_o\_rakovine/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2007-10-05" mtime="2007-10-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mytus\_o_rakovine" short="Mýtus o rakovině"}
+{ctime="2007-10-05" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mytus\_o_rakovine" short="Mýtus o rakovině"}
 
 # Mýtus o urychlení rakoviny operací
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
-
 {kw="rakovina, mýty, strach, nádory, zhoubné, krvácení, zvracení, bolest"}
 
-Rakovina je tím lépe léčitelná, čím dříve je odhalená. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací.
+Rakovina je tím **lépe léčitelná, čím dříve je odhalena**. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací.
 
-Strachem z rakoviny pacienti bohužel často **promarní vhodnou dobu, kdy je případná rakovina ještě dobře léčitelná**. Jak čas plyne, nejenže zhoubný nádor (rakovina) roste, ale může také v těle vytvářet druhotná ložiska _(metastázy)_.
+Strachem z rakoviny pacienti bohužel často **promarní vhodnou dobu, kdy je případná rakovina ještě dobře léčitelná**. Jak čas plyne, nejenže zhoubný nádor (rakovina) roste, ale může také v těle vytvářet druhotná ložiska neboli _metastázy_.
 
 Růst nádoru ani tvorba druhotných ložisek nemusí vůbec bolet. Obecné nejasné příznaky pouze někdy obtěžují, jsou však víceméně snesitelné:
 
@@ -24,7 +20,9 @@ Růst nádoru ani tvorba druhotných ložisek nemusí vůbec bolet. Obecné neja
   * [přítomnost krve ve stolici][5], [v moči][6], vykašlávání krve,
   * [dlouho se nehojící kožní defekt][3].
 
-Vzhledem k přirozenému strachu z rakoviny se lidé snaží různé příznaky dlouhodobě podceňovat nebo tajit před rodinou a hledat záminky proč nejít k lékaři. K lékaři přicházejí až s následnými komplikacemi.
+{class="important"}
+
+Vzhledem k přirozenému strachu z rakoviny se lidé snaží různé příznaky dlouhodobě podceňovat nebo tajit před rodinou a hledat záminky, proč nejít k lékaři. K lékaři přicházejí až s následnými komplikacemi.
 
 {id="komplikace\_zhoubneho\_nadoru"}
 
@@ -32,7 +30,7 @@ Vzhledem k přirozenému strachu z rakoviny se lidé snaží různé příznaky 
 
 Neléčené příznaky počínající rakoviny se časem promění v komplikace, které teprve nemocného [přivedou k lékaři][7]. Po potvrzení obávané diagnózy se dostane pacient na operační sál. Pak už nemusí být vyřešení nádorového onemocnění **vzhledem k pokročilému stavu** možné.
 
-Projevy postupující rakoviny jsou závažnější a nedají se už snadno ignorovat. Bývá to zejména:
+Projevy postupující rakoviny jsou závažné a nedají se už snadno ignorovat. Bývá to zejména:
 
   * [prudké krvácení do zažívacího traktu][8] nebo [do moče][9],
   * [vysoká teplota][10] či prudká bolest bez zjevné příčiny,
@@ -41,7 +39,7 @@ Projevy postupující rakoviny jsou závažnější a nedají se už snadno igno
 
 {class="example"}
 
-Z laického pohledu tak vzniká _mýtus_, že viditelné zhoršení zdravotního stavu či dokonce úmrtí pacienta způsobila až operace. Skutečnost je však taková, že doba, kdy byla **šance na vyléčení, již byla bohužel promarněna**.
+Z laického pohledu tak vzniká _mýtus_, že viditelné zhoršení zdravotního stavu či dokonce úmrtí pacienta způsobila až operace. Skutečnost je však taková, že doba, kdy byla **šance na vyléčení, byla bohužel promarněna**.
 
 {id="rakovina\_ci\_zcela\_nezavazne\_onemocneni"}
 
@@ -63,7 +61,7 @@ n/a
 
   1. V čem spočívá záludnost počátku onemocnění zhoubným nádorem?
   2. Za jakých podmínek nejčastěji vyhledává pacient lékařské ošetření?
-  3. Proč přichází hodně lidí k vyšetření pro podezření na rakovinu pozdě?
+  3. Proč lidé chodí na vyšetření pro podezření na rakovinu pozdě?
   4. Může laik sám u sebe určit rakovinu a proč?
 
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
