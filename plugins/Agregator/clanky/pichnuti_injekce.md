@@ -48,7 +48,7 @@ Před píchnutím injekce má být pacient zklidněný a vyrovnaný. Samotné [p
   2. sejmout ochranný kryt z jehly a píchnout injekci,
   3. **pokusit se nabrat nejprve trochu tekutiny do injekce** natažením pístu zpět _(aspirovat)_ a 
       1. pokud se v injekci objeví krev, je vhodné opakovat vpich kousek vedle,
-      2. jinak lze lék podat stlačením pístu injekční stříkačky,
+      2. pokud se v injekci krev neobjeví, lze lék podat stlačením pístu injekční stříkačky,
   4. vytáhnout jehlu,
   5. na místo vpichu přiložit tampon a přitlačit ho na chvíli k zamezení krvácení.
 
