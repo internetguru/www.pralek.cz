@@ -5,8 +5,6 @@
 
 # Záludnost poranění sleziny u dětí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
 
 {kw="úrazy, dětské, krvácení, břicho, bolest, cévy"}
@@ -58,7 +56,7 @@ n/a
 
 V případě rozvoje příznaků _šokového stavu_ je nutné bránit dalšímu rozvoji šoku a zajistit bezprostřední [transport do nemocnice nejlépe formou RLP][8]. Čím dříve je zahájeno léčení, tím vyšší je naděje na úspěch léčby.
 
-Zatímco diagnózna jednodobého poranění sleziny bývá zřejmá, u dvoudobého poranění je důležité najít souvislost mezi současnými potížemi a nedávným úrazem. **Ultrazvukové vyšetření břicha nejlépe potvrdí nebo vyloučí diagnózu** lékaře po základním laboratorním vyšetření. Někdy je výhodnější CT břicha, které se ostatně u podezření na poranění dutiny břišní již provádí rutinně.
+Zatímco diagnózna jednodobého poranění sleziny bývá zřejmá, u dvoudobého poranění je důležité najít souvislost mezi současnými potížemi a nedávným úrazem. **Ultrazvukové vyšetření břicha nejlépe potvrdí nebo vyloučí diagnózu** lékaře po základním laboratorním vyšetření. Někdy je výhodnější CT břicha, které se ostatně u podezření na poranění dutiny břišní provádí rutinně.
 
 U případů, kdy je přítomen jen malý krevní výron a pouzdro sleziny je nepoškozeno se postupuje konzervativně – postačuje klid a sledování na lůžku v rámci hospitalizace. Pacient je opakovaně kontrolován lékařem, ultrazvukem je sledován vývoj krevního výronu. Při postupném vstřebávání a zmenšování krevního výronu může být pacient za několik dnů uzdraven a bez operace propuštěn domů.
 
