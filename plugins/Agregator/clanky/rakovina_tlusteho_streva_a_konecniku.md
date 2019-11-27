@@ -5,10 +5,6 @@
 
 # Rakovina tlustého střeva a konečníku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
 
 {kw="nádory, zhoubné, břicho, uzliny, krvácení, zvracení, prevence"}
@@ -19,7 +15,7 @@ Zhoubný nádor tlustého střeva a konečníku _(kolorektální karcinom)_ je v
 
 {class="example"}
 
-Dokonce ani znečištěné prostředí statisticky nezvyšuje pravděpodobnost onemocnění. Se stejnou pravděpodobností onemocní člověk bydlící v průmyslové aglomeraci s vysokým výskytem karcinogenů stejně jako lesník nekuřák bydlící v celý život v lese, který se živí jen nejzdravějšími čerstvými potravinami bez konzervantů.
+Dokonce ani znečištěné prostředí statisticky nezvyšuje pravděpodobnost onemocnění. Se stejnou pravděpodobností onemocní člověk bydlící v průmyslové aglomeraci s vysokým výskytem karcinogenů stejně jako lesník nekuřák bydlící celý život v horském lese, který se živí jen nejzdravějšími čerstvými potravinami bez konzervantů.
 
 {id="projevy\_nadoru\_tlusteho_streva"}
 
