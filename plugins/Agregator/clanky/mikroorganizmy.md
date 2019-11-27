@@ -21,13 +21,13 @@ Některým bakteriím vyhovuje chlad pod ledovou krou, jiné druhy žijí v př�
 
 n/a
 
-Skupina bakterií stejného druhu obývající určitou oblast (např. na lidském těle nebo v živém jogurtu) se nazývá **bakteriální kmen**. Svou činností tyto bakteriální kmeny podmiňují správnou funkci mnoha lidských orgánů.
+Skupina bakterií stejného druhu obývající určitou oblast (např. v lidském těle nebo v živém jogurtu) se nazývá **bakteriální kmen**. Svou činností tyto bakteriální kmeny podmiňují správnou funkci mnoha lidských orgánů.
 
 Různé kmeny bakterií žijí v celém zažívacím ústrojí, v tělních dutinách i na kůži. Jsou to **pro život člověka nepostradatelné bakteriální kmeny**. Nezpůsobují choroby (tzv. nechoroboplodné bakterie). Naopak, jejich oslabení nebo vymizení způsobí potíže.
 
 {class="example"}
 
-Např. při vytržení zubu se běžné bakterie z dutiny ústní dostávají do krevního oběhu. Za normálních podmínek jsou brzy zlikvidovány. Někdy však mohou zaplavit celý organizmus a způsobit zánětlivé onemocnění, které je třeba léčit antibiotiky, třebaže původcem je mikrob, který není vůbec nijak nebezpečný nebo záludný.
+Např. při vytržení zubu se běžné bakterie z dutiny ústní dostávají do krevního oběhu. Za normálních podmínek jsou brzy zlikvidovány. Někdy však mohou zaplavit celý organizmus a způsobit zánětlivé onemocnění, které je třeba léčit antibiotiky, třebaže původcem je mikrob, který v dutině ústní není nijak nebezpečný nebo záludný.
 
 Bakterie obývající dutinu ústní zahajují složitý proces trávení, ukončují ho jiné bakterie obývající tlusté střevo a konečník. Jejich zásluhou dobře funguje trávení. Společně se stravou jíme i spoustu různých cizích všudypřítomných bakterií, se kterými se dokáží naše vlastní bakterie a prostředí zažívacího traktu snadno vypořádat.
 
@@ -41,7 +41,7 @@ Jiné bakterie žijí ve vagíně a zde jsou příčinou právě tohoto prostře
 
 Zdravé bakteriální osídlení vagíny může být narušeno sníženou hygienou, či naopak nevhodnou nadměrnou hygienou, sexuální promiskuitou a nevhodnými sexuálními praktikami. Následně se většinou přidá osídlení kvasinkami nebo plísněmi s velmi nepříjemnými projevy (svědění, pálení až bolest, výtok, nepříjemný zápach).
 
-Taková situace nastane například tehdy, dostanou-li se bakterie z konečníku do pochvy nebo dokonce do močových cest. Vzniklá infekce se musí často léčit antibiotiky.
+Taková situace nastane například tehdy, dostanou-li se bakterie z konečníku do pochvy nebo dokonce do [močových cest][7]. Vzniklá infekce se musí často léčit antibiotiky.
 
 {id="choroboplodne_bakterie"}
 
@@ -54,7 +54,7 @@ Obrovské množství bakteriálních kmenů (jsou popsány a pojmenovány – vi
 Cizí [choroboplodné bakterie, které člověka napadly][2] mohou přežívat v určitém místě lidského těla (např. v mandlích při angíně), nebo se mohou vyplavit do celého těla a **způsobit celkové příznaky závažného [zánětlivého onemocnění][4]** . Pak je nasazení antibiotik nevyhnutelné. 
 
   1. Některé **konkrétní bakterie** se složitými latinskými názvy **způsobují konkrétní chorobu**, např. tuberkulózu, boreliozu nebo pohlavní choroby.
-  2. Jiné **bakterie způsobují různá zánětlivá onemocnění** s různě vyvinutými celkovými příznaky. Například angína nebo zápal plic mohou být způsobeny různými druhy bakterií opět latinsky pojmenovanými.
+  2. Jiné **bakterie způsobují různá [zánětlivá onemocnění][6]** s různě vyvinutými celkovými příznaky. Například angína nebo zápal plic mohou být způsobeny různými druhy bakterií opět latinsky pojmenovanými.
   3. Jiná **konkrétní bakterie může způsobit různá horečnatá onemocnění**. Například pro choroby jako je spála, spálová angína nebo růže je společným původcem bakterie jménem streptokok.
 
 Taková onemocnění se léčí [antibiotiky][5].
@@ -94,4 +94,6 @@ n/a
  [3]: bolest_v_krku_angina
  [4]: zanet
  [5]: antibiotika
+ [6]: lecba_zanetu
+ [7]: zanet_mocoveho_mechyre
 
