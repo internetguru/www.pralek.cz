@@ -47,7 +47,7 @@ Vyhodnocení svépomocí
 
 n/a
 
-**Přítomnost krve ve stolici nemusí souviset s rakovinou.** Nejedná se o test prokazující rakovinu, ale obecně nemoc, která se projevuje krvácením do stolice.
+**Přítomnost krve ve stolici nemusí souviset s rakovinou.** Nejedná se o test prokazující rakovinu, ale obecně nemoc, která se projevuje krvácením do zažívací trubice (např. i [krvácením dásní][2]).
 
 Je-li test pozitivní, nezbývá než se objednat na [kolonoskopii][1], která teprve určí skutečnou diagnózu. Může se jednat o obávaný zhoubný nádor, ale i o jiné onemocnění, třeba jen banální, které se projevilo krvácením do stolice.
 
@@ -83,4 +83,5 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: rakovina_tlusteho_streva_a_konecniku
+ [2]: krvaceni_dasni
 
