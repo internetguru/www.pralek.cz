@@ -18,7 +18,7 @@ Slinivka břišní _(pancreas)_ je důležitá [žláza trávicí soustavy][1] a
 
 Název slinivky břišní je poněkud zavádějící, protože **slinivka břišní** nemá nic společného se slinami a není uložena v dutině břišní.
 
-Slinivka břišní je uložena vzadu za dutinou břišní mezi žaludkem, páteří a velkými cévami. Tím je velmi dobře chráněna před poraněním při úrazu.
+Slinivka břišní je uložena vzadu za dutinou břišní mezi žaludkem, páteří a velkými cévami. Tím je velmi dobře chráněna před poraněním při úrazu břicha.
 
 {id="formy\_zanetlivych\_onemocneni\_slinivky\_brisni"}
 
