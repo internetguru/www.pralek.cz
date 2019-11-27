@@ -35,7 +35,7 @@ n/a
 
   1. Zánět prostaty [bakteriálního původu][4] není časté onemocnění. 
       * Vzniká jako [komplikace infekce močových cest][5], nebo jako zánětlivá komplikace po pohlavním styku,
-      * Většinou souvisí se zánětem močové trubice. Tehdy se projevuje pálením hlavně v začátku močení, nutkáním k častému močení, v těžších případech i horečkou.
+      * Většinou souvisí se [zánětem močové trubice][10]. Tehdy se projevuje pálením hlavně v začátku močení, nutkáním k častému močení, v těžších případech i horečkou.
   2. Zánět prostaty nebakteriálního původu je ještě vzácnější. 
       * Jde o svízelné onemocnění vyprovokované například namožením prostaty neúměrně zatěžující jízdou na kole (přímý tlak sedla na prostatu).
       * Většinou se jedná o dlouhodobý (chronický) zánět.
@@ -109,4 +109,5 @@ n/a
  [7]: nezhoubny_nebo_zhoubny_nador
  [8]: nalehavost_lekarskeho_vysetreni
  [9]: cevkovani
+ [10]: zanet_mocoveho_mechyre
 
