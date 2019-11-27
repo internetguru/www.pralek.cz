@@ -31,7 +31,6 @@ n/a
 :   Je nezhoubný nádor _vycházející z vaziva_ (nejčastěji kožního).
 :   Nejčastěji se vyskytuje jako přívěsek na kůži obličeje, krku, podpaží nebo třísel.
 :   Je měkký, nebolestivý, barvy okolní kůže nebo tmavší.
-:   Bývá viditelný od nejmenších velikostí do několika centimetrů.
 :   Velký bývá od drobného sotva viditelného až do několika centimetrů.
 :   Mívá tvar válečku nebo kuličky, často visí na tenké stopce. Stopka se může pootočením zaškrtit, pak do fibromu nemůže přitékat krev a [fibrom se zanítí][2], zarudne a bolí. Zánět může přejít do okolí nebo může fibrom odpadnout a dojde k samovolnému zhojení.
 :   Fibrom na viditelném místě [hyzdí stejně jako bradavice][3].
