@@ -24,7 +24,7 @@ Dlouhodobé (chronické) onemocnění plísní postihuje velké množství lidí
       * Ložiska nemusejí nikterak bolet nebo svědit, obtěžují hlavně kosmeticky.
       * Lidé se za projevy kožní plísně stydí. Proto se často vyhýbají pobytu mezi ostatními lidmi – tedy pobytu na vzduchu a slunci. Tím samozřejmě podporují další rozvoj své nemoci.
   2. **Ztvrdlá a rozpraskaná kůže pat:**
-      * Výskyt onemocnění narůstá s přibývajícím věkem. Senioři trpí tímto onemocněním všichni, často mají postiženy nejen paty, ale i celá chodidla.
+      * Výskyt onemocnění narůstá s přibývajícím věkem. Senioři trpí tímto onemocněním všichni, často mají postiženy nejen paty nebo prsty, ale i celá chodidla.
       * Takto změněnou kůži pat je vhodné snášet (odstraňovat) různými pilníčky, které jsou k dostání v lékárnách. Snášení kůže je možné provádět za sucha nebo po rozmáčení ve vodě. Následně po odstranění [hrubé kůže (hyperkeratoza)][3] je nutné ošetření protiplísňovým prostředkem ([mastí, krémem nebo roztokem][4]).
       * Odstraněná nebo samostatně se olupující kůže je infekční (nakažlivá). Stejně nakažlivé jsou nejen bačkory a boty člověka trpícího plísní, ale i lůžkoviny, ručníky, ponožky nebo koberce. Obzvlášť nakažlivé jsou společné prostory v lázních, sprchách či bazénech.
   3. **Plísňové onemocnění nehtů končetin:**
@@ -44,7 +44,7 @@ Prudké (akutní) onemocnění plísní se nejčastěji projevuje jako intenzivn
 
   1. **Plísňové onemocnění meziprstních prostorů na nohou:**
       * Vyskytuje se velmi často, především u lidí sdílejících společné prostory jako sprchy, bazény, tělocvičny či společnou obuv atd.
-      * Počáteční svědění může postupně přejít v případě neléčení až v bolest. Kůže v meziprstí je rozmočená (macerovaná).
+      * Počáteční svědění může postupně přejít v případě neléčení až v bolest. Kůže v meziprstí je rozmáčená (macerovaná).
       * V případě dalšího neléčení přejde plíseň do chronického stádia a z meziprstí se může rozšiřovat po kůži nohou. Pak bývá častým projevem olupování pokožky plosek (chodidel) se zarudnutím kůže plosek i nártů nohou. Často bývá postižena příslušná spádová (většinou tříselná) [lymfatická uzlina][6].
   2. **Plísňové onemocnění podpažního prostoru:**
       * Postihuje častěji muže v mladším a středním věku (je zde možná souvislost se [složením potu a kožního mazu][7]).
