@@ -5,10 +5,6 @@
 
 # Spolknuté nebezpečné a ostré předměty
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
 
 {kw="poranění, břicho, úrazy, dětské, bolest, žaludek, střevo, zvracení"}
@@ -25,7 +21,7 @@ Ostré předměty mohou poranit při kousání jazyk a dutinu ústní. To se st�
 
 Spolknutí ostrých předmětů jako střepů, hřebíků nebo špendlíků v žaludku ani ve střevech nezpůsobí žádné potíže. Stěna střevní uhne před hrotem špendlíku podobně, jako se nepodaří napíchnout žížalu na mokré hladké podložce. Špendlík se ve střevě vždy otočí hlavičkou napřed a putuje spolu se stravou zažívacím traktem a vyjde se stolicí. **Stěna žaludku nebo střevní nebývá hrotem ani ostřím střepu poraněna!** Plochý střep nebo ostří žiletky by mohly teoreticky poranit až konečník při stolici.
 
-Při polykání mohou ostré předměty poranit krk nebo jícen. Známé je poranění rybí kostí. Mnohem častější a méně známé je však **poranění kuřecí kostí, které bývá spojeno s hltavým způsobem jídla**. Kost v dutině ústní zbrklý jedlík podcení a spolkne spolu se soustem. Takové poranění jícnu může být závažné.
+Při polykání mohou ostré předměty poranit hrtan nebo jícen. Známé je poranění rybí kostí. Mnohem častější a méně známé je však **poranění kuřecí kostí, které bývá spojeno s hltavým způsobem jídla**. Kost v dutině ústní zbrklý jedlík podcení a spolkne spolu se soustem. Takové poranění jícnu může být závažné.
 
 {id="spolknute\_velke\_sousto\_muze\_uviznout\_v\_jicnu"}
 
@@ -33,7 +29,7 @@ Při polykání mohou ostré předměty poranit krk nebo jícen. Známé je pora
 
 n/a
 
-Mnohem **závažnější je spolknutí velkého sousta**. Špatně rozmělněné sousto nedostatečně promísené slinami může [uvíznout v jícnu][1]. Typicky to bývá suchý včerejší rohlík nebo kus masa. Vzniklá bolest je nejprve pálivá, je doprovázena sliněním. Po určité době se sousto většinou uvolní a sklouzne do žaludku. K tomu většinou pomůže doušek vody.
+Mnohem **závažnější je spolknutí velkého sousta**. Špatně rozmělněné sousto nedostatečně promísené slinami může [uvíznout v jícnu][1]. Typicky to bývá suchý včerejší rohlík nebo kus tuhého masa. Vzniklá bolest je nejprve pálivá, je doprovázena sliněním. Po určité době se sousto většinou uvolní a sklouzne do žaludku. K tomu většinou pomůže doušek vody.
 
 Jestliže se sousto neuvolní, přetrvává tlak za hrudní kostí a nadměrné slinění. Pak je nutné sousto uvolnit speciálním přístrojem – endoskopem (přístroj, kterým lze vidět a ošetřovat uvnitř tělních dutin).
 
