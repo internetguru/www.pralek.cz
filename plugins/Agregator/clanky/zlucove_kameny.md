@@ -5,8 +5,6 @@
 
 # Prevence a léčba žlučových kamenů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
 
 {kw="žlučník, břicho, bolest, říhání, zvracení, stravovací návyky, prevence, zánět, strach"}
@@ -19,9 +17,9 @@ Jedním z nejhorších [stravovacích zlozvyků][1] je **zapíjení tučného j�
 
 ## Vznik žlučových kamenů
 
-Odplavení trávicích šťáv a sražení tuků pitím studené vody při jídle narušuje trávicí proces. Důsledkem je hromadění žluči ve žlučníku a její koncentrace. Vznik žlučových kamenů je jen otázkou času.
+Odplavení trávicích šťáv a sražení tuků pitím studené vody při jídle narušuje trávicí proces. Důsledkem je hromadění žluči ve žlučníku a její nadměrná koncentrace. Vznik žlučových kamenů je pak jen otázkou času.
 
-Pitím vody před jídlem se předčasně odplavují trávicí šťávy ze žaludku a z dvanácterníku. Zapíjením tučného jídla se navíc v žaludku sráží tuky, které se špatně tráví. Tím se do střev dostane nedostatečně natrávená strava.
+Pitím vody před jídlem se předčasně odplavují trávicí šťávy ze žaludku a z dvanácterníku. Zapíjením tučného jídla se navíc v žaludku sráží tuky, které se následně špatně tráví. Tím se do střev dostane nedostatečně natrávená strava.
 
 Přítomnost nedostatečně natrávené stravy ve střevě reflexivně způsobí nadměrnou tvorbu trávicích šťáv – včetně žluči. Ta se však na rozdíl od ostatních šťáv neodplavuje a **hromadí se ve žlučníku**. Opakovaná nadměrná tvorba žluči vede k její koncentraci a to dříve nebo později vede ke vzniku kamenů.
 
