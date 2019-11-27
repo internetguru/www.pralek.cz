@@ -19,7 +19,7 @@ n/a
 
   * Při **ohrožení života** je vždy nejprve nutná 
       1. okamžitá _technická první pomoc_ (přerušit kontakt zraněného se zdrojem elektrického proudu, vytažení tonoucího z vody, vyproštění zraněného z hořícího auta a podobně).
-      2. V případě vymizení základních životních funkcí (vědomí, dýchání, tep) [zahájit oživování][1] _(resuscitaci)_. Úspěšnost resuscitace je závislá na včasnosti jejího zahájení.
+      2. V případě vymizení základních životních funkcí (vědomí, tep) [zahájit oživování][1] _(resuscitaci)_. Úspěšnost resuscitace je závislá na včasnosti jejího zahájení.
       3. Zároveň je třeba neprodleně [zavolat záchranku][2].
   * Při **prudkém krvácení** (krvácení z velké tepny) je nutné 
       1. neprodleně zastavit krvácení (nejlépe stlačením tepny nebo přiložením tlakového obvazu). Z přerušené stehenní tepny by mohl poraněný vykrvácet už během 1 minuty.
