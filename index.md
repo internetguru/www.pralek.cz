@@ -72,18 +72,19 @@ Pro účely dotací jsme zvolili službu [Patreon][4]. Služba je napůl anglick
 n/a
 
     Předmět: Nový článek z praktického lékařství
-    Odesílatel: "PraLék.cz"<alert@pralek.cz>
+    Od: "no-reply"<no-reply@pralek.cz> via mailchimpapp.net
     
-    Článek Jaroslava Pavelky z 2. října 2008 je nyní dostupný na:
-       http://www.pralek.cz/teplota/
+    Nový článek Jaroslava Pavelky z 2. října 2008
+       www.pralek.cz/teplota?usp=news
     
     Normální tělesná teplota, podchlazení, horečka
-    Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá
-    nebo klesá vlivem zevního prostředí a stoupá při některých
-    onemocněních.
-     
-    Pro odhlášení z odebírání upozornění klikněte na následující odkaz:
-       http://alert.pralek.cz/2QuTamc2hBM87dwa {class="nohighlight"}
+    Tělesná teplota se mění podle fyzické aktivity organizmu.
+    Stoupá nebo klesá livem zevního prostředí a stoupá při
+    některých onemocněních.
+    
+    Pro odhlášení z odběru novinek klikněte na následující odkaz:
+       https://pralek.us4.list-manage.com/unsubscribe?
+    u=9d8689096f9734cbd6ab6d381&id=0ea09e9dfb {class="nohighlight"}
 
 {id="soukromi" short="Ochrana soukromí"}
 
