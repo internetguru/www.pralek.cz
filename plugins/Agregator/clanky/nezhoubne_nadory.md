@@ -51,7 +51,7 @@ n/a
 :   Je nezhoubný nádor _vycházející z chrupavky_.
 :   Vyskytuje se zřídkakdy.
 :   Může se vyskytnout všude, kde je chrupavka, nejčastěji v okolí nártu, hlezna (kotníky) nebo v koleni.
-:   Nebývá viditelný ani hmatný, ale může se stát překážkou v kloubu.
+:   Nebývá viditelný ani hmatný, ale může se stát překážkou v kloubu (kloubní myška).
 :   Chirurgické odstranění bývá jednoduché.
 
 **Osteom**
@@ -91,7 +91,7 @@ n/a
   * **Aterom** je mazová žláza s uzavřeným vývodem, ve které se hromadí její obsah. Vznikne v případě nadměrného [hromadění mazu uvnitř žlázy][10].
   * **Cysta** je dutina vyplněná tekutinou.
   * **Absces** je [dutina vyplněná hnisem][11].
-  * **Keloid** je zbytnělá jizva vzniklá poruchou hojení.
+  * **Keloid** je zbytnělá jizva vzniklá poruchou hojení (nejčastěji po spálenině).
 
 {id="otazky" var="inputvar-otazky_h"}
 
