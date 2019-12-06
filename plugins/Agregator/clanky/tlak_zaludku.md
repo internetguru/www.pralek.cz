@@ -38,7 +38,7 @@ n/a
 
 n/a
 
-Tlak žaludku přirozeně předcházívá zvracení. Úporným zvracením může dojít až ke _zvracení žaludečního obsahu s [příměsí krve][7]_. Takové drobné krvácení vzniká porušením sliznice na přechodu mezi jícnem a žaludkem _(Mallory-Weisův příznak)_. Porušená sliznice se většinou sama zhojí, jakmile zvracení ustane. Krevní ztráty nebývají závažné a není třeba se strachovat.
+Tlak žaludku přirozeně předcházívá zvracení. Úporným zvracením může dojít až ke _zvracení žaludečního obsahu s malou příměsí krve_. Takové drobné krvácení vzniká porušením sliznice na přechodu mezi jícnem a žaludkem _(Mallory-Weisův příznak)_. Porušená sliznice se sama zhojí, jakmile zvracení ustane. Krevní ztráty nebývají závažné a není třeba se strachovat na rozdíl od [masivního krvácení žaludečního vředu][7].
 
 K úpornému [reflexnímu zvracení][1] dochází při obraně organizmu proti otravě požitím zkaženého či nevhodného jídla (včetně otravy alkoholem). Stejně tak může být reflexní zvracení vyvolané přejedením.
 
