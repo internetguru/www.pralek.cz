@@ -88,7 +88,7 @@ n/a
 
  [1]: prijem_tekutin
  [2]: stravovaci_navyky
- [3]: zanet
+ [3]: lecba_zanetu
  [4]: mikroorganizmy
  [5]: koureni_cigaret
 
