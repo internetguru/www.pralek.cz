@@ -45,7 +45,7 @@ Vývoj stádií návyku na cigarety:
   2. Po překonání počátečních nepříjemných doprovodných příznaků přichází vychutnání každé občasně vykouřené cigarety. V tomto příjemném stádiu je možné vydržet bohužel vždy jen dočasně (nebo v područí šamana).
   3. V dalším stádiu si kuřák zakouří stále ještě příležitostně, nikdy však sám (vždy ve společnosti, nejraději ke kávě, ke sklence vína, k pivu, po sexu a podobně).
   4. Později začne kuřák kouřit i sám.
-  5. Ještě později si kuřák zakouří kdykoli chce, ale vždy před situací, kdy nebude moci delší dobu kouřit (před cestou autobusem).
+  5. Ještě později si kuřák zakouří kdykoli chce, ale vždy před situací, kdy nebude moci delší dobu kouřit (např. před cestou autobusem).
   6. Pak kuřák kouří i v každé přestávce mezi prací a po každém jídle.
   7. V dalším stádiu kuřák hledá každou příležitost ke kouření (mezi prací dělá častější přestávky a vyhýbá se pobytu na místech, kde by nemohl kouřit).
   8. Plně závislý kuřák kouří kdykoli, i když sám (rozumem) nechce, například: 
