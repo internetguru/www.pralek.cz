@@ -9,7 +9,7 @@
 
 {kw="úrazy, dětské, krvácení, břicho, bolest, cévy"}
 
-Poranění sleziny může být velmi zákeřným úrazem. Přes relativní nenápadnost rozvoje příznaků může zraněná slezina ohrozit nemocného na životě. Operační odstranění poraněné sleziny naštěstí nevede následně k poruchám zdraví.
+Poranění sleziny může být velmi zákeřným úrazem. Přes relativní nenápadnost rozvoje příznaků může zraněná slezina ohrozit nemocného na životě. Operace poraněné sleziny včetně jejího odstranění naštěstí nevede následně k poruchám zdraví.
 
 Slezina je bohatě prokrvený křehký orgán uložený ve vazivovém pouzdře v dutině břišní (v levém podžebří). Podílí se [na rozvoji imunity][1], obměně krvinek, tvorbě protilátek a slouží jako rezervoár krve. Přesto, že slezina plní nepostradatelnou funkci v lidském těle, nebyly popsány závažnější poruchy zdraví v souvislosti s poúrazovou ztrátou sleziny.
 
