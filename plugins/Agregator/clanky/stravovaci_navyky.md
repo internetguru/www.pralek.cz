@@ -61,7 +61,7 @@ n/a
   * Je dobré jíst opakovaně sezónní jídla a
   * preferovat potraviny z domácích zdrojů než dovážené.
   * [Dodržování pitného režimu][8], tekutiny nelze vynechat.
-  * Dodržení stravovacího režimu nutné naopak není; **půst je zdravý**.
+  * Dodržení stravovacího režimu nutné naopak není; **občasný půst je zdravý**.
   * Dobré jídlo lze doplnit sklenkou vína, piva nebo teplého čaje.
 
 {class="example"}
