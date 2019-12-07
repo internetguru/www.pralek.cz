@@ -22,7 +22,7 @@ n/a
   1. Dešťová voda neobsahuje žádné soli ani minerály – **měkká voda**. Je však značně znečištěna; v každé kapce vody (aby se vůbec vytvořila z páry) jsou částečky prachu a pylová zrnka.
   2. Jak dešťová voda prosakuje z povrchu země propustnými vrstvami horniny, zbavuje se nečistot. Při prostupu různými horninami se v ní rozpouštějí různé soli a minerální látky. Taková pitná voda je většinou označována jako **voda pramenitá**, vyvěrající z určité hloubky země a je velmi vhodná pro trvalé pití.
   3. **Tvrdá voda** obsahuje minerálů více. Ačkoliv minerální látky z tvrdé vody zanášejí trubky, varnou konvici nebo pračku, lidskému organizmu nikterak neškodí.
-  4. **Minerální voda** má obsah minerálů ještě vyšší – je přesně dán (popsáno na vinětě). Taková voda bývá označována jako lázeňská a předpokládá se její blahodárný vliv na lidský organizmus.
+  4. **Minerální voda** má obsah minerálů ještě vyšší – je přesně dán (popsáno na vinětě). Taková voda bývá označována jako lázeňská a předpokládá se její blahodárný vliv na lidský organizmus v případě jejího občasného „léčebného“ pití.
 
 {id="zdrava_voda"}
 
