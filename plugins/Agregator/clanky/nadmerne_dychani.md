@@ -5,10 +5,6 @@
 
 # Nadměrné dýchání – předýchávání
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="dýchání, strach, poruchy vědomí, první pomoc, srdce, zvracení, bolest"}
 
 Nadměrným dýcháním mohou vzniknout zdravotní potíže, porucha vědomí, bezvědomí a následně i závažná porucha zdraví. První pomocí při chorobném předýchávání je uklidnění pacienta nebo dýchání do sáčku.
@@ -41,7 +37,7 @@ Předýchávání mívá nejčastěji následující projevy (nemusejí se vysky
 Na tyto projevy pak mohou navázat:
 
   * mžitky až zatmění před očima,
-  * **samotná porucha vědomí** (změněný stav vědomí),
+  * **samotná porucha vědomí** (změněný stav vědomí), 
       1. Příjemně vnímaná; např. představa letu nad krajinou (jako plachtící dravec).
       2. Nepříjemně vnímaná; např. představa topení se ve špinavé vodě.
   * bezvědomí, ve kterém může dojít k závažné poruše zdraví nebo k úrazu při pádu.

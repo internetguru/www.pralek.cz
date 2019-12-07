@@ -5,8 +5,6 @@
 
 # Mikroorganizmus jako pomocník nebo nepřítel člověka
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="mikroorganizmy, antibiotika, zánět, strava-zažívání, zvracení, močová soustava"}
 
 Dostanou-li se jinak prospěšné bakterie do míst, kam nepatří, mohou způsobit nemoc. Jsou-li správné bakteriální kmeny na správném místě, pak vzniká oboustranně prospěšná spolupráce a tělo funguje jak má. Přirozená bakteriální flóra bývá vždy narušena užíváním antibiotik.
@@ -41,7 +39,7 @@ Jiné bakterie žijí ve vagíně a zde jsou příčinou právě tohoto prostře
 
 Zdravé bakteriální osídlení vagíny může být narušeno sníženou hygienou, či naopak nevhodnou nadměrnou hygienou, sexuální promiskuitou a nevhodnými sexuálními praktikami. Následně se většinou přidá osídlení kvasinkami nebo plísněmi s velmi nepříjemnými projevy (svědění, pálení až bolest, výtok, nepříjemný zápach).
 
-Taková situace nastane například tehdy, dostanou-li se bakterie z konečníku do pochvy nebo dokonce do [močových cest][7]. Vzniklá infekce se musí často léčit antibiotiky.
+Taková situace nastane například tehdy, dostanou-li se bakterie z konečníku do pochvy nebo dokonce do [močových cest][3]. Vzniklá infekce se musí často léčit antibiotiky.
 
 {id="choroboplodne_bakterie"}
 
@@ -49,15 +47,15 @@ Taková situace nastane například tehdy, dostanou-li se bakterie z konečníku
 
 n/a
 
-Obrovské množství bakteriálních kmenů (jsou popsány a pojmenovány – viz učebnice mikrobiologie) může zapříčinit různé nakažlivé nebo [zánětlivé choroby][3] = choroboplodné zárodky.
+Obrovské množství bakteriálních kmenů (jsou popsány a pojmenovány – viz učebnice mikrobiologie) může zapříčinit různé nakažlivé nebo [zánětlivé choroby][4] = choroboplodné zárodky.
 
-Cizí [choroboplodné bakterie, které člověka napadly][2] mohou přežívat v určitém místě lidského těla (např. v mandlích při angíně), nebo se mohou vyplavit do celého těla a **způsobit celkové příznaky závažného [zánětlivého onemocnění][4]** . Pak je nasazení antibiotik nevyhnutelné. 
+Cizí [choroboplodné bakterie, které člověka napadly][2] mohou přežívat v určitém místě lidského těla (např. v mandlích při angíně), nebo se mohou vyplavit do celého těla a **způsobit celkové příznaky závažného [zánětlivého onemocnění][5]** . Pak je nasazení antibiotik nevyhnutelné. 
 
   1. Některé **konkrétní bakterie** se složitými latinskými názvy **způsobují konkrétní chorobu**, např. tuberkulózu, boreliozu nebo pohlavní choroby.
-  2. Jiné **bakterie způsobují různá [zánětlivá onemocnění][6]** s různě vyvinutými celkovými příznaky. Například angína nebo zápal plic mohou být způsobeny různými druhy bakterií opět latinsky pojmenovanými.
+  2. Jiné **bakterie způsobují různá [zánětlivá onemocnění][6]** s různě vyvinutými celkovými příznaky. Například angína nebo zápal plic mohou být způsobeny různými druhy bakterií opět latinsky pojmenovanými. 
   3. Jiná **konkrétní bakterie může způsobit různá horečnatá onemocnění**. Například pro choroby jako je spála, spálová angína nebo růže je společným původcem bakterie jménem streptokok.
 
-Taková onemocnění se léčí [antibiotiky][5].
+Taková onemocnění se léčí [antibiotiky][7].
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -91,9 +89,9 @@ n/a
 
  [1]: funkcni_poruchy_traveni
  [2]: teplota
- [3]: bolest_v_krku_angina
- [4]: zanet
- [5]: antibiotika
+ [3]: zanet_mocoveho_mechyre
+ [4]: bolest_v_krku_angina
+ [5]: zanet
  [6]: lecba_zanetu
- [7]: zanet_mocoveho_mechyre
+ [7]: antibiotika
 

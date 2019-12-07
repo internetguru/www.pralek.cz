@@ -5,9 +5,9 @@
 
 # Rakovina tlustého střeva a konečníku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
 
-{kw="nádory, zhoubné, břicho, uzliny, krvácení, zvracení, prevence"}
+{kw="nádory, zhoubné, břicho, strach, uzliny, krvácení, zvracení, prevence"}
 
 Po rakovině tlustého střeva a konečníku je třeba [aktivně pátrat][1]. Její záludnost spočívá v naprosto bezpříznakovém počátku a jen velmi neurčitých projevech i při již plně rozvinutém onemocnění.
 
@@ -62,17 +62,17 @@ V případě pozitivity testu na OK je třeba se podrobit odbornému vyšetřen�
 
 n/a
 
-  1. V ideálním případě dojde k **odstranění nádoru již při jeho zjištění** přímo během vyšetření tlustého střeva a konečníku _(kolonoskopicky)_.
+  1. V ideálním případě dojde k **odstranění nádoru již při jeho zjištění** přímo během vyšetření tlustého střeva a konečníku _(kolonoskopicky)_. 
       * Nádor je tedy zjištěn v počátečním stádiu; nikam neprorůstá, nepostihuje uzliny a je bez metastáz. Takže může být ihned odstraněn, čímž je léčba definitivně vyřešena.
-  2. Dalším jednorázovým řešením je **plánované operační odstranění nádoru** včetně postižených spádových lymfatických uzlin.
+  2. Dalším jednorázovým řešením je **plánované operační odstranění nádoru** včetně postižených spádových lymfatických uzlin. 
       * Součástí plánování operace je i předoperační příprava střeva. Nebývá potom nutné vyvádět střevo břišní stěnou.
-  3. Nádor je vhodné za určitých podmínek ozářit
+  3. Nádor je vhodné za určitých podmínek ozářit 
       1. před operací z důvodu zmenšení hmoty nádoru,
       2. pooperační ozáření oblastí podezřelých z možného výskytu nádorových buněk.
-  4. Za jiných určitých podmínek je vhodná _chemoterapie_ – podání zvláštních látek (léků), které hubí všechny rychle se množící buňky.
+  4. Za jiných určitých podmínek je vhodná _chemoterapie_ – podání zvláštních látek (léků), které hubí všechny rychle se množící buňky. 
       * Mimo nádorové buňky sem patří bohužel také buňky krvetvorby, buňky střevní sliznice či buňky vlasových mníšků. Proto k chemoterapii patří chudokrevnost, zažívací potíže a ztráta vlasů.
   5. Moderní metodou ve stádiu klinického zkoumání je _bioterapie_ – vpravení lidské (tělu vlastní) genetické informace mikroorganizmům (bakteriím), které pak tvoří požadovanou konkrétní protinádorově působící bílkovinu.
-  6. V krajním případě se nádor operuje akutně na nepřipraveném střevě až při vzniku komplikací:
+  6. V krajním případě se nádor operuje akutně na nepřipraveném střevě až při vzniku komplikací: 
       1. Při **masívním krvácení** je třeba krvácení zastavit a následuje pokus o odstranění nádoru. Vždy je nutné založit vývod střeva břišní stěnou pro [zabránění infekce][9]. Většinou následují další operace podle podmínek k úpravě střeva a následně k navrácení do původního stavu (zanoření vývodu).
       2. Při [střevní neprůchodnosti][10] _(ileus)_ způsobené nádorem je vždy nutné založit vývod střeva břišní stěnou pro uvolnění střevní neprůchodnosti _(kolostomie)_. Následuje pokus o odstranění nádoru dle podmínek. Opět většinou následují další operace jako v předchozím případě.
       3. V případě pokročilého stádia onemocnění trvalý vývod střeva břišní stěnou k zabránění krutých bolestí spojených se střevní neprůchodností.

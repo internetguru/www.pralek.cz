@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/mdloba\_neboli\_kolaps/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-03-16" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mdloba\_neboli_kolaps" short="Mdloba neboli kolaps"}
+{ctime="2008-03-16" mtime="2008-03-16" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mdloba\_neboli_kolaps" short="Mdloba neboli kolaps"}
 
 # Mdloba neboli kolaps
 

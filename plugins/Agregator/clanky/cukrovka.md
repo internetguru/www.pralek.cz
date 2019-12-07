@@ -1,7 +1,7 @@
 
 {data-type="article" data-image="/files/preview/koutek/cukrovka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-03-26" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cukrovka" short="Cukrovka"}
+{ctime="2008-03-26" mtime="2008-03-26" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cukrovka" short="Cukrovka"}
 
 # Jak žít s cukrovkou
 
@@ -9,8 +9,7 @@
 
 Ukázněný diabetik (česky cukrovkář) se nemusí během života setkat se žádnými komplikacemi cukrovky. Dlouhodobé komplikace cukrovky jsou způsobené nedodržováním doporučených léčebných zásad. Hladina cukru v krvi _(glykémie)_ u neukázněného diabetika značně kolísá. Naopak u ukázněného diabetika a u zdravého člověka kolísá glykémie přiměřeně.
 
-{class="example"}
-Potrava se v zažívacím traktu rozloží a ve střevě vstřebá, krví je vedena do jater. Játra jsou chemická továrna, která dokáže vzájemně [přetvářet cukry, tuky a bílkoviny podle potřeby organizmu][1]. Jestli např. strava neobsahuje žádný cukr, játra ho začnou tvořit. Když je cukru ve stravě naopak nadbytek, játra ho rozkládají.
+{class="example"} Potrava se v zažívacím traktu rozloží a ve střevě vstřebá, krví je vedena do jater. Játra jsou chemická továrna, která dokáže vzájemně [přetvářet cukry, tuky a bílkoviny podle potřeby organizmu][1]. Jestli např. strava neobsahuje žádný cukr, játra ho začnou tvořit. Když je cukru ve stravě naopak nadbytek, játra ho rozkládají.
 
 Určitá glykémie je nezbytná jako energetická nabídka (potrava) pro buňky. Pro umožnění přechodu cukru do buňky je nezbytný inzulín (hormon vytvářený slinivkou břišní). **Bez inzulínu cukr z krve do buňky nemůže proniknout.**
 

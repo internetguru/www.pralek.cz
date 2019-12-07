@@ -5,7 +5,9 @@
 
 # Prudký zánět slinivky břišní: akutní pankreatitida
 
-{kw="bolest, zánět, břicho, žlučník, stravovací návyky, zhoubné, cukrovka"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+
+{kw="bolest, zánět, břicho, zvracení, žlučník, stravovací návyky, zhoubné, cukrovka"}
 
 Prudký zánět slinivky břišní je závažné život ohrožující onemocnění. Vzniká nejčastěji v návaznosti na přejedení nevhodnou kombinací jídel (a tvrdého alkoholu).
 
