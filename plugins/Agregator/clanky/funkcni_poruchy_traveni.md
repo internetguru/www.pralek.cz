@@ -19,7 +19,7 @@ n/a
 
 Zvracení je stav, kdy se žaludeční obsah neposunuje dále do dvanácterníku _(peristaltika)_, ale obrácením směru je prudce vrácen jícnem do úst a nosu. Zvracení bývá doprovázeno žaludeční nevolností (laicky zvedání žaludku, špatně od žaludku, pocit na zvracení, odborně _nausea_).
 
-  * Zvracení po požití zkažené potravy, nadměrného množství alkoholu nebo jiného jedu je třeba podpořit. Jakmile organizmus rozpozná vstřebávané jedovaté produkty, dochází k bezprostřednímu reflexnímu zvracení.
+  * Zvracení po [požití zkažené potravy][15], nadměrného množství alkoholu nebo jiného jedu je třeba podpořit. Jakmile organizmus rozpozná vstřebávané jedovaté produkty, dochází k bezprostřednímu reflexnímu zvracení.
   * Zvracení po požití velkého množství potravy nebo potravy, která následně nabobtná po napití (např. třešně či houby) se nesmí bránit. Dochází k nadměrnému roztažení žaludku a stravu není možné zpracovat. U citlivého člověka může k témuž dojít po pouhém vypití většího množství syceného nápoje (např. limonády).
   * Zvracení po psychickém vypětí, z kruté bolesti (například doprovázející [ledvinovou koliku][1]) nebo z důvodu [kinetózy][2] (mořské nemoci) nepřináší reálnou úlevu. Lze se mu bránit prodýcháním, zklidněním a polknutím libovolného chutného nápoje. Může pomoci [prášek na zklidnění žaludku][3], pokud se podá včas.
   * Zvracení doprovázející různá onemocnění břicha (např. [slepák][4]) včetně úrazů břicha ([poranění sleziny][5]) vyžaduje lékařského ošetření. Samotné zvracení je nepodstatné.
@@ -115,4 +115,5 @@ n/a
  [12]: nalehavost_lekarskeho_vysetreni
  [13]: stravovaci_navyky
  [14]: krvaceni_z_konecniku
+ [15]: bolest_zaludku
 
