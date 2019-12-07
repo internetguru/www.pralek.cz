@@ -11,7 +11,7 @@
 
 Péče o penis již od útlého věku je podmínkou jeho správného dalšího vývoje. Tím se zamezí vzniku zánětu a hlavně následných komplikací a potíží v dospívání.
 
-Na ošetřování, koupele, přetahování nebo nepřetahování předkožky novorozenců a kojenců je více lékařských názorů. Pediatr většinou doporučuje nechat penis bez přetahování předkožky při koupeli, chirurg doporučuje předkožku uvolnit a při koupeli přetahovat přes žalud.
+Na ošetřování, koupele, přetahování nebo nepřetahování předkožky novorozenců a kojenců je více názorů. Pediatr většinou doporučuje nechat penis bez přetahování předkožky při koupeli, chirurg doporučuje předkožku uvolnit a při koupeli přetahovat přes žalud.
 
 {id="popis\_penisu\_predkozka"}
 
