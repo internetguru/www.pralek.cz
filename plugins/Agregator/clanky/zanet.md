@@ -83,7 +83,7 @@ n/a
 
 Opravný zánět navazuje na poškození tkání jako je **pohmoždění, uhození, namožení, přetížení, popálení, omrznutí, poleptání nebo ozáření**. V počátku aseptického zánětu vždy dobře poslouží studené obklady, které zlepší prokrvení postiženého místa a tím urychlí ústup bolestivých zánětlivých změn.
 
-Jelikož v aseptickém zánětu nejsou žádné mikroorganizmy, netvoří tělo žádné protilátky, a proto ani antibiotika nejsou namístě. Při závažném úrazu (např. při větší spálenině) pomohou co nejrychleji opravit poškozené buňky a tkáně jiné podpůrné léky (náhrada tekutin, vitamíny, minerály, [léky proti bolesti][15]).
+Jelikož v aseptickém zánětu nejsou žádné mikroorganizmy, netvoří tělo žádné protilátky, a proto ani antibiotika nejsou namístě. Při závažném úrazu (např. při větší [spálenině][16]) pomohou co nejrychleji opravit poškozené buňky a tkáně jiné podpůrné léky (náhrada tekutin, vitamíny, minerály, [léky proti bolesti][15]).
 
 {id="alergicky\_a\_autoimunitni_zanet"}
 
@@ -148,4 +148,5 @@ n/a
  [13]: zarustajici_nehty
  [14]: bolest_v_krku_angina
  [15]: leky_proti_bolesti
+ [16]: ochlazeni_spaleniny
 
