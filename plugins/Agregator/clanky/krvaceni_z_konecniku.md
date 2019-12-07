@@ -9,7 +9,7 @@
 
 {kw="krvácení, zánět, boulička, strava-zažívání, neúrazové, nádory, cévy, břicho, zhoubné"}
 
-Krvácení z konečníku mívá různé příčiny. Nejčastěji se jedná o hemoroidy. Včasné odhalení příčiny vždy zvyšuje šanci na uzdravení, i když se jedná o nádor. Zatímco u hemoroidů je operace jednou z mnoha možností léčby, v případě nádoru bývá operace nezbytná.
+Krvácení z konečníku mívá různé příčiny. Nejčastěji se jedná o hemoroidy. Včasné odhalení příčiny vždy zvyšuje šanci na uzdravení, i když by se jednalo o nádor. Zatímco u hemoroidů je operace jednou z mnoha možností léčby, v případě nádoru bývá operace nezbytná.
 
 Konečník je uzavřen svalem – kruhovým svěračem. Úplné uzavření konečníku zajišťuje žíla, která ucpává netěsnost sevřeného svěrače. Tuto funkci může dobře plnit pouze zdravá žíla.
 
@@ -17,7 +17,7 @@ Konečník je uzavřen svalem – kruhovým svěračem. Úplné uzavření kone�
 
 ## Hemoroidy, jejich příčiny a projevy
 
-Hemoroidy jsou zánětlivé onemocnění žil umožňujících úplné uzavření konečníku. Vznikají podrážděním konečníku a projevují se různě podle stádia zánětu.
+Hemoroidy jsou zánětlivé onemocnění žil umožňujících úplné uzavření konečníku. Vznikají podrážděním konečníku a projevují se různě podle [stádia zánětu][9].
 
 Hemoroid _(hovorově hemeroid, česky zlatá žíla)_ je boulička těsně sousedící s konečníkem. Vzniká podrážděním, [zanícením][1] a následným [roztažením žíly][2] uvnitř konečníku. Taková žíla nemůže dostatečně plnit svou funkci utěsnění konečníku.
 
@@ -95,4 +95,5 @@ n/a
  [6]: komplikace_vredu
  [7]: krevni_tlak
  [8]: rychla_lekarska_pomoc
+ [9]: lecba_zanetu
 
