@@ -70,7 +70,7 @@ Rodina často nedokáže takto nemocného člověka zklidnit a volá záchranku.
 
 n/a
 
-Určitá forma neurózy, která má charakter panické poruchy, se nazývá _neurocirkulační astenie_ (NCA). Projevuje se občasnými potížemi vnímanými v oblasti srdce a krevního oběhu. Tyto **potíže jsou způsobeny rozrušením, nikoli onemocněním srdce** (jako [angina pectoris nebo infarkt][2]). Podmínkou k určení této diagnózy je vyloučení skutečného onemocnění srdce.
+Určitá forma neurózy, která má charakter panické poruchy, se nazývá _neurocirkulační astenie_ (NCA). Projevuje se občasnými srdečními a oběhovými potížemi. Tyto **potíže jsou způsobeny rozrušením, nikoli onemocněním srdce** (jako [angina pectoris nebo infarkt][2]). Podmínkou k určení této diagnózy je vyloučení skutečného onemocnění srdce.
 
 Jedná se o poruchu, která má kromě „srdečních“ příznaků i některé jiné neurotické příznaky. Projevuje se bodavými bolestmi nebo tlakem na hrudi, netypickým pocitem nedostatku vzduchu (dušností) a pocitem bušení srdce. Popsané potíže jsou vázány na rozrušení a mohou plynule přecházet v nadměrné dýchání s výše popsanými projevy.
 
