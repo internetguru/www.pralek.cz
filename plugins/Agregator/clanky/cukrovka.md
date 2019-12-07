@@ -7,14 +7,19 @@
 
 {kw="strava-zažívání, látková výměna, poruchy vědomí, první pomoc, mozek-nervy, cévy, břicho, orgány"}
 
-Ukázněný diabetik (česky cukrovkář) se nemusí během života setkat se žádnými komplikacemi cukrovky. Dlouhodobé komplikace cukrovky jsou způsobené nedodržováním doporučených léčebných zásad. Hladina cukru v krvi _(glykémie)_ u neukázněného diabetika značně kolísá. Naopak u ukázněného diabetika a u zdravého člověka kolísá glykémie přiměřeně.
+Ukázněný diabetik (česky cukrovkář) se nemusí během života setkat se žádnými komplikacemi cukrovky. Ty bývají způsobené nedodržováním doporučených léčebných zásad.
 
-{class="example"}
-Potrava se v zažívacím traktu rozloží a ve střevě vstřebá, krví je vedena do jater. Játra jsou chemická továrna, která dokáže vzájemně [přetvářet cukry, tuky a bílkoviny podle potřeby organizmu][1]. Jestli např. strava neobsahuje žádný cukr, játra ho začnou tvořit. Když je cukru ve stravě naopak nadbytek, játra ho rozkládají.
+Určitá hladina cukru v krvi je nezbytná jako energetická nabídka (potrava) pro buňky. Pro umožnění přechodu cukru do buňky je nezbytný inzulín (hormon vytvářený slinivkou břišní). Bez inzulínu cukr z krve do buňky nemůže proniknout.
 
-Určitá glykémie je nezbytná jako energetická nabídka (potrava) pro buňky. Pro umožnění přechodu cukru do buňky je nezbytný inzulín (hormon vytvářený slinivkou břišní). **Bez inzulínu cukr z krve do buňky nemůže proniknout.**
+{class="important"}
 
-Pokles hladiny cukru v krvi pod určitou hodnotu vyvolá pocit hladu. Trvá-li stav déle (člověk se nenasytí), **játra začnou cukr vyrábět z jiných zdrojů** podle aktuálně nejdostupnější nabídky – z bílkovin nebo z tuků.
+Hladina cukru v krvi (glykémie) přirozeně kolísá. U neukázněného diabetika glykémie kolísá značně, což je v obou krajních případech život ohrožující.
+
+Standardní pokles hladiny cukru v krvi pod určitou hodnotu vyvolá pocit hladu. Trvá-li stav déle (člověk se nenasytí), játra začnou cukr vyrábět z jiných zdrojů podle aktuální nabídky – z bílkovin nebo z tuků.
+
+{class="important"}
+
+Vyhýbání se cukrům ve stravě je u zdravého člověka zbytečné podobně jako vyhýbání se jakékoli [jiné ústrojné látce][cholesterol]. Zvyšuje to nároky na jádra a zbytečně zatěžuje organizmus.
 
 {id="nepoznana\_nebo\_nelecena_cukrovka"}
 
@@ -80,7 +85,7 @@ n/a
   1. Za jakých podmínek vznikají komplikace cukrovky?
   2. Co je glykémie?
   3. Co je inzulín a k čemu slouží?
-  4. Je kolísání glykémie vyšší u diabetika než u zdravého člověka?
+  4. Kdy kolísá glykémie diabetikovi více než zdravému člověku?
   5. Které orgány jsou nejvíce ničeny vysokou glykémií?
   6. Jaké jsou 3 možnosti léčení cukrovky?
   7. Jak pomoci diabetikovi, který je zmatený, potí se, není mu dobře?
