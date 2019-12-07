@@ -13,7 +13,7 @@ Určitá hladina cukru v krvi je nezbytná jako energetická nabídka (potrava) 
 
 {class="important"}
 
-Hladina cukru v krvi (glykémie) přirozeně kolísá. U neukázněného diabetika glykémie kolísá značně, což je v obou extrémech život ohrožující.
+Hladina cukru v krvi (glykémie) přirozeně kolísá. U neukázněného diabetika glykémie kolísá značně, což je v obou krajních případech život ohrožující.
 
 Standardní pokles hladiny cukru v krvi pod určitou hodnotu vyvolá pocit hladu. Trvá-li stav déle (člověk se nenasytí), játra začnou cukr vyrábět z jiných zdrojů podle aktuální nabídky – z bílkovin nebo z tuků.
 
@@ -85,7 +85,7 @@ n/a
   1. Za jakých podmínek vznikají komplikace cukrovky?
   2. Co je glykémie?
   3. Co je inzulín a k čemu slouží?
-  4. Je kolísání glykémie vyšší u diabetika než u zdravého člověka?
+  4. Kdy kolísá glykémie diabetikovi více než zdravému člověku?
   5. Které orgány jsou nejvíce ničeny vysokou glykémií?
   6. Jaké jsou 3 možnosti léčení cukrovky?
   7. Jak pomoci diabetikovi, který je zmatený, potí se, není mu dobře?
