@@ -5,8 +5,6 @@
 
 # Závislosti na kouření je snazší předejít
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 <!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
 
 {kw="prevence, zdravý životní styl, cévy, kašel, nádory, zhoubné, infarkt"}
@@ -27,7 +25,7 @@ Příjemný účinek kouření tabáku objevili v dávných dobách američtí i
 
   1. Španělští dobyvatelé Ameriky dovezli kouření ve středověku do Evropy, kde se stalo (nikým neřízenou) módou. Stále však je kouření dýmky rituálem, který vyžaduje určitý čas a plné soustředění kuřáka.
   2. Největší problém nastal přechodem od dýmky přes doutníky k (nezhasínajícím) cigaretám, které lze kouřit i při libovolných činnostech.
-  3. Soudobí indiáni (žijící v naší civilizaci) tomuto trendu propadli, jako každý jiný člověk.
+  3. Soudobí indiáni (žijící v naší civilizaci) tomuto trendu propadli stejně jako každý jiný člověk.
 
 V souladu s ochranou nekuřáků na sebe stát nepřímo bere roli šamana v omezování kuřáků (všudypřítomnými zákazy), zvyšováním ceny cigaret (spotřební daň) a dokonce i snižováním pohodlí samotného kouření (požadavkem na samozhasínací cigarety).
 
@@ -47,7 +45,7 @@ Vývoj stádií návyku na cigarety:
   2. Po překonání počátečních nepříjemných doprovodných příznaků přichází vychutnání každé občasně vykouřené cigarety. V tomto příjemném stádiu je možné vydržet bohužel vždy jen dočasně (nebo v područí šamana).
   3. V dalším stádiu si kuřák zakouří stále ještě příležitostně, nikdy však sám (vždy ve společnosti, nejraději ke kávě, ke sklence vína, k pivu, po sexu a podobně).
   4. Později začne kuřák kouřit i sám.
-  5. Ještě později si kuřák zakouří kdykoli chce, ale vždy před situací, kdy nebude moci delší dobu kouřit (na autobusové zastávce).
+  5. Ještě později si kuřák zakouří kdykoli chce, ale vždy před situací, kdy nebude moci delší dobu kouřit (např. před cestou autobusem).
   6. Pak kuřák kouří i v každé přestávce mezi prací a po každém jídle.
   7. V dalším stádiu kuřák hledá každou příležitost ke kouření (mezi prací dělá častější přestávky a vyhýbá se pobytu na místech, kde by nemohl kouřit).
   8. Plně závislý kuřák kouří kdykoli, i když sám (rozumem) nechce, například: 
