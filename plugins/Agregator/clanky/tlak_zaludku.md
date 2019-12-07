@@ -5,10 +5,6 @@
 
 # Žaludeční potíže: krátkodobý tlak žaludku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 <!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
 
 {kw="žaludek, břicho, strava-zažívání, žlučník, zvracení, říhání, strach"}
@@ -42,7 +38,7 @@ n/a
 
 n/a
 
-Tlak žaludku přirozeně předcházívá zvracení. Úporným zvracením může dojít až ke _zvracení žaludečního obsahu s příměsí krve_. Takové drobné krvácení vzniká porušením sliznice na přechodu mezi jícnem a žaludkem _(Mallory-Weisův příznak)_. Porušená sliznice se většinou sama zhojí, jakmile zvracení ustane. Krevní ztráty nebývají závažné a není třeba se strachovat.
+Tlak žaludku přirozeně předcházívá zvracení. Úporným zvracením může dojít až ke _zvracení žaludečního obsahu s malou příměsí krve_. Takové drobné krvácení vzniká porušením sliznice na přechodu mezi jícnem a žaludkem _(Mallory-Weisův příznak)_. Porušená sliznice se sama zhojí, jakmile zvracení ustane. Krevní ztráty nebývají závažné a není třeba se strachovat na rozdíl od [masivního krvácení žaludečního vředu][7].
 
 K úpornému [reflexnímu zvracení][1] dochází při obraně organizmu proti otravě požitím zkaženého či nevhodného jídla (včetně otravy alkoholem). Stejně tak může být reflexní zvracení vyvolané přejedením.
 
@@ -98,4 +94,5 @@ n/a
  [4]: zaludecni_vredy
  [5]: komplikace_vredu
  [6]: zlucove_kameny
+ [7]: komplikace_vredu
 
