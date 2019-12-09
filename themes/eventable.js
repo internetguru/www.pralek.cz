@@ -70,11 +70,12 @@
             value = 1
           }
           if (Config.debug) {
-            alert("category: '" + category + "',"
+            console.log("category: '" + category + "',"
               + "action: '" + action + "',"
               + "label: '" + label + "',"
               + "value: '" + value + "'")
           } else {
+            ga('set', 'page', document.querySelector("link[rel='canonical']").getAttribute("href"));
             ga('send', {
               'hitType': 'event',
               'eventCategory': category,
