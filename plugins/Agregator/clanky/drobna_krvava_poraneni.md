@@ -5,8 +5,6 @@
 
 # Drobná krvavá poranění
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="kůže-podkoží, úrazy, poranění, krvácení, bolest, první pomoc, mikroorganizmy, zánět, pohyb"}
 
 Správné ošetření drobného poranění zkracuje dobu léčení, šetří bolest a pomáhá předcházet zánětlivým komplikacím. Rána by měla být ošetřena do 6 hodin od úrazu.
@@ -33,7 +31,7 @@ O nutnosti vyhledání lékařského ošetření rozhoduje především velikost
 
 {class="example"}
 
-Ostrý předmět (střep, hrot nože) může i při [drobném poranění kůže][5] přerušit například šlachu nebo nerv a tím způsobit omezení hybnosti prstu. To platí pro zranění prstu, zápětstí nebo předloktí či celé ruky.
+Ostrý předmět (střep, hrot nože) může i při [drobném poranění kůže][5] přerušit například šlachu nebo nerv a tím způsobit omezení hybnosti prstu. To platí pro zranění celé končetiny, tedy prstu, ruky, zápětstí, předloktí, lokte nebo paže.
 
 Ošetřenou končetinu je dobré položit na břicho volně pokrčenou v lokti – nejlépe uloženou v šátku nebo ji přidržovat zdravou rukou. Obecně platí, že **čím více klidu má rána na hojení, tím lépe bude vypadat jizva**.
 

@@ -5,11 +5,11 @@
 
 # Krvácení z konečníku: hemoroidy nebo nádor
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
 
-{kw="krvácení, zánět, boulička, strava-zažívání, neúrazové, nádory, cévy, břicho, zhoubné"}
+{kw="krvácení, strach, zánět, boulička, strava-zažívání, neúrazové, nádory, cévy, břicho, zhoubné"}
 
-Krvácení z konečníku mívá různé příčiny. Nejčastěji se jedná o hemoroidy. Včasné odhalení příčiny vždy zvyšuje šanci na uzdravení, i když se jedná o nádor. Zatímco u hemoroidů je operace jednou z mnoha možností léčby, v případě nádoru bývá operace nezbytná.
+Krvácení z konečníku mívá různé příčiny. Nejčastěji se jedná o hemoroidy. Včasné odhalení příčiny vždy zvyšuje šanci na uzdravení, i když by se jednalo o nádor. Zatímco u hemoroidů je operace jednou z mnoha možností léčby, v případě nádoru bývá operace nezbytná.
 
 Konečník je uzavřen svalem – kruhovým svěračem. Úplné uzavření konečníku zajišťuje žíla, která ucpává netěsnost sevřeného svěrače. Tuto funkci může dobře plnit pouze zdravá žíla.
 
@@ -17,9 +17,9 @@ Konečník je uzavřen svalem – kruhovým svěračem. Úplné uzavření kone�
 
 ## Hemoroidy, jejich příčiny a projevy
 
-Hemoroidy jsou zánětlivé onemocnění žil umožňujících úplné uzavření konečníku. Vznikají podrážděním konečníku a projevují se různě podle stádia zánětu.
+Hemoroidy jsou zánětlivé onemocnění žil umožňujících úplné uzavření konečníku. Vznikají podrážděním konečníku a projevují se různě podle [stádia zánětu][1].
 
-Hemoroid _(hovorově hemeroid, česky zlatá žíla)_ je boulička těsně sousedící s konečníkem. Vzniká podrážděním, [zanícením][1] a následným [roztažením žíly][2] uvnitř konečníku. Taková žíla nemůže dostatečně plnit svou funkci utěsnění konečníku.
+Hemoroid _(hovorově hemeroid, česky zlatá žíla)_ je boulička těsně sousedící s konečníkem. Vzniká podrážděním, [zanícením][2] a následným [roztažením žíly][3] uvnitř konečníku. Taková žíla nemůže dostatečně plnit svou funkci utěsnění konečníku.
 
 {class="example"}
 
@@ -38,9 +38,9 @@ Krvácení z hemoroidu se typicky ukáže v souvislosti s hygienou po stolici �
 **Vyšetření konečníku (v případě potřeby i střeva) je nebolestivé a provádí se ambulantně.** Po stanovení diagnózy lékař navrhne nejvhodnější způsob léčení. Operační řešení hemoroidů může být pouze dočasné. K dlouhodobě úspěšné léčbě hemoroidů vede:
 
   * odstranění příčin jejich vzniku,
-  * pravidelná [nedráždivá zbytková strava][3] (strava obsahující nestravitelné složky; např. celozrnné pečivo, zelenina, luštěniny),
+  * pravidelná [nedráždivá zbytková strava][4] (strava obsahující nestravitelné složky; např. celozrnné pečivo, zelenina, luštěniny),
   * hojivé nebo protizánětlivé koupele,
-  * [čípky a masti k místnímu použití][4],
+  * [čípky a masti k místnímu použití][5],
   * protizánětlivé léky k celkovému použití.
 
 Pokud je krev ve stolici černá, nejedná se zpravidla o hemoroidy. Pravěpodobně jde o mnohem závažnější onemocnění způsobené nádorem či žaludečními vředy.
@@ -51,9 +51,9 @@ Pokud je krev ve stolici černá, nejedná se zpravidla o hemoroidy. Pravěpodob
 
 Přítomnost hlenu a krve ve stolici může svědčit pro nádorové onemocnění střeva nebo žaludeční vředy. V případě masivního krvácení do stolice potřebuje pacient okamžitou lékařskou pomoc.
 
-Přítomnost hlenu a červené krve ve stolici je známkou [nádoru střeva nebo konečníku][5]. Takové krvácení může trvat týdny až měsíce. Pokud však nádor poruší tepnu, může dojít k masivnímu krvácení do stolice. Místo stolice se objeví velké množství jasně červené (tepenné) krve a **pacient je bezprostředně ohrožen na životě**.
+Přítomnost hlenu a červené krve ve stolici je známkou [nádoru střeva nebo konečníku][6]. Takové krvácení může trvat týdny až měsíce. Pokud však nádor poruší tepnu, může dojít k masivnímu krvácení do stolice. Místo stolice se objeví velké množství jasně červené (tepenné) krve a **pacient je bezprostředně ohrožen na životě**.
 
-[Žaludeční vřed][6] či nádor žaludku se může projevit masivním krvácením do stolice. Krev prochází celým zažívacím traktem a proto je v konečníku **dehtovitě černá stolice** _(černá krev neboli melaena)_. Pacient je opocený, bledý, slabý a omdlévá poklesem [krevního tlaku][7]. Ač nemívá žádné bolesti, **je ohrožen na životě** a potřebuje [okamžitou lékařskou pomoc][8].
+[Žaludeční vřed][7] či nádor žaludku se může projevit masivním krvácením do stolice. Krev prochází celým zažívacím traktem a proto je v konečníku **dehtovitě černá stolice** _(černá krev neboli melaena)_. Pacient je opocený, bledý, slabý a omdlévá poklesem [krevního tlaku][8]. Ač nemívá žádné bolesti, **je ohrožen na životě** a potřebuje [okamžitou lékařskou pomoc][9].
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -87,12 +87,13 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zanet
- [2]: krecove_zily
- [3]: stravovaci_navyky
- [4]: lekove_formy
- [5]: rakovina_tlusteho_streva_a_konecniku
- [6]: komplikace_vredu
- [7]: krevni_tlak
- [8]: rychla_lekarska_pomoc
+ [1]: lecba_zanetu
+ [2]: zanet
+ [3]: krecove_zily
+ [4]: stravovaci_navyky
+ [5]: lekove_formy
+ [6]: rakovina_tlusteho_streva_a_konecniku
+ [7]: komplikace_vredu
+ [8]: krevni_tlak
+ [9]: rychla_lekarska_pomoc
 

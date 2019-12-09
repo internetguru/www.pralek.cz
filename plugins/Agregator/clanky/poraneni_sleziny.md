@@ -5,13 +5,9 @@
 
 # Záludnost poranění sleziny u dětí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="úrazy, dětské, krvácení, břicho, bolest, cévy"}
 
-Poranění sleziny může být velmi zákeřným úrazem. Přes relativní nenápadnost rozvoje příznaků může zraněná slezina ohrozit nemocného na životě. Operační odstranění poraněné sleziny naštěstí nevede následně k poruchám zdraví.
+Poranění sleziny může být velmi zákeřným úrazem. Přes relativní nenápadnost rozvoje příznaků může zraněná slezina ohrozit nemocného na životě. Operace poraněné sleziny včetně jejího odstranění naštěstí nevede následně k poruchám zdraví.
 
 Slezina je bohatě prokrvený křehký orgán uložený ve vazivovém pouzdře v dutině břišní (v levém podžebří). Podílí se [na rozvoji imunity][1], obměně krvinek, tvorbě protilátek a slouží jako rezervoár krve. Přesto, že slezina plní nepostradatelnou funkci v lidském těle, nebyly popsány závažnější poruchy zdraví v souvislosti s poúrazovou ztrátou sleziny.
 
@@ -44,7 +40,7 @@ n/a
 Poranění sleziny se dělí na _jednodobé_ a _dvoudobé_. V obou případech vzniká (jednou dříve, podruhé později) život ohrožující krvácení s následným _šokovým stavem_. Příznaky šokového stavu jsou rychlá [srdeční akce][4] (rychlý tlukot srdce), [pokles krevního tlaku][5], [opocení][6], bledost, slabost, chlad končetin a následně [kolaps][7], porucha vědomí a smrt.
 
   1. Jednodobé poranění sleziny vznikne **při úplném roztržení tkáně sleziny** i s jejím pouzdrem. Záhy dochází ke krvácení do dutiny břišní a k rozvoji šokového stavu z krevní ztráty. Taková poranění bývají velmi dramatická.
-  2. Dvoudobé poranění sleziny vznikne **při drobném poranění**.
+  2. Dvoudobé poranění sleziny vznikne **při drobném poranění**. 
       1. _V první době_ dojde vlivem zdánlivě malicherného úrazu pouze k natržení tkáně a k drobnému **krvácení uvnitř sleziny**. Pouzdro sleziny tedy není úrazem roztrženo. Zvětšující se krevní výron postupně pouzdro napíná. Projevy úrazu nemusejí být zpočátku žádné. Během dnů vzniká neurčitá bolest nebo tlak v levém podžebří, bolest často vystřeluje do levého ramene.
       2. Jestliže v tomto stádiu vývoje úrazu není pacient vyšetřen a není stanovena správná diagnóza, může _ve druhé době_ dojít k prasknutí pouzdra se stejně dramatickým **krvácením do dutiny břišní**, jako u jednodobého poranění.
 
@@ -58,7 +54,7 @@ n/a
 
 V případě rozvoje příznaků _šokového stavu_ je nutné bránit dalšímu rozvoji šoku a zajistit bezprostřední [transport do nemocnice nejlépe formou RLP][8]. Čím dříve je zahájeno léčení, tím vyšší je naděje na úspěch léčby.
 
-Zatímco diagnózna jednodobého poranění sleziny bývá zřejmá, u dvoudobého poranění je důležité najít souvislost mezi současnými potížemi a nedávným úrazem. **Ultrazvukové vyšetření břicha nejlépe potvrdí nebo vyloučí diagnózu** lékaře po základním laboratorním vyšetření. Někdy je výhodnější CT břicha, které se ostatně u podezření na poranění dutiny břišní již provádí rutinně.
+Zatímco diagnózna jednodobého poranění sleziny bývá zřejmá, u dvoudobého poranění je důležité najít souvislost mezi současnými potížemi a nedávným úrazem. **Ultrazvukové vyšetření břicha nejlépe potvrdí nebo vyloučí diagnózu** lékaře po základním laboratorním vyšetření. Někdy je výhodnější CT břicha, které se ostatně u podezření na poranění dutiny břišní provádí rutinně.
 
 U případů, kdy je přítomen jen malý krevní výron a pouzdro sleziny je nepoškozeno se postupuje konzervativně – postačuje klid a sledování na lůžku v rámci hospitalizace. Pacient je opakovaně kontrolován lékařem, ultrazvukem je sledován vývoj krevního výronu. Při postupném vstřebávání a zmenšování krevního výronu může být pacient za několik dnů uzdraven a bez operace propuštěn domů.
 

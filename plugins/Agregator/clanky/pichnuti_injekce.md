@@ -5,9 +5,9 @@
 
 # Píchnutí injekce svépomocí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
 
-{kw="první pomoc, cévy, poranění, boulička"}
+{kw="první pomoc, kůže-podkoží, cévy, poranění, boulička"}
 
 Píchnutí injekce (aplikace léku v injekční formě) svépomocí nebo vzájemnou pomocí do podkoží nebo do svalu je jednoduché a bezbolestné. Součástí přípravy je dodržení hygienických pravidel a volba vhodného místa vpichu.
 
@@ -48,7 +48,7 @@ Před píchnutím injekce má být pacient zklidněný a vyrovnaný. Samotné [p
   2. sejmout ochranný kryt z jehly a píchnout injekci,
   3. **pokusit se nabrat nejprve trochu tekutiny do injekce** natažením pístu zpět _(aspirovat)_ a 
       1. pokud se v injekci objeví krev, je vhodné opakovat vpich kousek vedle,
-      2. jinak lze lék podat stlačením pístu injekční stříkačky,
+      2. pokud se v injekci krev neobjeví, lze lék podat stlačením pístu injekční stříkačky,
   4. vytáhnout jehlu,
   5. na místo vpichu přiložit tampon a přitlačit ho na chvíli k zamezení krvácení.
 

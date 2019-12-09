@@ -1,11 +1,13 @@
 
 {data-type="article" data-image="/files/preview/koutek/kyla/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-01-08" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="kyla" short="Kýla"}
+{ctime="2008-01-08" mtime="2008-01-08" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="kyla" short="Kýla"}
 
 # Kýla: boulička v třísle, v pupku nebo jeho okolí
 
-{kw="boulička, břicho, bolest, strach, zvracení, pohyb"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+
+{kw="boulička, břicho, strach, bolest, zvracení, pohyb"}
 
 Plánovaná operace kýly časně po potvrzení diagnózy je jediným správným řešením problému. Ostatní řešení jsou pouze dočasná a nevyhnutelnou operaci mohou pouze zkomplikovat.
 

@@ -5,8 +5,6 @@
 
 # Normální tělesná teplota, podchlazení, horečka
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
-
 {kw="teplota, podchlazení, přehřátí, zánět, bolest, prevence, tekutiny, mikroorganizmy"}
 
 Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá nebo klesá vlivem zevního prostředí a stoupá při některých onemocněních.
@@ -62,7 +60,7 @@ Další vývoj příznaků onemocnění teprve ukáže o jakou mikrobiální neb
   * nastupující bolest ucha svědčí pro zánět středouší nebo zubů,
   * [bolest v krku a potíže při polykání ukazují na angínu][8],
   * bolest na průduškách a [kašel svědčí pro zánět průdušek][10],
-  * nemožnost plného nádechu, zchvácenost a další zhoršování celkového stavu může ukazovat na zánět plic,
+  * nemožnost plného nádechu, zchvácenost a další zhoršování celkového stavu může ukazovat na zánět plic (laicky _zápal plic_),
   * bolesti v bedrech, časté nebo obtížné močení nebo pálení při močení jsou [příznaky infekce močových cest][11],
   * bolesti břicha, [průjmy a zvracení][3] mohu ale nemusí být známkou infekce v zažívacím traktu; může se ale také jednat o náhlou příhodu břišní,
   * bolest hlavy, zchvácenost, nemožnost hlavu předklonit – zánět mozkových obalů (mozkových plen nebo laicky mozkových blan) nebo mozku (např. [klíšťový zánět mozku][12]),

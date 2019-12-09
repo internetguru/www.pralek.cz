@@ -5,9 +5,9 @@
 
 # Léčba zánětu podle druhu a stádia
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
 
-{kw="zánět, tekutiny, teplota, bolest, neúrazové"}
+{kw="zánět, bolest, teplota, tekutiny, spáleniny, neúrazové"}
 
 Jednotlivé fáze a druhy některých zánětů na sebe navazují nebo mezi sebou v průběhu vývoje vzájemně přecházejí v souvislosti s úspěšností hojení. U jiných zánětů převažuje jediná fáze po téměř celou dobu trvání nemoci. Jednotlivá stádia mají své specifické projevy, proto je i léčba v různých fázích zánětu rozdílná.
 
@@ -48,7 +48,7 @@ Rozšířením cév v zánětlivém ložisku se zpomalí krevní proud a **doch�
 
 n/a
 
-Zvýšenou propustností cév dochází k **úniku tekutiny a některých krvinek z cév do tkáně** _(infiltrativní fáze zánětu)_. Vzniklý otok bývá dobře viditelný. V případě nejasnosti pomůže srovnání s druhou (zdravou) stranou, např. s druhou rukou nebo s druhou stranou tváře.
+Zvýšenou propustností cév dochází k **úniku tekutiny a některých krvinek z cév do tkáně** _(infiltrativní fáze zánětu)_. Vzniklý otok bývá dobře viditelný. V případě nejasnosti rozpoznání otoku pomůže srovnání s druhou (zdravou) stranou, např. s druhou rukou nebo s druhou stranou tváře.
 
 {class="example"}
 
@@ -62,7 +62,7 @@ n/a
 
 Poslední fází zánětu je hojení tkáně _(proliferativní fáze zánětu)_. Při ní se **tvoří nové cévy a dorůstá nová zdravá tkáň**. Příkladem je dorůstání tkáně po zánětem způsobeném defektu, nebo po chirurgickém odstranění původně zanícené a následně odumřelé tkáně.
 
-V závislosti na době a závažnosti zánětlivého onemocnění může dojít k vyčerpání organizmu. Podle charakteru vyčerpání je vhodné doplnit chybějící minerály a energii pomocí doplňků stravy či vitamínů.
+V závislosti na době a závažnosti zánětlivého onemocnění může dojít k vyčerpání organizmu. Podle charakteru vyčerpání je vhodné doplňovat chybějící minerály a energii pomocí doplňků stravy či vitamínů.
 
 {id="otazky" var="inputvar-otazky_h"}
 

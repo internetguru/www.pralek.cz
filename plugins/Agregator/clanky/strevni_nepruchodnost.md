@@ -5,9 +5,9 @@
 
 # Střevní neprůchodnost bývá komplikací jiné choroby
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
 
-{kw="bolest, břicho, nádory, strava-zažívání, zvracení, zhoubné, cévy"}
+{kw="bolest, zvracení, břicho, strava-zažívání, nádory, zhoubné, cévy"}
 
 Střevní neprůchodnost (laicky zauzlení střev) je stav, při kterém dochází k zástavě posunu střevního obsahu v trávicím traktu. Nemocný velmi nepříjemně vnímá nadýmání, zástavu odchodu větrů a stolice a později i zvrací.
 
@@ -70,7 +70,7 @@ n/a
 
 Pacienta se střevní neprůchodností musí vyšetřit zkušený lékař, nejlépe chirurg. Převážná většina _ileozních_ stavů je po potřebných vyšetřeních řešena operací. Někdy je vhodnější vyčkávat a podávat léky podporující činnost střeva (u funkčních a neurogenních typů).
 
-Při operaci střevní neprůchodnosti se vždy chirurg snaží odstranit překážku. Při manipulaci s nepřipraveným tlustým střevem musí být vždy alespoň dočasně založen [vývod střeva bokem _(kolostomie)_][3] . Často následuje definitivní operační řešení problému s časovým odstupem několika týdnů až měsíců, kdy je možnost tlusté střevo na operaci připravit (vypláchnout a zbavit bakterií). 
+Při operaci střevní neprůchodnosti se vždy chirurg snaží odstranit překážku. Při manipulaci s nepřipraveným tlustým střevem musí být vždy alespoň dočasně založen [vývod střeva bokem _(kolostomie)_][3] . Často následuje definitivní operační řešení problému s časovým odstupem několika týdnů až měsíců od zhojení, kdy je nutno tlusté střevo na operaci připravit (vypláchnout a zbavit bakterií). 
 
 {id="otazky" var="inputvar-otazky_h"}
 

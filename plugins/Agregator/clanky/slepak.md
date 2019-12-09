@@ -5,10 +5,6 @@
 
 # Slepák: zánět červovitého přívěsku slepého střeva
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
-
 {kw="břicho, bolest, střevo, zánět, zvracení, teplota"}
 
 Mnohotvárnost příznaků zánětu červovitého přívěsku slepého střeva (hovorově slepák) bývá příčinou komplikací nebo zanedbání jeho léčení. V případě nejasných bolestí břicha je třeba vyhledat odborného lékaře (chirurga).
@@ -43,10 +39,10 @@ n/a
 
 Jestli byly počáteční příznaky podceněny nebo přehlédnuty, [zánětlivé změny][7] se mohou dále rozvíjet a soubor příznaků se začne měnit.
 
-Zanícený přívěsek může kdykoli
+Zanícený přívěsek může kdykoli:
 
-  * **odumřít** včetně nervových zakončení a tím _náhle přestat bolet_ (chirurgické rčení: „mrtvý červ nebolí“) před následným prudkým zhoršením stavu, nebo také
-  * **prasknout**; střevní obsah se vylije do dutiny břišní. Pak se vyvíjí místní nebo celkový _velmi bolestivý [zánět pobřišnice][8]_ (blány, která vystýlá dutinu břišní). 
+  * **odumřít** včetně nervových zakončení a tím _náhle přestat bolet_ (chirurgické rčení: „mrtvý červ nebolí“) a následně
+  * **prasknout**, kdy se střevní obsah vylije do dutiny břišní. Pak se vyvíjí místní nebo celkový _velmi bolestivý [zánět pobřišnice][8]_ (blány, která vystýlá dutinu břišní). 
 
 Bolesti se mohou stupňovat – bolí každý pohyb. Pacient nemůže chodit a hledá úlevovou polohu; drží se v předklonu, dítě si sedá na bobek. Tehdy je většinou vysoká teplota, bolí pravý podbřišek nebo celé břicho (podle místa a ohraničení zánětu). **Stav je závažný a stále se zhoršuje**. Pacient je ohrožen na životě.
 

@@ -5,11 +5,9 @@
 
 # Vhodná a nevhodná obuv
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="dětské, pohyb, prevence, zdravý životní styl, strava-zažívání, bolest"}
+{kw="pohyb, prevence, zdravý životní styl, úrazy, bolest, dětské"}
 
 Vhodná obuv je taková, která je adekvátní danému sportu nebo jiné aktivitě. Sportování, chůze nebo běhání musí být příjemné, bota nesmí být volná ani nikde tlačit. Materiál, ze kterého je obuv vyrobena, nesmí alergizovat.
 

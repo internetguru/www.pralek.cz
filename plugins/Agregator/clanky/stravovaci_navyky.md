@@ -5,11 +5,9 @@
 
 # Stravovací návyky a trávicí systém
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
-
-{kw="zdravý životní styl, strava-zažívání, žlučník, břicho, tekutiny, žaludek"}
+{kw="zdravý životní styl, strava-zažívání, žlučník, žaludek, břicho, tekutiny"}
 
 Zdravý člověk má obrovské rezervy, může jíst a pít kdykoli a cokoli a trávení nevnímá. V případě vyčerpání rezerv a pocitu potíží v souvislosti s jídlem je třeba pátrat ve stravovacích návycích dříve, než začít užívat léky podporující trávení.
 
@@ -61,7 +59,7 @@ n/a
   * Je dobré jíst opakovaně sezónní jídla a
   * preferovat potraviny z domácích zdrojů než dovážené.
   * [Dodržování pitného režimu][8], tekutiny nelze vynechat.
-  * Dodržení stravovacího režimu nutné naopak není; **půst je zdravý**.
+  * Dodržení stravovacího režimu nutné naopak není; **občasný půst je zdravý**.
   * Dobré jídlo lze doplnit sklenkou vína, piva nebo teplého čaje.
 
 {class="example"}

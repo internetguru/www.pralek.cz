@@ -5,13 +5,11 @@
 
 # Příčinou krvácení dásní je nedostatek vitamínu C
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="krvácení, prevence, cévy, neúrazové, mikroorganizmy, poranění, zánět, strava-zažívání"}
 
 Nedostatek vitamínu C oslabuje dásně. Ty mohou při čištění zubů nebo kousání tvrdé potravy krvácet. Po zvýšení konzumace přírodního vitamínu C krvácení dásní ustane.
 
-Zdraví zubů je přímo ovlivněno složením přijímané potravy a [tekutin][1], [stravovacími návyky][2] a péčí o chrup. Některé druhy zvířat a některé lidské rasy mají zdravé a silné zuby, ačkoli o ně nijak nepečují. Jiné mají sklon k vysoké kazivosti zubů (mívají oslabenou sklovinu a dokonce se snadno lámou).
+Zdraví zubů je přímo ovlivněno složením přijímané potravy a [tekutin][1], [stravovacími návyky][2] a péčí o chrup. Některé druhy zvířat a některé lidské rasy mají zdravé a silné zuby, ačkoli o ně nijak nepečují. Jiné mají sklon k vysoké kazivosti zubů (mívají oslabenou sklovinu a někdy se dokonce snadno lámou).
 
 **Paradentóza (neboli parodontitida, paradontóza) je choroba postihující okolí zubu**; tedy dáseň, kořen zubu (zubní cement), vazivové snopce (držící zub v kosti) a nakonec i samotnou kost (čelist). Paradentóza má tři stádia.
 
@@ -25,7 +23,7 @@ Zdraví zubů je přímo ovlivněno složením přijímané potravy a [tekutin][
 
 n/a
 
-Jako příčina paradentózy bývá obecně označováno napadení dásní různými [mikroorganizmy][4] při nesprávné hygieně ústní dutiny a podle toho bývá paradentóza i léčena. Osídlení dásní choroboplodnými mikroorganizmy je však podle mého názoru následkem poškození oslabené dásně.
+Jako příčina paradentózy bývá obecně označováno napadení dásní různými [mikroorganizmy][4] při nesprávné hygieně ústní dutiny a podle toho bývá paradentóza i léčena. Osídlení dásní choroboplodnými mikroorganizmy je však podle mého názoru až následkem poškození oslabené dásně.
 
 {class="important"}
 
@@ -88,7 +86,7 @@ n/a
 
  [1]: prijem_tekutin
  [2]: stravovaci_navyky
- [3]: zanet
+ [3]: lecba_zanetu
  [4]: mikroorganizmy
  [5]: koureni_cigaret
 

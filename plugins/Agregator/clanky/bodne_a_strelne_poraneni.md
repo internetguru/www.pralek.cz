@@ -5,8 +5,6 @@
 
 # Bodné a střelné poranění a jeho závažnost
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="poranění, bolest, krvácení, kůže-podkoží, pohyb, břicho, cévy"}
 
 Poranění zabodnutým předmětem nebo zástřel je natolik závažné, jak a které vnitřní orgány jsou poškozeny.
@@ -27,7 +25,7 @@ Kůže jej velmi pevně drží, kolem zabodnutého předmětu je velmi napjatá.
 
 n/a
 
-To neplatí pro velmi ostré předměty, které při pronikání kůži nenapnou a pak je otvor stejně velký jako pronikající předmět (například injekční jehla). **Poranění velmi ostrým předmětem téměř nebolí.** Čím ostřejší je pronikající nástroj, tím menší je způsobená bolest.
+Velmi ostré předměty při pronikání kůži nenapnou a pak je otvor stejně velký jako pronikající předmět (například injekční jehla). **Poranění velmi ostrým předmětem téměř nebolí.** Čím ostřejší je pronikající nástroj, tím menší je způsobená bolest.
 
 Velmi ostré jsou skleněné střepy, které při pronikání kůži řežou pod určitým úhlem, a vzniklá rána může být zcela jiná než původní střep. Nebezpečí poranění střepem spočívá v jeho **snadném pronikání do hlubokých struktur**.
 

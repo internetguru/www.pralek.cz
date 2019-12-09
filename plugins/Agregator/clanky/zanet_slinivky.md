@@ -5,7 +5,9 @@
 
 # Prudký zánět slinivky břišní: akutní pankreatitida
 
-{kw="bolest, zánět, břicho, žlučník, stravovací návyky, zhoubné, cukrovka"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+
+{kw="bolest, zánět, břicho, zvracení, žlučník, stravovací návyky, zhoubné, cukrovka"}
 
 Prudký zánět slinivky břišní je závažné život ohrožující onemocnění. Vzniká nejčastěji v návaznosti na přejedení nevhodnou kombinací jídel (a tvrdého alkoholu).
 
@@ -18,7 +20,7 @@ Slinivka břišní _(pancreas)_ je důležitá [žláza trávicí soustavy][1] a
 
 Název slinivky břišní je poněkud zavádějící, protože **slinivka břišní** nemá nic společného se slinami a není uložena v dutině břišní.
 
-Slinivka břišní je uložena vzadu za dutinou břišní mezi žaludkem, páteří a velkými cévami. Tím je velmi dobře chráněna před poraněním při úrazu.
+Slinivka břišní je uložena vzadu za dutinou břišní mezi žaludkem, páteří a velkými cévami. Tím je velmi dobře chráněna před poraněním při úrazu břicha.
 
 {id="formy\_zanetlivych\_onemocneni\_slinivky\_brisni"}
 

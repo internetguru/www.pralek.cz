@@ -5,9 +5,9 @@
 
 # Nezhoubné nádory a bouličky s nimi zaměňované
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
 
-{kw="nádory, boulička, neúrazové, strach, nezhoubné, bolest"}
+{kw="nádory, boulička, neúrazové, strach, nezhoubné, spáleniny, bolest"}
 
 Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Preventivní odstranění některých nádorů se stalo rutinou, u ostatních většinou postačí pravidelné kontroly.
 
@@ -31,7 +31,7 @@ n/a
 :   Je nezhoubný nádor _vycházející z vaziva_ (nejčastěji kožního).
 :   Nejčastěji se vyskytuje jako přívěsek na kůži obličeje, krku, podpaží nebo třísel.
 :   Je měkký, nebolestivý, barvy okolní kůže nebo tmavší.
-:   Bývá viditelný od nejmenších velikostí do několika centimetrů.
+:   Velký bývá od drobného sotva viditelného až do několika centimetrů.
 :   Mívá tvar válečku nebo kuličky, často visí na tenké stopce. Stopka se může pootočením zaškrtit, pak do fibromu nemůže přitékat krev a [fibrom se zanítí][2], zarudne a bolí. Zánět může přejít do okolí nebo může fibrom odpadnout a dojde k samovolnému zhojení.
 :   Fibrom na viditelném místě [hyzdí stejně jako bradavice][3].
 :   Jeho chirurgické odstranění je jednoduché. Odstraňuje se ze stejných důvodů jako _lipom_.
@@ -51,7 +51,7 @@ n/a
 :   Je nezhoubný nádor _vycházející z chrupavky_.
 :   Vyskytuje se zřídkakdy.
 :   Může se vyskytnout všude, kde je chrupavka, nejčastěji v okolí nártu, hlezna (kotníky) nebo v koleni.
-:   Nebývá viditelný ani hmatný, ale může se stát překážkou v kloubu.
+:   Nebývá viditelný ani hmatný, ale může se stát překážkou v kloubu (kloubní myška).
 :   Chirurgické odstranění bývá jednoduché.
 
 **Osteom**
@@ -91,7 +91,7 @@ n/a
   * **Aterom** je mazová žláza s uzavřeným vývodem, ve které se hromadí její obsah. Vznikne v případě nadměrného [hromadění mazu uvnitř žlázy][10].
   * **Cysta** je dutina vyplněná tekutinou.
   * **Absces** je [dutina vyplněná hnisem][11].
-  * **Keloid** je zbytnělá jizva vzniklá poruchou hojení.
+  * **Keloid** je zbytnělá jizva vzniklá poruchou hojení (nejčastěji po spálenině).
 
 {id="otazky" var="inputvar-otazky_h"}
 
