@@ -120,7 +120,7 @@
           if (!validateInput(emailInput, true)) {
             return
           }
-          initStep3(donationText, questionInput.value, emailInput.value, 1)
+          initStep3(donationText, questionInput.value, emailInput.value, 1, type)
         }, false)
         nextStepSkip.addEventListener("click", function () {
           if (emailInput.value || questionInput.value) {
@@ -128,17 +128,21 @@
               return
             }
           }
-          initStep3(donationText, questionInput.value, emailInput.value, 0)
+          initStep3(donationText, questionInput.value, emailInput.value, 0, type)
         }, false)
         wrapper.appendChild(nextStepDt)
         wrapper.appendChild(nextStepDd)
       },
-      initStep3 = function (donationText, answer, email, next) {
+      initStep3 = function (donationText, answer, email, next, beneficial) {
         var feedback = answer
         if (email) {
           feedback = answer + "\nEmail: " + email
         }
-        IGCMS.Eventable.sendGAEvent("feedback", "value", feedback, next)
+        if (!feedback) {
+          feedback = "[skipped]"
+        }
+        feedback += "\nBeneficial: " + beneficial
+        IGCMS.Eventable.sendGAEvent("feedback", "message", feedback, next)
         wrapper.parentNode.removeChild(wrapper)
         for (var i = 0; i < feedbackElm.children.length; i++) {
           feedbackElm.children.item(i).style.display = ""
