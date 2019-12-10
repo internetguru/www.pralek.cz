@@ -19,7 +19,7 @@ Standardní pokles hladiny cukru v krvi pod určitou hodnotu vyvolá pocit hladu
 
 {class="important"}
 
-Vyhýbání se cukrům ve stravě je u zdravého člověka zbytečné podobně jako vyhýbání se jakékoli \[jiné ústrojné látce\]\[cholesterol\]. Zvyšuje to nároky na jádra a zbytečně zatěžuje organizmus.
+Vyhýbání se cukrům ve stravě je u zdravého člověka zbytečné podobně jako vyhýbání se jakékoli [jiné ústrojné látce](cholesterol). Zvyšuje to nároky na jádra a zbytečně zatěžuje organizmus.
 
 {id="nepoznana\_nebo\_nelecena_cukrovka"}
 
