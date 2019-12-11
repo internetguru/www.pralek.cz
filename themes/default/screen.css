@@ -774,8 +774,15 @@ ol.otazky button:last-child:active,
 ol.otazky button:last-child:focus {
   background-color: #ffcdd2;
 }
-ol.otazky button:not(.selected):disabled {
-  color: #dadada;
+ol.otazky button:first-child.selected {
+  background: #43A047;
+  border-color: #43A047;
+  color: white
+}
+ol.otazky button:last-child.selected {
+  background: #F44336;
+  border-color: #F44336;
+  color: white
 }
 .otazky li span {
   display: flex;
