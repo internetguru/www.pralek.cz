@@ -71,10 +71,6 @@ n/a
 
 n/a
 
-{id="feedback" var="inputvar-feedback_text"}
-
-n/a
-
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
