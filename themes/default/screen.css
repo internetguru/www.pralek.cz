@@ -676,7 +676,8 @@ div.part.internetguru:before {
 }
 div.part.o_praleku,
 div.part.odkazy,
-div.part.clanky {
+div.part.clanky,
+div.part.zpetna_vazba {
   padding: 0.1em 0 1em 0;
   background: url(https://www.toptal.com/designers/subtlepatterns/patterns/greyzz.png) #f9f9f9;
 }
@@ -1087,9 +1088,9 @@ h2#docinfo {
 }
 ul.docinfo.nomultiple.global {
   text-align: left;
-  border-top: thin solid #d6d6d6;
+  /* border-top: thin solid #d6d6d6; */
   padding-top: 3em;
-  margin-top: 3em;
+  margin-top: 0;
 }
 .share {
   align-items: center;
@@ -1135,9 +1136,13 @@ ul.docinfo.nomultiple.global {
   animation-timing-function: ease;
 }
 /***************************/
+div.part.zpetna_vazba {
+  padding-bottom: 2em;
+  margin-top: 3em;
+}
 #feedback {
-  border-top: thin solid #ddd;
-  padding: 1em 0;
+  /* border-top: thin solid #ddd; */
+  /* padding: 1em 0; */
 }
 #feedback button {
   background: none;

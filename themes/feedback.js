@@ -1,6 +1,8 @@
 (function() {
+  return
+  
   require("IGCMS", function() { require("IGCMS.Eventable", function() {
-    
+
     var Feedback = function () {
       
       var
@@ -120,7 +122,7 @@
           if (!validateInput(emailInput, true)) {
             return
           }
-          initStep3(donationText, questionInput.value, emailInput.value, 1, type)
+          initStep3(donationText, questionInput.value, emailInput.value, 1)
         }, false)
         nextStepSkip.addEventListener("click", function () {
           if (emailInput.value || questionInput.value) {
@@ -128,21 +130,17 @@
               return
             }
           }
-          initStep3(donationText, questionInput.value, emailInput.value, 0, type)
+          initStep3(donationText, questionInput.value, emailInput.value, 0)
         }, false)
         wrapper.appendChild(nextStepDt)
         wrapper.appendChild(nextStepDd)
       },
-      initStep3 = function (donationText, answer, email, next, beneficial) {
+      initStep3 = function (donationText, answer, email, next) {
         var feedback = answer
         if (email) {
           feedback = answer + "\nEmail: " + email
         }
-        if (!feedback) {
-          feedback = "[skipped]"
-        }
-        feedback += "\nBeneficial: " + beneficial
-        IGCMS.Eventable.sendGAEvent("feedback", "message", feedback, next)
+        IGCMS.Eventable.sendGAEvent("feedback", "value", feedback, next)
         wrapper.parentNode.removeChild(wrapper)
         for (var i = 0; i < feedbackElm.children.length; i++) {
           feedbackElm.children.item(i).style.display = ""
