@@ -53,10 +53,6 @@
   
   <xsl:template match="p[@id='feedback']">
     <xsl:copy-of select="."/>
-    <h2 id="docinfo" class="hide">Informace o článku</h2>
-    <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
-    <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>
-    
     <div id="feedback">
       <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
       <div class="list contentbalancer-simple">
@@ -66,6 +62,9 @@
         </ul>
       </div>
     </div>
+    <h2 id="docinfo" class="hide">Informace o článku</h2>
+    <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
+    <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>    
   </xsl:template>
   
   <xsl:template match="//ul[@class = 'docinfo nomultiple global']"/>
