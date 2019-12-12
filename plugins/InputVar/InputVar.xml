@@ -7,7 +7,7 @@
   <var id="otazky_desc">Cílem tohoto článku je srozumitelně odpovědět na následující otázky. Kliknutím na tlačítko můžete vyjádřit svůj názor, jak se mu to podařilo. Pořadí otázek odpovídá pořadí jednotlivých částí textu článku.</var>
   <var id="odkazy_h">Související články</var>
   <var id="odkazy_desc">Článek ve svém textu odkazuje následující zdroje (v uvedeném pořadí). Zdroje danou problematiku rozvádějí či zmiňují v dalších souvislostech.</var>
-  <var id="feedback_h">Příspěvek na web</var>
+  <var id="feedback_h">Příspějte na tento web</var>
   <var id="feedback_desc">n/a</var>
   
   <fn id="tmpdateformat" fn="strftime" format="%e. [%m] %Y"/>
