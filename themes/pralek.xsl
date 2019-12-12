@@ -51,7 +51,7 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="h[@id='zpetna_vazba']::following-sibling[1]">
+  <xsl:template match="h[@id='zpetna_vazba']/following-sibling::p[1]">
     <xsl:copy-of select="."/>
     <div id="feedback">
       <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
