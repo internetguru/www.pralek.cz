@@ -51,6 +51,13 @@
     </xsl:copy>
   </xsl:template>
   
+  <xsl:template match="h2[@id='dotace']">
+    <h2 id="docinfo" class="hide">Informace o článku</h2>
+    <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
+    <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>    
+    <xsl:copy-of select="."/>
+  </xsl:template>
+  
   <xsl:template match="p[preceding-sibling::h2[1][@id='dotace']]">
     <xsl:copy-of select="."/>
     <div id="feedback">
@@ -62,9 +69,6 @@
         </ul>
       </div>
     </div>
-    <h2 id="docinfo" class="hide">Informace o článku</h2>
-    <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
-    <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>    
   </xsl:template>
   
   <xsl:template match="//ul[@class = 'docinfo nomultiple global']"/>
