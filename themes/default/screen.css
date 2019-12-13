@@ -677,7 +677,7 @@ div.part.internetguru:before {
 div.part.o_praleku,
 div.part.odkazy,
 div.part.clanky,
-div.part.zpetna_vazba {
+div.part.dotace {
   padding: 0.1em 0 1em 0;
   background: url(https://www.toptal.com/designers/subtlepatterns/patterns/greyzz.png) #f9f9f9;
 }
@@ -737,8 +737,7 @@ ol.otazky button {
   color: #43A047;
   border-color: #66BB6A;
 }
-.newsletter input[type="submit"],
-#feedback .contentbalancer-simple li.donation a {
+.newsletter input[type="submit"] {
   border: none;
 }
 .newsletter input[type="submit"]:hover,
@@ -1088,9 +1087,9 @@ h2#docinfo {
 }
 ul.docinfo.nomultiple.global {
   text-align: left;
-  /* border-top: thin solid #d6d6d6; */
+  border-top: thin solid #d6d6d6;
   padding-top: 3em;
-  margin-top: 0;
+  margin-top: 4em;
 }
 .share {
   align-items: center;
@@ -1136,9 +1135,9 @@ ul.docinfo.nomultiple.global {
   animation-timing-function: ease;
 }
 /***************************/
-div.part.zpetna_vazba {
-  padding-bottom: 2em;
-  margin-top: 3em;
+div.part.dotace {
+  padding-bottom: 0.1em;
+  margin-top: 0em;
 }
 #feedback {
   /* border-top: thin solid #ddd; */
@@ -1151,7 +1150,7 @@ div.part.zpetna_vazba {
   margin-bottom: 1em;
 }
 #feedback button + button {
-  margin-left: 0.5em !important;
+  margin-left: 0.7em !important;
 }
 #feedback .hide {
   display: none;
@@ -1178,7 +1177,7 @@ div.part.zpetna_vazba {
 #feedback-email {
   border: none;
   border-bottom: thin solid #B0BEC5;
-  background: #F5F5F5;
+  background: #ffffff;
   padding: 1em 1.25em;
   border-radius: 0.5em 0.5em 0 0;
 }
@@ -1192,7 +1191,7 @@ div.part.zpetna_vazba {
 #feedback .feedback-no,
 #content #feedback .feedback-yes,
 #feedback button:first-child {
-  border: none;
+  /* border: none; */
 }
 p:not(.description), div:not(.list), .author ul, ol, dl {
   clear: both;
