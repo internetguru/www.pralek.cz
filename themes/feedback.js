@@ -7,8 +7,12 @@
       wrapper = null,
       origContent = null,
       feedbackElm = null,
+      heading = null,
+      hOriginText = null,
       Config = {
-        elmSelector: null
+        elmSelector: null,
+        hSelector: null,
+        hText: null
       },
       getElm = function (type, text, className) {
         var elm = document.createElement(type)
@@ -143,13 +147,17 @@
         for (var i = 0; i < feedbackElm.children.length; i++) {
           feedbackElm.children.item(i).style.display = ""
         }
-        feedbackElm.getElementsByTagName("p")[0].innerText = donationText
+        heading.innerText = hOriginText
+        // feedbackElm.getElementsByTagName("p")[0].innerText = donationText
       },
       init = function () {
         feedbackElm = document.querySelector(Config.elmSelector)
-        if (!feedbackElm) {
+        heading = document.querySelector(Config.hSelector)
+        if (!feedbackElm || !heading) {
           return
         }
+        hOriginText = heading.innerText
+        heading.innerText = Config.hText
         for (var i = 0; i < feedbackElm.children.length; i++) {
           feedbackElm.children.item(i).style.display = "none"
         }
@@ -181,7 +189,9 @@
 
     var feedback = new Feedback()
     feedback.init({
-      elmSelector: "#feedback"
+      elmSelector: "#feedback",
+      hSelector: "#dotace",
+      hText: "Zpětná vazba"
     })
 
   }) })
