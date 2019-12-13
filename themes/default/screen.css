@@ -789,6 +789,10 @@ ol.otazky button:last-child.selected {
   flex-direction: column;
   max-width: 100%;
 }
+ol.otazky li:last-child {
+  margin-top: 1em;
+  font-size: 1.15em;
+}
 @media (min-width: 30em) {
   .otazky li span {
     display: block;
@@ -1192,3 +1196,4 @@ ul.docinfo.nomultiple.global {
 p:not(.description), div:not(.list), .author ul, ol, dl {
   clear: both;
 }
+

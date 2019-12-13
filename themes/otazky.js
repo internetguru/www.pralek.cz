@@ -8,26 +8,39 @@
     var selectedClass = "selected"
 
     var answers = []
+    var statusBar = null
+    var statusBarTimer = null
+    var statusBarHideTimer = null
 
     function init () {
-      var lists = document.getElementsByTagName("ol")
-      for (var i = 0; i < lists.length; i++) {
-        if (!lists[i].classList.contains(questionClass)) {
-          continue
-        }
-        var items = lists[i].getElementsByTagName("li")
-        for (var j = 0; j < items.length; j++) {
-          addButtons(items[j])
-        }
+      var list = document.querySelector("ol." + questionClass)
+      if (!list) {
+        return
       }
+      var items = list.getElementsByTagName("li")
+      for (var j = 0; j < items.length; j++) {
+        addButtons(items[j])
+      }
+      addStatusBar(list)
       win.addEventListener("beforeunload", sendEvents, false);
+    }
+
+    function addStatusBar (list) {
+      statusBar = document.createElement("li")
+      statusBar.innerHTML = "Změny uloženy"
+      statusBar.style.visibility = "hidden"
+      statusBar.style.listStyle = "none"
+      list.appendChild(statusBar)
     }
 
     function addButtons (question) {
       var yesButton = document.createElement("button")
-      yesButton.addEventListener("click", actionYes.bind(question.innerHTML), false)
+      var eventData = {
+        question: question.innerHTML
+      }
+      yesButton.addEventListener("click", actionYes.bind(eventData), false)
       var noButton = document.createElement("button")
-      noButton.addEventListener("click", actionNo.bind(question.innerHTML), false)
+      noButton.addEventListener("click", actionNo.bind(eventData), false)
       var span = document.createElement("span")
       question.appendChild(span)
       span.appendChild(yesButton)
@@ -44,7 +57,8 @@
       action(event, this, 0)
     }
 
-    function action (event, question, value) {
+    function action (event, eventData, value) {
+      var question = eventData.question
       var button = event.target
       if (button.classList.contains(selectedClass)) {
         delete answers[question]
@@ -62,6 +76,15 @@
     }
 
     function actionAfter (button) {
+      win.clearTimeout(statusBarTimer)
+      win.clearTimeout(statusBarHideTimer)
+      statusBar.style.visibility = "hidden"
+      statusBarTimer = win.setTimeout(function () {
+        statusBar.style.visibility = ""
+        statusBarHideTimer = win.setTimeout(function () {
+          statusBar.style.visibility = "hidden"
+        }, 4000)
+      }, 2000)
       button.classList.toggle(selectedClass)
       button.blur()
     }
@@ -78,3 +101,4 @@
 
   })
 })(window);
+
