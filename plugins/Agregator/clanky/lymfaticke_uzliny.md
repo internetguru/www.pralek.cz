@@ -63,7 +63,7 @@ n/a
   3. Proč zvětšená uzlina někdy bolí a někdy nebolí?
   4. Co bývá nejčastější příčinou zvětšení podčelistních uzlin?
 
-{var="inputvar-feedback\_h" id="zpetna\_vazba"}
+{var="inputvar-feedback_h" id="dotace"}
 
 ## n/a
 
