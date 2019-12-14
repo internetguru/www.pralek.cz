@@ -1140,8 +1140,8 @@ div.part.dotace {
   margin-top: 0em;
 }
 #feedback {
-  /* border-top: thin solid #ddd; */
-  /* padding: 1em 0; */
+  border-bottom: thin solid #cecece;
+  padding-bottom: 1em;
 }
 #feedback button {
   background: none;
