@@ -52,6 +52,14 @@ n/a
   3. Proč není dobré snažit se bolestivé lupání rozcvičit?
   4. V čem většinou spočívá operace lupavého palce?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

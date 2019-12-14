@@ -81,6 +81,14 @@ n/a
   3. Jaké je společné řešení bolesti hlavy zapříčiněné přehřátím organizmu, nadměrným pitím alkoholu či kouřením?
   4. Za jakých okolností je nutné při bolestech hlavy vyhledat lékařskou pomoc?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

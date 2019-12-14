@@ -66,6 +66,14 @@ n/a
   3. Jaké jsou nejčastější projevy mozkové mrtvice?
   4. Proč mohou projevy mrtvice dočasně samovolně ustoupit a následně se znovu projevit?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

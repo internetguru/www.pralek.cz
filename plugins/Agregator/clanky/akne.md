@@ -67,6 +67,14 @@ n/a
   4. Který lékař specialista se zabývá léčbou akné?
   5. Jaký má na akné vliv sexuální chování?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

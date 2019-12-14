@@ -71,6 +71,14 @@ n/a
   4. Co zhorší potíže s hemoroidy?
   5. Jak lze odlišit hemoroidy od rakoviny konečníku?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

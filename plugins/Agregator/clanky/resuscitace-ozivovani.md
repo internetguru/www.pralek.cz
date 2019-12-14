@@ -78,6 +78,14 @@ n/a
   3. Proč je srdeční masáž důležitější než dýchání?
   4. Proč zkolabovaný člověk nemá být resuscitován?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

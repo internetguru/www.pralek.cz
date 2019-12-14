@@ -58,6 +58,14 @@ n/a
   4. V případě které boule vzniklé úrazem nepomůže studený obklad?
   5. Co má společného boule nad loktem a nad jablkem kolena?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

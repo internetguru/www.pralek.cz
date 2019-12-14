@@ -65,6 +65,14 @@ n/a
   3. Čím mohou antibiotika snižovat imunitu?
   4. Proč nelze na stejnou chorobu dávat opakovaně stejná antibiotika?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

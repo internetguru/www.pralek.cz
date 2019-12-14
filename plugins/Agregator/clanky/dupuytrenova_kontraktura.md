@@ -57,6 +57,14 @@ n/a
   4. Jaké jsou počáteční příznaky onemocnění Dupuytrenovou kontrakturou?
   5. Jak lze předejít recidivě Dupuytrenovy kontraktury po operaci?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

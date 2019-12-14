@@ -61,6 +61,14 @@ n/a
   4. V čem spočívá záludnost nástupu rakoviny prsu?
   5. Proč je někdy v pozdním stádiu onemocnění rakovinou v prsu místo boule vlastně defekt?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

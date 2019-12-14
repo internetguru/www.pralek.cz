@@ -88,6 +88,14 @@ n/a
   4. Jak lze rozlišit počínající ileus od pouhé funkční poruchy trávení?
   5. Proč nelze akutní neprůchodnosti tlustého střeva vyřešit jedinou operací?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

@@ -62,6 +62,14 @@ n/a
   3. Jaká je nejčastější komplikace rýmy?
   4. Co je senná rýma a jak proti ní bojovat?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

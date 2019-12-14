@@ -84,6 +84,14 @@ n/a
   6. Při bolestech v zádech pomůže suché nebo vlhké teplo?
   7. Proč je pohodlný a bezbolestný spánek jednou ze zásad zmírnění bolestí v zádech?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

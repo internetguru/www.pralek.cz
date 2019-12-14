@@ -117,6 +117,14 @@ n/a
   6. Jaký obklad patří na čerstvě natlučené koleno nebo na podvrtnutý kotník a proč?
   7. Proč je vhodné na stejnou nemoc dávat někdy obklady studené a jindy teplé?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

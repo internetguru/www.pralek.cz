@@ -80,6 +80,14 @@ n/a
   4. Jakou barvu má spodina bércového vředu?
   5. Jaké jsou možné příčiny vzniku bércového vředu?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

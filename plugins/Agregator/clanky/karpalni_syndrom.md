@@ -72,6 +72,14 @@ n/a
   4. Jaké mohou být příčiny brnění prstů ruky?
   5. Který lékař řeší potíže s karpálním tunelem?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

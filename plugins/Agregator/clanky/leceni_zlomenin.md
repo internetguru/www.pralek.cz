@@ -78,6 +78,14 @@ n/a
   4. Co je to „koupací sádra“?
   5. Jaké jsou možné komplikace léčení zlomenin?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

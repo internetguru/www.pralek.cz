@@ -85,6 +85,14 @@ n/a
   5. Proč je nutné pít, pokud trvá průjem?
   6. Co může způsobit opakované zadržování stolice?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

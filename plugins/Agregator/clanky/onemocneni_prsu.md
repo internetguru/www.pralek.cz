@@ -80,6 +80,14 @@ n/a
   4. Jakou má příčinu změněná lymfatická uzlina v podpaží?
   5. Jaká je nejčastější příčina vzniku abscesu v prsu?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
