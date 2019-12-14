@@ -105,6 +105,14 @@ n/a
   4. Proč není dobré pít kolu při zvracení a průjmu s teplotou?
   5. Jak lze zklidnit žaludek při kocovině?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {id="odkazy" var="inputvar-odkazy_h" class="filter"}
 
 ## n/a
