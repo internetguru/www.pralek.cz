@@ -7,8 +7,10 @@
   <var id="otazky_desc">Cílem tohoto článku je srozumitelně odpovědět na následující otázky. Kliknutím na tlačítko můžete vyjádřit svůj názor, jak se mu to podařilo. Pořadí otázek odpovídá pořadí jednotlivých částí textu článku.</var>
   <var id="odkazy_h">Související články</var>
   <var id="odkazy_desc">Článek ve svém textu odkazuje následující zdroje (v uvedeném pořadí). Zdroje danou problematiku rozvádějí či zmiňují v dalších souvislostech.</var>
-  <fn id="tmpdateformat" fn="strftime" format="%e. [%m] %Y"/>
+  <var id="feedback_h">Přispějte na tento web</var>
+  <var id="feedback_desc">n/a</var>
   
+  <fn id="tmpdateformat" fn="strftime" format="%e. [%m] %Y"/>
   <fn id="createlink" fn="pregreplace" pattern=".+" replacement="https://www.pralek.cz/$0?usp=sharing" />
   <fn id="createfblink" fn="pregreplace" pattern=".+" replacement="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/$0" />
   <fn id="createtwitterlink" fn="pregreplace" pattern=".+" replacement="https://twitter.com/intent/tweet?text=www.pralek.cz/$0" />

@@ -66,6 +66,14 @@ n/a
   3. Proč přicházejí pacienti se spáleninou k ošetření buďto ihned nebo až po 3 dnech od úrazu?
   4. Jak dlouho je potřeba chladit spáleninu?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

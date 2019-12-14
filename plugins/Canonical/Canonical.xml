@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Canonical>
+  <ns domain="dev.pralek.cz">www.pralek.cz</ns>
   <ns domain="beta.pralek.cz">www.pralek.cz</ns>
 </Canonical>

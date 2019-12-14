@@ -103,6 +103,14 @@ n/a
   7. Jaké posádky může vyslat dispečer na místo nehody?
   8. Jaké jsou nejčastější důvody výjezdů záchranky?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

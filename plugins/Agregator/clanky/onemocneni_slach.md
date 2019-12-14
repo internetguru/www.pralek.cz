@@ -92,6 +92,14 @@ n/a
   5. Jakým sportem může být způsobeno onemocnění zvané tenisový loket?
   6. Proč je přetržení Achillovy šlachy o tolik závažnější nežli šlachy bicepsu?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

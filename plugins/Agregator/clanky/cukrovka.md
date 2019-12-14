@@ -19,7 +19,7 @@ Standardní pokles hladiny cukru v krvi pod určitou hodnotu vyvolá pocit hladu
 
 {class="important"}
 
-Vyhýbání se cukrům ve stravě je u zdravého člověka zbytečné podobně jako vyhýbání se jakékoli [jiné ústrojné látce](cholesterol). Zvyšuje to nároky na játra a zbytečně zatěžuje organizmus.
+Vyhýbání se cukrům ve stravě je u zdravého člověka zbytečné podobně jako vyhýbání se jakékoli [jiné ústrojné látce][1]. Zvyšuje to nároky na játra a zbytečně zatěžuje organizmus.
 
 {id="nepoznana\_nebo\_nelecena_cukrovka"}
 
@@ -27,9 +27,9 @@ Vyhýbání se cukrům ve stravě je u zdravého člověka zbytečné podobně j
 
 Člověk nemocný cukrovkou _(diabetik)_ trpí nedostatkem inzulínu nebo jeho zhoršenou kvalitou. To způsobuje, že buňky nedokáží cukr z krve získat. Neléčená cukrovka čili vysoká glykémie pak ničí mnohé orgány:
 
-  * cévy až s následkem amputace [z nedostatečného prokrvení][1] končetin z důvodu kornatění cév _(ateroskleróza)_,
+  * cévy až s následkem amputace [z nedostatečného prokrvení][2] končetin z důvodu kornatění cév _(ateroskleróza)_,
   * zrak až s následkem oslepnutí,
-  * [ledviny][2] až po jejich selhání,
+  * [ledviny][3] až po jejich selhání,
   * nervy s poruchou až vymizením čití (hmatu) a další.
 
 {class="example"}
@@ -62,7 +62,7 @@ Nejzávažnější forma
 
 ## Krátkodobé komplikace cukrovky
 
-Krátkodobé komplikace cukrovky způsobuje dočasný nedostatek nebo naopak přebytek cukru v krvi. V obou případech může následovat pocení, nevolnost až s následným [bezvědomím][3].
+Krátkodobé komplikace cukrovky způsobuje dočasný nedostatek nebo naopak přebytek cukru v krvi. V obou případech může následovat pocení, nevolnost až s následným [bezvědomím][4].
 
 Nedostatek cukru v krvi _(hypoglykémie)_
 :   Jestliže dávku inzulínu nenásleduje patřičný příjem potravy, dojde spotřebováním cukru z krve k nadměrnému poklesu jeho hladiny.
@@ -90,6 +90,14 @@ n/a
   6. Jaké jsou 3 možnosti léčení cukrovky?
   7. Jak pomoci diabetikovi, který je zmatený, potí se, není mu dobře?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -106,7 +114,8 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: srdecni_infarkt
- [2]: mocove_kameny
- [3]: mdloba_neboli_kolaps
+ [1]: cholesterol
+ [2]: srdecni_infarkt
+ [3]: mocove_kameny
+ [4]: mdloba_neboli_kolaps
 

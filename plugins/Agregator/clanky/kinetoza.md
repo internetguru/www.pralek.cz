@@ -71,6 +71,14 @@ n/a
   4. Jaké jsou možnosti prevence vzniku kinetózy?
   5. Co odlišuje kinetózu od onemocnění se stejnými příznaky?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

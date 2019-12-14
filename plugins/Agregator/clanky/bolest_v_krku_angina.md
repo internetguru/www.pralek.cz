@@ -69,6 +69,14 @@ n/a
   4. Jaké mohou vzniknout komplikace angíny?
   5. Co nahradí funkci krčních mandlí po jejich odstranění?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

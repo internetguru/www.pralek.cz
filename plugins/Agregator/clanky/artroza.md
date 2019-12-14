@@ -101,6 +101,14 @@ n/a
   4. V jakém věku může artróza začínat?
   5. Jaké jsou možnosti léčení artrózy?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

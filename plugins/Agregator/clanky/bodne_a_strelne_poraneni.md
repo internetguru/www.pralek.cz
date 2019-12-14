@@ -64,6 +64,14 @@ n/a
   3. Proč není nutné vždy odstraňovat v těle uvízlé kovové střepiny?
   4. S čím může souviset drobná ranka na zápěstí?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

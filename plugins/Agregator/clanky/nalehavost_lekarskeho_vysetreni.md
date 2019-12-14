@@ -110,6 +110,14 @@ n/a
   4. Na jakém oddělení bude ošetřeno krvavé poranění nosu?
   5. Proč není dobré dávat přednost pohotovostnímu ošetření u onemocnění, které snese odklad do následujícího pracovního dne?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

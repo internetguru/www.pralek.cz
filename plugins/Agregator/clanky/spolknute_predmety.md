@@ -66,6 +66,14 @@ n/a
   5. Čím může být dítěti nebezpečná spolknutá mince?
   6. Jaká je první pomoc při polknutí kyseliny?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

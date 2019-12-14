@@ -79,6 +79,14 @@ n/a
   4. V čem spočívá rozdíl pomoci diabetikovi upadajícímu do bezvědomí od jinak zdravého kolabujícího člověka?
   5. V čem spočívá rozdíl pomoci epileptikovi v záchvatu od jinak zdravého zkolabovaného člověka?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

@@ -125,6 +125,14 @@ n/a
   4. Proč mít v lékárničce lék proti alergii, a to i pokud v domácnosti není žádný alergik?
   5. Jak se správně likvidují prošlé léky?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

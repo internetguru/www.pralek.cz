@@ -75,6 +75,14 @@ n/a
   4. Je nebezpečné svědící mateřské znaménko?
   5. Měsíce se nehojící boláček v obličeji staršího člověka může být zhoubný nádor?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

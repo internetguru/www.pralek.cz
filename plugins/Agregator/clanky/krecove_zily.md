@@ -87,6 +87,14 @@ n/a
   4. Po operaci křečových žil mohou tyto vzniknout znovu?
   5. Co podporuje vznik křečových žil?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
