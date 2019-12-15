@@ -69,7 +69,7 @@
         </ul>
       </div>
       <script src="https://donorbox.org/widget.js" paypalExpress="false"></script>
-      <iframe allowpaymentrequest="" height="900px" name="donorbox" frameborder="0" allowtransparency="true" scrolling="no" src="https://donorbox.org/embed/pralekcz" style="width: 500px; max-width: 100%; min-width: 310px; max-height:none!important" width="100%"></iframe>
+      <iframe allowpaymentrequest="" height="900px" name="donorbox" frameborder="0" allowtransparency="true" scrolling="no" src="https://donorbox.org/embed/pralekcz" style="width: 500px; max-width: 100%; min-width: 310px; max-height:none!important" width="100%">i</iframe>
     </div>
   </xsl:template>
   
