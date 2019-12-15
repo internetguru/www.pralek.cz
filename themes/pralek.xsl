@@ -62,14 +62,14 @@
     <xsl:copy-of select="."/>
     <div id="feedback">
       <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
+      <script src="https://donorbox.org/widget.js" paypalExpress="false"></script>
+      <iframe allowpaymentrequest="" height="900px" name="donorbox" frameborder="0" allowtransparency="true" scrolling="no" src="https://donorbox.org/embed/pralekcz" style="width: 500px; max-width: 100%; min-width: 310px; max-height:none!important" width="100%">i</iframe>
       <div class="list contentbalancer-simple">
         <ul>
           <li><a href="pralek#sponzoring">Možnosti podpory</a></li>
           <li class="donation"><a href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
         </ul>
       </div>
-      <script src="https://donorbox.org/widget.js" paypalExpress="false"></script>
-      <iframe allowpaymentrequest="" height="900px" name="donorbox" frameborder="0" allowtransparency="true" scrolling="no" src="https://donorbox.org/embed/pralekcz" style="width: 500px; max-width: 100%; min-width: 310px; max-height:none!important" width="100%">i</iframe>
     </div>
   </xsl:template>
   
