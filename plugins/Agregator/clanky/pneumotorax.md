@@ -92,6 +92,14 @@ n/a
   3. Čím dýchá pacient s proraženým hrudníkem s otevřeným pneumotoraxem?
   4. Jak ohrožuje pacienta na životě tenzní (záklopkový) pneumotorax?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

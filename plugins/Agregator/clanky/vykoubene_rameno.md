@@ -78,6 +78,14 @@ n/a
   3. Na čem závisí úspěšné napravení vykloubeného ramene bez celkového znecitlivění?
   4. Proč bývá nutné opakovanou luxaci ramene operovat?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

@@ -84,6 +84,14 @@ n/a
   4. Pro co svědčí náhlý ústup bolestí břicha při podezření na apendicitidu?
   5. Za jakých podmínek je vhodná plánovaná operace apendixu?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

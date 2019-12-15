@@ -72,6 +72,14 @@ n/a
   3. Je nutné při výskytu jen jednoho ze tří příznaků otřesu mozku vyhledat lékařské vyšetření?
   4. Je nutné lékařské vyšetření po tupém poranění hlavy bez vedlejších příznaků?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

@@ -84,6 +84,14 @@ n/a
   5. V čem je dárcovství kostní dřeně složitější než dárcovství krve?
   6. Proč může být darování krve opakované a darování dřeně jen zřídkakdy?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

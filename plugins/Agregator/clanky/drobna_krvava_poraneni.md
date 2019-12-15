@@ -65,6 +65,14 @@ n/a
   4. Kdy může být drobná ranka v kůži závažným úrazem?
   5. Proč je třeba ránu při první pomoci zakrýt sterilním obvazem?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

@@ -51,12 +51,15 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="div[ol[contains(@class, 'otazky')]]">
-    <xsl:copy-of select="."/>
+  <xsl:template match="h2[@id='dotace']">
     <h2 id="docinfo" class="hide">Informace o článku</h2>
     <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
-    <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>
-    
+    <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>    
+    <xsl:copy-of select="."/>
+  </xsl:template>
+  
+  <xsl:template match="p[preceding-sibling::h2[1][@id='dotace']]">
+    <xsl:copy-of select="."/>
     <div id="feedback">
       <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
       <div class="list contentbalancer-simple">

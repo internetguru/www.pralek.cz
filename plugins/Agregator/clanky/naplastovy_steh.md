@@ -80,6 +80,14 @@ n/a
   4. Které rány je vhodné fixovat náplasťovým stehem?
   5. Jaký je rozdíl mezi steri stripem a „mašličkou“?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

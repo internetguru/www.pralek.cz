@@ -64,6 +64,14 @@ n/a
   3. Proč mají osoby starší 50 let jedno bezplatné vyšetření okultního krvácení do stolice ročně?
   4. Co následuje v případě pozitivního výsledku testu na okultní krvácení?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

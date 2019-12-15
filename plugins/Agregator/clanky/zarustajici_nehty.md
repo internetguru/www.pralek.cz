@@ -67,6 +67,14 @@ n/a
   3. Proč jsou vhodné v počátku onemocnění koupele v dezinfekčním roztoku a později koupele v hojivém roztoku?
   4. Může po zdařilé plastice opět zarůstat nehet?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

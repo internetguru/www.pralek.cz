@@ -105,6 +105,14 @@ n/a
   4. Čím je dočasně zvyšován krevní tlak?
   5. Jakým nejjednodušším způsobem lze snížit vysoký krevní tlak?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

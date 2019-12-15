@@ -101,6 +101,14 @@ n/a
   4. Čím může být nebezpečné pohmoždění břicha?
   5. Jaká je příčina zranění nohy vstrčené do drátů dítěte vezeného na kole?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

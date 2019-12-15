@@ -73,6 +73,14 @@ n/a
   6. Proč albíni nesmějí na sluníčko?
   7. Čím je dána hodnota faktoru ochranného krému na opalování pro konkrétního člověka?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

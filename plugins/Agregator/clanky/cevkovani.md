@@ -75,6 +75,14 @@ n/a
   3. Proč nelze trvalou cévku vytrhnout z močového měchýře?
   4. Za jak dlouho a proč je třeba vyměnit trvalou cévku?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {id="odkazy" var="inputvar-odkazy_h" class="filter"}
 
 ## n/a

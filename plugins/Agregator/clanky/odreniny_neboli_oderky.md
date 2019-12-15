@@ -79,6 +79,14 @@ n/a
   3. Proč se poraní častěji rekreační sportovec než profesionál?
   4. Proč velmi povrchová oděrka nekrvácí?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

@@ -70,6 +70,14 @@ n/a
   3. Jaká je první pomoc při časté zlomenině zápěstí?
   4. Lze laicky odlišit bolestivost páteře po pádu od zlomeniny obratle?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

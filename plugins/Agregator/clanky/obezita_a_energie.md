@@ -71,6 +71,14 @@ n/a
   5. Proč nemá smysl se denně vážit?
   6. Jak je vhodné měřit hubnutí na rozdíl od vážení?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

@@ -104,6 +104,14 @@ n/a
   4. V čem spočívá závažnost zlomeniny lebky?
   5. Čím je ohrožen skokan do neznámé nebo mělké vody po hlavě?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

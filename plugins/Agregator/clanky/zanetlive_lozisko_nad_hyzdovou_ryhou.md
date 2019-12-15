@@ -60,6 +60,14 @@ n/a
   3. Proč bývá sakrální dermoid označován také jako džípová nemoc?
   4. Proč je k definitivnímu vyléčení sakrálního dermoidu nezbytné operační řešení?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

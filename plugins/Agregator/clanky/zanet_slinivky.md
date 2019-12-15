@@ -110,6 +110,14 @@ n/a
   4. Jaké jsou rizikové faktory pro vznik zánětu slinivky břišní?
   5. Jak se projevuje prudký zánět slinivky břišní?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

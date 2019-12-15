@@ -105,6 +105,14 @@ n/a
   5. Proč člověk sám nabude vědomí po jeho ztrátě způsobené předýcháním?
   6. Co je holotropní dýchání a co léčebného přináší?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

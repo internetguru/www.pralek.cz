@@ -676,7 +676,8 @@ div.part.internetguru:before {
 }
 div.part.o_praleku,
 div.part.odkazy,
-div.part.clanky {
+div.part.clanky,
+div.part.dotace {
   padding: 0.1em 0 1em 0;
   background: url(https://www.toptal.com/designers/subtlepatterns/patterns/greyzz.png) #f9f9f9;
 }
@@ -736,8 +737,7 @@ ol.otazky button {
   color: #43A047;
   border-color: #66BB6A;
 }
-.newsletter input[type="submit"],
-#feedback .contentbalancer-simple li.donation a {
+.newsletter input[type="submit"] {
   border: none;
 }
 .newsletter input[type="submit"]:hover,
@@ -774,13 +774,26 @@ ol.otazky button:last-child:active,
 ol.otazky button:last-child:focus {
   background-color: #ffcdd2;
 }
-ol.otazky button:not(.selected):disabled {
-  color: #dadada;
+ol.otazky button:first-child.selected {
+  background: #43A047;
+  border-color: #43A047;
+  color: white
+}
+ol.otazky button:last-child.selected {
+  background: #F44336;
+  border-color: #F44336;
+  color: white
 }
 .otazky li span {
   display: flex;
   flex-direction: column;
   max-width: 100%;
+}
+ol.otazky li:last-child {
+  margin-top: 1em;
+  margin-left: 1em;
+  font-weight: 500;
+  color: #777;
 }
 @media (min-width: 30em) {
   .otazky li span {
@@ -1082,7 +1095,7 @@ ul.docinfo.nomultiple.global {
   text-align: left;
   border-top: thin solid #d6d6d6;
   padding-top: 3em;
-  margin-top: 3em;
+  margin-top: 2em;
 }
 .share {
   align-items: center;
@@ -1128,9 +1141,13 @@ ul.docinfo.nomultiple.global {
   animation-timing-function: ease;
 }
 /***************************/
+div.part.dotace {
+  padding-bottom: 0.1em;
+  margin-top: 0em;
+}
 #feedback {
-  border-top: thin solid #ddd;
-  padding: 1em 0;
+  border-bottom: thin solid #cecece;
+  padding-bottom: 2em;
 }
 #feedback button {
   background: none;
@@ -1139,7 +1156,7 @@ ul.docinfo.nomultiple.global {
   margin-bottom: 1em;
 }
 #feedback button + button {
-  margin-left: 0.5em !important;
+  margin-left: 0.7em !important;
 }
 #feedback .hide {
   display: none;
@@ -1166,7 +1183,7 @@ ul.docinfo.nomultiple.global {
 #feedback-email {
   border: none;
   border-bottom: thin solid #B0BEC5;
-  background: #F5F5F5;
+  background: #ffffff;
   padding: 1em 1.25em;
   border-radius: 0.5em 0.5em 0 0;
 }
@@ -1180,7 +1197,7 @@ ul.docinfo.nomultiple.global {
 #feedback .feedback-no,
 #content #feedback .feedback-yes,
 #feedback button:first-child {
-  border: none;
+  /* border: none; */
 }
 p:not(.description), div:not(.list), .author ul, ol, dl {
   clear: both;

@@ -75,6 +75,14 @@ n/a
   3. Proč zapíjení dobrého sýra dobrým vínem neškodí zažívání?
   4. Jak se kameny ve žlučníku projevují?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a

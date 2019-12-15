@@ -7,8 +7,12 @@
       wrapper = null,
       origContent = null,
       feedbackElm = null,
+      heading = null,
+      hOriginText = null,
       Config = {
-        elmSelector: null
+        elmSelector: null,
+        hSelector: null,
+        hText: null
       },
       getElm = function (type, text, className) {
         var elm = document.createElement(type)
@@ -44,23 +48,20 @@
       processYes = function (event) {
 //         var question = "Co byste vzkázali autorovi nebo ostatním čtenářům? Jak byl pro Vás článek nebo celý Pralék přínosný?"
         var question = "Co byste vzkázali autorovi nebo ostatním čtenářům?"
-//         var placeholder = "* Článek pomohl mně nebo mému blízkému s uzdravením.\n* Jako zdravotníkovi mi článek pomohl pochopit problematiku.\n* Na Pralék se obracím, když…"
-        var placeholder = ""
-        var emailDesc = "Autoři nejmilejších komentářů obdrží nabídku zveřejnění komentáře na webu."
-        initStep2("yes", question, placeholder, emailDesc)
+        var emailDesc = "Nejmileší komentáře zveřejníme."
+        initStep2("yes", question, emailDesc)
       },
       processNo = function (event) {
         var question = " Co Vám ve článku nebo na Praléku obecně chybí?"
-        var placeholder = "* Článek je příliš neodborný a obshuje málo zdrojů.\n* Jsem v rozpacích, neboť mi můj lékař doporučil pravý opak.\n* Problematika mě zajímá z jiného či rozšířeného pohledu"
-        var placeholder = ""
-        initStep2("no", question, placeholder, "")        
+        initStep2("no", question, "")        
       },
-      initStep2 = function (type, question, placeholder, emailDesc) {
+      initStep2 = function (beneficialText, question, emailDesc) {
+        var beneficial = beneficialText == "yes" ? 1 : 0
         IGCMS.Eventable.sendGAEvent(
           "feedback",
           "beneficial",
-          type,
-          type == "yes" ? 1 : 0
+          beneficialText,
+          beneficial
         )
         wrapper.innerHTML = ""
         
@@ -76,7 +77,6 @@
         }
         questionDt.appendChild(questionLabel)
         questionInput.id = "feedback-text"
-        questionInput.setAttribute("placeholder", placeholder)
         questionInputDd.appendChild(questionInput)
         wrapper.appendChild(questionDt)
         wrapper.appendChild(questionInputDd)
@@ -100,13 +100,13 @@
         }
         
         var donationText = "Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku."
-        if (type == "no") {
+        if (!beneficial) {
           donationText = "Pomohla by veřejná diskuze, osobní konzultace či jiné rozšíření Praléku?"
         }
         var nextStepDt = getElm("dt", "Další krok")
         var nextStepDd = getElm("dd")
-        var nextStepNext = getElm("button", "Pokračovat")
-        var nextStepSkip = getElm("button", "Přeskočit tento krok")
+        var nextStepNext = getElm("button", "Odeslat")
+        var nextStepSkip = getElm("button", "Přeskočit")
 
         nextStepDt.className = "hide"
         nextStepDd.appendChild(nextStepNext)
@@ -120,7 +120,7 @@
           if (!validateInput(emailInput, true)) {
             return
           }
-          initStep3(donationText, questionInput.value, emailInput.value, 1)
+          initStep3(donationText, questionInput.value, emailInput.value, 1, beneficial)
         }, false)
         nextStepSkip.addEventListener("click", function () {
           if (emailInput.value || questionInput.value) {
@@ -128,28 +128,36 @@
               return
             }
           }
-          initStep3(donationText, questionInput.value, emailInput.value, 0)
+          initStep3(donationText, questionInput.value, emailInput.value, 0, beneficial)
         }, false)
         wrapper.appendChild(nextStepDt)
         wrapper.appendChild(nextStepDd)
       },
-      initStep3 = function (donationText, answer, email, next) {
+      initStep3 = function (donationText, answer, email, next, beneficial) {
         var feedback = answer
+        if (!next) {
+          feedback += "[skipped]"
+        }
         if (email) {
           feedback = answer + "\nEmail: " + email
         }
-        IGCMS.Eventable.sendGAEvent("feedback", "value", feedback, next)
+        feedback += "\nBeneficial: " + beneficial
+        IGCMS.Eventable.sendGAEvent("feedback", "message", feedback, next)
         wrapper.parentNode.removeChild(wrapper)
         for (var i = 0; i < feedbackElm.children.length; i++) {
           feedbackElm.children.item(i).style.display = ""
         }
-        feedbackElm.getElementsByTagName("p")[0].innerText = donationText
+        heading.innerText = hOriginText
+        // feedbackElm.getElementsByTagName("p")[0].innerText = donationText
       },
       init = function () {
         feedbackElm = document.querySelector(Config.elmSelector)
-        if (!feedbackElm) {
+        heading = document.querySelector(Config.hSelector)
+        if (!feedbackElm || !heading) {
           return
         }
+        hOriginText = heading.innerText
+        heading.innerText = Config.hText
         for (var i = 0; i < feedbackElm.children.length; i++) {
           feedbackElm.children.item(i).style.display = "none"
         }
@@ -181,7 +189,9 @@
 
     var feedback = new Feedback()
     feedback.init({
-      elmSelector: "#feedback"
+      elmSelector: "#feedback",
+      hSelector: "#dotace",
+      hText: "Zpětná vazba"
     })
 
   }) })

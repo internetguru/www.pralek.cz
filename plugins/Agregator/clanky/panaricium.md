@@ -84,6 +84,14 @@ n/a
   4. Jaké jsou 2 možnosti šíření zánětu z místního na celkové zánětlivé onemocnění?
   5. Proč se panaricium vyskytuje jen na prstech rukou a na nohou ne?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
