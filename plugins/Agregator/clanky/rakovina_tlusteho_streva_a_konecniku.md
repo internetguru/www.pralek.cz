@@ -25,7 +25,7 @@ n/a
 
 Záludnost _kolorektálního karcinomu_ spočívá v **naprosto bezpříznakovém počátku** a jen velmi neurčitých projevech i při již plně rozvinutém onemocnění. Jedná se o [celkovou zažívací nepohodu][3], sníženou nebo změněnou chuť k jídlu (často odpor k masu), hubnutí, celkovou slabost, občasnou [přítomnost hlenu a krve ve stolici][4] a teprve později potíže s vyprazdňováním.
 
-Bohužel je **nádor velmi často zjištěn až při vzniku komplikací** způsobených značně pokročilým stádiem. Teprve komplikace totiž přivedou pacienta na chirurgii, nejčastěji jako projev střevní neprůchodnosti (pocit nadmutého břicha, zástava větrů a stolice, zvracení) nebo prudké [krvácení do zažívací trubice][5].
+Bohužel je **nádor velmi často zjištěn až při vzniku komplikací** způsobených značně pokročilým stádiem. Teprve komplikace totiž přivedou pacienta na chirurgii, nejčastěji jako projev [střevní neprůchodnosti][10] (pocit nadmutého břicha, zástava větrů a stolice, zvracení) nebo prudké [krvácení do zažívací trubice][5].
 
 {id="stadia_onemocneni"}
 
@@ -40,7 +40,7 @@ Tato obávaná diagnóza nemusí vždy znamenat nevyhnutelně ortel smrti. Vývo
   * Nádor, který nikam neprorůstá je lépe léčitelný než nádor, který již začal prorůstat do okolních struktur.
   * Nádor, který netvoří druhotná ložiska v blízkých [spádových uzlinách][7] je lépe léčitelný, než když jsou uzliny nádorovým procesem již postiženy.
   * Nádor, který netvoří druhotná ložiska i ve vzdálených [lymfatických uzlinách][7] je lépe léčitelný, než nádor, který vzdálené lymfatické uzliny již postihl.
-  * Nejsložitěji léčitelný je nádor tvořící druhotná ložiska _(metastázy)_ v různých orgánech; nejčastěji v játrech.
+  * Nejsložitěji léčitelný je nádor tvořící druhotná ložiska _([metastázy][6])_ v různých orgánech; nejčastěji v játrech.
 
 Na základě zkušeností se navrhuje podle stádia onemocnění nejvhodnější léčebný postup pro každého pacienta individuálně.
 
@@ -54,7 +54,7 @@ Onemocnění se vyskytuje nejčastěji ve středním a vyšším věku, více u 
 
 Nejjednodušší je vyšetření stolice na _okultní krvácení_ (zkráceně OK). V lékárně i u obvodního lékaře je k dostání papírový test na OK. Princip spočívá v tom, že lze testem prokázat i nepatrnou stopu krve ve stolici. Krev se ve stolici normálně vůbec nevyskytuje. [Polyp ani adenom][8] nikdy nekrvácí, zato karcinom je od začátku křehký a téměř stále mírně krvácí do stolice. Levný a jednoduchý **test stolice na OK vyloučí zhoubný nádor**. Test lze provádět i opakovaně.
 
-V případě pozitivity testu na OK je třeba se podrobit odbornému vyšetření tlustého střeva a konečníku _(rektoskopie, kolonoskopie)_. Jedná se o sice nepříjemné, ale snesitelné a nebolestivé vyšetření speciální optikou zavedenou do střeva konečníkem. Po zjištění zdroje krvácení se odebere vzorek. Teprve výsledek histologického vyšetření vyloučí nebo potvrdí diagnózu nádoru. Dalšími vyšetřeními se zjistí stupeň onemocnění a pacientovi se navrhne pro něj nejlepší individuální léčebný postup.
+V případě pozitivity testu na OK je třeba se podrobit odbornému vyšetření tlustého střeva a konečníku _(rektoskopie, kolonoskopie)_. Jedná se o sice nepříjemné, ale snesitelné a nebolestivé vyšetření speciální optikou zavedenou do střeva konečníkem. Po zjištění zdroje krvácení se odebere vzorek. Teprve výsledek histologického vyšetření vyloučí nebo potvrdí diagnózu zhoubného nádoru. Dalšími vyšetřeními se zjistí stupeň onemocnění a pacientovi se navrhne pro něj nejlepší individuální léčebný postup.
 
 {id="moznosti\_leceni\_rakoviny\_tlusteho\_streva\_a\_konecniku"}
 
