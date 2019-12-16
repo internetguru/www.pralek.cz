@@ -15,7 +15,7 @@ Neúměrná zátěž šlachy může způsobit potíže – nadměrnou tvorbu maz
 
 {class="example"}
 
-V prstech nejsou žádné svaly. Svaly ohýbačů a natahovačů prstů jsou uloženy v horních dvou třetinách předloktí. Od svalů vedou šlachy zbytkem předloktí, zápěstím, dlaní nebo hřbetem ruky až do jednotlivých prstů. Uchopením za horní část předloktí lze vyhmatat pohybující se svaly při aktivním pohybování prsty.
+V prstech nejsou žádné svaly. Svaly ohýbačů a natahovačů prstů jsou uloženy v horních dvou třetinách předloktí. Od svalů vedou šlachy zbytkem předloktí, zápěstím, dlaní nebo hřbetem ruky až do jednotlivých prstů. Uchopením za horní část předloktí lze vyhmatat pohybující se svaly při aktivním pohybování prsty vyšetřované ruky.
 
 {id="zanet_slach"}
 
@@ -40,7 +40,7 @@ Gangliom je bolestivá boulička [podobně jako lymfatická uzlina][5] nebo [pod
 Stejně jako u zánětu šlach (nedostatek kloubního mazu) je v případě gangliomu (nadbytek kloubního mazu) potřeba **zamezit pohybům, které onemocnění způsobily**. Pokud pacient nedodrží léčebný režim, je možné gangliom:
 
   * vypíchnout (napíchnou injekční jehlou a mazivovou hmotu odsát),
-  * mechanicky rozbít (rozmáčknout palcem nebo uhodit hřbetem knihy), 
+  * mechanicky rozbít (rozmáčknout palcem nebo uhodit například hřbetem knihy), 
       * Tlakem pouzdro gangliomu praskne, tekutina se vylije do podkoží a gangliom zmizí.
   * odstranit celý operačně v místním nebo celkovém znecitlivění.
   * Tvořící se bolestivý gangliom je možné zklidnit přiloženou dlahou. 
@@ -66,14 +66,14 @@ Léčení tenisového loktu spočívá opět v omezení bolestivých pohybů neb
 
 n/a
 
-Nejčastěji dochází v zátěži k **přetržení šlachy bicepsu** (dlouhé hlavy dvouhlavého svalu pažního). Jedná se o málo závažný úraz. Nefunkční sval snadno brzy nahradí okolní zdravé svaly. Pouze dočasná deformita paže může někomu působit potíže.
+Nejčastěji dochází v zátěži k **přetržení šlachy bicepsu** (dlouhé hlavy dvouhlavého svalu pažního). Jedná se o málo závažný úraz. Nefunkční sval snadno brzy nahradí okolní zdravé svaly paže. Pouze dočasná deformita paže může někomu působit potíže.
 
   1. K léčení přetržené šlachy bicepsu postačí několik dnů klidu a následné rozcvičení. Deformita paže (stažený utržený sval) se časem vyrovná, utržený sval se totiž nečinností podstatně zmenší.
   2. Přetrženou šlachu je možno operačně sešít a sval se dostane na původní místo. To však vyžaduje určitou dobu klidu do zhojení šlachy (pevná šlacha se hojí 6 týdnů) a následné intenzivní rozcvičení (rehabilitaci) ramene.
 
 Naopak **přetržení Achillovy šlachy je velmi závažný úraz**, který se sám nezahojí. Přetržená šlacha velmi omezuje chůzi, znemožní [stoj na špičce nohy][7].
 
-  1. Léčením je pouze operační sešití šlachy s nutnou následnou fixací do zhojení šlachy (6 týdnů) a následné rozcvičení (rehabilitace).
+  1. Léčením je pouze operační sešití šlachy s nutnou fixací do zhojení šlachy (6 týdnů) a následné rozcvičení (rehabilitace).
 
 {id="otazky" var="inputvar-otazky_h"}
 
