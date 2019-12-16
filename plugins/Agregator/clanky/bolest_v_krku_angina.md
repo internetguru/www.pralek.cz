@@ -33,7 +33,7 @@ Pomůže odpočinek, nejlépe klid na lůžku, [dostatek tekutin][9] a vitamínu
 
 n/a
 
-V případě oslabení imunity (mikroorganizmy nejsou včas rozpoznány nebo není dostatek obranných protilátek) se mikroorganizmy dostávají cévním lymfatickým systémem až do krční mandle a tím způsobí **zánět krční mandle** označovaný jako **angína**.
+V případě oslabení imunity (mikroorganizmy nejsou včas rozpoznány nebo není dostatek obranných protilátek) se mikroorganizmy dostávají až do krční mandle kde se pomnoží a tím způsobí **zánět krční mandle** označovaný jako **angína**.
 
 Stále živé **bacily se hromadí v mandlích** a hromadí se zde i bílé krvinky. Mezi bacily a krvinkami dochází k zápolení a [zánět se vyvíjí][10]. Počáteční fáze je bolestivá; překrvení, zarudnutí a zbytnění mandlí, špatně se polyká, nemocný má změněný hlas. Rozvíjí se [celkové příznaky zánětlivého onemocnění][7].
 
