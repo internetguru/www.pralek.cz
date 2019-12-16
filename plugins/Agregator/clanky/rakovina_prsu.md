@@ -23,7 +23,7 @@ n/a
 
 Léčení rakoviny prsu spočívá nejčastěji v chirurgickém odstranění nádoru. Dle stádia onemocnění a typu nádoru musí být někdy [operace doplněna ozařováním nebo chemoterapií][3]. (Zvláště pak, je-li rakovina zjištěna v pozdějším stádiu vývoje.)
 
-Všechny nádory nejsou stejně agresivní. Podle [stupně agresivity zhoubného nádoru][3] jsou lépe nebo hůře léčitelné; dříve nebo později postihují blízké nebo vzdálené [lymfatické uzliny][4] nebo tvoří [vzdálená ložiska][5] _(metastázy)_, nejčastěji do plic. Všechny **tyto aspekty ovlivňují individuální nejvhodnější způsob léčení** každé konkrétní pacientky.
+Všechny nádory nejsou stejně agresivní. Podle [stupně agresivity zhoubného nádoru][3] jsou lépe nebo hůře léčitelné; dříve nebo později postihují blízké nebo vzdálené [lymfatické uzliny][4] nebo tvoří [vzdálená ložiska][5] _(metastázy)_, nejčastěji do plic nebo do kostí. Všechny **tyto aspekty ovlivňují individuální nejvhodnější způsob léčení** každé konkrétní pacientky.
 
 {id="obava\_ze\_ztraty\_zenskosti\_ztratou_prsu"}
 
