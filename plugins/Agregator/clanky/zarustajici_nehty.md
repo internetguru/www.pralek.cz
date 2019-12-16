@@ -7,11 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="nehet, hygiena, zánět, bolest, prevence, teplota, mikroorganizmy, pohyb"}
 
-Zarůstání nehtů je časté bolestivé onemocnění vzniklé špatným zastřižením nehtu. Řešením je odstranění zánětu a jeho prevence. K úplnému zhojení dojde až tehdy, když zastřižený nehet doroste na správné místo.
+Zarůstání nehtů je časté bolestivé onemocnění vzniklé špatným zastřižením nehtu. Řešením je odstranění zánětu a jeho prevence. K úplnému zhojení dojde až tehdy, když špatně zastřižený nehet doroste na správné místo.
 
 Příčinou zarůstání nehtů bývá **špatně provedená toaleta (zastřižení) nebo výjimečně úraz nehtu**. Nehty na prstech nohou musí být ošetřeny tak, aby tlakem boty nebo vedlejšího prstu nemohl být ostrým rohem nehtu zraňován nehtový val. Ostrý roh vznikne nesprávným zapilováním nebo zastřižením okraje nehtu do obloučku odstraněním původního rohu nehtu, který z palce vyčníval. Roh nehtu je tím nesprávně ukryt v nehtovému valu. Podél nehtu se do poraněného nehtového valu dostávají [mikroorganizmy a vyvíjí se zánět][1].
 
