@@ -58,7 +58,7 @@ Hlavní zásady, jak zmírnit bolesti v zádech:
   * po větší zátěži má následovat hodnotný (třeba aktivní) odpočinek,
   * vzniklou bolest v zádech neřešit ihned lékem proti bolesti (bolest je upozorněním, že je něco v nepořádku) ale snažit se páteř vyhřát suchým teplem a rozhýbat,
   * [lék proti bolesti][6] si vzít až v případě delšího přetrvávání potíží, a to ne na práci ale až k odpočinku – nejlépe na noc a začít spíše slabšími (žádný lék páteř nevyléčí, žádný není nejlepší nebo nejhorší, ani ten, který někomu jinému pomohl),
-  * klidný a pohodlný spánek (třeba s lékem proti bolesti) na kvalitní madraci,
+  * klidný a pohodlný spánek (třeba s lékem proti bolesti) na kvalitní matraci,
   * bránit se propocení a následnému prochlazení (hlavně bederní a krční páteř),
   * k jednostranné zátěži střídat strany (prostřídat končetiny),
   * v případě propocení se převléknout,
