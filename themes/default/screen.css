@@ -15,7 +15,7 @@ body {
   font-family: Rubik, sans-serif;
 }
 /***************************/
-strong {
+strong, dt {
   font-weight: 600;
 }
 a, label {
@@ -31,6 +31,16 @@ a[href] {
 .hdesc a {
   color: white;
   border-color: rgba(255, 255, 255, 0.74);
+}
+/***************************/
+.agregator .list dl {
+  padding: 0;
+}
+.agregator .list dl > dt:not(:first-child) {
+  padding-top: 0.5em;
+}
+.agregator .list dl > dd {
+  margin-left: 0;
 }
 /***************************/
 dl.figure {
@@ -152,6 +162,9 @@ dl.figure dt {
 .hdesc:before {
   background-size: cover;
   background-position: 50% 30%;
+}
+#content p.description {
+  max-width: none;
 }
 /***************************/
 .hdesc:before {
