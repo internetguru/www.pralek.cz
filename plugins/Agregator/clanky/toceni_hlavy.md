@@ -125,18 +125,33 @@ n/a
   4. Čím bývá způsobeno krátkodobé onemocnění vestibulárního ústrojí?
   5. Jak se projevuje Menierova nemoc?
 
+{id="dotace" var="inputvar-feedback_h"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
+{id="odkazy" var="inputvar-odkazy_h" class="filter"}
+
+## n/a
+
+{var="inputvar-odkazy_desc"}
+
+n/a
+
 <!--
-    <h id="dotace" var="inputvar-feedback_h">n/a</h>
-    <desc var="inputvar-feedback_desc">n/a</desc>
-    <h id="odkazy" var="inputvar-odkazy_h" class="filter">n/a</h>
-    <desc var="inputvar-odkazy_desc">n/a</desc>
     <p var="linklist">Seznam odkazů není k dispozici</p>
-    <p var="inputvar-taglist" class="toptags">n/a</p>
     -->
+
+{var="inputvar-taglist" class="toptags"}
+
+n/a
 
  [1]: /kinetoza
  [2]: /tlak_zaludku
- [3]: /vodni_rezim
+ [3]: /prijem_tekutin
  [4]: /funkcni_poruchy_traveni
  [5]: /komplikace_vredu
  [6]: /nadmerne_dychani
