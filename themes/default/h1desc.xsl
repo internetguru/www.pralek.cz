@@ -31,20 +31,20 @@
         <xsl:if test="/body[contains(@class, 'agregator')]">
           <div class="extra">
             <span class="hideable">
-              <span class="eventable material-icons">share</span>
+              <span class="eventable">Získat odkaz na článek</span>
               <span class="copyable" fn="inputvar-createlink">
                 <xsl:value-of disable-output-escaping="yes" select="$link"/>
               </span>
               <span class="fb hideable-nohide">
               <xsl:element name="a">
                 <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
-                Sdílet na facebooku
+                Sdílet na Facebooku
               </xsl:element>
               </span>
               <span class="twitter hideable-nohide">
               <xsl:element name="a">
                 <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
-                Sdílet na twitteru
+                Sdílet na Twitteru
               </xsl:element>
               </span>
             </span>

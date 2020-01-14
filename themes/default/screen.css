@@ -1045,7 +1045,7 @@ html:not(.js) .extra .hideable > .copyable {
   color: white;
 }
 .hdesc .extra .hideable-switch {
-  padding-top: 0.4em;
+  padding-top: 0.55em;
 }
 .extra .hideable-nohide .hideable-switch,
 .extra .hideable-switch:hover,
@@ -1062,7 +1062,7 @@ html:not(.js) .extra .hideable > .copyable {
 #content .extra .hideable-switch:before,
 .fb a:before,
 .twitter a:before {
-  content: "\f1e0";
+  content: "\f0c1";
   font-family: "FontAwesome";
 }
 .section .extra .hideable-switch:before,
