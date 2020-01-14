@@ -3,7 +3,7 @@
 
 <!-- https://cdn.pixabay.com/photo/2016/05/02/01/04/forest-1366345_1280.jpg  -->
 
-{id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy" ctime="2020-01-14T11:02:57+01:00"}
+{id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy" ctime="2020-01-14T11:06:04+01:00"}
 
 # Proč se točí hlava
 
@@ -25,6 +25,18 @@ Točení hlavy vzniká nesprávným drážděním polokruhovitých kanálků smy
 ## Příčiny podráždění zdravého vestibulárního ústrojí
 
 K podráždění zdravého vestibulárního ústrojí může dojít buď zevním podnětem nebo onemocněním.
+
+{id="zevni\_priciny\_toceni_hlavy"}
+
+### Zevní příčiny točení hlavy
+
+Zevním podrážděním je možné si přivodit nechtěné nebo chtěné točení hlavy.
+
+{id="nemoci\_zpusobujici\_toceni_hlavy"}
+
+### Nemoci způsobující točení hlavy
+
+Vertigo doprovází choroby, které vedou ke změně prokrvení mozku nebo k jeho nesprávnému dráždění.
 
 {id="kratkodobe\_onemocneni\_vestibularniho_ustroji"}
 
