@@ -5,7 +5,7 @@
 
 # Proč se točí hlava
 
-{kw="točení hlavy, nevolnost, vnitřní ucho, vetrigo, vestibulární ústrojí, statokinetické ústrojí, polokruhovité kanálky"}
+{kw="vertigo, točení hlavy, nevolnost, zvracení, vnitřní ucho, vestibulární ústrojí, statokinetické ústrojí, polokruhovité kanálky"}
 
 Točení hlavy neboli vertigo je pocit neovladatelného pohybu, točení nebo houpání člověka či jeho okolí. Může být vyvoláno různými zevními vlivy nebo může doprovázet různá onemocnění. Od příčiny točení hlavy se odvíjí jeho řešení.
 
@@ -125,7 +125,7 @@ n/a
   4. Čím bývá způsobeno krátkodobé onemocnění vestibulárního ústrojí?
   5. Jak se projevuje Menierova nemoc?
 
-{var="inputvar-feedback_h" id="dotace"}
+{id="dotace" var="inputvar-feedback_h"}
 
 ## n/a
 
@@ -133,7 +133,7 @@ n/a
 
 n/a
 
-{var="inputvar-odkazy_h" id="odkazy" class="filter"}
+{id="odkazy" var="inputvar-odkazy_h" class="filter"}
 
 ## n/a
 
