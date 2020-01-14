@@ -125,7 +125,7 @@ n/a
   4. Čím bývá způsobeno krátkodobé onemocnění vestibulárního ústrojí?
   5. Jak se projevuje Menierova nemoc?
 
-{id="dotace" var="inputvar-feedback_h"}
+{var="inputvar-feedback_h" id="dotace"}
 
 ## n/a
 
@@ -133,7 +133,7 @@ n/a
 
 n/a
 
-{id="odkazy" var="inputvar-odkazy_h" class="filter"}
+{var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
 
