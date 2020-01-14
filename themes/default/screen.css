@@ -42,6 +42,11 @@ a[href] {
 .agregator .list dl > dd {
   margin-left: 0;
 }
+@media all and (min-width: 52em) {
+  .agregator .list dl > dd {
+    margin-left: 2em;
+  }
+}
 /***************************/
 dl.figure {
   color: #37474f;
