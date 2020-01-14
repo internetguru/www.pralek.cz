@@ -1064,6 +1064,10 @@ html:not(.js) .extra .hideable > .copyable {
 .twitter a:before {
   content: "\f0c1";
   font-family: "Font Awesome 5 Pro";
+  display: none;
+}
+#content .extra svg {
+  color: white;
 }
 .section .extra .hideable-switch:before,
 .fb a:before,
