@@ -46,6 +46,9 @@ a[href] {
   .agregator .list dl > dd {
     margin-left: 2em;
   }
+  .agregator .part.odkazy .list dl > dd {
+    margin-left: 0;
+  }
 }
 /***************************/
 dl.figure {
