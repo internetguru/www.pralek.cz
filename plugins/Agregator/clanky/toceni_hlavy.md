@@ -51,6 +51,8 @@ Některé infekce
 Určitá porucha srdečního rytmu
 :   Nejčastěji se jedná o závrať.
 :   Jestliže nebyla nalezena organická příčina potíží, je nutné k vyřešetření problému vyhledat psychologa nebo psychiatra.
+
+[Nízká hladina cukru v krvi][1]
 :   Málo cukru často vede k celkové slabosti a točení hlavy z důvodu nedostatečné dodávky energie mozkovým buňkám (hypoglykémie).
 
 {id="kratkodobe\_onemocneni\_vestibularniho_ustroji"}
@@ -116,4 +118,6 @@ Seznam odkazů není k dispozici
 {var="inputvar-taglist" class="toptags"}
 
 n/a
+
+ [1]: /cukrovka
 
