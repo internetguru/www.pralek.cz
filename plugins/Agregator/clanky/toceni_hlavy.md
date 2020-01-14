@@ -141,9 +141,9 @@ n/a
 
 n/a
 
-<!--
-    <p var="linklist">Seznam odkazů není k dispozici</p>
-    -->
+{var="linklist"}
+
+Seznam odkazů není k dispozici
 
 {var="inputvar-taglist" class="toptags"}
 
