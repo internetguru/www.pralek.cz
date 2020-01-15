@@ -24,7 +24,7 @@
   <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s"><span class="fas fa-pencil">i</span>Navrhnout úpravy článku</a></var>
   <var id="ghedit2"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s" title="Navrhnout úpravy článku">Navrhnout úpravy článku</a></var>
   <var id="comment"><a var="fbcommentid@href" href="https://www.facebook.com/pralek/posts/%s" title="Diskutovat na našem Facebooku">Diskutovat na našem Facebooku</a></var>
-  <var id="comment2"><a var="fbcommentid@href" href="https://www.facebook.com/pralek/posts/%s" title="Diskutovat na našem Facebooku"><span class="fas fa-comment">i</span>Diskutovat na našem Facebooku</a></var>
+  <var id="comment2"><a var="inputvar-fbcommentid@href" href="https://www.facebook.com/pralek/posts/%s" title="Diskutovat na našem Facebooku"><span class="fas fa-comment">i</span>Diskutovat na našem Facebooku</a></var>
 
   <fn id="headertags" fn="sequence">
     <call>stripkws</call>
