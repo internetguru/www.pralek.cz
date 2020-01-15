@@ -10,6 +10,8 @@
   <var id="feedback_h">Přispějte na tento web</var>
   <var id="feedback_desc">n/a</var>
   
+  <var id="fbcommentid">TODO</var>
+
   <var id="twitter-title">Sdílet na Twitteru</var>
   <var id="fb-title">Sdílet na Facebooku</var>
   <fn id="tmpdateformat" fn="strftime" format="%e. [%m] %Y"/>
