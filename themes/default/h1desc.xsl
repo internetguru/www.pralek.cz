@@ -3,6 +3,8 @@
 
   <xsl:param name="inputvar-articlemeta" select="''"/>
   <xsl:param name="inputvar-ghedit2" select="''"/>
+  <xsl:param name="inputvar-twitter-title" select="''"/>
+  <xsl:param name="inputvar-fb-title" select="''"/>
   <xsl:param name="link" select="''"/>
 
   <xsl:template match="/">
@@ -39,12 +41,14 @@
               <span class="fb hideable-nohide">
               <xsl:element name="a">
                 <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
+                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fb-title"/></xsl:attribute>
                 Sdílet na Facebooku
               </xsl:element>
               </span>
               <span class="twitter hideable-nohide">
               <xsl:element name="a">
                 <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
+                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
                 Sdílet na Twitteru
               </xsl:element>              
               </span>
