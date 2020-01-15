@@ -7,7 +7,7 @@
 
 {kw="kůže-podkoží, prevence, neúrazové, boulička, bolest, zánět"}
 
-Projevem plísňového onemocnění je zapaření (zapářka) nebo opruzení kůže v místech nepřístupných vzduchu. Původcem jsou houbové mikroorganizmy, nejčastěji plísně nebo kvasinky. Nejrůznější plísně postihují čím dál více lidí a mají nejrůznější projevy.
+Projevem plísňového onemocnění je zapaření (zapářka) nebo opruzení kůže hlavně v místech nepřístupných vzduchu. Původcem jsou houbové mikroorganizmy, nejčastěji plísně nebo kvasinky. Nejrůznější plísně postihují čím dál více lidí a mají nejrůznější projevy.
 
 {id="dlouhodobe\_chronicke\_onemocneni_plisni"}
 
