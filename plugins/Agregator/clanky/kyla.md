@@ -9,7 +9,7 @@
 
 {kw="boulička, břicho, strach, bolest, zvracení, pohyb"}
 
-Plánovaná operace kýly časně po potvrzení diagnózy je jediným správným řešením problému. Ostatní řešení jsou pouze dočasná a nevyhnutelnou operaci mohou pouze zkomplikovat.
+Plánovaná operace kýly časně po potvrzení diagnózy je jediným správným řešením problému. Ostatní řešení jsou pouze dočasná a nevyhnutelnou operaci mohou pouze odložit nebo zkomplikovat.
 
 Kýla je boulička způsobená vniknutím útrob do podkoží defektem břišní stěny neboli _kýlní brankou_. Defekt břišní stěny vzniká v typických místech neúměrně prudkým stažením břicha. Nejčastější příčinou bývá zvedání břemene, [kašel][1], [kýchání][2] nebo [tlačení na stolici][3].
 
@@ -21,7 +21,7 @@ Defekt může vzniknout v okamžiku jednorázové námahy nebo se tvoří dlouho
 
 ## Projevy, výskyt a průběh léčení kýly
 
-Kýla se nejčastěji projevuje jako [boulička v třísle][4], v jizvě, v pupku nebo v jeho okolí. Vytvořená kýla již většinou nebolí a nečiní jiné než kosmetické potíže. Její velikost se mění v závislosti na namáhání břišních svalů _(užívání břišního lisu)_.
+Kýla se nejčastěji projevuje jako [boulička v třísle][4], v pooperační jizvě na břiše, v pupku nebo v jeho okolí. Vytvořená kýla již většinou nebolí a nečiní jiné než kosmetické potíže. Její velikost se mění v závislosti na namáhání břišních svalů _(užívání břišního lisu)_.
 
 Během spánku může kýla zcela zmizet. Obsah kýlního vaku se vlivem uvolnění vrací kýlní brankou do dutiny břišní. Přes den však kýla znovu narůstá. **Dlouhodobě se kýla vždy postupně zvětšuje. Sama se nikdy nezahojí.** Sama se může zhojit pouze vrozená pupeční kýla kojencům.
 
