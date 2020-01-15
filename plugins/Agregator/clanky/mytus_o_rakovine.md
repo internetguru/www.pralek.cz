@@ -35,7 +35,7 @@ Projevy postupující rakoviny jsou závažné a nedají se už snadno ignorovat
   * [prudké krvácení do zažívacího traktu][8] nebo [do moče][9],
   * [vysoká teplota][10] či prudká bolest bez zjevné příčiny,
   * [střevní neprůchodnost][11] [se zvracením][12],
-  * celková sešlost, slabost, nechutenství a značný [váhový úbytek][4].
+  * celková sešlost, slabost, nechutenství, zvětšené uzliny a značný [váhový úbytek][4].
 
 {class="example"}
 
