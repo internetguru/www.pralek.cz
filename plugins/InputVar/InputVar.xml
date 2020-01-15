@@ -17,7 +17,7 @@
   
   <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
   <var id="mdfile" var="file" fn="html2md"/>
-  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s"><span class="fas fa-edit">i</span>Navrhnout úpravy článku</a></var>
+  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s"><span class="fas fa-pencil">i</span>Navrhnout úpravy článku</a></var>
 
   <fn id="headertags" fn="sequence">
     <call>stripkws</call>
