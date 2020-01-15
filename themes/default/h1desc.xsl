@@ -53,7 +53,7 @@
                 Sdílet na Twitteru
               </xsl:element>         
               </span>
-              <span class="twitter hideable-nohide">
+              <span class="comment hideable-nohide">
                 <xsl:value-of disable-output-escaping="yes" select="$inputvar-comment"/>
               </span>
               <span class="edit hideable-nohide">
