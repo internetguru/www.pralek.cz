@@ -2,6 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
   <xsl:param name="inputvar-articlemeta" select="''"/>
+  <xsl:param name="inputvar-ghedit" select="''"/>
   <xsl:param name="link" select="''"/>
 
   <xsl:template match="/">
@@ -45,7 +46,10 @@
               <xsl:element name="a">
                 <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
                 Sdílet na Twitteru
-              </xsl:element>
+              </xsl:element>              
+              </span>
+              <span class="edit hideable-nohide">
+              <xsl:value-of disable-output-escaping="yes" select="$inputvar-ghedit"/>
               </span>
             </span>
           </div>
