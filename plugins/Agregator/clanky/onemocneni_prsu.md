@@ -19,14 +19,12 @@ n/a
 
   * V novorozeneckém věku se u dívek i chlapců objevuje poměrně často zduření jednoho nebo obou prsních žláz, které je přirozeně způsobené hormony matky. Zduření většinou samo ustoupí, někdy však může dojít k [rozvoji zánětu][1] v prsu a [k tvorbě abscesu v prsní žláze][2]. Absces je pak nutno chirurgicky ošetřit.
   * V dětském věku se potíže objevují velmi zřídka, spíše se jedná o úrazy při pádech. Při ošetření úrazu je třeba dbát o celistvost bradavky i bradavkového dvorce.
-  * V období dospívání se 
-      1. dívčí prs se vyvíjí v součinnosti s ostatními pohlavními znaky. Vývoj ženského prsu je velmi individuální; u někoho dříve a u někoho o mnoho let později. Zneklidnění je třeba pouze v případě, že se kolem 12. roku věku dívky neobjevují _žádné ženské sekundární pohlavní znaky_ (růst prsů, ženského ochlupení, měsíčky, změna postavy do ženského typu).
-      2. U chlapců se v období dospívání (13–23 let) často objevuje zduření jednoho nebo obou prsů, způsobené hormonální aktivitou. Nejedná se o chorobu ani o poruchu, pouze o zvýšenou hormonální aktivitu.
-  * V dospělosti se může 
-      1. u mužů vyskytnout zbytnění jedné nebo obou prsních žláz _(gynekomastie)_. 
-          1. Bolestivé zánětlivé zbytnění způsobené podrážděním nebo prochlazením bradavky samo rychle ustoupí. Ve skutečnosti se nejedná o _gynekomastii_.
-          2. Nebolestivé dlouhodobé (týdny a déle trvající) zbytnění prsní žlázy je nutné řešit. Lékařské vyšetření a následná poměrně jednoduchá operace vyřeší problém. **Neléčená _gynekomastie_ často vede ke vzniku rakoviny prsu u mužů.** 
-      2. Co vede u žen ke vzniku rakoviny prsu nikdo neví. Statisticky se [rakovina prsu][3] vyskytuje častěji u žen, které nikdy nekojily.
+  * V období dospívání se dívčí prs vyvíjí v součinnosti s ostatními pohlavními znaky. Vývoj ženského prsu je velmi individuální; u někoho dříve a u někoho o mnoho let později. Zneklidnění je třeba pouze v případě, že se kolem 12. roku věku dívky neobjevují _žádné ženské sekundární pohlavní znaky_ (růst prsů, ženského ochlupení, měsíčky, změna postavy do ženského typu).
+  * U chlapců se v období dospívání (13–23 let) často objevuje zduření jednoho nebo obou prsů, způsobené hormonální aktivitou. Nejedná se o chorobu ani o poruchu, pouze o zvýšenou hormonální aktivitu.
+  * V dospělosti se může u mužů vyskytnout zbytnění jedné nebo obou prsních žláz _(gynekomastie)_. 
+      1. Bolestivé zánětlivé zbytnění způsobené podrážděním nebo prochlazením bradavky samo rychle ustoupí. Ve skutečnosti se nejedná o _gynekomastii_.
+      2. Nebolestivé dlouhodobé (týdny a déle trvající) zbytnění prsní žlázy je nutné řešit. Lékařské vyšetření a následná poměrně jednoduchá operace vyřeší problém. **Neléčená _gynekomastie_ často vede ke vzniku rakoviny prsu u mužů.**
+  * Co vede u žen ke vzniku rakoviny prsu nikdo neví. Statisticky se [rakovina prsu][3] vyskytuje častěji u žen, které nikdy nekojily.
 
 {id="boulicka\_v\_prsu"}
 
