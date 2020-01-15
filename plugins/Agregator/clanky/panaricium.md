@@ -7,8 +7,6 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="zánět, poranění, bolest, neúrazové, pohyb, cévy, úrazy, teplota, prevence"}
 
 Zánětlivé onemocnění prstu ruky může být velmi závažné a nebezpečné. Včasné ošetření zánětu chirurgem předejde rozšíření zánětu nejen po nemocné ruce ale i do celého těla.
@@ -29,7 +27,7 @@ n/a
 
 Panaricium vzniká tehdy, dostane-li se určité množství mikroorganizmů do kůže, podkoží nebo pod nehet. V případě [správně fungující imunity][6] tělo mikroorganizmy rozpozná a „označí za nepřítele“. V postižením místě vzniká boj mezi bílými krvinkami a bacily, což je projevem přirozené obranyschopnosti organizmu.
 
-Postupně se vyvíjí místní zánět se svými průvodními jevy, což jsou bolest, zarudnutí, otok, teplota a zhoršená funkce (zanícený orgán hůře pracuje). Vytvořené zánětlivé ložisko se přirozenou obranyschopností buďto samo uzdraví, nebo se postupně promění v hnisavé ložisko. Hnis je tvořen produktem boje – tedy odumřelými bakteriemi, bílými krvinkami, zbytky odumřelé rozpuštěné tkáně a tělní tekutinou. Nahromaděný hnis je vždy nutné odstranit.
+Postupně se vyvíjí místní zánět se svými průvodními jevy, což jsou bolest, zarudnutí, otok, teplota a zhoršená funkce (zaníceným prstem nelze pracovat). Vytvořené zánětlivé ložisko se přirozenou obranyschopností buďto samo uzdraví, nebo se postupně promění v hnisavé ložisko. Hnis je tvořen produktem boje – tedy odumřelými bakteriemi, bílými krvinkami, zbytky odumřelé rozpuštěné tkáně a tělní tekutinou. Nahromaděný hnis je vždy nutné odstranit.
 
 {id="leceni_panaricia"}
 
@@ -45,7 +43,7 @@ Chirurgické ošetření panaricia se provádí v místním znecitlivění, pak 
 
 {class="example"}
 
-Např. člověk po transplantaci orgánu má vždy (záměrně) sníženou imunitu. Proto je potřeba už při každém podezření na infekci preventivně nasazovat antibiotika.
+Člověk po transplantaci orgánu má vždy (záměrně) sníženou imunitu. Proto je potřeba už při každém podezření na infekci preventivně nasazovat antibiotika.
 
 {id="sireni\_a\_komplikace_panaricia"}
 
