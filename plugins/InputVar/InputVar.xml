@@ -10,6 +10,8 @@
   <var id="feedback_h">Přispějte na tento web</var>
   <var id="feedback_desc">n/a</var>
   
+  <var id="twitter-title">Sdílet na Twitteru</var>
+  <var id="fb-title">Sdílet na Facebooku</var>
   <fn id="tmpdateformat" fn="strftime" format="%e. [%m] %Y"/>
   <fn id="createlink" fn="pregreplace" pattern=".+" replacement="https://www.pralek.cz/$0?usp=sharing" />
   <fn id="createfblink" fn="pregreplace" pattern=".+" replacement="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/$0" />
