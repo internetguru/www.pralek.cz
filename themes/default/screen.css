@@ -307,6 +307,8 @@ a.tag:before,
   display: inline-block;
   padding-left: 0.6em;
   padding-right: 0.6em;
+  line-height: 1;
+  margin-left: 0.6rem;
 }
 #feedback button:hover,
 .filter .button:hover,
@@ -413,20 +415,25 @@ dl.clanek.doclist-new > dt:first-child:after {
   /* margin: 1em 0; */
 }
 /***************************/
-a.tag[href]:hover:before {
-  color: #9e9e9e;
+a.tag[href]:hover svg {
+  transition: 0.25s ease-in-out;
+  color: #9e9e9e !important;
 }
 a.tag:before {
   font-family: "Font Awesome 5 Pro";
+  content: "\f02b";
+  display: none;
+  font-weight: 900;
+}
+a.tag svg {
+  color: #e0e0e0;
   margin-right: 0.25em;
   vertical-align: middle;
-  content: "\f02b";
-  color: #e0e0e0;
-  font-size: 1.25em;
+  font-size: 1em;
   line-height: 0;
 }
-h2 a.tag:before,
-a.tag[href^="#"]:before {
+h2 a.tag svg,
+a.tag[href^="#"] svg {
   color: #9e9e9e;
 }
 a.tag:not([href]) {
@@ -443,7 +450,7 @@ a.tag:not([href]) {
 h2 a.tag {
   margin-left: 0.5em;
 }
-h2 a.tag:before {
+h2 a.tag svg {
   /* color: #9e9e9e; */
 }
 /***************************/
@@ -474,6 +481,7 @@ dl.toptags dt {
   margin-top: 2em;
   margin-bottom: 1em;
   font-size: 1.5em;
+  font-weight: 500;
 }
 dl.toptags dd {
   max-height: 5em;
@@ -509,6 +517,11 @@ dl.toptags dd {
   padding-top: 3em;
   padding-bottom: 2em;
 }
+#footer li a svg {
+  float: left;
+  font-size: 1.2em;
+  padding: 0.1rem 0.5rem 0 0;
+}
 /***************************/
 .hdesc:before { 
   background-image: url("/files/koutek/main.jpg");
@@ -523,15 +536,21 @@ dl.toptags dd {
 }
 .search .navigList li:before {
   font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  display: none;
+}
+.search .navigList li svg {
   margin-right: 0.5em;
+  color: #616161;
 }
 .search .navigList .article:before {
-  content: "\f0f6";
+  content: "\f15c";
 }
 .search .navigList .tag:before {
   content: "\f02b";
 }
 .search .navigList .google:before {
+  font-family: "Font Awesome 5 Brands";
   content: "\f1a0";
 }
 .search .navigList span {
@@ -595,7 +614,6 @@ dl.toptags dd {
   color: #555;
 }
 .search button[type="submit"] {
-  font-family: "Font Awesome 5 Pro";
   width: 6rem;
   height: 3.5rem;
   line-height: 3.5rem;
@@ -620,8 +638,11 @@ dl.toptags dd {
     background: #e65100;
 }
 .search button[type="submit"]:before {
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 400;
   content: "\f002";
   display: inline-block;
+  display: none;
 }
 .search ul {
   margin: 0;
@@ -740,6 +761,12 @@ ol.otazky button {
 ol.otazky button:before {
   content: "\f00c";
   font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  display: none;
+}
+#feedback .feedback-yes svg,
+#feedback .feedback-no svg,
+ol.otazky button svg {
   padding-right: 0.5em;
 }
 #feedback .feedback-no:before,
@@ -826,6 +853,24 @@ ol.otazky li:last-child {
     margin-right: 0.7em;
   }
 }
+.contentbalancer-simple li.facebook {
+  margin: 0;
+}
+.contentbalancer-simple li.facebook a {
+  display: inline-block;
+  width: 3em;
+  overflow: hidden;
+  visibility: hidden;
+  padding: 0.35em 0.25em 0.25em 1em;
+}
+.contentbalancer-simple li.facebook a svg {
+  visibility: visible;
+  font-size: 2.8em;
+  transition: 0.25s ease-out;
+}
+.contentbalancer-simple li.facebook a:hover svg {
+  color: #5C6BC0;
+}
 /***************************/
 .newsletter {
   display: block;
@@ -865,17 +910,24 @@ ol.otazky li:last-child {
   background: #ffebee;
   color: #b71c1c;
   overflow: hidden;
-  display: table;
+  position: relative;
+  padding-left: 3.5em;
+  min-height: 2em;
 }
 .example:before,
 .important:before {
   content: "\f071";
+  font-weight: 900;
   font-family: "Font Awesome 5 Pro";
+  display: none;
+}
+.example svg,
+.important svg {
   color: #ef9a9a;
-  font-size: 2em;
-  padding-right: 1rem;
-  display: table-cell;
-  vertical-align: middle;
+  font-size: 1.8em;
+  position: absolute;
+  left: 0.9rem;
+  top: 30%;
 }
 .example {
   background: #fff3e0;
@@ -883,7 +935,11 @@ ol.otazky li:last-child {
 }
 .example:before {
   content: "\f0eb";
+  font-weight: 400;
+}
+.example svg {
   color: #ef6c00;
+  left: 1.3rem;
 }
 /***************************/
 .moreable-linkwrapper {
@@ -925,15 +981,15 @@ ul.docinfo.nomultiple.global li {
   display: inline-flex;
   align-items: center;
 }
-ul.docinfo.nomultiple.partial li span:first-child,
-ul.docinfo.nomultiple.global li > span:first-child {
+ul.docinfo.nomultiple.global li svg,
+ul.docinfo.nomultiple.partial li svg {
   color: #757575;
   width: 1rem;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   margin-right: 0.5rem;
 }
-ul.docinfo.nomultiple.partial li span:first-child ~ span,
-ul.docinfo.nomultiple.global li > span:first-child ~ span {
+ul.docinfo.nomultiple.partial li svg ~ span,
+ul.docinfo.nomultiple.global li > svg ~ span {
   margin-left: 0.25em;
 }
 /***************************/
@@ -986,9 +1042,13 @@ ul.docinfo.nomultiple.global li > span:first-child ~ span {
   padding: 0.3em;
 }
 .copyable-wrapper > span:first-child button:before {
-  content: "\f0ea";
   font-family: "Font Awesome 5 Pro";
-  color: #333;
+  font-weight: 900;
+  content: "\f0ea";
+  display: none;
+}
+.copyable-wrapper > span:first-child button svg {
+  color: #424242 !important;
 }
 .copyable-wrapper > span:first-child + span {
   padding: 0 0.5em;
@@ -1010,12 +1070,16 @@ ul.docinfo.nomultiple.global li > span:first-child ~ span {
   margin-left: auto;
 }
 .fb a,
-.twitter a {
+.twitter a,
+.extra .edit a,
+.extra .comment a {
   border: 0;
 }
 .extra .hideable-switch,
 .fb a,
-.twitter a {
+.twitter a,
+.extra .edit a,
+.extra .comment a {
   transition: 0.25s ease-out;
   font-size: 1.3rem;
   display: block;
@@ -1050,34 +1114,44 @@ html:not(.js) .extra .hideable > .copyable {
 .extra .hideable-nohide .hideable-switch,
 .extra .hideable-switch:hover,
 .fb a:hover,
-.twitter a:hover {
+.twitter a:hover,
+.extra .edit a:hover,
+.extra .comment a:hover {
   background: #eeeeee;
 }
-.hdesc .extra .hideable-nohide .hideable-switch,
-.hdesc .extra .hideable-switch:hover,
-.hdesc .fb a:hover,
-.hdesc .twitter a:hover {
-  background: #757575;
+.extra .edit {
+  order: 11;
 }
+/*
+.hdesc .extra .hideable-nohide .hideable-switch svg,
+.hdesc .extra .hideable-switch:hover svg,
+.hdesc .fb a:hover svg,
+.hdesc .twitter a:hover svg {
+  color: #757575 !important;
+}
+*/
 #content .extra .hideable-switch:before,
 .fb a:before,
-.twitter a:before {
+.twitter a:before,
+.extra .edit a:before,
+.extra .comment a:before {
+  font-weight: 400;
   content: "\f0c1";
   font-family: "Font Awesome 5 Pro";
   display: none;
+  transition: 0.25s ease-out;
+  color: transparent;
+  margin: 0;
 }
 #content .extra svg {
   color: white;
 }
-.section .extra .hideable-switch:before,
-.fb a:before,
-.twitter a:before {
-  transition: 0.25s ease-out;
-  color: transparent;
-}
-.section .extra .hideable-switch:before, .fb a:before, .twitter a:before {
-  color: #999;
-  margin: 0;
+.extra .hideable-switch svg,
+.fb a svg,
+.twitter a svg,
+.extra .edit a svg,
+.extra .comment a svg {
+  color: #999 !important;
 }
 .section .extra .hideable-switch {
   padding-left: 0.5em;
@@ -1086,10 +1160,20 @@ html:not(.js) .extra .hideable > .copyable {
   padding-left: 0.7em;
 }
 .fb a:before {
-  content: "\f09a";
+  font-family: "Font Awesome 5 Brands";
+  content: "\f39e";
 }
 .twitter a:before {
+  font-family: "Font Awesome 5 Brands";
   content: "\f099";
+}
+.extra .edit a:before {
+  font-weight: 900;
+  content: "\f040";
+}
+.extra .comment a:before {
+  font-weight: 900;
+  content: "\f075";
 }
 #content .hdesc .extra {
   /* position: absolute; */
@@ -1132,12 +1216,11 @@ ul.docinfo.nomultiple.global {
   margin: 0.5em 0;
   margin-right: 1em;
 }
-.share li a:before {
+.share li a svg {
   float: left;
-  color: #757575;
   font-size: 1.2em;
-  line-height: 1.2;
-  width: 1rem;
+  color: #757575;
+  padding: 0.1rem 0.5rem 0 0;
 }
 @media (min-width: 30em) {
   .share,
@@ -1191,6 +1274,7 @@ div.part.dotace {
   font-size: 1.15em;
   margin-top: 1em;
   margin-bottom: 0.75em;
+  font-weight: 500;
 }
 #feedback dd {
   margin-left: 0;
