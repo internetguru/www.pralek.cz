@@ -5,7 +5,9 @@
 
 # Péče o penis, hygiena chlapců, fimóza, obřízka
 
-{kw="penis, předkožka, močová soustava, dětské, prevence, zánět, strach"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
+
+{kw="penis, močová soustava, dětské, hygiena, prevence, zánět, strach"}
 
 Péče o penis již od útlého věku je podmínkou jeho správného dalšího vývoje. Tím se zamezí vzniku zánětu a hlavně následných komplikací a potíží v dospívání.
 

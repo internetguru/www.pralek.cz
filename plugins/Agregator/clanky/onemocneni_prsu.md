@@ -5,9 +5,9 @@
 
 # Onemocnění prsu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
 
-{kw="nádory, nezhoubné, zhoubné, neúrazové, poranění, zánět"}
+{kw="žláza, nádory, nezhoubné, zhoubné, neúrazové, poranění, zánět"}
 
 Ženský i mužský prs mají stejný základ, chorobami prsu trpí ženy i muži, ženy častěji. Některé změny prsu jsou přirozené, jiné je nutné vyšetřit a mnohdy i řešit. Včasné vyšetření vede k definitivnímu vyléčení bez následků.
 
@@ -23,7 +23,7 @@ n/a
   * U chlapců se v období dospívání (13–23 let) často objevuje zduření jednoho nebo obou prsů, způsobené hormonální aktivitou. Nejedná se o chorobu ani o poruchu, pouze o zvýšenou hormonální aktivitu.
   * V dospělosti se může u mužů vyskytnout zbytnění jedné nebo obou prsních žláz _(gynekomastie)_. 
       1. Bolestivé zánětlivé zbytnění způsobené podrážděním nebo prochlazením bradavky samo rychle ustoupí. Ve skutečnosti se nejedná o _gynekomastii_.
-      2. Nebolestivé dlouhodobé (týdny a déle trvající) zbytnění prsní žlázy je nutné řešit. Lékařské vyšetření a následná poměrně jednoduchá operace vyřeší problém. **Neléčená _gynekomastie_ často vede ke vzniku rakoviny prsu u mužů.**
+      2. Nebolestivé dlouhodobé (týdny a déle trvající) zbytnění prsní žlázy je nutné řešit. Lékařské vyšetření a následná poměrně jednoduchá operace vyřeší problém. **Neléčená _gynekomastie_ často vede ke vzniku rakoviny prsu u mužů.** 
   * Co vede u žen ke vzniku rakoviny prsu nikdo neví. Statisticky se [rakovina prsu][3] vyskytuje častěji u žen, které nikdy nekojily.
 
 {id="boulicka\_v\_prsu"}
@@ -43,9 +43,9 @@ Bouličky vyskytující se v prsu mohou být různého původu:
       * Nemění se v souvislosti s menstruačním cyklem, diagnóza se stanoví opět _mammograficky_.
       * Řešením jsou pravidelné kontroly (u velmi mladých pacientek) nebo chirurgické odstranění.
       * Často se vyskytuje mnohočetně _(fibromatóza)_.
-  * [kožní afekce][5] na prsu 
+  * [kožní afekce][4] na prsu 
       * Vyskytují se stejně na prsu jako kdekoli jinde na těle.
-  * zvětšené bolestivé nebo nebolestivé [lymfatické uzliny][6] 
+  * zvětšené bolestivé nebo nebolestivé [lymfatické uzliny][5] 
       * Vyskytují se při zevním okraji prsu, v podpaží a v podklíčkové krajině.
       * Mohou být reaktivní, zánětlivé nebo nádorové.
   * velmi bolestivá zarudlá boulička v podpaží – zanícená potní žláza s uzavřeným vývodem _(hydradenitis)_ 
@@ -56,7 +56,7 @@ Bouličky vyskytující se v prsu mohou být různého původu:
       * se promění v zatvrdlinu, nebo
       * se promění časem v _[cystu nebo absces][2]_ 
   * dutina vyplněná hnisem – _[absces][2]_ 
-      * Bolestivost závisí na [stupni zánětu][7]; není nebezpečná, ale je nepříjemná.
+      * Bolestivost závisí na [stupni zánětu][6]; není nebezpečná, ale je nepříjemná.
       * Většinou navazuje na zánět prsu v souvislosti s kojením.
       * Chirurgické ošetření bývá nezbytné.
   * rakovina prsu – nebolestivá boulička v prsu jakékoli velikosti 
@@ -105,7 +105,7 @@ n/a
  [1]: zanet
  [2]: nezhoubne_nadory
  [3]: rakovina_prsu
- [5]: znamenko-bradavice-rakovina
- [6]: lymfaticke_uzliny
- [7]: lecba_zanetu
+ [4]: znamenko-bradavice-rakovina
+ [5]: lymfaticke_uzliny
+ [6]: lecba_zanetu
 

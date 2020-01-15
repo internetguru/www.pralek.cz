@@ -5,9 +5,9 @@
 
 # Puchýř, mozol, kuří oko: jak správně ošetřovat
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
 
-{kw="kůže-podkoží, úrazy, neúrazové, zánět, poranění"}
+{kw="kůže-podkoží, úrazy, neúrazové, zánět, bolest, poranění"}
 
 Neporušený puchýř se nepropichuje ani nestříhá. Naopak je nutné dbát na to, aby nebyl ani omylem poškozen nebo porušen. V případě porušení krytu puchýře je hojení komplikováno zánětem a stává se bolestivým a zdlouhavým. Mozol může fyzické aktivitě napomáhat, překážet nebo ji znemožnit.
 
@@ -58,7 +58,7 @@ n/a
 Postupným a přiměřeným zatěžováním prací nebo sportem nevznikne na inkriminovaném místě puchýř, ale vytvoří se mozol. U mozolu se pokožka stává pevnější, odolnější vůči zátěži, poněkud tmavší a vyšší _(hyperkeratóza)_. Dokud je mozol žádoucí, je možné jej ošetřovat a promazávat. V případě, že mozol začne překážet, je potřeba jej odstraňovat (snášet) např. pilníkem. Patřičným odborným pracovištěm je pedikůra nebo manikůra.
 
   * **Vysoký mozol** (nejčastěji na ruce nebo [na okraji chodidla][11]) roste do výšky směrem proti pracovnímu nástroji nebo proti tlačící botě. Může působit potíže – tlačit nebo bolet.
-  * **Hluboký mozol** roste do hloubky proti tlačícímu zdeformovanému drobnému kloubu nohy.
+  * **Hluboký mozol** roste do hloubky proti tlačícímu zdeformovanému drobnému kloubu nohy. 
       * Takový hluboký a bolestivý mozol se nazývá kuří oko _(kalus)_.
       * Nejčastěji vzniká v případě deformace nohy (příčně plochá noha nebo stařecké deformace prstů).
       * Často žádané chirurgické odstranění kuřího oka řeší problém pouze krátkodobě – do vytvoření nového mozolu.

@@ -1,11 +1,13 @@
 
 {data-type="article" data-image="/files/preview/koutek/mytus\_o\_rakovine/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2007-10-05" mtime="2007-10-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mytus\_o_rakovine" short="Mýtus o rakovině"}
+{ctime="2007-10-05" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mytus\_o_rakovine" short="Mýtus o rakovině"}
 
 # Mýtus o urychlení rakoviny operací
 
-{kw="rakovina, mýty, strach, nádory, zhoubné, krvácení, zvracení, bolest"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
+
+{kw="rakovina, mýty, strach, nádory, zhoubné, uzliny, krvácení, zvracení, bolest"}
 
 Rakovina je tím **lépe léčitelná, čím dříve je odhalena**. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací.
 
@@ -35,7 +37,7 @@ Projevy postupující rakoviny jsou závažné a nedají se už snadno ignorovat
   * [prudké krvácení do zažívacího traktu][8] nebo [do moče][9],
   * [vysoká teplota][10] či prudká bolest bez zjevné příčiny,
   * [střevní neprůchodnost][11] [se zvracením][12],
-  * celková sešlost, slabost, nechutenství, zvětšené uzliny a značný [váhový úbytek][4].
+  * celková sešlost, slabost, nechutenství a značný [váhový úbytek][4].
 
 {class="example"}
 

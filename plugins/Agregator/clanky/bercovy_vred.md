@@ -5,8 +5,6 @@
 
 # Bércový vřed, jeho vývoj a hojení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="zánět, neúrazové, kůže-podkoží, cévy, poranění, bolest, krvácení"}
 
 Bércový vřed je obtěžující a velmi nepříjemná choroba málo chodících lidí, tedy především starších a dlouhodobě nemocných. Pro jeho zhojení je zásadní nejprve obnovit funkčnost krevního oběhu dolních končetin.
@@ -55,7 +53,7 @@ Bércový vřed vzniká nedostatečným prokrvením dolních končetin. Nejčast
 
 n/a
 
-Podstatou léčení musí být snaha **obnovit váznoucí krevní oběh**. Teprve potom se může vřed skutečně hojit. Pokud je krevní oběh obnoven, pomohou [proti komplikacím][10] spojeným s hojením vředu různé masti, krémy, gely, tlakové obvazy a léčivé koupele.
+Podstatou léčení musí být snaha **obnovit váznoucí krevní oběh**. Teprve potom se může vřed skutečně hojit. Pokud je krevní oběh obnoven, pomohou [proti komplikacím][5] spojeným s hojením vředu různé masti, krémy, gely, tlakové obvazy a léčivé koupele.
 
 K rozšíření zúžených tepen dolních končetin může posloužit vhodný lék nebo operační výkon na cévě. K obnovení správné funkce žil rovněž může pomoci lék nebo operační výkon. Zásadní podmínkou každého úspěšného hojení je [dostatek vitamínu C][8].
 
@@ -113,5 +111,4 @@ n/a
  [7]: lymfaticke_uzliny
  [8]: krvaceni_dasni
  [9]: lecba_zanetu
- [10]: krvacejici_varix
 
