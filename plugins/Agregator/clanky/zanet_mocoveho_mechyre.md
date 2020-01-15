@@ -20,7 +20,7 @@ Močový měchýř mužů i žen je uložen za stydkou kostí. Močová trubice 
 n/a
 
   1. Močová trubice žen je velmi krátká, proto je snadnou [vstupní bránou infekce][2]. Za určitých podmínek mohou mikroorganizmy proniknout do močového měchýře a způsobit [jeho zánět][3].
-  2. Zevní ústí močové trubice žen bývá zúžené – část močového proudu se vrací při močení proti proudu moči zpět do močového měchýře a s sebou může brát mikroorganizmy z poševního vchodu.
+  2. Zevní ústí močové trubice žen bývá někdy zúžené – část močového proudu se vrací při močení proti proudu moči zpět do močového měchýře a s sebou může brát mikroorganizmy z poševního vchodu.
 
 {class="important"}
 
