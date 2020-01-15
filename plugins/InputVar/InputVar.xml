@@ -191,8 +191,6 @@
     <data name="href=zhoubné">/?stitek=zhoubne#clanky</data>
     <data name="title=žláza">Filtrovat články</data>
     <data name="href=žláza">/?stitek=zlaza#clanky</data>
-    <data name="title=žlázy"></data>
-    <data name="href=žlázy"></data>
     <data name="title=zlomeniny">Filtrovat články</data>
     <data name="href=zlomeniny">/?stitek=zlomeniny#clanky</data>
     <data name="title=žlučník">Filtrovat články</data>
@@ -285,7 +283,7 @@
 <option class="tag" value="stitky/zanet">zánět (46 výskytů) #stitky/zanet</option>
 <option class="tag" value="stitky/zdravy_zivotni_styl">zdravý životní styl (12 výskytů) #stitky/zdravy_zivotni_styl</option>
 <option class="tag" value="stitky/zhoubne">zhoubné (16 výskytů) #stitky/zhoubne</option>
-<option class="tag" value="stitky/zlaza">žláza (7 výskytů) #stitky/zlaza</option>
+<option class="tag" value="stitky/zlaza">žláza (9 výskytů) #stitky/zlaza</option>
 <option class="tag" value="stitky/zlomeniny">zlomeniny (11 výskytů) #stitky/zlomeniny</option>
 <option class="tag" value="stitky/zlucnik">žlučník (5 výskytů) #stitky/zlucnik</option>
 <option class="tag" value="stitky/zvraceni">zvracení (23 výskytů) #stitky/zvraceni</option>
