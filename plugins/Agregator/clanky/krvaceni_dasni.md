@@ -27,7 +27,7 @@ Jako příčina paradentózy bývá obecně označováno napadení dásní různ
 
 {class="important"}
 
-Prvotní **příčinou paradentózy je nedostatek vitamínu C**, který zvyšuje křehkost cév (obecně). Dásně jsou bohatě prokrvené a jejich cévy jsou velmi namáhané. Zvýšená křehkost cév oslabuje okraj dásně, který je pak náchylnější k poranění a krvácí po kontaktu s kartáčkem či tvrdou stravou.
+Prvotní **příčinou paradentózy je nedostatek vitamínu C**. Jeho nedostatkem se zvyšuje křehkost všech cév. Dásně jsou bohatě prokrvené a jejich cévy jsou velmi namáhané. Zvýšená křehkost cév oslabuje okraj dásně, který je pak náchylnější k poranění a krvácí po kontaktu s kartáčkem či tvrdou stravou.
 
 [Kouření cigaret][5] podporuje vznik paradentózy tím, že zvyšuje celkovou spotřebu vitamínu C (jehož následným nedostatkem cévy křehnou). Kouření zužuje všechny cévy obecně – tedy včetně cév v okrajích dásní (čímž se snižuje jejich schopnost regenerace).
 
@@ -39,7 +39,7 @@ n/a
 
 Aby k paradentóze vůbec nedošlo, **je nutné přijímat „dostatečné množství“ vitamínu C**. Dostatečné množství je individuální. Za nedostatečné množství se dá považovat stav, kdy dásně krvácejí. Tehdy je vhodné příjem vitamínu C (ovoce a zeleniny) dočasně např. zdvojnásobit.
 
-**Zvýšením příjmu vitamínu C je tedy možné zastavit začínající paradentózu.** Důležitý je dostatek přírodního vitamínu C, nikoli uměle vyrobeného (syntetického). Mezi nimi je totiž rozdíl, např. se liší směrem otáčení polarizovaného světla.
+**Zvýšením příjmu vitamínu C je tedy možné zastavit začínající paradentózu.** Důležitý je hlavně dostatek přírodního vitamínu C, nikoli jen uměle vyrobeného (syntetického). Mezi nimi je totiž rozdíl, např. se liší směrem otáčení polarizovaného světla.
 
 {class="example"}
 
