@@ -50,6 +50,11 @@
                 <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
                 <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
                 Sdílet na Twitteru
+              </xsl:element>
+              <xsl:element name="a">
+                <xsl:attribute name="href">https://facebook.com/pralek/posts/<xsl:value-of disable-output-escaping="yes" select="$fbpostid"/></xsl:attribute>
+                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-comment-title"/></xsl:attribute>
+                Diskutovat na našem Facebooku
               </xsl:element>              
               </span>
               <span class="edit hideable-nohide">
