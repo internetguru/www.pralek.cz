@@ -5,11 +5,13 @@
 
 # Zvětšené lymfatické uzliny
 
-{kw="kůže-podkoží, teplota, boulička, zánět, bolest, nádory, zhoubné, nezhoubné, cévy"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
+
+{kw="uzlina, kůže-podkoží, teplota, boulička, zánět, bolest, nádory, cévy"}
 
 Normální lymfatické uzliny nejsou bolestivé ani hmatné. Zvětšení nebo bolestivost uzliny má vždy svůj důvod, po kterém je třeba pátrat. Nejčastěji se jedná o zánět, bohužel někdy i o nádor.
 
-[Krevním oběhem][1] putuje v krevní plazmě směs krvinek a krevních destiček. Tepnami teče krev k cílovým orgánům a žílami zpět k srdci. Během předávání kyslíku a živin ve vlásečnici (přechod mezi tepnou a žílou) se plazma dostává do mezibuněčného prostoru. V případě setkání s většími částečkami, volnými buňkami nebo [produkty zánětu][2] se plazma do srdce nevrací žilním systémem, ale lymfatickým (mízním).
+[Krevním oběhem][1] putuje v krevní plazmě směs krvinek a krevních destiček. Tepnami teče krev k cílovým orgánům a žílami zpět k srdci. Během předávání kyslíku a živin ve vlásečnici (přechod mezi tepnou a žílou) se plazma dostává do mezibuněčného prostoru. V případě setkání s většími částečkami, volnými buňkami nebo [produkty zánětu][2] se plazma do srdce nevrací žilním systémem, ale cévním systémem lymfatickým (mízním).
 
 Lymfa je viditelná například v případě [velmi povrchní oděrky][3], kdy nezačne z kůže krvácení, ale vyroní se pouze nažloutlá tekutina, která posléze zaschne v nažloutlý nekrvavý strup.
 
@@ -17,7 +19,7 @@ Lymfa je viditelná například v případě [velmi povrchní oděrky][3], kdy n
 
 Lymfatické cévy jsou přerušeny uzlinami. Mízní uzliny jsou jakási sítka, která z lymfy vychytávají všechny nežádoucí částečky a buňky, aby se nedostaly do krevního oběhu.
 
-V lymfatických uzlinách jsou [některé mikroorganizmy][4] zničeny, některé mohou lymfatickou cévou pronikat k další uzlině. Nečistoty jsou v uzlinách uloženy natrvalo. Podle příčiny se zvětšená uzlina [po ústupu zánětu][5] znovu zmenší nebo zůstane trvale zvětšená. **Při postižení nádorem uzlina dlouhodobě narůstá.**
+V lymfatických uzlinách jsou [některé mikroorganizmy][4] zničeny, některé mohou lymfatickou cévou pronikat k nejbližší uzlině. Nečistoty jsou v uzlinách uloženy natrvalo. Podle příčiny se zvětšená uzlina [po ústupu zánětu][5] znovu zmenší nebo zůstane dlouhodobě zvětšená. **Při postižení nádorem uzlina dlouhodobě narůstá.**
 
 {id="zvetsene\_bolestive\_a\_jinak\_zmenene\_lymfaticke\_uzliny"}
 
@@ -42,7 +44,7 @@ n/a
   * [Zánět nehtového lůžka][9], oděrky prstů nebo pat mohou způsobit **bolestivé zvětšení uzlin v zákolenní jamce nebo v tříslech**.
   * Dlouhodobé oděrky nebo plísně nohou zapříčiní **nebolestivé zvětšení tříselních uzlin**.
   * Stejně tak dojde ke **zvětšení uzlin na horní končetině** v loketní jamce nebo v podpaží (zánět, oděrka, namožení).
-  * _Prudký_ zánět na končetině s horečkou může způsobit **rudý horký viditelný pruh od místa zánětu směrem k trupu s bolestivou uzlinou na konci**. Jedná se o zánět lymfatické cévy, která se změnila a stala se viditelnou a bolestivou (laicky nesprávně označována jako otrava krve).
+  * _Prudký_ zánět na končetině s horečkou může způsobit **rudý horký viditelný pruh od místa zánětu směrem k trupu s bolestivou uzlinou na konci**. Jedná se o zánět lymfatické cévy, která se změnila a stala se viditelnou a bolestivou (nesprávně označována jako otrava krve).
   * Zánět nebo nádor ve stěně hrudníku nebo v prsu rovněž způsobí **zvětšení uzlin v podpaží** (stejná spádová oblast jako pro horní končetinu).
   * **Zvětšení uzliny na přední straně krku a nad klíční kostí** svědčí pro onemocnění v krku nebo v hrudníku.
   * [Bolesti v krku][2], zánět v dutině ústní nebo zánět zubu způsobí **zvětšení podčelistních uzlin**.

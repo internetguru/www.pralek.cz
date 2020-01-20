@@ -5,13 +5,13 @@
 
 # Rakovina prsu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
 
-{kw="boulička, strach, nádory, zhoubné, prevence"}
+{kw="boulička, strach, žláza, nádory, zhoubné, uzlina, prevence"}
 
 Boulička v prsu nemusí být vždy rakovina. Včasné lékařské vyšetření je nezbytnou podmínkou vyvrácení nebo potvrzení obávané diagnózy a zároveň povede k vyřešení problému. Čas vždy pracuje pro případný nádor.
 
-**Rakovina prsu je nejlépe léčitelnou rakovinou vůbec.** Aby však mohla být rakovina prsu léčena a vyléčena, musí být nejprve _včas zjištěna_. Preventivní prohlídky a samovyšetřování prsů jsou již díky osvětě všeobecně známé jevy. Preventivní lékařské vyšetření v rámci každého gynekologického vyšetření a v rámci každé hospitalizace je samozřejmostí. Brožurky s poučením o samovyšetřování prsů jsou k dispozici v čekárnách lékařů i v lékárnách.
+**Rakovina prsu je nejlépe léčitelnou rakovinou vůbec.** Aby však mohla být rakovina prsu léčena a vyléčena, musí být nejprve _včas zjištěna_. Preventivní prohlídky a samovyšetřování prsů jsou již díky osvětě všeobecně známé jevy. Preventivní lékařské vyšetření mléčné žlázy v rámci každého gynekologického vyšetření a v rámci každé hospitalizace je samozřejmostí. Brožurky s poučením o samovyšetřování prsů jsou k dispozici v čekárnách lékařů i v lékárnách.
 
 Přesto se bohužel stále vyskytují lidé, kteří raději k lékaři nejdou. I když si najdou [bouličku v prsu][1], odkládají lékařské vyšetření ze strachu, „aby se něco nepříjemného nenašlo“. Takové lidi vlastně zbytečně zahubí [strach z rakoviny prsu][2].
 
@@ -23,7 +23,7 @@ n/a
 
 Léčení rakoviny prsu spočívá nejčastěji v chirurgickém odstranění nádoru. Dle stádia onemocnění a typu nádoru musí být někdy [operace doplněna ozařováním nebo chemoterapií][3]. (Zvláště pak, je-li rakovina zjištěna v pozdějším stádiu vývoje.)
 
-Všechny nádory nejsou stejně agresivní. Podle [stupně agresivity zhoubného nádoru][3] jsou lépe nebo hůře léčitelné; dříve nebo později postihují blízké nebo vzdálené [lymfatické uzliny][4] nebo tvoří [vzdálená ložiska][5] _(metastázy)_, nejčastěji do plic. Všechny **tyto aspekty ovlivňují individuální nejvhodnější způsob léčení** každé konkrétní pacientky.
+Všechny nádory nejsou stejně agresivní. Podle [stupně agresivity zhoubného nádoru][3] jsou lépe nebo hůře léčitelné; dříve nebo později postihují blízké nebo vzdálené [lymfatické uzliny][4] nebo tvoří [vzdálená ložiska][5] _(metastázy)_, nejčastěji do plic nebo do kostí. Všechny **tyto aspekty ovlivňují individuální nejvhodnější způsob léčení** každé konkrétní pacientky.
 
 {id="obava\_ze\_ztraty\_zenskosti\_ztratou_prsu"}
 

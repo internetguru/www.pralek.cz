@@ -5,10 +5,6 @@
 
 # Odřeniny – proč je nutné mechanicky vyčistit oděrku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="poranění, úrazy, krvácení, kůže-podkoží, pohyb, zánět, bolest"}
 
 Plošné oděrky vznikají nejčastěji při různých sportovních aktivitách. Jejich důsledné mechanické vyčištění je důležitým krokem léčení. Nečistoty vrostlé do kůže by se jinak staly trvalou hyzdící vzpomínkou na úraz.
@@ -25,7 +21,7 @@ Plošné oděrky nebývají nebezpečné, jsou však nepříjemné a velmi boles
 
   1. **Povrchová oděrka postihuje jen povrch kůže** (pokožku). Oděrka nekrvácí, pouze z ní roní [nažloutlá lymfa][4]. Spodina (obecně nejhlubší část) oděrky bývá hladká a znečištěná jen jemným prachem (ze silnice).
   2. **Hlubší oděrka sahá hlouběji do kůže** s drobným poškozením krevního řečiště. Taková oděrka tedy krvácí. Do rozedřené kůže jsou vraženy kamínky a různé nečistoty.
-  3. **Hluboká oděrka prostupuje celou kůží až do podkoží** (vazivo a tuk). Mívá velmi nepravidelnou spodinu (neboť podkoží je mnohem volnější než kůže) a trčí z ní cáry kůže a nečistot. Dochází k většímu poškození krevního řečiště, proto oděrka silně krvácí.
+  3. **Hluboká oděrka prostupuje celou kůží až do podkoží** (obnažuje vazivo a tuk). Mívá velmi nepravidelnou spodinu (neboť podkoží je mnohem volnější než kůže) a trčí z ní cáry kůže a nečistot. Dochází k většímu poškození krevního řečiště, proto oděrka silně krvácí.
   4. **Nejhlubší oděrka postihuje i kost.** Nejčastěji se jedná o kotník, rameno, ruku nebo loket. Kost bývá zbroušena silničním povrchem téměř dohladka. Cáry kůže a nečistoty bývají jen při okrajích oděrky.
 
 Oděrku je možné vyčistit a ošetřit svépomocí podle úrovně vnímání bolesti zraněného a podle jejího rozsahu a hloubky. V případě nejistoty je možné s jakoukoli oděrkou [vyhledat ošetření lékařem][5] (nejlépe chirurgem).
@@ -50,7 +46,7 @@ Léčení oděrky je možné urychlit např. roztokem Novikova (lze zakoupit v l
 
 {class="example"}
 
-**Přiložení hojivé masti a obvazu zcela jistě vede ke komplikacím hojení oděrek spojeným s mokváním.** Silná vrstva masti na ploše způsobuje mokvání a na oděrku tedy nepatří. Obvaz (bez masti) by se pevně spojil se strupem a léčení by jen prodloužil.
+**Přiložení hojivé masti a obvazu by zcela jistě vedlo ke komplikacím hojení oděrek spojeným s mokváním.** Silná vrstva masti na ploše způsobuje mokvání a na oděrku tedy nepatří. Obvaz (bez masti) by se pevně spojil se strupem a léčení by jen prodloužil.
 
 Hluboké oděrky obzvlášť s poraněním kostí jsou ošetřovány na chirurgii v místním nebo i v celkovém znecitlivění. Součásti léčení hlubokých oděrek je desinfekce oděrky, odstranění nečistot, cárů kůže a poškozených tkání. Následuje ošetření zbroušené kosti, zašití kožního defektu, [nasazení antibiotik][6], krytí oděrky vhodným materiálem a přeočkování proti tetanu.
 
