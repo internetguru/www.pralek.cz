@@ -1,7 +1,7 @@
 
 {xml:lang="cs" data-type="article" data-image="/files/preview/koutek/toceni_hlavy/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy" ctime="2020-01-20"}
+{id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy" ctime="2020-01-20" mtime="2020-01-20"}
 
 # Proč se točí hlava
 
@@ -34,7 +34,7 @@ Závrať
 :   Jedná se o náhle vzniklé narušení prostorového vnímání a stability organismu (nejčastěji nad velkou hloubkou).
 
 Působení [pohybu, který nekoresponduje se zrakem][1]
-:   Nejčastěji se jedná o jízdu na kolotoči, houpačce, lodi a v autě, otáčení se se zavřenýma očima apod.
+:   Nejčastěji se jedná o jízdu na kolotoči, houpačce, lodi, v autě, otáčení se se zavřenýma očima apod.
 
 Působení jedů
 :   Točení hlavy je jeden z [příznaků působení nejrůznějších jedů][2] jako je alkohol či oxid uhelnatý, dále některé houby, zkažené maso, některé drogy a organická rozpouštědla.
@@ -73,7 +73,7 @@ Některé oční nemoci
 :   Točení a [bolest hlavy][13] mohou způsobovat oční nemoci, jako například refrakční vady, glaukom a porucha okohybných svalů.
 
 Určitá porucha srdečního rytmu
-:   Porucha může způsobit celkovou slabost a točení hlavy. Nemocný přitom nemusí mít žádnou [bolesti na hrudi][14].
+:   Porucha srdečního rytmu může způsobit celkovou slabost a točení hlavy. Nemocný přitom nemusí mít žádnou [bolesti na hrudi][14].
 
 Zánět zevního zvukovodu
 :   Zánět může drážděním polokruhovitých kanálků způsobit točení hlavy se všemi [doprovodnými projevy][1].
