@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/resuscitace-ozivovani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859938664138496" data-type="article" data-image="/files/preview/koutek/resuscitace-ozivovani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-04-20" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="resuscitace-ozivovani" short="Resuscitace"}
 
