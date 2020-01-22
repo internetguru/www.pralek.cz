@@ -12,7 +12,7 @@
 <!--       <li><span class="copyable" fn="inputvar-createlink" var="link">n/a</span></li> -->
       <li><a var="link@href" fn="inputvar-createfblink@href"><span class="fab fa-facebook">i</span>Sdílet na Facebooku</a></li>
       <li><a var="link@href" fn="inputvar-createtwitterlink@href"><span class="fab fa-twitter">i</span>Sdílet na Twitteru</a></li>
-      <li><a href="#" var="inputvar-comment2">n/a</a></li>
+      <li><a var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fab fa-pencil">i</span>Diskutovat na našem Facebooku</a></li>
       <li><a href="#" var="inputvar-ghedit">n/a</a></li>
     </ul>
   </var>
