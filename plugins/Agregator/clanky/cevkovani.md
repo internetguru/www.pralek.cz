@@ -1,5 +1,5 @@
 
-{xml:lang="cs" data-type="article" data-image="/files/preview/koutek/cevkovani/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859756400823389" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/cevkovani/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
 {ctime="2019-10-17" mtime="2019-10-17" id="cevkovani" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Cévkování"}
 

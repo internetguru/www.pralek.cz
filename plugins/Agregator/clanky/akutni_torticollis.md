@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/akutni_torticollis/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859754964156866" data-type="article" data-image="/files/preview/koutek/akutni_torticollis/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2014-11-17" mtime="2014-11-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="akutni\_torticollis" short="Akutní torticollis"}
 

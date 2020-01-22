@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/bercovy_vred/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859755370823492" data-type="article" data-image="/files/preview/koutek/bercovy_vred/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2014-09-15" mtime="2014-09-15" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bercovy\_vred" short="Bércový vřed"}
 

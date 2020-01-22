@@ -1,5 +1,5 @@
 
-{data-top="2" data-type="article" data-image="/files/preview/koutek/naplastovy_steh/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859762217489474" data-top="2" data-type="article" data-image="/files/preview/koutek/naplastovy_steh/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2011-10-24" mtime="2011-10-24" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="naplastovy\_steh" short="Náplasťový steh"}
 

@@ -1,13 +1,9 @@
 
-{data-type="article" data-image="/files/preview/koutek/bolesti\_v\_zadech_houser/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859755757490120" data-type="article" data-image="/files/preview/koutek/bolesti\_v\_zadech_houser/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-11-20" mtime="2008-11-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolesti\_v\_zadech\_houser" short="Bolesti v zádech"}
 
 # Bolesti v zádech, houser
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
 
 {kw="bolest, pohyb, rehabilitace, neúrazové, úrazy, prevence"}
 

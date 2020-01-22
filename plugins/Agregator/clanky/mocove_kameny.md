@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/mocove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859761430822886" data-type="article" data-image="/files/preview/koutek/mocove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-08-13" mtime="2008-08-13" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocove\_kameny" short="Močové kameny"}
 

@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/lekove_formy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859760587489637" data-type="article" data-image="/files/preview/koutek/lekove_formy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-05-09" mtime="2010-05-09" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lekove\_formy" short="Podávání léků a lékové formy"}
 

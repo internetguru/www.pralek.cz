@@ -1,5 +1,5 @@
 
-{data-top="3" data-type="article" data-image="/files/preview/koutek/nezhoubne_nadory/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859762554156107" data-top="3" data-type="article" data-image="/files/preview/koutek/nezhoubne_nadory/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-06-18" mtime="2010-06-18" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubne\_nadory" short="Nezhoubné nádory"}
 

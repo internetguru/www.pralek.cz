@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/odhaleni_rakoviny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859763224156040" data-type="article" data-image="/files/preview/koutek/odhaleni_rakoviny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2015-03-31" mtime="2015-03-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odhaleni\_rakoviny" short="Odhalení rakoviny"}
 

@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/iktus/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859757590823270" data-type="article" data-image="/files/preview/koutek/iktus/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-07-05" mtime="2008-07-05" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="iktus" short="Cévní mozková příhoda"}
 

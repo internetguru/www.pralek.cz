@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/lekarnicka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859760430822986" data-type="article" data-image="/files/preview/koutek/lekarnicka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2015-08-13" mtime="2015-08-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Lékárnička" id="lekarnicka"}
 

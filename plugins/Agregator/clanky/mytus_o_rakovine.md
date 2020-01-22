@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/mytus\_o\_rakovine/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859761594156203" data-type="article" data-image="/files/preview/koutek/mytus\_o\_rakovine/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2007-10-05" mtime="2007-10-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mytus\_o_rakovine" short="Mýtus o rakovině"}
 

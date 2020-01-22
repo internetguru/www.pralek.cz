@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/koureni_cigaret/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859758460823183" data-type="article" data-image="/files/preview/koutek/koureni_cigaret/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2012-02-23" mtime="2012-02-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="koureni\_cigaret" short="Kouření cigaret"}
 

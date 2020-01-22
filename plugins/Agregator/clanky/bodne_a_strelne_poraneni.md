@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/bodne\_a\_strelne_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859755520823477" data-type="article" data-image="/files/preview/koutek/bodne\_a\_strelne_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-05-15" mtime="2009-05-15" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bodne\_a\_strelne\_poraneni" short="Bodné a střelné poranění"}
 
