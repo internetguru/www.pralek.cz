@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/rakovina\_tlusteho\_streva\_a\_konecniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859766650822364" data-type="article" data-image="/files/preview/koutek/rakovina\_tlusteho\_streva\_a\_konecniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-07-17" mtime="2010-07-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_tlusteho\_streva\_a_konecniku" short="Rakovina tlustého střeva a konečníku"}
 

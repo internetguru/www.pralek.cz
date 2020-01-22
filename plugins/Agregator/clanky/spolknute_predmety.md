@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/spolknute_predmety/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859767610822268" data-type="article" data-image="/files/preview/koutek/spolknute_predmety/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-04-30" mtime="2009-04-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="spolknute\_predmety" short="Spolknuté předměty"}
 

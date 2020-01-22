@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/puchyr\_mozol\_kuri_oko/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859766374155725" data-type="article" data-image="/files/preview/koutek/puchyr\_mozol\_kuri_oko/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-08-19" mtime="2010-08-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="puchyr\_mozol\_kuri\_oko" short="Puchýř, mozol, kuří oko"}
 

@@ -1,5 +1,5 @@
 
-{data-top="4" data-type="article" data-image="/files/preview/koutek/strevni_nepruchodnost/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859768417488854" data-top="4" data-type="article" data-image="/files/preview/koutek/strevni_nepruchodnost/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2013-02-16" mtime="2013-02-16" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="strevni\_nepruchodnost" short="Střevní neprůchodnost"}
 
