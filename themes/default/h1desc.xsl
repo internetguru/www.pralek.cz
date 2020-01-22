@@ -5,8 +5,9 @@
   <xsl:param name="inputvar-ghedit2" select="''"/>
   <xsl:param name="inputvar-twitter-title" select="''"/>
   <xsl:param name="inputvar-fb-title" select="''"/>
-  <xsl:param name="inputvar-comment" select="''"/>
+  <xsl:param name="inputvar-fbcomment-title" select="''"/>
   <xsl:param name="link" select="''"/>
+  <xsl:param name="fbcommentid" select="''"/>
 
   <xsl:template match="/">
     <xsl:apply-templates/>
@@ -54,7 +55,11 @@
               </xsl:element>         
               </span>
               <span class="comment hideable-nohide">
-                <xsl:value-of disable-output-escaping="yes" select="$inputvar-comment"/>
+              <xsl:element name="a">
+                <xsl:attribute name="href">https://www.facebook.com/pralek/posts/<xsl:value-of disable-output-escaping="yes" select="$fbcommentid"/></xsl:attribute>
+                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
+                Diskutovat na našem Facebooku
+              </xsl:element>         
               </span>
               <span class="edit hideable-nohide">
               <xsl:value-of disable-output-escaping="yes" select="$inputvar-ghedit2"/>
