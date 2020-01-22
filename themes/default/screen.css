@@ -854,19 +854,16 @@ ol.otazky li:last-child {
   }
 }
 .contentbalancer-simple li.facebook {
-  margin: 0;
+  margin-top: 0.1em;
 }
 .contentbalancer-simple li.facebook a {
-  display: inline-block;
-  width: 3em;
-  overflow: hidden;
-  visibility: hidden;
-  padding: 0.35em 0.25em 0.25em 1em;
+  display: inline-flex;
+  align-items: center;
 }
 .contentbalancer-simple li.facebook a svg {
-  visibility: visible;
-  font-size: 2.8em;
+  font-size: 2em;
   transition: 0.25s ease-out;
+  margin-right: 0.25em;
 }
 .contentbalancer-simple li.facebook a:hover svg {
   color: #5C6BC0;
