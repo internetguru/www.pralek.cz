@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/vykoubene_rameno/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859955397470156" data-type="article" data-image="/files/preview/koutek/vykoubene_rameno/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2013-05-12" mtime="2013-05-12" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vykoubene\_rameno" short="Vykloubené rameno"}
 

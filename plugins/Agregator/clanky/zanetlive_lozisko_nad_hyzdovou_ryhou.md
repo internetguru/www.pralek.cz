@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/zanetlive\_lozisko\_nad\_hyzdovou\_ryhou/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859957620803267" data-type="article" data-image="/files/preview/koutek/zanetlive\_lozisko\_nad\_hyzdovou\_ryhou/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-12-23" mtime="2010-12-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanetlive\_lozisko\_nad\_hyzdovou_ryhou" short="Zánětlivé ložisko nad hýžďovou rýhou"}
 
