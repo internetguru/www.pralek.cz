@@ -5,8 +5,6 @@
 
 # Zánět močového měchýře žen
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
 {kw="močová soustava, zánět, bolest, břicho, neúrazové, prevence, krvácení"}
 
 Zánět močového měchýře je nepříjemné a velmi bolestivé onemocnění, které není nakažlivé ani nebezpečné. Postihuje nejčastěji mladé ženy a bohužel se vracívá. Není souvislost mezi zánětem močového měchýře a zanedbáváním hygieny.
@@ -20,7 +18,7 @@ Močový měchýř mužů i žen je uložen za stydkou kostí. Močová trubice 
 n/a
 
   1. Močová trubice žen je velmi krátká, proto je snadnou [vstupní bránou infekce][2]. Za určitých podmínek mohou mikroorganizmy proniknout do močového měchýře a způsobit [jeho zánět][3].
-  2. Zevní ústí močové trubice žen bývá zúžené – část močového proudu se vrací při močení proti proudu moči zpět do močového měchýře a s sebou může brát mikroorganizmy z poševního vchodu.
+  2. Zevní ústí močové trubice žen bývá někdy zúžené – část močového proudu se vrací při močení proti proudu moči zpět do močového měchýře a s sebou může brát mikroorganizmy z poševního vchodu.
 
 {class="important"}
 

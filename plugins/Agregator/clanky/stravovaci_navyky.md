@@ -5,9 +5,9 @@
 
 # Stravovací návyky a trávicí systém
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
 
-{kw="zdravý životní styl, strava-zažívání, žlučník, žaludek, břicho, tekutiny"}
+{kw="zdravý životní styl, strava-zažívání, žláza, žlučník, žaludek, břicho, tekutiny"}
 
 Zdravý člověk má obrovské rezervy, může jíst a pít kdykoli a cokoli a trávení nevnímá. V případě vyčerpání rezerv a pocitu potíží v souvislosti s jídlem je třeba pátrat ve stravovacích návycích dříve, než začít užívat léky podporující trávení.
 

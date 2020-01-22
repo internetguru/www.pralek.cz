@@ -5,11 +5,9 @@
 
 # Ošetření kožní rány náplasťovým stehem
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="úrazy, první pomoc, poranění, krvácení, pohyb, bolest"}
+{kw="úrazy, první pomoc, poranění, krvácení, pohyb, bolest, žláza"}
 
 Kožní ránu lze po ošetření zafixovat náplasťovým stehem. Náplasťový steh může v takovém případě plnohodnotně nahradit klasický chirurgický steh (který zanechává jizvu) nebo plastický steh (který nelze použít vždy).
 
@@ -20,10 +18,10 @@ Náplasťový steh je plnohodnotná alternativa k zašití rány (nahrazuje chir
 
 {class="figure"}
 
-{type="image/svg+xml" data="/files/naplastovy_steh-maslicka.svg"}</object>
+{type="image/svg+xml" data="/files/naplastovy_steh-maslicka.svg"}</object> 
 :   Sklon náplasťového stehu vůči ráně a) steri strip kolmý na ránu (případně pomocný steri strip), b) mašlička.
 
-Laické překrytí celé rány náplastí nebo obvazem vede k uvolnění okrajů rány a její rozmáčení vlivem [kožního mazu][3] a potu. To platí obzvlášť pro obličej, kde kůže obsahuje více mazových a potních žláz. V takovém případě by ani přiložená náplasťová fixace ránu neudržela. Naopak **nezakrytá rána ošetřená stehem může dýchat a je trvale kontrolovatelná** ([zanícení][4], rozšklebení).
+Překrytí celé rány náplastí nebo obvazem vede k uvolnění okrajů rány a její rozmáčení vlivem [kožního mazu][3] a potu. To platí obzvlášť pro obličej, kde kůže obsahuje více mazových a potních žláz. Pod neprodyšným obvazem by ani přiložená náplasťová fixace ránu neudržela. Naopak **nezakrytá rána ošetřená náplasťovým stehem může dýchat a je trvale kontrolovatelná** (hrozí [zanícení][4] nebo rozšklebení).
 
 {id="aplikace\_naplastoveho\_stehu"}
 
@@ -35,7 +33,7 @@ Náplasťový steh prochází kolmo přes ránu v jednom bodě (s ohledem na pnu
 
 {class="figure"}
 
-{type="image/svg+xml" data="/files/naplastovy_steh-aplikace.svg"}</object>
+{type="image/svg+xml" data="/files/naplastovy_steh-aplikace.svg"}</object> 
 :   Postup přikládání náplasťového stehu na zející ránu i) přiložení náplasti na jednu stranu rány, ii) stažení okrajů rány k sobě, iii) přiložení náplasti na druhou stranu rány.
 
 Na zející ránu (je-li rozšklebená, okraje nejsou těsně u sebe) je nutné:

@@ -5,9 +5,9 @@
 
 # Boj proti akné
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
 
-{kw="žláza, kůže-podkoží, boulička, prevence, strava-zažívání, zánět, poranění, teplota"}
+{kw="žláza, kůže-podkoží, boulička, prevence, strava-zažívání, zánět, teplota"}
 
 Akné je onemocnění mazových žláz v kůži. Vzniká nejčastěji v souvislosti s hormonálními změnami v pubertě, kdy se obsah mazových žláz stává tužší a samovolně nevytéká. Při mechanickém vyprazdňování akné je důležité dbát na hygienu.
 
