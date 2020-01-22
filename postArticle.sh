@@ -24,6 +24,8 @@ msg="Vydali jsme nový článek na téma $short"$'\n'"$kws"
  && msg="Článek na téma $short prošel významnou revizí"$'\n'"$kws" \
  && ctime="$mtime"
 
+ctime="${ctime}T18:00:00Z"
+
 # get response
 response="$(fbpost "$TOKEN" "954536198012085" "$msg" "$ctime" "https://www.pralek.cz/$id?usp=fb")"
 [[ $? != 0 ]] \
