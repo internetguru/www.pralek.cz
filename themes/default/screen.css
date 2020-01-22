@@ -504,7 +504,7 @@ dl.toptags dd {
 }
 @media all and (min-width: 42em) {
   .author .contentbalancer-simple li:first-child {
-    margin-right: 0em;
+    margin-right: 1em;
   }
 }
 #feedback button:first-child,
@@ -854,7 +854,7 @@ ol.otazky li:last-child {
   }
 }
 .contentbalancer-simple li.facebook {
-  margin-top: 0.35em;
+  margin-top: 0.5em;
 }
 .contentbalancer-simple li.facebook a {
   display: inline-flex;
