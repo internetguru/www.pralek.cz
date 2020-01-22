@@ -57,7 +57,7 @@
               <span class="comment hideable-nohide">
               <xsl:element name="a">
                 <xsl:attribute name="href">https://www.facebook.com/pralek/posts/<xsl:value-of disable-output-escaping="yes" select="$fbcommentid"/></xsl:attribute>
-                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
+                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fbcomment-title"/></xsl:attribute>
                 Diskutovat na našem Facebooku
               </xsl:element>         
               </span>
