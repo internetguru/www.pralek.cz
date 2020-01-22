@@ -3,7 +3,7 @@
 
 <!-- https://cdn.pixabay.com/photo/2016/05/02/01/04/forest-1366345_1280.jpg  -->
 
-{id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy" ctime="2020-01-14T11:06:04+01:00"}
+{id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy" ctime="2020-01-14T11:07:08+01:00"}
 
 # Proč se točí hlava
 
@@ -32,11 +32,60 @@ K podráždění zdravého vestibulárního ústrojí může dojít buď zevním
 
 Zevním podrážděním je možné si přivodit nechtěné nebo chtěné točení hlavy.
 
+Závrať
+:   Jedná se o náhle vzniklé narušení prostorového vnímání a stability organismu (nejčastěji nad velkou hloubkou).
+
+Působení [pohybu, který nekoresponduje se zrakem][1]
+:   Nejčastěji se jedná o jízdu na kolotoči, houpačce, lodi a v autě, otáčení se se zavřenýma očima apod.
+
+Působení jedů
+:   Točení hlavy je jeden z [příznaků působení nejrůznějších jedů][2] jako je alkohol či oxid uhelnatý, dále některé houby, zkažené maso, některé drogy a organická rozpouštědla.
+:   Feťáci si točení hlavy navozují záměrně vdechováním organických rozpouštědel. {class="example"}
+
+Nedostatečné [zavodnění organismu][3] (dehydratace)
+:   [Nedostatek tekutin][3] způsobuje přehřátí organismu, které doprovází točení hlavy.
+
+Nevolnost a zvracení
+:   Točení hlavy často doprovází onemocnění zažívacího traktu, jako jsou například [poruchy trávení][4] nebo [žaludeční vředy][5].
+
+[Předýchávání][6] (hyperventilace) u nervově labilního člověka
+:   Předýchávání vede k nechtěnému a nepříjemnému točení hlavy.
+:   V případě [holotropního dýchání][7] je však točení hlavy dokonce i s následnou poruchou vědomí záměrem. {class="example"}
+
 {id="nemoci\_zpusobujici\_toceni_hlavy"}
 
 ### Nemoci způsobující točení hlavy
 
 Vertigo doprovází choroby, které vedou ke změně prokrvení mozku nebo k jeho nesprávnému dráždění.
+
+Výkyv [krevního tlaku][8]
+:   Při nadměrném poklesu [krevního tlaku][8] se před omdlením téměř vždy zatočí hlava.
+:   Nadměrné zvýšení [krevního tlaku][8] často vede k točení hlavy, obzvláště při změně polohy těla (například leh-sed).
+
+Některé infekce
+:   Točení hlavy způsobují také [infekce][9], jako jsou například [chřipka][10], spála, zarděnky a spalničky.
+
+Neurologické onemocnění
+:   Točení hlavy může způsobovat i [nádor mozku][11], cévní mozková příhoda nebo předzvěst (aura) před epileptickým záchvatem.
+
+[Onemocnění krční páteře][12]
+:   Stažením svalů a vazů postiženého úseku páteře může vést k vertigu z důvodu omezení přítoku krve do mozku.
+
+Některé oční nemoci
+:   Točení a [bolest hlavy][13] mohou způsobovat oční nemoci, jako například refrakční vady, glaukom a porucha okohybných svalů.
+
+Určitá porucha srdečního rytmu
+:   Porucha může způsobit celkovou slabost a točení hlavy. Nemocný přitom nemusí mít žádnou [bolesti na hrudi][14].
+
+Zánět zevního zvukovodu
+:   Zánět může drážděním polokruhovitých kanálků způsobit točení hlavy se všemi [doprovodnými projevy][1].
+
+Změněná psychika (psychogenní vertigo) 
+:   Nejčastěji se jedná o závrať.
+:   Jestliže nebyla nalezena organická příčina potíží, je nutné k vyřešetření problému vyhledat psychologa nebo psychiatra.
+
+[Nízká hladina cukru v krvi][15]
+:   Málo cukru často vede k celkové slabosti a točení hlavy z důvodu nedostatečné dodávky energie mozkovým buňkám (hypoglykémie).
 
 {id="kratkodobe\_onemocneni\_vestibularniho_ustroji"}
 
@@ -103,4 +152,18 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: https://www.pralek.cz/kinetoza
+ [2]: https://www.pralek.cz/tlak_zaludku
+ [3]: https://www.pralek.cz/teplota%20a%20https://www.pralek.cz/vodni_rezim
+ [4]: https://www.pralek.cz/funkcni_poruchy_traveni
+ [5]: https://www.pralek.cz/komplikace_vredu
+ [6]: https://www.pralek.cz/nadmerne_dychani
+ [7]: https://www.pralek.cz/nadmerne_dychani#holotropni_dychani
+ [8]: https://www.pralek.cz/krevni_tlak
+ [9]: https://www.pralek.cz/mikroorganizmy
+ [10]: https://www.pralek.cz/chripka
+ [11]: https://www.pralek.cz/subduralni_hematom
+ [12]: https://www.pralek.cz/bolesti_v_zadech_houser
+ [13]: https://www.pralek.cz/bolest_hlavy_migrena
+ [14]: https://www.pralek.cz/srdecni_infarkt
+ [15]: https://www.pralek.cz/cukrovka
 
