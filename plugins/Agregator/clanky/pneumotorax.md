@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1859764960822533" data-type="article" data-image="/files/preview/koutek/pneumotorax/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/pneumotorax/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2013-08-22" mtime="2013-08-22" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="pneumotorax" short="Pneumotorax"}
 

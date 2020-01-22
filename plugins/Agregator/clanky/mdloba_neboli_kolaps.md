@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1859761114156251" data-type="article" data-image="/files/preview/koutek/mdloba\_neboli\_kolaps/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/mdloba\_neboli\_kolaps/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-03-16" mtime="2008-03-16" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mdloba\_neboli_kolaps" short="Mdloba neboli kolaps"}
 

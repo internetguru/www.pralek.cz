@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1859759897489706" data-type="article" data-image="/files/preview/koutek/kyla/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/kyla/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-01-08" mtime="2008-01-08" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="kyla" short="Kýla"}
 

@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1859764850822544" data-type="article" data-image="/files/preview/koutek/plisne_kuze/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/plisne_kuze/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2011-09-25" mtime="2011-09-25" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="plisne\_kuze" short="Plísně kůže"}
 

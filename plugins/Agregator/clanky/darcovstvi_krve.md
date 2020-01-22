@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1859756764156686" data-type="article" data-image="/files/preview/koutek/darcovstvi_krve/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/darcovstvi_krve/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-05-25" mtime="2009-05-25" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="darcovstvi\_krve" short="Dárcovství krve"}
 

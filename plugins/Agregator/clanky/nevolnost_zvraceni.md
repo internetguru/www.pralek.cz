@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1859762477489448" data-type="article" data-image="/files/preview/koutek/nevolnost_zvraceni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/nevolnost_zvraceni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2019-11-14" mtime="2019-11-14" id="nevolnost\_zvraceni" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Nevolnost a zvracení"}
 

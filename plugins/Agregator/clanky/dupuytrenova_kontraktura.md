@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1859757307489965" data-type="article" data-image="/files/preview/koutek/dupuytrenova_kontraktura/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/dupuytrenova_kontraktura/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2011-03-19" mtime="2011-03-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="dupuytrenova\_kontraktura" short="Dupuytrenova kontraktura"}
 

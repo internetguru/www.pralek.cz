@@ -78,7 +78,7 @@ Určitá porucha srdečního rytmu
 Zánět zevního zvukovodu
 :   Zánět může drážděním polokruhovitých kanálků způsobit točení hlavy se všemi [doprovodnými projevy][1].
 
-Změněná psychika (psychogenní vertigo) 
+Změněná psychika (psychogenní vertigo)
 :   Nejčastěji se jedná o závrať.
 :   Jestliže nebyla nalezena organická příčina potíží, je nutné k vyřešetření problému vyhledat psychologa nebo psychiatra.
 
@@ -105,7 +105,7 @@ Dlouhodobé točení hlavy je způsobeno onemocněním vnitřního ucha. To se, 
 
 {class="example"}
 
-Dlouhodobé onemocnění postihuje starší lidi. Epizody mají různé intenzity od minut až po hodiny. 
+Dlouhodobé onemocnění postihuje starší lidi. Epizody mají různé intenzity od minut až po hodiny.
 
 Příčina nemoci je neznámá. Léčení spočívá v potlačování jednotlivých velmi obtěžujících příznaků.
 

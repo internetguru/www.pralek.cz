@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1859767857488910" data-type="article" data-image="/files/preview/koutek/srdecni_infarkt/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/srdecni_infarkt/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-05-12" mtime="2008-05-12" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="srdecni\_infarkt" short="Srdeční infarkt"}
 

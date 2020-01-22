@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1859757484156614" data-type="article" data-image="/files/preview/koutek/funkcni\_poruchy\_traveni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/funkcni\_poruchy\_traveni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-09-10" mtime="2009-09-10" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="funkcni\_poruchy_traveni" short="Funkční poruchy trávení"}
 

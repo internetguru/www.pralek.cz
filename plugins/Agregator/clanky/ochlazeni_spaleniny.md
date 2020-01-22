@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1859762947489401" data-type="article" data-image="/files/preview/koutek/ochlazeni_spaleniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/ochlazeni_spaleniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2007-10-21" mtime="2015-08-04" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ochlazeni\_spaleniny" short="Ochlazení spáleniny"}
 

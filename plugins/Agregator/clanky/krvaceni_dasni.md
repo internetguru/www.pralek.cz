@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1859759090823120" data-type="article" data-image="/files/preview/koutek/krvaceni_dasni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/krvaceni_dasni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2013-03-15" mtime="2013-03-15" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_dasni" short="Krvácení dásní"}
 

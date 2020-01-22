@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1859756680823361" data-type="article" data-image="/files/preview/koutek/cukrovka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-type="article" data-image="/files/preview/koutek/cukrovka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-03-26" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cukrovka" short="Cukrovka"}
 
