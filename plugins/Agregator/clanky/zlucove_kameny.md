@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/zlucove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859961817469514" data-type="article" data-image="/files/preview/koutek/zlucove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2007-11-09" mtime="2016-06-18" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlucove\_kameny" short="Žlučové kameny"}
 
