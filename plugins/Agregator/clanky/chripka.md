@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/chripka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859866174145745" data-type="article" data-image="/files/preview/koutek/chripka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-07-20" mtime="2008-07-20" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="chripka" short="Chřipka"}
 
