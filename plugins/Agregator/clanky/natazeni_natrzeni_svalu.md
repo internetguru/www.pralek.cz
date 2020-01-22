@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/natazeni\_natrzeni\_svalu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859909400808089" data-type="article" data-image="/files/preview/koutek/natazeni\_natrzeni\_svalu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-12-30" mtime="2009-12-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="natazeni\_natrzeni_svalu" short="Natažení nebo natržení svalu"}
 

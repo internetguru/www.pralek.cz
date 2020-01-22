@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/pichnuti_injekce/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859927637472932" data-type="article" data-image="/files/preview/koutek/pichnuti_injekce/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2016-04-11" mtime="2016-04-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pichnuti\_injekce" short="Píchnutí injekce"}
 
