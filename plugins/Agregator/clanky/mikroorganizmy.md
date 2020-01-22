@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/mikroorganizmy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859901470808882" data-type="article" data-image="/files/preview/koutek/mikroorganizmy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-06-16" mtime="2008-06-16" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="mikroorganizmy" short="Mikroorganizmy"}
 
