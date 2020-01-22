@@ -24,8 +24,8 @@ Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče,
     Ambulantní chirurg s 40letou praxí
 :   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař [rychlé lékařské pomoci][2].
 :     * [Jak podpořit Pralék {class="definition-skip"}][3]
-      * [Staňte se patronem][4] {class="donation"}
-      * n/a {class="facebook" var="inputvar-fb-share"} {data-visibility="/" class="contentbalancer-simple"}
+      * [<span class="fab fa-facebook">i</span>Sledujte nás {title="Sledovat Pralék na Facebooku"}][4] {class="facebook"}
+      * [Staňte se patronem][5] {class="donation"} {data-visibility="/" class="contentbalancer-simple"}
 
 {id="sponzoring"}
 
@@ -48,11 +48,11 @@ Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah
   * interaktivní testy (abc) s automatickým vyhodnocením,
   * překlady, lokalizace a zpřístupnění obsahu ve více jazycích.
 
-Pro účely dotací jsme zvolili službu [Patreon][4]. Služba je napůl anglicky a podporuje platby přes [PayPal][5] a platební karty. Pokud chcete web sponzorovat jiným způsobem nebo za jiných podmínek, [ozvěte se autorovi na e-mail][6].
+Pro účely dotací jsme zvolili službu [Patreon][5]. Služba je napůl anglicky a podporuje platby přes [PayPal][6] a platební karty. Pokud chcete web sponzorovat jiným způsobem nebo za jiných podmínek, [ozvěte se autorovi na e-mail][7].
 
 {class="contentbalancer-simple"}
 
-  * [Staňte se patronem][4] {class="donation"}
+  * [Staňte se patronem][5] {class="donation"}
 
 {short="Odběr novinek" id="upozorneni"}
 
@@ -165,10 +165,10 @@ n/a
 
 n/a
 
-  1. Jsou-li v bodě [Účel][7] mezi osobními údaji uvedeny soubory cookie, platí pro jejich zpracování následující pravidla.
+  1. Jsou-li v bodě [Účel][8] mezi osobními údaji uvedeny soubory cookie, platí pro jejich zpracování následující pravidla.
       * Pravidla pro používání nebo zablokování cookies si může každý uživatel nastavit ve svém internetovém prohlížeči, čímž dává najevo svůj souhlas s jejich zpracováním.
       * Uživatel si může nastavit povolení nebo odmítnutí veškerých nebo pouze některých souborů cookies (např. cookies třetích stran). Zablokování souborů cookies může mít negativní vliv na použitelnost webové stránky a služby.
-      * Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti [Google {title="Zásady ochrany osobních údajů Google"}][8] ([informace o cookies {title="Jak Google využívá soubory cookie"}][9]).
+      * Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti [Google {title="Zásady ochrany osobních údajů Google"}][9] ([informace o cookies {title="Jak Google využívá soubory cookie"}][10]).
   2. Vznesete-li námitku proti zpracování technických cookies nezbytných pro fungování webových stránek, nelze v takovém případě zaručit plnou funkčnost a kompatibilitu webových stránek.
 
 {id="prijemci" short="Příjemci"}
@@ -232,10 +232,11 @@ n/a
  [1]: /files/thumbs/jaroslav_pavelka.jpg "MUDr. Jaroslav Pavelka"
  [2]: rychla_lekarska_pomoc
  [3]: #sponzoring
- [4]: https://www.patreon.com/pralek
- [5]: https://www.paypal.com
- [6]: mailto:mudr.pavelka@pralek.cz
- [7]: #ucel
- [8]: https://policies.google.com/privacy?hl=cs
- [9]: https://policies.google.com/technologies/cookies?hl=cs
+ [4]: https://www.facebook.com/pralek
+ [5]: https://www.patreon.com/pralek
+ [6]: https://www.paypal.com
+ [7]: mailto:mudr.pavelka@pralek.cz
+ [8]: #ucel
+ [9]: https://policies.google.com/privacy?hl=cs
+ [10]: https://policies.google.com/technologies/cookies?hl=cs
 
