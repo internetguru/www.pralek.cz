@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/skoky\_do\_vody/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859941794138183" data-type="article" data-image="/files/preview/koutek/skoky\_do\_vody/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2015-03-23" mtime="2015-03-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="skoky\_do_vody" short="Skoky do vody"}
 
