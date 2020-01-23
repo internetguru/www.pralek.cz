@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/zanet_slinivky/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859959200803109" data-type="article" data-image="/files/preview/koutek/zanet_slinivky/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2011-05-04" mtime="2011-05-04" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_slinivky" short="Zánět slinivky"}
 

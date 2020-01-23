@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/vhodna_obuv/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859954680803561" data-type="article" data-image="/files/preview/koutek/vhodna_obuv/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2011-11-28" mtime="2011-11-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vhodna\_obuv" short="Vhodná obuv"}
 

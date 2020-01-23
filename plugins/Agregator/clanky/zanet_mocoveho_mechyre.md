@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/zanet\_mocoveho\_mechyre/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859958557469840" data-type="article" data-image="/files/preview/koutek/zanet\_mocoveho\_mechyre/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-01-27" mtime="2010-01-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_mocoveho_mechyre" short="Zánět močového měchýře"}
 

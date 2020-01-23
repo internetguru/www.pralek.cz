@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/tlak_zaludku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859952217470474" data-type="article" data-image="/files/preview/koutek/tlak_zaludku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2011-06-14" mtime="2011-06-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tlak\_zaludku" short="Tlak žaludku"}
 

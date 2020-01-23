@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/urazy_deti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859953800803649" data-type="article" data-image="/files/preview/koutek/urazy_deti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-08-11" mtime="2009-08-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="urazy\_deti" short="Úrazy malých dětí"}
 

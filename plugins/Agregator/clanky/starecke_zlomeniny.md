@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/starecke_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859947157470980" data-type="article" data-image="/files/preview/koutek/starecke_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-06-22" mtime="2009-06-22" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="starecke\_zlomeniny" short="Stařecké zlomeniny"}
 

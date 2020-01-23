@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/prostata/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859935144138848" data-type="article" data-image="/files/preview/koutek/prostata/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2011-02-20" mtime="2011-02-20" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="prostata" short="Prostata"}
 

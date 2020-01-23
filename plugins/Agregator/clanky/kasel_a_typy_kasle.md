@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/kasel\_a\_typy_kasle/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859878090811220" data-type="article" data-image="/files/preview/koutek/kasel\_a\_typy_kasle/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-12-02" mtime="2008-12-02" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="kasel\_a\_typy\_kasle" short="Kašel"}
 

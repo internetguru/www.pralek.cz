@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/bolesti\_v\_zadech_houser/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859857374146625" data-type="article" data-image="/files/preview/koutek/bolesti\_v\_zadech_houser/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-11-20" mtime="2008-11-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolesti\_v\_zadech\_houser" short="Bolesti v zádech"}
 

@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/pece\_o\_zvukovod/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859925557473140" data-type="article" data-image="/files/preview/koutek/pece\_o\_zvukovod/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2012-07-31" mtime="2012-07-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pece\_o_zvukovod" short="Péče o zvukovod"}
 

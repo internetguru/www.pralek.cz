@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/komplikace_vredu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859880254144337" data-type="article" data-image="/files/preview/koutek/komplikace_vredu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2011-07-31" mtime="2011-07-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="komplikace\_vredu" short="Komplikace žaludečních vředů"}
 

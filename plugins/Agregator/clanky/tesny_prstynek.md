@@ -1,5 +1,5 @@
 
-{data-type="article" data-image="/files/preview/koutek/tesny_prstynek/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859951530803876" data-type="article" data-image="/files/preview/koutek/tesny_prstynek/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2015-05-28" mtime="2015-05-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tesny\_prstynek" short="Těsný prstýnek"}
 

@@ -7,7 +7,8 @@
   <jsFile append="body">themes/completable-init.js</jsFile>
   <jsFile append="body" if-xpath="/body[contains(@class, 'agregator')]">themes/article-bg.js</jsFile>
   <jsFile append="body">themes/feedback.js</jsFile>
-  <stylesheet>lib/font-awesome/css/font-awesome.css</stylesheet>
+<!--   <stylesheet>lib/font-awesome/css/font-awesome.css</stylesheet> -->
+  <jsFile append="body">themes/fa.js</jsFile>
   <stylesheet>themes/iefix.css</stylesheet>
 
   <favicon>themes/icon/Lovoo_Icon_Heart.ico</favicon>
