@@ -25,7 +25,7 @@ Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče,
 :   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař [rychlé lékařské pomoci][2].
 :     * [Jak podpořit Pralék {class="definition-skip"}][3]
       * [Staňte se patronem][4] {class="donation"}
-      * [<span class="fab fa-facebook">i</span>Sledujte nás {title="Sledovat Pralék na Facebooku"}][5] {class="facebook"} {data-visibility="/" class="contentbalancer-simple"}
+      * [Sledujte nás <span class="fab fa-facebook-square">i</span> {title="Sledovat Pralék na Facebooku"}][5] {class="facebook"} {data-visibility="/" class="contentbalancer-simple"}
 
 {id="sponzoring"}
 
