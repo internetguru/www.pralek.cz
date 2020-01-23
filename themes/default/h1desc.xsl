@@ -40,6 +40,13 @@
               <span class="copyable" fn="inputvar-createlink">
                 <xsl:value-of disable-output-escaping="yes" select="$link"/>
               </span>
+              <span class="comment hideable-nohide">
+              <xsl:element name="a">
+                <xsl:attribute name="href">https://www.facebook.com/pralek/posts/<xsl:value-of disable-output-escaping="yes" select="$fbcommentid"/></xsl:attribute>
+                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fbcomment-title"/></xsl:attribute>
+                Diskutovat na našem Facebooku
+              </xsl:element>         
+              </span>
               <span class="fb hideable-nohide">
               <xsl:element name="a">
                 <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
@@ -52,13 +59,6 @@
                 <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
                 <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
                 Sdílet na Twitteru
-              </xsl:element>         
-              </span>
-              <span class="comment hideable-nohide">
-              <xsl:element name="a">
-                <xsl:attribute name="href">https://www.facebook.com/pralek/posts/<xsl:value-of disable-output-escaping="yes" select="$fbcommentid"/></xsl:attribute>
-                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fbcomment-title"/></xsl:attribute>
-                Diskutovat na našem Facebooku
               </xsl:element>         
               </span>
               <span class="edit hideable-nohide">
