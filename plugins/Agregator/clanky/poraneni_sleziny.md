@@ -9,7 +9,7 @@
 
 Poranění sleziny může být velmi zákeřným úrazem. Přes relativní nenápadnost rozvoje příznaků může zraněná slezina ohrozit nemocného na životě. Operace poraněné sleziny včetně jejího odstranění naštěstí nevede následně k poruchám zdraví.
 
-Slezina je bohatě prokrvený křehký orgán uložený ve vazivovém pouzdře v dutině břišní (v levém podžebří). Podílí se [na rozvoji imunity][1], obměně krvinek, tvorbě protilátek a slouží jako rezervoár krve. Přesto, že slezina plní nepostradatelnou funkci v lidském těle, nebyly popsány závažnější poruchy zdraví v souvislosti s poúrazovou ztrátou sleziny.
+Slezina je bohatě prokrvený křehký orgán uložený ve vazivovém pouzdře v dutině břišní (v levém podžebří). Podílí se [na rozvoji imunity][1], obměně krvinek, tvorbě protilátek a slouží jako rezervoár krve. Přesto, že slezina plní důležitou funkci v lidském těle, nebyly popsány závažnější poruchy zdraví v souvislosti s poúrazovou ztrátou sleziny.
 
 {class="example"}
 
@@ -60,7 +60,7 @@ U případů, kdy je přítomen jen malý krevní výron a pouzdro sleziny je ne
 
 Při rozsáhlejším natržení či roztržení sleziny je léčba primárně chirurgická. Při klasické břišní operaci se trhlina zaceluje speciálním tkáňovým lepidlem, nebo se slezina dle stupně poškození částečně či kompletně odstraňuje.
 
-Lidské tělo je tak dokonalé, že se dokáže se ztrátou sleziny samo vyrovnat. Po ztrátě sleziny totiž přebírají její nepostradatelnou funkci jiné orgány, které ji dokážou téměř plně nahradit. Zajímavostí z medicínského pohledu je fakt, že člověk po ztrátě sleziny se může klidně stát [dárcem krve][9].
+Lidské tělo je tak dokonalé, že se dokáže se ztrátou sleziny samo vyrovnat. Po ztrátě sleziny totiž přebírají její funkci jiné orgány, které ji dokážou téměř plně nahradit. Zajímavostí z medicínského pohledu je fakt, že člověk po ztrátě sleziny se může klidně stát [dárcem krve][9].
 
 {id="otazky" var="inputvar-otazky_h"}
 
