@@ -32,7 +32,7 @@
           }
         },
         sendGAEvents = function (event) {
-          var element = event.target
+          var element = this
           // all external
           if (element.host === window.location.host) {
             if (!element.classList.contains(Config.ns)) {
