@@ -15,7 +15,7 @@ Nadměrné dýchání způsobuje nežádoucí stav organizmu s různými projevy
 
 {class="example"}
 
-Někdy bývá potřeba šetřit dechem. Například potápěč během ponoru dýchá velmi pomalu a zhluboka, aby co nejdéle vydržel pod vodou se zásobou vzduchu. Jindy je třeba se naopak rozcvičit a hodně prodýchat, například před krátkodobým náročným sportovním výkonem. Takto změněné dýchání není ničím nebezpečné, sportovec přesně ví, co a proč dělá.
+Někdy bývá potřeba šetřit dechem. Například potápěč během ponoru dýchá velmi pomalu a zhluboka, aby co nejdéle vydržel pod vodou s omezenou zásobou vzduchu. Jindy je třeba se naopak rozcvičit a hodně prodýchat, například před krátkodobým náročným sportovním výkonem. Takto změněné dýchání není ničím nebezpečné, sportovec přesně ví, co a proč dělá.
 
 {id="chorobne\_nadmerne\_dychani_hyperventilace"}
 

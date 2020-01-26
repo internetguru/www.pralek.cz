@@ -21,11 +21,11 @@ Migréna _(hemicranie)_ je krutá nesnesitelná bolest většinou poloviny hlavy
 
 Mnoho lidí trpících migrénou na sobě s předstihem pozná, že bolest přijde takzvanými **prodromy** (soubor různých příznaků o různé délce). Někdy se podaří, vzít si prášek proti bolesti včas, dříve než se bolest hlavy plně vyvine. Jestli je však tato doba promarněna nebo se prodromy neprojeví, **je těžké rozvinutou bolest hlavy odstranit**. Často je nutné užívat _speciální léky proti migréně_, které ordinuje pouze specialista neurolog po patřičných vyšetřeních.
 
-Migréna je následkem chybného prokrvení části mozku. Počínající bolest hlavy tvoří v cévní stěně změny, které vedou ke zhoršení bolesti a vzniká začarovaný kruh. Proto je možné si vzít v počátku bolesti hlavy jakýkoli lék proti bolesti.
+Migréna vzniká následkem chybného prokrvení části mozku. Počínající bolest hlavy tvoří v cévní stěně změny, které vedou ke zhoršení bolesti a vzniká začarovaný kruh. Proto je možné si vzít v počátku bolesti hlavy jakýkoli lék proti bolesti.
 
-{id="nejcastejsi\_priciny\_bolesti\_hlavy\_a\_jejich\_reseni"}
+{id="nejcastejsi\_priciny\_ostatnich\_bolesti\_hlavy\_a\_jejich\_reseni"}
 
-## Nejčastější příčiny bolestí hlavy a jejich řešení
+## Nejčastější příčiny ostatních bolestí hlavy a jejich řešení
 
 n/a
 
