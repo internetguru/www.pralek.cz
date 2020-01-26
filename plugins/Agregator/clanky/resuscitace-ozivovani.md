@@ -5,9 +5,9 @@
 
 # Resuscitace neboli oživování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-01-26, do not edit -->
 
-{kw="poruchy vědomí, poranění, první pomoc, srdce"}
+{kw="poruchy vědomí, dýchání, poranění, kolaps, první pomoc, srdce"}
 
 V případě vyhasnutí základních životních funkcí zachrání život neodkladné zahájení srdeční masáže ještě před příjezdem lékaře.
 
