@@ -36,7 +36,7 @@ Celkově bledý obličej nabývá nádech domodra. Zvláště modrají rty, nos,
 
 {class="important"}
 
-Zkolabovaný člověk se zachovanými základními životními funkcemi (to je dýchání a akce srdeční) resuscitaci nepotřebuje. Jeho obličej a rty mají normální barvu.
+Zkolabovaný člověk se zachovanými základními životními funkcemi (to je dýchání a akce srdeční) resuscitaci nepotřebuje. Jeho rty mají normální barvu.
 
 {id="proces\_ozivovani\_zivotni_funkce"}
 
