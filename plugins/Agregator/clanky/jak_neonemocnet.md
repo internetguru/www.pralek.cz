@@ -1,7 +1,7 @@
 
 {data-fbcommentid="n/a" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/jak_neonemocnet/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{id="jak\_neonemocnet" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Jak neonemocnět" ctime="2020-02-05T13:46:47+01:00"}
+{id="jak\_neonemocnet" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Jak neonemocnět" ctime="2020-02-05"}
 
 # Jak nepodlehnout chřipce
 
