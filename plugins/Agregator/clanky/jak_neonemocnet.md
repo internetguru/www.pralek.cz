@@ -1,7 +1,7 @@
 
 {data-fbcommentid="n/a" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/jak_neonemocnet/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{id="jak\_neonemocnet" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Jak neonemocnět" ctime="2020-02-05"}
+{ctime="2020-02-05" mtime="2020-02-05" id="jak\_neonemocnet" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Jak neonemocnět"}
 
 # Jak nepodlehnout chřipce
 
@@ -23,7 +23,7 @@ Zdravý a silný jedinec může snadno podlehnout běžné viróze, pokud jeho o
 
 {class="example"}
 
-Mladý zdravý člověk může podlehnout [meningokoku][2] po několikadenním náročném festivalu, pokud je vyčerpaný, hladový a prochladne. Nejedná se o výjimečnou zákeřnost bacilu. Se stejným bacilem se nepochybně setkala řada dalších návštěvníků téže akce. Ti ovšem nebyli tolik vyčerpaní, a tak útok bacilu odbourali přirozenou imunitou zcela bez povšimnutí.
+Mladý zdravý člověk může podlehnout meningokoku po několikadenním náročném festivalu, pokud je vyčerpaný, hladový a [prochladne][2]. Nejedná se o výjimečnou zákeřnost bacilu. Se stejným bacilem se nepochybně setkala řada dalších návštěvníků téže akce. Ti ovšem nebyli tolik vyčerpaní, a tak útok bacilu odbourali přirozenou imunitou zcela bez povšimnutí.
 
 {id="vyhybani\_se\_virum"}
 
