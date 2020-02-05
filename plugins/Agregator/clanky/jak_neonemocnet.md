@@ -89,9 +89,9 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: https://www.pralek.cz/chripka
- [2]: https://www.pralek.cz/teplota
- [3]: https://www.pralek.cz/stravovaci_navyky
- [4]: https://www.pralek.cz/mikroorganizmy
- [5]: https://www.pralek.cz/imunita
+ [1]: chripka
+ [2]: teplota
+ [3]: stravovaci_navyky
+ [4]: mikroorganizmy
+ [5]: imunita
 
