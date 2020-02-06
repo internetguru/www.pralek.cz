@@ -5,7 +5,8 @@ article="$1"
   && echo "Article '$article' does not exists" \
   && exit 1
 
-customMsg="$2"
+published="${2:-0}"
+customMsg="$3"
 
 # load attrs
 articleContent="$(< "$article")"
@@ -38,7 +39,7 @@ msg="$msg"$'\n'"$kws"
 ctime="${ctime}T18:00:00Z"
 
 # get response
-response="$(fbpost "$TOKEN" "954536198012085" "$msg" "$ctime" "https://www.pralek.cz/$id?usp=fb")"
+response="$(fbpost "$TOKEN" "954536198012085" "$msg" "$ctime" "https://www.pralek.cz/$id?usp=fb" "$published")"
 [[ $? != 0 ]] \
   && echo -e "Unable to create Facebook post:\n$response" \
   && exit 1
