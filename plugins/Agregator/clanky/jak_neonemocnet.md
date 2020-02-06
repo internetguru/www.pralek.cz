@@ -1,5 +1,5 @@
 
-{data-fbcommentid=" " xml:lang="cs" data-type="article" data-image="/files/preview/koutek/jak_neonemocnet/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
+{data-fbcommentid="1873365662795796" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/jak_neonemocnet/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
 {ctime="2020-02-05" mtime="2020-02-05" id="jak\_neonemocnet" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Jak neonemocnět"}
 
