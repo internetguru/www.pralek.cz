@@ -5,6 +5,8 @@ article="$1"
   && echo "Article '$article' does not exists" \
   && exit 1
 
+customMsg="$2"
+
 # load attrs
 articleContent="$(< "$article")"
 ctime="$(echo "$articleContent" | hxselect -c "body > h::attr(ctime)")"
@@ -19,10 +21,19 @@ kws="#$(echo "$kws" | sed 's/\(\w\) /\1_/g;s/-/_/g;s/, / #/g')"
 [[ -z "$short" ]] \
   && short="$(echo "$articleContent" | hxselect -c "body > h")"
 
-msg="Vydali jsme nový článek na téma $short"$'\n'"$kws"
-[[ "$ctime" != "$mtime" ]] \
- && msg="Článek na téma $short prošel významnou revizí"$'\n'"$kws" \
- && ctime="$mtime"
+# create message
+msg="Vydali jsme nový článek na téma $short"
+if [[ -n "$customMsg" ]]; then
+  msg="${customMsg/\$short/$short}"
+elif [[ "$ctime" != "$mtime" ]]; then
+ msg="Článek na téma $short prošel významnou revizí"
+ ctime="$mtime"
+fi
+msg="$msg"$'\n'"$kws"
+
+[[ -n "$DEBUG" ]] \
+  && echo "$msg" \
+  && exit 0
 
 ctime="${ctime}T18:00:00Z"
 
