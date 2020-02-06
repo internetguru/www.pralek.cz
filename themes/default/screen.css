@@ -473,9 +473,15 @@ h2 a.tag svg {
   margin-left: 0.5em;
 }
 dl.toptags {
-  flex: 0 1 96% !important;
-  max-width: 36em !important;
+  flex: 0 0 96% !important;
+  max-width: 96% !important;
 }
+dl.toptags > * {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 36rem;
+}
+
 dl.toptags dt {
   margin-top: 2em;
   margin-bottom: 1em;
@@ -1312,3 +1318,4 @@ div.part.dotace {
 p:not(.description), div:not(.list), .author ul, ol, dl {
   clear: both;
 }
+
