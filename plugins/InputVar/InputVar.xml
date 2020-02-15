@@ -47,7 +47,7 @@
     <call>addusptaglist</call>
   </fn>
   
-  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;href=\1&#x22; title=&#x22;title=\1&#x22; class=&#x22;tag nowarning&#x22; data-local-title=&#x22;Na začátek seznamu&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
+  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href='href=\1' title=&#x22;title=\1&#x22; class=&#x22;tag nowarning&#x22; data-local-title=&#x22;Na začátek seznamu&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
   
 <!--   <fn id="removetitle" fn="pregreplace" pattern='href="\/\?stitek=bolest#clanky"' replacement='href="aaa"' /> -->
   
@@ -184,7 +184,7 @@
     <data name="title=tlakoměr"></data>
     <data name="href=tlakoměr"></data>
     <data name="title=točení hlavy"></data>
-    <data name="href=&#x22;href=točení hlavy#x22;"></data>
+    <data name="href='href=točení hlavy'"></data>
     <data name="title=úrazové"></data>
     <data name="href=úrazové"></data>
     <data name="title=úrazy">Filtrovat články</data>
