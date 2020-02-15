@@ -184,7 +184,7 @@
     <data name="title=tlakoměr"></data>
     <data name="href=tlakoměr"></data>
     <data name="title=točení hlavy"></data>
-    <data name="href=točení hlavy"></data>
+    <data name="href=&#x22;href=točení hlavy#x22;"></data>
     <data name="title=úrazové"></data>
     <data name="href=úrazové"></data>
     <data name="title=úrazy">Filtrovat články</data>
