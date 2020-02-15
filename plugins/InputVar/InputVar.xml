@@ -47,162 +47,162 @@
     <call>addusptaglist</call>
   </fn>
   
-  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;href=\1&#x22; title=&#x22;title=\1&#x22; class=&#x22;tag nowarning&#x22; data-local-title=&#x22;Na začátek seznamu&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
+  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href='href=\1' title='title=\1' class='tag nohash' data-local-title='Na začátek seznamu' &#x3E;\1&#x3C;/a&#x3E;" />
   
 <!--   <fn id="removetitle" fn="pregreplace" pattern='href="\/\?stitek=bolest#clanky"' replacement='href="aaa"' /> -->
   
   <fn id="replacenames" fn="replace">
 <!-- [replacenames] generated content, do not edit -->
-    <data name="title=alergie"></data>
-    <data name="href=alergie"></data>
-    <data name="title=angína"></data>
-    <data name="href=angína"></data>
-    <data name="title=antibiotika"></data>
-    <data name="href=antibiotika"></data>
-    <data name="title=bezvědomí"></data>
-    <data name="href=bezvědomí"></data>
+    <data name="title='title=alergie'"></data>
+    <data name="href='href=alergie'"></data>
+    <data name="title='title=angína'"></data>
+    <data name="href='href=angína'"></data>
+    <data name="title='title=antibiotika'"></data>
+    <data name="href='href=antibiotika'"></data>
+    <data name="title='title=bezvědomí'"></data>
+    <data name="href='href=bezvědomí'"></data>
     <data name="title=bolest">Filtrovat články</data>
     <data name="href=bolest">/?stitek=bolest#clanky</data>
-    <data name="title=boule"></data>
-    <data name="href=boule"></data>
+    <data name="title='title=boule'"></data>
+    <data name="href='href=boule'"></data>
     <data name="title=boulička">Filtrovat články</data>
     <data name="href=boulička">/?stitek=boulicka#clanky</data>
     <data name="title=břicho">Filtrovat články</data>
     <data name="href=břicho">/?stitek=bricho#clanky</data>
     <data name="title=cévy">Filtrovat články</data>
     <data name="href=cévy">/?stitek=cevy#clanky</data>
-    <data name="title=cukrovka"></data>
-    <data name="href=cukrovka"></data>
+    <data name="title='title=cukrovka'"></data>
+    <data name="href='href=cukrovka'"></data>
     <data name="title=dětské">Filtrovat články</data>
     <data name="href=dětské">/?stitek=detske#clanky</data>
-    <data name="title=dýchání"></data>
-    <data name="href=dýchání"></data>
-    <data name="title=hrudník"></data>
-    <data name="href=hrudník"></data>
+    <data name="title='title=dýchání'"></data>
+    <data name="href='href=dýchání'"></data>
+    <data name="title='title=hrudník'"></data>
+    <data name="href='href=hrudník'"></data>
     <data name="title=hygiena">Filtrovat články</data>
     <data name="href=hygiena">/?stitek=hygiena#clanky</data>
     <data name="title=imunita">Filtrovat články</data>
     <data name="href=imunita">/?stitek=imunita#clanky</data>
-    <data name="title=infarkt"></data>
-    <data name="href=infarkt"></data>
-    <data name="title=kašel"></data>
-    <data name="href=kašel"></data>
-    <data name="title=katetrizace"></data>
-    <data name="href=katetrizace"></data>
-    <data name="title=kloub"></data>
-    <data name="href=kloub"></data>
-    <data name="title=kocovina"></data>
-    <data name="href=kocovina"></data>
-    <data name="title=kolaps"></data>
-    <data name="href=kolaps"></data>
-    <data name="title=kolika"></data>
-    <data name="href=kolika"></data>
-    <data name="title=krev"></data>
-    <data name="href=krev"></data>
+    <data name="title='title=infarkt'"></data>
+    <data name="href='href=infarkt'"></data>
+    <data name="title='title=kašel'"></data>
+    <data name="href='href=kašel'"></data>
+    <data name="title='title=katetrizace'"></data>
+    <data name="href='href=katetrizace'"></data>
+    <data name="title='title=kloub'"></data>
+    <data name="href='href=kloub'"></data>
+    <data name="title='title=kocovina'"></data>
+    <data name="href='href=kocovina'"></data>
+    <data name="title='title=kolaps'"></data>
+    <data name="href='href=kolaps'"></data>
+    <data name="title='title=kolika'"></data>
+    <data name="href='href=kolika'"></data>
+    <data name="title='title=krev'"></data>
+    <data name="href='href=krev'"></data>
     <data name="title=krvácení">Filtrovat články</data>
     <data name="href=krvácení">/?stitek=krvaceni#clanky</data>
     <data name="title=kůže-podkoží">Filtrovat články</data>
     <data name="href=kůže-podkoží">/?stitek=kuze-podkozi#clanky</data>
     <data name="title=látková výměna">Filtrovat články</data>
     <data name="href=látková výměna">/?stitek=latkova_vymena#clanky</data>
-    <data name="title=ledviny"></data>
-    <data name="href=ledviny"></data>
+    <data name="title='title=ledviny'"></data>
+    <data name="href='href=ledviny'"></data>
     <data name="title=mikroorganizmy">Filtrovat články</data>
     <data name="href=mikroorganizmy">/?stitek=mikroorganizmy#clanky</data>
     <data name="title=močová soustava">Filtrovat články</data>
     <data name="href=močová soustava">/?stitek=mocova_soustava#clanky</data>
     <data name="title=mozek-nervy">Filtrovat články</data>
     <data name="href=mozek-nervy">/?stitek=mozek-nervy#clanky</data>
-    <data name="title=mýty"></data>
-    <data name="href=mýty"></data>
+    <data name="title='title=mýty'"></data>
+    <data name="href='href=mýty'"></data>
     <data name="title=nádory">Filtrovat články</data>
     <data name="href=nádory">/?stitek=nadory#clanky</data>
-    <data name="title=nehet"></data>
-    <data name="href=nehet"></data>
-    <data name="title=nemoc"></data>
-    <data name="href=nemoc"></data>
+    <data name="title='title=nehet'"></data>
+    <data name="href='href=nehet'"></data>
+    <data name="title='title=nemoc'"></data>
+    <data name="href='href=nemoc'"></data>
     <data name="title=neúrazové">Filtrovat články</data>
     <data name="href=neúrazové">/?stitek=neurazove#clanky</data>
     <data name="title=nevolnost">Filtrovat články</data>
     <data name="href=nevolnost">/?stitek=nevolnost#clanky</data>
     <data name="title=nezhoubné">Filtrovat články</data>
     <data name="href=nezhoubné">/?stitek=nezhoubne#clanky</data>
-    <data name="title=penis"></data>
-    <data name="href=penis"></data>
+    <data name="title='title=penis'"></data>
+    <data name="href='href=penis'"></data>
     <data name="title=pocení">Filtrovat články</data>
     <data name="href=pocení">/?stitek=poceni#clanky</data>
-    <data name="title=podchlazení"></data>
-    <data name="href=podchlazení"></data>
+    <data name="title='title=podchlazení'"></data>
+    <data name="href='href=podchlazení'"></data>
     <data name="title=pohyb">Filtrovat články</data>
     <data name="href=pohyb">/?stitek=pohyb#clanky</data>
-    <data name="title=polokruhovité kanálky"></data>
-    <data name="href=polokruhovité kanálky"></data>
+    <data name="title='title=polokruhovité kanálky'"></data>
+    <data name="href='href=polokruhovité kanálky'"></data>
     <data name="title=poranění">Filtrovat články</data>
     <data name="href=poranění">/?stitek=poraneni#clanky</data>
     <data name="title=poruchy vědomí">Filtrovat články</data>
     <data name="href=poruchy vědomí">/?stitek=poruchy_vedomi#clanky</data>
-    <data name="title=přehřátí"></data>
-    <data name="href=přehřátí"></data>
+    <data name="title='title=přehřátí'"></data>
+    <data name="href='href=přehřátí'"></data>
     <data name="title=prevence">Filtrovat články</data>
     <data name="href=prevence">/?stitek=prevence#clanky</data>
-    <data name="title=prochlazení"></data>
-    <data name="href=prochlazení"></data>
-    <data name="title=prostata"></data>
-    <data name="href=prostata"></data>
-    <data name="title=průjem"></data>
-    <data name="href=průjem"></data>
+    <data name="title='title=prochlazení'"></data>
+    <data name="href='href=prochlazení'"></data>
+    <data name="title='title=prostata'"></data>
+    <data name="href='href=prostata'"></data>
+    <data name="title='title=průjem'"></data>
+    <data name="href='href=průjem'"></data>
     <data name="title=první pomoc">Filtrovat články</data>
     <data name="href=první pomoc">/?stitek=prvni_pomoc#clanky</data>
-    <data name="title=rakovina"></data>
-    <data name="href=rakovina"></data>
-    <data name="title=rameno"></data>
-    <data name="href=rameno"></data>
-    <data name="title=rehabilitace"></data>
-    <data name="href=rehabilitace"></data>
-    <data name="title=retence moči"></data>
-    <data name="href=retence moči"></data>
-    <data name="title=říhání"></data>
-    <data name="href=říhání"></data>
-    <data name="title=spáleniny"></data>
-    <data name="href=spáleniny"></data>
+    <data name="title='title=rakovina'"></data>
+    <data name="href='href=rakovina'"></data>
+    <data name="title='title=rameno'"></data>
+    <data name="href='href=rameno'"></data>
+    <data name="title='title=rehabilitace'"></data>
+    <data name="href='href=rehabilitace'"></data>
+    <data name="title='title=retence moči'"></data>
+    <data name="href='href=retence moči'"></data>
+    <data name="title='title=říhání'"></data>
+    <data name="href='href=říhání'"></data>
+    <data name="title='title=spáleniny'"></data>
+    <data name="href='href=spáleniny'"></data>
     <data name="title=srdce">Filtrovat články</data>
     <data name="href=srdce">/?stitek=srdce#clanky</data>
-    <data name="title=stařecké"></data>
-    <data name="href=stařecké"></data>
-    <data name="title=statokinetické ústrojí"></data>
-    <data name="href=statokinetické ústrojí"></data>
+    <data name="title='title=stařecké'"></data>
+    <data name="href='href=stařecké'"></data>
+    <data name="title='title=statokinetické ústrojí'"></data>
+    <data name="href='href=statokinetické ústrojí'"></data>
     <data name="title=strach">Filtrovat články</data>
     <data name="href=strach">/?stitek=strach#clanky</data>
     <data name="title=strava-zažívání">Filtrovat články</data>
     <data name="href=strava-zažívání">/?stitek=strava-zazivani#clanky</data>
-    <data name="title=stravovací návyky"></data>
-    <data name="href=stravovací návyky"></data>
-    <data name="title=střevo"></data>
-    <data name="href=střevo"></data>
+    <data name="title='title=stravovací návyky'"></data>
+    <data name="href='href=stravovací návyky'"></data>
+    <data name="title='title=střevo'"></data>
+    <data name="href='href=střevo'"></data>
     <data name="title=tekutiny">Filtrovat články</data>
     <data name="href=tekutiny">/?stitek=tekutiny#clanky</data>
     <data name="title=teplota">Filtrovat články</data>
     <data name="href=teplota">/?stitek=teplota#clanky</data>
-    <data name="title=tlakoměr"></data>
-    <data name="href=tlakoměr"></data>
-    <data name="title=točení hlavy"></data>
-    <data name="href=točení hlavy"></data>
-    <data name="title=úrazové"></data>
-    <data name="href=úrazové"></data>
+    <data name="title='title=tlakoměr'"></data>
+    <data name="href='href=tlakoměr'"></data>
+    <data name="title='title=točení hlavy'"></data>
+    <data name="href='href=točení hlavy'"></data>
+    <data name="title='title=úrazové'"></data>
+    <data name="href='href=úrazové'"></data>
     <data name="title=úrazy">Filtrovat články</data>
     <data name="href=úrazy">/?stitek=urazy#clanky</data>
-    <data name="title=ušní-nosní-krční"></data>
-    <data name="href=ušní-nosní-krční"></data>
+    <data name="title='title=ušní-nosní-krční'"></data>
+    <data name="href='href=ušní-nosní-krční'"></data>
     <data name="title=uzlina">Filtrovat články</data>
     <data name="href=uzlina">/?stitek=uzlina#clanky</data>
-    <data name="title=uzliny"></data>
-    <data name="href=uzliny"></data>
-    <data name="title=vestibulární ústrojí"></data>
-    <data name="href=vestibulární ústrojí"></data>
-    <data name="title=vnitřní ucho"></data>
-    <data name="href=vnitřní ucho"></data>
-    <data name="title=vykloubení"></data>
-    <data name="href=vykloubení"></data>
+    <data name="title='title=uzliny'"></data>
+    <data name="href='href=uzliny'"></data>
+    <data name="title='title=vestibulární ústrojí'"></data>
+    <data name="href='href=vestibulární ústrojí'"></data>
+    <data name="title='title=vnitřní ucho'"></data>
+    <data name="href='href=vnitřní ucho'"></data>
+    <data name="title='title=vykloubení'"></data>
+    <data name="href='href=vykloubení'"></data>
     <data name="title=žaludek">Filtrovat články</data>
     <data name="href=žaludek">/?stitek=zaludek#clanky</data>
     <data name="title=zánět">Filtrovat články</data>
@@ -217,11 +217,11 @@
     <data name="href=zlomeniny">/?stitek=zlomeniny#clanky</data>
     <data name="title=žlučník">Filtrovat články</data>
     <data name="href=žlučník">/?stitek=zlucnik#clanky</data>
-    <data name="title=zvíře"></data>
-    <data name="href=zvíře"></data>
+    <data name="title='title=zvíře'"></data>
+    <data name="href='href=zvíře'"></data>
     <data name="title=zvracení">Filtrovat články</data>
     <data name="href=zvracení">/?stitek=zvraceni#clanky</data>
-<!-- generated by user_update.sh on 2020-02-05 -->
+<!-- generated by user_update.sh on 2020-02-15 -->
   </fn>
   
   <var id="taglist">
@@ -267,7 +267,7 @@
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=zlomeniny" href="href=zlomeniny">zlomeniny</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=žlučník" href="href=žlučník">žlučník</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=zvracení" href="href=zvracení">zvracení</a>
-<!-- generated by user_update.sh on 2020-02-05 -->
+<!-- generated by user_update.sh on 2020-02-15 -->
       </dd>
     </dl>
   </var>
@@ -423,7 +423,7 @@
 <option class="article" value="clanky/antibiotika">Proč nelze mít svá oblíbená antibiotika #clanky/antibiotika</option>
 <option class="article" value="clanky/akutni_torticollis">(Ne)závažnost strnutí šíje #clanky/akutni_torticollis</option>
 <option class="article" value="clanky/akne">Boj proti akné #clanky/akne</option>
-<!-- generated by user_update.sh on 2020-02-05 -->
+<!-- generated by user_update.sh on 2020-02-15 -->
     </select><button type="submit">Vyhledat</button></li>
     </ul>
   </form>
