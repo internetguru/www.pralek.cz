@@ -17,11 +17,11 @@ Zdravou nohu drží pevné vazy ve správném postavení (je příčně a podél
 
 {class="example"}
 
-V dřívějších dobách v Číně malým holčičkám vychovatelé pevně upínali nohy do záměrně malých těsných botiček, aby noha nerostla a tedy aby byla v dospělosti drobná (gracilní), ač zcela zdeformovaná. To bylo považováno za krásné.
+<span class="fas fa-lightbulb">i</span>V dřívějších dobách v Číně malým holčičkám vychovatelé pevně upínali nohy do záměrně malých těsných botiček, aby noha nerostla a tedy aby byla v dospělosti drobná (gracilní), ač zcela zdeformovaná. To bylo považováno za krásné.
 
 {class="important"}
 
-Podobně si dodnes některé ženy nohy utěsňují do malých „lodiček“ z estetických důvodů, což může vést k různým deformitám. Nejčastěji následně vznikají tzv. kladívkové (palec do pravého úhlu) a různě překřížené prsty.
+<span class="fas fa-exclamation-triangle">i</span>Podobně si dodnes některé ženy nohy utěsňují do malých „lodiček“ z estetických důvodů, což může vést k různým deformitám. Nejčastěji následně vznikají tzv. kladívkové (palec do pravého úhlu) a různě překřížené prsty.
 
 {id="kvalitni\_ci\_nekvalitni_obuv"}
 
@@ -49,7 +49,7 @@ Ve kvalitní a dokonale tvarované obuvi je pro dítě chůze jistě příjemně
 
 {class="example"}
 
-Na výlet je pro dítě jistě vhodná kvalitní (značková) výborně tvarovaná turistická obuv. Ale pro běžný pohyb v teple po trávníku, po písku nebo doma po koberci je nejzdravější a nejlepší pro vývoj nohy chůze bosýma nohama. Pro sportující děti je bezpochyby k dosažení špičkových výsledků nezbytná špičková sportovní obuv.
+<span class="fas fa-lightbulb">i</span>Na výlet je pro dítě jistě vhodná kvalitní (značková) výborně tvarovaná turistická obuv. Ale pro běžný pohyb v teple po trávníku, po písku nebo doma po koberci je nejzdravější a nejlepší pro vývoj nohy chůze bosýma nohama. Pro sportující děti je bezpochyby k dosažení špičkových výsledků nezbytná špičková sportovní obuv.
 
 {id="otazky" var="inputvar-otazky_h"}
 

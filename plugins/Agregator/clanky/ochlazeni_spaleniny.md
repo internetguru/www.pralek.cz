@@ -15,7 +15,7 @@ Okamžité ochlazení spáleniny zásadně snižuje závažnost úrazu a jeho n�
 
 {class="example"}
 
-Závažná a hluboká spálenina bolí paradoxně méně než povrchová. Při tomto závažném tepelném poranění totiž dochází ke zničení nervových zakončení a proto **nemusí být vnímaná bolest úměrná závažnosti zranění**. Potíže a bolest se dostaví s odstupem dnů až v souvislosti s [rozvojem zánětu][1].
+<span class="fas fa-lightbulb">i</span>Závažná a hluboká spálenina bolí paradoxně méně než povrchová. Při tomto závažném tepelném poranění totiž dochází ke zničení nervových zakončení a proto **nemusí být vnímaná bolest úměrná závažnosti zranění**. Potíže a bolest se dostaví s odstupem dnů až v souvislosti s [rozvojem zánětu][1].
 
 {id="rychle\_a\_intenzivni\_chlazeni\_spaleniny"}
 
@@ -37,7 +37,7 @@ Spálenina může mít u malých dětí ty nejtragičtější následky. Jedná 
 
 {class="example"}
 
-Dvouleté dítě spadlo holou dlaní do žhnoucího ohniště. Otec bez zaváhání dítě z ohniště vytáhl a v okamžiku si strčil jeho popálenou ručičku do pusy. Následně do půllitru se studeným pivem a malou chvilku na to už ruku chladila čistá tekoucí voda. Se zaledovanou ručičkou teprve vyhledal odborné ošetření. Díky dokonale poskytnuté první pomoci tato **závažná událost nezanechala naprosto žádné následky**.
+<span class="fas fa-lightbulb">i</span>Dvouleté dítě spadlo holou dlaní do žhnoucího ohniště. Otec bez zaváhání dítě z ohniště vytáhl a v okamžiku si strčil jeho popálenou ručičku do pusy. Následně do půllitru se studeným pivem a malou chvilku na to už ruku chladila čistá tekoucí voda. Se zaledovanou ručičkou teprve vyhledal odborné ošetření. Díky dokonale poskytnuté první pomoci tato **závažná událost nezanechala naprosto žádné následky**.
 
 Nutno dodat, že za [poranění malého dítěte][4] zodpovídá ten, kdo ho má v tu chvíli na starost.
 

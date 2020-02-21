@@ -49,7 +49,7 @@ Pečovat o citlivou kůži lze s pomocí různých kosmetických přípravků (�
 
 {class="example"}
 
-Pověra o souvislosti mezi stavem akné a sexualitou není pravdivá. Vznikla v dobách, kdy předmanželská sexualita byla minimální. Časem akné většinou vymizí, což lidé spojovali se sexualitou v manželském životě.
+<span class="fas fa-lightbulb">i</span>Pověra o souvislosti mezi stavem akné a sexualitou není pravdivá. Vznikla v dobách, kdy předmanželská sexualita byla minimální. Časem akné většinou vymizí, což lidé spojovali se sexualitou v manželském životě.
 
 {id="otazky" var="inputvar-otazky_h"}
 

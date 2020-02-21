@@ -49,7 +49,7 @@ Existuje několik metod, jak varixy odstranit:
 
 {class="important"}
 
-Chirurgicky, chemicky nebo laserem přerušená žíla vždy zanikne a posléze je nahrazena nově vyrostlou žílou. Nově vzniklá žíla je zdravá, nerozšířená, bez varixů.
+<span class="fas fa-exclamation-triangle">i</span>Chirurgicky, chemicky nebo laserem přerušená žíla vždy zanikne a posléze je nahrazena nově vyrostlou žílou. Nově vzniklá žíla je zdravá, nerozšířená, bez varixů.
 
 {id="prevence\_vzniku\_krecovych\_zil\_po\_operaci\_i\_bez\_ni"}
 
@@ -63,13 +63,13 @@ Zmíněnou rodovou dispozici změnit pochopitelně nelze, snížená kvalita vaz
 
 {class="example"}
 
-Snad s výjimkou hradní stráže však nikdo bez hnutí stát nemusí. Prodavačka má jistě dost chození, které vznik varixů nepodporuje. Musí-li však déle stát bez hnutí, stačí **střídavě přešlapovat z nohy na nohu**, tím pumpovat krev a jejím posunem správným směrem znemožnit její stagnaci. Vhodná elastická bandáž při větší zátěži stáním rovněž znemožní tvorbu varixů.
+<span class="fas fa-lightbulb">i</span>Snad s výjimkou hradní stráže však nikdo bez hnutí stát nemusí. Prodavačka má jistě dost chození, které vznik varixů nepodporuje. Musí-li však déle stát bez hnutí, stačí **střídavě přešlapovat z nohy na nohu**, tím pumpovat krev a jejím posunem správným směrem znemožnit její stagnaci. Vhodná elastická bandáž při větší zátěži stáním rovněž znemožní tvorbu varixů.
 
 Nevhodné je i _dlouhodobé sezení bez pohnutí_, zvláště s nohou přes nohu. Není-li střídavě svalové napětí a uvolnění, krev v žílách stagnuje a nebezpečí vzniku varixů narůstá. Ohrožený člověk by neměl zůstat delší dobu bez pohybu dolních končetin. Stačí v lýtkových svalech **střídat svalové napětí a následné uvolnění**.
 
 {class="important"}
 
-Pro lidi s dispozicí k tvorbě křečových žil je vhodnější chodit než stát a ležet než sedět. Při každé příležitosti je vhodné nohy uložit do výšky (např. na stůl), a tím ulevit žilnímu systému a podpořit krevní návrat.
+<span class="fas fa-exclamation-triangle">i</span>Pro lidi s dispozicí k tvorbě křečových žil je vhodnější chodit než stát a ležet než sedět. Při každé příležitosti je vhodné nohy uložit do výšky (např. na stůl), a tím ulevit žilnímu systému a podpořit krevní návrat.
 
 {id="otazky" var="inputvar-otazky_h"}
 

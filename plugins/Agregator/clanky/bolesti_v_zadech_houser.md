@@ -21,7 +21,7 @@ Vazy musí mít určitou přiměřenou vůli, aby byla umožněna **ohebnost pá
 
 {class="important"}
 
-Součinnost popsaných komponent umožňuje správnou a bezbolestnou funkci páteře.
+<span class="fas fa-exclamation-triangle">i</span>Součinnost popsaných komponent umožňuje správnou a bezbolestnou funkci páteře.
 
 {id="co\_a\_proc_boli"}
 

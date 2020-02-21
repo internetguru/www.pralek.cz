@@ -24,7 +24,7 @@ Cévka je sterilní trubička, kterou je z močového měchýře vypouštěna mo
 
 {class="example"}
 
-Moč se tvoří v ledvinách a dvěma močovody průběžně odtéká do močového měchýře, ve kterém se shromažďuje. Při močení je vypuzena [močovou trubicí][3] ven z těla.
+<span class="fas fa-lightbulb">i</span>Moč se tvoří v ledvinách a dvěma močovody průběžně odtéká do močového měchýře, ve kterém se shromažďuje. Při močení je vypuzena [močovou trubicí][3] ven z těla.
 
 {id="jednorazova_cevka"}
 
@@ -34,7 +34,7 @@ Jednorázové vycévkování (katetrizace močového měchýře) mužů i žen j
 
 {class="important"}
 
-Močová cévka je sterilní, tedy bez [choroboplodných zárodků][4]. Rovněž její zavádění je prováděno za sterilních podmínek. Cévka je vyrobena z měkkého nedráždivého materiálu a šetrné cévkování není bolestivé.
+<span class="fas fa-exclamation-triangle">i</span>Močová cévka je sterilní, tedy bez [choroboplodných zárodků][4]. Rovněž její zavádění je prováděno za sterilních podmínek. Cévka je vyrobena z měkkého nedráždivého materiálu a šetrné cévkování není bolestivé.
 
 {id="trvala_cevka"}
 

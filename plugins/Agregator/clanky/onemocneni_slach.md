@@ -15,7 +15,7 @@ Neúměrná zátěž šlachy může způsobit potíže – nadměrnou tvorbu maz
 
 {class="example"}
 
-V prstech nejsou žádné svaly. Svaly ohýbačů a natahovačů prstů jsou uloženy v horních dvou třetinách předloktí. Od svalů vedou šlachy zbytkem předloktí, zápěstím, dlaní nebo hřbetem ruky až do jednotlivých prstů. Uchopením za horní část předloktí lze vyhmatat pohybující se svaly při aktivním pohybování prsty vyšetřované ruky.
+<span class="fas fa-lightbulb">i</span>V prstech nejsou žádné svaly. Svaly ohýbačů a natahovačů prstů jsou uloženy v horních dvou třetinách předloktí. Od svalů vedou šlachy zbytkem předloktí, zápěstím, dlaní nebo hřbetem ruky až do jednotlivých prstů. Uchopením za horní část předloktí lze vyhmatat pohybující se svaly při aktivním pohybování prsty vyšetřované ruky.
 
 {id="zanet_slach"}
 

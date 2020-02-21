@@ -19,7 +19,7 @@ Jakýkoli léčebný zákrok na nemocné nebo zraněné končetině **začíná 
 
 {class="example"}
 
-K otoku prstů ruky může dojít nejen následkem úrazu, ale i např. po delším pochodu nebo následkem infekce pod prstýnkem. Proto je potřeba prstýnek pravidelně sundávat dříve než vzniknou potíže. Kůži pod prstýnkem je nutné omývat vodou a mýdlem. Nanesení příjemného krému rovněž pomáhá předejít vzniku [nepříjemné svědivé plísně][2] pod prstýnkem.
+<span class="fas fa-lightbulb">i</span>K otoku prstů ruky může dojít nejen následkem úrazu, ale i např. po delším pochodu nebo následkem infekce pod prstýnkem. Proto je potřeba prstýnek pravidelně sundávat dříve než vzniknou potíže. Kůži pod prstýnkem je nutné omývat vodou a mýdlem. Nanesení příjemného krému rovněž pomáhá předejít vzniku [nepříjemné svědivé plísně][2] pod prstýnkem.
 
 {id="nebezpeci\_skrticiho\_prstynku"}
 

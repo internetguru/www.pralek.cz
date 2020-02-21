@@ -55,11 +55,11 @@ n/a
 
 {class="example"}
 
-Byla prokázána souvislost mezi zhoubným nádorem a výskytem určitého konkrétního viru. Například očkování proti rakovině děložního čípku je ve skutečnosti očkováním proti viru, který se spolupodílí na vzniku rakoviny děložního čípku a je přenosný pohlavní cestou.
+<span class="fas fa-lightbulb">i</span>Byla prokázána souvislost mezi zhoubným nádorem a výskytem určitého konkrétního viru. Například očkování proti rakovině děložního čípku je ve skutečnosti očkováním proti viru, který se spolupodílí na vzniku rakoviny děložního čípku a je přenosný pohlavní cestou.
 
 {class="example"}
 
-Mnohé zhoubné nádory se vyskytují pouze v určitých oblastech. Například Japonka v Japonsku nikdy neonemocní rakovinou prsu. Odstěhuje-li se však do USA, její dcera narozená v Americe rakovinou prsu onemocní se stejnou pravděpodobností, jako jiná Američanka. Příčina není známá.
+<span class="fas fa-lightbulb">i</span>Mnohé zhoubné nádory se vyskytují pouze v určitých oblastech. Například Japonka v Japonsku nikdy neonemocní rakovinou prsu. Odstěhuje-li se však do USA, její dcera narozená v Americe rakovinou prsu onemocní se stejnou pravděpodobností, jako jiná Američanka. Příčina není známá.
 
 {id="otazky" var="inputvar-otazky_h"}
 

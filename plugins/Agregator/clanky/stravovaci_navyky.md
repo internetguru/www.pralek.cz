@@ -17,7 +17,7 @@ Veškerá nadbytečná přijatá strava (nad momentální energetické potřeby 
 
 {class="example"}
 
-Lenoch, který je trvale na válendě, bude tloustnout, přestože se bude živit pouze nízkotučnými jogurty a zeleninou. Protože jeho organizmus nepotřebuje žádnou aktivní energii, budou jeho játra téměř veškerou zdravou stravu přetvářet v tuky a ty ukládat (tloustnutí).
+<span class="fas fa-lightbulb">i</span>Lenoch, který je trvale na válendě, bude tloustnout, přestože se bude živit pouze nízkotučnými jogurty a zeleninou. Protože jeho organizmus nepotřebuje žádnou aktivní energii, budou jeho játra téměř veškerou zdravou stravu přetvářet v tuky a ty ukládat (tloustnutí).
 
 Některé látky si organizmus vyrobit neumí (esenciální bílkoviny, vitamíny a minerály). Ty je potřeba tělu dodávat; ideálně příjmem různorodé stravy. Není tedy až tak důležité, zda bude strava spíše sladká, bílkovinná nebo tučná, masitá nebo bezmasá – ale bude-li **strava dlouhodobě různotvárná**.
 
@@ -37,7 +37,7 @@ Při jídle je strava **v ústech řádně rozmělněna a promíchána se slinam
 
 {class="important"}
 
-Zapíjením jídla vodou se zmíněné enzymy a kyselina zbytečně ředí a odplavují dále do střeva. Tím se kvalita trávení znehodnocuje se všemi důsledky (tlačení břicha, větry a prodloužení trávicího procesu).
+<span class="fas fa-exclamation-triangle">i</span>Zapíjením jídla vodou se zmíněné enzymy a kyselina zbytečně ředí a odplavují dále do střeva. Tím se kvalita trávení znehodnocuje se všemi důsledky (tlačení břicha, větry a prodloužení trávicího procesu).
 
 **Zpracovaná potrava v tekutém stavu pokračuje do dvanáctníku.** Sem vyúsťují [žlučové cesty][5] společně s vývodem slinivky břišní. Žluč je trávicí šťáva, která se tvoří v játrech. Trávicí [šťáva slinivky břišní][6] je velmi agresivní tekutina; do střeva musí přitéct její přiměřené množství. Zde dochází k rozkladu tuků.
 
@@ -64,7 +64,7 @@ n/a
 
 {class="example"}
 
-Těžko stravitelná a dráždivá jídla zůstávají v žaludku mnohem déle, než jídla snadno stravitelná. Mezi těžká jídla patří červené maso, houby, smažené tučné potraviny, slupky rajčat a semínka jahod či špatně rozkousaná strava. Snadno stravitelná jídla jsou dobře tepelně upravené bílé maso a zelenina bez voskových slupek, ovocná dužina, brambory.
+<span class="fas fa-lightbulb">i</span>Těžko stravitelná a dráždivá jídla zůstávají v žaludku mnohem déle, než jídla snadno stravitelná. Mezi těžká jídla patří červené maso, houby, smažené tučné potraviny, slupky rajčat a semínka jahod či špatně rozkousaná strava. Snadno stravitelná jídla jsou dobře tepelně upravené bílé maso a zelenina bez voskových slupek, ovocná dužina, brambory.
 
 {id="nejcastejsi\_chyby\_ve_stravovani"}
 

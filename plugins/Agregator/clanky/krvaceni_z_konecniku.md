@@ -23,7 +23,7 @@ Hemoroid _(hovorově hemeroid, česky zlatá žíla)_ je boulička těsně souse
 
 {class="example"}
 
-Nemocný konečník může svědit, bolet, pálit, krvácet či způsobovat obtěžující trvalou vlhkost. Jednotlivé příznaky mohou přecházet jeden ve druhý, na určitou dobu mohou zcela ustoupit a opět se vrátit.
+<span class="fas fa-lightbulb">i</span>Nemocný konečník může svědit, bolet, pálit, krvácet či způsobovat obtěžující trvalou vlhkost. Jednotlivé příznaky mohou přecházet jeden ve druhý, na určitou dobu mohou zcela ustoupit a opět se vrátit.
 
 Uvedené potíže včetně krvácení mohou vzniknout podrážděním konečníku (v kombinaci s vrozenou discpozicí). Příčinou podráždění bývá tuhá nepravidelná stolice, nutnost tlačení na stolici, dráždivá kořeněná strava, přebývání v mokrých plavkách nebo prochladnutí sezením na studeném.
 

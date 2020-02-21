@@ -42,7 +42,7 @@ Takto vedená léčba odstraní problém během několika dnů; vždy nejpozděj
 
 {class="example"}
 
-Zásadní chybou při neodborném ošetřování je časná horká koupel nebo sprcha, která stav vždy jen zhorší. Rovněž časné rozcvičování nebo pokus o časné rozmasírování vede jen ke zbytečnému trápení pacienta. **Léčení je vždy nutné začít zklidněním a prohříváním suchým teplem!** Teprve pak může následovat šetrné rozcvičování.
+<span class="fas fa-lightbulb">i</span>Zásadní chybou při neodborném ošetřování je časná horká koupel nebo sprcha, která stav vždy jen zhorší. Rovněž časné rozcvičování nebo pokus o časné rozmasírování vede jen ke zbytečnému trápení pacienta. **Léčení je vždy nutné začít zklidněním a prohříváním suchým teplem!** Teprve pak může následovat šetrné rozcvičování.
 
 {id="ostatni\_formy\_strnuti_sije"}
 

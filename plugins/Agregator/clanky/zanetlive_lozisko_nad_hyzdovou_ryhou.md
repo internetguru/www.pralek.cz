@@ -13,7 +13,7 @@ Zánětlivé změny ložiska nad hýžďovou rýhou jsou extrémně bolestivé. 
 
 {class="example"}
 
-Zánětlivé ložisko nad hýžďovou rýhou se nazývá _sakrální dermoid_, _sinus pilonidalis sacralis_, _dermoepidermální cysta_, případně _džípová nemoc_.
+<span class="fas fa-lightbulb">i</span>Zánětlivé ložisko nad hýžďovou rýhou se nazývá _sakrální dermoid_, _sinus pilonidalis sacralis_, _dermoepidermální cysta_, případně _džípová nemoc_.
 
 {id="pricina\_vzniku\_sakralniho_dermoidu"}
 
@@ -27,7 +27,7 @@ n/a
 
 {class="example"}
 
-Toto onemocnění se často projevilo mimo jiné také u mladých řidičů džípů v americké armádě. Vzhledem k tomu, že mnozí z nich měli chlupatá záda, domnívali se vojenští lékaři, že nemoc vzniká odlamováním chlupů a jejich natlačováním do podkoží nad hýžďovou rýhou. Proto se nemoc začala neadekvátně označovat jako „džípová nemoc“.
+<span class="fas fa-lightbulb">i</span>Toto onemocnění se často projevilo mimo jiné také u mladých řidičů džípů v americké armádě. Vzhledem k tomu, že mnozí z nich měli chlupatá záda, domnívali se vojenští lékaři, že nemoc vzniká odlamováním chlupů a jejich natlačováním do podkoží nad hýžďovou rýhou. Proto se nemoc začala neadekvátně označovat jako „džípová nemoc“.
 
 {id="leceni\_sakralniho\_dermoidu"}
 
@@ -41,7 +41,7 @@ K operaci lze přistoupit až po [zklidnění zánětu][4]; s odstupem několika
 
 {class="important"}
 
-Teprve po důkladném operačním [odstranění cysty][5] je **onemocnění definitivně vyřešené**. Někdy se však stává, že po vypuštění abscesu a následném ústupu potíží se pacient k operaci neobjedná. V takovém případě se mohou potíže vrátit; a to velmi brzy nebo třeba i s odstupem několika let.
+<span class="fas fa-exclamation-triangle">i</span>Teprve po důkladném operačním [odstranění cysty][5] je **onemocnění definitivně vyřešené**. Někdy se však stává, že po vypuštění abscesu a následném ústupu potíží se pacient k operaci neobjedná. V takovém případě se mohou potíže vrátit; a to velmi brzy nebo třeba i s odstupem několika let.
 
 Riziko [zánětlivých komplikaci][6] je vzhledem k blízkosti konečníku velmi vysoké. Nedojde-li k zánětu, doba léčení nemusí přesáhnout 3 týdny. V případě zánětlivých komplikací se však může protáhnout i na několik měsíců.
 

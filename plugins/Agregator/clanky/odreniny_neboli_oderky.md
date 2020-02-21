@@ -36,7 +36,7 @@ n/a
 
 {class="example"}
 
-Malé holčičky s odřeným kolenem nebo bradou pláčou a nechtějí si nechat odřeninu vyčistit. Pokud ošetřovatel nedokáže oděrku zbavit všech nečistot, neodstraněné **nečistoty z odřeniny zarostou do kůže a budou ve zhojené kůži viditelné**. Až bude z holčičky slečna, bude jí bezpochyby vadit hyzdící tetuáž (tetování) na bradě nebo na koleni. Operační odstranění nečistot po zhojení oděrky bývá mnohem složitější, než jejich mechanické vymytí z čerstvé oděrky.
+<span class="fas fa-lightbulb">i</span>Malé holčičky s odřeným kolenem nebo bradou pláčou a nechtějí si nechat odřeninu vyčistit. Pokud ošetřovatel nedokáže oděrku zbavit všech nečistot, neodstraněné **nečistoty z odřeniny zarostou do kůže a budou ve zhojené kůži viditelné**. Až bude z holčičky slečna, bude jí bezpochyby vadit hyzdící tetuáž (tetování) na bradě nebo na koleni. Operační odstranění nečistot po zhojení oděrky bývá mnohem složitější, než jejich mechanické vymytí z čerstvé oděrky.
 
 Jako první pomoc (zástava krvácení) u hlubších oděrek může dočasně posloužit přiložení obvazu. Definitivně je potřeba oděrku ošetřit do 6ti hodin od úrazu.
 
@@ -46,7 +46,7 @@ Léčení oděrky je možné urychlit např. roztokem Novikova (lze zakoupit v l
 
 {class="example"}
 
-**Přiložení hojivé masti a obvazu by zcela jistě vedlo ke komplikacím hojení oděrek spojeným s mokváním.** Silná vrstva masti na ploše způsobuje mokvání a na oděrku tedy nepatří. Obvaz (bez masti) by se pevně spojil se strupem a léčení by jen prodloužil.
+<span class="fas fa-lightbulb">i</span>**Přiložení hojivé masti a obvazu by zcela jistě vedlo ke komplikacím hojení oděrek spojeným s mokváním.** Silná vrstva masti na ploše způsobuje mokvání a na oděrku tedy nepatří. Obvaz (bez masti) by se pevně spojil se strupem a léčení by jen prodloužil.
 
 Hluboké oděrky obzvlášť s poraněním kostí jsou ošetřovány na chirurgii v místním nebo i v celkovém znecitlivění. Součásti léčení hlubokých oděrek je desinfekce oděrky, odstranění nečistot, cárů kůže a poškozených tkání. Následuje ošetření zbroušené kosti, zašití kožního defektu, [nasazení antibiotik][6], krytí oděrky vhodným materiálem a přeočkování proti tetanu.
 

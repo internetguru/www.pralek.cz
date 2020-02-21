@@ -13,7 +13,7 @@ Při rozhodování, zda vyhledat lékaře nebo léčitele, platí zásada, že n
 
 {class="example"}
 
-Nejhorší situace nastane tehdy, když se pacient vydá [s neurčitými příznaky onemocnění][1] k nevzdělanému a nesoudnému léčiteli. Zde při opakovaných sezeních ubíhá bez efektu čas a při pozdějším [výskytu komplikací][1] již nemusí být pacientovi pomoci. Doba vhodná k vyléčení jeho nemoci již byla promarněna. A to se bohužel stává.
+<span class="fas fa-lightbulb">i</span>Nejhorší situace nastane tehdy, když se pacient vydá [s neurčitými příznaky onemocnění][1] k nevzdělanému a nesoudnému léčiteli. Zde při opakovaných sezeních ubíhá bez efektu čas a při pozdějším [výskytu komplikací][1] již nemusí být pacientovi pomoci. Doba vhodná k vyléčení jeho nemoci již byla promarněna. A to se bohužel stává.
 
 {id="vedecky\_pristup\_k_nemoci"}
 
@@ -25,7 +25,7 @@ Zda je jedinou možností řešení chorob dnešní „západní“ medicína ne
 
 {class="example"}
 
-Současný vědecký výklad lidského těla a medicíny je na úrovni vědy z počátku 21. století a je nesrovnatelný s přístupem k nemoci před 50, 100 nebo 200 lety. Stejně tak je dnešní přístup nesrovnatelný s přístupem v budoucnu, za 100 nebo 200 let.
+<span class="fas fa-lightbulb">i</span>Současný vědecký výklad lidského těla a medicíny je na úrovni vědy z počátku 21. století a je nesrovnatelný s přístupem k nemoci před 50, 100 nebo 200 lety. Stejně tak je dnešní přístup nesrovnatelný s přístupem v budoucnu, za 100 nebo 200 let.
 
 Je naprosto jisté, že je současná medicína v některých odvětvích stoprocentně úspěšná, v některých odvětvích je v plenkách, v některých je možná ve slepé uličce. Mnohé choroby umí pouze příznivě ovlivnit, mnohé neumí léčit vůbec a spoustu chorob dosud vůbec nezná. Medicína se vyvíjí, přístupy k chorobám a k úrazům se mění. Některé léčebné zásady přestávají platit, jiné nové stále vznikají.
 

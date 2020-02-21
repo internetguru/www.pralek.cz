@@ -15,7 +15,7 @@ Poranění hmyzem se vyhnout v zásadě nelze. Zvýšenou pozorností je však m
 
 {class="important"}
 
-Bodne-li vosa žihadlo do kořene jazyka nebo krku, začíná [u alergika][1] závod s časem a je nutné neprodleně [zavolat záchranku][2]! Přibývající otok [horních cest dýchacích][3] je možné zpomalit cucáním kousků ledu.
+<span class="fas fa-exclamation-triangle">i</span>Bodne-li vosa žihadlo do kořene jazyka nebo krku, začíná [u alergika][1] závod s časem a je nutné neprodleně [zavolat záchranku][2]! Přibývající otok [horních cest dýchacích][3] je možné zpomalit cucáním kousků ledu.
 
 {id="bodnuti\_nebo\_kousnuti_hmyzem"}
 
@@ -43,7 +43,7 @@ Uštknutí zmijí obecnou – jediným u nás volně žijícím jedovatým hadem
 
 {class="important"}
 
-První pomoc v případě uštknutí zmijí spočívá ve **zpomalení vstřebávání jedu** z rány. Poraněnou končetinu je dobré nezatěžovat (pochodem), přerušovaně zaškrcovat a chladit. [Transport k lékařskému ošetření][8] není třeba uspěchat. Jed zmije obecné působí v řádu hodin až dnů.
+<span class="fas fa-exclamation-triangle">i</span>První pomoc v případě uštknutí zmijí spočívá ve **zpomalení vstřebávání jedu** z rány. Poraněnou končetinu je dobré nezatěžovat (pochodem), přerušovaně zaškrcovat a chladit. [Transport k lékařskému ošetření][8] není třeba uspěchat. Jed zmije obecné působí v řádu hodin až dnů.
 
 Navzdory dříve doporučovanému postupu není vhodné ránu rozřezávat a vysávat. Jed by se dásněmi vstřebával a ohrožoval by zachránce. Času na lékařské ošetření je relativně dost. Sérum proti hadímu uštknutí se podává pouze výjimečně – v případě podezření na nepřiměřenou reakci.
 

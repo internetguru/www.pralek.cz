@@ -15,7 +15,7 @@ Zhoubný nádor tlustého střeva a konečníku _(kolorektální karcinom)_ je v
 
 {class="example"}
 
-Dokonce ani znečištěné prostředí statisticky nezvyšuje pravděpodobnost onemocnění. Se stejnou pravděpodobností onemocní člověk bydlící v průmyslové aglomeraci s vysokým výskytem karcinogenů stejně jako lesník nekuřák bydlící celý život v horském lese, který se živí jen nejzdravějšími čerstvými potravinami bez konzervantů.
+<span class="fas fa-lightbulb">i</span>Dokonce ani znečištěné prostředí statisticky nezvyšuje pravděpodobnost onemocnění. Se stejnou pravděpodobností onemocní člověk bydlící v průmyslové aglomeraci s vysokým výskytem karcinogenů stejně jako lesník nekuřák bydlící celý život v horském lese, který se živí jen nejzdravějšími čerstvými potravinami bez konzervantů.
 
 {id="projevy\_nadoru\_tlusteho_streva"}
 

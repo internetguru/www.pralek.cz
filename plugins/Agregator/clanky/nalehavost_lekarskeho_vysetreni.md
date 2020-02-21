@@ -59,7 +59,7 @@ n/a
 
 {class="important"}
 
-Všechny výše jmenované stavy se řeší na chirurgickou ambulanci. Postižený **nesmí brát léky proti bolesti, jíst ani pít** z důvodu zkreslení příznaků nemoci pro případ eventuálního operačního řešení.
+<span class="fas fa-exclamation-triangle">i</span>Všechny výše jmenované stavy se řeší na chirurgickou ambulanci. Postižený **nesmí brát léky proti bolesti, jíst ani pít** z důvodu zkreslení příznaků nemoci pro případ eventuálního operačního řešení.
 
   * [Cévní mozková příhoda][14] je řešena na neurologii.
   * [Infarkt][15] je léčen na interně nebo lépe na kardiologii.
@@ -90,7 +90,7 @@ n/a
 
 {class="important"}
 
-Jedná se o problémy, které je nejlépe vyšetřit následující pracovní den dopoledne. V pohotovostní službě totiž **nelze věnovat pacientovi maximální péči** včetně kompletního laboratorního vyšetření.
+<span class="fas fa-exclamation-triangle">i</span>Jedná se o problémy, které je nejlépe vyšetřit následující pracovní den dopoledne. V pohotovostní službě totiž **nelze věnovat pacientovi maximální péči** včetně kompletního laboratorního vyšetření.
 
 Je dobré dlouho neodkládat vyšetření pro potíže, které pacienta obtěžují nebo zneklidňují. [Strach z rakoviny][33] vede bohužel mnohdy k nesmyslnému a nebezpečnému odkládání lékařského vyšetření s fatálními následky.
 

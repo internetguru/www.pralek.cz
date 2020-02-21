@@ -17,7 +17,7 @@ Při zvracení malého dítěte je dobré pokusit se uklidnit žaludek podáván
 
 {class="important"}
 
-Je lhostejné, je-li voda perlivá nebo bez bublinek. Záleží pouze na chuti, nemá žádný jiný smysl bublinky z limonády vytřepávat. Plyn (oxid uhličitý) se po vypití v žaludku vstřebá, rozpustí se v krvi a následně je plícemi vydýchán do okolního vzduchu. Není tedy nutné říhat ani mít větry.
+<span class="fas fa-exclamation-triangle">i</span>Je lhostejné, je-li voda perlivá nebo bez bublinek. Záleží pouze na chuti, nemá žádný jiný smysl bublinky z limonády vytřepávat. Plyn (oxid uhličitý) se po vypití v žaludku vstřebá, rozpustí se v krvi a následně je plícemi vydýchán do okolního vzduchu. Není tedy nutné říhat ani mít větry.
 
 {id="reakce\_na\_otravu_organizmu"}
 
@@ -61,7 +61,7 @@ Požití „nedietního“ jídla
 :   Problémy nastávají hlavně po požití příliš mastného, dráždivého či smaženého jídla.
 :   Nevolnost a zvracení může ukazovat na [onemocnění žlučníku][5].
 :   Zvracení s odstupem hodin po příjemném ukončení pití alkoholu může rovněž ukazovat na onemocnění žlučníku nebo dokonce jater. Zvláště, jsou-li potíže opakované.
-:   V případě podráždění žlučníku je důležité vůbec nic nejíst, pít se však mohou jakékoli nedráždivé nápoje v libovolném množství. Nesmí se tedy pít žádné dráždivé nápoje jako jsou např. kakao, káva a neředěný džus. {class="example"}
+:   <span class="fas fa-lightbulb">i</span>V případě podráždění žlučníku je důležité vůbec nic nejíst, pít se však mohou jakékoli nedráždivé nápoje v libovolném množství. Nesmí se tedy pít žádné dráždivé nápoje jako jsou např. kakao, káva a neředěný džus. {class="example"}
 
 Alkoholický exces (kocovina)
 :   Nevolnost, zvracení a [bolest hlavy][6] jsou známkou proběhlé otravy alkoholem. Ten je postupně odbouráván v játrech.
@@ -79,7 +79,7 @@ Nevolnost a zvracení může dále pokračovat průjmem. Všechna zkažená (pat
 
 {class="important"}
 
-Je-li stav doprovázen teplotou **není vhodné podávat žádné slazené nápoje**, ale pouze čistou vodu nebo neslazený čaj.
+<span class="fas fa-exclamation-triangle">i</span>Je-li stav doprovázen teplotou **není vhodné podávat žádné slazené nápoje**, ale pouze čistou vodu nebo neslazený čaj.
 
 Cukr ze sladkých nápojů (například kola) podporuje množení patogenních bakterií ve střevě a zhoršuje průběh průjmového onemocnění. Při trvání průjmu je k doplnění ztracených tekutin vhodná i minerálka a obyčejná nemastná polévka s rýží a mrkví.
 
@@ -87,7 +87,7 @@ Jestliže průjem nenavazuje na nevolnost a zvracení a není doprovázen teplot
 
 {class="important"}
 
-V případě delšího trvání nebo opakování průjmů je nutné odborné vyšetření a pátrání po jejich příčině.
+<span class="fas fa-exclamation-triangle">i</span>V případě delšího trvání nebo opakování průjmů je nutné odborné vyšetření a pátrání po jejich příčině.
 
 {id="otazky" var="inputvar-otazky_h"}
 

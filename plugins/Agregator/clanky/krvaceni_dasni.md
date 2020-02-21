@@ -29,7 +29,7 @@ Jako příčina paradentózy bývá obecně označováno napadení dásní různ
 
 {class="important"}
 
-Prvotní **příčinou paradentózy je nedostatek vitamínu C**. Jeho nedostatkem se zvyšuje křehkost všech cév. Dásně jsou bohatě prokrvené a jejich cévy jsou velmi namáhané. Zvýšená křehkost cév oslabuje okraj dásně, který je pak náchylnější k poranění a krvácí po kontaktu s kartáčkem či tvrdou stravou.
+<span class="fas fa-exclamation-triangle">i</span>Prvotní **příčinou paradentózy je nedostatek vitamínu C**. Jeho nedostatkem se zvyšuje křehkost všech cév. Dásně jsou bohatě prokrvené a jejich cévy jsou velmi namáhané. Zvýšená křehkost cév oslabuje okraj dásně, který je pak náchylnější k poranění a krvácí po kontaktu s kartáčkem či tvrdou stravou.
 
 [Kouření cigaret][5] podporuje vznik paradentózy tím, že zvyšuje celkovou spotřebu vitamínu C (jehož následným nedostatkem cévy křehnou). Kouření zužuje všechny cévy obecně – tedy včetně cév v okrajích dásní (čímž se snižuje jejich schopnost regenerace).
 
@@ -45,13 +45,13 @@ Aby k paradentóze vůbec nedošlo, **je nutné přijímat „dostatečné množ
 
 {class="example"}
 
-Přirozeným zdrojem vitamínu C je ovoce a zelenina (rybíz, kiwi, jablka, jahody, brokolice, zelí, paprika, rajčata, brambory) a to [nejlépe z domácích zdrojů][2]. Relativně méně vitamínu C obsahují citrusy. Ty obsahují hlavně kyselinu citrónovou, která s vitamínem C nesouvisí.
+<span class="fas fa-lightbulb">i</span>Přirozeným zdrojem vitamínu C je ovoce a zelenina (rybíz, kiwi, jablka, jahody, brokolice, zelí, paprika, rajčata, brambory) a to [nejlépe z domácích zdrojů][2]. Relativně méně vitamínu C obsahují citrusy. Ty obsahují hlavně kyselinu citrónovou, která s vitamínem C nesouvisí.
 
 Již v počátcích paradentózy (začínají krvácet dásně) je třeba používat k čištění zubů obzvláště měkké kartáčky. Tvrdé kartáčky nejen že mechanicky poškozují již nemocnou dáseň, ale ještě mechanicky vybrušují postupně se obnažující krčky zubů.
 
 {class="important"}
 
-**Paradentózu neléčí žádná zubní pasta proti paradentóze** (známá z reklam). Taková zubní pasta pouze zastaví krvácení z poškozené dásně tím, že chemicky stáhne kartáčkem podrážděnou dáseň a uzavře krvácející cévky. Tím ve skutečnosti _rozvoj paradentózy podporuje_, protože ještě více omezuje prokrvení okrajů již tak nemocné (špatně prokrvené) dásně.
+<span class="fas fa-exclamation-triangle">i</span>**Paradentózu neléčí žádná zubní pasta proti paradentóze** (známá z reklam). Taková zubní pasta pouze zastaví krvácení z poškozené dásně tím, že chemicky stáhne kartáčkem podrážděnou dáseň a uzavře krvácející cévky. Tím ve skutečnosti _rozvoj paradentózy podporuje_, protože ještě více omezuje prokrvení okrajů již tak nemocné (špatně prokrvené) dásně.
 
 Kromě prevence paradentózy a léčení počátečního stádia popsaným způsobem patří všechna ostatní stádia choroby do rukou zubního lékaře.
 

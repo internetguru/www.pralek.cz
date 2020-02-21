@@ -66,7 +66,7 @@ Při těchto projevech je třeba vyhledat praktického nebo kožního lékaře, 
 
 {class="important"}
 
-Paradoxně u rozvinutých plísňových kožních nemocí nepomáhá zvýšená hygiena. Časté sprchování nebo koupání naopak podporuje rozvoj akutních kožních plísní.
+<span class="fas fa-exclamation-triangle">i</span>Paradoxně u rozvinutých plísňových kožních nemocí nepomáhá zvýšená hygiena. Časté sprchování nebo koupání naopak podporuje rozvoj akutních kožních plísní.
 
 Kožní plísně se vyskytují častěji u lidí postižených cukrovkou. Zvláště neléčená nebo nepoznaná [cukrovka s vysokou hladinou cukru v krvi][11] podporuje rozvoj plísní. Vysoká hladina cukru v krvi je totiž vhodnou potravou pro plísně a kvasinky.
 

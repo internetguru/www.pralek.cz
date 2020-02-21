@@ -38,7 +38,7 @@ Působení [pohybu, který nekoresponduje se zrakem][1]
 
 Působení jedů
 :   Točení hlavy je jeden z [příznaků působení nejrůznějších jedů][2] jako je alkohol či oxid uhelnatý, dále některé houby, zkažené maso, některé drogy a organická rozpouštědla.
-:   Feťáci si točení hlavy navozují záměrně vdechováním organických rozpouštědel. {class="example"}
+:   <span class="fas fa-lightbulb">i</span>Feťáci si točení hlavy navozují záměrně vdechováním organických rozpouštědel. {class="example"}
 
 Nedostatečné [zavodnění organismu][3] (dehydratace)
 :   [Nedostatek tekutin][3] způsobuje přehřátí organismu, které doprovází točení hlavy.
@@ -48,7 +48,7 @@ Nevolnost a zvracení
 
 [Předýchávání][6] (hyperventilace) u nervově labilního člověka
 :   Předýchávání vede k nechtěnému a nepříjemnému točení hlavy.
-:   V případě [holotropního dýchání][7] je však točení hlavy dokonce i s následnou poruchou vědomí záměrem. {class="example"}
+:   <span class="fas fa-lightbulb">i</span>V případě [holotropního dýchání][7] je však točení hlavy dokonce i s následnou poruchou vědomí záměrem. {class="example"}
 
 {id="nemoci\_zpusobujici\_toceni_hlavy"}
 
@@ -93,7 +93,7 @@ Důvodem krátkodobého onemocnění vestibulárního ústrojí vnitřního ucha
 
 {class="example"}
 
-Krátkodobé onemocnění postihuje lidi v produktivním věku. Epizoda bývá vyvolána změnou polohy hlavy. Obvykle trvá několik sekund, až několik minut, pak točení hlavy samovolně pomine.
+<span class="fas fa-lightbulb">i</span>Krátkodobé onemocnění postihuje lidi v produktivním věku. Epizoda bývá vyvolána změnou polohy hlavy. Obvykle trvá několik sekund, až několik minut, pak točení hlavy samovolně pomine.
 
 Potíže se opakovaně vracejí a většinou spontánně vymizejí asi za 2 týdny - kamínek se zpětně rozloží na původní krystalky, které opět řádně plní svou funkci ve vestibulárním ústrojí.
 
@@ -105,7 +105,7 @@ Dlouhodobé točení hlavy je způsobeno onemocněním vnitřního ucha. To se, 
 
 {class="example"}
 
-Dlouhodobé onemocnění postihuje starší lidi. Epizody mají různé intenzity od minut až po hodiny.
+<span class="fas fa-lightbulb">i</span>Dlouhodobé onemocnění postihuje starší lidi. Epizody mají různé intenzity od minut až po hodiny.
 
 Příčina nemoci je neznámá. Léčení spočívá v potlačování jednotlivých velmi obtěžujících příznaků.
 

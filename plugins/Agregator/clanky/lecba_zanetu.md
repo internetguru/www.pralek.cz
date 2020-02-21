@@ -52,7 +52,7 @@ Zvýšenou propustností cév dochází k **úniku tekutiny a některých krvine
 
 {class="example"}
 
-Příkladem je otok dásně a tváře při akutním zánětu v okolí kořene zubu. Lze se pokusit zpočátku studeným obkladem zánět rozehnat, nebo později teplým obkladem vývoj zánětu urychlit. Antibiotika se podávají dle rozvoje celkových příznaků zánětu.
+<span class="fas fa-lightbulb">i</span>Příkladem je otok dásně a tváře při akutním zánětu v okolí kořene zubu. Lze se pokusit zpočátku studeným obkladem zánět rozehnat, nebo později teplým obkladem vývoj zánětu urychlit. Antibiotika se podávají dle rozvoje celkových příznaků zánětu.
 
 {id="hojeni\_po\_probehlem_zanetu"}
 

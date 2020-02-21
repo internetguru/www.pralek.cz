@@ -47,7 +47,7 @@ Napravení vykloubeného ramene _(repozice, laicky nahození ramene)_ probíhá 
 
 {class="example"}
 
-Pacient s vykloubeným ramenem bývá vyděšený a stresovaný – prudkou bolestí a k tomu **strachem z léčebného výkonu**. Z akčních filmů totiž zná napravování „trháním paží souběžně s řevem či zakousnutím se do roubíku“. Takové napravení vykloubeného ramene je však ve skutečnosti zcela nemožné. Naopak je dokonce nebezpečné, protože by mohlo dojít k dalšímu poškození okolních struktur (např. cév).
+<span class="fas fa-lightbulb">i</span>Pacient s vykloubeným ramenem bývá vyděšený a stresovaný – prudkou bolestí a k tomu **strachem z léčebného výkonu**. Z akčních filmů totiž zná napravování „trháním paží souběžně s řevem či zakousnutím se do roubíku“. Takové napravení vykloubeného ramene je však ve skutečnosti zcela nemožné. Naopak je dokonce nebezpečné, protože by mohlo dojít k dalšímu poškození okolních struktur (např. cév).
 
 Když pacient nedokáže rameno uvolnit, musí nastoupit celkové znecitlivění (se svými riziky). Po uspání pacienta dojde k uvolnění svalů a hlavice pažní kosti velmi snadno vklouzne zpět do kloubní jamky. Celkové znecitlivění je také nutné, pokud se jedná o jinou než _přední luxaci_. V takových případech totiž napravení bývá komplikovanější.
 

@@ -43,7 +43,7 @@ Drobné kovové předměty (nejčastěji odštěpky kovu při uhození kladivem 
 
 {class="example"}
 
-Střelné poranění je natolik závažné, jaké tkáně jsou projektilem zdevastované nebo poškozené ([průstřel hrudníku][6]). Přežije-li postřelený člověk, cílem chirurgů na operačním sále je napravovat škody, které způsobila energie projektilu.
+<span class="fas fa-lightbulb">i</span>Střelné poranění je natolik závažné, jaké tkáně jsou projektilem zdevastované nebo poškozené ([průstřel hrudníku][6]). Přežije-li postřelený člověk, cílem chirurgů na operačním sále je napravovat škody, které způsobila energie projektilu.
 
 Spojují se roztříštěné kosti, sešívají se porušené cévy, šlachy, svaly, nervy. Všechny části často roztrhaného projektilu nebo všechny broky často ani není možné ani nutné odstranit. Vyjmutí projektilu samotného bývá prioritou pouze v amerických filmech :-)
 

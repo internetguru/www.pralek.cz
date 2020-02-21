@@ -27,7 +27,7 @@ Různé kmeny bakterií žijí v celém zažívacím ústrojí, v tělních duti
 
 {class="example"}
 
-Např. při vytržení zubu se běžné bakterie z dutiny ústní dostávají do krevního oběhu. Za normálních podmínek jsou brzy zlikvidovány. Někdy však mohou zaplavit celý organizmus a způsobit zánětlivé onemocnění, které je třeba léčit antibiotiky, třebaže původcem je mikrob, který v dutině ústní není nijak nebezpečný nebo záludný.
+<span class="fas fa-lightbulb">i</span>Např. při vytržení zubu se běžné bakterie z dutiny ústní dostávají do krevního oběhu. Za normálních podmínek jsou brzy zlikvidovány. Někdy však mohou zaplavit celý organizmus a způsobit zánětlivé onemocnění, které je třeba léčit antibiotiky, třebaže původcem je mikrob, který v dutině ústní není nijak nebezpečný nebo záludný.
 
 Bakterie obývající dutinu ústní zahajují složitý proces trávení, ukončují ho jiné bakterie obývající tlusté střevo a konečník. Jejich zásluhou dobře funguje trávení. Společně se stravou jíme i spoustu různých cizích všudypřítomných bakterií, se kterými se dokáží naše vlastní bakterie a prostředí zažívacího traktu snadno vypořádat.
 
@@ -37,7 +37,7 @@ Jindy stačí změna prostředí doprovázená zvýšeným množstvím pro nás 
 
 {class="example"}
 
-Určité bakterie žijí ve vagíně a zde jsou příčinou právě tohoto prostředí, které je pro partnera zajímavé a vzrušující, citlivé a šetrné pro spermie a pro majitelku příjemné a neobtěžující.
+<span class="fas fa-lightbulb">i</span>Určité bakterie žijí ve vagíně a zde jsou příčinou právě tohoto prostředí, které je pro partnera zajímavé a vzrušující, citlivé a šetrné pro spermie a pro majitelku příjemné a neobtěžující.
 
 Zdravé bakteriální osídlení vagíny může být narušeno sníženou hygienou, či naopak nevhodnou nadměrnou hygienou, sexuální promiskuitou a nevhodnými sexuálními praktikami. Následně se většinou přidá osídlení kvasinkami nebo plísněmi s velmi nepříjemnými projevy (svědění, pálení až bolest, výtok, nepříjemný zápach).
 

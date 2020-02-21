@@ -56,7 +56,7 @@ Přítomnost krve v injekci po _aspiraci_ vypovídá o napíchnutí žíly. Prav
 
 {class="important"}
 
-Při vytahování jehly je třeba postupovat šetrně, aby nedošlo k poškození tkáně. Hrot injekční jehly je ostře nabroušený dvoustranný nožík ve tvaru seříznuté trubičky a případným tlakem na jehlu (např. zboku přiloženým tamponem) lze okolní tkáň poškodit.
+<span class="fas fa-exclamation-triangle">i</span>Při vytahování jehly je třeba postupovat šetrně, aby nedošlo k poškození tkáně. Hrot injekční jehly je ostře nabroušený dvoustranný nožík ve tvaru seříznuté trubičky a případným tlakem na jehlu (např. zboku přiloženým tamponem) lze okolní tkáň poškodit.
 
 Vytváření kožní řasy (sevřením) nebo naopak napínání kůže (roztahováním) sloužilo dříve k přípravě prostoru pro píchnutí injekce tupou (opakovaně používanou) jehlou. Sloužilo to také k odpoutání pozornosti pacienta od bolesti, neboť [píchnutí tupou jehlou bývalo vždy bolestivé][5]. To dnes u dokonale ostrých jehel na jedno použití postrádá smysl.
 

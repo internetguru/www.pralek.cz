@@ -23,7 +23,7 @@ Přítomnost nedostatečně natrávené stravy ve střevě reflexivně způsobí
 
 {class="example"}
 
-Aperitiv před jídlem je vhodný, protože ten naopak tvorbu trávicích šťáv podpoří. Při jídle lze tolerovat pivo či víno, neboť nesráží tuky jako studená voda. Podobně neagresivně funguje i teplý čaj, ale ten raději vypít až po jídle.
+<span class="fas fa-lightbulb">i</span>Aperitiv před jídlem je vhodný, protože ten naopak tvorbu trávicích šťáv podpoří. Při jídle lze tolerovat pivo či víno, neboť nesráží tuky jako studená voda. Podobně neagresivně funguje i teplý čaj, ale ten raději vypít až po jídle.
 
 {id="potize\_se\_zlucnikem\_a\_jejich_reseni"}
 
@@ -40,7 +40,7 @@ V případě potíží spojených s jídlem je vhodné žlučové kameny prokáz
 
 {class="important"}
 
-Po dodržení určité diety zpravidla veškeré potíže dočasně ustoupí. Kameny však zůstávají! Právě po ustoupení potíží nastává **ideální doba k plánované operaci**. Takovou operaci pacient snáší velmi dobře a pooperační období bývá bezproblémové.
+<span class="fas fa-exclamation-triangle">i</span>Po dodržení určité diety zpravidla veškeré potíže dočasně ustoupí. Kameny však zůstávají! Právě po ustoupení potíží nastává **ideální doba k plánované operaci**. Takovou operaci pacient snáší velmi dobře a pooperační období bývá bezproblémové.
 
 Na rozdíl od [močových kamenů][4] není možné žlučové kameny rozpouštět chemickou cestou. Složení žluči lze totiž na rozdíl od moči těžko ovlivnit. Rozbíjení žlučových kamenů ultrazvukem na menší se také neprovádí. Drobné kamínky by mohly ucpat žlučové cesty, což by způsobilo velmi závažné problémy.
 
@@ -56,7 +56,7 @@ Několika drobnými rankami ve stěně břišní _(laparoskopicky)_ je odstraně
 
 {class="important"}
 
-Jestliže pacient nezmění způsob stravování, mohou se žlučové kameny tvořit ve žlučových cestách stejně, jako se dříve tvořily ve žlučníku. Zde jsou však mnohem více nebezpečné než ve žlučníku a operační řešení je navíc velmi složité.
+<span class="fas fa-exclamation-triangle">i</span>Jestliže pacient nezmění způsob stravování, mohou se žlučové kameny tvořit ve žlučových cestách stejně, jako se dříve tvořily ve žlučníku. Zde jsou však mnohem více nebezpečné než ve žlučníku a operační řešení je navíc velmi složité.
 
 Strach z operace a dočasný ústup potíží vedou k nutkání nejít na operaci vůbec. **Kamínky ve žlučníku však mohou způsobit komplikace**, jako je otlak a [zánět][5] žlučníku. Mohou se i uvolnit a zapadnout dále do žlučových cest nebo do střeva a zde působit jako [nepřekonatelná překážka][6]. **Operace neprůchodných žlučových cest bývá složitější a nebezpečnější, navíc s komplikovanějším průběhem.**
 

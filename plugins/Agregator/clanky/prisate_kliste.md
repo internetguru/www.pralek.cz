@@ -13,7 +13,7 @@ Klíště může být přenašečem dvou [infekčních chorob][1] – virového 
 
 {class="example"}
 
-Přisátí klíštěte můžeme předejít vhodným oblečením pro pobyt v přírodě a různými chemickými přípravky k odpuzování hmyzu.
+<span class="fas fa-lightbulb">i</span>Přisátí klíštěte můžeme předejít vhodným oblečením pro pobyt v přírodě a různými chemickými přípravky k odpuzování hmyzu.
 
 {id="odstraneni\_prisateho\_klistete"}
 
@@ -25,7 +25,7 @@ K zahubení klíštěte také dobře poslouží alkoholová desinfekce nebo jak�
 
 {class="important"}
 
-Na svém ostrém sosáku má klíště zpětné háčky. **Nejedná se o vruty, a proto klíště nelze vytočit** ani ve směru ani proti směru hodinových ručiček. Tím naopak často zůstane část klíštěte v ráně.
+<span class="fas fa-exclamation-triangle">i</span>Na svém ostrém sosáku má klíště zpětné háčky. **Nejedná se o vruty, a proto klíště nelze vytočit** ani ve směru ani proti směru hodinových ručiček. Tím naopak často zůstane část klíštěte v ráně.
 
 Po odstranění klíštěte zůstává vždy kolem místa poranění zarudlý pupínek. Jedná se o běžnou reakci na látku proti srážení krve, kterou klíště vstříklo do kůže v okamžiku zakousnutí.
 
@@ -39,7 +39,7 @@ Další chorobou, kterou může klíště na člověka přenést je virový zán
 
 {class="example"}
 
-Boreliózu může přenášet i jiný hmyz – například komár. Virový zánět mozku přenáší pouze klíště.
+<span class="fas fa-lightbulb">i</span>Boreliózu může přenášet i jiný hmyz – například komár. Virový zánět mozku přenáší pouze klíště.
 
 {id="otazky" var="inputvar-otazky_h"}
 

@@ -36,7 +36,7 @@ Celkově bledý obličej nabývá nádech domodra. Zvláště modrají rty, nos,
 
 {class="important"}
 
-Zkolabovaný člověk se zachovanými základními životními funkcemi (to je dýchání a akce srdeční) resuscitaci nepotřebuje. Jeho rty mají normální barvu.
+<span class="fas fa-exclamation-triangle">i</span>Zkolabovaný člověk se zachovanými základními životními funkcemi (to je dýchání a akce srdeční) resuscitaci nepotřebuje. Jeho rty mají normální barvu.
 
 {id="proces\_ozivovani\_zivotni_funkce"}
 
@@ -53,7 +53,7 @@ Trvá-li bezvědomí, ale postižený sám dýchá a bije mu srdce, je vhodné j
 
 {class="important"}
 
-Podstatné je, **zahájit resuscitaci co nejdříve**. Do 2 minut zahájené oživování má 90% naději na úspěch, ta se postupem času snižuje, po 10 minutách je šance již jen asi 10%. U podchlazeného člověka je naděje na úspěch i po delším čase.
+<span class="fas fa-exclamation-triangle">i</span>Podstatné je, **zahájit resuscitaci co nejdříve**. Do 2 minut zahájené oživování má 90% naději na úspěch, ta se postupem času snižuje, po 10 minutách je šance již jen asi 10%. U podchlazeného člověka je naděje na úspěch i po delším čase.
 
 {id="proces\_ozivovani\_kolaps"}
 

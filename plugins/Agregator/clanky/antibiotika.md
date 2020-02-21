@@ -29,7 +29,7 @@ Následně byla objevena nová antibiotika, která bakterie přímo hubí. Dalš
 
 {class="important"}
 
-Mnohdy bývá nutné při závažných onemocněních různá antibiotika kombinovat. Nedobráním doporučené dávky antibiotika se zvyšuje množství přežívajících bakterií a tím se podporuje vznik resistentních bakteriálních kmenů vůči danému antibiotiku!
+<span class="fas fa-exclamation-triangle">i</span>Mnohdy bývá nutné při závažných onemocněních různá antibiotika kombinovat. Nedobráním doporučené dávky antibiotika se zvyšuje množství přežívajících bakterií a tím se podporuje vznik resistentních bakteriálních kmenů vůči danému antibiotiku!
 
 {id="vysetreni\_bakterii-kultivace\_a\_citlivost\_na\_antibiotika\_kc"}
 
@@ -67,7 +67,7 @@ Původní kmeny blahodárně působících bakterií bývají antibiotiky vyhube
 
 {class="important"}
 
-Opakované nadměrné užívání antibiotik vede k oslabení imunitního systému. Přibývá i alergických reakcí na antibiotika. Tomu se bohužel nelze vyvarovat.
+<span class="fas fa-exclamation-triangle">i</span>Opakované nadměrné užívání antibiotik vede k oslabení imunitního systému. Přibývá i alergických reakcí na antibiotika. Tomu se bohužel nelze vyvarovat.
 
 {id="otazky" var="inputvar-otazky_h"}
 

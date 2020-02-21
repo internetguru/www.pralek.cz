@@ -32,7 +32,7 @@ Mezi kostní úlomky se po úrazu vylije krev, ta se srazí, krevní sraženina 
   1. Po úrazu je často potřeba úlomky kosti vrátit do původní polohy – **zlomeninu napravit**. Je-li nutné napravení zlomeniny, provádí se nejčastěji v místním nebo v celkovém znecitlivění podle závažnosti a typu zlomeniny (dle posunu kostních úlomků).
   2. Po určitou dobu je třeba zajistit **úplný klid** fixací neboli znehybněním poraněné části těla.
   3. Další fází léčení zlomenin je **pozvolné rozcvičování** a lehké zatěžování okolních svalů a kloubů. Je-li zlomenina stabilní, je možné po určité době začít postiženou část těla zlehka zatěžovat a tím urychlit hojení. Cviky může poučený pacient provádět již současně s fixací. Po snětí fixace je nutné rozcvičovat okolní klouby a posilovat ochablé svaly.
-      * Předškolní dítě ztrácí po třítýdenní fixaci až třetinu svalové hmoty postižené končetiny. {class="example"}
+      * <span class="fas fa-lightbulb">i</span>Předškolní dítě ztrácí po třítýdenní fixaci až třetinu svalové hmoty postižené končetiny. {class="example"}
   4. Nakonec se musí **zhojená kost plně zatěžovat**. Po ústupu potíží je nutné hojící se končetinu intenzivně rozcvičovat, zatěžovat, a hlavně brzy začít normálně používat. [Zvláště dětem][4] je nutné opakovaně připomínat, že (a mnohdy i jak) mají nyní již zhojenou končetinu „normálně“ používat.
 
 {id="druhy\_fixaci\_zlomenin"}
@@ -45,7 +45,7 @@ Existuje řada možností, jak zafixovat zlomeninu. Počínaje přiložením kla
 
   * **Sádrová fixace** je nejčastěji užívána u zlomenin končetinových kostí. Sádra je prodyšná, pevná, nealergizující, lehká a levná. Nevýhodou je její zničení při namočení.
   * **Plastová fixace** bývá laicky nazývána „koupací sádra“. Je prodyšná, lehká, pevná a případným namočením se nezničí. Nevýhodou je, že některé typy zlomenin nelze v součinnosti s plastovou fixací napravit do správného postavení. Plastovou fixaci navíc mnohdy nehradí pojišťovny.
-      * Žádná plastová fixace není koupací. Pacient s nutnou fixací má být v klidu a nikoli v bazénu nebo ve vaně. Mezi plastovou fixací a kůží je zvláštní vata. Ta by končetinu velmi dráždila, kdyby byla opakovaně nasáklá vodou. {class="example"}
+      * <span class="fas fa-lightbulb">i</span>Žádná plastová fixace není koupací. Pacient s nutnou fixací má být v klidu a nikoli v bazénu nebo ve vaně. Mezi plastovou fixací a kůží je zvláštní vata. Ta by končetinu velmi dráždila, kdyby byla opakovaně nasáklá vodou. {class="example"}
   * **Fixace ortézou**, dlahou, náplastí, nebo jen klidem jsou vhodné u některých typů zlomenin a jsou mnohdy zaměnitelné. Nezajistí však zlomenině naprostý klid. Jejich největší výhodou je možnost fixaci dle potřeby sejmout, omýt postižené místo a fixaci opět přiložit.
   * **Operační spojení kostí** je zcela pevné. Provádí se u zlomenin, které by se jinak nemohly zhojit v požadovaném (původním) postavení. Nevýhodou této metody jsou rizika spojená s operací a podáním narkózy (anestézie) a nutnost dalšího operačního zákroku s časovým odstupem. Kovový materiál je potřeba po zhojení zlomeniny z těla odstranit.
   * U některých zlomenin je vhodné použití kovové náhrady kosti, nejčastěji **operační náhradu kloubu**. Nevýhodou je opět obecné riziko operace a narkózy.

@@ -22,7 +22,7 @@ Obě tyto změny se projeví brněním 2. až 4. prstu nejprve při zátěži. B
 
 {class="example"}
 
-Karpálním syndromem trpí převážně ženy středního a vyššího věku. V tomto stádiu se nemocní často nesprávně domnívají, že se jedná o [cévní mozkovou příhodu (mrtvici)][2].
+<span class="fas fa-lightbulb">i</span>Karpálním syndromem trpí převážně ženy středního a vyššího věku. V tomto stádiu se nemocní často nesprávně domnívají, že se jedná o [cévní mozkovou příhodu (mrtvici)][2].
 
 {id="priciny\_utlaku\_nervu\_s\_naslednym_brnenim"}
 

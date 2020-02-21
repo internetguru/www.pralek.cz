@@ -29,13 +29,13 @@ n/a
 
 {class="example"}
 
-U mladých lidí však často [vzniká tlak][3] či křeč v oblasti žaludku pouze při hladovění (bez souvislosti se vředem). Po jídle tyto potíže ustanou. Může se jednat o [funkční poruchu žaludku][4], kterou lze napravit [změnou stravovacích návyků][2].
+<span class="fas fa-lightbulb">i</span>U mladých lidí však často [vzniká tlak][3] či křeč v oblasti žaludku pouze při hladovění (bez souvislosti se vředem). Po jídle tyto potíže ustanou. Může se jednat o [funkční poruchu žaludku][4], kterou lze napravit [změnou stravovacích návyků][2].
 
 Dvanáctníkový vřed se nejčastěji projevuje **bolestí žaludku po jídle**.
 
 {class="example"}
 
-Avšak tlak v žaludku se může objevit i po nevhodném jídle, po těžko stravitelném jídle nebo po přejedení bez souvislosti se vředem.
+<span class="fas fa-lightbulb">i</span>Avšak tlak v žaludku se může objevit i po nevhodném jídle, po těžko stravitelném jídle nebo po přejedení bez souvislosti se vředem.
 
 Společnými projevy žaludečního nebo dvanáctníkového vředu bývá:
 

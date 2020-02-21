@@ -19,11 +19,11 @@ S vdechovaným vzduchem jsou vdechovány i různé nečistoty. Jejich množství
 
 {class="important"}
 
-Dlouhodobý kašel, nemožnost odkašlat, [kašel spojený s jinými příznaky][2] (horečka, celková slabost nebo dokonce [vykašlávání krve][3]) **vždy vyžaduje návštěvu lékaře** a odborné vyšetření a léčení.
+<span class="fas fa-exclamation-triangle">i</span>Dlouhodobý kašel, nemožnost odkašlat, [kašel spojený s jinými příznaky][2] (horečka, celková slabost nebo dokonce [vykašlávání krve][3]) **vždy vyžaduje návštěvu lékaře** a odborné vyšetření a léčení.
 
 {class="example"}
 
-U [kuřáků cigaret][4] je opakovaným vdechováním kouře řasinkový epitel zcela zničen a nahrazen dlaždicovým. Nyní již nelze trvale očišťovat dýchací cesty činností řasinkového epitelu, ale po nahromadění nečistot a hlenu se částečně průdušky **vyčistí jedině odkašláním** (kuřácký kašel). Odnaučenému kuřákovi se řasinkový epitel může časem obnovit.
+<span class="fas fa-lightbulb">i</span>U [kuřáků cigaret][4] je opakovaným vdechováním kouře řasinkový epitel zcela zničen a nahrazen dlaždicovým. Nyní již nelze trvale očišťovat dýchací cesty činností řasinkového epitelu, ale po nahromadění nečistot a hlenu se částečně průdušky **vyčistí jedině odkašláním** (kuřácký kašel). Odnaučenému kuřákovi se řasinkový epitel může časem obnovit.
 
 {id="podrazdeni\_dolnich\_cest_dychacich"}
 
@@ -83,7 +83,7 @@ Kašel se mění v průběhu onemocnění podle stupně podráždění nebo podl
 
 {class="important"}
 
-Aby byl **kašel účinný** (vykašlání, odkašlání) **a efektivní** (co nejlepší využití energie), je nutné sedět nebo lépe stát, v mírném předklonu, jednou rukou se opírat a druhou si přidržovat břicho. **Kašlání vleže na zádech je nevhodné**, lze tolerovat vleže na boku v předklonu.
+<span class="fas fa-exclamation-triangle">i</span>Aby byl **kašel účinný** (vykašlání, odkašlání) **a efektivní** (co nejlepší využití energie), je nutné sedět nebo lépe stát, v mírném předklonu, jednou rukou se opírat a druhou si přidržovat břicho. **Kašlání vleže na zádech je nevhodné**, lze tolerovat vleže na boku v předklonu.
 
 {id="otazky" var="inputvar-otazky_h"}
 

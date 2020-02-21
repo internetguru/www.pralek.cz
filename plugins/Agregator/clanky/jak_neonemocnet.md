@@ -11,7 +11,7 @@ Na lidský organismus neustále útočí různé viry a bakterie způsobující 
 
 {class="important"}
 
-Pravděpodobnost [onemocnění chřipkou][1] (včetně aktuálního koronaviru) lze snížit omezením pobytu v místech zvýšeného výskytu kapénkové infekce a dobrou připraveností organizmu. Celková fyzická a psychická pohoda je prevencí jakéhokoli onemocnění.
+<span class="fas fa-exclamation-triangle">i</span>Pravděpodobnost [onemocnění chřipkou][1] (včetně aktuálního koronaviru) lze snížit omezením pobytu v místech zvýšeného výskytu kapénkové infekce a dobrou připraveností organizmu. Celková fyzická a psychická pohoda je prevencí jakéhokoli onemocnění.
 
 {id="pripravenost_organizmu"}
 
@@ -23,7 +23,7 @@ Zdravý a silný jedinec může snadno podlehnout běžné viróze, pokud jeho o
 
 {class="example"}
 
-Mladý zdravý člověk může podlehnout meningokoku po několikadenním náročném festivalu, pokud je vyčerpaný, hladový a [prochladne][2]. Nejedná se o výjimečnou zákeřnost bacilu. Se stejným bacilem se nepochybně setkala řada dalších návštěvníků téže akce. Ti ovšem nebyli tolik vyčerpaní, a tak útok bacilu odbourali přirozenou imunitou zcela bez povšimnutí.
+<span class="fas fa-lightbulb">i</span>Mladý zdravý člověk může podlehnout meningokoku po několikadenním náročném festivalu, pokud je vyčerpaný, hladový a [prochladne][2]. Nejedná se o výjimečnou zákeřnost bacilu. Se stejným bacilem se nepochybně setkala řada dalších návštěvníků téže akce. Ti ovšem nebyli tolik vyčerpaní, a tak útok bacilu odbourali přirozenou imunitou zcela bez povšimnutí.
 
 {id="vyhybani\_se\_virum"}
 
@@ -45,7 +45,7 @@ V období chřipek je dobré dbát na zvýšenou hygienu. Zároveň není vhodn�
 
 {class="important"}
 
-Při očkování je třeba dbát na stav a připravenost organizmu. Dítě není možné očkovat, když zrovna trpí horečnatým onemocněním a u seniora je třeba vždy zvážit jeho celkový stav.
+<span class="fas fa-exclamation-triangle">i</span>Při očkování je třeba dbát na stav a připravenost organizmu. Dítě není možné očkovat, když zrovna trpí horečnatým onemocněním a u seniora je třeba vždy zvážit jeho celkový stav.
 
   * Oslabeného člověka může samotné očkování zatížit natolik, že se u něho rozvine viróza přímo z očkovací látky. To hrozí zejména seniorům.
   * Po očkování je organizmus zatížený tvorbou imunity proti oslabenému viru očkovací látky. Tehdy je náchylnější k onemocnění jakýmkoli jiným virem včetně nově zmutovaného viru chřipky.

@@ -31,13 +31,13 @@ O nutnosti vyhledání lékařského ošetření rozhoduje především velikost
 
 {class="example"}
 
-Ostrý předmět (střep, hrot nože) může i při [drobném poranění kůže][5] přerušit například šlachu nebo nerv a tím způsobit omezení hybnosti prstu. To platí pro zranění celé končetiny, tedy prstu, ruky, zápětstí, předloktí, lokte nebo paže.
+<span class="fas fa-lightbulb">i</span>Ostrý předmět (střep, hrot nože) může i při [drobném poranění kůže][5] přerušit například šlachu nebo nerv a tím způsobit omezení hybnosti prstu. To platí pro zranění celé končetiny, tedy prstu, ruky, zápětstí, předloktí, lokte nebo paže.
 
 Ošetřenou končetinu je dobré položit na břicho volně pokrčenou v lokti – nejlépe uloženou v šátku nebo ji přidržovat zdravou rukou. Obecně platí, že **čím více klidu má rána na hojení, tím lépe bude vypadat jizva**.
 
 {class="example"}
 
-Pokud se zraněný rozhodne vyhledat lékařské ošetření, má ránu vypláchnout pouze vodou (desinfekci provede lékař). V takovém případě do rány nepatří ani vata, prášek či léčivé rostliny, neboť komplikují standardní ošetření (z rány se těžko odstraňují).
+<span class="fas fa-lightbulb">i</span>Pokud se zraněný rozhodne vyhledat lékařské ošetření, má ránu vypláchnout pouze vodou (desinfekci provede lékař). V takovém případě do rány nepatří ani vata, prášek či léčivé rostliny, neboť komplikují standardní ošetření (z rány se těžko odstraňují).
 
 {id="nalehavost\_osetreni\_rany"}
 
