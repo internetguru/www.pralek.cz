@@ -23,8 +23,6 @@ Křečové žíly na jinak zdravé dolní končetině nikdy neprasknou a nekrvá
 
 Starší a zvláště obézní lidé s onemocněním srdce bohužel mívají dolní končetiny dlouhodobě oteklé až prosáklé. V kombinaci s křečovými žílami bývá kůže na špatně prokrvených bércích dlouhodobě změněná. Je často méněcenná, tedy popraskaná, ztluštělá a jinde naopak zeslabená. V takovém terénu **může krví napěchovaná žíla snadno prasknout** a začít krvácet.
 
-{class="example"}
-
   * Nejčastěji po koupeli (rozmáčení) stačí nemocným bércem lehce zavadit o jakýkoli předmět,
   * jindy postačí při ošetřování [bércového vředu][2] neopatrná manipulace s končetinou,
   * někdy postačí, aby si neklidný a zpocený pacient s teplotou neopatrně postižené místo rozškrábal.
@@ -61,7 +59,7 @@ Zaškrcením oteklé a prosáklé nemocné končetiny pod kolenem se nepodaří 
 
 {class="important"}
 
-Jakmile poučený zachránce dorazí na místo a uvolní zaškrcenou končetinu, rána ihned přestává krvácet.
+<span class="fas fa-exclamation-triangle">i</span>Jakmile poučený zachránce dorazí na místo a uvolní zaškrcenou končetinu, rána ihned přestává krvácet.
 
 {id="leceni\_krvacejici\_krecove_zily"}
 
