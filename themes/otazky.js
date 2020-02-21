@@ -2,8 +2,8 @@
   
   require("IGCMS", function() {
 
-    var yesText = "Srozumitelně"
-    var noText  = "Nesrozumitelně"
+    var yesText = "<span class='fas fa-check'></span>Srozumitelně"
+    var noText  = "<span class='fas fa-times'></span>Nesrozumitelně"
     var questionClass = "otazky"
     var selectedClass = "selected"
 

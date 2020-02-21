@@ -6,6 +6,11 @@
   <xsl:param name="inputvar-twitter-title" select="''"/>
   <xsl:param name="inputvar-fb-title" select="''"/>
   <xsl:param name="inputvar-fbcomment-title" select="''"/>
+  <xsl:param name="inputvar-fbcomment-ico" select="''"/>
+  <xsl:param name="inputvar-facebook-ico" select="''"/>
+  <xsl:param name="inputvar-twitter-ico" select="''"/>
+  <xsl:param name="inputvar-link-ico" select="''"/>
+  <xsl:param name="inputvar-edit-ico" select="''"/>
   <xsl:param name="link" select="''"/>
   <xsl:param name="fbcommentid" select="''"/>
 
@@ -36,7 +41,7 @@
         <xsl:if test="/body[contains(@class, 'agregator')]">
           <div class="extra">
             <span class="hideable">
-              <span class="eventable">Získat odkaz na článek</span>
+              <span class="eventable"><xsl:value-of disable-output-escaping="yes" select="$inputvar-link-ico"/>Získat odkaz na článek</span>
               <span class="copyable" fn="inputvar-createlink">
                 <xsl:value-of disable-output-escaping="yes" select="$link"/>
               </span>
@@ -44,6 +49,7 @@
               <xsl:element name="a">
                 <xsl:attribute name="href">https://www.facebook.com/pralek/posts/<xsl:value-of disable-output-escaping="yes" select="$fbcommentid"/></xsl:attribute>
                 <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fbcomment-title"/></xsl:attribute>
+                <xsl:value-of disable-output-escaping="yes" select="$inputvar-fbcomment-ico"/>
                 Diskutovat na našem Facebooku
               </xsl:element>         
               </span>
@@ -51,6 +57,7 @@
               <xsl:element name="a">
                 <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
                 <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fb-title"/></xsl:attribute>
+                <xsl:value-of disable-output-escaping="yes" select="$inputvar-facebook-ico"/>
                 Sdílet na Facebooku
               </xsl:element>
               </span>
@@ -58,6 +65,7 @@
               <xsl:element name="a">
                 <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
                 <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
+                <xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-ico"/>
                 Sdílet na Twitteru
               </xsl:element>         
               </span>

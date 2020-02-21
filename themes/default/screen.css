@@ -418,12 +418,6 @@ a.tag[href]:hover svg {
   transition: 0.25s ease-in-out;
   color: #9e9e9e !important;
 }
-a.tag:before {
-  font-family: "Font Awesome 5 Pro";
-  content: "\f02b";
-  display: none;
-  font-weight: 900;
-}
 a.tag svg {
   color: #e0e0e0;
   margin-right: 0.25em;
@@ -537,29 +531,14 @@ dl.toptags dd {
   padding-right: 6em;
   width: 100%;
 }
-.search .navigList strong {
+.search .js-completable-navig strong {
   font-weight: 600;
 }
-.search .navigList li:before {
-  font-family: "Font Awesome 5 Pro";
-  font-weight: 900;
-  display: none;
-}
-.search .navigList li svg {
+.search .js-completable-navig li svg {
   margin-right: 0.5em;
   color: #616161;
 }
-.search .navigList .article:before {
-  content: "\f15c";
-}
-.search .navigList .tag:before {
-  content: "\f02b";
-}
-.search .navigList .google:before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f1a0";
-}
-.search .navigList span {
+.search .js-completable-navig span {
   color: #9e9e9e;
 }
 .search ul input {
@@ -571,7 +550,7 @@ dl.toptags dd {
   outline: none;
   padding: 0.5em 1em;
   background: rgba(255, 255, 255, 0.3215686274509804);
-  transition: all .2s ease-in-out;
+  transition: all .1s ease-in-out;
   width: 100%;
   max-width: 100%;
   /* border: thin solid #ffffff61; */
@@ -581,7 +560,7 @@ dl.toptags dd {
   border: thin solid rgba(255, 255, 255, 0.32);
   border-top: none;
 }
-@media (min-width: 42em) {
+@media (min-width: 38em) {
   .search {
     max-width: 25em;
   }
@@ -592,7 +571,7 @@ dl.toptags dd {
     width: 100%;
   }
 }
-@media (min-width: 81em) {
+@media (min-width: 63.5em) {
   .search ul button {
     border-radius: 0 0 0.25em 0 !important;
   }
@@ -601,7 +580,11 @@ dl.toptags dd {
   color: inherit;
   background: #ffffff;
 }
-@media (max-width: 42em) {
+.search ul li > label {
+  width: 100%;
+  text-align: right;
+}
+@media (max-width: 38em) {
   .search ul input:focus {
     position: absolute;
     max-width: calc(100% + 5em);
@@ -643,35 +626,30 @@ dl.toptags dd {
 .search button[type="submit"]:focus {
     background: #e65100;
 }
-.search button[type="submit"]:before {
-  font-family: "Font Awesome 5 Pro";
-  font-weight: 400;
-  content: "\f002";
-  display: inline-block;
-  display: none;
-}
 .search ul {
   margin: 0;
   padding: 0;
   list-style: none;
+  text-align: left;
 }
-.search ul > li {
+.search > ul > li {
   margin: 0;
   position: relative;
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
+  text-align: left;
 }
-.search .navigList {
+.search .js-completable-navig {
   width: calc(100% + 6em) !important;
   right: -6em;
   top: 3.5em;
 }
-.search .navigList li {
+.search .js-completable-navig li {
   max-width: calc(100% - 0.5em);
   display: block;
 }
 @media (max-width: 38em) {
-  .search .navigList {
+  .search .js-completable-navig {
     width: calc(100% + 11em) !important;
     right: -6em;
     top: 3.5em;
@@ -762,22 +740,10 @@ button:hover {
 ol.otazky button {
   margin: 0.2em 0;
 }
-#feedback .feedback-yes:before,
-#feedback .feedback-no:before,
-ol.otazky button:before {
-  content: "\f00c";
-  font-family: "Font Awesome 5 Pro";
-  font-weight: 900;
-  display: none;
-}
 #feedback .feedback-yes svg,
 #feedback .feedback-no svg,
 ol.otazky button svg {
   padding-right: 0.5em;
-}
-#feedback .feedback-no:before,
-ol.otazky button:last-child:before {
-  content: "\f00d";
 }
 .newsletter input[type="submit"],
 #feedback button:first-child,
@@ -1318,4 +1284,5 @@ div.part.dotace {
 p:not(.description), div:not(.list), .author ul, ol, dl {
   clear: both;
 }
+
 

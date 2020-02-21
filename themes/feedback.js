@@ -17,7 +17,7 @@
       getElm = function (type, text, className) {
         var elm = document.createElement(type)
         if (text) {
-          elm.innerText = text
+          elm.innerHTML = text
         }
         if (className) {
           elm.className = className
@@ -169,8 +169,8 @@
         wrapper.appendChild(dt)
         wrapper.appendChild(dd)
 
-        var yesButton = getElm("button", "ano", "feedback-yes")
-        var noButton = getElm("button", "ne", "feedback-no")
+        var yesButton = getElm("button", "<span class='fas fa-check'></span>ano", "feedback-yes")
+        var noButton = getElm("button", "<span class='fas fa-times'></span>ne", "feedback-no")
         dd.appendChild(yesButton)
         dd.appendChild(noButton)
         yesButton.addEventListener("click", processYes, false)

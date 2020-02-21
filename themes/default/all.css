@@ -222,14 +222,6 @@ a.tag {
   display: inline-block;
   border-radius: 0.2em;
 }
-a.tag:before {
-  font-family: "FontAwesome";
-  margin-right: 0.25em;
-  vertical-align: middle;
-  content: "\f02b";
-  font-size: 1.25em;
-  line-height: 0;
-}
 .hdesc a.tag:first-child {
   margin-left: 0.25em;
 }
@@ -261,4 +253,5 @@ p.filter {
   text-align: center;
 }
 /***************************/
+
 
