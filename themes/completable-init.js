@@ -13,15 +13,11 @@
       submitOnClick: true,
       decorateListItem: function (itemValue) {
         return itemValue
-          .replace(/(#.*)/, "<span>$1</span>")
-          .replace(/(.*#stitky.*)/, "<svg class='svg-inline--fa fa-w-14'><use xlink:href='#tag'></use></svg>$1")
-          .replace(/(.*#clanky.*)/, "<svg class='svg-inline--fa fa-w-14'><use xlink:href='#doc'></use></svg>$1")
-      },
-      undecorateListItem: function (itemValue) {
-        return itemValue.replace(/<\/?[^>]+(>|$)/g, "")
+          .replace(/(.*výskytů.*)/, "<svg class='svg-inline--fa fa-w-14'><use xlink:href='#tag'></use></svg>$1")
+          .replace(/(^[^<]+$)/, "<svg class='svg-inline--fa fa-w-14'><use xlink:href='#doc'></use></svg>$1")
+          .replace(/([^ ]+)$/, "</br><span class='fp-secondary'>$1</span>")
       },
     })
   })
 })()
-
 
