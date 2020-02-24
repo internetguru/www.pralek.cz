@@ -24,7 +24,7 @@ Bércový vřed je obtěžující a velmi nepříjemná choroba málo chodícíc
 
 ## Vzhled a projevy bércového vředu
 
-Bércový vřed může mít velikost několika milimetrů čtverečných, může ale také postihnout celý bérec, tedy oblast od kolen až ke kotníkům. Spodina vředu a jeho **okraje mají nejrůznější tvar, povrch a barvu v závislosti [na stupni a vývoji zánětu][1]**, který se na postižené ploše nekryté kůží vždy vyvine.
+Bércový vřed může mít velikost několika milimetrů čtverečných, může ale také postihnout celý bérec, tedy oblast od kolen až ke kotníkům. Spodina vředu a jeho **okraje mají nejrůznější tvar, povrch a barvu v závislosti [na stupni a vývoji zánětu][1]** , který se na postižené ploše nekryté kůží vždy vyvine. 
 
   1. **Během vzniku vředu** bývají spodina vředu i jeho ploché okraje bělavé až šedé, tuhé, špatně prokrvené, často kryté různými povlaky včetně cárů odumřelé tkáně. Takový bércový vřed bolí a bude se zcela jistě dále rozšiřovat.
   2. **Po správném zaléčení** bývá spodina vředu i jeho okraje živě červené, dobře prokrvené a okraje se stávají navalitými (vystupují nad okraj vředu). Bércový vřed přestává bolet a může se začít hojit.
