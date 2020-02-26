@@ -5,11 +5,9 @@
 
 # Cizí tělísko v oku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="bolest, úrazy, poranění"}
+{kw="úrazy, poranění"}
 
 Cizí tělísko lze odstranit z oka svépomocí nebo vzájemnou pomocí. K odstranění smítka je vhodná navlhčená vatová ušní štětička nebo čistý růžek látkového kapesníku. V případě podezření na poranění oka nebo poranění rohovky je však nezbytné ošetření očním lékařem.
 

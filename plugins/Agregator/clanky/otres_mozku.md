@@ -5,7 +5,7 @@
 
 # Otřes mozku nebo jen pohmoždění hlavy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-01-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
 {kw="mozek-nervy, poruchy vědomí, nevolnost, zvracení, poranění, boule, úrazy"}
 

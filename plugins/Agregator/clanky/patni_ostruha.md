@@ -5,11 +5,9 @@
 
 # Bolest paty: patní ostruha
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="bolest, zánět, neúrazové, pohyb, prevence, teplota, úrazy"}
+{kw="zánět, neúrazové, pohyb, prevence, teplota, úrazy"}
 
 Patní ostruha je zkostnatělý výrůstek patní kosti v místě úponu vazu. Léčení počátečních příznaků nemoci je snadné. U plně vyvinutého onemocnění jsou nutné složitější léčebné metody.
 

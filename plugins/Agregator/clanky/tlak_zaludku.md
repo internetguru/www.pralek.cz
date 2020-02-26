@@ -5,7 +5,7 @@
 
 # Žaludeční potíže: krátkodobý tlak žaludku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-01-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
 {kw="žaludek, břicho, zvracení, nevolnost, strava-zažívání, žlučník, říhání, strach"}
 

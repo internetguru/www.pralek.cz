@@ -5,13 +5,9 @@
 
 # Závažné poranění hrudníku a pneumotorax
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
-
-{kw="hrudník, dýchání, úrazy, bolest, strach, krvácení, zlomeniny, první pomoc, pohyb"}
+{kw="hrudník, dýchání, úrazy, strach, krvácení, zlomeniny, první pomoc, pohyb"}
 
 Pneumotorax je výskyt vzduchu v prostoru mezi plícemi a hrudníkem. Příslušná plíce se tak stává nefunkční. Její úlohu (dýchání) většinou plně nahradí druhá (zdravá) plíce.
 

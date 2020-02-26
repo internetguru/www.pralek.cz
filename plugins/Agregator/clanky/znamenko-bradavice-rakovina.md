@@ -5,9 +5,9 @@
 
 # Mateřské znaménko, bradavice nebo rakovina
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
-{kw="kůže-podkoží, nádory, nezhoubné, zhoubné, prevence, krvácení, bolest"}
+{kw="kůže-podkoží, nádory, nezhoubné, zhoubné, prevence, krvácení"}
 
 Různé kožní výrůstky jsou různě nebezpečné. Ploché mateřské znaménko může za určitých podmínek způsobit závažnou rakovinu. Bazaliom je takový typ rakoviny, který se může v kůži rozšiřovat, ale člověka nezahubí.
 

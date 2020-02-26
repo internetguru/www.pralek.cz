@@ -5,7 +5,7 @@
 
 # Píchnutí injekce svépomocí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-01-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
 {kw="první pomoc, nevolnost, kůže-podkoží, hygiena, cévy, poranění, boulička"}
 

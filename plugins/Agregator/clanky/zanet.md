@@ -5,7 +5,7 @@
 
 # Kdy zánět léčit, kdy rozhánět a kdy podporovat
 
-{class="description" kw="zánět, teplota, bolest, imunita, pocení, látková výměna, úrazové, neúrazové"}
+{class="description" kw="zánět, teplota, imunita, pocení, látková výměna, úrazové, neúrazové"}
 
 Různé druhy zánětů mají různý průběh a vývoj, různé příčiny a projevy. Podle druhu a vývoje zánětu je třeba proti němu někdy intenzivně bojovat, jindy je lépe ponechat zánětu přirozený průběh a někdy jej dokonce podporovat.
 

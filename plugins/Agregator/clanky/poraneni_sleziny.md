@@ -5,9 +5,9 @@
 
 # Záludnost poranění sleziny u dětí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-01-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
-{kw="úrazy, dětské, krvácení, břicho, bolest, pocení, kolaps, cévy"}
+{kw="úrazy, dětské, krvácení, břicho, pocení, kolaps, cévy"}
 
 Poranění sleziny může být velmi zákeřným úrazem. Přes relativní nenápadnost rozvoje příznaků může zraněná slezina ohrozit nemocného na životě. Operace poraněné sleziny včetně jejího odstranění naštěstí nevede následně k poruchám zdraví.
 
