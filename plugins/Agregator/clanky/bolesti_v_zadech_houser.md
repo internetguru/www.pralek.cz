@@ -5,9 +5,9 @@
 
 # Bolesti v zádech, houser
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-01-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
-{kw="bolest, pohyb, rehabilitace, neúrazové, úrazy, podchlazení, prevence"}
+{kw="pohyb, rehabilitace, neúrazové, úrazy, prochlazení, prevence"}
 
 Je přímá souvislost mezi bolestmi v zádech, nepřiměřenou fyzickou aktivitou, zpocením a následným prochlazením zad a to nejčastěji v oblasti bederní nebo krční páteře.
 

@@ -5,7 +5,7 @@
 
 # Nevolnost a zvracení v dopravních prostředcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-01-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
 {kw="nevolnost, pocení, pohyb, prevence, zvracení, mozek-nervy, žaludek, břicho"}
 

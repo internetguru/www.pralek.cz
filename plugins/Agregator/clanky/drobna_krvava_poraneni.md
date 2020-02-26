@@ -5,7 +5,9 @@
 
 # Drobná krvavá poranění
 
-{kw="kůže-podkoží, úrazy, poranění, krvácení, bolest, první pomoc, mikroorganizmy, zánět, pohyb"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
+
+{kw="kůže-podkoží, úrazy, poranění, krvácení, první pomoc, mikroorganizmy, zánět, pohyb"}
 
 Správné ošetření drobného poranění zkracuje dobu léčení, šetří bolest a pomáhá předcházet zánětlivým komplikacím. Rána by měla být ošetřena do 6 hodin od úrazu.
 

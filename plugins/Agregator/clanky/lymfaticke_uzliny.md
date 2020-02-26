@@ -5,7 +5,9 @@
 
 # Zvětšené lymfatické uzliny
 
-{kw="uzlina, kůže-podkoží, teplota, boulička, zánět, bolest, nádory, cévy"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
+
+{kw="uzliny, kůže-podkoží, teplota, boulička, zánět, nádory, cévy"}
 
 Normální lymfatické uzliny nejsou bolestivé ani hmatné. Zvětšení nebo bolestivost uzliny má vždy svůj důvod, po kterém je třeba pátrat. Nejčastěji se jedná o zánět, bohužel někdy i o nádor.
 

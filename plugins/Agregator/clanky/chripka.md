@@ -5,9 +5,9 @@
 
 # Chřipka: virové onemocnění
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-01-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
-{kw="imunita, mikroorganizmy, zdravý životní styl, zánět, prochlazení, teplota, prevence, neúrazové, bolest"}
+{kw="imunita, mikroorganizmy, zdravý životní styl, zánět, prochlazení, teplota, prevence, neúrazové"}
 
 Chřipka je závažné přenosné virové onemocnění. Konkrétní lék proti chřipce neexistuje; je možné se preventivně nechat očkovat proti konkrétnímu viru chřipky. Ten však velmi rychle mutuje, a už za několik měsíců nemusí mít očkování efekt.
 

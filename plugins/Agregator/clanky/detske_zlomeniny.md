@@ -5,9 +5,7 @@
 
 # Nejčastější dětské zlomeniny a jejich zvláštnosti
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
 {kw="zlomeniny, dětské, úrazy, poranění, pohyb, první pomoc"}
 

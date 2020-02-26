@@ -5,9 +5,9 @@
 
 # Krvácení z křečové žíly dolní končetiny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-01-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
-{kw="krvácení, cévy, první pomoc, kůže-podkoží, stařecké, úrazy, neúrazové"}
+{kw="krvácení, cévy, první pomoc, kůže-podkoží, senioři, úrazy, neúrazové"}
 
 Krvácení z prasklé křečové žíly bývá vždy velmi dramatické. Větší ztrátě krve může zamezit jen správně poskytnutá první pomoc.
 

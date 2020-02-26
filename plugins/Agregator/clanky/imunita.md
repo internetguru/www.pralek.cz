@@ -5,11 +5,7 @@
 
 # Imunita: obranyschopnost organizmu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
 {kw="zdravý životní styl, prevence, alergie, mikroorganizmy, antibiotika, dětské, zánět"}
 

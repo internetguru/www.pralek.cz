@@ -5,7 +5,9 @@
 
 # Jak nepodlehnout chřipce
 
-{kw="imunita, prevence, mikroorganizmy, zdravý životní styl, hygiena, teplota, podchlazení"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
+
+{kw="imunita, prevence, mikroorganizmy, zdravý životní styl, hygiena, teplota, prochlazení"}
 
 Na lidský organismus neustále útočí různé viry a bakterie způsobující choroby od chřipky až po meningitidu. Přirozená imunita většinu z nich odbourá bez povšimnutí. Laická představa, že se člověk nakazí ihned, jakmile mu jiný nemocný předá své bacily, je zcela mylná.
 

@@ -5,6 +5,8 @@
 
 # Měření a vyhodnocení krevního tlaku
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
+
 {kw="srdce, cévy, prevence, zdravý životní styl, tlakoměr, strach, látková výměna"}
 
 Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření.

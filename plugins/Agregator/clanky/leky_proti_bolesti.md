@@ -5,11 +5,9 @@
 
 # Léky proti bolesti neboli analgetika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="bolest, neúrazové, prevence, úrazy, pohyb, břicho"}
+{kw="neúrazové, prevence, úrazy, pohyb, břicho"}
 
 Je mnoho léků proti bolesti a v moderních preparátech jsou různě kombinovány. Jednotlivé firmy vyrábí tytéž léky pod různými názvy. Pro laika je těžké se v nabídce léků zorientovat. Vždy je správné, poradit se o vhodném léku proti bolesti se svým lékařem nebo lékárníkem.
 
