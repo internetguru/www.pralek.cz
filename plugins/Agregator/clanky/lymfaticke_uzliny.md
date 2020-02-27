@@ -17,7 +17,7 @@ Lymfa je viditelná například v případě [velmi povrchní oděrky][3], kdy n
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Lymfatické cévy jsou přerušeny uzlinami. Mízní uzliny jsou jakási sítka, která z lymfy vychytávají všechny nežádoucí částečky a buňky, aby se nedostaly do krevního oběhu.
+Lymfatické cévy jsou přerušeny uzlinami. Mízní uzliny jsou jakási sítka, která z lymfy vychytávají všechny nežádoucí částečky a buňky, aby se nedostaly do krevního oběhu.
 
 V lymfatických uzlinách jsou [některé mikroorganizmy][4] zničeny, některé mohou lymfatickou cévou pronikat k nejbližší uzlině. Nečistoty jsou v uzlinách uloženy natrvalo. Podle příčiny se zvětšená uzlina [po ústupu zánětu][5] znovu zmenší nebo zůstane dlouhodobě zvětšená. **Při postižení nádorem uzlina dlouhodobě narůstá.**
 

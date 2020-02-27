@@ -17,7 +17,7 @@ Nadměrné dýchání způsobuje nežádoucí stav organizmu s různými projevy
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Někdy bývá potřeba šetřit dechem. Například potápěč během ponoru dýchá velmi pomalu a zhluboka, aby co nejdéle vydržel pod vodou s omezenou zásobou vzduchu. Jindy je třeba se naopak rozcvičit a hodně prodýchat, například před krátkodobým náročným sportovním výkonem. Takto změněné dýchání není ničím nebezpečné, sportovec přesně ví, co a proč dělá.
+Někdy bývá potřeba šetřit dechem. Například potápěč během ponoru dýchá velmi pomalu a zhluboka, aby co nejdéle vydržel pod vodou s omezenou zásobou vzduchu. Jindy je třeba se naopak rozcvičit a hodně prodýchat, například před krátkodobým náročným sportovním výkonem. Takto změněné dýchání není ničím nebezpečné, sportovec přesně ví, co a proč dělá.
 
 {id="chorobne\_nadmerne\_dychani_hyperventilace"}
 
@@ -48,7 +48,7 @@ Předýcháváním se v plicích nadměrně vyměňují krevní plyny a tím se 
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Ve kterékoli fázi nadměrného dýchání vede strach z poruchy zdraví a pocit nedostatku vzduchu k dalšímu zrychlování dechu a stav se přibližuje k [bezvědomí][4].
+Ve kterékoli fázi nadměrného dýchání vede strach z poruchy zdraví a pocit nedostatku vzduchu k dalšímu zrychlování dechu a stav se přibližuje k [bezvědomí][4].
 
 Teprve po ztrátě vědomí pacient chvilku nedýchá vůbec nebo dýchá normálně a tedy pomalu. Tehdy je dech správně řízen mozkovým centrem a nikoli vůlí. Dočasnou zástavou nebo zpomalením dechu se postupně normalizují hodnoty krevních plynů a pacient se z bezvědomí sám (bez jakékoli pomoci) probere. Po nabytí plného vědomí může pacient opět ze stejného důvodu zrychlit dech a pak se stejné potíže mohou opakovat.
 
@@ -74,7 +74,7 @@ Jedná se o poruchu, která má kromě „srdečních“ příznaků i některé
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Bolek Polívka ve filmu Obecná škola nádherně ztvárňuje člověka trpícího NCA. Po rozrušení před domem na lavičce své pocity přesně popisuje a v klidu očekává příchod vlastní smrti: „Mně úplně buší srdce. Každou chvíli mě to musí klepnout, paní Čejková, to není jinak možný.“
+Bolek Polívka ve filmu Obecná škola nádherně ztvárňuje člověka trpícího NCA. Po rozrušení před domem na lavičce své pocity přesně popisuje a v klidu očekává příchod vlastní smrti: „Mně úplně buší srdce. Každou chvíli mě to musí klepnout, paní Čejková, to není jinak možný.“
 
 Řešení NCA závisí na typu člověka. Někomu postačí uvěřit lékaři, že potíže jsou psychického původu. Pak se mu může podařit ubránit se vzniku záchvatu „pouze“ vůlí. Jinému je třeba dlouhodobě podávat zklidňující (psychiatrické) léky.
 

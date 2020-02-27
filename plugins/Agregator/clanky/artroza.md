@@ -34,7 +34,7 @@ Artróza je hlavně nemocí stáří, její výskyt přibývá s narůstajícím
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Aktivní mladí sportovci si často vůbec neuvědomují, že bolest kloubu nemusí být jen přirozená reakce na sportovní zátěž, ale že se již může jednat o počínající artrózu.
+Aktivní mladí sportovci si často vůbec neuvědomují, že bolest kloubu nemusí být jen přirozená reakce na sportovní zátěž, ale že se již může jednat o počínající artrózu.
 
 {id="vyvoj\_a\_stadia_artrozy"}
 
@@ -55,7 +55,7 @@ V okolí postiženého kloubu se tvoří [kostní výrůstky][2]. Podobné změn
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Stupně artrózy jsou posuzovány podle rentgenového nálezu a nemusejí tedy přesně korespondovat s klinickým obrazem. Proto člověk s artrózou třetího stupně na tom může být lépe než jiný s artrózou druhého stupně (téhož kloubu).
+Stupně artrózy jsou posuzovány podle rentgenového nálezu a nemusejí tedy přesně korespondovat s klinickým obrazem. Proto člověk s artrózou třetího stupně na tom může být lépe než jiný s artrózou druhého stupně (téhož kloubu).
 
 **Vývoj artrózy lze v počátcích zpomalit pravidelnou přiměřenou zátěží.** V běžném životě jsou potíže v počátcích artrózy snesitelné. Výrazné zhoršení nastává po větší zátěži nebo častěji po určité době nečinnosti. Vždy je třeba bránit přetěžování a mikroúrazům postižených kloubů (doskoky nebo pády na tvrdou podložku, běh po betonu a podobně). V pozdějších stádiích vývoje artrózy je přístup k léčení velmi individuální.
 
@@ -85,7 +85,7 @@ Možnosti léčby atrózy jsou:
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Pro člověka s artrózou nosných kloubů je jízda na kole přijatelnější než chůze, protože redukuje jejich zátěž. Proto někteří staří lidé jízdu na kole před chůzí preferují.
+Pro člověka s artrózou nosných kloubů je jízda na kole přijatelnější než chůze, protože redukuje jejich zátěž. Proto někteří staří lidé jízdu na kole před chůzí preferují.
 
 {id="otazky" var="inputvar-otazky_h"}
 

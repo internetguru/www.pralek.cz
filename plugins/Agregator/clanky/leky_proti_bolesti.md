@@ -28,7 +28,7 @@ Některé zvláštní bolestivé nemoci vyžadují zcela zvláštní léky (nap�
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Vždy je třeba si vzít co nejméně léku; jen tolik, aby bolest utlumil. Bolest není nutné (a často ani možné) zcela odstranit.
+Vždy je třeba si vzít co nejméně léku; jen tolik, aby bolest utlumil. Bolest není nutné (a často ani možné) zcela odstranit.
 
 {id="druhy\_leku\_proti_bolesti"}
 

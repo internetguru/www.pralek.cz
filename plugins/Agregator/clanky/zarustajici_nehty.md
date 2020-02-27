@@ -48,7 +48,7 @@ Při nezdaru zmíněných metod léčby je v určité fázi zánětu možno při
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Nevhodná manipulace nůžkami pod nehtový val vede opakovaně ke [vzplanutí infekce][1] i po opakovaných plastických operacích. **Úplné zhojení zarůstajícího nehtu** nastane tehdy, když okraj nehtu doroste tak daleko, aby nemohlo docházet k dalšímu poraňování nehtového valu.
+Nevhodná manipulace nůžkami pod nehtový val vede opakovaně ke [vzplanutí infekce][1] i po opakovaných plastických operacích. **Úplné zhojení zarůstajícího nehtu** nastane tehdy, když okraj nehtu doroste tak daleko, aby nemohlo docházet k dalšímu poraňování nehtového valu.
 
 {id="otazky" var="inputvar-otazky_h"}
 

@@ -39,7 +39,7 @@ Spolknutí mince je rovněž u dětí velmi časté. Do velikosti průměru 23 m
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>[Ucpání střeva][2] spíše způsobí velké množství spolykaných drobných jadérek, různých suchých semínek, pecek nebo tuhé dužiny pomerančů.
+[Ucpání střeva][2] spíše způsobí velké množství spolykaných drobných jadérek, různých suchých semínek, pecek nebo tuhé dužiny pomerančů.
 
 {id="spolknuti\_kyseliny\_nebo_zasady"}
 

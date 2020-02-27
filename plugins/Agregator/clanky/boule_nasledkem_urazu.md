@@ -25,8 +25,8 @@ n/a
       * Jako první pomoc je vhodný ledový obklad.
       * V případě pokračujícího narůstání hematomu je nutná bandáž (nejlépe elastickým obinadlem) k zastavení jeho dalšího narůstání a dále uložení postižené končetiny do výšky.
       * Větší hematom na bérci se hojí špatně a zdlouhavě, neboť bérec je mnohem méně prokrven než hlava. Časté bývají [zánětlivé komplikace][2]; vylitá krev je totiž vhodným [místem k množení mikroorganizmů][3].
-      * <span class="fas fa-lightbulb">i</span>Dalším faktorem zvyšujícím pravděpodobnost vzniku zánětu (někdy až vzniku bércového vředu) je [onemocnění žilního systému dolních končetin][4]. {class="example"}
-      * <span class="fas fa-lightbulb">i</span>Hrubším pohmožděním přední strany holenní kosti může dojít [k drobnému odlomení hrany kosti][5]. Toto odlomení nemá žádný vliv na funkci kosti, často však zůstává trvalá deformita přední hrany holenní kosti. {class="example"}
+      * Dalším faktorem zvyšujícím pravděpodobnost vzniku zánětu (někdy až vzniku bércového vředu) je [onemocnění žilního systému dolních končetin][4]. {class="example"}
+      * Hrubším pohmožděním přední strany holenní kosti může dojít [k drobnému odlomení hrany kosti][5]. Toto odlomení nemá žádný vliv na funkci kosti, často však zůstává trvalá deformita přední hrany holenní kosti. {class="example"}
   * **Boule nad svalem** způsobená pohmožděním svalu je rovněž krevní výron. 
       * První pomoc je ledování a klid.
       * Důležité je **nesnažit se sval rozcvičit**; podstatně by tím byla prodloužena doba přetrvávajících potíží.
@@ -37,7 +37,7 @@ n/a
       * _Burzitida_ je svou podstatou [podobná gangliomu][8], liší se jen místem a způsobem vzniku.
       * V tomto případě nepomůže jako první pomoc obklad.
       * Je nutné ošetření chirurgem.
-      * <span class="fas fa-lightbulb">i</span>Nejčastěji bývá nutné odborné odsátí tekutiny _(punkce)_, mnohdy i opakovaně. Někdy je nutné zklidnění zánětu dlahou. Často musí následovat operační odstranění celé změněné burzy pro vracející se (recidivující) potíže. {class="example"}
+      * Nejčastěji bývá nutné odborné odsátí tekutiny _(punkce)_, mnohdy i opakovaně. Někdy je nutné zklidnění zánětu dlahou. Často musí následovat operační odstranění celé změněné burzy pro vracející se (recidivující) potíže. {class="example"}
   * **Boule nad nejširším svalem zádovým nebo nad svaly podél páteře** vzniklé [v souvislosti s onemocněním páteře][9] jsou bolestivé svalové zatvrdliny _(kontraktury)_. 
       * Při potížích nejlépe pomůže suché teplo a šetrná masáž.
   * [Boule bez souvislosti s pohmožděním nebo otlačením][10] mají zcela jiný původ a charakter a vyžadují odborné vyšetření a zcela odlišné léčení.

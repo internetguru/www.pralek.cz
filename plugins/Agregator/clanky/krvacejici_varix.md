@@ -59,7 +59,7 @@ Zaškrcením oteklé a prosáklé nemocné končetiny pod kolenem se nepodaří 
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Jakmile poučený zachránce dorazí na místo a uvolní zaškrcenou končetinu, rána ihned přestává krvácet.
+Jakmile poučený zachránce dorazí na místo a uvolní zaškrcenou končetinu, rána ihned přestává krvácet.
 
 {id="leceni\_krvacejici\_krecove_zily"}
 

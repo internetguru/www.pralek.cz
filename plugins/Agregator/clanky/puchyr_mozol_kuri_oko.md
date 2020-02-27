@@ -43,7 +43,7 @@ Nejdůležitější zásada je neporušený a nezanícený čerstvě vzniklý **
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Již protržený, zanícený, stržený, do hloubky porušený nebo krvácející puchýř je třeba ošetřit jako každou jinou znečištěnou nebo zanícenou ránu.
+Již protržený, zanícený, stržený, do hloubky porušený nebo krvácející puchýř je třeba ošetřit jako každou jinou znečištěnou nebo zanícenou ránu.
 
   1. Neporušený puchýř s nezaníceným obsahem se zhojí sám. Je třeba pouze dbát na to, aby nebyl poškozen následně, třeba i 2. nebo 3. den. Řešením je [jiná (vhodná) obuv][9], může posloužit jakýkoli kryt (obvaz, prodyšná náplast, sportovní chránič a podobně).
   2. Rozhodne-li se pacient vyhledat lékaře, musí puchýř (ať porušený nebo celistvý) pouze zakrýt obvazem a následně nechat odborně ošetřit včetně desinfekce a přeočkování proti tetanu (které je nutné každých 10 – 15 let).
@@ -66,7 +66,7 @@ Postupným a přiměřeným zatěžováním prací nebo sportem nevznikne na ink
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Často se tvoří _hyperkeratózy_ na zdeformovaných nohách po amputacích prstů pro [komplikace cukrovky][12]. Chirurgické ošetřování špatně prokrvené nohy _(diabetická noha)_ je vždy svízelné a dlouhodobé. Specializovaným pracovištěm na řešení těchto problémů je _podiatrie_.
+Často se tvoří _hyperkeratózy_ na zdeformovaných nohách po amputacích prstů pro [komplikace cukrovky][12]. Chirurgické ošetřování špatně prokrvené nohy _(diabetická noha)_ je vždy svízelné a dlouhodobé. Specializovaným pracovištěm na řešení těchto problémů je _podiatrie_.
 
 {id="otazky" var="inputvar-otazky_h"}
 

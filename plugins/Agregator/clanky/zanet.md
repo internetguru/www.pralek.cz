@@ -40,7 +40,7 @@ Podle časového průběhu zánětu (a v souvislosti se [stupněm imunity][3]) j
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>V medicíně se uvedená terminologie přísně dodržuje. Podle druhu zánětu se zásadně mění přístup k jeho léčení.
+V medicíně se uvedená terminologie přísně dodržuje. Podle druhu zánětu se zásadně mění přístup k jeho léčení.
 
 {id="vliv\_priciny\_zanetu\_na\_lecbu"}
 

@@ -23,7 +23,7 @@ Zpočátku má pacient pocit plnosti v břiše a [žaludeční nevolnost][1]. Vn
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Stav označovaný jako „počínající ileus“ může být projevem pouhé [funkční poruchy trávení][2]. Překážka ve střevě způsobená nevhodnou potravou se může uvolnit a potíže samovolně ustoupí.
+Stav označovaný jako „počínající ileus“ může být projevem pouhé [funkční poruchy trávení][2]. Překážka ve střevě způsobená nevhodnou potravou se může uvolnit a potíže samovolně ustoupí.
 
 Má-li však střevo skutečnou překážku, pak je _subileus_ jen začátkem potíží, které se časem vystupňují v **úplný střevní uzávěr** _(ileozní stav)_. Tehdy je celé břicho silně vzedmuté (nafouklé), neodcházejí větry ani stolice a pacient opakovaně zvrací.
 

@@ -33,7 +33,7 @@ Zanícená mazová žlázka je červená, teplá a bolestivá a vyvíjí se jako
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Obsah zanícené žlázy je infekční. Proto je potřeba při manipulaci se zanícenou žlázou dbát na zvýšenou hygienu a zánět nepřenášet na okolní (nezanícené) žlázy. Vyprazdňování zanícených žláz je rozumné provádět až na závěr ošetřování kůže (kosmetiky obličeje).
+Obsah zanícené žlázy je infekční. Proto je potřeba při manipulaci se zanícenou žlázou dbát na zvýšenou hygienu a zánět nepřenášet na okolní (nezanícené) žlázy. Vyprazdňování zanícených žláz je rozumné provádět až na závěr ošetřování kůže (kosmetiky obličeje).
 
 Nejvážnější komplikací mačkání naplněné mazové žlázy s uzavřeným vývodem je **přestup zánětu ze žlázy do okolí v podkoží**. To vyvolá místní i celkovou reakci organizmu – otok v okolí pupínku s [teplotou][4]. Následně vzniká [hnisavý zánět – absces nebo dokonce flegmóna][3]. Pak je nezbytné [vyhledat lékaře][5].
 
@@ -49,7 +49,7 @@ Pečovat o citlivou kůži lze s pomocí různých kosmetických přípravků (�
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Pověra o souvislosti mezi stavem akné a sexualitou není pravdivá. Vznikla v dobách, kdy předmanželská sexualita byla minimální. Časem akné většinou vymizí, což lidé spojovali se sexualitou v manželském životě.
+Pověra o souvislosti mezi stavem akné a sexualitou není pravdivá. Vznikla v dobách, kdy předmanželská sexualita byla minimální. Časem akné většinou vymizí, což lidé spojovali se sexualitou v manželském životě.
 
 {id="otazky" var="inputvar-otazky_h"}
 

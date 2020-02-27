@@ -15,7 +15,7 @@ Vstřebání léků různými cestami je různě rychlé, různě více nebo mé
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>V případě opakovaného zvracení nemá smysl podávat [tabletky ke zklidnění žaludku][1], neboť by byly vzápětí vyzvráceny a proto nemohou být účinné. Snadno a dobře v tomto případě pomůže čípek, rychleji nitrosvalová injekce. Okamžitě působí nitrožilně podaný lék.
+V případě opakovaného zvracení nemá smysl podávat [tabletky ke zklidnění žaludku][1], neboť by byly vzápětí vyzvráceny a proto nemohou být účinné. Snadno a dobře v tomto případě pomůže čípek, rychleji nitrosvalová injekce. Okamžitě působí nitrožilně podaný lék.
 
 Podávání léků se dá rozdělit na _invazivní_ (např. vpich injekce) a _neinvazivní_ bez nutnosti otevření pacienta.
 

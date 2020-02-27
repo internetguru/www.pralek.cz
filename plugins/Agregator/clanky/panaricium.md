@@ -37,13 +37,13 @@ n/a
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Panaricium má být ošetřeno chirurgem dříve, než se začne původně ohraničený zánět rozšiřovat do celého těla a stane se tak celkovým onemocněním.
+Panaricium má být ošetřeno chirurgem dříve, než se začne původně ohraničený zánět rozšiřovat do celého těla a stane se tak celkovým onemocněním.
 
 Chirurgické ošetření panaricia se provádí v místním znecitlivění, pak dojde k vypuštění hnisu. Místní znecitlivění nemocného prstu (injekcí) je nepříjemné. Dalšího ošetření již není třeba se bát. Rozříznutí ložiska, vypuštění hnisu, výplach ložiska, úprava nehtu nebo zavedení drénu již pacient jako bolest nevnímá. [Antibiotika][7] budou nasazena dle známek šíření zánětu nebo preventivně v případě známé snížené imunity organizmu.
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Člověk po transplantaci orgánu má vždy (záměrně) sníženou imunitu. Proto je potřeba už při každém podezření na infekci preventivně nasazovat antibiotika.
+Člověk po transplantaci orgánu má vždy (záměrně) sníženou imunitu. Proto je potřeba už při každém podezření na infekci preventivně nasazovat antibiotika.
 
 {id="sireni\_a\_komplikace_panaricia"}
 
@@ -60,7 +60,7 @@ V boji mezi bílými krvinkami a mikroby mohou mikroby dočasně vítězit a š�
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>V sepsi mohou stejným zánětem jaký byl původně v prstu onemocnět kterékoli vnitřní životně důležité orgány.
+V sepsi mohou stejným zánětem jaký byl původně v prstu onemocnět kterékoli vnitřní životně důležité orgány.
 
 V obou uvedených případech je chirurgické ošetření naprosto nezbytné, stejně jako [nasazení antibiotik][7]. Toto velmi závažné onemocnění se týká pouze prstů rukou. Na prstech nohou se prakticky nevyskytuje. Důvodem je naprosto odlišného mikrobiálního osídlení rukou a nohou.
 

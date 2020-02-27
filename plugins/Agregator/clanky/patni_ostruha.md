@@ -53,7 +53,7 @@ V případě, že pacient vyhledá odborného lékaře až **s plně vyvinutou o
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Například mohou potíže ustoupit napravením chybného stereotypu chůze (uvolněním páteře), pokud vnik ostruhy způsobil. Ostruha tím nezmizí, ale pacient může bezbolestně chodit.
+Například mohou potíže ustoupit napravením chybného stereotypu chůze (uvolněním páteře), pokud vnik ostruhy způsobil. Ostruha tím nezmizí, ale pacient může bezbolestně chodit.
 
   * Moderní a účinnou metodou léčení ostruhy je ultrazvuková rázová vlna vytvářená zvláštním přístrojem, který vlastní mnohá pracoviště.
   * Rentgenové ozařování odstraní z bolestivého úponu [aseptický zánět][7] a tedy i bolest. Nebolestivá ostruha však nezmizí.

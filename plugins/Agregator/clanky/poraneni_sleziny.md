@@ -15,7 +15,7 @@ Slezina je bohatě prokrvený křehký orgán uložený ve vazivovém pouzdře v
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>V povědomí lidí je slezina coby neškodné „píchání v levém boku“ v dětství při běhání. Píchání je způsobeno stažením sleziny po jejím vyprázdnění (vyplavení rezervy krve ze sleziny) při fyzické zátěži.
+V povědomí lidí je slezina coby neškodné „píchání v levém boku“ v dětství při běhání. Píchání je způsobeno stažením sleziny po jejím vyprázdnění (vyplavení rezervy krve ze sleziny) při fyzické zátěži.
 
 Zdaleka **nejčastěji jsou poraněním sleziny postiženy děti**, ale i v dospělosti je poranění sleziny potenciálně život ohrožujícím úrazem. Život člověku zachrání pouze [včasná operace][2] po stanovení správné diagnózy.
 
@@ -31,7 +31,7 @@ Obzvláště u dětí (v dospělosti pouze výjimečně) však může dojít k p
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Jestliže se běžící dítě uhodí do levého boku o roh nábytku, který je právě ve výšce jeho dolních žeber (např. školní lavice nebo stůl), může si poranit slezinu. Dítě zdánlivě nevýznamnému úrazu nevěnuje pozornost a klidně pokračuje v zábavě.
+Jestliže se běžící dítě uhodí do levého boku o roh nábytku, který je právě ve výšce jeho dolních žeber (např. školní lavice nebo stůl), může si poranit slezinu. Dítě zdánlivě nevýznamnému úrazu nevěnuje pozornost a klidně pokračuje v zábavě.
 
 {id="projevy\_poraneni\_sleziny"}
 

@@ -15,7 +15,7 @@ Ochranu lidského těla proti nebezpečí slunečního záření zajišťuje ko�
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Nemá smysl se ihned po příjezdu do letoviska namazat krémem s vysokým ochranným faktorem. Nedošlo by k aktivaci melanocytů a takový člověk by si spálil jakékoli nechráněné místo. Smysluplnou prevencí spálení je zprvu krátkodobý pobyt na slunci nebo namazání se krémem se středním ochranným faktorem. Tím se nastartuje přiměřená tvorba melaninu.
+Nemá smysl se ihned po příjezdu do letoviska namazat krémem s vysokým ochranným faktorem. Nedošlo by k aktivaci melanocytů a takový člověk by si spálil jakékoli nechráněné místo. Smysluplnou prevencí spálení je zprvu krátkodobý pobyt na slunci nebo namazání se krémem se středním ochranným faktorem. Tím se nastartuje přiměřená tvorba melaninu.
 
 {id="slunecni_zareni"}
 

@@ -15,7 +15,7 @@ Kýla je boulička způsobená vniknutím útrob do podkoží defektem břišní
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Defekt může vzniknout v okamžiku jednorázové námahy nebo se tvoří dlouhodobě opakovaným přetěžováním. Samotná **tvorba defektu je vždy spojená s místní bolestí**. Pokud je to možné a pacient se bolestivým pohybům vyhne, defekt (kýla) se nemusí vůbec vytvořit.
+Defekt může vzniknout v okamžiku jednorázové námahy nebo se tvoří dlouhodobě opakovaným přetěžováním. Samotná **tvorba defektu je vždy spojená s místní bolestí**. Pokud je to možné a pacient se bolestivým pohybům vyhne, defekt (kýla) se nemusí vůbec vytvořit.
 
 {id="projevy\_vyskyt\_a\_prubeh\_leceni_kyly"}
 
@@ -37,7 +37,7 @@ Pacient se často naučí sám kýlu napravovat. Stlačením bouličky přesune 
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>I přes veškeré snahy se časem **kýla neustále pomalu zvětšuje**. Může nabýt i bizarních rozměrů tím, že se do vaku dostává stále více útrob.
+I přes veškeré snahy se časem **kýla neustále pomalu zvětšuje**. Může nabýt i bizarních rozměrů tím, že se do vaku dostává stále více útrob.
 
 Kdykoli mohou vzniknout komplikace projevující se bolestí či zatvrdnutím kýly, často i [zvracením][5] nebo až [střevní neprůchodností][6]. Nejčastěji se jedná o **zaškrcení obsahu kýlního vaku v kýlní brance** nazývané _uskřinutá kýla_. Střevo se před překážkou rozpíná, břicho se nadýmá a intenzivně bolí.
 

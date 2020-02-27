@@ -42,7 +42,7 @@ n/a
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Opakované a nadměrné užívání antibiotik vede k oslabení imunitního systému. Choroboplodné zárodky jsou pomocí antibiotik zlikvidovány dříve, nežli se proti nim vytvoří dostatečně kvalitní imunita.
+Opakované a nadměrné užívání antibiotik vede k oslabení imunitního systému. Choroboplodné zárodky jsou pomocí antibiotik zlikvidovány dříve, nežli se proti nim vytvoří dostatečně kvalitní imunita.
 
 Při opakovaném setkání se stejným mikrobem může tedy dojít k opakovanému onemocnění. Nyní již však má tento mikrob patrně vytvořenou resistenci vůči tomu [antibiotiku][1], kterým byl pacient posledně léčen. Pro zvládnutí klinicky stejné choroby je nutné nasadit odlišné antibiotikum.
 

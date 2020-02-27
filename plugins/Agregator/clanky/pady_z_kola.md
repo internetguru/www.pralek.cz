@@ -79,7 +79,7 @@ Noha vstrčená do drátů kola je zvláštní a bohužel velmi častý úraz ma
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Opatrovník veze malé dítě **bez pevných opěrek pro nohy** (na řidítkách, na nosiči, na štangli, případně na sedátku pro děti). Na každé nerovnosti dítě zavrávorá a při pokusu o vyrovnání rovnováhy může vstrčit nohu do drátů kola. Tím dojde k nepříjemnému poranění nejčastěji nohy, hlezna nebo paty.
+Opatrovník veze malé dítě **bez pevných opěrek pro nohy** (na řidítkách, na nosiči, na štangli, případně na sedátku pro děti). Na každé nerovnosti dítě zavrávorá a při pokusu o vyrovnání rovnováhy může vstrčit nohu do drátů kola. Tím dojde k nepříjemnému poranění nejčastěji nohy, hlezna nebo paty.
 
 Dítě by nemělo být nikdy vezeno na kole bez opěrek pro nohy. Moderní sedačky jsou konstruovány tak, aby k tomuto úrazu nemohlo dojít. Při objevení starého nevybaveného kola dítě touží po svezení (nejčastěji na návštěvě) a scénář úrazu je nasnadě.
 

@@ -40,7 +40,7 @@ Lékař prst znecitliví (místním umrtvením) a tělísko odstraní – větš
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Snesení nehtu (laicky stržení nehtu) po znecitlivění prstu je skutečně nebolestivý zákrok. Pacient, který se o zákroku dozví až dodatečně (po zakrytí prstu obvazem), nechce této informaci ani uvěřit, protože stržení nehtu vůbec nevnímal.
+Snesení nehtu (laicky stržení nehtu) po znecitlivění prstu je skutečně nebolestivý zákrok. Pacient, který se o zákroku dozví až dodatečně (po zakrytí prstu obvazem), nechce této informaci ani uvěřit, protože stržení nehtu vůbec nevnímal.
 
 {id="odchlipnuti_nehtu"}
 
@@ -62,7 +62,7 @@ Běžné uhození do nehtu (nejčastěji kladivem) je prosté odloučení nehtu 
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Od bolesti částečně uleví zvednutí poraněné končetiny do výšky nad úroveň těla a ledování. Sníží se tím tlak a prokrvení bolestivého místa. Bolest však může narůstat v souvislosti s eventuálním rozvojem zánětu.
+Od bolesti částečně uleví zvednutí poraněné končetiny do výšky nad úroveň těla a ledování. Sníží se tím tlak a prokrvení bolestivého místa. Bolest však může narůstat v souvislosti s eventuálním rozvojem zánětu.
 
 Pro urychlení léčení a odstranění bolesti lékař zcela bezbolestně provrtá nehtem drobný otvor _(fenestrace nehtu)_. Otvorem vyteče pod tlakem nahromaděná krev a potíže ihned ustoupí. Zánět se nerozvine. Po vyprázdnění nebo vstřebání krve nehet odpadne nebo postupně odroste a vyroste nový.
 

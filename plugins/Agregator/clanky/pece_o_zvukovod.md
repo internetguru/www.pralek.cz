@@ -60,13 +60,13 @@ n/a
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Voda se do zvukovodu dostává nejen lidem, ale i zvířatům. Některá zvířata se zbavují nečistot a zbytků vody ze zvukovodů prudkým třesením hlavou – pomocí odstředivé síly. Přítomnost vody ve zvukovodu je tedy přirozená.
+Voda se do zvukovodu dostává nejen lidem, ale i zvířatům. Některá zvířata se zbavují nečistot a zbytků vody ze zvukovodů prudkým třesením hlavou – pomocí odstředivé síly. Přítomnost vody ve zvukovodu je tedy přirozená.
 
 **Působí-li voda ve zvukovodu potíže**, nejčastější příčinou bývá _cerumen_. Voda do zaneseného zvukovodu může proniknout a zvukovod dráždit. Voda pak může způsobit nebo zhoršit bolestivost znečištěného zvukovodu. Někdy může voda částečně naplnit dutiny ve znečištěném zvukovodu a při pohybu hlavou způsobovat různé zvuky a nepříjemné pocity (jako kdyby byl v uchu hmyz).
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Obzvláště při nocování ve volné přírodě může mírný déšť nebo jen ranní rosa způsobit ve znečištěném zvukovodu bolesti, zvuky nebo jiné potíže. To vysvětluje vznik historek o přítomnosti hmyzu ve zvukovodu. Ne náhodou se škvor v mnoha krajích přezdívá „ušák“ nebo „uchavec“. Ve skutečnosti jakýkoli hmyz vleze do ucha pouze omylem a velmi neochotně.
+Obzvláště při nocování ve volné přírodě může mírný déšť nebo jen ranní rosa způsobit ve znečištěném zvukovodu bolesti, zvuky nebo jiné potíže. To vysvětluje vznik historek o přítomnosti hmyzu ve zvukovodu. Ne náhodou se škvor v mnoha krajích přezdívá „ušák“ nebo „uchavec“. Ve skutečnosti jakýkoli hmyz vleze do ucha pouze omylem a velmi neochotně.
 
 Voda do zvukovodu nesmí jedině v případě onemocnění zvukovodu nebo bubínku (například po proděravění ušního bubínku). Častým problémem uší je svědění způsobené plísní.
 

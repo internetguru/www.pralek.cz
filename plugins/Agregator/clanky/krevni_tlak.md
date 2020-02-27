@@ -18,7 +18,7 @@ Srdce pumpuje krev – žílami ji nabírá a tepnami ji rozvádí zpět do cel�
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Rozdíl tlaků mezi systolou a diastolou se přenáší na tepny. Tím je akce srdeční _(puls)_ měřitelná na všech hmatných tepnách, např. na palcové straně zápěstí.
+Rozdíl tlaků mezi systolou a diastolou se přenáší na tepny. Tím je akce srdeční _(puls)_ měřitelná na všech hmatných tepnách, např. na palcové straně zápěstí.
 
 **Krevní tlak je vyjádřený dvěma čísly**: systolický tlak (vyšší hodnota) a diastolický tlak (nižší hodnota). K měření krevního tlaku slouží přístroj zvaný _tonometr_ (česky tlakoměr).
 
@@ -30,7 +30,7 @@ Na trhu jsou k dostání různé přístroje k měření tlaku krve. Původní t
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>**Jednotka k měření krevního tlaku je „mm Hg“** (milimetry rtuťového sloupce). Ta je dodnes používaná i u modernějších digitálních tonometrů.
+**Jednotka k měření krevního tlaku je „mm Hg“** (milimetry rtuťového sloupce). Ta je dodnes používaná i u modernějších digitálních tonometrů.
 
 Existují tři základní typy tonometrů:
 
@@ -62,7 +62,7 @@ Správné měření krevní tlaku vyžaduje dodržení určitých podmínek. Jej
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Z důvodu různého odstupu pažních tepen od srdeční tepny bývá **tlak na pravé a levé paži různý**.
+Z důvodu různého odstupu pažních tepen od srdeční tepny bývá **tlak na pravé a levé paži různý**.
 
 Čidlo tonometru považuje všechny tlakové změny přenesené na končetinu za pulsaci tepny. Aby naměřené hodnoty odpovídaly skutečnému stavu organizmu, musí být tonometr ve stejné výšce jako manžeta a měřený člověk:
 

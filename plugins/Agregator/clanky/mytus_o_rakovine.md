@@ -24,7 +24,7 @@ Růst nádoru ani tvorba druhotných ložisek nemusí vůbec bolet. Obecné neja
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Vzhledem k přirozenému strachu z rakoviny se lidé snaží různé příznaky dlouhodobě podceňovat nebo tajit před rodinou a hledat záminky, proč nejít k lékaři. K lékaři přicházejí až s následnými komplikacemi.
+Vzhledem k přirozenému strachu z rakoviny se lidé snaží různé příznaky dlouhodobě podceňovat nebo tajit před rodinou a hledat záminky, proč nejít k lékaři. K lékaři přicházejí až s následnými komplikacemi.
 
 {id="komplikace\_zhoubneho\_nadoru"}
 
@@ -41,7 +41,7 @@ Projevy postupující rakoviny jsou závažné a nedají se už snadno ignorovat
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Z laického pohledu tak vzniká _mýtus_, že viditelné zhoršení zdravotního stavu či dokonce úmrtí pacienta způsobila až operace. Skutečnost je však taková, že doba, kdy byla **šance na vyléčení, byla bohužel promarněna**.
+Z laického pohledu tak vzniká _mýtus_, že viditelné zhoršení zdravotního stavu či dokonce úmrtí pacienta způsobila až operace. Skutečnost je však taková, že doba, kdy byla **šance na vyléčení, byla bohužel promarněna**.
 
 {id="rakovina\_ci\_zcela\_nezavazne\_onemocneni"}
 

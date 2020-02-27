@@ -56,7 +56,7 @@ Dlouho obtěžující bolestivost, otoky a nemožnost rychlého návratu k běž
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Se zlomeninou zevního kotníku lze chodit nebo například dohrát sportovní zápas.
+Se zlomeninou zevního kotníku lze chodit nebo například dohrát sportovní zápas.
 
 {id="prasklina_lebky"}
 
@@ -84,7 +84,7 @@ Zlomený vaz (zlomený zub čepovce) vede ke smrti. V případě posunu dalšíc
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Po nehodě řidič auta sedí za volantem, stěžuje si na bolest páteře a necítí nohy, nemůže jimi pohnout. Nic nehoří, nehrozí zřícení do propasti. Zraněný dýchá, je při vědomí, spolupracuje. Není důvod jej laicky vyprošťovat z auta. Zavolaní záchranáři jej vyprostí profesionálně.
+Po nehodě řidič auta sedí za volantem, stěžuje si na bolest páteře a necítí nohy, nemůže jimi pohnout. Nic nehoří, nehrozí zřícení do propasti. Zraněný dýchá, je při vědomí, spolupracuje. Není důvod jej laicky vyprošťovat z auta. Zavolaní záchranáři jej vyprostí profesionálně.
 
 {id="otazky" var="inputvar-otazky_h"}
 

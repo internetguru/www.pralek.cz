@@ -18,7 +18,7 @@ Slinivka břišní _(pancreas)_ je důležitá [žláza trávicí soustavy][1] a
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Název slinivky břišní je poněkud zavádějící, protože **slinivka břišní** nemá nic společného se slinami a není uložena v dutině břišní.
+Název slinivky břišní je poněkud zavádějící, protože **slinivka břišní** nemá nic společného se slinami a není uložena v dutině břišní.
 
 Slinivka břišní je uložena vzadu za dutinou břišní mezi žaludkem, páteří a velkými cévami. Tím je velmi dobře chráněna před poraněním při úrazu břicha.
 
@@ -53,7 +53,7 @@ n/a
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Tryptická pankreatitida je velmi závažné onemocnění, končící bohužel v 50 % případů fatálně.
+Tryptická pankreatitida je velmi závažné onemocnění, končící bohužel v 50 % případů fatálně.
 
 Rizikové faktory vzniku netryptických zánětů slinivky jsou:
 
@@ -77,7 +77,7 @@ Nemocný je zchvácený, má rychlý pulz, zrychleně dýchá, má horečku a m�
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>[Okamžité vyhledání lékařského ošetření][12] zvyšuje pacientovi šanci na přežití. Pobyt v nemocnici je bezpodmínečně nutný. Podobně se může projevovat [počínající střevní neprůchodnost][13].
+[Okamžité vyhledání lékařského ošetření][12] zvyšuje pacientovi šanci na přežití. Pobyt v nemocnici je bezpodmínečně nutný. Podobně se může projevovat [počínající střevní neprůchodnost][13].
 
 {id="leceni\_akutni\_trypticke_pankreatitidy"}
 

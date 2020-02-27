@@ -29,7 +29,7 @@ Smítko, které spadne do oka a zůstane volné, většinou následně splave po
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Malé dítě se smítkem v oku je dobré nechat si chvíli poplakat. Pláčem se zvýší pravděpodobnost samovolného vyplavení smítka z oka.
+Malé dítě se smítkem v oku je dobré nechat si chvíli poplakat. Pláčem se zvýší pravděpodobnost samovolného vyplavení smítka z oka.
 
 {id="smitko\_pod\_hornim_vickem"}
 
@@ -47,7 +47,7 @@ Vhodným nástrojem k převrácení horního víčka může být vatová ušní 
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Velmi často se pod horní víčko dostane vypadlá oční řasa. V takovém případě často postačí přetažení horního víčka přes dolní a pozvolným sjetím je řasa zpod horního víčka odstraněna.
+Velmi často se pod horní víčko dostane vypadlá oční řasa. V takovém případě často postačí přetažení horního víčka přes dolní a pozvolným sjetím je řasa zpod horního víčka odstraněna.
 
 {id="odstraneni\_ciziho\_teliska\_z\_povrchu_oka"}
 
@@ -69,7 +69,7 @@ Cizí tělísko zaseknuté nebo pevně lpící v rohovce nad oční panenkou **o
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Panenka je sametově černá proto, že uvnitř oka je tma. Pouze na nevydařených fotografiích je panenka červená, protože je silným světlem fotoblesku osvíceno červené (bohatě prokrvené) oční pozadí (sítnice).
+Panenka je sametově černá proto, že uvnitř oka je tma. Pouze na nevydařených fotografiích je panenka červená, protože je silným světlem fotoblesku osvíceno červené (bohatě prokrvené) oční pozadí (sítnice).
 
 {id="poleptani_oka"}
 
@@ -81,11 +81,11 @@ K nejzávažnějším úrazům s ohrožením zraku patří poleptání oka (pole
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Při poleptání oka je první pomocí vyplachování oka čistou vodou (nebo v lékárně zakoupenou oční vodou) nepřetržitě až do převzetí péče oftalmologem.
+Při poleptání oka je první pomocí vyplachování oka čistou vodou (nebo v lékárně zakoupenou oční vodou) nepřetržitě až do převzetí péče oftalmologem.
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Laický pokus o neutralizaci poleptaného oka je zcela nevhodný – nikdy totiž nelze odhadnout množství leptající látky v oku.
+Laický pokus o neutralizaci poleptaného oka je zcela nevhodný – nikdy totiž nelze odhadnout množství leptající látky v oku.
 
 {id="otazky" var="inputvar-otazky_h"}
 

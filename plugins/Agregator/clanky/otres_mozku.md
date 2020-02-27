@@ -25,7 +25,7 @@ Upadne-li dítě a uhodí se do hlavy, pro lékaře je důležitá informace, je
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Příkladem otřesu mozku po úrazu hlavy je krátkodobé bezvědomí po každém KO v boxu. Boxer většinou během odpočítávání sám nabývá vědomí.
+Příkladem otřesu mozku po úrazu hlavy je krátkodobé bezvědomí po každém KO v boxu. Boxer většinou během odpočítávání sám nabývá vědomí.
 
 {id="zvraceni\_jako\_priznak\_otresu\_mozku"}
 

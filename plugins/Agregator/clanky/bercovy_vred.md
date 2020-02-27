@@ -20,7 +20,7 @@ Bércový vřed je obtěžující a velmi nepříjemná choroba málo chodícíc
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Skutečnou příčinou vzniku bércového vředu tedy není úraz postiženého místa, ale nedostatečné vyživování z důvodu nedostatečného místního prokrvení.
+Skutečnou příčinou vzniku bércového vředu tedy není úraz postiženého místa, ale nedostatečné vyživování z důvodu nedostatečného místního prokrvení.
 
 {id="vzhled\_a\_projevy\_bercoveho\_vredu"}
 

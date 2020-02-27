@@ -25,7 +25,7 @@ Nástroje v lékárničce mají být samozřejmě čisté. Před každým léče
 
 Lékařský teploměr
 :   Základní typy teploměrů jsou lihový, rtuťový a digitální. [Teplotu měří][3] v zásadě všechny stejně dobře, jen různě rychle. Nejrychlejší je bezkontaktní digitální teploměr vhodný obzvlášť pro měření teploty malých dětí.
-:   <span class="fas fa-lightbulb">i</span>Při opakovaném použití bezkontaktního teploměru se naměřené hodnoty mohou mírně lišit. To je způsobené rozdílnou teplotou měřeného místa na těle (nikoli chybou teploměru). Nejteplejší místo měřené plochy těla je v blízkosti podkožní tepničky. {class="example"}
+:   Při opakovaném použití bezkontaktního teploměru se naměřené hodnoty mohou mírně lišit. To je způsobené rozdílnou teplotou měřeného místa na těle (nikoli chybou teploměru). Nejteplejší místo měřené plochy těla je v blízkosti podkožní tepničky. {class="example"}
 
 Pinzeta
 :   K mechanickému odstranění třísek, částeček [nečistot z oděrky][4], [zabodnutého žihadla][5] nebo [přisátého klíštěte][6] poslouží stejně dobře anatomická, kosmetická nebo jiná pinzeta.
@@ -39,7 +39,7 @@ Zubní kartáček
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Pokud není k dispozici dezinfekční sprej, je možné provést dezinfekci nástroje sežehnutím nad plamenem. Plamen nesmí být čadící (kvůli sazím) a nástroj se nemá zcela rozžhavit.
+Pokud není k dispozici dezinfekční sprej, je možné provést dezinfekci nástroje sežehnutím nad plamenem. Plamen nesmí být čadící (kvůli sazím) a nástroj se nemá zcela rozžhavit.
 
 {id="zdravotni_material"}
 
@@ -58,7 +58,7 @@ Novikovův roztok
 
 Obvazy různé velikosti
 :   K obvázání rány kryté sterilní gázou nebo čistým přežehleným kapesníkem postačí nesterilní obvaz. Sterilní obvaz lze použít přímo [na ránu][8] nebo oděrku.
-:   <span class="fas fa-lightbulb">i</span>Prošlý sterilní obvaz poslouží velmi dobře jako obvaz nesterilní. {class="example"}
+:   Prošlý sterilní obvaz poslouží velmi dobře jako obvaz nesterilní. {class="example"}
 
 Náplast, náplasťový steh
 :   Různé druhy náplastí je možné zaměňovat. Na některé se však může vyvinout alergie. S časem přilnavost náplasti klesá.
@@ -72,7 +72,7 @@ Sterilní čtverečky _(hydrofilní gáza)_ různých velikostí
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Obvazový materiál by se po použití nikdy neměl vracet do lékárničky a to ani po vyprání. Největším nepřítelem obvazového materiálu je vlhkost. Pokud během ošetřování zmokne, je na místě ho nahradit novým.
+Obvazový materiál by se po použití nikdy neměl vracet do lékárničky a to ani po vyprání. Největším nepřítelem obvazového materiálu je vlhkost. Pokud během ošetřování zmokne, je na místě ho nahradit novým.
 
 {id="leky"}
 

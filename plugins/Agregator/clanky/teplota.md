@@ -31,7 +31,7 @@ Vzestup tělesné teploty následuje po fyzické aktivitě (při práci vzniká 
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Podmínkou pro správně fungující termoregulaci je [dostatek tekutin][2].
+Podmínkou pro správně fungující termoregulaci je [dostatek tekutin][2].
 
 Pobyt v horku, na slunci, nemožnost ochlazení organismu koupelí ve chladné vodě a nedostatek tekutin jistě povede k úpalu. Projeví se [nevolností až zvracením][3], [bolestí a točením hlavy][4], celkovou slabostí. Takto přehřátý člověk potřebuje pobyt v chladné tmavé místnosti, chladné nápoje, chladnou sprchu, klid.
 
@@ -81,7 +81,7 @@ Obávaný [meningokok je mikroorganizmus][6], který se běžně vyskytuje v lid
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Závažnost a průběh onemocnění jsou dány spíše připraveností člověka (imunitou a celkovým stavem) než záludností a nebezpečností bakterie.
+Závažnost a průběh onemocnění jsou dány spíše připraveností člověka (imunitou a celkovým stavem) než záludností a nebezpečností bakterie.
 
 Meningokokové infekci bohužel nejčastěji podlehne malé dítě v době, kdy již nemá od matky dostatek protilátek (dostává je nitroděložně placentou a poporodně mateřským mlékem) a ještě nemá vytvořeny své [vlastní protilátky][14]. Další skupinou lidí, kteří mohou podlehnout meningokokovi jsou adolescenti ve stavu vyčerpání a únavy (například po probdělé noci). Ostatní **lidé při setkání s meningokokem nemusejí vůbec onemocnět**.
 

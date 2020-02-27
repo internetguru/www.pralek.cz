@@ -25,11 +25,11 @@ Pokud dojde k většímu neštěstí nebo k hromadné nehodě, vysílá dispeče
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Čerstvě zalitá káva voněla po kuchyni. Vtom zvonila listonoška. Za několik sekund dvouleté dítě pláčem přivolává rodiče – [bylo opařené kávou][3]. Jeden z rodičů [chladil spáleninu studenou vodou][4], druhý zavolal záchranku. Dispečer vyslal k opařenému dítěti do vesnice rychlou lékařskou pomoc. Záchranka dorazila za 6 minut. Opařené plochy dítěte byly rozsáhlé; zranění bylo velmi závažné, život ohrožující.
+Čerstvě zalitá káva voněla po kuchyni. Vtom zvonila listonoška. Za několik sekund dvouleté dítě pláčem přivolává rodiče – [bylo opařené kávou][3]. Jeden z rodičů [chladil spáleninu studenou vodou][4], druhý zavolal záchranku. Dispečer vyslal k opařenému dítěti do vesnice rychlou lékařskou pomoc. Záchranka dorazila za 6 minut. Opařené plochy dítěte byly rozsáhlé; zranění bylo velmi závažné, život ohrožující.
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Dítě bylo odborně ošetřeno a dostalo potřebné léky. Sanita vyrazila směrem k velkému parkovišti, spojila se s dispečerem a žádala vrtulník k transportu na kliniku pro spáleniny do Prahy. Zabezpečené dítě bylo předáno do vrtulníku na domluveném místě. _Dětský život byl zachráněn._
+Dítě bylo odborně ošetřeno a dostalo potřebné léky. Sanita vyrazila směrem k velkému parkovišti, spojila se s dispečerem a žádala vrtulník k transportu na kliniku pro spáleniny do Prahy. Zabezpečené dítě bylo předáno do vrtulníku na domluveném místě. _Dětský život byl zachráněn._
 
 {id="informacni\_tok\_a\_rozhodovani\_o\_posadce\_a_vyjezdech"}
 
@@ -78,7 +78,7 @@ n/a
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Paradoxně se relativně často stává, že proti sobě jedoucí řidiči oba zpomalí a nakonec zastaví přímo vedle sebe. Tím **nutí záchranku zpomalit a mnohdy i zastavit** do té doby, než jeden z nich nakonec popojede :-(
+Paradoxně se relativně často stává, že proti sobě jedoucí řidiči oba zpomalí a nakonec zastaví přímo vedle sebe. Tím **nutí záchranku zpomalit a mnohdy i zastavit** do té doby, než jeden z nich nakonec popojede :-(
 
 {id="otazky" var="inputvar-otazky_h"}
 

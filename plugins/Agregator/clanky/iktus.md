@@ -37,7 +37,7 @@ Stejné příznaky mohou doprovázet jak neúrazové tak [úrazové krvácení d
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Brnění nebo poruchy čití mohou sice doprovázet CMP, ale mnohem častěji vzniknou pouhým přeležením paže! Hlubokým spánkem na paži v nevhodné poloze se otlačí nebo natáhne nervový svazek nebo nerv. Při probuzení je končetina jako cizí, necitlivá, studená, nelze jí aktivně pohnout. Stav se během několika minut sám upraví.
+Brnění nebo poruchy čití mohou sice doprovázet CMP, ale mnohem častěji vzniknou pouhým přeležením paže! Hlubokým spánkem na paži v nevhodné poloze se otlačí nebo natáhne nervový svazek nebo nerv. Při probuzení je končetina jako cizí, necitlivá, studená, nelze jí aktivně pohnout. Stav se během několika minut sám upraví.
 
 {id="nasledky\_po\_mozkove_mrtvici"}
 

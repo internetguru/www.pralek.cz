@@ -46,7 +46,7 @@ Prudká náhle vzniklá [bolest břicha][6] v nadbřišku při vředové chorob�
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Každý pacient popisuje bolest při proděravění žaludečního vředu slovy „jako když mi vrazí do břicha nůž“.
+Každý pacient popisuje bolest při proděravění žaludečního vředu slovy „jako když mi vrazí do břicha nůž“.
 
 Bolest se postupně rozšiřuje po celém břiše. Jedná se o vážnou komplikaci žaludečního nebo dvanáctníkového vředu. Neodkladné lékařské vyšetření je nezbytné, jedině včasná operace může pacientovi zachránit život a navrátit zdraví.
 

@@ -21,7 +21,7 @@ n/a
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>V prstech nejsou žádné svaly. Svaly které umožňují pohyb prstů jsou totiž uloženy na předloktí. Od svalů vedou do prstů velmi pevné hladké šlachy. Aby byly pohyby prstů plynulé a bezbolestné, jsou [šlachy uloženy ve šlachových pochvách][1]. Nad některými klouby procházejí šlachy pevnými vazivovými poutky.
+V prstech nejsou žádné svaly. Svaly které umožňují pohyb prstů jsou totiž uloženy na předloktí. Od svalů vedou do prstů velmi pevné hladké šlachy. Aby byly pohyby prstů plynulé a bezbolestné, jsou [šlachy uloženy ve šlachových pochvách][1]. Nad některými klouby procházejí šlachy pevnými vazivovými poutky.
 
 Šlacha je složena z mnoha podélně jdoucích pevných vláken. V případě jejího přetížení nebo poranění může dojít k natržení několika těchto vláken. Natržení se projeví zbytněním (uzlík) poraněné části šlachy. Jestli je rozšířené místo v blízkosti poutka, které je právě tak velké, aby jím dobře klouzala zdravá šlacha, pak rozšířené místo poutkem prochází až po překonání určitého odporu (lupnutí).
 

@@ -58,7 +58,7 @@ Vývoj stádií návyku na cigarety:
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>**Do posledního stádia návyku dospěje dříve nebo později každý kuřák.**
+**Do posledního stádia návyku dospěje dříve nebo později každý kuřák.**
 
 Spokojenost kuřáků se v různých stádiích závislosti na cigaretách liší:
 
@@ -82,7 +82,7 @@ O škodlivosti kouření dnes již jistě nikdo nepochybuje. Dlouhodobé kouřen
 
 {class="important"}
 
-<span class="fas fa-exclamation-triangle">i</span>Samozřejmě, že jedna cigareta (ba ani jedna krabička cigaret) nevadí. Nikdo však neví, jak brzy si vytvoří takový návyk, se kterým si již sám nedokáže poradit.
+Samozřejmě, že jedna cigareta (ba ani jedna krabička cigaret) nevadí. Nikdo však neví, jak brzy si vytvoří takový návyk, se kterým si již sám nedokáže poradit.
 
 {id="odvykani_koureni"}
 

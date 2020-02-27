@@ -25,7 +25,7 @@ Jestliže násilí působí opačně (tlačí nohu pod zevní kotník), pak se p
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Často se zvrtnutí nesprávně laicky označuje jako _podvrknutí kotníku_, _vyvrknutí kotníku_ či _zvrknutí kotníku_.
+Často se zvrtnutí nesprávně laicky označuje jako _podvrknutí kotníku_, _vyvrknutí kotníku_ či _zvrknutí kotníku_.
 
 Větší násilí může poranit hlezno oboustranně. Jedná se o závažnější úraz, rychle nastupuje otok a brzy se ukazuje i krevní výron. Stav je označován jako **podvrtnutí, zvrtnutí nebo vyvrtnutí obou kotníků** (hlezna). Laicky bývá také označován jako „výron“. Vzhledem k nestabilitě kloubu lze mluvit i o **vymknutí (vykloubení) hlezna** – _hlezenného kloubu_.
 
@@ -61,7 +61,7 @@ Jiná možnost je **přiložení ortézy**. Ortéza limituje pohyb hlezna v pož
 
 {class="example"}
 
-<span class="fas fa-lightbulb">i</span>Dlouhodobé [preventivní nošení ortézy][3] je však sporné. V případě běžné zátěže nahrazuje ortéza oslabený vaz a ten proto nesílí a nezpevňuje se. V případě nadměrného násilí nebo nečekaného úrazu nezabrání ortéza recidivě.
+Dlouhodobé [preventivní nošení ortézy][3] je však sporné. V případě běžné zátěže nahrazuje ortéza oslabený vaz a ten proto nesílí a nezpevňuje se. V případě nadměrného násilí nebo nečekaného úrazu nezabrání ortéza recidivě.
 
 **Správně provedené tejpování** může podpořit lehce poškozené kloubní pouzdro nebo vaz. Vzhledem k velkým silám v oblasti hlezna ale spíše jen symbolicky.
 
