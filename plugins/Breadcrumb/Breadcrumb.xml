@@ -2,4 +2,5 @@
 <Breadcrumb>
   <var id="logo">/themes/icon/256x256.png</var>
   <var id="homeTitle">Na domovskou stránku</var>
+  <var id="reset">Výchozí filtr</var>
 </Breadcrumb>

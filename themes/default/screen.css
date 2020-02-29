@@ -535,11 +535,13 @@ dl.toptags dd {
   font-weight: 600;
 }
 .search .js-completable-navig li svg {
-  margin-right: 0.5em;
+  margin: 0 0.5em 0 0.25em;
   color: #616161;
+  vertical-align: -0.2em;
 }
 .search .js-completable-navig span {
   color: #9e9e9e;
+  margin-left: 1.7em;
 }
 .search ul input {
   color: #fff;
@@ -576,8 +578,11 @@ dl.toptags dd {
     border-radius: 0 0 0.25em 0 !important;
   }
 }
+.search .js-completable-navig,
 .search ul input:focus {
-  color: inherit;
+  color: #333;
+}
+.search ul input:focus {
   background: #ffffff;
 }
 .search ul li > label {
@@ -1284,5 +1289,6 @@ div.part.dotace {
 p:not(.description), div:not(.list), .author ul, ol, dl {
   clear: both;
 }
+
 
 
