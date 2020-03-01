@@ -129,6 +129,8 @@ dl.figure dt {
   #header .contentlink-bc span {
     display: block;
   }
+}
+@media (min-width: 30em) {
   #header > div {
     display: flex;
     z-index: 11;
