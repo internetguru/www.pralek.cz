@@ -3,15 +3,14 @@
   
   var fullDescs = [];
   
-  var multiClickHandler = function (handlers, index, button, delay) {
-    var clicks = 0, timeout, index = index, button = button, delay = delay || 250;
+  var multiClickHandler = function (handlers, index, button) {
+    var clicks = 0, timeout, index = index, button = button;
     return function (e) {
       clicks++;
-      clearTimeout(timeout);
-      timeout = setTimeout(function () {
-        if(handlers[clicks]) handlers[clicks](e, index, button);
-        clicks = 0;
-      }, delay);
+      if (handlers[clicks]) {
+        handlers[clicks](e, index, button)
+      }
+      clicks = 0;
     };
   }
    

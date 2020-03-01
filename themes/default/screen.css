@@ -400,7 +400,7 @@ dl.clanek.doclist-new > dt:first-child:after {
   flex-wrap: wrap;
   /* align-items: center; */
 }
-@media (max-width: 30em) {
+@media (max-width: 42em) {
   .contentbalancer-simple ul {
     flex-direction: column;
     align-items: center;
@@ -497,14 +497,6 @@ dl.toptags dd {
 }
 .filter .button {
   margin-left: 1em;
-}
-.author .contentbalancer-simple li {
-  margin-top: 1em;
-}
-@media all and (min-width: 42em) {
-  .author .contentbalancer-simple li:first-child {
-    margin-right: 1em;
-  }
 }
 #feedback button:first-child,
 .author .contentbalancer-simple a {
@@ -830,12 +822,17 @@ ol.otazky li:last-child {
     margin-right: 0.7em;
   }
 }
-.contentbalancer-simple li.facebook {
-  /* margin-top: 0.5em; */
-}
-.contentbalancer-simple li.facebook a {
-  /* display: inline-flex; */
+.author .contentbalancer-simple li {
+  display: inline-flex;
   align-items: center;
+  margin: 0.25em 0;
+  margin-right: 0.5em;
+}
+.author .contentbalancer-simple li a {
+  padding: 0.5rem 1rem;
+}
+.author .contentbalancer-simple li.facebook a {
+  padding: 0.2rem 1rem;
   padding-right: 0;
 }
 .contentbalancer-simple li.facebook a svg {
@@ -1289,6 +1286,5 @@ div.part.dotace {
 p:not(.description), div:not(.list), .author ul, ol, dl {
   clear: both;
 }
-
 
 
