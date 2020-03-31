@@ -36,7 +36,7 @@ n/a
   * **Nakapání léku do spojivkového vaku** oka a vstřebání jeho sliznicí _(konjunktivální aplikace)_ – kapky nebo mast;
       * Léky podávané do spojivkového vaku jsou určeny pouze k ošetření oka nebo spojivek.
   * **Nakapání nebo vstříknutí léku do nosu** a vstřebání nosní sliznicí _(intranasální aplikace)_ – kapky, mast nebo sprej;
-      * Léky aplikované do nosu jsou určeny k místnímu použití.
+      * Léky aplikované do nosu jsou určeny hlavně k místnímu použití.
       * Pozor, působí však i celkově (stejně jako [šňupání tabáku][5] nebo kokainu).
   * **Nakapání léku do ucha** a vstřebání zevním zvukovodem _(intraotální aplikace)_ – kapky nebo mast;
       * Léky působí místně na zevní zvukovod a bubínek.
