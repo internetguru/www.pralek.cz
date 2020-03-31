@@ -38,7 +38,7 @@ Vyhýbání se cukrům ve stravě je u zdravého člověka zbytečné podobně j
 
 Nejcitlivější na nedostatek energie jsou buňky mozkové. Na jejich podnět **organizmus reaguje zvyšováním množství cukru v krvi**.
 
-V případě požití sladkého jídla se glykémie ještě zvyšuje (i na několikanásobek normální hodnoty). Projevem tohoto stádia cukrovky může být zatím jen občasná slabost a žízeň. Pacient o své nemoci bohužel nemusí vůbec vědět. Tehdy vzniká prostor pro komplikace cukrovky.
+V případě požití sladkého jídla se glykémie ještě zvyšuje (i na několikanásobek normální hodnoty). Projevem tohoto stádia cukrovky může být zatím jen občasná slabost a žízeň. Pacient o své nemoci bohužel nemusí vůbec vědět. Tehdy vzniká prostor pro vznik komplikací cukrovky.
 
 {class="important"}
 
