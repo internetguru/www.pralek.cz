@@ -5,7 +5,7 @@
 
 # Odřeniny – proč je nutné mechanicky vyčistit oděrku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
 
 {kw="poranění, úrazy, krvácení, kůže-podkoží, pohyb, zánět"}
 

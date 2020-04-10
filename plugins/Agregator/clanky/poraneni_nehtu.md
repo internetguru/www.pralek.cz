@@ -5,7 +5,7 @@
 
 # Poranění nehtu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
 
 {kw="nehet, úrazy, strach, krvácení, zánět, zlomeniny"}
 

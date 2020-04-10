@@ -5,9 +5,9 @@
 
 # Závislosti na kouření je snazší předejít
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
 
-{kw="prevence, zdravý životní styl, cévy, nevolnost, kašel, nádory, zhoubné, infarkt"}
+{kw="prevence, cévy, nevolnost, točení hlavy, kašel, nádory, zhoubné, infarkt"}
 
 Kouření tabáku (nejčastěji cigaret) přináší kuřákovi krátkodobě příjemný prožitek, ale dlouhodobě nepříjemnou závislost na nikotinu. Podle stupně závislosti již nebývá kouření nikterak příjemným zážitkem, spíše vzniká problém, když nezbytná cigareta chybí.
 

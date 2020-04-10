@@ -5,7 +5,7 @@
 
 # Mýtus o urychlení rakoviny operací
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
 
 {kw="rakovina, mýty, strach, nádory, zhoubné, uzliny, krvácení, zvracení"}
 

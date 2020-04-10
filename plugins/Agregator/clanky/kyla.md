@@ -5,7 +5,7 @@
 
 # Kýla: boulička v třísle, v pupku nebo jeho okolí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
 
 {kw="boulička, břicho, strach, zvracení, pohyb"}
 

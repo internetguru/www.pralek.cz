@@ -5,7 +5,7 @@
 
 # Zánětlivé ložisko nad hýžďovou rýhou
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
 
 {kw="zánět, kůže-podkoží, boulička, neúrazové, teplota, prevence"}
 
