@@ -68,7 +68,7 @@ Alergickou reakcí tedy není přirozená reakce organizmu proti cizorodé škod
 
 
 
-{id="n\_a" var="inputvar-otazky\_h"}
+{id="otazky" var="inputvar-otazky_h"}
 
 ## n/a
 
