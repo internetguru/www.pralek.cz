@@ -28,7 +28,7 @@ a[href] {
   border-color: #5C6BC0;
 }
 .hdesc label,
-.hdesc a {
+.hdesc a:not(.definition-href) {
   color: white;
   border-color: rgba(255, 255, 255, 0.74);
 }
@@ -138,7 +138,7 @@ dl.figure dt {
     padding: 0;
   }
 }
-.hdesc a {
+.hdesc a:not(.definition-href) {
   color: white;
 }
 .hdesc > div > * {
