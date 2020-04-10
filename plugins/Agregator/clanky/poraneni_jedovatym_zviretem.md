@@ -88,7 +88,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: imunita
+ [1]: alergie
  [2]: rychla_lekarska_pomoc
  [3]: ryma_a_smrkani
  [4]: lekarnicka

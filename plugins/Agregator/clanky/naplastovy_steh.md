@@ -107,5 +107,5 @@ n/a
  [3]: akne
  [4]: zanet
  [5]: krecove_zily
- [6]: imunita
+ [6]: alergie
 

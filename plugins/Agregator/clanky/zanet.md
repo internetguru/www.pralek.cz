@@ -93,7 +93,7 @@ Jelikož v aseptickém zánětu nejsou žádné mikroorganizmy, netvoří tělo 
 
 n/a
 
-V případě chybné reakce [imunitního systému][3] může tělo tvořit protilátky vůči látkám, které tělu ve skutečnosti vůbec neškodí (alergie), nebo které jsou mu vlastní, a které dokonce potřebuje (autoimunitní onemocnění).
+V případě chybné reakce [imunitního systému][3] může tělo tvořit protilátky vůči látkám, které tělu ve skutečnosti vůbec neškodí [(alergie)][17], nebo které jsou mu vlastní, a které dokonce potřebuje (autoimunitní onemocnění).
 
 Alergický zánět reaguje na alergeny (například kovy, prach nebo pyl). Tyto látky organizmus mylně vyhodnotí za tělu nebezpečného nepřítele (chybná imunitní reakce – např. alergická rýma). Tělo proti alergenům mobilizuje síly podobně jako proti skutečně nepřátelským mikroorganizmům. Podávány musejí být protialergické léky _(antialergika)_, které obecně tlumí příznaky zánětu.
 
@@ -157,4 +157,5 @@ n/a
  [14]: bolest_v_krku_angina
  [15]: ochlazeni_spaleniny
  [16]: leky_proti_bolesti
+ [17]: alergie
 
