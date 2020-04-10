@@ -70,11 +70,11 @@ n/a
 
 {class="otazky"}
 
-  * Co je alergie?
-  * Co je alergen?
-  * Jaké jsou příznaky místní alergické reakce?
-  * Jaké jsou příznaky celkové alergické reakce?
-  * Jaké jsou příznaky normální reakce organizmu na bodnutí hmyzem v případě správně fungujícího imunitního systému?
+  1. Co je alergie?
+  2. Co je alergen?
+  3. Jaké jsou příznaky místní alergické reakce?
+  4. Jaké jsou příznaky celkové alergické reakce?
+  5. Jaké jsou příznaky normální reakce organizmu na bodnutí hmyzem v případě správně fungujícího imunitního systému?
 
 {id="dotace" var="inputvar-feedback_h"}
 
