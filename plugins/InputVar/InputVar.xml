@@ -59,8 +59,18 @@
   
   <fn id="replacenames" fn="replace">
 <!-- [replacenames] generated content, do not edit -->
-    <data name="title='title=alergie'"></data>
-    <data name="href='href=alergie'"></data>
+    <data name="title='title=alergická rýma'"></data>
+    <data name="href='href=alergická rýma'"></data>
+    <data name="title=alergie">Filtrovat články</data>
+    <data name="href=alergie">/?stitek=alergie#clanky</data>
+    <data name="title='title=alergizující léky'"></data>
+    <data name="href='href=alergizující léky'"></data>
+    <data name="title='title=alergizující rostliny'"></data>
+    <data name="href='href=alergizující rostliny'"></data>
+    <data name="title='title=anafylaktický šok'"></data>
+    <data name="href='href=anafylaktický šok'"></data>
+    <data name="title='title=anafylaxe'"></data>
+    <data name="href='href=anafylaxe'"></data>
     <data name="title='title=angína'"></data>
     <data name="href='href=angína'"></data>
     <data name="title='title=antibiotika'"></data>
@@ -87,6 +97,8 @@
     <data name="href=imunita">/?stitek=imunita#clanky</data>
     <data name="title='title=infarkt'"></data>
     <data name="href='href=infarkt'"></data>
+    <data name="title='title=jed'"></data>
+    <data name="href='href=jed'"></data>
     <data name="title='title=kašel'"></data>
     <data name="href='href=kašel'"></data>
     <data name="title='title=katetrizace'"></data>
@@ -217,6 +229,7 @@
       <dt class="filter">Nejčetnější kategorie článků</dt>
       <dd>
 <!-- [taglist] generated content, do not edit -->
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=alergie" href="href=alergie"><span class="fas fa-tag">i</span>alergie</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=boulička" href="href=boulička"><span class="fas fa-tag">i</span>boulička</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=břicho" href="href=břicho"><span class="fas fa-tag">i</span>břicho</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=cévy" href="href=cévy"><span class="fas fa-tag">i</span>cévy</a>
@@ -267,17 +280,18 @@
     <ul>
       <li><select id="completable-search" name="s" class="completable">
 <!-- [completable] generated content, do not edit -->
+<option class="tag" value="stitky/alergie">alergie (5 výskytů)</option>
 <option class="tag" value="stitky/boulicka">boulička (12 výskytů)</option>
 <option class="tag" value="stitky/bricho">břicho (25 výskytů)</option>
 <option class="tag" value="stitky/cevy">cévy (23 výskytů)</option>
 <option class="tag" value="stitky/detske">dětské (11 výskytů)</option>
 <option class="tag" value="stitky/hygiena">hygiena (10 výskytů)</option>
-<option class="tag" value="stitky/imunita">imunita (5 výskytů)</option>
+<option class="tag" value="stitky/imunita">imunita (6 výskytů)</option>
 <option class="tag" value="stitky/kolaps">kolaps (5 výskytů)</option>
 <option class="tag" value="stitky/krvaceni">krvácení (25 výskytů)</option>
 <option class="tag" value="stitky/kuze-podkozi">kůže-podkoží (16 výskytů)</option>
 <option class="tag" value="stitky/latkova_vymena">látková výměna (5 výskytů)</option>
-<option class="tag" value="stitky/mikroorganizmy">mikroorganizmy (18 výskytů)</option>
+<option class="tag" value="stitky/mikroorganizmy">mikroorganizmy (19 výskytů)</option>
 <option class="tag" value="stitky/mocova_soustava">močová soustava (7 výskytů)</option>
 <option class="tag" value="stitky/mozek-nervy">mozek-nervy (8 výskytů)</option>
 <option class="tag" value="stitky/nadory">nádory (18 výskytů)</option>
@@ -340,6 +354,7 @@
 <option class="article" value="clanky/rakovina_prsu">Rakovina prsu</option>
 <option class="article" value="clanky/puchyr_mozol_kuri_oko">Puchýř, mozol, kuří oko: jak správně ošetřovat</option>
 <option class="article" value="clanky/prostata">Prostata: potíže s močením</option>
+<option class="article" value="clanky/projevy_alergie"></option>
 <option class="article" value="clanky/prisate_kliste">Nakažení přisátým klíštětem</option>
 <option class="article" value="clanky/prijem_tekutin">Přiměřený příjem tekutin</option>
 <option class="article" value="clanky/poraneni_sleziny">Záludnost poranění sleziny u dětí</option>
