@@ -116,7 +116,7 @@ n/a
  [1]: zanet
  [2]: bolest_v_krku_angina
  [3]: imunita
- [4]: alergie
+ [4]: projevy_alergie
  [5]: mocove_kameny
  [6]: zanet_mocoveho_mechyre
  [7]: mikroorganizmy

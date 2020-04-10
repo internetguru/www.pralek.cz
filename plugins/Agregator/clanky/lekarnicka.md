@@ -149,7 +149,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: alergie
+ [1]: projevy_alergie
  [2]: mikroorganizmy
  [3]: plisne_kuze
  [4]: teplota

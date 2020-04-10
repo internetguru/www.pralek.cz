@@ -86,7 +86,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: antibiotika
- [2]: alergie
+ [2]: projevy_alergie
  [3]: mikroorganizmy
  [4]: teplota
 
