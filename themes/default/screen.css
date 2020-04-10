@@ -1067,7 +1067,7 @@ ul.docinfo.nomultiple.global li > svg ~ span {
   padding-top: 0.5em;
   padding-left: 0.5em;
   box-sizing: border-box;
-  color: transparent;
+  color: transparent !important;
 }
 .extra .hideable > span:first-child {
   order: 10;
@@ -1288,5 +1288,4 @@ div.part.dotace {
 p:not(.description), div:not(.list), .author ul, ol, dl {
   clear: both;
 }
-
 
