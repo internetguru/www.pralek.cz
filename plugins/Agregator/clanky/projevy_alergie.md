@@ -1,9 +1,11 @@
 
 {data-fbcommentid="n/a" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/projevy_alergie/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{id="projevy\_alergie" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" ctime="2020-04-10" mtime="2020-04-10"}
+{ctime="2020-04-10" mtime="2020-04-10" id="projevy\_alergie" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka"}
 
 # Projevy alergie
+
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
 
 {kw="alergie, jed, imunita, alergická rýma, alergizující rostliny, alergizující léky, anafylaxe, anafylaktický šok, mikroorganizmy"}
 
