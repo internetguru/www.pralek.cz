@@ -5,5 +5,5 @@ require("IGCMS.Copyable", () => {
         selectTitle: "Zkopírovat odkaz"
       })
     })
-  }, 300)
+  }, 500)
 })
