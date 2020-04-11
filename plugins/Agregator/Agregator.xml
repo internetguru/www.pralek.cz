@@ -11,7 +11,7 @@
       <dt><a title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=image"><img var="image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
-      <dt class="heading"><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=heading">n/a</a></dt>
+      <dt class="heading card__heading"><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=heading">n/a</a></dt>
       <dd class="desc" var="desc">n/a</dd>
       <dd class="extra"><ul class="button-list">
         <li>
