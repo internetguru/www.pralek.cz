@@ -1,7 +1,9 @@
-require("IGCMS.Copyable", function () {
-  require("IGCMS.Hideable", function () {
-    IGCMS.Copyable.init({
-      selectTitle: "Zkopírovat odkaz"
+require("IGCMS.Copyable", () => {
+  windown.setTimeout(() => {
+    require("IGCMS.Hideable", () => {
+      IGCMS.Copyable.init({
+        selectTitle: "Zkopírovat odkaz"
+      })
     })
-  })
+  }, 300)
 })
