@@ -27,8 +27,10 @@
         </li>
         <li>
           <span class="hideable hideable-hidden">
-            <span var="link@data-eventable-label" class="eventable" data-eventable-action="share">share</span>
-            <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
+<!--             <span var="link@data-eventable-label" class="eventable" data-eventable-action="share">share</span> -->
+<!--             <span class="copyable" fn="inputvar-createlink" var="link">n/a</span> -->
+            <span>a</span>
+            <span>b</span>
           </span>
         </li>
       </ul></dd>
