@@ -4,7 +4,7 @@
 <!--   <jsFile append="body">themes/expand.js</jsFile> -->
 <!--   <jsFile append="body">themes/moreable.js</jsFile> -->
 <!--   <jsFile append="body">themes/moreableinit.js</jsFile> -->
-  <jsFile append="body" if-xpath="/body[contains(@class, 'agregator')]">themes/article-bg.js</jsFile>
+<!--   <jsFile append="body" if-xpath="/body[contains(@class, 'agregator')]">themes/article-bg.js</jsFile> -->
 <!--   <jsFile append="body">themes/components/completable-init.js</jsFile> -->
 <!--   <jsFile append="body">themes/feedback.js</jsFile> -->
 
