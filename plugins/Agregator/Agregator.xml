@@ -13,7 +13,7 @@
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
       <dt class="heading"><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=heading">n/a</a></dt>
       <dd class="desc" var="desc">n/a</dd>
-      <dd class="extra"><ul>
+      <dd class="extra"><ul class="button-list">
         <li><a title="Zobrazit článek %s" var="link@href short@title" class="button" href="%s?usp=button">Přečíst</a></li>
 <!--         <li><span class="button facebook" title="Sdílet na facebooku"><span class="fa fa-facebook-official">share</span></span></li> -->
         <li>
