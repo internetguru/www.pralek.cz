@@ -14,6 +14,7 @@
   <favicon>themes/icon/Lovoo_Icon_Heart.ico</favicon>
  
   
+  <var id="preserveImgSpace">enabled</var>
   <var id="usp">enabled</var>
   <var id="schemaorg">enabled</var>
 </HtmlOutput>
