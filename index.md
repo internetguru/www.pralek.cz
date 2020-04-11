@@ -25,9 +25,9 @@ Ambulantní chirurg s 40letou praxí
 
 :   {class="button-list"}
     
-      * [Jak podpořit Pralék {class="definition-skip button"}][2]
-      * [Staňte se patronem {class="button"}][3] {class="donation"}
-      * [Sledujte nás <span class="fab fa-facebook-square">i</span> {title="Sledovat Pralék na Facebooku" class="button button--img button--img-inline"}][4] {class="facebook"} {data-visibility="/" class="contentbalancer--simple"}
+      * [Jak podpořit Pralék {class="definition-skip button button--border"}][2]
+      * [Staňte se patronem {class="button button--border"}][3] {class="donation"}
+      * [<span class="fab fa-facebook-square">i</span> Sledujte nás {title="Sledovat Pralék na Facebooku" class="button button--border button--img button--img-inline"}][4] {class="facebook"} {data-visibility="/" class="contentbalancer--simple"}
 
 {id="sponzoring"}
 
@@ -52,9 +52,9 @@ Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah
 
 Pro účely dotací jsme zvolili službu [Patreon][3]. Služba je napůl anglicky a podporuje platby přes [PayPal][5] a platební karty. Pokud chcete web sponzorovat jiným způsobem nebo za jiných podmínek, [ozvěte se autorovi na e-mail][6].
 
-{class="contentbalancer-simple"}
+{class="button-list"}
 
-  * [Staňte se patronem][3] {class="donation"}
+  * [Staňte se patronem {class="button"}][3] {class="donation"}
 
 {short="Odběr novinek" id="upozorneni"}
 
