@@ -15,7 +15,7 @@
       <dd class="desc" var="desc">n/a</dd>
       <dd class="extra"><ul class="button-list">
         <li>
-          <a title="Zobrazit článek %s" var="link@href short@title" class="button" href="%s?usp=button">Přečíst</a></li>
+          <a class="button button--simple" title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=button">Přečíst</a></li>
         <li>
           <span class="comment"><a var="fbcommentid@href inputvar-fbcomment-title@title" href="https://www.facebook.com/pralek/posts/%s">Diskutovat na našem Facebooku</a></span>
         </li>
