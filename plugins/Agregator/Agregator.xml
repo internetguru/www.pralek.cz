@@ -7,7 +7,7 @@
   <var id="merge-new">stitek</var>
 
   <doclist id="stitek" path="clanky" filter-name="top">
-    <dl class="clanek card col--3" var="doclist-new@class">
+    <dl class="clanek card card--shadow card--image col--3" var="doclist-new@class">
       <dt><a title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=image"><img var="image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
