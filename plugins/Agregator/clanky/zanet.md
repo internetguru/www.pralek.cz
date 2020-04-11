@@ -157,5 +157,5 @@ n/a
  [14]: bolest_v_krku_angina
  [15]: ochlazeni_spaleniny
  [16]: leky_proti_bolesti
- [17]: alergie
+ [17]: projevy_alergie
 
