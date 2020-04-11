@@ -10,10 +10,10 @@
     </ul>
     <ul class="share list--nomultiple button-list">
 <!--       <li><span class="copyable" fn="inputvar-createlink" var="link">n/a</span></li> -->
-      <li><a class="button button--image button--image-inline" var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-comment">i</span>Diskutovat na našem Facebooku</a></li>
-      <li><a class="button button--image button--image-inline" var="link@href" fn="inputvar-createfblink@href"><span class="fab fa-facebook-f">i</span>Sdílet na Facebooku</a></li>
-      <li><a class="button button--image button--image-inline" var="link@href" fn="inputvar-createtwitterlink@href"><span class="fab fa-twitter">i</span>Sdílet na Twitteru</a></li>
-      <li><a class="button button--image button--image-inline" href="#" var="inputvar-ghedit">n/a</a></li>
+      <li><a class="button button--img button--img-inline" var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-comment">i</span>Diskutovat na našem Facebooku</a></li>
+      <li><a class="button button--img button--img-inline" var="link@href" fn="inputvar-createfblink@href"><span class="fab fa-facebook-f">i</span>Sdílet na Facebooku</a></li>
+      <li><a class="button button--img button--img-inline" var="link@href" fn="inputvar-createtwitterlink@href"><span class="fab fa-twitter">i</span>Sdílet na Twitteru</a></li>
+      <li><a class="button button--img button--img-inline" href="#" var="inputvar-ghedit">n/a</a></li>
     </ul>
   </var>
   
