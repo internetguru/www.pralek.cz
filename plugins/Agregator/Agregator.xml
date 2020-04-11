@@ -26,9 +26,9 @@
           <span class="twitter"><a var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s">Sdílet na twitteru</a></span>
         </li>
         <li>
-          <span class="hideable hideable-hidden">
-            <span var="link@data-eventable-label" class="eventable" data-eventable-action="share">share</span>
-            <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
+          <span>
+<!--             <span var="link@data-eventable-label" class="eventable" data-eventable-action="share">share</span> -->
+            <span class="hideable hideable-hidden copyable" fn="inputvar-createlink" var="link">n/a</span>
           </span>
         </li>
       </ul></dd>
