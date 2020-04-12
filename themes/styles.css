@@ -1,1 +1,18 @@
 @charset 'UTF-8';
+:root {
+  --list-multiple-item-margin: 0.5rem;
+  --global-border-radius: 0.5rem;
+
+  --hdesc-dim-bg: none;
+}
+
+.part.clanky .list {
+  --global-max-width: 80rem;
+  --list-multiple-item-margin: 1rem;
+}
+.part.clanky .list > div {
+  justify-content: space-around;
+}
+.part.clanky .card {
+  max-width: 24em !important;
+}
