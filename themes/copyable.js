@@ -34,7 +34,7 @@
             })();
             button.innerHTML = Config.selectTitle;
             button.title = Config.selectTitle;
-            button.className = "eventable";
+            button.className = "eventable button button--simple button--img button--img-only";
             var spanWrapper = document.createElement("span");
             var span = document.createElement("span");
             spanWrapper.appendChild(span);
