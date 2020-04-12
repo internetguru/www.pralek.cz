@@ -20,12 +20,12 @@
   all: initial;
 }
 .part.clanky .card .button-list {
-  --button-list-item-margin: 0;
   margin: 0;
   margin-top: 1em;
   justify-content: space-between;
 }
 .part.clanky .card .button-list li:first-child {
+  --button-list-item-margin: 0;
   flex-grow: 1;
 }
 .part.clanky .card .button-list li:first-child ~ li a,
