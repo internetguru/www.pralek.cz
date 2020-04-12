@@ -17,13 +17,13 @@
         <li>
           <a class="button button--simple" title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=button">Přečíst</a></li>
         <li>
-          <span class="comment"><a var="fbcommentid@href inputvar-fbcomment-title@title" href="https://www.facebook.com/pralek/posts/%s">Diskutovat na našem Facebooku</a></span>
+          <a var="fbcommentid@href inputvar-fbcomment-title@title" href="https://www.facebook.com/pralek/posts/%s"><span class="fas fa-fw fa-comment">i</span></a>
         </li>
         <li>
-          <span class="fb"><a var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s">Sdílet na facebooku</a></span>
+          <a var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s"><span class="fas fa-fw fa-comment">i</span></a>
         </li>
         <li>
-          <span class="twitter"><a var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s">Sdílet na twitteru</a></span>
+          <a var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s"><span class="fas fa-fw fa-comment">i</span></a>
         </li>
         <li>
           <span class="hideable hideable-hidden">
