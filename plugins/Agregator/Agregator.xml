@@ -17,13 +17,13 @@
         <li>
           <a class="button button--simple" title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=button">Přečíst</a></li>
         <li>
-          <a class="button button--img button--img-inline" var="fbcommentid@href inputvar-fbcomment-title@title" href="https://www.facebook.com/pralek/posts/%s"><span class="fas fa-fw fa-comment">i</span></a>
+          <a class="button button--img button--img-only" var="fbcommentid@href inputvar-fbcomment-title@title" href="https://www.facebook.com/pralek/posts/%s"><span class="fas fa-fw fa-comment">i</span></a>
         </li>
         <li>
-          <a class="button button--img button--img-inline" var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s"><span class="fas fa-fw fa-comment">i</span></a>
+          <a class="button button--img button--img-only" var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s"><span class="fas fa-fw fa-comment">i</span></a>
         </li>
         <li>
-          <a class="button button--img button--img-inline" var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s"><span class="fas fa-fw fa-comment">i</span></a>
+          <a class="button button--img button--img-only" var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s"><span class="fas fa-fw fa-comment">i</span></a>
         </li>
         <li>
           <span class="hideable hideable-hidden">
