@@ -19,3 +19,20 @@
 .part.clanky .card .hideable a.hideable-switch:before {
   all: initial;
 }
+.part.clanky .card .button-list {
+  --button-list-item-margin: 0;
+  margin: 0;
+  margin-top: 1em;
+  justify-content: space-between;
+}
+.part.clanky .card .button-list li:first-child {
+  flex-grow: 1;
+}
+.part.clanky .card .button-list li:first-child .button {
+  --button-padding: 1em;
+  width: auto;
+  min-width: auto;
+}
+.part.clanky .card .extra {
+  padding-bottom: 0.5em;
+}
