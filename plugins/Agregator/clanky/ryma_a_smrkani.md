@@ -9,25 +9,27 @@
 
 {kw="ušní-nosní-krční, zánět, mikroorganizmy, dětské, poranění"}
 
-Nekomplikovaná rýma bývá banální onemocnění. Podmínkou však je smrkání (či odsávání zahleněného nosu kojencům zvláštním nástrojem).
+Nekomplikovaná rýma bývá banální onemocnění. Podmínkou však je smrkání, či odsávání zahleněného nosu kojencům zvláštním nástrojem.
 
-Je velmi důležité **naučit dítě smrkat již v útlém věku**. Správné vyčištění dutin předejde nejen komplikacím vlastní rýmy ale i zánětům středoušních dutin (je mezi nimi přímé propojení).
+{class="important"}
+
+Je velmi důležité **naučit dítě smrkat již v útlém věku**. Správné vyčištění dutin předejde nejen komplikacím vlastní rýmy, ale i zánětům středoušních dutin (je mezi nimi přímé propojení).
 
 **Horní cesty dýchací** (dutina nosní a hrtan, čelistní a čelní dutiny) slouží k vedení, mechanickému čištění, ohřívání a zvlhčování vdechovaného vzduchu. Při výdechu zde vzniká barva hlasu, tvořeného hlasivkami. Zánět sliznice dutiny nosní, často i čelistní a čelní se nazývá rýma. Kýchání je prudké vyražení proudu vzduchu z dýchacích cest způsobené podrážděním nosní sliznice.
 
 Horní cesty dýchací jsou častým místem styku organizmu se zevní škodlivinou nebo s infekcí. V případě dobré kondice a imunity dokáže organizmus dlouho **odolávat [kapénkové infekci][1] i [prochlazení][2]**, někdy však podlehne. Nejčastěji podléhá infekci v souvislosti s únavou a vyčerpáním.
 
-Sliznice horních cest dýchacích je neustále bombardována různými **nečistotami z vdechovaného vzduchu**, který musí čistit, aby od nich co nejvíce uchránila plíce. Jedná se o aerosoly, různé prachové částice, pyly (alergeny), [mikroorganizmy (kapénková infekce)][3]. Stupeň znečištění vdechovaného vzduchu určuje náročnost procesu čištění.
+Sliznice horních cest dýchacích je neustále bombardována různými **nečistotami z vdechovaného vzduchu**. Sliznice tyto nečistoty co nejvíce filtruje, aby co nejvíce uchránila plíce. Jedná se o aerosoly, různé prachové částice, [pyly (alergeny)](projevy_alergie), [mikroorganizmy (kapénková infekce)][3]. Stupeň znečištění vdechovaného vzduchu určuje náročnost procesu čištění.
 
-Sekret nosní sliznice za normálních podmínek průběžně stéká do hrtanu a následně je polykán se slinami. V žaludku [jsou nečistoty i s mikroorganizmy likvidovány][4].
+Sekret nosní sliznice za normálních podmínek průběžně stéká do hrtanu a je následně polykán se slinami. V žaludku [jsou nečistoty i s mikroorganizmy likvidovány][4].
 
 {id="jak\_na\_rymu"}
 
 ## Jak na rýmu
 
-n/a
+[Pronikne-li infekce][5] do sliznice nosní dutiny, kde se pomnoží, začíná klasická rýma.
 
-[Pronikne-li infekce][5] do sliznice nosní dutiny kde se pomnoží, začíná klasická rýma. V počátku dochází ke **zbytnění a pálení sliznice** (nemožnost dýchat nosem). Proti tomu [pomohou nosní kapky][6] k uvolnění nosní sliznice a horká koupel.
+V počátku dochází ke **zbytnění a pálení sliznice** (nemožnost dýchat nosem). Proti tomu [pomohou nosní kapky][6] k uvolnění nosní sliznice a horká koupel.
 
 Ve sliznici probíhá [boj mezi mikroorganizmy a bílými krvinkami][7]. Krvinky posléze vítězí a zánět přechází do sekreční fáze. Nyní je třeba smrkat a již odřený nos zevně mazat jakoukoli příjemnou zklidňující mastí.
 
@@ -39,11 +41,9 @@ Nekomplikovaná **rýma by měla do týdne ustoupit**. Teprve v opačném příp
 
 ## Senná rýma
 
-n/a
+Na rozdíl od běžné rýmy ve sliznici nosní nebojují v případě senné rýmy bílé krvinky proti mikroorganizmům, ale [proti alergenům][7] (nejčastěji vdechnutá zrnka pylu). Výsledkem tohoto boje bývá **hojná řídká sekrece z nosu**, kterou má smysl pouze průběžně utírat (nikoliv násilně smrkat).
 
-Na rozdíl od běžné rýmy ve sliznici nosní nebojují v případě senné rýmy bílé krvinky proti mikroorganizmům ale [proti alergenům][7] (nejčastěji vdechnutá zrnka pylu). Výsledkem tohoto boje bývá **hojná řídká sekrece z nosu**, kterou má smysl pouze průběžně utírat (nikoliv násilně smrkat).
-
-Zároveň v zarudlých a alergenem podrážděných spojivkových vacích (pod očními víčky) se zvyšuje sekrece slz, které stékají slzným kanálkem do nosní dutiny. Pomůže vyvarovat se pobytu v alergizujícím prostředí a léky sloužící k oslabení alergické reakce.
+Zároveň v zarudlých a alergenem podrážděných spojivkových vacích (pod očními víčky) se zvyšuje sekrece slz, které stékají slzným kanálkem do nosní dutiny. Pomůže vyvarovat se pobytu v alergizujícím prostředí a brát léky sloužící k oslabení alergické reakce.
 
 {id="otazky" var="inputvar-otazky_h"}
 
