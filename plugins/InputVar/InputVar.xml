@@ -269,7 +269,7 @@
 
   <var id="tags-files-list">
   <form action="/" method="get" class="search">
-    <ul class="button-list">
+    <ul class="group col--2">
       <li><select id="completable-search" name="s" class="completable">
 <!-- [completable] generated content, do not edit -->
 <option class="tag" value="stitky/bolest">bolest (70 výskytů) #stitky/bolest</option>
