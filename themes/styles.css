@@ -16,3 +16,6 @@
 .part.clanky .card {
   max-width: 24em !important;
 }
+.part.clanky .card .hideable a.hideable-switch:before {
+  all: initial;
+}
