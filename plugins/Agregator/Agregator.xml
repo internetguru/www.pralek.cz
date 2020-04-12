@@ -27,7 +27,7 @@
         </li>
         <li>
           <span class="hideable hideable-hidden">
-            <span var="link@data-eventable-label" class="eventable" data-eventable-action="share"><span class="fas fa-fw fa-link">i</span></span>
+            <span var="link@data-eventable-label" class="eventable" data-eventable-action="share"><span class="fas fa-fw fa-link button button--simple button--img button--img-only">i</span></span>
             <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
           </span>
         </li>
