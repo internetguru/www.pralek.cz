@@ -8,8 +8,9 @@
 <!--   <jsFile append="body">themes/components/completable-init.js</jsFile> -->
 <!--   <jsFile append="body">themes/feedback.js</jsFile> -->
 
+  <xslt>themes/pralek.xsl</xslt>
   <xslt>themes/layout/image-group.xsl</xslt>
-<!--   <xslt>themes/pralek.xsl</xslt> -->
+  <stylesheet>themes/styles.css</stylesheet>
 
   <favicon>themes/icon/Lovoo_Icon_Heart.ico</favicon>
  
