@@ -32,6 +32,12 @@
 .part.clanky .card .button-list li:first-child ~ li span {
   --button-border-radius: 10em;
 }
+.part.clanky .card .button-list span {
+  padding: 0;
+}
+.part.clanky .card .button-list span a {
+  padding: var(--button-img-only-padding);
+}
 .part.clanky .card .button-list li:first-child .button {
   --button-padding: 1em;
   width: auto;
