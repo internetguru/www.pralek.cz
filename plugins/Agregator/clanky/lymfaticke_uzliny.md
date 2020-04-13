@@ -21,26 +21,20 @@ Lymfatické cévy jsou přerušeny uzlinami. Mízní uzliny jsou jakási sítka,
 
 V lymfatických uzlinách jsou [některé mikroorganizmy][4] zničeny, některé mohou lymfatickou cévou pronikat k nejbližší uzlině. Nečistoty jsou v uzlinách uloženy natrvalo. Podle příčiny se zvětšená uzlina [po ústupu zánětu][5] znovu zmenší nebo zůstane dlouhodobě zvětšená. **Při postižení nádorem uzlina dlouhodobě narůstá.**
 
-{id="zvetsene\_bolestive\_a\_jinak\_zmenene\_lymfaticke\_uzliny"}
+{id="zmenene\_lymfaticke\_uzliny"}
 
 ## Zvětšené, bolestivé a jinak změněné lymfatické uzliny
 
-n/a
-
-Normální lymfatické uzliny jsou drobné a nejsou ani hmatné ani bolestivé ani viditelné. Mění se v případě výskytu nějakého problému ve spádové oblasti (oblast, odkud přitéká lymfa). [Uzliny se mohou zvětšit][6] do velikosti hrachu až fazole, mohou být hmatné, bolestivé, viditelné.
+Normální lymfatické uzliny jsou drobné a nejsou ani hmatné ani bolestivé ani viditelné. Mění se v případě výskytu nějakého problému ve spádové oblasti (oblast, odkud přitéká lymfa). [Uzliny se mohou zvětšit][6] do velikosti hrachu až fazole, mohou být hmatné, viditelné a bolestivé.
 
 Důvodem zvětšení uzlin bývá zánět, pohmoždění nebo nádor oblasti, odkud lymfa přitéká. [Podle stádia zánětu][7] budou uzliny bolestivé nebo nebolestivé:
 
   * **Čerstvě vzniklý zánět** povede k _bolestivému_ zvětšení uzliny (akutní zánět).
   * **Dlouhodobý zánět** způsobí dlouhodobé _nebolestivé_ zvětšení uzlin (chronický zánět).
 
-{id="priklady\_zvetseni\_lymfatickych_uzlin"}
+Příklady zvětšení lymfatických uzlin:
 
-## Příklady zvětšení lymfatických uzlin
-
-n/a
-
-  * Nadměrná zátěž dolních končetin u mladých lidí často vede ke **zvětšení a bolestivosti tříselních uzlin**. Vzniklou bolestivou [bouličku nutno odlišit od kýly][8].
+  * Nadměrná zátěž dolních končetin u mladých lidí často vede ke **zvětšení a bolestivosti tříselních uzlin**. Vzniklou bolestivou [bouličku je nutno odlišit od kýly][8].
   * [Zánět nehtového lůžka][9], oděrky prstů nebo pat mohou způsobit **bolestivé zvětšení uzlin v zákolenní jamce nebo v tříslech**.
   * Dlouhodobé oděrky nebo plísně nohou zapříčiní **nebolestivé zvětšení tříselních uzlin**.
   * Stejně tak dojde ke **zvětšení uzlin na horní končetině** v loketní jamce nebo v podpaží (zánět, oděrka, namožení).
