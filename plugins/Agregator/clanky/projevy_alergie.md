@@ -1,5 +1,5 @@
 
-{data-fbcommentid="n/a" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/projevy_alergie/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
+{data-fbcommentid="1939246186207743" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/projevy_alergie/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
 {ctime="2020-04-14" mtime="2020-04-14" id="projevy\_alergie" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka"}
 
