@@ -5,7 +5,7 @@
 
 # Dárcovství krve, krevní plazmy a kostní dřeně
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-14, do not edit -->
 
 {kw="krev, strava-zažívání, strach, nevolnost, poruchy vědomí, kolaps, zhoubné, hygiena, dětské"}
 

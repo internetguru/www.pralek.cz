@@ -5,7 +5,7 @@
 
 # Bolest hlavy, migréna
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-14, do not edit -->
 
 {kw="cévy, neúrazové, prevence, strava-zažívání, úrazy, přehřátí, teplota, zánět"}
 

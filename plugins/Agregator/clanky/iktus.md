@@ -5,7 +5,7 @@
 
 # Cévní mozková příhoda neboli iktus či mrtvice
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-14, do not edit -->
 
 {kw="infarkt, cévy, mozek-nervy, pocení, nevolnost, zvracení, poruchy vědomí, srdce"}
 

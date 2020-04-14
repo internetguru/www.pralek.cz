@@ -5,7 +5,7 @@
 
 # Žaludeční potíže: bolest žaludku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-14, do not edit -->
 
 {kw="žaludek, břicho, zvracení, strach, strava-zažívání, teplota, zánět, mikroorganizmy"}
 

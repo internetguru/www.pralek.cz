@@ -5,7 +5,7 @@
 
 # Krvácení z křečové žíly dolní končetiny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-14, do not edit -->
 
 {kw="krvácení, cévy, první pomoc, kůže-podkoží, senioři, úrazy, neúrazové"}
 
