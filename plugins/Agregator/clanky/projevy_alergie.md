@@ -1,5 +1,5 @@
 
-{data-fbcommentid="1939246186207743" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/projevy_alergie/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
+{data-fbcommentid="1939252742873754" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/projevy_alergie/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
 {ctime="2020-04-14" mtime="2020-04-14" id="projevy\_alergie" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka"}
 
@@ -7,7 +7,7 @@
 
 {kw="alergie, jed, imunita, alergická rýma, alergizující rostliny, alergizující léky, anafylaxe, anafylaktický šok, mikroorganizmy"}
 
-Alergie je nepřiměřená reakce organismu na běžně neškodnou látku. Látka způsobující alergii se nazývá** alergen. Alergenem se tedy mohou stát cizorodé bílkoviny jako např. pylová zrna, plísně, složky potravy, jed [bodavého hmyzu][1], částice prachu nebo chemické prvky, a to nejčastěji kovy.
+Alergie je nepřiměřená reakce organismu na běžně neškodnou látku. Látka způsobující alergii se nazývá alergen. Alergenem se tedy mohou stát cizorodé bílkoviny jako např. pylová zrna, plísně, složky potravy, jed [bodavého hmyzu][1], částice prachu nebo chemické prvky, a to nejčastěji kovy.
 
 {id="co\_je\_alergie"}
 
