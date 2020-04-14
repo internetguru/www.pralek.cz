@@ -5,8 +5,6 @@
 
 # Projevy alergie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
-
 {kw="alergie, jed, imunita, alergická rýma, alergizující rostliny, alergizující léky, anafylaxe, anafylaktický šok, mikroorganizmy"}
 
 Alergie je nepřiměřená reakce organismu na běžně neškodnou látku. Látka způsobující alergii se nazývá** alergen. Alergenem se tedy mohou stát cizorodé bílkoviny jako např. pylová zrna, plísně, složky potravy, jed [bodavého hmyzu][1], částice prachu nebo chemické prvky, a to nejčastěji kovy.
@@ -17,14 +15,12 @@ Alergie je nepřiměřená reakce organismu na běžně neškodnou látku. Látk
 
 Alergie je způsobena aktivací protilátek vůči danému alergenu. Alergenem se může stát původně neškodná látka. [Imunitní systém][2] látku chybně vyhodnotí jako nepřátelskou a naprosto nesmyslně proti ní bojuje, jako kdyby byla škodlivá.
 
-Projevy alergie jsou různé: 
+Projevy alergie jsou různé:
 
   * od kontaktní alergické vyrážky např. v místě dotyku kůže s alergizujícím kovovým náramkem hodinek nebo s přezkou opasku,
   * přes alergickou [rýmu][3] v době květu a tedy výskytu pylu alergizujících rostlin,
   * po celkovou alergickou reakci se svědivou vyrážkou a otoky obličeje a končetin po požití alergenu nebo po bodnutí hmyzem,
   * až po celkový anafylaktický šok, který může skončit během krátké doby fatálně.
-
-
 
 {id="co\_je\_alergicka_reakce"}
 
@@ -32,7 +28,7 @@ Projevy alergie jsou různé:
 
 Alergická reakce je reakce na alergeny. Podle oblasti projevu se reakce dělí na místní a celkovou.
 
-Příznaky **místní reakce** mohou být: 
+Příznaky **místní reakce** mohou být:
 
   * vyrážka nebo kopřivka v místě styku s alergenem,
   * zduření nosní sliznice (alergická rýma),
@@ -40,17 +36,13 @@ Příznaky **místní reakce** mohou být:
   * zúžení průdušnice a průdušek, dušnost a dechová nedostatečnost nebo až
   * astmatický záchvat po vdechnutí alergenu.
 
-
-
-Příznaky **celkové reakce** na alergeny se mohou projevit podle závažnosti reakce jako: 
+Příznaky **celkové reakce** na alergeny se mohou projevit podle závažnosti reakce jako:
 
   * celková kožní reakce (svědivá vyrážka),
   * zúžení průdušek s pocitem nedostatku vzduchu,
   * otoky a zarudnutí obličeje nebo končetin,
   * snížení krevního tlaku s pocitem na [omdlení nebo s kolapsem][4] nebo až
   * fatální selhání krevního oběhu během několika minut (tzv. anafylaktický šok).
-
-
 
 {class="example"}
 
@@ -62,13 +54,11 @@ Senná rýma je častým příkladem slabé celkové alergické reakce na pyly t
 
 Správně fungující imunitní systém nereaguje na látky, které nejsou tělu nebezpečné. Tělu nebezpečné látky nebo jedy imunitní systém rozpozná a označí. Bojuje proti nim tak, aby bylo poškození organismu co nejmenší.
 
-Alergickou reakcí tedy není přirozená reakce organizmu proti cizorodé škodlivině. Následuje několik příkladů projevů správně fungujícího imunitního systému proti cizorodé škodlivině: 
+Alergickou reakcí tedy není přirozená reakce organizmu proti cizorodé škodlivině. Následuje několik příkladů projevů správně fungujícího imunitního systému proti cizorodé škodlivině:
 
   * Přirozená reakce proti hmyzímu jedu po píchnutí žihadla je pupínek, bolest, svědění, místní zarudnutí, otok v místě bodnutí.
   * Přirozená reakce na dráždivý prach nebo cizí tělísko ve spojivkovém vaku oka je pálení oka, zarudnutí spojivek, bolest a slzení.
   * Přirozená obranná reakce organismu po spálenině, omrzlině nebo poleptání kyselinou či zásadou je místní zarudnutí, pálení, otok a bolest.
-
-
 
 {id="otazky" var="inputvar-otazky_h"}
 
