@@ -5,7 +5,9 @@
 
 # Projevy alergie
 
-{kw="alergie, jed, imunita, alergická rýma, alergizující rostliny, alergizující léky, anafylaxe, anafylaktický šok, mikroorganizmy"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="alergie, jed, imunita, mikroorganizmy"}
 
 Alergie je nepřiměřená reakce organismu na běžně neškodnou látku. Látka způsobující alergii se nazývá alergen. Alergenem se tedy mohou stát cizorodé bílkoviny jako např. pylová zrna, plísně, složky potravy, jed [bodavého hmyzu][1], částice prachu nebo chemické prvky, a to nejčastěji kovy.
 

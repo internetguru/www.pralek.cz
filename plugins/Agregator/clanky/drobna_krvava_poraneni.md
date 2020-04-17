@@ -5,7 +5,7 @@
 
 # Drobná krvavá poranění
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-14, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="kůže-podkoží, úrazy, poranění, krvácení, první pomoc, mikroorganizmy, zánět, pohyb"}
 

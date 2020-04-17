@@ -5,7 +5,7 @@
 
 # Zarůstající nehty na palcích dolních končetin
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="nehet, hygiena, zánět, prevence, teplota, mikroorganizmy, pohyb"}
 

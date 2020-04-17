@@ -5,7 +5,7 @@
 
 # Závislosti na kouření je snazší předejít
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-14, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="prevence, cévy, nevolnost, točení hlavy, kašel, nádory, zhoubné, infarkt"}
 

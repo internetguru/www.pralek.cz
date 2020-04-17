@@ -5,7 +5,7 @@
 
 # Cizí tělísko v oku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="úrazy, poranění"}
 

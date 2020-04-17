@@ -5,7 +5,7 @@
 
 # Plísňová onemocnění kůže
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="kůže-podkoží, prevence, neúrazové, uzliny, boulička, zánět"}
 

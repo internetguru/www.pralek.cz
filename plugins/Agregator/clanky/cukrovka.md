@@ -5,7 +5,7 @@
 
 # Jak žít s cukrovkou
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-14, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="strava-zažívání, látková výměna, poruchy vědomí, první pomoc, nevolnost, pocení, cévy, břicho"}
 

@@ -95,7 +95,7 @@ n/a
 
 V případě chybné reakce [imunitního systému][3] může tělo tvořit protilátky vůči látkám, které tělu ve skutečnosti vůbec neškodí (alergie), nebo které jsou mu vlastní, a které dokonce potřebuje (autoimunitní onemocnění).
 
-[Alergický][17] zánět reaguje na alergeny (například kovy, prach nebo pyl). Tyto látky organizmus mylně vyhodnotí za tělu nebezpečného nepřítele (chybná imunitní reakce – např. alergická rýma). Tělo proti alergenům mobilizuje síly podobně jako proti skutečně nepřátelským mikroorganizmům. Podávány musejí být protialergické léky _(antialergika)_, které obecně tlumí příznaky zánětu.
+[Alergický zánět][17] reaguje na alergeny (například kovy, prach nebo pyl). Tyto látky organizmus mylně vyhodnotí za tělu nebezpečného nepřítele (chybná imunitní reakce – např. alergická rýma). Tělo proti alergenům mobilizuje síly podobně jako proti skutečně nepřátelským mikroorganizmům. Podávány musejí být protialergické léky _(antialergika)_, které obecně tlumí příznaky zánětu.
 
 Autoimunitní zánět (častěji autoimunitní onemocnění) je stav, kdy organizmus mylně vyhodnotí za nepřítele určitou látku, která je tělu vlastní (velmi chybná imunitní reakce). Mylně bojuje proti vlastní, zdravé a nepoškozené bílkovině stejně, jako by bojoval proti skutečnému nepříteli. Podávají se složité léky k potlačení imunity.
 

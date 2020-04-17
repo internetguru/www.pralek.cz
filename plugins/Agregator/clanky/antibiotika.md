@@ -5,7 +5,7 @@
 
 # Proč nelze mít svá oblíbená antibiotika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-14, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="zánět, imunita, mikroorganizmy, teplota, ušní-nosní-krční, prevence, močová soustava"}
 
