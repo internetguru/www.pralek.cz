@@ -5,9 +5,9 @@
 
 # Noční brnění prstů ruky: karpální syndrom
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
 
-{kw="mozek-nervy, bolest, pohyb, zánět, nádory, nezhoubné"}
+{kw="mozek-nervy, pohyb, zánět, nádory, nezhoubné"}
 
 Syndrom karpálního tunelu se projevuje brněním, trnutím až bolestí 2. až 4. prstu ruky. Potíže narůstají hlavně v noci. Rozhýbání prstů pomůže pouze krátkodobě. Trvalým řešením obtěžujících potíží je operační uvolnění utlačovaného nervu.
 

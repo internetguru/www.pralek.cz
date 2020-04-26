@@ -5,9 +5,7 @@
 
 # Křečové žíly dolních končetin neboli varixy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
 
 {kw="cévy, prevence, neúrazové, krvácení, úrazy, zánět, zdravý životní styl"}
 

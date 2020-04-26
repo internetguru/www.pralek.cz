@@ -5,11 +5,9 @@
 
 # Šetrná léčba vykloubeného ramene
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="rameno, kloub, úrazy, bolest, první pomoc, pohyb, strach"}
+{kw="rameno, kloub, úrazy, první pomoc, pohyb, strach"}
 
 Vykloubení ramene (luxace ramene) je velmi bolestivý a právem obávaný úraz. Napravení se provádí vždy citlivě, bez násilí, bez trhání nebo škubání. Často je nezbytné celkové znecitlivění.
 

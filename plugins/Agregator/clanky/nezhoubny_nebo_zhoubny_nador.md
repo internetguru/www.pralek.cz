@@ -5,9 +5,9 @@
 
 # Nezhoubný nebo zhoubný nádor: obecné srovnání
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
 
-{kw="nádory, boulička, strach, nezhoubné, zhoubné, bolest"}
+{kw="nádory, boulička, strach, nezhoubné, zhoubné"}
 
 Nezhoubný nádor není nebezpečný a lze jej snadno odstranit. Včasně odhalená a léčená rakovina (zhoubný nádor) je rovněž léčitelná. Když však není včas odhalena, pacienta zahubí.
 

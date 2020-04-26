@@ -5,7 +5,9 @@
 
 # Jak postupovat při nevolnosti a zvracení
 
-{kw="nevolnost, zvracení, průjem, pocení, žlučník, mikroorganizmy, kocovina, bolest, tekutiny"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+
+{kw="nevolnost, zvracení, průjem, pocení, žlučník, mikroorganizmy, tekutiny"}
 
 Žaludeční nevolnost, zvracení a někdy následně průjem mívá různé příčiny a proto i různé způsoby léčení. Nejčastější příčinou bývá požití zkažené stravy.
 

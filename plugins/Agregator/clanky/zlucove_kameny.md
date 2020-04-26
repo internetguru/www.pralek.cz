@@ -5,7 +5,9 @@
 
 # Prevence a léčba žlučových kamenů
 
-{kw="žlučník, břicho, bolest, říhání, zvracení, stravovací návyky, prevence, zánět, strach"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+
+{kw="žlučník, břicho, říhání, zvracení, stravovací návyky, prevence, zánět, strach"}
 
 Žlučové kameny vznikají špatnými stravovacími návyky – zejména zapíjením jídla vodou. Operace žlučníku tvorbu dalších žlučových kamenů nezastaví. Jejich tvorbě zamezí až změna stravovacích návyků.
 

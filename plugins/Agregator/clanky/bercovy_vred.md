@@ -5,7 +5,9 @@
 
 # Bércový vřed, jeho vývoj a hojení
 
-{kw="zánět, neúrazové, kůže-podkoží, cévy, poranění, bolest, krvácení"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+
+{kw="zánět, neúrazové, kůže-podkoží, cévy, poranění, krvácení"}
 
 Bércový vřed je obtěžující a velmi nepříjemná choroba málo chodících lidí, tedy především starších a dlouhodobě nemocných. Pro jeho zhojení je zásadní nejprve obnovit funkčnost krevního oběhu dolních končetin.
 

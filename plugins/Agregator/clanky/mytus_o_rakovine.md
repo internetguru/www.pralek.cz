@@ -5,9 +5,9 @@
 
 # Mýtus o urychlení rakoviny operací
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
 
-{kw="rakovina, mýty, strach, nádory, zhoubné, uzliny, krvácení, zvracení, bolest"}
+{kw="rakovina, mýty, strach, nádory, zhoubné, uzliny, krvácení, zvracení"}
 
 Rakovina je tím **lépe léčitelná, čím dříve je odhalena**. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací.
 

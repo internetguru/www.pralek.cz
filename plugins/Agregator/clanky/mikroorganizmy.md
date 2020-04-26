@@ -5,9 +5,9 @@
 
 # Mikroorganizmus jako pomocník nebo nepřítel člověka
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
 
-{kw="mikroorganizmy, antibiotika, zánět, hygiena, strava-zažívání, zvracení"}
+{kw="mikroorganizmy, antibiotika, zánět, hygiena, strava-zažívání, nevolnost, zvracení"}
 
 Dostanou-li se jinak prospěšné bakterie do míst, kam nepatří, mohou způsobit nemoc. Jsou-li správné bakteriální kmeny na správném místě, pak vzniká oboustranně prospěšná spolupráce a tělo funguje jak má. Přirozená bakteriální flóra bývá vždy narušena užíváním antibiotik.
 

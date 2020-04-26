@@ -5,7 +5,7 @@
 
 # Boj proti akné
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
 
 {kw="žláza, kůže-podkoží, boulička, prevence, strava-zažívání, zánět, teplota"}
 

@@ -5,9 +5,9 @@
 
 # Lupavý prst
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
 
-{kw="bolest, pohyb, zánět, úrazy, nemoc"}
+{kw="pohyb, zánět, úrazy"}
 
 Při tomto onemocnění je v jednom místě ztížený pohyb prstem. Při snaze o ohnutí prstu dojde po překonání určitého odporu k přeskočení prstu do nové polohy (lupnutí).
 

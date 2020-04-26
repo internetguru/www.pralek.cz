@@ -5,7 +5,9 @@
 
 # Zánět močového měchýře žen
 
-{kw="močová soustava, zánět, bolest, břicho, neúrazové, prevence, krvácení"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+
+{kw="močová soustava, zánět, prochlazení, břicho, pocení, neúrazové, prevence, krvácení"}
 
 Zánět močového měchýře je nepříjemné a velmi bolestivé onemocnění, které není nakažlivé ani nebezpečné. Postihuje nejčastěji mladé ženy a bohužel se vracívá. Není souvislost mezi zánětem močového měchýře a zanedbáváním hygieny.
 

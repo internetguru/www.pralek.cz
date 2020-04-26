@@ -5,9 +5,9 @@
 
 # Močové kameny a ledvinová kolika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
 
-{kw="ledviny, močová soustava, kolika, bolest, prevence, neúrazové, krvácení, zvracení, zánět"}
+{kw="ledviny, močová soustava, kolika, prevence, neúrazové, krvácení, zvracení, zánět"}
 
 V močovém ústrojí mohou vzniknout kameny. Tlakem moči a prodíráním se kamenu močovodem může vzniknout ledvinová kolika.
 

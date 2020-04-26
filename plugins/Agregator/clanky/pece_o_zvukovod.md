@@ -5,9 +5,9 @@
 
 # Péče o zevní zvukovod
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-01-15, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
 
-{kw="bolest, zánět, hygiena, zvracení, prevence, poranění"}
+{kw="zánět, hygiena, nevolnost, zvracení, točení hlavy, prevence, poranění"}
 
 Zanedbaná hygiena zevního zvukovodu a nadměrné množství ušního mazu mohou působit velmi nepříjemné potíže. Některé z nich (např. točení hlavy) zdánlivě s uchem nesouvisejí.
 

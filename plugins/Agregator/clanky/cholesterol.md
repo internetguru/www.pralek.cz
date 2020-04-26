@@ -5,6 +5,8 @@
 
 # Jak snížit hladinu cholesterolu v krvi
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+
 {kw="látková výměna, strava-zažívání, zdravý životní styl, prevence, cévy, mozek-nervy"}
 
 Vysoká hladina cholesterolu v krvi a jeho usazování v cévách je následkem dlouhodobého stresu a nedostatku vitamínu C. Obojímu lze tedy přirozeně předejít omezením stresu a správnou životosprávou. Vynechání tučných jídel nemá na hladinu cholesterolu v krvi téměř žádný vliv.
