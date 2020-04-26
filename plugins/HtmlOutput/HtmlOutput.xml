@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <HtmlOutput>
-<!--   <jsFile append="body">themes/feedback.js</jsFile> -->
 
   <jsFile append="body">themes/article-bg.js</jsFile>
   <jsFile append="body">themes/expand.js</jsFile>
@@ -8,6 +7,7 @@
   <jsFile append="body">themes/moreable.js</jsFile>
   <jsFile append="body">themes/moreableinit.js</jsFile>
   <jsFile append="body">themes/otazky.js</jsFile>
+  <jsFile append="body">themes/feedback.js</jsFile>
   
   <xslt>themes/pralek.xsl</xslt>
   <xslt>themes/layout/image-group.xsl</xslt>
