@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocInfo>
   <var modifyonly="modifyonly" id="docinfo">
-    <ul class="docinfo list--nomultiple global button-list">
+    <ul class="docinfo global button-list">
       <li><span class="fas fa-fw fa-user">i</span>Autor: <span var="author">n/a</span></li>
       <li><span class="fas fa-fw fa-calendar-alt">i</span>Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
       <li var="modified">n/a</li>
     </ul>
-    <ul class="share list--nomultiple button-list">
+    <ul class="share button-list">
       <li><a class="button button--img button--img-inline" var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-fw fa-comment">i</span>Diskutovat na našem Facebooku</a></li>
       <li><a class="button button--img button--img-inline" var="link@href" fn="inputvar-createfblink@href"><span class="fab fa-facebook-f">i</span>Sdílet na Facebooku</a></li>
       <li><a class="button button--img button--img-inline" var="link@href" fn="inputvar-createtwitterlink@href"><span class="fab fa-twitter">i</span>Sdílet na Twitteru</a></li>
