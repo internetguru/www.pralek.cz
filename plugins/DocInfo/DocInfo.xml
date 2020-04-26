@@ -2,12 +2,12 @@
 <DocInfo>
   <var modifyonly="modifyonly" id="docinfo">
     <ul class="docinfo list--nomultiple global button-list">
-      <li><span class="fas fa-user">i</span>Autor: <span var="author">n/a</span></li>
-      <li><span class="fas fa-calendar-alt">i</span>Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
+      <li><span class="fas fa-fw fa-user">i</span>Autor: <span var="author">n/a</span></li>
+      <li><span class="fas fa-fw fa-calendar-alt">i</span>Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
       <li var="modified">n/a</li>
     </ul>
     <ul class="share list--nomultiple button-list">
-      <li><a class="button button--img button--img-inline" var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-comment">i</span>Diskutovat na našem Facebooku</a></li>
+      <li><a class="button button--img button--img-inline" var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-fw fa-comment">i</span>Diskutovat na našem Facebooku</a></li>
       <li><a class="button button--img button--img-inline" var="link@href" fn="inputvar-createfblink@href"><span class="fab fa-facebook-f">i</span>Sdílet na Facebooku</a></li>
       <li><a class="button button--img button--img-inline" var="link@href" fn="inputvar-createtwitterlink@href"><span class="fab fa-twitter">i</span>Sdílet na Twitteru</a></li>
       <li><a class="button button--img button--img-inline" href="#" var="inputvar-ghedit">n/a</a></li>
@@ -21,7 +21,7 @@
     </ul>
   </var>
 
-  <var modifyonly="modifyonly" id="modified"><span class="far fa-calendar-edit">i</span>Datum revize: <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
-  <var modifyonly="modifyonly" id="part_created"><span class="fas fa-calendar-alt">i</span>Tato část byla vytvořena dne <span fn="inputvar-dateformat" var="ctime">n/a</span></var>
-  <var modifyonly="modifyonly" id="part_modified"><span class="far fa-calendar-edit">i</span>Tato část byla upravena dne <span fn="inputvar-dateformat" var="mtime">n/a</span></var>
+  <var modifyonly="modifyonly" id="modified"><span class="far fa-fw fa-calendar-edit">i</span>Datum revize: <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
+  <var modifyonly="modifyonly" id="part_created"><span class="fas fa-fw fa-calendar-alt">i</span>Tato část byla vytvořena dne <span fn="inputvar-dateformat" var="ctime">n/a</span></var>
+  <var modifyonly="modifyonly" id="part_modified"><span class="far fa-fw fa-calendar-edit">i</span>Tato část byla upravena dne <span fn="inputvar-dateformat" var="mtime">n/a</span></var>
 </DocInfo>
