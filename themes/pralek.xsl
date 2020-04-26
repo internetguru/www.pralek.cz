@@ -74,6 +74,21 @@
   <xsl:template match="//ul[@class = 'docinfo nomultiple global']"/>
   <xsl:template match="//ul[@class = 'share nomultiple']"/>
   
+  <xsl:template match="//*[contains(@class, 'example')]">
+    <xsl:copy>
+      <xsl:apply-templates select="@*"/>
+      <span class="fas fa-fw fa-lightbulb">i</span>
+      <xsl:apply-templates select="node()"/>
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="//*[contains(@class, 'important')]">
+    <xsl:copy>
+      <xsl:apply-templates select="@*"/>
+      <span class="fas fa-fw fa-exclamation-triangle">i</span>
+      <xsl:apply-templates select="node()"/>
+    </xsl:copy>
+  </xsl:template>
+  
   <xsl:template match="node()|@*">
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
