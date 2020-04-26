@@ -51,8 +51,10 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="h2[@id='dotace']">
-    <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
+  <xsl:template match="//div[@class='part dotace']">
+    <div class="part docinfo">
+      <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
+    </div>
     <xsl:copy-of select="."/>
   </xsl:template>
   
