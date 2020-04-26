@@ -57,12 +57,10 @@
       <xsl:apply-templates select="node()|@*"/>
       <div id="feedback">
         <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
-        <div class="list contentbalancer-simple">
-          <ul>
-            <li><a href="pralek#sponzoring">Možnosti podpory</a></li>
-            <li class="donation"><a href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
-          </ul>
-        </div>
+        <ul class="button-list">
+          <li><a class="button" href="pralek#sponzoring">Možnosti podpory</a></li>
+          <li class="donation"><a class="button" href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
+        </ul>
       </div>
     </xsl:copy>
   </xsl:template>
