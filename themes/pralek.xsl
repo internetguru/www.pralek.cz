@@ -33,19 +33,21 @@
   <xsl:template match="//body/div/div[contains(@class, 'section')]">
     <xsl:copy>
       <xsl:apply-templates select="@* | node()"/>
-      <h2 id="internetguru">Tento web roste s námi</h2>
-      <p class="description">O tento web se stará <a href="https://www.internetguru.cz">Internet Guru</a> od roku 2007. Po celou dobu web neustále roste a pomáhá <strong>desítkám tisícům unikátních návštěvníků měsíčně</strong>!</p>
-      <div class="list"><ul>
-        <li>Perfektní čitelnost na všech zařízeních</li>
-        <li>Publikační proces s autorizací změn a testovacím webem</li>
-        <li>Správa štítků jednoduše v tabulce Excel / Spreadsheet</li>
-        <li>Neustálý rozvoj funkcí a vylepšování uživatelské zkušenosti</li>
-        <li>Podrobné statistiky návštěvnosti</li>
-      </ul></div>
-      <p>Chcete také publikovat na internetu?</p>
-      <ul class="button-list">
-        <li><a href="https://www.rostouciweby.cz" title="Rostoucí weby" class="button">Zjistit více o rostoucích webech!</a></li>
-      </ul>
+      <div class="part internetguru">
+        <h2 id="internetguru">Tento web roste s námi</h2>
+        <p class="description">O tento web se stará <a href="https://www.internetguru.cz">Internet Guru</a> od roku 2007. Po celou dobu web neustále roste a pomáhá <strong>desítkám tisícům unikátních návštěvníků měsíčně</strong>!</p>
+        <div class="list"><ul>
+          <li>Perfektní čitelnost na všech zařízeních</li>
+          <li>Publikační proces s autorizací změn a testovacím webem</li>
+          <li>Správa štítků jednoduše v tabulce Excel / Spreadsheet</li>
+          <li>Neustálý rozvoj funkcí a vylepšování uživatelské zkušenosti</li>
+          <li>Podrobné statistiky návštěvnosti</li>
+        </ul></div>
+        <p>Chcete také publikovat na internetu?</p>
+        <ul class="button-list">
+          <li><a href="https://www.rostouciweby.cz" title="Rostoucí weby" class="button">Zjistit více o rostoucích webech!</a></li>
+        </ul>
+      </div>
     </xsl:copy>
   </xsl:template>
   
