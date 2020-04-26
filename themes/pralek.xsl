@@ -53,8 +53,7 @@
   
   <xsl:template match="h2[@id='dotace']">
     <h2 id="docinfo" class="hide">Informace o článku</h2>
-    <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
-    <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>    
+    <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
     <xsl:copy-of select="."/>
   </xsl:template>
   
@@ -71,8 +70,7 @@
     </div>
   </xsl:template>
   
-  <xsl:template match="//ul[@class = 'docinfo nomultiple global']"/>
-  <xsl:template match="//ul[@class = 'share nomultiple']"/>
+  <xsl:template match="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
   
   <xsl:template match="//*[contains(@class, 'example')]">
     <xsl:copy>
