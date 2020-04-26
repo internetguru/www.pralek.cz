@@ -55,10 +55,6 @@
     <div class="part docinfo">
       <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
     </div>
-    <xsl:copy-of select="."/>
-  </xsl:template>
-  
-  <xsl:template match="//div[@class='part dotace']]">
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
       <div id="feedback">
