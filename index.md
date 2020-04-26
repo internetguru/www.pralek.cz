@@ -227,7 +227,7 @@ n/a
 
   * n/a
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
