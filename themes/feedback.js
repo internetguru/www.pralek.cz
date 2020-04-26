@@ -14,10 +14,10 @@
         hSelector: null,
         hText: null
       },
-      getElm = function (type, text, className) {
+      getElm = function (type, html, className) {
         var elm = document.createElement(type)
-        if (text) {
-          elm.innerText = text
+        if (html) {
+          elm.innerHTML = html
         }
         if (className) {
           elm.className = className
@@ -105,8 +105,8 @@
         }
         var nextStepDt = getElm("dt", "Další krok")
         var nextStepDd = getElm("dd")
-        var nextStepNext = getElm("button", "Odeslat")
-        var nextStepSkip = getElm("button", "Přeskočit")
+        var nextStepNext = getElm("button", "Odeslat", "button button--border")
+        var nextStepSkip = getElm("button", "Přeskočit", "button button--border")
 
         nextStepDt.className = "hide"
         nextStepDd.appendChild(nextStepNext)
@@ -169,8 +169,8 @@
         wrapper.appendChild(dt)
         wrapper.appendChild(dd)
 
-        var yesButton = getElm("button", "ano", "feedback-yes")
-        var noButton = getElm("button", "ne", "feedback-no")
+        var yesButton = getElm("button", "<span class='fas fa-check'></span>ano", "button button--border button--img button--img-inline feedback-yes")
+        var noButton = getElm("button", "<span class='fas fa-times'></span>ne", "button button--border button--img button--img-inline feedback-no")
         dd.appendChild(yesButton)
         dd.appendChild(noButton)
         yesButton.addEventListener("click", processYes, false)
