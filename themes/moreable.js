@@ -53,7 +53,7 @@
             })
           }
           wrapper = document.createElement("div")
-          wrapper.className = "moreable-linkwrapper button-list"
+          wrapper.className = "moreable-linkwrapper"
           var moreLink = document.createElement("button")
           moreLink.textContent = Config.moreText
           moreLink.addEventListener("click", showMore, false)
