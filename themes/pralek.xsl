@@ -58,17 +58,19 @@
     <xsl:copy-of select="."/>
   </xsl:template>
   
-  <xsl:template match="p[preceding-sibling::h2[1][@id='dotace']]">
-    <xsl:copy-of select="."/>
-    <div id="feedback">
-      <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
-      <div class="list contentbalancer-simple">
-        <ul>
-          <li><a href="pralek#sponzoring">Možnosti podpory</a></li>
-          <li class="donation"><a href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
-        </ul>
+  <xsl:template match="//div[@class='part dotace']]">
+    <xsl:copy>
+      <xsl:apply-templates select="node()|@*"/>
+      <div id="feedback">
+        <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
+        <div class="list contentbalancer-simple">
+          <ul>
+            <li><a href="pralek#sponzoring">Možnosti podpory</a></li>
+            <li class="donation"><a href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
+          </ul>
+        </div>
       </div>
-    </div>
+    </xsl:copy>
   </xsl:template>
   
   <xsl:template match="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
