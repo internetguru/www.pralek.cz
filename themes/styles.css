@@ -863,6 +863,49 @@ ol.otazky button.selected:last-child {
   padding: 0;
 }
 /************************************/
+div.part.internetguru .button-list,
+div.part.upozorneni .button-list {
+  justify-content: flex-start;
+}
+div.part.upozorneni,
+div.part.internetguru {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+div.part.upozorneni:before,
+div.part.internetguru:before {
+  content: "";
+  display: block;
+  margin: 0em auto 2em auto;
+  width: 12em;
+  height: 12em;
+  background: url("/files/newsletter.png") 50% 50% no-repeat;
+  background-size: 95%;
+}
+div.part.internetguru:before {
+  background: url("/files/leaf.png") 48% 64% #eaf6ff no-repeat;
+  background-size: 75%;
+  border-radius: 100%;
+}
+@media all and (min-width: 42em) {
+  div.part.upozorneni,
+  div.part.internetguru {
+    max-width: 55em;
+    margin: 0 auto;
+  }
+  div.part.upozorneni > *,
+  div.part.internetguru > * {
+    width: 65%;
+    margin-left: 0 !important;
+  }
+  div.part.upozorneni:before,
+  div.part.internetguru:before {
+    float: right;
+    margin-right: 2em;
+    margin-top: 4em;
+  }
+}
+/************************************/
 @media print {
   @page {
     size: auto;
@@ -881,6 +924,8 @@ ol.otazky button.selected:last-child {
   .print {
     display: block !important;
   }
+  div.part.upozorneni:before,
+  div.part.internetguru:before,
   .part.otazky button,
   .part.dotace,
   .taglist,
@@ -890,6 +935,10 @@ ol.otazky button.selected:last-child {
   .docinfo.share,
   .hdesc--top .extra {
     display: none !important;
+  }
+  div.part.upozorneni,
+  div.part.internetguru {
+    padding: 1em 0;
   }
   .hdesc--top .description {
     margin-bottom: 0 !important;
@@ -927,6 +976,23 @@ ol.otazky button.selected:last-child {
   .meta {
     padding: 0 1em;
     max-width: unset !important;
+  }
+  .part {
+    background: none !important;
+  }
+  #footer {
+    padding-top: 0;
+    background: none;
+    border-top: thin solid;
+  }
+  #footer .footer-menu__item:nth-child(4) {
+    display: none;
+  }
+  #footer ul,
+  #footer ul li {
+    text-align: left;
+    justify-content: flex-start;
+    margin-left: 0;
   }
 }
 /************************************/
