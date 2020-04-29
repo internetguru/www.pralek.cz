@@ -9,15 +9,23 @@
       feedbackElm = null,
       heading = null,
       hOriginText = null,
+      step1content = null,
+      step2inited = false,
+      questionLabel = null,
+      emailInputDescDd = null,
+      beneficial = null,
+      emailValue = null,
+      questionValue = null,
+      action = null,
       Config = {
         elmSelector: null,
         hSelector: null,
         hText: null
       },
-      getElm = function (type, html, className) {
+      getElm = function (type, text, className) {
         var elm = document.createElement(type)
-        if (html) {
-          elm.innerHTML = html
+        if (text) {
+          elm.innerHTML = text
         }
         if (className) {
           elm.className = className
@@ -55,100 +63,138 @@
         var question = " Co Vám ve článku nebo na Praléku obecně chybí?"
         initStep2("no", question, "")        
       },
+      showHide = function (prevClass, curClass) {
+        wrapper.childNodes.forEach(function (child) {
+          if (child.className == prevClass) {
+            child.style.display = ""
+          } else if (child.className == curClass) {
+            child.style.display = "none"
+          }
+        })
+      },
       initStep2 = function (beneficialText, question, emailDesc) {
-        var beneficial = beneficialText == "yes" ? 1 : 0
+        beneficial = beneficialText == "yes" ? 1 : 0
+        /*
         IGCMS.Eventable.sendGAEvent(
           "feedback",
           "beneficial",
           beneficialText,
           beneficial
         )
-        wrapper.innerHTML = ""
-        
-        var questionDt = getElm("dt")
-        var questionLabel = getElm("label", question)
-        var questionInputDd = getElm("dd")
-        var questionInput = getElm("textarea")
-        
-        questionLabel.setAttribute("for", "feedback-text")
-        questionInput.oninput = function () {
-          questionInput.setCustomValidity("")
-          questionInput.reportValidity()
-        }
-        questionDt.appendChild(questionLabel)
-        questionInput.id = "feedback-text"
-        questionInputDd.appendChild(questionInput)
-        wrapper.appendChild(questionDt)
-        wrapper.appendChild(questionInputDd)
-
-        var emailDt = getElm("dt")
-        var emailLabel = getElm("label", "Váš e-mail (nepovinné)")
-        var emailInputDd = getElm("dd")
-        var emailInput = getElm("input")
-        
-        emailLabel.setAttribute("for", "feedback-email")
-        emailDt.appendChild(emailLabel)
-        emailInput.type = "email"
-        emailInput.name = "email"
-        emailInput.id = "feedback-email"
-        emailInputDd.appendChild(emailInput)
-        wrapper.appendChild(emailDt)
-        wrapper.appendChild(emailInputDd)
-        if (emailDesc) {
-          var emailInputDescDd = getElm("dd", emailDesc)
-          wrapper.appendChild(emailInputDescDd)
-        }
-        
-        var donationText = "Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku."
-        if (!beneficial) {
-          donationText = "Pomohla by veřejná diskuze, osobní konzultace či jiné rozšíření Praléku?"
-        }
-        var nextStepDt = getElm("dt", "Další krok")
-        var nextStepDd = getElm("dd")
-        var nextStepNext = getElm("button", "Odeslat", "button button--border")
-        var nextStepSkip = getElm("button", "Přeskočit", "button button--border")
-
-        nextStepDt.className = "hide"
-        nextStepDd.appendChild(nextStepNext)
-        nextStepDd.appendChild(nextStepSkip)
-        nextStepNext.addEventListener("click", function () {
-          if (!validateInput(questionInput, false, ".*\\w.{8,}\\w.*")) {
-            questionInput.setCustomValidity("Položka je povinná")
+        */
+        if (!step2inited) {
+          wrapper.childNodes.forEach(function (child) {
+            child.style.display = "none"
+            child.classList.add("step1")
+          })
+  
+          var questionDt = getElm("dt")
+          questionLabel = getElm("label", question)
+          var questionInputDd = getElm("dd")
+          var questionInput = getElm("textarea")
+  
+          questionLabel.setAttribute("for", "feedback-text")
+          questionInput.oninput = function () {
+            questionInput.setCustomValidity("")
             questionInput.reportValidity()
-            return
           }
-          if (!validateInput(emailInput, true)) {
-            return
+          questionDt.appendChild(questionLabel)
+          questionInput.id = "feedback-text"
+          questionInputDd.appendChild(questionInput)
+          wrapper.appendChild(questionDt)
+          wrapper.appendChild(questionInputDd)
+  
+          var emailDt = getElm("dt")
+          var emailLabel = getElm("label", "Váš e-mail (nepovinné)")
+          var emailInputDd = getElm("dd")
+          var emailInput = getElm("input")
+  
+          emailLabel.setAttribute("for", "feedback-email")
+          emailDt.appendChild(emailLabel)
+          emailInput.type = "email"
+          emailInput.name = "email"
+          emailInput.id = "feedback-email"
+          emailInputDd.appendChild(emailInput)
+          wrapper.appendChild(emailDt)
+          wrapper.appendChild(emailInputDd)
+          emailInputDescDd = getElm("dd", emailDesc)
+          wrapper.appendChild(emailInputDescDd)
+  
+          var donationText = "Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku."
+          if (!beneficial) {
+            donationText = "Pomohla by veřejná diskuze, osobní konzultace či jiné rozšíření Praléku?"
           }
-          initStep3(donationText, questionInput.value, emailInput.value, 1, beneficial)
-        }, false)
-        nextStepSkip.addEventListener("click", function () {
-          if (emailInput.value || questionInput.value) {
-            if (!confirm("Formulář má vyplněná pole, jste si jistí, že chcete přeskočit odeslání odpovědi?")) {
+          var nextStepDt = getElm("dt", "Další krok")
+          var nextStepDd = getElm("dd")
+          var nextStepNext = getElm("button", "Odeslat")
+          var nextStepPrev = getElm("button", "Zpět")
+          var nextStepSkip = getElm("button", "Přeskočit")
+  
+          nextStepDt.className = "hide"
+          nextStepDd.appendChild(nextStepNext)
+          nextStepDd.appendChild(nextStepPrev)
+          nextStepDd.appendChild(nextStepSkip)
+          emailInput.addEventListener("change", function () {
+            emailValue = this.value
+          }, false)
+          questionInput.addEventListener("change", function () {
+            questionValue = this.value
+          }, false)
+          nextStepNext.addEventListener("click", function () {
+            if (!validateInput(questionInput, false, ".*\\w.{8,}\\w.*")) {
+              questionInput.setCustomValidity("Položka je povinná")
+              questionInput.reportValidity()
               return
             }
-          }
-          initStep3(donationText, questionInput.value, emailInput.value, 0, beneficial)
-        }, false)
-        wrapper.appendChild(nextStepDt)
-        wrapper.appendChild(nextStepDd)
+            if (!validateInput(emailInput, true)) {
+              return
+            }
+            action = this.innerHTML
+            initStep3()
+          }, false)
+          nextStepPrev.addEventListener("click", function () {
+            action = this.innerHTML
+            showHide("step1", "step2")
+          })
+          nextStepSkip.addEventListener("click", function () {
+            if (emailInput.value || questionInput.value) {
+              if (!confirm("Formulář má vyplněná pole, jste si jistí, že chcete přeskočit odeslání odpovědi?")) {
+                return
+              }
+            }
+            action = this.innerHTML
+            initStep3()
+          }, false)
+          wrapper.appendChild(nextStepDt)
+          wrapper.appendChild(nextStepDd)
+          wrapper.childNodes.forEach(function (child) {
+            if (!child.classList.contains("step1")) {
+              child.classList.add("step2")
+            }
+          }),
+          step2inited = true
+          return
+        }
+        showHide("step2", "step1")
+        questionLabel.innerHTML = question
+        emailInputDescDd.innerHTML = emailDesc
       },
-      initStep3 = function (donationText, answer, email, next, beneficial) {
-        var feedback = answer
-        if (!next) {
-          feedback += "[skipped]"
-        }
-        if (email) {
-          feedback = answer + "\nEmail: " + email
-        }
-        feedback += "\nBeneficial: " + beneficial
-        IGCMS.Eventable.sendGAEvent("feedback", "message", feedback, next)
+      initStep3 = function () {
         wrapper.parentNode.removeChild(wrapper)
         for (var i = 0; i < feedbackElm.children.length; i++) {
           feedbackElm.children.item(i).style.display = ""
         }
         heading.innerText = hOriginText
-        // feedbackElm.getElementsByTagName("p")[0].innerText = donationText
+      },
+      sendEvent = function () {
+        if (beneficial === null) {
+          return
+        }
+        feedback = "Message: " + questionValue
+        feedback += "\nEmail: " + emailValue
+        feedback += "\nAction: " + action
+        var category = questionValue ? "hasmessage" : "nomessage"
+        IGCMS.Eventable.sendGAEvent("feedback", category, feedback, beneficial)
       },
       init = function () {
         feedbackElm = document.querySelector(Config.elmSelector)
@@ -169,14 +215,16 @@
         wrapper.appendChild(dt)
         wrapper.appendChild(dd)
 
-        var yesButton = getElm("button", "<span class='fas fa-check'></span>ano", "button button--border button--img button--img-inline feedback-yes")
-        var noButton = getElm("button", "<span class='fas fa-times'></span>ne", "button button--border button--img button--img-inline feedback-no")
+        var yesButton = getElm("button", "<span class='fas fa-check'></span>ano", "feedback-yes")
+        var noButton = getElm("button", "<span class='fas fa-times'></span>ne", "feedback-no")
         dd.appendChild(yesButton)
         dd.appendChild(noButton)
         yesButton.addEventListener("click", processYes, false)
         noButton.addEventListener("click", processNo, false)
 
         feedbackElm.appendChild(wrapper)
+
+        window.addEventListener("beforeunload", sendEvent, false)
       }
 
       return {
