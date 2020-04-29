@@ -17,7 +17,7 @@
     <xsl:element name="div">
       <xsl:attribute name="class">
         <xsl:value-of select="@id"/>
-        <xsl:text> hdesc</xsl:text>
+        <xsl:text> hdesc--top</xsl:text>
       </xsl:attribute>
       <xsl:element name="div">
         <xsl:if test="/body[contains(@class, 'agregator')]">
