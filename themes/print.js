@@ -6,6 +6,7 @@
       event.preventDefault()
     })
   })
+  /*
   window.addEventListener("beforeprint", (event) => {
     try {
       require("IGCMS.Eventable", () => {
@@ -13,4 +14,5 @@
       })
     } catch (exception) {}
   })
+  */
 })()
