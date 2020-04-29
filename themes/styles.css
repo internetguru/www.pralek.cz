@@ -342,8 +342,11 @@ dt label.button {
 .hdesc.o_praleku + div,
 .o_praleku {
   padding-top: 4em;
-  background: none;
+}
+.part.o_praleku,
+.hdesc.o_praleku + div {
   padding-bottom: 0;
+  background: none;
 }
 .hdesc.o_praleku + div .imgwrap,
 .o_praleku .imgwrap {
@@ -483,7 +486,8 @@ dt label.button {
   color: white;
   padding-top: 7em;
 }
-.hdesc--top a:not(.definition-href) {
+.hdesc--top a:not(.definition-href),
+.hdesc--top label {
   --link-color: 255, 255, 255;
   --link-visited-color: 255, 255, 255;
 }
@@ -752,7 +756,7 @@ li.important, li.example {
 .part.dotace {
   padding-bottom: 2em;
 }
-.o_praleku,
+.part.o_praleku,
 .part.dotace,
 .part.clanky,
 .part.odkazy {
@@ -791,12 +795,21 @@ li {
   top: -0.05em;
 }
 /************************************/
+.upozorneni.hdesc--top + div {
+  max-width: var(--global-max-width);
+  margin: 0 auto;
+}
+.upozorneni.hdesc--top + div .card {
+  margin-bottom: 0 !important;
+  padding-bottom: 0;
+}
 .part.upozorneni {
   padding-bottom: 2em;
 }
 .part.upozorneni h2 {
   padding-top: 1em;
 }
+.upozorneni.hdesc--top + div .card,
 .upozorneni .card {
   max-width: 36em;
   background: none;
@@ -807,17 +820,24 @@ li {
   border-bottom: thin solid rgba(var(--link-color), var(--link-border-opacity));
   cursor: pointer;
 }
+.upozorneni.hdesc--top + div .card__heading,
 .upozorneni .card__heading {
   display: none;
 }
+.upozorneni.hdesc--top + div form dd,
 .upozorneni form dd {
   display: flex;
 }
+.upozorneni.hdesc--top + div form dd input[type="email"],
 .upozorneni form dd input[type="email"] {
   border-radius: var(--global-border-radius) 0 0 var(--global-border-radius);
 }
+.upozorneni.hdesc--top + div form dd input[type="submit"],
 .upozorneni form dd input[type="submit"] {
   border-radius: 0 var(--global-border-radius) var(--global-border-radius) 0;
+}
+.part.ukazka {
+  padding-bottom: 1em;
 }
 /************************************/
 ol.otazky span {
