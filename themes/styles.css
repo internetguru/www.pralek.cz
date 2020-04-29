@@ -19,7 +19,8 @@
   --part-odd-bg: none;
   --hdesc-top-p-max-width: 38em;
 }
-.button--border {
+.button--border,
+.button--simple {
   --button-color: 0, 0, 0;
 }
 #footer {
