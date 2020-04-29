@@ -3,6 +3,7 @@
   require("IGCMS", function () {
 
     var Config = {};
+    Config.buttonHTML = "Copy";
     Config.selectTitle = "Copy";
     Config.ns = "copyable";
 
@@ -32,9 +33,9 @@
                 document.execCommand("copy");
               }
             })();
-            button.innerHTML = Config.selectTitle;
+            button.innerHTML = Config.buttonHTML;
             button.title = Config.selectTitle;
-            button.className = "eventable button button--simple button--img button--img-only";
+            button.className = "eventable";
             var spanWrapper = document.createElement("span");
             var span = document.createElement("span");
             spanWrapper.appendChild(span);
