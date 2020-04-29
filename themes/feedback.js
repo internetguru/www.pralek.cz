@@ -126,9 +126,9 @@
           }
           var nextStepDt = getElm("dt", "Další krok")
           var nextStepDd = getElm("dd")
-          var nextStepNext = getElm("button", "Odeslat")
-          var nextStepPrev = getElm("button", "Zpět")
-          var nextStepSkip = getElm("button", "Přeskočit")
+          var nextStepNext = getElm("button", "Odeslat", "feedback-yes button button--border")
+          var nextStepPrev = getElm("button", "Zpět", "button button--simple")
+          var nextStepSkip = getElm("button", "Přeskočit", "button button--simple")
   
           nextStepDt.className = "hide"
           nextStepDd.appendChild(nextStepNext)
@@ -210,13 +210,13 @@
         origContent = feedbackElm.innerHTML
 
         wrapper = getElm("dl")
-        var dt = getElm("dt", "Byl pro Vás tento článek přínosný?")
+        var dt = getElm("dt", "Byl pro Vás tento článek přínosný?", "card__heading")
         var dd = getElm("dd")
         wrapper.appendChild(dt)
         wrapper.appendChild(dd)
 
-        var yesButton = getElm("button", "<span class='fas fa-check'></span>ano", "feedback-yes")
-        var noButton = getElm("button", "<span class='fas fa-times'></span>ne", "feedback-no")
+        var yesButton = getElm("button", "<span class='fas fa-check'></span>ano", "feedback-yes button button--border button--img button--img-inline")
+        var noButton = getElm("button", "<span class='fas fa-times'></span>ne", "feedback-no button button--border button--img button--img-inline")
         dd.appendChild(yesButton)
         dd.appendChild(noButton)
         yesButton.addEventListener("click", processYes, false)
