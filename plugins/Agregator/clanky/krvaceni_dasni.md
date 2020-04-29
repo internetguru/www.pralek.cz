@@ -90,7 +90,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
