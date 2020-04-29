@@ -6,7 +6,7 @@
       <li><span class="fas fa-fw fa-calendar-alt">i</span>Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
       <li var="modified">n/a</li>
     </ul>
-    <ul class="share button-list">
+    <ul class="share">
       <li><a var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-fw fa-comment">i</span>Diskutovat na našem Facebooku</a></li>
       <li><a var="link@href" fn="inputvar-createfblink@href"><span class="fab fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
       <li><a var="link@href" fn="inputvar-createtwitterlink@href"><span class="fab fa-twitter">i</span>Sdílet na Twitteru</a></li>
