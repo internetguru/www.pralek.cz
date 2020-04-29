@@ -8,15 +8,19 @@
   --hdesc-dim-bg: rgba(0,0,0,0.6);
   --footer-service-ico-color: 255, 255, 255;
   --button-svg-color: #00796B;
-  --button-bg: #B2DFDB;
-  --button--active-bg: #4DB6AC;
-  --button--simple-active-bg: #4DB6AC;
+  --button-color: 255,255,255;
+  --button-bg: #00796B;
+  --button--active-bg: #009688;
+  --button--simple-active-bg: #009688;
   --button--border-bg: rgba(255, 255, 255, 0.67);
-  --button--border-border: medium solid #80CBC4;
-  --button--border-active-border: medium solid #00796B;
+  --button--border-border: medium solid #009688;
+  --button--border-active-border: medium solid #80CBC4;
   --part-vertical-padding: 4rem;
   --part-odd-bg: none;
   --hdesc-top-p-max-width: 38em;
+}
+.button--border {
+  --button-color: 0, 0, 0;
 }
 #footer {
   --button-color: #000;
@@ -298,7 +302,8 @@ a.tag[href^="#"] {
   border: none;
 }
 /************************************/ 
-.button {
+a.button:not(.button--border) {
+  border-bottom: none !important;
 }
 dt label.button,
 h2 label.button {
@@ -442,8 +447,6 @@ dt label.button {
 }
 .search ul {
   --button-svg-color: #ffffff;
-  --button--active-bg: #E64A19;
-  --button-bg: #cc441d;
   margin: 0;
   padding: 0;
   list-style: none;
