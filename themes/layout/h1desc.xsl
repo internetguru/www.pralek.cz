@@ -6,6 +6,11 @@
   <xsl:param name="inputvar-twitter-title" select="''"/>
   <xsl:param name="inputvar-fb-title" select="''"/>
   <xsl:param name="inputvar-fbcomment-title" select="''"/>
+  <xsl:param name="inputvar-fbcomment-ico" select="''"/>
+  <xsl:param name="inputvar-facebook-ico" select="''"/>
+  <xsl:param name="inputvar-twitter-ico" select="''"/>
+  <xsl:param name="inputvar-link-ico" select="''"/>
+  <xsl:param name="inputvar-edit-ico" select="''"/>
   <xsl:param name="link" select="''"/>
   <xsl:param name="fbcommentid" select="''"/>
 
@@ -17,7 +22,7 @@
     <xsl:element name="div">
       <xsl:attribute name="class">
         <xsl:value-of select="@id"/>
-        <xsl:text> hdesc--top</xsl:text>
+        <xsl:text> hdesc hdesc--top</xsl:text>
       </xsl:attribute>
       <xsl:element name="div">
         <xsl:if test="/body[contains(@class, 'agregator')]">
@@ -29,42 +34,56 @@
             <xsl:value-of select="."/>
           </xsl:element>
         </xsl:element>
-        <div>
+        <div class="hdesc__desc-wrapper">
           <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
         </div>
         <!--<xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>-->
         <xsl:if test="/body[contains(@class, 'agregator')]">
           <div class="extra">
-            <span class="hideable">
-              <span class="eventable">Získat odkaz na článek</span>
-              <span class="copyable" fn="inputvar-createlink">
-                <xsl:value-of disable-output-escaping="yes" select="$link"/>
-              </span>
-              <span class="comment hideable-nohide">
-              <xsl:element name="a">
-                <xsl:attribute name="href">https://www.facebook.com/pralek/posts/<xsl:value-of disable-output-escaping="yes" select="$fbcommentid"/></xsl:attribute>
-                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fbcomment-title"/></xsl:attribute>
-                Diskutovat na našem Facebooku
-              </xsl:element>         
-              </span>
-              <span class="fb hideable-nohide">
-              <xsl:element name="a">
-                <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
-                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fb-title"/></xsl:attribute>
-                Sdílet na Facebooku
-              </xsl:element>
-              </span>
-              <span class="twitter hideable-nohide">
-              <xsl:element name="a">
-                <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
-                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
-                Sdílet na Twitteru
-              </xsl:element>         
-              </span>
-              <span class="edit hideable-nohide">
-              <xsl:value-of disable-output-escaping="yes" select="$inputvar-ghedit2"/>
-              </span>
-            </span>
+            <ul class="button-list">
+              <li>
+                <xsl:element name="a">
+                  <xsl:attribute name="href">https://www.facebook.com/pralek/posts/<xsl:value-of disable-output-escaping="yes" select="$fbcommentid"/></xsl:attribute>
+                  <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fbcomment-title"/></xsl:attribute>
+                </xsl:element>         
+                  <span class="fas fa-fw fa-comment">i</span>
+              </li>
+              <li>
+                <xsl:element name="a">
+                  <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
+                  <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fb-title"/></xsl:attribute>
+                  <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
+                  <span class="fab fa-fw fa-facebook-square">i</span>
+                </xsl:element>
+              </li>
+              <li>
+                <xsl:element name="a">
+                  <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.hostovka.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
+                  <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
+                  <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
+                  <span class="fab fa-fw fa-twitter">i</span>
+                </xsl:element>
+              </li>
+              <li>
+                <xsl:value-of disable-output-escaping="yes" select="$inputvar-ghedit2"/>
+              </li>
+              <li>
+                <xsl:element name="button">
+                  <xsl:attribute name="title">Vytisknout článek</xsl:attribute>
+                  <xsl:attribute name="class">button__print button button--simple button--img button--img-only eventable</xsl:attribute>
+                  <xsl:attribute name="data-eventable-category">print-header</xsl:attribute>
+                  <span class="fas fa-fw fa-print">i</span>
+                </xsl:element>
+              </li>
+              <li>
+                <span class="hideable hideable-hidden">
+                  <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-link">i</span></span>
+                  <span class="copyable" fn="inputvar-createlink">
+                    <xsl:value-of disable-output-escaping="yes" select="$link"/>
+                  </span>
+                </span>
+              </li>
+            </ul>
           </div>
         </xsl:if>
       </xsl:element>
