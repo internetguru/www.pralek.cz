@@ -341,7 +341,7 @@ dt label.button {
 /************************************/
 .hdesc.o_praleku + div,
 .o_praleku {
-  margin-top: 4em;
+  padding-top: 4em;
   background: none;
   padding-bottom: 0;
 }
@@ -363,6 +363,7 @@ dt label.button {
   max-width: 100vw;
   text-align: center;
   margin: 0;
+  background: none;
 }
 .hdesc.o_praleku + div .card .tag,
 .o_praleku .card .tag {
@@ -751,6 +752,7 @@ li.important, li.example {
 .part.dotace {
   padding-bottom: 2em;
 }
+.o_praleku,
 .part.dotace,
 .part.clanky,
 .part.odkazy {
@@ -789,6 +791,9 @@ li {
   top: -0.05em;
 }
 /************************************/
+.part.upozorneni {
+  padding-bottom: 2em;
+}
 .part.upozorneni h2 {
   padding-top: 1em;
 }
