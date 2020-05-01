@@ -15,6 +15,7 @@
   --button--border-bg: rgba(255, 255, 255, 0.67);
   --button--border-border: medium solid #009688;
   --button--border-active-border: medium solid #80CBC4;
+  --list-ico-svg: #009688;
   --part-vertical-padding: 4rem;
   --part-odd-bg: none;
   --hdesc-top-p-max-width: 38rem;
@@ -697,6 +698,7 @@ dt label.button {
 }
 .agregator #content .part.docinfo svg {
   color: #616161;
+  text-align: center;
 }
 .agregator #content .part.docinfo .button-list {
   --list-margin-left: 0.5rem;
@@ -869,6 +871,7 @@ ol.otazky button:first-child {
   --button--border-active-bg: #E8F5E9;
   --button-svg-color: #4CAF50;
   margin-right: var(--button-list-item-margin);
+  margin-bottom: 0.25em;
 }
 .feedback-no,
 ol.otazky button:last-child {
