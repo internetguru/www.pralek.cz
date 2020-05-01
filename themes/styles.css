@@ -17,7 +17,10 @@
   --button--border-active-border: medium solid #80CBC4;
   --part-vertical-padding: 4rem;
   --part-odd-bg: none;
-  --hdesc-top-p-max-width: 38em;
+  --hdesc-top-p-max-width: 38rem;
+  --hdesc-p-max-width: 38rem;
+  --input-border: medium solid #BDBDBD;
+  --button-list-item-margin: 0.5rem;
 }
 .button--border,
 .button--simple {
@@ -40,6 +43,8 @@
 .part.clanky .list {
   --global-max-width: 80rem;
   --list-multiple-item-margin: 1rem;
+  padding-left: 0;
+  padding-right: 0;
 }
 .part.odkazy .list > div,
 .part.clanky .list > div {
@@ -119,6 +124,11 @@
   --button-padding: 1em;
   width: auto;
   min-width: auto;
+}
+.copyable-wrapper button {
+  width: auto !important;
+  height: auto !important;
+  margin: 0.1rem 0;
 }
 .clanek .heading a {
   color: #004D40;
@@ -414,6 +424,10 @@ dt label.button {
 .hdesc.o_praleku + div q,
 .o_praleku q {
   color: #BF360C;
+}
+.hdesc.o_praleku .fa-facebook-square,
+.o_praleku .fa-facebook-square {
+  --button-svg-color: #3F51B5;
 }
 .author dt + dd {
   font-size: 1.2em;
@@ -854,7 +868,7 @@ ol.otazky button:first-child {
   --button--border-active-border: medium solid #4CAF50;
   --button--border-active-bg: #E8F5E9;
   --button-svg-color: #4CAF50;
-  margin-right: 0.5em;
+  margin-right: var(--button-list-item-margin);
 }
 .feedback-no,
 ol.otazky button:last-child {
