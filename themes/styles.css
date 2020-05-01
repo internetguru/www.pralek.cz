@@ -492,7 +492,7 @@ dt label.button {
 .breadcrumb a[href] .imgwrap + span {
   border-bottom: thin solid rgba(255, 255, 255, 0.44);
 }
-@media all and (max-width: 38em) {
+@media (max-width: 42em) {
   .breadcrumb .imgwrap + span {
     display: none;
   }
