@@ -232,7 +232,7 @@
 }
 /************************************/
 .copyable-wrapper {
-  max-width: 100vw;
+  max-width: calc(100vw - 2.5rem);
   width: max-content;
   overflow: hidden;
   background: #ffffff;
