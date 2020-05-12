@@ -178,7 +178,7 @@
   padding: 2em 0 0 0;
 }
 .clanek .desc a.expand-button:before {
-  content: "â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€";
+  content: "i──────────────────────";
   color: #BDBDBD;
   position: absolute;
   left: 0;
