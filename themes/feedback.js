@@ -65,9 +65,9 @@
       },
       showHide = function (prevClass, curClass) {
         wrapper.childNodes.forEach(function (child) {
-          if (child.className == prevClass) {
+          if (child.classList.contains(prevClass)) {
             child.style.display = ""
-          } else if (child.className == curClass) {
+          } else if (child.classList.contains(curClass)) {
             child.style.display = "none"
           }
         })
