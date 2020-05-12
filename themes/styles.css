@@ -83,7 +83,7 @@
 .extra .button-list {
   margin: 0;
   margin-top: 0;
-  justify-content: space-between;
+  justify-content: flex-end;
   position: relative;
 }
 .extra .button-list li {
@@ -178,7 +178,7 @@
   padding: 2em 0 0 0;
 }
 .clanek .desc a.expand-button:before {
-  content: "──────────────────────";
+  content: "â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€";
   color: #BDBDBD;
   position: absolute;
   left: 0;
