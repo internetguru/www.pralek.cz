@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/zlucove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859961817469514" data-type="article" data-image="/files/preview/koutek/zlucove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2007-11-09" mtime="2016-06-18" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlucove\_kameny" short="Žlučové kameny"}
 
 # Prevence a léčba žlučových kamenů
 
-{kw="žlučník, břicho, bolest, říhání, zvracení, stravovací návyky, prevence, zánět, strach"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="žlučník, břicho, říhání, zvracení, stravovací návyky, prevence, zánět, strach"}
 
 Žlučové kameny vznikají špatnými stravovacími návyky – zejména zapíjením jídla vodou. Operace žlučníku tvorbu dalších žlučových kamenů nezastaví. Jejich tvorbě zamezí až změna stravovacích návyků.
 

@@ -1,13 +1,11 @@
 
-{data-type="article" data-image="/files/preview/koutek/detske_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859869624145400" data-type="article" data-image="/files/preview/koutek/detske_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-06-09" mtime="2009-06-09" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="detske\_zlomeniny" short="Dětské zlomeniny"}
 
 # Nejčastější dětské zlomeniny a jejich zvláštnosti
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="zlomeniny, dětské, úrazy, poranění, pohyb, první pomoc"}
 

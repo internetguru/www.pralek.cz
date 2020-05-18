@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/artroza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859853107480385" data-type="article" data-image="/files/preview/koutek/artroza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2012-03-18" mtime="2012-03-18" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="artroza" short="Bolesti kloubů"}
 
 # Bolesti kloubů – jak žít s artrózou
 
-{kw="stařecké, rehabilitace, bolest, pohyb, prevence, úrazy"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="senioři, rehabilitace, pohyb, prevence, úrazy"}
 
 Klouby se přetěžováním a věkem opotřebovávají. Poškozené klouby bolí, otékají, postupně se deformují a jsou omezeně pohyblivé. Pravidelná a přiměřená zátěž udrží nemoc relativně snesitelnou.
 

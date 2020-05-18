@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/zanet_slinivky/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859959200803109" data-type="article" data-image="/files/preview/koutek/zanet_slinivky/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2011-05-04" mtime="2011-05-04" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_slinivky" short="Zánět slinivky"}
 
 # Prudký zánět slinivky břišní: akutní pankreatitida
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="bolest, zánět, břicho, zvracení, žlučník, stravovací návyky, zhoubné, cukrovka"}
+{kw="zánět, břicho, žláza, zvracení, žlučník, nevolnost, zhoubné, cukrovka"}
 
 Prudký zánět slinivky břišní je závažné život ohrožující onemocnění. Vzniká nejčastěji v návaznosti na přejedení nevhodnou kombinací jídel (a tvrdého alkoholu).
 

@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/bolest\_v\_krku_angina/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859858450813184" data-type="article" data-image="/files/preview/koutek/bolest\_v\_krku_angina/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-12-09" mtime="2008-12-09" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_v\_krku\_angina" short="Bolest v krku"}
 
 # Bolest v krku, nachlazení, angína
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="imunita, mikroorganizmy, teplota, zánět, boulička, prevence"}
+{kw="imunita, mikroorganizmy, teplota, zánět, uzliny, boulička, prevence"}
 
 Bolesti v krku mohou přejít v angínu; pro připravený organizmus zvládnutelnou. Až teprve komplikace angíny mohou způsobit trvalé poškození zdraví.
 
@@ -33,7 +33,7 @@ Pomůže odpočinek, nejlépe klid na lůžku, [dostatek tekutin][9] a vitamínu
 
 n/a
 
-V případě oslabení imunity (mikroorganizmy nejsou včas rozpoznány nebo není dostatek obranných protilátek) se mikroorganizmy dostávají cévním lymfatickým systémem až do krční mandle a tím způsobí **zánět krční mandle** označovaný jako **angína**.
+V případě oslabení imunity (mikroorganizmy nejsou včas rozpoznány nebo není dostatek obranných protilátek) se mikroorganizmy dostávají až do krční mandle, kde se pomnoží, a tím způsobí **zánět krční mandle** označovaný jako **angína**.
 
 Stále živé **bacily se hromadí v mandlích** a hromadí se zde i bílé krvinky. Mezi bacily a krvinkami dochází k zápolení a [zánět se vyvíjí][10]. Počáteční fáze je bolestivá; překrvení, zarudnutí a zbytnění mandlí, špatně se polyká, nemocný má změněný hlas. Rozvíjí se [celkové příznaky zánětlivého onemocnění][7].
 

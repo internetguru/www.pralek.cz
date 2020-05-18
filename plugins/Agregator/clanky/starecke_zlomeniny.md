@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/starecke_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859947157470980" data-type="article" data-image="/files/preview/koutek/starecke_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-06-22" mtime="2009-06-22" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="starecke\_zlomeniny" short="Stařecké zlomeniny"}
 
 # Nejčastější stařecké zlomeniny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="poranění, stařecké, úrazy, zlomeniny, pohyb, bolest"}
+{kw="poranění, senioři, úrazy, zlomeniny, pohyb"}
 
 Kosti se ve stáří stávají křehké a málo pevné. Mohou se tedy lámat i při velice malém násilí. To je způsobeno ztrátou chrupavčité složky v kostech, později i ztrátou pevné kostěné složky (takzvané řídnutí kostí).
 

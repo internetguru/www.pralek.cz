@@ -1,15 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/urazy_deti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859953800803649" data-type="article" data-image="/files/preview/koutek/urazy_deti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-08-11" mtime="2009-08-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="urazy\_deti" short="Úrazy malých dětí"}
 
 # Časté úrazy malých dětí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
-
-{kw="poranění, úrazy, první pomoc, zlomeniny, prevence, dětské, pohyb, bolest"}
+{kw="poranění, úrazy, první pomoc, zlomeniny, prevence, dětské, pohyb"}
 
 Mechanizmy úrazů malých dětí se stále stejně opakují. Jestliže budou opatrovníkům známé, je snadné takovým úrazům předcházet.
 

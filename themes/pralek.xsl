@@ -25,7 +25,7 @@
     <xsl:copy>
       <xsl:apply-templates select="@* | node()"/>
       <span>
-        <a title="Aktuální filtr" class="tag nowarning"><xsl:value-of disable-output-escaping="yes" select="$agregator-current-stitek"/></a>
+        <a title="Aktuální filtr" class="tag nowarning"><span class="fas fa-tag">i</span><xsl:value-of disable-output-escaping="yes" select="$agregator-current-stitek"/></a>
       </span>
     </xsl:copy>
   </xsl:template>
@@ -33,46 +33,56 @@
   <xsl:template match="//body/div/div[contains(@class, 'section')]">
     <xsl:copy>
       <xsl:apply-templates select="@* | node()"/>
-      <h2 id="internetguru">Tento web roste s námi</h2>
-      <p class="description">O tento web se stará <a href="https://www.internetguru.cz">Internet Guru</a> od roku 2007. Po celou dobu web neustále roste a pomáhá <strong>desítkám tisícům unikátních návštěvníků měsíčně</strong>!</p>
-      <div class="list"><ul>
-        <li>Perfektní čitelnost na všech zařízeních</li>
-        <li>Publikační proces s autorizací změn a testovacím webem</li>
-        <li>Správa štítků jednoduše v tabulce Excel / Spreadsheet</li>
-        <li>Neustálý rozvoj funkcí a vylepšování uživatelské zkušenosti</li>
-        <li>Podrobné statistiky návštěvnosti</li>
-      </ul></div>
-      <p>Chcete také publikovat na internetu?</p>
-      <div class="contentbalancer-simple">
-        <ul>
-          <li><a href="https://www.rostouciweby.cz" title="Rostoucí weby">Zjistit více o rostoucích webech!</a></li>
+      <div class="part internetguru">
+        <h2 id="internetguru">Tento web roste s námi</h2>
+        <p class="description">O tento web se stará <a href="https://www.internetguru.cz">Internet Guru</a> od roku 2007. Po celou dobu web neustále roste a pomáhá <strong>desítkám tisícům unikátních návštěvníků měsíčně</strong>!</p>
+        <ul class="list--ico">
+          <li><span class="fas fa-fw fa-check">i</span>Perfektní čitelnost na všech zařízeních</li>
+          <li><span class="fas fa-fw fa-check">i</span>Publikační proces s autorizací změn a testovacím webem</li>
+          <li><span class="fas fa-fw fa-check">i</span>Správa štítků jednoduše v tabulce Excel / Spreadsheet</li>
+          <li><span class="fas fa-fw fa-check">i</span>Neustálý rozvoj funkcí a vylepšování uživatelské zkušenosti</li>
+          <li><span class="fas fa-fw fa-check">i</span>Podrobné statistiky návštěvnosti</li>
+        </ul>
+        <p>Chcete také publikovat na internetu?</p>
+        <ul class="button-list">
+          <li><a href="https://www.rostouciweby.cz" title="Rostoucí weby" class="button">Zjistit více o rostoucích webech!</a></li>
         </ul>
       </div>
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="h2[@id='dotace']">
-    <h2 id="docinfo" class="hide">Informace o článku</h2>
-    <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
-    <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>    
-    <xsl:copy-of select="."/>
-  </xsl:template>
-  
-  <xsl:template match="p[preceding-sibling::h2[1][@id='dotace']]">
-    <xsl:copy-of select="."/>
-    <div id="feedback">
-      <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
-      <div class="list contentbalancer-simple">
-        <ul>
-          <li><a href="pralek#sponzoring">Možnosti podpory</a></li>
-          <li class="donation"><a href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
+  <xsl:template match="//div[@class='part dotace']">
+    <div class="part docinfo">
+      <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
+    </div>
+    <xsl:copy>
+      <xsl:apply-templates select="node()|@*"/>
+      <div id="feedback">
+        <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
+        <ul class="button-list">
+          <li><a class="button" href="pralek#sponzoring">Možnosti podpory</a></li>
+          <li class="donation"><a class="button" href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
         </ul>
       </div>
-    </div>
+    </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="//ul[@class = 'docinfo nomultiple global']"/>
-  <xsl:template match="//ul[@class = 'share nomultiple']"/>
+  <xsl:template match="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
+  
+  <xsl:template match="//*[contains(@class, 'example')]">
+    <xsl:copy>
+      <xsl:apply-templates select="@*"/>
+      <span class="fas fa-fw fa-lightbulb">i</span>
+      <xsl:apply-templates select="node()"/>
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="//*[contains(@class, 'important')]">
+    <xsl:copy>
+      <xsl:apply-templates select="@*"/>
+      <span class="fas fa-fw fa-exclamation-triangle">i</span>
+      <xsl:apply-templates select="node()"/>
+    </xsl:copy>
+  </xsl:template>
   
   <xsl:template match="node()|@*">
     <xsl:copy>

@@ -1,15 +1,15 @@
 
-{xml:lang="cs" data-type="article" data-image="/files/preview/koutek/cevkovani/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859864120812617" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/cevkovani/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
 {ctime="2019-10-17" mtime="2019-10-17" id="cevkovani" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Cévkování"}
 
 # Cévkování močového měchýře
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="močová soustava, retence moči, nádory, nezhoubné, strach, katetrizace"}
 
-Pokud má pacient plný močový měchýř a nemůže se vymočit, jedná se o retenci moči. Pak je nutné moč vypustit cévkou, pacienta tzv. vycévkovat. V určitých případech se močová cévka zavádí také preventivně nebo z hygienických důvodů.
+Pokud má pacient plný močový měchýř a nemůže se vymočit, jedná se o velmi bolestivou retenci moči. Pak je nutné moč vypustit cévkou, pacienta tzv. vycévkovat. V určitých případech se močová cévka zavádí také preventivně nebo z hygienických důvodů.
 
 Močová trubice při močení odvádí moč z močového měchýře ven z těla. U mužů může normálnímu vymočení bránit nejčastěji zvětšená prostata, u žen neurologická porucha.
 

@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/bolest\_hlavy\_migrena/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859856440813385" data-type="article" data-image="/files/preview/koutek/bolest\_hlavy\_migrena/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-03-16" mtime="2010-03-16" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_hlavy_migrena" short="Bolest hlavy, migréna"}
 
 # Bolest hlavy, migréna
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="bolest, cévy, neúrazové, prevence, strava-zažívání, úrazy, teplota, zánět"}
+{kw="cévy, neúrazové, prevence, strava-zažívání, úrazy, přehřátí, teplota, zánět"}
 
 Nejkrutější bolestí hlavy je migréna. Řešením je včasné podání vhodného léku. Běžná bolest hlavy má svou příčinu a nemusí se vyvíjet tak dramaticky. Ideálním řešením je odstranit příčinu bolesti než bolest tlumit léky.
 
@@ -21,11 +21,11 @@ Migréna _(hemicranie)_ je krutá nesnesitelná bolest většinou poloviny hlavy
 
 Mnoho lidí trpících migrénou na sobě s předstihem pozná, že bolest přijde takzvanými **prodromy** (soubor různých příznaků o různé délce). Někdy se podaří, vzít si prášek proti bolesti včas, dříve než se bolest hlavy plně vyvine. Jestli je však tato doba promarněna nebo se prodromy neprojeví, **je těžké rozvinutou bolest hlavy odstranit**. Často je nutné užívat _speciální léky proti migréně_, které ordinuje pouze specialista neurolog po patřičných vyšetřeních.
 
-Migréna je následkem chybného prokrvení části mozku. Počínající bolest hlavy tvoří v cévní stěně změny, které vedou ke zhoršení bolesti a vzniká začarovaný kruh. Proto je možné si vzít v počátku bolesti hlavy jakýkoli lék proti bolesti.
+Migréna vzniká následkem chybného prokrvení části mozku. Počínající bolest hlavy tvoří v cévní stěně změny, které vedou ke zhoršení bolesti a vzniká začarovaný kruh. Proto je možné si vzít v počátku bolesti hlavy jakýkoli lék proti bolesti.
 
-{id="nejcastejsi\_priciny\_bolesti\_hlavy\_a\_jejich\_reseni"}
+{id="nejcastejsi\_priciny\_ostatnich\_bolesti\_hlavy\_a\_jejich_reseni"}
 
-## Nejčastější příčiny bolestí hlavy a jejich řešení
+## Nejčastější příčiny ostatních bolestí hlavy a jejich řešení
 
 n/a
 

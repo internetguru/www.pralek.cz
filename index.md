@@ -17,14 +17,17 @@ Tento web obsahuje články o praktickém lékařství s cílem zvýšit schopno
 
 Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče, které pomáhají široké veřejnosti i odborným pracovníkům. Cílem autora je nestranně a srozumitelně vzdělat čtenáře v oblasti prevence a péče o zdraví a informovat o běžných zdravotních problémech.
 
-{class="figure author" id="jaroslav_pavelka"}
+{class="image-group author card" id="jaroslav\_pavelka" data-image-group-url="/files/thumbs/jaroslav\_pavelka.jpg"}
 
-![MUDr. Jaroslav Pavelka][1] {class="img"}
-:   **MUDr. Jaroslav Pavelka** (*1952)  
-    Ambulantní chirurg s 40letou praxí
-:   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař [rychlé lékařské pomoci][2].
-:     * [Jak podpořit Pralék {class="definition-skip"}][3]
-      * [Staňte se patronem][4] {class="donation"} {data-visibility="/" class="contentbalancer-simple"}
+MUDr. Jaroslav Pavelka (<span class="far fa-xs fa-asterisk">i</span> 1952) {class="card__heading"}
+:   Ambulantní chirurg s 40letou praxí
+:   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař [rychlé lékařské pomoci][1].
+
+:   {class="button-list"}
+    
+      * [Jak podpořit Pralék {class="definition-skip button button--border"}][2]
+      * [Staňte se patronem {class="button button--border"}][3] {class="donation"}
+      * [<span class="fab fa-facebook-square">i</span> Sledujte nás {title="Sledovat Pralék na Facebooku" class="button button--border button--img button--img-inline"}][4] {class="facebook"} {data-visibility="/" class="contentbalancer--simple"}
 
 {id="sponzoring"}
 
@@ -47,11 +50,11 @@ Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah
   * interaktivní testy (abc) s automatickým vyhodnocením,
   * překlady, lokalizace a zpřístupnění obsahu ve více jazycích.
 
-Pro účely dotací jsme zvolili službu [Patreon][4]. Služba je napůl anglicky a podporuje platby přes [PayPal][5] a platební karty. Pokud chcete web sponzorovat jiným způsobem nebo za jiných podmínek, [ozvěte se autorovi na e-mail][6].
+Pro účely dotací jsme zvolili službu [Patreon][3]. Služba je napůl anglicky a podporuje platby přes [PayPal][5] a platební karty. Pokud chcete web sponzorovat jiným způsobem nebo za jiných podmínek, [ozvěte se autorovi na e-mail][6].
 
-{class="contentbalancer-simple"}
+{class="button-list"}
 
-  * [Staňte se patronem][4] {class="donation"}
+  * [Staňte se patronem {class="button"}][3] {class="donation"}
 
 {short="Odběr novinek" id="upozorneni"}
 
@@ -82,6 +85,7 @@ n/a
     Stoupá nebo klesá livem zevního prostředí a stoupá při
     některých onemocněních.
     
+    --
     Pro odhlášení z odběru novinek klikněte na následující odkaz:
        https://pralek.us4.list-manage.com/unsubscribe?
     u=9d8689096f9734cbd6ab6d381&id=0ea09e9dfb {class="nohighlight"}
@@ -223,14 +227,14 @@ n/a
 
   * n/a
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
- [1]: /files/thumbs/jaroslav_pavelka.jpg "MUDr. Jaroslav Pavelka"
- [2]: rychla_lekarska_pomoc
- [3]: #sponzoring
- [4]: https://www.patreon.com/pralek
+ [1]: rychla_lekarska_pomoc
+ [2]: #sponzoring
+ [3]: https://www.patreon.com/pralek
+ [4]: https://www.facebook.com/pralek
  [5]: https://www.paypal.com
  [6]: mailto:mudr.pavelka@pralek.cz
  [7]: #ucel

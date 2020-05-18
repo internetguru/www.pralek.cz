@@ -1,15 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/podvrtnuti_kotniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859930834139279" data-type="article" data-image="/files/preview/koutek/podvrtnuti_kotniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-12-23" mtime="2009-12-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="podvrtnuti\_kotniku" short="Podvrtnutí kotníku"}
 
 # Podvrtnutí kotníku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
-
-{kw="kloub, vykloubení, úrazy, bolest, pohyb"}
+{kw="kloub, vykloubení, úrazy, pohyb"}
 
 Jedná se o častý úraz převážně mladých lidí a sportovců. Panují však nejasnosti v tom, zda a kdy vyhledat lékařské vyšetření a existují různé možnosti léčení.
 

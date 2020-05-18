@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/natazeni\_natrzeni\_svalu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859909400808089" data-type="article" data-image="/files/preview/koutek/natazeni\_natrzeni\_svalu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-12-30" mtime="2009-12-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="natazeni\_natrzeni_svalu" short="Natažení nebo natržení svalu"}
 
 # Natažení nebo natržení svalu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="úrazy, bolest, pohyb, nemoc"}
+{kw="úrazy, pohyb"}
 
 Natažení svalu nelze od jeho natržení laicky rozeznat. Rozdíl v léčení je zásadní, a proto je vhodné vyhledat odborné vyšetření.
 

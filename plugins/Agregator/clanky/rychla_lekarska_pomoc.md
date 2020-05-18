@@ -1,15 +1,11 @@
 
-{data-type="article" data-image="/files/preview/koutek/rychla\_lekarska\_pomoc/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859939434138419" data-type="article" data-image="/files/preview/koutek/rychla\_lekarska\_pomoc/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-02-28" mtime="2010-02-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rychla\_lekarska_pomoc" short="Rychlá lékařská pomoc"}
 
 # Rychlá lékařská pomoc
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="poruchy vědomí, infarkt, cévy, první pomoc, úrazy, zlomeniny"}
 

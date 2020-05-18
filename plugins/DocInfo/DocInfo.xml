@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocInfo>
   <var modifyonly="modifyonly" id="docinfo">
-    <ul class="docinfo nomultiple global">
-      <li><span class="material-icons">person</span>Autor: <span var="author">n/a</span></li>
-      <li><span class="material-icons">description</span>Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
+    <ul class="docinfo global button-list">
+      <li><span class="fas fa-fw fa-user">i</span>Autor: <span var="author">n/a</span></li>
+      <li><span class="fas fa-fw fa-calendar-alt">i</span>Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
       <li var="modified">n/a</li>
-<!--       <li class="kw" var="kw" fn="inputvar-maketags">n/a</li> -->
-<!--       <li><span var="edit">n/a</span></li> -->
     </ul>
-    <ul class="share nomultiple">
-<!--       <li><span class="copyable" fn="inputvar-createlink" var="link">n/a</span></li> -->
-      <li><a class="fa fa-facebook" var="link@href" fn="inputvar-createfblink@href">Sdílet na Facebooku</a></li>
-      <li><a class="fa fa-twitter" var="link@href" fn="inputvar-createtwitterlink@href">Sdílet na Twitteru</a></li>
-      <li><a class="fa fa-github" href="#" var="inputvar-ghedit">n/a</a></li>
+    <ul class="docinfo share button-list">
+      <li><a var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-fw fa-comment">i</span>Diskutovat na našem Facebooku</a></li>
+      <li><a href="#" var="inputvar-ghedit">n/a</a></li>
+    </ul>
+    <ul class="docinfo social nomultiple button-list">
+      <li><a onclick="return !window.open(this.href, 'Google', 'width=750,height=500')" var="link@href" fn="inputvar-createfblink@href" class="button button--img button--img-inline fb"><span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
+      <li><a onclick="return !window.open(this.href, 'Google', 'width=750,height=500')" var="link@href" fn="inputvar-createtwitterlink@href" class="button button--img button--img-inline twitter"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
     </ul>
   </var>
   
@@ -23,7 +23,7 @@
     </ul>
   </var>
 
-  <var modifyonly="modifyonly" id="modified"><span class="material-icons">update</span>Datum revize: <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
-  <var modifyonly="modifyonly" id="part_created"><span class="material-icons">description</span>Tato část byla vytvořena dne <span fn="inputvar-dateformat" var="ctime">n/a</span></var>
-  <var modifyonly="modifyonly" id="part_modified"><span class="material-icons">update</span>Tato část byla upravena dne <span fn="inputvar-dateformat" var="mtime">n/a</span></var>
+  <var modifyonly="modifyonly" id="modified"><span class="far fa-fw fa-calendar-edit">i</span>Datum revize: <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
+  <var modifyonly="modifyonly" id="part_created"><span class="fas fa-fw fa-calendar-alt">i</span>Tato část byla vytvořena dne <span fn="inputvar-dateformat" var="ctime">n/a</span></var>
+  <var modifyonly="modifyonly" id="part_modified"><span class="far fa-fw fa-calendar-edit">i</span>Tato část byla upravena dne <span fn="inputvar-dateformat" var="mtime">n/a</span></var>
 </DocInfo>

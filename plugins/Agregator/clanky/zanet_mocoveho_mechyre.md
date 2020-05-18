@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/zanet\_mocoveho\_mechyre/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859958557469840" data-type="article" data-image="/files/preview/koutek/zanet\_mocoveho\_mechyre/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-01-27" mtime="2010-01-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_mocoveho_mechyre" short="Zánět močového měchýře"}
 
 # Zánět močového měchýře žen
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="močová soustava, zánět, bolest, břicho, neúrazové, prevence, krvácení"}
+{kw="močová soustava, zánět, prochlazení, břicho, pocení, neúrazové, prevence, krvácení"}
 
 Zánět močového měchýře je nepříjemné a velmi bolestivé onemocnění, které není nakažlivé ani nebezpečné. Postihuje nejčastěji mladé ženy a bohužel se vracívá. Není souvislost mezi zánětem močového měchýře a zanedbáváním hygieny.
 
@@ -20,7 +20,7 @@ Močový měchýř mužů i žen je uložen za stydkou kostí. Močová trubice 
 n/a
 
   1. Močová trubice žen je velmi krátká, proto je snadnou [vstupní bránou infekce][2]. Za určitých podmínek mohou mikroorganizmy proniknout do močového měchýře a způsobit [jeho zánět][3].
-  2. Zevní ústí močové trubice žen bývá zúžené – část močového proudu se vrací při močení proti proudu moči zpět do močového měchýře a s sebou může brát mikroorganizmy z poševního vchodu.
+  2. Zevní ústí močové trubice žen bývá někdy zúžené – část močového proudu se vrací při močení proti proudu moči zpět do močového měchýře a s sebou může brát mikroorganizmy z poševního vchodu.
 
 {class="important"}
 

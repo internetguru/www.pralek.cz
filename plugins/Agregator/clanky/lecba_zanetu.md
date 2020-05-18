@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/lecba_zanetu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859889117476784" data-type="article" data-image="/files/preview/koutek/lecba_zanetu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2014-12-27" mtime="2014-12-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lecba\_zanetu" short="Léčba zánětu"}
 
 # Léčba zánětu podle druhu a stádia
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="zánět, bolest, teplota, tekutiny, spáleniny, neúrazové"}
+{kw="zánět, teplota, tekutiny, spáleniny, neúrazové"}
 
 Jednotlivé fáze a druhy některých zánětů na sebe navazují nebo mezi sebou v průběhu vývoje vzájemně přecházejí v souvislosti s úspěšností hojení. U jiných zánětů převažuje jediná fáze po téměř celou dobu trvání nemoci. Jednotlivá stádia mají své specifické projevy, proto je i léčba v různých fázích zánětu rozdílná.
 

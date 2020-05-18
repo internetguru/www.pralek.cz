@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/prostata/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859935144138848" data-type="article" data-image="/files/preview/koutek/prostata/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2011-02-20" mtime="2011-02-20" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="prostata" short="Prostata"}
 
 # Prostata: potíže s močením
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="prostata, močová soustava, zánět, břicho, nádory, nezhoubné, zhoubné"}
+{kw="prostata, žláza, močová soustava, zánět, nádory, nezhoubné, zhoubné"}
 
 Zvětšená prostata je nejčastější příčinou potíží s močením. Při léčení jakýchkoli potíží s prostatou provádí urolog taková vyšetření, která prokáží nebo vyloučí i rakovinu prostaty. Největší problém tedy hrozí, jestliže se pacient se svými problémy vůbec neléčí.
 

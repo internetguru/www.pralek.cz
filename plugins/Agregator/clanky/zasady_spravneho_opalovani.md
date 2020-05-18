@@ -1,11 +1,11 @@
 
-{data-type="article" data-image="/files/preview/koutek/zasady\_spravneho\_opalovani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859960507469645" data-type="article" data-image="/files/preview/koutek/zasady\_spravneho\_opalovani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-09-03" mtime="2010-09-03" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zasady\_spravneho_opalovani" short="Zásady správného opalování"}
 
 # Zásady správného opalování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="kůže-podkoží, spáleniny, prevence, zhoubné, zánět, nádory"}
 

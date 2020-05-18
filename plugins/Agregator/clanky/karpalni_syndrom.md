@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/karpalni_syndrom/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859877067477989" data-type="article" data-image="/files/preview/koutek/karpalni_syndrom/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2011-01-17" mtime="2011-01-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="karpalni\_syndrom" short="Karpální syndrom"}
 
 # Noční brnění prstů ruky: karpální syndrom
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="mozek-nervy, bolest, pohyb, zánět, nádory, nezhoubné"}
+{kw="mozek-nervy, pohyb, zánět, nádory, nezhoubné"}
 
 Syndrom karpálního tunelu se projevuje brněním, trnutím až bolestí 2. až 4. prstu ruky. Potíže narůstají hlavně v noci. Rozhýbání prstů pomůže pouze krátkodobě. Trvalým řešením obtěžujících potíží je operační uvolnění utlačovaného nervu.
 

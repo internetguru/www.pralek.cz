@@ -1,9 +1,11 @@
 
-{data-type="article" data-image="/files/preview/koutek/cholesterol/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859865237479172" data-type="article" data-image="/files/preview/koutek/cholesterol/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2013-09-11" mtime="2013-09-11" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cholesterol" short="Cholesterol"}
 
 # Jak snížit hladinu cholesterolu v krvi
+
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="látková výměna, strava-zažívání, zdravý životní styl, prevence, cévy, mozek-nervy"}
 

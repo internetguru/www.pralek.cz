@@ -1,13 +1,13 @@
 
-{data-top="3" data-type="article" data-image="/files/preview/koutek/nezhoubne_nadory/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859911224141240" data-top="3" data-type="article" data-image="/files/preview/koutek/nezhoubne_nadory/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-06-18" mtime="2010-06-18" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubne\_nadory" short="Nezhoubné nádory"}
 
 # Nezhoubné nádory a bouličky s nimi zaměňované
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="nádory, boulička, neúrazové, strach, nezhoubné, spáleniny, bolest"}
+{kw="nádory, boulička, neúrazové, strach, nezhoubné, žláza, spáleniny"}
 
 Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Preventivní odstranění některých nádorů se stalo rutinou, u ostatních většinou postačí pravidelné kontroly.
 

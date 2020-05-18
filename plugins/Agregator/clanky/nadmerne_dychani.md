@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/nadmerne_dychani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859905524141810" data-type="article" data-image="/files/preview/koutek/nadmerne_dychani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2012-02-05" mtime="2012-02-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nadmerne\_dychani" short="Nadměrné dýchání"}
 
 # Nadměrné dýchání – předýchávání
 
-{kw="dýchání, strach, poruchy vědomí, první pomoc, srdce, zvracení, bolest"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="dýchání, strach, poruchy vědomí, první pomoc, srdce, nevolnost, kolaps, zvracení"}
 
 Nadměrným dýcháním mohou vzniknout zdravotní potíže, porucha vědomí, bezvědomí a následně i závažná porucha zdraví. První pomocí při chorobném předýchávání je uklidnění pacienta nebo dýchání do sáčku.
 
@@ -15,7 +17,7 @@ Nadměrné dýchání způsobuje nežádoucí stav organizmu s různými projevy
 
 {class="example"}
 
-Někdy bývá potřeba šetřit dechem. Například potápěč během ponoru dýchá velmi pomalu a zhluboka, aby co nejdéle vydržel pod vodou se zásobou vzduchu. Jindy je třeba se naopak rozcvičit a hodně prodýchat, například před krátkodobým náročným sportovním výkonem. Takto změněné dýchání není ničím nebezpečné, sportovec přesně ví, co a proč dělá.
+Někdy bývá potřeba šetřit dechem. Například potápěč během ponoru dýchá velmi pomalu a zhluboka, aby co nejdéle vydržel pod vodou s omezenou zásobou vzduchu. Jindy je třeba se naopak rozcvičit a hodně prodýchat, například před krátkodobým náročným sportovním výkonem. Takto změněné dýchání není ničím nebezpečné, sportovec přesně ví, co a proč dělá.
 
 {id="chorobne\_nadmerne\_dychani_hyperventilace"}
 

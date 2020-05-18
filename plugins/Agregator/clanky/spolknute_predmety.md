@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/spolknute_predmety/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859945664137796" data-type="article" data-image="/files/preview/koutek/spolknute_predmety/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-04-30" mtime="2009-04-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="spolknute\_predmety" short="Spolknuté předměty"}
 
 # Spolknuté nebezpečné a ostré předměty
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="břicho, žaludek, střevo, poranění, úrazy, dětské, zvracení, bolest"}
+{kw="břicho, žaludek, střevo, poranění, úrazy, dětské, zvracení"}
 
 Spolknutý ostrý předmět většinou nezpůsobí žádné potíže a bez problémů projde zažívacím traktem. Potíže může způsobit spíše větší předmět, který nemusí projít zúženými místy zažívacího traktu. Nejzávažnější poranění způsobí spolknutá kyselina nebo zásada.
 

@@ -4,62 +4,80 @@
   <var modifyonly="modifyonly" id="creation"><a href="" var="authorid@href author">n/a</a> na téma úrazy a nemoci, <span var="ctime" fn="inputvar-dateformat">n/a</span></var>
   <var modifyonly="modifyonly" id="modified">Tento článek byl revidován <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
   
-  <var id="merge-new">stitek</var>
-
   <doclist id="stitek" path="clanky" filter-name="top">
-    <dl class="clanek" var="doclist-new@class">
+    <dl class="clanek card card--shadow card--image col--3" var="doclist-new@class">
       <dt><a title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=image"><img var="image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
-      <dt class="heading"><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=heading">n/a</a></dt>
+      <dt class="heading card__heading"><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=heading">n/a</a></dt>
       <dd class="desc" var="desc">n/a</dd>
-      <dd class="extra"><ul>
-        <li><a title="Zobrazit článek %s" var="link@href short@title" class="button" href="%s?usp=button">Přečíst</a></li>
-<!--         <li><span class="button facebook" title="Sdílet na facebooku"><span class="fa fa-facebook-official">share</span></span></li> -->
+      <dd class="extra"><ul class="button-list">
         <li>
-          <span class="hideable">
-            <span var="link@data-eventable-label" class="eventable" data-eventable-action="share">share</span>
+          <a class="button button--simple button--simple" title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=button">Přečíst</a></li>
+        <li>
+          <a class="button button--simple button--img button--img-only" var="fbcommentid@href inputvar-fbcomment-title@title" href="https://www.facebook.com/pralek/posts/%s" ><span class="fas fa-fw fa-comment">i</span></a>
+        </li>
+         <li>
+          <a class="button button--simple button--img button--img-only" var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/%s" onclick="return !window.open(this.href, 'Google', 'width=750,height=500')"><span class="fab fa-fw fa-facebook-square">i</span></a>
+        </li>
+        <li>
+          <a class="button button--simple button--img button--img-only" var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.hostovka.cz/%s" onclick="return !window.open(this.href, 'Google', 'width=750,height=500')"><span class="fab fa-fw fa-twitter">i</span></a>
+        </li>
+        <li>
+          <span class="hideable hideable-hidden">
+            <span var="link@data-eventable-label" class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-link">i</span></span>
             <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
-            <span class="fb hideable-nohide"><a var="link@href" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s">Sdílet na facebooku</a></span>
-            <span class="twitter hideable-nohide"><a var="link@href" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s">Sdílet na twitteru</a></span>
           </span>
         </li>
+
       </ul></dd>
+      <dd class="print"><span var="heading">n/a</span>, /<span var="link">n/a</span></dd>
     </dl>
   </doclist>
 
+  <var id="merge-new">stitek</var>
+ 
 <!-- [doclist] generated content, do not edit -->
-  <doclist id="bolest" kw="bolest" for="stitek" />
-  <doclist id="boulicka" kw="boulička" for="stitek" />
-  <doclist id="bricho" kw="břicho" for="stitek" />
-  <doclist id="cevy" kw="cévy" for="stitek" />
-  <doclist id="detske" kw="dětské" for="stitek" />
-  <doclist id="krvaceni" kw="krvácení" for="stitek" />
-  <doclist id="kuze-podkozi" kw="kůže-podkoží" for="stitek" />
-  <doclist id="latkova_vymena" kw="látková výměna" for="stitek" />
-  <doclist id="mikroorganizmy" kw="mikroorganizmy" for="stitek" />
-  <doclist id="mocova_soustava" kw="močová soustava" for="stitek" />
-  <doclist id="mozek-nervy" kw="mozek-nervy" for="stitek" />
-  <doclist id="nadory" kw="nádory" for="stitek" />
-  <doclist id="neurazove" kw="neúrazové" for="stitek" />
-  <doclist id="nezhoubne" kw="nezhoubné" for="stitek" />
-  <doclist id="pohyb" kw="pohyb" for="stitek" />
-  <doclist id="poraneni" kw="poranění" for="stitek" />
-  <doclist id="poruchy_vedomi" kw="poruchy vědomí" for="stitek" />
-  <doclist id="prevence" kw="prevence" for="stitek" />
-  <doclist id="prvni_pomoc" kw="první pomoc" for="stitek" />
-  <doclist id="srdce" kw="srdce" for="stitek" />
-  <doclist id="strach" kw="strach" for="stitek" />
-  <doclist id="strava-zazivani" kw="strava-zažívání" for="stitek" />
-  <doclist id="tekutiny" kw="tekutiny" for="stitek" />
-  <doclist id="teplota" kw="teplota" for="stitek" />
-  <doclist id="urazy" kw="úrazy" for="stitek" />
-  <doclist id="zaludek" kw="žaludek" for="stitek" />
-  <doclist id="zanet" kw="zánět" for="stitek" />
-  <doclist id="zdravy_zivotni_styl" kw="zdravý životní styl" for="stitek" />
-  <doclist id="zhoubne" kw="zhoubné" for="stitek" />
-  <doclist id="zlomeniny" kw="zlomeniny" for="stitek" />
-  <doclist id="zlucnik" kw="žlučník" for="stitek" />
-  <doclist id="zvraceni" kw="zvracení" for="stitek" />
-<!-- generated by user_update.sh on 2019-12-07 -->
+  <doclist id="alergie" kw="alergie" for="stitek" doclist="stitek" />
+  <doclist id="boulicka" kw="boulička" for="stitek" doclist="stitek" />
+  <doclist id="bricho" kw="břicho" for="stitek" doclist="stitek" />
+  <doclist id="cevy" kw="cévy" for="stitek" doclist="stitek" />
+  <doclist id="detske" kw="dětské" for="stitek" doclist="stitek" />
+  <doclist id="hygiena" kw="hygiena" for="stitek" doclist="stitek" />
+  <doclist id="imunita" kw="imunita" for="stitek" doclist="stitek" />
+  <doclist id="kolaps" kw="kolaps" for="stitek" doclist="stitek" />
+  <doclist id="krvaceni" kw="krvácení" for="stitek" doclist="stitek" />
+  <doclist id="kuze-podkozi" kw="kůže-podkoží" for="stitek" doclist="stitek" />
+  <doclist id="latkova_vymena" kw="látková výměna" for="stitek" doclist="stitek" />
+  <doclist id="mikroorganizmy" kw="mikroorganizmy" for="stitek" doclist="stitek" />
+  <doclist id="mocova_soustava" kw="močová soustava" for="stitek" doclist="stitek" />
+  <doclist id="mozek-nervy" kw="mozek-nervy" for="stitek" doclist="stitek" />
+  <doclist id="nadory" kw="nádory" for="stitek" doclist="stitek" />
+  <doclist id="neurazove" kw="neúrazové" for="stitek" doclist="stitek" />
+  <doclist id="nevolnost" kw="nevolnost" for="stitek" doclist="stitek" />
+  <doclist id="nezhoubne" kw="nezhoubné" for="stitek" doclist="stitek" />
+  <doclist id="poceni" kw="pocení" for="stitek" doclist="stitek" />
+  <doclist id="pohyb" kw="pohyb" for="stitek" doclist="stitek" />
+  <doclist id="poraneni" kw="poranění" for="stitek" doclist="stitek" />
+  <doclist id="poruchy_vedomi" kw="poruchy vědomí" for="stitek" doclist="stitek" />
+  <doclist id="prevence" kw="prevence" for="stitek" doclist="stitek" />
+  <doclist id="prochlazeni" kw="prochlazení" for="stitek" doclist="stitek" />
+  <doclist id="prvni_pomoc" kw="první pomoc" for="stitek" doclist="stitek" />
+  <doclist id="srdce" kw="srdce" for="stitek" doclist="stitek" />
+  <doclist id="strach" kw="strach" for="stitek" doclist="stitek" />
+  <doclist id="strava-zazivani" kw="strava-zažívání" for="stitek" doclist="stitek" />
+  <doclist id="tekutiny" kw="tekutiny" for="stitek" doclist="stitek" />
+  <doclist id="teplota" kw="teplota" for="stitek" doclist="stitek" />
+  <doclist id="toceni_hlavy" kw="točení hlavy" for="stitek" doclist="stitek" />
+  <doclist id="urazy" kw="úrazy" for="stitek" doclist="stitek" />
+  <doclist id="uzliny" kw="uzliny" for="stitek" doclist="stitek" />
+  <doclist id="zaludek" kw="žaludek" for="stitek" doclist="stitek" />
+  <doclist id="zanet" kw="zánět" for="stitek" doclist="stitek" />
+  <doclist id="zdravy_zivotni_styl" kw="zdravý životní styl" for="stitek" doclist="stitek" />
+  <doclist id="zhoubne" kw="zhoubné" for="stitek" doclist="stitek" />
+  <doclist id="zlaza" kw="žláza" for="stitek" doclist="stitek" />
+  <doclist id="zlomeniny" kw="zlomeniny" for="stitek" doclist="stitek" />
+  <doclist id="zlucnik" kw="žlučník" for="stitek" doclist="stitek" />
+  <doclist id="zvraceni" kw="zvracení" for="stitek" doclist="stitek" />
+<!-- generated by user_update.sh on 2020-04-26 -->
 </Agregator>

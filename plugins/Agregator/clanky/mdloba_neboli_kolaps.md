@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/mdloba\_neboli\_kolaps/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859900254142337" data-type="article" data-image="/files/preview/koutek/mdloba\_neboli\_kolaps/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-03-16" mtime="2008-03-16" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mdloba\_neboli_kolaps" short="Mdloba neboli kolaps"}
+{ctime="2008-03-16" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mdloba\_neboli_kolaps" short="Mdloba neboli kolaps"}
 
 # Mdloba neboli kolaps
 
-{kw="poruchy vědomí, mozek-nervy, prevence, první pomoc, srdce, poranění, mikroorganizmy"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="poruchy vědomí, mozek-nervy, kolaps, prevence, první pomoc, srdce, poranění, mikroorganizmy"}
 
 Mdloba je způsobena nedostatečným okysličením mozku, a to nejčastěji z důvodu poklesu krevního tlaku. Oživování _(resuscitace)_ zkolabovaného je nutné jen výjimečně.
 

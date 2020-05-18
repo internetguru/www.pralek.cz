@@ -1,15 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/subduralni_hematom/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859949660804063" data-type="article" data-image="/files/preview/koutek/subduralni_hematom/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2011-01-31" mtime="2011-01-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="subduralni\_hematom" short="Chronický subdurální hematom"}
 
 # Poúrazové krvácení do hlavy: chronický subdurální hematom
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
-
-{kw="úrazy, cévy, krvácení, bolest, zvracení, poruchy vědomí"}
+{kw="úrazy, cévy, krvácení, zvracení, poruchy vědomí"}
 
 Po úrazu hlavy může po určité bezpříznakové době vzniknout chronický subdurální hematom. Jeho záludnost spočívá v plíživém nástupu potíží, které si pacient často sám vůbec neuvědomuje.
 

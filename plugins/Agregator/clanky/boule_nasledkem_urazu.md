@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/boule\_nasledkem\_urazu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859860544146308" data-type="article" data-image="/files/preview/koutek/boule\_nasledkem\_urazu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-09-27" mtime="2010-09-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="boule\_nasledkem_urazu" short="Boule následkem úrazu"}
 
 # Boule vzniklé následkem úrazu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-11-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="boule, úrazy, krvácení, kůže-podkoží, bolest, cévy, pohyb, první pomoc"}
+{kw="boule, úrazy, krvácení, kůže-podkoží, cévy, pohyb, první pomoc"}
 
 Boule vzniklé pohmožděním mají různou povahu; může jít o vylitou krev nebo jinou tekutinu. Podle místa vzniku se liší závažností, bolestivostí, léčbou a průběhem hojení.
 

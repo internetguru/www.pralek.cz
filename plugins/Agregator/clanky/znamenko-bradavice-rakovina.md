@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/znamenko-bradavice-rakovina/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859962577469438" data-type="article" data-image="/files/preview/koutek/znamenko-bradavice-rakovina/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-02-28" mtime="2009-02-28" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="znamenko-bradavice-rakovina" short="Znaménko, bradavice, rakovina"}
 
 # Mateřské znaménko, bradavice nebo rakovina
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="kůže-podkoží, nádory, nezhoubné, zhoubné, prevence, krvácení, bolest"}
+{kw="kůže-podkoží, nádory, nezhoubné, zhoubné, prevence, krvácení"}
 
 Různé kožní výrůstky jsou různě nebezpečné. Ploché mateřské znaménko může za určitých podmínek způsobit závažnou rakovinu. Bazaliom je takový typ rakoviny, který se může v kůži rozšiřovat, ale člověka nezahubí.
 

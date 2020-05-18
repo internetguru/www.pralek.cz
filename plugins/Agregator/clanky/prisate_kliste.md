@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/prisate_kliste/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859934260805603" data-type="article" data-image="/files/preview/koutek/prisate_kliste/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2007-12-13" mtime="2007-12-13" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prisate\_kliste" short="Přisáté klíště"}
+{ctime="2007-12-13" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prisate\_kliste" short="Přisáté klíště"}
 
 # Nakažení přisátým klíštětem
 
-{kw="zvíře, poranění, zánět, mozek-nervy, bolest, teplota"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="zvíře, poranění, zánět, mozek-nervy, teplota"}
 
 Přisáté klíště je možné odstranit několika způsoby. Případná nákaza se projeví až následnými příznaky.
 

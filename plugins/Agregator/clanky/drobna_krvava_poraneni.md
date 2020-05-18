@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/drobna\_krvava\_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859871800811849" data-type="article" data-image="/files/preview/koutek/drobna\_krvava\_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-01-22" mtime="2015-11-09" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="drobna\_krvava_poraneni" short="Drobná poranění"}
 
 # Drobná krvavá poranění
 
-{kw="kůže-podkoží, úrazy, poranění, krvácení, bolest, první pomoc, mikroorganizmy, zánět, pohyb"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="kůže-podkoží, úrazy, poranění, krvácení, první pomoc, mikroorganizmy, zánět, pohyb"}
 
 Správné ošetření drobného poranění zkracuje dobu léčení, šetří bolest a pomáhá předcházet zánětlivým komplikacím. Rána by měla být ošetřena do 6 hodin od úrazu.
 

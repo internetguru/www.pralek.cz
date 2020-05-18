@@ -35,18 +35,20 @@
 
     function addButtons (question) {
       var yesButton = document.createElement("button")
+      yesButton.classList = "button button--img button--img-inline button--border"
       var eventData = {
         question: question.innerHTML
       }
       yesButton.addEventListener("click", actionYes.bind(eventData), false)
       var noButton = document.createElement("button")
+      noButton.classList = "button button--img button--img-inline button--border"
       noButton.addEventListener("click", actionNo.bind(eventData), false)
       var span = document.createElement("span")
       question.appendChild(span)
       span.appendChild(yesButton)
       span.appendChild(noButton)
-      yesButton.innerHTML = yesText
-      noButton.innerHTML = noText
+      yesButton.innerHTML = `<span class="fas fa-fw fa-check"></span>${yesText}`
+      noButton.innerHTML = `<span class="fas fa-fw fa-times"></span>${noText}`
     }
 
     function actionYes (event) {
@@ -59,7 +61,7 @@
 
     function action (event, eventData, value) {
       var question = eventData.question
-      var button = event.target
+      var button = event.currentTarget
       if (button.classList.contains(selectedClass)) {
         delete answers[question]
         actionAfter(button)

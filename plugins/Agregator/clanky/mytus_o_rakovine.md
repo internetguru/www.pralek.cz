@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/mytus\_o\_rakovine/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859904310808598" data-type="article" data-image="/files/preview/koutek/mytus\_o\_rakovine/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2007-10-05" mtime="2007-10-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mytus\_o_rakovine" short="Mýtus o rakovině"}
 
 # Mýtus o urychlení rakoviny operací
 
-{kw="rakovina, mýty, strach, nádory, zhoubné, krvácení, zvracení, bolest"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="rakovina, mýty, strach, nádory, zhoubné, uzliny, krvácení, zvracení"}
 
 Rakovina je tím **lépe léčitelná, čím dříve je odhalena**. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací.
 

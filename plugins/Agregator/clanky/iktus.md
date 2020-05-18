@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/iktus/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859874747478221" data-type="article" data-image="/files/preview/koutek/iktus/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2008-07-05" mtime="2008-07-05" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="iktus" short="Cévní mozková příhoda"}
 
 # Cévní mozková příhoda neboli iktus či mrtvice
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="infarkt, cévy, mozek-nervy, zvracení, poruchy vědomí, srdce"}
+{kw="infarkt, cévy, mozek-nervy, pocení, nevolnost, zvracení, poruchy vědomí, srdce"}
 
 Záludnost cévní mozkové příhody spočívá v nenápadnosti jejího nástupu a v jejím pozvolném a nebolestivém rozvoji.
 
@@ -16,7 +16,7 @@ Mozková mrtvice neboli cévní mozková příhoda (CMP), iktus či mozkový inf
   * nedokrvením části mozku z důvodu [zúžení nebo ucpání cév][1] vyživujících mozek, nebo se jedná o
   * prokrvácením části mozku z důvodu prasknutí nemocné cévy.
 
-Do mozku přitéká krev čtyřmi tepnami, které jsou vzájemně propojeny. Proto se [částečné zmenšení průtoku][2] některé z nich nemusí projevit. Ostatní ji mohou do určité míry nahradit.
+Do mozku přitéká krev čtyřmi tepnami, které jsou vzájemně propojeny. Proto se [částečné zmenšení průtoku][2] některé z těchto tepen nemusí vůbec projevit, nebo se projeví jen přechodnou poruchou mozku. Ostatní cévy ji mohou do určité míry nahradit.
 
 V případě pokročilejšího nebo náhle vzniklého stavu zhoršení prokrvení části mozku se projeví některé známky mozkové mrtvice. Na rozdíl od [infarktu srdečního][3] **mozková mrtvice vůbec nebolí**. Proto bývají její příznaky bohužel podceňovány a následky pak tragické.
 

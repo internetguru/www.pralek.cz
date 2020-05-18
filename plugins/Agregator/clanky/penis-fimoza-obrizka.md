@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/penis-fimoza-obrizka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859926900806339" data-type="article" data-image="/files/preview/koutek/penis-fimoza-obrizka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-07-09" mtime="2009-07-09" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="penis-fimoza-obrizka" short="Péče o penis"}
 
 # Péče o penis, hygiena chlapců, fimóza, obřízka
 
-{kw="penis, předkožka, močová soustava, dětské, prevence, zánět, strach"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="penis, močová soustava, dětské, hygiena, prevence, zánět, strach"}
 
 Péče o penis již od útlého věku je podmínkou jeho správného dalšího vývoje. Tím se zamezí vzniku zánětu a hlavně následných komplikací a potíží v dospívání.
 
@@ -33,7 +35,7 @@ Poměrně často se stává, že jsou už při narození vytvořeny **slepeniny 
 
 V případě, že se slepeniny neuvolní a předkožku nelze přetáhnout, **slepeniny se postupně mění ve srůsty** mezi žaludem a předkožkou. Jejich následné uvolnění v pozdějším věku je pak již složitější a bolestivé a ve chlapcích **zanechává negativní zážitek**.
 
-Mezitím se hromadí v předkožkovém vaku smegma. Občasný [zánět vaku][3] _(balanitis)_ vede k podráždění předkožky a k jejímu jizvení. Opakované záněty vaku vyústí ve významné zúžení zevního ústí předkožky _(fimóza, phimosis)_. V tom případě již nelze předkožku přetáhnout přes žalud (otvor v předkožce je menší než velikost žaludu).
+Mezitím se hromadí v předkožkovém vaku smegma. Občasný [zánět vaku][3] _(balanitis)_ vede k podráždění předkožky a k jejímu pozánětlivému jizvení. Opakované záněty vaku vyústí ve významné zúžení zevního ústí předkožky _(fimóza, phimosis)_. V tom případě již nelze předkožku přetáhnout přes žalud (otvor v předkožce je menší než velikost žaludu).
 
 Při močení se ztenčuje proud, který je limitovaný otvorem v předkožce. Močí se naplňuje předkožkový vak a smegma se může močí z vaku vyplachovat a dítě nemusí mít potíže až do první erekce. V souvislosti s erekcí musí být často řešeny zbytky slepenin nebo srůstů v předkožkovém vaku.
 

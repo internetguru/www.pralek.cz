@@ -1,15 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/zlomeniny_kosti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859961224136240" data-type="article" data-image="/files/preview/koutek/zlomeniny_kosti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-10-22" mtime="2009-10-22" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlomeniny\_kosti" short="Zlomeniny kostí"}
 
 # Zlomeniny kostí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-10-13, do not edit -->
-
-{kw="zlomeniny, úrazy, poranění, bolest, krvácení, pohyb"}
+{kw="zlomeniny, úrazy, poranění, krvácení, pohyb, rehabilitace"}
 
 Rozpoznání zlomeniny kosti a správné poskytnutí první pomoci zabrání vzniku šoku a komplikací.
 

@@ -1,15 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/pady\_z\_kola/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859923077473388" data-type="article" data-image="/files/preview/koutek/pady\_z\_kola/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2012-11-20" mtime="2012-11-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pady\_z_kola" short="Pády z kola"}
 
 # Úrazy související s pádem z kola
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="úrazy, poranění, krvácení, zlomeniny, pohyb, bolest, břicho"}
+{kw="úrazy, poranění, krvácení, zlomeniny, pohyb, břicho"}
 
 Typické úrazy po pádu z kola jsou různě hluboké plošné oděrky, tržné rány, pohmoždění hrudníku, břicha, kloubů a svalů a zlomeniny dlouhých kostí. Jednotlivé úrazy mají svá specifika, jsou-li způsobeny pádem z kola.
 

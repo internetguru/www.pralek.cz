@@ -1,15 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/vykoubene_rameno/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859955397470156" data-type="article" data-image="/files/preview/koutek/vykoubene_rameno/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2013-05-12" mtime="2013-05-12" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vykoubene\_rameno" short="Vykloubené rameno"}
 
 # Šetrná léčba vykloubeného ramene
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="rameno, kloub, úrazy, bolest, první pomoc, pohyb, strach"}
+{kw="rameno, kloub, úrazy, první pomoc, pohyb, strach"}
 
 Vykloubení ramene (luxace ramene) je velmi bolestivý a právem obávaný úraz. Napravení se provádí vždy citlivě, bez násilí, bez trhání nebo škubání. Často je nezbytné celkové znecitlivění.
 

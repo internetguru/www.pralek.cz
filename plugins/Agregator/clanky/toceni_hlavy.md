@@ -1,11 +1,13 @@
 
-{xml:lang="cs" data-type="article" data-image="/files/preview/koutek/toceni_hlavy/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859953017470394" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/toceni_hlavy/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy" ctime="2020-01-14"}
+{ctime="2020-01-20" mtime="2020-01-20" id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy"}
 
 # Proč se točí hlava
 
-{kw="točení hlavy, zvracení, vnitřní ucho, vestibulární ústrojí, statokinetické ústrojí, polokruhovité kanálky"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="točení hlavy, zvracení, nevolnost, pocení, pohyb, prevence, žaludek"}
 
 Točení hlavy neboli vertigo je pocit neovladatelného pohybu, točení nebo houpání člověka či jeho okolí. Může být vyvoláno různými zevními vlivy nebo může doprovázet různá onemocnění. Od příčiny točení hlavy se odvíjí jeho řešení.
 
@@ -34,7 +36,7 @@ Závrať
 :   Jedná se o náhle vzniklé narušení prostorového vnímání a stability organismu (nejčastěji nad velkou hloubkou).
 
 Působení [pohybu, který nekoresponduje se zrakem][1]
-:   Nejčastěji se jedná o jízdu na kolotoči, houpačce, lodi a v autě, otáčení se se zavřenýma očima apod.
+:   Nejčastěji se jedná o jízdu na kolotoči, houpačce, lodi, v autě, otáčení se se zavřenýma očima apod.
 
 Působení jedů
 :   Točení hlavy je jeden z [příznaků působení nejrůznějších jedů][2] jako je alkohol či oxid uhelnatý, dále některé houby, zkažené maso, některé drogy a organická rozpouštědla.
@@ -73,12 +75,12 @@ Některé oční nemoci
 :   Točení a [bolest hlavy][13] mohou způsobovat oční nemoci, jako například refrakční vady, glaukom a porucha okohybných svalů.
 
 Určitá porucha srdečního rytmu
-:   Porucha může způsobit celkovou slabost a točení hlavy. Nemocný přitom nemusí mít žádnou [bolesti na hrudi][14].
+:   Porucha srdečního rytmu může způsobit celkovou slabost a točení hlavy. Nemocný přitom nemusí mít žádnou [bolesti na hrudi][14].
 
 Zánět zevního zvukovodu
 :   Zánět může drážděním polokruhovitých kanálků způsobit točení hlavy se všemi [doprovodnými projevy][1].
 
-Změněná psychika (psychogenní vertigo) 
+Změněná psychika (psychogenní vertigo)
 :   Nejčastěji se jedná o závrať.
 :   Jestliže nebyla nalezena organická příčina potíží, je nutné k vyřešetření problému vyhledat psychologa nebo psychiatra.
 
@@ -105,7 +107,7 @@ Dlouhodobé točení hlavy je způsobeno onemocněním vnitřního ucha. To se, 
 
 {class="example"}
 
-Dlouhodobé onemocnění postihuje starší lidi. Epizody mají různé intenzity od minut až po hodiny. 
+Dlouhodobé onemocnění postihuje starší lidi. Epizody mají různé intenzity od minut až po hodiny.
 
 Příčina nemoci je neznámá. Léčení spočívá v potlačování jednotlivých velmi obtěžujících příznaků.
 

@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/nalehavost\_lekarskeho\_vysetreni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859906797475016" data-type="article" data-image="/files/preview/koutek/nalehavost\_lekarskeho\_vysetreni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-12-03" mtime="2010-12-03" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nalehavost\_lekarskeho_vysetreni" short="Vyhledání lékařské péče"}
 
 # Vyhledání lékařské péče: kdy, kde a jak naléhavě
 
-{kw="úrazy, krvácení, spáleniny, zlomeniny, vykloubení, bolest, zánět"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="úrazy, krvácení, spáleniny, zlomeniny, vykloubení, zánět"}
 
 Úrazy a ostatní poruchy zdraví mají různý stupeň naléhavosti a způsob řešení od technické první pomoci přes hospitalizaci až po rehabilitaci.
 

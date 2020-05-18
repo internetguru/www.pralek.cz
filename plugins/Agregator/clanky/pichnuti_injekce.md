@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/pichnuti_injekce/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859927637472932" data-type="article" data-image="/files/preview/koutek/pichnuti_injekce/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2016-04-11" mtime="2016-04-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pichnuti\_injekce" short="Píchnutí injekce"}
 
 # Píchnutí injekce svépomocí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="první pomoc, kůže-podkoží, cévy, poranění, boulička"}
+{kw="první pomoc, nevolnost, kůže-podkoží, hygiena, cévy, poranění, boulička"}
 
 Píchnutí injekce (aplikace léku v injekční formě) svépomocí nebo vzájemnou pomocí do podkoží nebo do svalu je jednoduché a bezbolestné. Součástí přípravy je dodržení hygienických pravidel a volba vhodného místa vpichu.
 

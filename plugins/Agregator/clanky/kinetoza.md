@@ -1,13 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/kinetoza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859879230811106" data-type="article" data-image="/files/preview/koutek/kinetoza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2015-07-13" mtime="2015-07-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Kinetóza" id="kinetoza"}
 
 # Nevolnost a zvracení v dopravních prostředcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-12-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="pohyb, prevence, zvracení, mozek-nervy, žaludek, břicho"}
+{kw="nevolnost, pocení, pohyb, prevence, zvracení, mozek-nervy, žaludek, břicho"}
 
 Pocit nevolnosti může být vyvolán nejrůznějšími druhy pohybu. Tomu lze mnohdy snadno předejít. Někdy však mohou být tytéž stavy projevem onemocnění.
 

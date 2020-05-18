@@ -1,15 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/leky\_proti\_bolesti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859892824143080" data-type="article" data-image="/files/preview/koutek/leky\_proti\_bolesti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2010-03-28" mtime="2010-03-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="leky\_proti_bolesti" short="Léky proti bolesti"}
 
 # Léky proti bolesti neboli analgetika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="bolest, neúrazové, prevence, úrazy, pohyb, břicho"}
+{kw="neúrazové, prevence, úrazy, pohyb, břicho"}
 
 Je mnoho léků proti bolesti a v moderních preparátech jsou různě kombinovány. Jednotlivé firmy vyrábí tytéž léky pod různými názvy. Pro laika je těžké se v nabídce léků zorientovat. Vždy je správné, poradit se o vhodném léku proti bolesti se svým lékařem nebo lékárníkem.
 

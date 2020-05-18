@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/slepak/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859944810804548" data-type="article" data-image="/files/preview/koutek/slepak/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2009-12-13" mtime="2009-12-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="slepak" short="Slepák"}
 
 # Slepák: zánět červovitého přívěsku slepého střeva
 
-{kw="břicho, bolest, střevo, zánět, zvracení, teplota"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="břicho, střevo, zánět, zvracení, teplota"}
 
 Mnohotvárnost příznaků zánětu červovitého přívěsku slepého střeva (hovorově slepák) bývá příčinou komplikací nebo zanedbání jeho léčení. V případě nejasných bolestí břicha je třeba vyhledat odborného lékaře (chirurga).
 

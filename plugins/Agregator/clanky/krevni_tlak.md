@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/krevni_tlak/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859883900810639" data-type="article" data-image="/files/preview/koutek/krevni_tlak/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-03-27" mtime="2008-03-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krevni\_tlak" short="Krevní tlak"}
+{ctime="2008-03-27" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krevni\_tlak" short="Krevní tlak"}
 
 # Měření a vyhodnocení krevního tlaku
 
-{kw="srdce, cévy, prevence, zdravý životní styl, tlakoměr, strach, látková výměna"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="srdce, cévy, prevence, zdravý životní styl, tlakoměr, točení hlavy, látková výměna"}
 
 Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření.
 

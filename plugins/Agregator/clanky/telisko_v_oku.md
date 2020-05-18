@@ -1,15 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/telisko\_v\_oku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859950310803998" data-type="article" data-image="/files/preview/koutek/telisko\_v\_oku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2012-01-18" mtime="2012-01-18" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="telisko\_v_oku" short="Tělísko v oku"}
 
 # Cizí tělísko v oku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-09-22, do not edit -->
-
-{kw="bolest, úrazy, poranění"}
+{kw="úrazy, poranění"}
 
 Cizí tělísko lze odstranit z oka svépomocí nebo vzájemnou pomocí. K odstranění smítka je vhodná navlhčená vatová ušní štětička nebo čistý růžek látkového kapesníku. V případě podezření na poranění oka nebo poranění rohovky je však nezbytné ošetření očním lékařem.
 

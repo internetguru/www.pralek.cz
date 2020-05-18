@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/koureni_cigaret/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859881737477522" data-type="article" data-image="/files/preview/koutek/koureni_cigaret/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2012-02-23" mtime="2012-02-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="koureni\_cigaret" short="Kouření cigaret"}
 
 # Závislosti na kouření je snazší předejít
 
-{kw="prevence, zdravý životní styl, cévy, kašel, nádory, zhoubné, infarkt"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="prevence, cévy, nevolnost, točení hlavy, kašel, nádory, zhoubné, infarkt"}
 
 Kouření tabáku (nejčastěji cigaret) přináší kuřákovi krátkodobě příjemný prožitek, ale dlouhodobě nepříjemnou závislost na nikotinu. Podle stupně závislosti již nebývá kouření nikterak příjemným zážitkem, spíše vzniká problém, když nezbytná cigareta chybí.
 

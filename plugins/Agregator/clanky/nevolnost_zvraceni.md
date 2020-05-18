@@ -1,11 +1,13 @@
 
-{data-type="article" data-image="/files/preview/koutek/nevolnost_zvraceni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859910350807994" data-type="article" data-image="/files/preview/koutek/nevolnost_zvraceni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {ctime="2019-11-14" mtime="2019-11-14" id="nevolnost\_zvraceni" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Nevolnost a zvracení"}
 
 # Jak postupovat při nevolnosti a zvracení
 
-{kw="nevolnost, zvracení, průjem, pocení, žlučník, mikroorganizmy, kocovina, bolest, tekutiny"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+
+{kw="nevolnost, zvracení, průjem, pocení, žlučník, mikroorganizmy, tekutiny"}
 
 Žaludeční nevolnost, zvracení a někdy následně průjem mívá různé příčiny a proto i různé způsoby léčení. Nejčastější příčinou bývá požití zkažené stravy.
 
