@@ -67,7 +67,8 @@
   --button--simple-active-bg: #4DB6AC;  
 }
 .clanek .button:hover,
-.clanek .button:active {
+.clanek .button:active,
+.clanek .button:focus {
   color: white;
   --button-color: #ffffff;
   --button-svg-color: #ffffff;
@@ -175,7 +176,6 @@
   width: 100%;
   text-align: center;
   background: linear-gradient(180deg, transparent, white 55%);
-  background: -webkit-linear-gradient(top, rgba(255,255,255,0.001), white 55%);
   padding: 2em 0 0 0;
 }
 .clanek .desc a.expand-button:before {
@@ -374,6 +374,7 @@ dt label.button {
   padding: 0 !important;
   margin-left: auto;
   margin-right: auto;
+  background: none;
 }
 .hdesc.o_praleku + div .imgwrap img,
 .o_praleku .imgwrap img {
@@ -754,18 +755,17 @@ li.important, li.example {
   --button-list-item-margin: 1.5em;
   background: none;
   padding-top: 0 !important;
-  padding-bottom: 2em;
 }
 .part.docinfo > div {
   border-top: thin solid #E0E0E0;
-  padding-top: 2em !important;
+  padding-top: 3em !important;
 }
 .part.docinfo svg {
   font-size: 1.6em;
   margin-right: 0.25em;
   vertical-align: -0.25em;
 }
-.docinfo.share svg {
+.docinfo.share a:not(.fb):not(.twitter) svg {
   position: absolute;
   top: 0;
   left: -1.5em;
@@ -773,6 +773,20 @@ li.important, li.example {
 .docinfo.share li {
   position: relative;
   margin-left: 2.75em;
+}
+.docinfo.social a.fb {
+  --button-bg: #1877F2;
+  --button--active-bg: #1051a6;
+  color: white;
+}
+.docinfo.social a.twitter {
+  --button-bg: #2586c1;
+  --button--active-bg: #236790;
+  color: white;
+}
+.docinfo.social a.fb svg,
+.docinfo.social a.twitter svg {
+  color: white !important;
 }
 .part.dotace {
   padding-bottom: 2em;
@@ -947,7 +961,68 @@ div.part.internetguru:before {
     margin-top: 4em;
   }
 }
-/************************************/
+/***************************/
+.agregator-new .hdesc--top,
+dl.clanek.linklist-new,
+dl.clanek.doclist-new {
+  overflow: hidden;
+}
+dl.clanek.linklist-new > dt:first-child,
+dl.clanek.doclist-new > dt:first-child {
+  position: relative;
+}
+.agregator-new .hdesc--top > div:after,
+dl.clanek.linklist-new > dt:first-child:after,
+dl.clanek.doclist-new > dt:first-child:after {
+  content: "Nový";
+  width: 12em;
+  background: #00796b;
+  position: absolute;
+  top: 1em;
+  left: -3.9em;
+  text-align: center;
+  line-height: 2.4em;
+  letter-spacing: 0.075em;
+  color: #f0f0f0;
+  transform: rotate(-45deg);
+  font-weight: 500;
+  z-index: 1;
+  pointer-events: none;
+}
+.agregator-new .hdesc--top > div:after {
+  content: "Nový článek";
+  transform: rotate(45deg);
+  top: auto;
+  bottom: -2.75em;
+  left: -2.75em;
+  letter-spacing: normal;
+}
+@media all and (min-width: 52em) {
+  .agregator-new .hdesc--top > div:after {
+    transform: rotate(0deg);
+    background: none;
+    line-height: normal;
+    color: #80CBC4;
+    font-size: 1.75rem;
+    font-weight: 500;
+    border: medium solid #80CBC4;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    text-transform: uppercase;
+    border-radius: 1rem;
+    -webkit-mask-image: url('/files/preview/grunge.png');
+    z-index: 2;
+    width: fit-content;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    z-index: 1;
+    bottom: -2em;
+    left: 1rem;
+   }
+}
+/***************************/
 @media print {
   @page {
     size: auto;
