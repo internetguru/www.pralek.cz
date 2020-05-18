@@ -1111,5 +1111,26 @@ dl.clanek.doclist-new > dt:first-child:after {
     justify-content: flex-start;
     margin-left: 0;
   }
+  .agregator-new .hdesc--top > div:after,
+  dl.clanek.linklist-new > dt:first-child:after,
+  dl.clanek.doclist-new > dt:first-child:after {
+    content: "";
+  }
+  .docinfo.social a.fb,
+  .docinfo.social a.twitter {
+    --button-bg: #ffffff;
+    --button--active-bg: #ffffff;
+    color: black;
+    max-width: none;
+    width: auto;
+    padding-left: 0;
+  }
+  .docinfo .button-list li {
+    --button-max-width: 100%;
+  }
+  .docinfo.social a.fb svg,
+  .docinfo.social a.twitter svg {
+    color: black !important;
+  }
 }
 /************************************/
