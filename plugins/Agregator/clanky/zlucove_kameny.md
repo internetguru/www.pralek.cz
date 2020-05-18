@@ -5,7 +5,7 @@
 
 # Prevence a léčba žlučových kamenů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="žlučník, břicho, říhání, zvracení, stravovací návyky, prevence, zánět, strach"}
 
@@ -97,7 +97,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 

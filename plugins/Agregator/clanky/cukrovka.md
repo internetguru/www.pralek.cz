@@ -5,7 +5,7 @@
 
 # Jak žít s cukrovkou
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="strava-zažívání, látková výměna, poruchy vědomí, první pomoc, nevolnost, pocení, cévy, břicho"}
 
@@ -38,7 +38,7 @@ Vyhýbání se cukrům ve stravě je u zdravého člověka zbytečné podobně j
 
 Nejcitlivější na nedostatek energie jsou buňky mozkové. Na jejich podnět **organizmus reaguje zvyšováním množství cukru v krvi**.
 
-V případě požití sladkého jídla se glykémie ještě zvyšuje (i na několikanásobek normální hodnoty). Projevem tohoto stádia cukrovky může být zatím jen občasná slabost a žízeň. Pacient o své nemoci bohužel nemusí vůbec vědět. Tehdy vzniká prostor pro komplikace cukrovky.
+V případě požití sladkého jídla se glykémie ještě zvyšuje (i na několikanásobek normální hodnoty). Projevem tohoto stádia cukrovky může být zatím jen občasná slabost a žízeň. Pacient o své nemoci bohužel nemusí vůbec vědět. Tehdy vzniká prostor pro vznik komplikací cukrovky.
 
 {class="important"}
 
@@ -55,7 +55,7 @@ Nejlehčí forma
 :   Na zpracování kaloricky i složením vyvážené stravy postačí vlastní inzulín. V případě nadbytku cukru ve stravě nedokáže slinivka uvolnit dostatek inzulínu na jeho zpracování. Následkem je dočasná vysoká hladina cukru v krvi _(hyperglykémie)_.
 
 Závažnější forma
-:   Kromě dodržování diety je potřeba podávat **určité léky podporující tvorbu vlastního inzulínu** ve slinivce břišní. Ty se podávají formou tablet a množství je dáno závažností choroby.
+:   Kromě dodržování diety je potřeba podávat **určité léky podporující tvorbu vlastního inzulínu** ve slinivce břišní. Ty se podávají formou tablet a množství je dáno úrovní choroby.
 
 Nejzávažnější forma
 :   Kromě diety vyžaduje také **injekční podávání cizího inzulínu**, protože vlastní inzulín se prakticky netvoří. Inzulínu je mnoho druhů s různou délkou působení. Různé jsou také možnosti aplikace, například pomocí inzulínové pumpy.
@@ -72,7 +72,7 @@ Nedostatek cukru v krvi _(hypoglykémie)_
 Nadbytek cukru v krvi _(hyperglykémie)_
 :   Jestli si diabetik nepodá inzulín a nasytí se sladkým jídlem, hladina cukru v jeho krvi se může mnohonásobně zvýšit.
 
-Zachránce nepozná, zda se jedná o příliš vysokou či nízkou hladinu cukru. Hrozícímu **kolapsu lze předejít podáním sladkého nápoje**. V případě mnohem častější _hypoglykémie_ podaný cukr zachrání život. Naopak v případě _hyperglykémie_ podaný cukr nepomůže, ale ani neublíží.
+Zachránce nepozná, zda se jedná o příliš vysokou či nízkou hladinu cukru. Hrozícímu **kolapsu lze předejít podáním sladkého nápoje**. V případě mnohem častější _hypoglykémie_ podaný cukr zachrání život. Naopak v případě _hyperglykémie_ podaný cukr nepomůže, závažnost stavu nijak neovlivní a je třeba volat [záchranku][5].
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -112,7 +112,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 
@@ -120,4 +120,5 @@ n/a
  [2]: srdecni_infarkt
  [3]: mocove_kameny
  [4]: mdloba_neboli_kolaps
+ [5]: rychla_lekarska_pomoc
 

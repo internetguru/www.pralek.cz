@@ -5,7 +5,7 @@
 
 # Imunita: obranyschopnost organizmu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="zdravý životní styl, prevence, alergie, mikroorganizmy, antibiotika, dětské, zánět"}
 
@@ -15,7 +15,7 @@ Stupně nastavení imunitního systému
 
   1. **Správně fungující imunitní systém** dokáže rozpoznat a označit drobného cizího nepřítele v lidském těle (nejčastěji [viry nebo bakterie][1]). Vetřelec je po označení rychle zlikvidován speciálními bílými krvinkami.
   2. Snížená imunita vede k tomu, že nepřítel není rozpoznán a bílé krvinky ho ignorují. Nepoznané cizí bakterie se snadno pomnoží a vzniká **zánětlivé onemocnění**, které je nutno léčit antibiotiky.
-  3. Nadměrná imunitní aktivita naopak může označovat za nepřítele i takové látky v těle, které ve skutečnosti nepřítelem nejsou (např. pylová zrnka, prach, částečky kovu nebo různé léky). Pak se jedná o **alergii** na tu kterou látku, dnes již bohužel často i o alergie smíšené.
+  3. Nadměrná imunitní aktivita naopak může označovat za nepřítele i takové látky v těle, které ve skutečnosti nepřítelem nejsou (např. pylová zrnka, prach, částečky kovu nebo různé léky). Pak se jedná o **alergii** na tu kterou látku, dnes již bohužel často i o [alergie][2] smíšené.
   4. Může dokonce být imunitním systémem označena za nepřítele i některá tělu vlastní bílkovina a proti ní se tvoří protilátky. Pak se jedná o závažné tzv. **autoimunní onemocnění.**
 
 {id="co\_delat\_pro\_spravne\_fungujici\_imunitni\_system"}
@@ -24,9 +24,9 @@ Stupně nastavení imunitního systému
 
 n/a
 
-Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedinec, který má řádně vyvinutý imunitní (obranný) systém, je tedy odolný vůči [nakažlivým nemocem][2] i vůči [prochlazení][3], vyroste tehdy,
+Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedinec, který má řádně vyvinutý imunitní (obranný) systém, je tedy odolný vůči [nakažlivým nemocem][3] i vůči [prochlazení][4], vyroste tehdy,
 
-  * narodí-li se přirozenou cestou (blízkost porodních cest a konečníku je již při porodu prvním setkáním [s dávkou bakterií][2]),
+  * narodí-li se přirozenou cestou (blízkost porodních cest a konečníku je již při porodu prvním setkáním [s dávkou bakterií][3]),
   * je-li kojen, dostává další obranné látky od matky spolu s mateřským mlékem,
   * k obranným látkám, kterými byl vybaven již při porodu a vydrží mu asi 6 týdnů si záhy začíná vytvářet svoje vlastní,
   * následně si batole strká do pusy vše co vidí, mnohdy i věci nám zcela nepochopitelné, jde o pudové chování, smyslem je časně si zmapovat okolní bakterie a záhy tvořit imunitu,
@@ -81,11 +81,12 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 
  [1]: antibiotika
- [2]: mikroorganizmy
- [3]: teplota
+ [2]: projevy_alergie
+ [3]: mikroorganizmy
+ [4]: teplota
 

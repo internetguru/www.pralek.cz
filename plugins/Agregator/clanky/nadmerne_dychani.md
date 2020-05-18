@@ -5,7 +5,7 @@
 
 # Nadměrné dýchání – předýchávání
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="dýchání, strach, poruchy vědomí, první pomoc, srdce, nevolnost, kolaps, zvracení"}
 
@@ -17,7 +17,7 @@ Nadměrné dýchání způsobuje nežádoucí stav organizmu s různými projevy
 
 {class="example"}
 
-Někdy bývá potřeba šetřit dechem. Například potápěč během ponoru dýchá velmi pomalu a zhluboka, aby co nejdéle vydržel pod vodou se zásobou vzduchu. Jindy je třeba se naopak rozcvičit a hodně prodýchat, například před krátkodobým náročným sportovním výkonem. Takto změněné dýchání není ničím nebezpečné, sportovec přesně ví, co a proč dělá.
+Někdy bývá potřeba šetřit dechem. Například potápěč během ponoru dýchá velmi pomalu a zhluboka, aby co nejdéle vydržel pod vodou s omezenou zásobou vzduchu. Jindy je třeba se naopak rozcvičit a hodně prodýchat, například před krátkodobým náročným sportovním výkonem. Takto změněné dýchání není ničím nebezpečné, sportovec přesně ví, co a proč dělá.
 
 {id="chorobne\_nadmerne\_dychani_hyperventilace"}
 
@@ -127,7 +127,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 

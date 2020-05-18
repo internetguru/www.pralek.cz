@@ -5,7 +5,7 @@
 
 # Rýma a smrkání, komplikace rýmy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="ušní-nosní-krční, zánět, mikroorganizmy, dětské, poranění"}
 
@@ -80,7 +80,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 

@@ -5,7 +5,7 @@
 
 # Uzly a zatvrdliny ve dlani: Dupuytrenova kontraktura
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="boulička, nezhoubné, prevence, neúrazové, pohyb, zánět, hygiena"}
 
@@ -77,7 +77,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 

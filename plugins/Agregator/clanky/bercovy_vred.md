@@ -5,7 +5,7 @@
 
 # Bércový vřed, jeho vývoj a hojení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="zánět, neúrazové, kůže-podkoží, cévy, poranění, krvácení"}
 
@@ -26,9 +26,7 @@ Skutečnou příčinou vzniku bércového vředu tedy není úraz postiženého 
 
 ## Vzhled a projevy bércového vředu
 
-n/a
-
-Bércový vřed může mít velikost několika milimetrů čtverečných, může ale také postihnout celý bérec, tedy oblast od kolene až ke kotníkům. Spodina vředu a jeho **okraje mají nejrůznější tvar, povrch a barvu v závislosti [na stupni a vývoji zánětu][1]** , který se na rané (postižené) ploše nekryté kůží vždy vyvine. 
+Bércový vřed může mít velikost několika milimetrů čtverečných, může ale také postihnout celý bérec, tedy oblast od kolen až ke kotníkům. Spodina vředu a jeho **okraje mají nejrůznější tvar, povrch a barvu v závislosti [na stupni a vývoji zánětu][1]** , který se na postižené ploše nekryté kůží vždy vyvine. 
 
   1. **Během vzniku vředu** bývají spodina vředu i jeho ploché okraje bělavé až šedé, tuhé, špatně prokrvené, často kryté různými povlaky včetně cárů odumřelé tkáně. Takový bércový vřed bolí a bude se zcela jistě dále rozšiřovat.
   2. **Po správném zaléčení** bývá spodina vředu i jeho okraje živě červené, dobře prokrvené a okraje se stávají navalitými (vystupují nad okraj vředu). Bércový vřed přestává bolet a může se začít hojit.
@@ -100,7 +98,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 

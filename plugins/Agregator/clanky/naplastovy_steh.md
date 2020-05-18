@@ -5,7 +5,7 @@
 
 # Ošetření kožní rány náplasťovým stehem
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="úrazy, první pomoc, poranění, krvácení, pohyb, žláza"}
 
@@ -98,7 +98,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 
@@ -107,5 +107,5 @@ n/a
  [3]: akne
  [4]: zanet
  [5]: krecove_zily
- [6]: imunita
+ [6]: projevy_alergie
 

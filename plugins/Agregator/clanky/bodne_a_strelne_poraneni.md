@@ -5,7 +5,7 @@
 
 # Bodné a střelné poranění a jeho závažnost
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="poranění, krvácení, kůže-podkoží, pohyb, břicho, cévy"}
 
@@ -86,7 +86,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 

@@ -5,7 +5,7 @@
 
 # Krvácení z křečové žíly dolní končetiny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="krvácení, cévy, první pomoc, kůže-podkoží, senioři, úrazy, neúrazové"}
 
@@ -22,8 +22,6 @@ n/a
 Křečové žíly na jinak zdravé dolní končetině nikdy neprasknou a nekrvácejí. Mladý a jinak zdravý člověk s křečovými žílami se tedy nemusí krvácení obávat.
 
 Starší a zvláště obézní lidé s onemocněním srdce bohužel mívají dolní končetiny dlouhodobě oteklé až prosáklé. V kombinaci s křečovými žílami bývá kůže na špatně prokrvených bércích dlouhodobě změněná. Je často méněcenná, tedy popraskaná, ztluštělá a jinde naopak zeslabená. V takovém terénu **může krví napěchovaná žíla snadno prasknout** a začít krvácet.
-
-{class="example"}
 
   * Nejčastěji po koupeli (rozmáčení) stačí nemocným bércem lehce zavadit o jakýkoli předmět,
   * jindy postačí při ošetřování [bércového vředu][2] neopatrná manipulace s končetinou,
@@ -109,7 +107,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 

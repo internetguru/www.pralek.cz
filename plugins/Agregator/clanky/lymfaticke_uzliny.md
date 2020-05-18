@@ -5,7 +5,7 @@
 
 # Zvětšené lymfatické uzliny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="uzliny, kůže-podkoží, teplota, boulička, zánět, nádory, cévy"}
 
@@ -44,7 +44,7 @@ n/a
   * [Zánět nehtového lůžka][9], oděrky prstů nebo pat mohou způsobit **bolestivé zvětšení uzlin v zákolenní jamce nebo v tříslech**.
   * Dlouhodobé oděrky nebo plísně nohou zapříčiní **nebolestivé zvětšení tříselních uzlin**.
   * Stejně tak dojde ke **zvětšení uzlin na horní končetině** v loketní jamce nebo v podpaží (zánět, oděrka, namožení).
-  * _Prudký_ zánět na končetině s horečkou může způsobit **rudý horký viditelný pruh od místa zánětu směrem k trupu s bolestivou uzlinou na konci**. Jedná se o zánět lymfatické cévy, která se změnila a stala se viditelnou a bolestivou (nesprávně označována jako otrava krve).
+  * _Prudký_ zánět na končetině s horečkou může způsobit **rudý horký viditelný pruh od místa zánětu směrem k trupu s bolestivou uzlinou na konci**. Jedná se o zánět lymfatické cévy, která se změnila a stala se viditelnou a bolestivou (laicky nesprávně označována jako otrava krve).
   * Zánět nebo nádor ve stěně hrudníku nebo v prsu rovněž způsobí **zvětšení uzlin v podpaží** (stejná spádová oblast jako pro horní končetinu).
   * **Zvětšení uzliny na přední straně krku a nad klíční kostí** svědčí pro onemocnění v krku nebo v hrudníku.
   * [Bolesti v krku][2], zánět v dutině ústní nebo zánět zubu způsobí **zvětšení podčelistních uzlin**.
@@ -85,7 +85,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 

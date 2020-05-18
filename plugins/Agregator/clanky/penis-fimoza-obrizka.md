@@ -5,7 +5,7 @@
 
 # Péče o penis, hygiena chlapců, fimóza, obřízka
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="penis, močová soustava, dětské, hygiena, prevence, zánět, strach"}
 
@@ -83,7 +83,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 

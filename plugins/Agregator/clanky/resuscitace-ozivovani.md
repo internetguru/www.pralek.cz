@@ -5,7 +5,7 @@
 
 # Resuscitace neboli oživování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="poruchy vědomí, dýchání, poranění, kolaps, první pomoc, srdce"}
 
@@ -36,7 +36,7 @@ Celkově bledý obličej nabývá nádech domodra. Zvláště modrají rty, nos,
 
 {class="important"}
 
-Zkolabovaný člověk se zachovanými základními životními funkcemi (to je dýchání a akce srdeční) resuscitaci nepotřebuje. Jeho obličej a rty mají normální barvu.
+Zkolabovaný člověk se zachovanými základními životními funkcemi (to je dýchání a akce srdeční) resuscitaci nepotřebuje. Jeho rty mají normální barvu.
 
 {id="proces\_ozivovani\_zivotni_funkce"}
 
@@ -98,7 +98,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 

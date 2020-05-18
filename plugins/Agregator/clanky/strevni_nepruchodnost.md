@@ -5,7 +5,7 @@
 
 # Střevní neprůchodnost bývá komplikací jiné choroby
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="nevolnost, zvracení, břicho, strava-zažívání, nádory, zhoubné, cévy"}
 
@@ -108,7 +108,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 

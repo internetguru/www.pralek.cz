@@ -5,7 +5,7 @@
 
 # Obsah domácí lékárničky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="první pomoc, teplota, poranění, mikroorganizmy, zánět, alergie, zvíře"}
 
@@ -61,14 +61,14 @@ Obvazy různé velikosti
 :   Prošlý sterilní obvaz poslouží velmi dobře jako obvaz nesterilní. {class="example"}
 
 Náplast, náplasťový steh
-:   Různé druhy náplastí je možné zaměňovat. Na některé se však může vyvinout alergie. S časem přilnavost náplasti klesá.
-:   Na drobné ranky lze použít [náplasťový steh][9], který je možné koupit nebo snadno vytvořit z dobře přiléhající náplasti.
+:   Různé druhy náplastí je možné zaměňovat. Na některé se však může vyvinout [alergie][9]. S časem přilnavost náplasti klesá.
+:   Na drobné ranky lze použít [náplasťový steh][10], který je možné koupit nebo snadno vytvořit z dobře přiléhající náplasti.
 
 Elastická obinadla různé velikosti
-:   Elastický obvaz poslouží ke zpevnění [podvrtnutého kotníku][10], k zafixování končetiny při podezření na [zlomeninu][11], k zatažení obvazu při přetrvávajícím krvácení z rány, k zafixování obvazu na hlavě nebo ke stažení narůstajícího [krevního výronu na bérci][12].
+:   Elastický obvaz poslouží ke zpevnění [podvrtnutého kotníku][11], k zafixování končetiny při podezření na [zlomeninu][12], k zatažení obvazu při přetrvávajícím krvácení z rány, k zafixování obvazu na hlavě nebo ke stažení narůstajícího [krevního výronu na bérci][13].
 
 Sterilní čtverečky _(hydrofilní gáza)_ různých velikostí
-:   Sterilní čtverečky patří na rány, oděrky, [spáleniny][13], prasklé puchýře či omrzliny.
+:   Sterilní čtverečky patří na rány, oděrky, [spáleniny][14], prasklé puchýře či omrzliny.
 
 {class="important"}
 
@@ -80,16 +80,16 @@ Obvazový materiál by se po použití nikdy neměl vracet do lékárničky a to
 
 n/a
 
-Léky v domácí lékárničce musejí být majiteli dobře známé. Níže uvedené léky by měly být doplněny těmi léky, které členové rodiny opakovaně potřebují (např. léky proti [průjmu][14], proti křečím, na zánět spojivek, na [rýmu][15]).
+Léky v domácí lékárničce musejí být majiteli dobře známé. Níže uvedené léky by měly být doplněny těmi léky, které členové rodiny opakovaně potřebují (např. léky proti [průjmu][15], proti křečím, na zánět spojivek, na [rýmu][16]).
 
 Léky proti teplotě a bolesti
-:   Je dobré mít v lékárničce základní léky [proti bolesti a teplotě][16]. Bolest je dobré tlumit až po poznání její příčiny (s výjimkou např. [migrény][17]). [Teplotu][3] snižovat až po nárůstu nejméně o 1 °C oproti normálu.
+:   Je dobré mít v lékárničce základní léky [proti bolesti a teplotě][17]. Bolest je dobré tlumit až po poznání její příčiny (s výjimkou např. [migrény][18]). [Teplotu][3] snižovat až po nárůstu nejméně o 1 °C oproti normálu.
 
 Léky proti kašli
-:   Při [kašli][18] a dráždění dýchacích cest v počátku horečnatého onemocnění je dobré [podat léky][19] podporující uvolnění hlenu v průduškách nebo později léky proti dráždivému kašli.
+:   Při [kašli][19] a dráždění dýchacích cest v počátku horečnatého onemocnění je dobré [podat léky][20] podporující uvolnění hlenu v průduškách nebo později léky proti dráždivému kašli.
 
 Léky proti alergii
-:   I když není v rodině žádný alergik, je dobré mít v lékárničce základní lék [proti alergii][20]. Alergie totiž může vzniknout kdykoli i při plném zdraví. Kromě toho může být potřeba pomoci s alergickou reakcí kamarádovi či sousedovi.
+:   I když není v rodině žádný alergik, je dobré mít v lékárničce základní lék proti alergii. Alergie totiž může vzniknout kdykoli i při plném zdraví. Kromě toho může být potřeba pomoci s alergickou reakcí kamarádovi či sousedovi.
 
 Višněvského emulze (hovorově „višňák“)
 :   Protizánětlivá emulze dobře poslouží [k léčbě počínajícího zánětu][21].
@@ -107,7 +107,7 @@ n/a
 
 V rámci první pomoci mohou být použity i nástroje běžné (denní) potřeby. Vlivem stresu při poskytování první pomoci bývají zejména opomíjeny nůžky, kosmetické pinzety (manikúra), špejle, ušní štětičky, čistící tampóny ba dokonce protialergické léky.
 
-V mrazáku je dobré mít modrý chladivý gel _(kryoperlóza)_ nebo jeho náhražku – nadrobno nakrájenou zeleninu v plastovém sáčku. Obsah musí být tvárný aby přilnul ke chlazenému místu. Jen tak může dobře posloužit ke chlazení [spáleniny][13] nebo jakéhokoli počínajícího [místního zánětu][21]. 
+V mrazáku je dobré mít modrý chladivý gel _(kryoperlóza)_ nebo jeho náhražku – nadrobno nakrájenou zeleninu v plastovém sáčku. Obsah musí být tvárný aby přilnul ke chlazenému místu. Jen tak může dobře posloužit ke chlazení [spáleniny][14] nebo jakéhokoli počínajícího [místního zánětu][21]. 
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -145,7 +145,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 
@@ -157,18 +157,18 @@ n/a
  [6]: prisate_kliste
  [7]: puchyr_mozol_kuri_oko
  [8]: bodne_a_strelne_poraneni
- [9]: naplastovy_steh
- [10]: podvrtnuti_kotniku
- [11]: zlomeniny_kosti
- [12]: boule_nasledkem_urazu
- [13]: ochlazeni_spaleniny
- [14]: funkcni_poruchy_traveni
- [15]: ryma_a_smrkani
- [16]: leky_proti_bolesti
- [17]: bolest_hlavy_migrena
- [18]: kasel_a_typy_kasle
- [19]: lekove_formy
- [20]: imunita
+ [9]: projevy_alergie
+ [10]: naplastovy_steh
+ [11]: podvrtnuti_kotniku
+ [12]: zlomeniny_kosti
+ [13]: boule_nasledkem_urazu
+ [14]: ochlazeni_spaleniny
+ [15]: funkcni_poruchy_traveni
+ [16]: ryma_a_smrkani
+ [17]: leky_proti_bolesti
+ [18]: bolest_hlavy_migrena
+ [19]: kasel_a_typy_kasle
+ [20]: lekove_formy
  [21]: lecba_zanetu
  [22]: nalehavost_lekarskeho_vysetreni
  [23]: telisko_v_oku

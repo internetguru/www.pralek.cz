@@ -5,7 +5,7 @@
 
 # Krvácení z konečníku: hemoroidy nebo nádor
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="krvácení, strach, zánět, boulička, hygiena, strava-zažívání, nádory, cévy, břicho, zhoubné"}
 
@@ -91,7 +91,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 

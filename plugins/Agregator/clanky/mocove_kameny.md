@@ -5,7 +5,7 @@
 
 # Močové kameny a ledvinová kolika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-26, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="ledviny, močová soustava, kolika, prevence, neúrazové, krvácení, zvracení, zánět"}
 
@@ -71,7 +71,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="taglist"}
+{var="inputvar-taglist" class="toptags"}
 
 n/a
 
