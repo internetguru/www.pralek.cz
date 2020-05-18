@@ -1,57 +1,106 @@
 (function(win){
+  
+  require("IGCMS", function() {
 
-  var yes = "Srozumitelně";
-  var no  = "Nesrozumitelně";
+    var yesText = "Srozumitelně"
+    var noText  = "Nesrozumitelně"
+    var questionClass = "otazky"
+    var selectedClass = "selected"
 
-  function init() {
-    var lists = document.getElementsByTagName("ol");
-    for(var i = 0; i < lists.length; i++) {
-      if(!lists[i].classList.contains("otazky")) continue;
-      var items = lists[i].getElementsByTagName("li");
-      for(var j = 0; j < items.length; j++) {
-        addButtons(items[j]);
+    var answers = []
+    var statusBar = null
+    var statusBarTimer = null
+    var statusBarHideTimer = null
+
+    function init () {
+      var list = document.querySelector("ol." + questionClass)
+      if (!list) {
+        return
       }
+      var items = list.getElementsByTagName("li")
+      for (var j = 0; j < items.length; j++) {
+        addButtons(items[j])
+      }
+      addStatusBar(list)
+      win.addEventListener("beforeunload", sendEvents, false);
     }
-  }
-  
-  function addButtons(e) {
-    var yesButton = document.createElement("button");
-    yesButton.addEventListener("click", actionYes.bind(e.innerHTML), false);
-    var noButton = document.createElement("button");
-    noButton.addEventListener("click", actionNo.bind(e.innerHTML), false);
-    var span = document.createElement("span");
-    e.appendChild(span);
-    span.appendChild(yesButton);
-    span.appendChild(noButton);
-    yesButton.innerHTML = yes;
-    noButton.innerHTML = no;
-  }
 
-  function actionYes(e) { action(e, this, 1); }
-
-  function actionNo(e) { action(e, this, 0); }
-  
-  function action(e, otazka, value) {
-    var button = e.target;
-    if(typeof ga == "function") {
-      ga('send', {
-          'hitType': 'event',
-          'eventCategory': 'dotaznik',
-          'eventAction': 'otazky',
-          'eventLabel': otazka,
-          'eventValue': value
-        });
-    } else {
-      alert("DEBUG: " + otazka + " [" + value + "]");
+    function addStatusBar (list) {
+      statusBar = document.createElement("li")
+      statusBar.innerHTML = "Změny uloženy"
+      statusBar.style.visibility = "hidden"
+      statusBar.style.listStyle = "none"
+      list.appendChild(statusBar)
     }
-    e.target.classList.add("selected");
-    var nodes = e.target.parentNode.childNodes;
-    for(var i = 0; i < nodes.length; i++) {
-      if(nodes[i].nodeName.toLowerCase() != "button") continue;
-      nodes[i].disabled = "disabled";
-    }
-  }
 
-  init();
-  
+    function addButtons (question) {
+      var yesButton = document.createElement("button")
+      yesButton.classList = "button button--img button--img-inline button--border"
+      var eventData = {
+        question: question.innerHTML
+      }
+      yesButton.addEventListener("click", actionYes.bind(eventData), false)
+      var noButton = document.createElement("button")
+      noButton.classList = "button button--img button--img-inline button--border"
+      noButton.addEventListener("click", actionNo.bind(eventData), false)
+      var span = document.createElement("span")
+      question.appendChild(span)
+      span.appendChild(yesButton)
+      span.appendChild(noButton)
+      yesButton.innerHTML = `<span class="fas fa-fw fa-check"></span>${yesText}`
+      noButton.innerHTML = `<span class="fas fa-fw fa-times"></span>${noText}`
+    }
+
+    function actionYes (event) {
+      action(event, this, 1)
+    }
+
+    function actionNo (event) {
+      action(event, this, 0)
+    }
+
+    function action (event, eventData, value) {
+      var question = eventData.question
+      var button = event.currentTarget
+      if (button.classList.contains(selectedClass)) {
+        delete answers[question]
+        actionAfter(button)
+        return
+      }
+      if (answers[question] !== undefined) {
+        var siblingButton = answers[question] === 0 
+          ? button.nextElementSibling
+          : button.previousElementSibling
+        siblingButton.classList.toggle(selectedClass)
+      }
+      answers[question] = value
+      actionAfter(button)
+    }
+
+    function actionAfter (button) {
+      win.clearTimeout(statusBarTimer)
+      win.clearTimeout(statusBarHideTimer)
+      statusBar.style.visibility = "hidden"
+      statusBarTimer = win.setTimeout(function () {
+        statusBar.style.visibility = ""
+        statusBarHideTimer = win.setTimeout(function () {
+          statusBar.style.visibility = "hidden"
+        }, 4000)
+      }, 2000)
+      button.classList.toggle(selectedClass)
+      button.blur()
+    }
+
+    function sendEvents (event) {
+      require("IGCMS.Eventable", function () {
+        for (var question in answers) {
+          IGCMS.Eventable.sendGAEvent('dotaznik', 'otazky', question, answers[question])
+        }
+      })
+    }
+
+    init()
+
+  })
 })(window);
+

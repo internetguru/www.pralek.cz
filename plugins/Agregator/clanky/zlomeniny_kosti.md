@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/zlomeniny_kosti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859961224136240" data-type="article" data-image="/files/preview/koutek/zlomeniny_kosti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlomeniny\_kosti" short="Zlomeniny kostí" ctime="2009-10-22" mtime="2009-10-22"}
+{ctime="2009-10-22" mtime="2009-10-22" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlomeniny\_kosti" short="Zlomeniny kostí"}
 
 # Zlomeniny kostí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="zlomeniny, úrazy, poranění, bolest, pohyb, poruchy vědomí, nemoc"}
+{kw="zlomeniny, úrazy, poranění, krvácení, pohyb, rehabilitace"}
 
 Rozpoznání zlomeniny kosti a správné poskytnutí první pomoci zabrání vzniku šoku a komplikací.
 
@@ -56,7 +56,7 @@ Dlouho obtěžující bolestivost, otoky a nemožnost rychlého návratu k běž
 
 {class="example"}
 
-Se zlomeninou zevního kotníku lze například chodit nebo dohrát sportovní zápas.
+Se zlomeninou zevního kotníku lze chodit nebo například dohrát sportovní zápas.
 
 {id="prasklina_lebky"}
 
@@ -102,6 +102,14 @@ n/a
   4. V čem spočívá závažnost zlomeniny lebky?
   5. Čím je ohrožen skokan do neznámé nebo mělké vody po hlavě?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -114,7 +122,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

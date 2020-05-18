@@ -1,17 +1,17 @@
 
-{data-top="9" data-og-type="article" data-og-image="/files/preview/koutek/lymfaticke_uzliny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859898944142468" data-top="9" data-type="article" data-image="/files/preview/koutek/lymfaticke_uzliny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lymfaticke\_uzliny" short="Lymfatické uzliny" ctime="2009-01-20" mtime="2009-01-20"}
+{ctime="2009-01-20" mtime="2009-01-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lymfaticke\_uzliny" short="Lymfatické uzliny"}
 
 # Zvětšené lymfatické uzliny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="kůže-podkoží, teplota, ušní-nosní-krční, zánět, bolest, zhoubné, nezhoubné, neúrazové, orgány, cévy"}
+{kw="uzliny, kůže-podkoží, teplota, boulička, zánět, nádory, cévy"}
 
 Normální lymfatické uzliny nejsou bolestivé ani hmatné. Zvětšení nebo bolestivost uzliny má vždy svůj důvod, po kterém je třeba pátrat. Nejčastěji se jedná o zánět, bohužel někdy i o nádor.
 
-[Krevním oběhem][1] putuje v krevní plazmě směs krvinek a krevních destiček. Tepnami teče krev k cílovým orgánům a žílami zpět k srdci. Během předávání kyslíku a živin ve vlásečnici (přechod mezi tepnou a žílou) se plazma dostává do mezibuněčného prostoru. V případě setkání s většími částečkami, volnými buňkami nebo [produkty zánětu][2] se plazma do srdce nevrací žilním systémem, ale lymfatickým (mízním).
+[Krevním oběhem][1] putuje v krevní plazmě směs krvinek a krevních destiček. Tepnami teče krev k cílovým orgánům a žílami zpět k srdci. Během předávání kyslíku a živin ve vlásečnici (přechod mezi tepnou a žílou) se plazma dostává do mezibuněčného prostoru. V případě setkání s většími částečkami, volnými buňkami nebo [produkty zánětu][2] se plazma do srdce nevrací žilním systémem, ale cévním systémem lymfatickým (mízním).
 
 Lymfa je viditelná například v případě [velmi povrchní oděrky][3], kdy nezačne z kůže krvácení, ale vyroní se pouze nažloutlá tekutina, která posléze zaschne v nažloutlý nekrvavý strup.
 
@@ -19,7 +19,7 @@ Lymfa je viditelná například v případě [velmi povrchní oděrky][3], kdy n
 
 Lymfatické cévy jsou přerušeny uzlinami. Mízní uzliny jsou jakási sítka, která z lymfy vychytávají všechny nežádoucí částečky a buňky, aby se nedostaly do krevního oběhu.
 
-V lymfatických uzlinách jsou [některé mikroorganizmy][4] zničeny, některé mohou lymfatickou cévou pronikat k další uzlině. Nečistoty jsou v uzlinách uloženy natrvalo. Podle příčiny se zvětšená uzlina [po ústupu zánětu][5] znovu zmenší nebo zůstane trvale zvětšená. **Při postižení nádorem uzlina dlouhodobě narůstá.**
+V lymfatických uzlinách jsou [některé mikroorganizmy][4] zničeny, některé mohou lymfatickou cévou pronikat k nejbližší uzlině. Nečistoty jsou v uzlinách uloženy natrvalo. Podle příčiny se zvětšená uzlina [po ústupu zánětu][5] znovu zmenší nebo zůstane dlouhodobě zvětšená. **Při postižení nádorem uzlina dlouhodobě narůstá.**
 
 {id="zvetsene\_bolestive\_a\_jinak\_zmenene\_lymfaticke\_uzliny"}
 
@@ -65,6 +65,14 @@ n/a
   3. Proč zvětšená uzlina někdy bolí a někdy nebolí?
   4. Co bývá nejčastější příčinou zvětšení podčelistních uzlin?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -77,7 +85,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

@@ -1,19 +1,19 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/bolest_zaludku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859859510813078" data-type="article" data-image="/files/preview/koutek/bolest_zaludku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_zaludku" short="Bolest žaludku" ctime="2011-05-30" mtime="2011-05-30"}
+{ctime="2011-05-30" mtime="2011-05-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_zaludku" short="Bolest žaludku"}
 
 # Žaludeční potíže: bolest žaludku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="žaludek, bolest, břicho, orgány, strava-zažívání, teplota, zánět, mikroorganizmy"}
+{kw="žaludek, břicho, zvracení, strach, strava-zažívání, teplota, zánět, mikroorganizmy"}
 
 Správnou životosprávou lze předejít vzniku různých onemocnění žaludku včetně žaludečního vředu. Žaludeční problémy souvisí často se stresem. Podmínkami zažívací pohody jsou zvládnutí vlastní psychiky a správné stravovací návyky.
 
-Žaludek je součást trávící soustavy přímo navazující na jícen. Je uložen v nadbřišku v horní části břicha, uprostřed mezi dolním koncem hrudníku a pupkem. Slouží k dočasnému uložení spolykané potravy a k jejímu promísení hlavně s kyselinou solnou (HCl), která se tvoří v žaludeční stěně. V žaludku pokračuje trávicí proces započatý v ústech.
+Žaludek je součást trávící soustavy přímo navazující na jícen. Je uložen v nadbřišku v horní části břicha, uprostřed mezi dolním koncem hrudníku a pupkem. Slouží k dočasnému uložení spolykané potravy a k jejímu promísení hlavně s kyselinou solnou (HCl), která se tvoří v žaludeční stěně. V žaludku pokračuje trávicí proces započatý již v ústech.
 
-Existuje přímá souvislost mezi žaludečními potížemi a psychikou (strach, hněv, stres, hrůza, děs). [Bezvadně fungující trávení][1] je podmíněno duševní pohodou. Jakýkoli nezvládnutý strach se projeví různými [zažívacími problémy][2]. Známé rčení „ležet v žaludku“ má bezpochyby původ v nepříjemném pocitu v žaludku v souvislosti s nějakými starostmi nebo problémy.
+Existuje přímá souvislost mezi žaludečními potížemi a psychikou (strach, hněv, stres, hrůza, děs). [Bezvadně fungující trávení][1] je podmíněno duševní pohodou. Jakýkoli nezvládnutý strach se projeví různými [zažívacími problémy][2]. Známé rčení „ležet někomu v žaludku“ má bezpochyby původ v nepříjemném pocitu v žaludku v souvislosti s nějakými starostmi nebo problémy.
 
 {id="paleni_zahy"}
 
@@ -21,7 +21,7 @@ Existuje přímá souvislost mezi žaludečními potížemi a psychikou (strach,
 
 n/a
 
-Pálení žáhy je způsobeno **průnikem žaludečního obsahu zpět do dolní části jícnu**. V jícnu pak kyselina pálí (na rozdíl od žaludku, který je na kyselinu uzpůsobený). Žaludek reaguje na nedostatek žaludečních šťáv jejich zvýšenou tvorbou.
+Pálení žáhy je způsobeno **průnikem žaludečního obsahu zpět do dolní části jícnu**. V jícnu pak kyselina pálí (na rozdíl od žaludku, který je na kyselinu uzpůsobený). Žaludek vždy reaguje na nedostatek žaludečních šťáv jejich zvýšenou tvorbou.
 
 Prevence a obrana proti pálení žáhy spočívá v dodržování pravidel:
 
@@ -29,7 +29,7 @@ Prevence a obrana proti pálení žáhy spočívá v dodržování pravidel:
   2. Jestli už pálení žáhy nastane, není dobré ležet. Vodorovná poloha průnik žaludečního obsahu do jícnu usnadňuje.
   3. Zásadně je nutné nezvyšovat nitrobřišní tlak (nemačkat si břicho), aby nebyl další obsah žaludku mechanicky tlačen zpět do jícnu.
 
-Pálení žáhy není způsobeno nadměrnou tvorbou kyseliny solné, proto je přinejmenším sporné při pálení žáhy užívat léky tlumící produkci kyseliny solné nebo kyselinu neutralizující. Lepší je sednout si do pohodlného křesla a uvolnit břicho. Pálící kyselinu lze třeba opakovaně spláchnout do žaludku jakýmkoli příjemným nápojem.
+Pálení žáhy není způsobeno nadměrnou tvorbou kyseliny solné, proto je nesprávné při pálení žáhy užívat léky tlumící produkci kyseliny solné nebo kyselinu neutralizující. Žaludek by reagoval její zvýšenou tvorbou. Lepší je sednout si do pohodlného křesla a uvolnit břicho. Pálící kyselinu lze třeba opakovaně spláchnout do žaludku jakýmkoli příjemným nápojem.
 
 Opakované dlouhodobé pálení žáhy po různých jídlech bývá spojeno se zvláštní brániční kýlou _(hiátová hernie)_. Tuto kýlu odhalí vyšetření žaludku a následná operace zbaví pacienta potíží.
 
@@ -79,6 +79,14 @@ n/a
   4. Jak se projeví, je-li zánětem více postižen žaludek nebo střevo?
   5. Jaké jsou zásady léčení prudkého zánětu žaludku a střeva?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -91,7 +99,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

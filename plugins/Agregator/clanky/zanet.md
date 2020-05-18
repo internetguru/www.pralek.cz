@@ -1,11 +1,11 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/zanet/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859956860803343" data-type="article" data-image="/files/preview/koutek/zanet/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zanet" short="Zánět" ctime="2014-04-07" mtime="2014-04-07"}
+{ctime="2014-04-07" mtime="2014-04-07" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zanet" short="Zánět"}
 
 # Kdy zánět léčit, kdy rozhánět a kdy podporovat
 
-{class="description" kw="zánět, teplota, nemoc, bolest, ušní-nosní-krční, látková výměna, neúrazové"}
+{class="description" kw="zánět, teplota, imunita, pocení, látková výměna, úrazové, neúrazové"}
 
 Různé druhy zánětů mají různý průběh a vývoj, různé příčiny a projevy. Podle druhu a vývoje zánětu je třeba proti němu někdy intenzivně bojovat, jindy je lépe ponechat zánětu přirozený průběh a někdy jej dokonce podporovat.
 
@@ -83,7 +83,7 @@ n/a
 
 Opravný zánět navazuje na poškození tkání jako je **pohmoždění, uhození, namožení, přetížení, popálení, omrznutí, poleptání nebo ozáření**. V počátku aseptického zánětu vždy dobře poslouží studené obklady, které zlepší prokrvení postiženého místa a tím urychlí ústup bolestivých zánětlivých změn.
 
-Jelikož v aseptickém zánětu nejsou žádné mikroorganizmy, netvoří tělo žádné protilátky, a proto ani antibiotika nejsou namístě. Při závažném úrazu (např. při větší spálenině) pomohou co nejrychleji opravit poškozené buňky a tkáně jiné podpůrné léky (náhrada tekutin, vitamíny, minerály, [léky proti bolesti][15]).
+Jelikož v aseptickém zánětu nejsou žádné mikroorganizmy, netvoří tělo žádné protilátky, a proto ani antibiotika nejsou namístě. Při závažném úrazu (např. při větší [spálenině][15]) pomohou co nejrychleji opravit poškozené buňky a tkáně jiné podpůrné léky (náhrada tekutin, vitamíny, minerály, [léky proti bolesti][16]).
 
 {id="alergicky\_a\_autoimunitni_zanet"}
 
@@ -95,7 +95,7 @@ n/a
 
 V případě chybné reakce [imunitního systému][3] může tělo tvořit protilátky vůči látkám, které tělu ve skutečnosti vůbec neškodí (alergie), nebo které jsou mu vlastní, a které dokonce potřebuje (autoimunitní onemocnění).
 
-Alergický zánět reaguje na alergeny (například kovy, prach nebo pyl). Tyto látky organizmus mylně vyhodnotí za tělu nebezpečného nepřítele (chybná imunitní reakce – např. alergická rýma). Tělo proti alergenům mobilizuje síly podobně jako proti skutečně nepřátelským mikroorganizmům. Podávány musejí být protialergické léky _(antialergika)_, které obecně tlumí příznaky zánětu.
+[Alergický zánět][17] reaguje na alergeny (například kovy, prach nebo pyl). Tyto látky organizmus mylně vyhodnotí za tělu nebezpečného nepřítele (chybná imunitní reakce – např. alergická rýma). Tělo proti alergenům mobilizuje síly podobně jako proti skutečně nepřátelským mikroorganizmům. Podávány musejí být protialergické léky _(antialergika)_, které obecně tlumí příznaky zánětu.
 
 Autoimunitní zánět (častěji autoimunitní onemocnění) je stav, kdy organizmus mylně vyhodnotí za nepřítele určitou látku, která je tělu vlastní (velmi chybná imunitní reakce). Mylně bojuje proti vlastní, zdravé a nepoškozené bílkovině stejně, jako by bojoval proti skutečnému nepříteli. Podávají se složité léky k potlačení imunity.
 
@@ -117,6 +117,14 @@ n/a
   6. Jaký obklad patří na čerstvě natlučené koleno nebo na podvrtnutý kotník a proč?
   7. Proč je vhodné na stejnou nemoc dávat někdy obklady studené a jindy teplé?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -129,7 +137,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
@@ -147,5 +155,7 @@ n/a
  [12]: panaricium
  [13]: zarustajici_nehty
  [14]: bolest_v_krku_angina
- [15]: leky_proti_bolesti
+ [15]: ochlazeni_spaleniny
+ [16]: leky_proti_bolesti
+ [17]: projevy_alergie
 

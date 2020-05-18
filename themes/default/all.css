@@ -28,7 +28,7 @@ li {
 }
 /***************************/
 #content strong  {
-  font-weight: 500;
+  font-weight: 600;
 }
 /***************************/
 div.list {
@@ -42,23 +42,18 @@ div.list {
 }
 /***************************/
 dl.figure {
-  display: -webkit-inline-flex;
-  display: -ms-inline-flexbox;
-  display: inline-flex;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  display: flex;
+  flex-direction: column;
   text-align: center;
+}
+dl.figure:not(.author) {
+  width: 35em;
 }
 dl.figure dt {
   padding: 0;
-  display: -webkit-inline-flex;
-  display: -ms-inline-flexbox;
   display: inline-flex;
   min-height: 12em;
-  -webkit-align-self:  center;
-      -ms-flex-item-align:  center;
-          align-self:  center;
+  align-self: center;
 }
 dl.figure dt img {
   object-fit: cover;
@@ -92,9 +87,7 @@ ol.contentlink-bc {
   padding: 0;
 }
 #header .contentlink-bc {
-  -webkit-flex-shrink: 0;
-      -ms-flex-negative: 0;
-          flex-shrink: 0;
+  flex-shrink: 0;
 }
 #header .contentlink-bc li ~ li {
   display: none;
@@ -113,6 +106,8 @@ h1 {
 }
 h2 {
   font-size: 2em;
+  margin-top: 0.5em;
+  padding-top: 1em;
 }
 h2, h3 {
   color: #111;
@@ -132,12 +127,8 @@ h1 + p {
   padding: 0 1.25em;
 }
 #header .contentlink-bc li a {
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  align-items: center;
   margin-top: 0.6em;
 }
 .hdesc > div > * {
@@ -148,6 +139,7 @@ h1 + p {
 /***************************/
 dl.figure dt object {
   width: 100%;
+  width: 35em;
 }
 dl.figure.author {
   display: block;
@@ -198,21 +190,15 @@ dl.clanek > *:not(:first-child):not(.date) {
 }
 .clanek dd.kw {
   margin: 0.75em 0;
-  -webkit-order: 0;
-      -ms-flex-order: 0;
-          order: 0;
-  -webkit-justify-content: flex-start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  order: 0;
+  justify-content: flex-start;
 }
 .clanek .heading {
   font-size: 1.5em;
   margin: 0 0 0.25em 0;
 }
 .clanek .desc {
-  -webkit-flex-grow: 1;
-      -ms-flex-positive: 1;
-          flex-grow: 1;
+  flex-grow: 1;
   margin: 0.5em 0;
   color: #555;
 }
@@ -244,6 +230,9 @@ a.tag:before {
   font-size: 1.25em;
   line-height: 0;
 }
+.hdesc a.tag:first-child {
+  margin-left: 0.25em;
+}
 /***************************/
 ul.docinfo.nomultiple.global {
   margin-bottom: 0;
@@ -272,3 +261,4 @@ p.filter {
   text-align: center;
 }
 /***************************/
+

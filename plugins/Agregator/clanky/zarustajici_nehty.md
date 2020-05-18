@@ -1,15 +1,15 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/zarustajici_nehty/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859959790803050" data-type="article" data-image="/files/preview/koutek/zarustajici_nehty/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zarustajici\_nehty" short="Zarůstající nehty" ctime="2009-04-19" mtime="2009-04-19"}
+{ctime="2009-04-19" mtime="2009-04-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zarustajici\_nehty" short="Zarůstající nehty"}
 
 # Zarůstající nehty na palcích dolních končetin
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="zánět, bolest, prevence, teplota, mikroorganizmy, pohyb"}
+{kw="nehet, hygiena, zánět, prevence, teplota, mikroorganizmy, pohyb"}
 
-Zarůstání nehtů je časté bolestivé onemocnění vzniklé špatným zastřižením nehtu. Řešením je odstranění zánětu a jeho prevence. K úplnému zhojení dojde až tehdy, když zastřižený nehet doroste na správné místo.
+Zarůstání nehtů je časté bolestivé onemocnění vzniklé špatným zastřižením nehtu. Řešením je odstranění zánětu a jeho prevence. K úplnému zhojení dojde až tehdy, když špatně zastřižený nehet doroste na správné místo.
 
 Příčinou zarůstání nehtů bývá **špatně provedená toaleta (zastřižení) nebo výjimečně úraz nehtu**. Nehty na prstech nohou musí být ošetřeny tak, aby tlakem boty nebo vedlejšího prstu nemohl být ostrým rohem nehtu zraňován nehtový val. Ostrý roh vznikne nesprávným zapilováním nebo zastřižením okraje nehtu do obloučku odstraněním původního rohu nehtu, který z palce vyčníval. Roh nehtu je tím nesprávně ukryt v nehtovému valu. Podél nehtu se do poraněného nehtového valu dostávají [mikroorganizmy a vyvíjí se zánět][1].
 
@@ -39,7 +39,7 @@ Jako komplikace se mohou vyskytnout i celkové známky zánětu se zánětem lym
 
 n/a
 
-  1. První fáze léčení spočívá v potlačení zánětu:
+  1. První fáze léčení spočívá v potlačení zánětu: 
       1. **Hypermanganová nebo betadinová koupel** (ve vlažné vodě s příměsí zvolené desinfekce) působí protizánětlivě a lze ji provádět svépomocí. Roztok hypermanganu musí být slabě růžový. Při koupeli je třeba odtlačovat bolestivý nehtový val od nehtu, aby tam mohla desinfekce proniknout. Koupel je vhodné provádět 2krát denně po dobu asi 2 minut.
       2. **Vlhká komůrka** – gelová terapie, kterou doporučuje a předepisuje ošetřující lékař. Lze ji použít pouze za určitých podmínek.
   2. Druhá fáze léčby zarůstajících nehtů je preventivní, až do doby úplného zhojení. Po zklidnění zánětu (po zmírnění bolesti a otoku) následují **koupele v odvaru heřmánku** (Chamomilla). Proces koupele je stejný jako již popsaný včetně odtlačovaní nyní již nebolestivého nehtového valu. Heřmánek podporuje hojení a zároveň blahodárně vysušuje nemocná místa.
@@ -65,6 +65,14 @@ n/a
   3. Proč jsou vhodné v počátku onemocnění koupele v dezinfekčním roztoku a později koupele v hojivém roztoku?
   4. Může po zdařilé plastice opět zarůstat nehet?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -77,7 +85,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

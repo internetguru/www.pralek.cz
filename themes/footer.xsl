@@ -40,6 +40,7 @@
   <xsl:param name="inputvar-cyear" select="''"/>
   <xsl:param name="inputvar-year" select="''"/>
   <xsl:param name="inputvar-service_html" select="''"/>
+  <xsl:param name="inputvar-fb-share" select="''"/>
 
   <xsl:template match="/body">
     <body>
@@ -49,6 +50,8 @@
         <dl>
           <dt>Autor</dt>
           <dd>MUDr. Jaroslav Pavelka, <a href="mailto:mudr.pavelka@pralek.cz">mudr.pavelka@pralek.cz</a></dd>
+          <dt>Facebook</dt>
+          <dd var="inputvar-fb-share">n/a</dd>
           <dt>©&#160;<xsl:value-of disable-output-escaping="yes" select="$inputvar-cyear"/>–<xsl:value-of disable-output-escaping="yes" select="$inputvar-year"/></dt>
           <dd>Všechna práva vyhrazena</dd>
           <dt class="link">Odkaz</dt>

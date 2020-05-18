@@ -1,17 +1,17 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/mdloba\_neboli\_kolaps/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859900254142337" data-type="article" data-image="/files/preview/koutek/mdloba\_neboli\_kolaps/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mdloba\_neboli_kolaps" short="Mdloba neboli kolaps" ctime="2008-03-16" mtime="2008-03-16"}
+{ctime="2008-03-16" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mdloba\_neboli_kolaps" short="Mdloba neboli kolaps"}
 
 # Mdloba neboli kolaps
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="poruchy vědomí, mozek-nervy, prevence, první pomoc, srdce, poranění, mikroorganizmy"}
+{kw="poruchy vědomí, mozek-nervy, kolaps, prevence, první pomoc, srdce, poranění, mikroorganizmy"}
 
-Mdloba je způsobena nedostatečným okysličením mozku, nejčastěji z důvodu poklesu krevního tlaku. Oživování (resuscitace) zkolabovaného je nutné jen výjimečně.
+Mdloba je způsobena nedostatečným okysličením mozku, a to nejčastěji z důvodu poklesu krevního tlaku. Oživování _(resuscitace)_ zkolabovaného je nutné jen výjimečně.
 
-Mdlobě většinou předchází slabost, zatočení hlavy a studený pot. Tehdy, aby nedošlo ke kolapsu, je třeba **podpořit prokrvení mozku**. Sklon k omdlívání mívají lidé (slečny) s [nižším krevním tlakem][1] a nervově labilnější. Člověk však může omdlít také bez varování a následným pádem se může poranit.
+Mdlobě většinou předchází slabost, zatočení hlavy a studený pot. Tehdy, aby nedošlo ke kolapsu, je třeba **podpořit prokrvení mozku**. Sklon k omdlívání mívají nervově labilnější lidé s [nižším krevním tlakem][1] (typicky např. slečny). Člověk však může omdlít také bez varování a následným pádem se může poranit.
 
 Podpora prokrvení mozku:
 
@@ -28,30 +28,42 @@ Obecné podmínky zvyšující sklon k omdlívání:
   * teplo,
   * dusno,
   * vlhko (po dešti),
-  * únava a vyčerpání,
+  * ospalost, únava a vyčerpání,
   * shlédnutí něčeho zvláštního nebo nepříjemného (například kolapsu někoho jiného).
 
-{id="hloubka\_bezvedomi\_urcuje\_postup\_pri\_prvni\_pomoci"}
+{id="hloubka_bezvedomi"}
 
 ## Hloubka bezvědomí určuje postup při první pomoci
 
-n/a
+[Porucha vědomí][2] _(bezvědomí)_ může mít různou hloubku. Od krátkodobé slabosti, kterou nemusí okolí ani postřehnout, až po plné bezvědomí s vyhasnutím všech obranných reakcí (včetně polykacího reflexu). Podle hloubky bezvědomí provádíme adekvátní první pomoc.
 
-[Porucha vědomí][2] (bezvědomí) může mít různou hloubku. Od krátkodobé slabosti, kterou nemusí okolí ani postřehnout, až po plné bezvědomí s vyhasnutím všech obranných reakcí (včetně polykacího reflexu).
+Počínající mdloba
+:   Projevuje se zatočením hlavy, teplem, pocitem nejistoty a mžitkami před očima.
+:   Vyžaduje **preventivně podpořit prokrvení mozku** (výše) a **vyprázdnit ústa** (bonbón, žvýkačka, zubní protéza, zbytky jídla).
 
-  * **Počínající mdloba** (zatočení hlavy, teplo, pocit nejistoty, mžitky před očima) vyžaduje preventivně podpořit prokrvení mozku (výše) a vyprázdnit ústa (bonbón, žvýkačka, zubní protéza, zbytky jídla).
-  * **Zkolabovaný klidně a pravidelně dýchající člověk** se srdeční akcí (pravidelně bijící srdce) vyžaduje rovněž výše zmíněnou prevenci, _nikoli resuscitaci_.
-  * **Zkolabovaný člověk s poruchou dýchání** (způsobenou zapadnutím kořene jazyka nebo vdechnutím cizího tělesa) je ohrožen na životě a [vyžaduje resuscitaci][3].
+Zkolabovaný klidně a pravidelně dýchající člověk
+:   Člověk se srdeční akcí (pravidelně bijící srdce) vyžaduje rovněž **výše zmíněnou prevenci a nikoli resuscitaci**.
 
-{id="specificke\_priciny\_kolapsu\_a\_prvni_pomoc"}
+Zkolabovaný člověk s poruchou dýchání
+:   Porucha dýchání bývá způsobena zapadnutím kořene jazyka nebo vdechnutím cizího tělesa.
+:   Takový člověk **je ohrožen na životě a [vyžaduje resuscitaci][3]** . 
+
+{id="priciny\_a\_prvni_pomoc"}
 
 ## Specifické příčiny kolapsu a první pomoc
 
 n/a
 
-  * **Nemocný [cukrovkou {title="Cukrovka: jak žít s cukrovkou"}][4] (diabetik)** pozvolna ztrácí vědomí v případě příliš nízké hladiny cukru v krvi. Jako první pomoc potřebuje neprodleně cukr; nejlépe formou sladkého nápoje.
-  * **Určitá [onemocnění srdce][5]** způsobí poruchu vědomí tím, že srdce nedostatečně pumpuje krev a mozek nedostává dostatek okysličené krve.
-  * **Epilepsie (česky padoucnice)** je nemoc, při které vzniká porucha vědomí a křeče vlastním onemocněním mozku, _nikoli snížením tlaku_. Při laické první pomoci je nutné dbát pouze na volné dýchací cesty a předcházet poranění při pádu.
+Nemocný [cukrovkou][4] (diabetik)
+:   Pozvolna ztrácí vědomí v případě příliš nízké hladiny cukru v krvi.
+:   Jako první pomoc **potřebuje neprodleně cukr**, a to nejlépe formou sladkého nápoje.
+
+Určitá [onemocnění srdce][5]
+:   Způsobí poruchu vědomí tím, že srdce nedostatečně pumpuje krev a mozek nedostává dostatek okysličené krve.
+
+Epilepsie (česky padoucnice)
+:   Je to nemoc, při které vzniká porucha vědomí a křeče vlastním onemocněním mozku a _nikoli snížením tlaku_.
+:   Při laické první pomoci **je nutné dbát pouze na volné dýchací cesty a předcházet poranění při pádu**.
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -69,6 +81,14 @@ n/a
   4. V čem spočívá rozdíl pomoci diabetikovi upadajícímu do bezvědomí od jinak zdravého kolabujícího člověka?
   5. V čem spočívá rozdíl pomoci epileptikovi v záchvatu od jinak zdravého zkolabovaného člověka?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -81,7 +101,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

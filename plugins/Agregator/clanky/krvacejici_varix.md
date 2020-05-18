@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/krvacejici_varix/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859885004143862" data-type="article" data-image="/files/preview/koutek/krvacejici_varix/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvacejici\_varix" short="Krvácející varix" ctime="2014-09-06" mtime="2014-09-06"}
+{ctime="2014-09-06" mtime="2014-09-06" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvacejici\_varix" short="Krvácející varix"}
 
 # Krvácení z křečové žíly dolní končetiny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="krvácení, cévy, první pomoc, kůže-podkoží, nemoc, stařecké, úrazy"}
+{kw="krvácení, cévy, první pomoc, kůže-podkoží, senioři, úrazy, neúrazové"}
 
 Krvácení z prasklé křečové žíly bývá vždy velmi dramatické. Větší ztrátě krve může zamezit jen správně poskytnutá první pomoc.
 
@@ -22,8 +22,6 @@ n/a
 Křečové žíly na jinak zdravé dolní končetině nikdy neprasknou a nekrvácejí. Mladý a jinak zdravý člověk s křečovými žílami se tedy nemusí krvácení obávat.
 
 Starší a zvláště obézní lidé s onemocněním srdce bohužel mívají dolní končetiny dlouhodobě oteklé až prosáklé. V kombinaci s křečovými žílami bývá kůže na špatně prokrvených bércích dlouhodobě změněná. Je často méněcenná, tedy popraskaná, ztluštělá a jinde naopak zeslabená. V takovém terénu **může krví napěchovaná žíla snadno prasknout** a začít krvácet.
-
-{class="example"}
 
   * Nejčastěji po koupeli (rozmáčení) stačí nemocným bércem lehce zavadit o jakýkoli předmět,
   * jindy postačí při ošetřování [bércového vředu][2] neopatrná manipulace s končetinou,
@@ -89,6 +87,14 @@ n/a
   4. Jaká je správná první pomoc při krvácení z prasklého varixu?
   5. Jaký je mechanizmus samovolné zástavy krvácení u prasklého varixu?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -101,7 +107,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

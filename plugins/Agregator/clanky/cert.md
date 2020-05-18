@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/cert/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859861920812837" data-type="article" data-image="/files/preview/koutek/cert/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cert" short="Čert" ctime="2011-04-01" mtime="2011-04-01"}
+{ctime="2011-04-01" mtime="2011-04-01" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cert" short="Čert"}
 
 # Pohádkový čert: kterak na svět přišel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="mýty, kůže-podkoží, zánět, zhoubné, nezhoubné, nádory, nemoc, cévy, pohyb"}
+{kw="mýty, nádory, kůže-podkoží, zánět, zhoubné, nezhoubné, cévy"}
 
 Postava čerta vznikla pozorováním lidí s různým zdravotním postižením. Typické čertovské příznaky se totiž u lidí vyskytují dosud jako vrozené či získané vady. U jednoho člověka se může vyskytnout i více příznaků současně.
 
@@ -41,7 +41,7 @@ n/a
 
 Koňská noha _(pes equinovarus)_ je dodnes jedna z nejčetnějších vrozených vad (deformit) pohybového ústrojí. Většinou lze deformitu úspěšně řešit ortopedickými operacemi a rehabilitací.
 
-V dřívějších dobách však nikdo neuměl takto postiženému dítěti pomoci. Dítě našlapovalo na zdeformovanou nohu, nikoli na chodidlo. Tím došlo k tvorbě [rozsáhlého mozolu][3], který další chůzí stále narůstal. Pata se na postižené noze zcela ztratila a místo styku s podložkou se přeměnilo v jeden obrovský mozol. Taková neléčená deformita je podobná více koňskému kopytu než lidské noze.
+V dřívějších dobách však nikdo neuměl takto postiženému dítěti pomoci. Dítě našlapovalo na zdeformovanou nohu, nikoli na celé chodidlo. Tím došlo k tvorbě [rozsáhlého mozolu][3], který další chůzí stále narůstal. Pata se na postižené noze zcela ztratila a místo styku s podložkou se přeměnilo v jeden obrovský mozol. Taková neléčená deformita je podobná více koňskému kopytu než lidské noze.
 
 {id="certuv\_hruzny\_zjev\_nevus\_ci\_hemangiom\_v_obliceji"}
 
@@ -57,9 +57,7 @@ V obličeji se může vyskytnout [rozsáhlý névus][1], nejčastěji pigmentov�
 
 n/a
 
-Vady řeči se vyskytují velmi často. Koktajícím lidem se někdy podaří jejich vadu obelstít např. opakováním nějakého slova či jeho části. A tak zjevně vzniklo i čertovo blekotání, neboť lidé s takovou vadou řeči působili podivně.
-
-Nutno dodat, že v dnešní době někteří řečníci považují vadu řeči za jakýsi image jako by vůbec netoužili naučit se správnou výslovnost.
+Vady řeči se vyskytují velmi často. Koktajícím lidem se někdy podaří jejich vadu obelstít např. opakováním nějakého slova či jeho části. A tak zjevně vzniklo i čertovo blekotání. Lidé s takovou vadou řeči působí většinou směšně, dříve působili jistě mnohdy i strašidelně.
 
 {id="socialni\_postaveni\_certa"}
 
@@ -89,6 +87,14 @@ n/a
   4. Proč byl čert špinavý a zanedbaný?
   5. Jaké vyhledával čert obydlí?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -101,7 +107,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

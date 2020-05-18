@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/vykoubene_rameno/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859955397470156" data-type="article" data-image="/files/preview/koutek/vykoubene_rameno/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vykoubene\_rameno" short="Vykloubené rameno" ctime="2013-05-12" mtime="2013-05-12"}
+{ctime="2013-05-12" mtime="2013-05-12" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vykoubene\_rameno" short="Vykloubené rameno"}
 
 # Šetrná léčba vykloubeného ramene
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="úrazy, bolest, pohyb, nemoc"}
+{kw="rameno, kloub, úrazy, první pomoc, pohyb, strach"}
 
 Vykloubení ramene (luxace ramene) je velmi bolestivý a právem obávaný úraz. Napravení se provádí vždy citlivě, bez násilí, bez trhání nebo škubání. Často je nezbytné celkové znecitlivění.
 
@@ -45,7 +45,7 @@ Napravení vykloubeného ramene _(repozice, laicky nahození ramene)_ probíhá 
 
 {class="example"}
 
-Pacient s vykloubeným ramenem bývá vyděšený a stresovaný – prudkou bolestí a k tomu **strachem z léčebného výkonu**. Z akčních filmů totiž zná napravování „trháním paží souběžně s řevem či zakousnutím se do roubíku“. Takové napravení vykloubeného ramene je však ve skutečnosti zcela nemožné. Naopak je dokonce nebezpečné, protože může dojít k dalšímu poškození okolních struktur (např. cév).
+Pacient s vykloubeným ramenem bývá vyděšený a stresovaný – prudkou bolestí a k tomu **strachem z léčebného výkonu**. Z akčních filmů totiž zná napravování „trháním paží souběžně s řevem či zakousnutím se do roubíku“. Takové napravení vykloubeného ramene je však ve skutečnosti zcela nemožné. Naopak je dokonce nebezpečné, protože by mohlo dojít k dalšímu poškození okolních struktur (např. cév).
 
 Když pacient nedokáže rameno uvolnit, musí nastoupit celkové znecitlivění (se svými riziky). Po uspání pacienta dojde k uvolnění svalů a hlavice pažní kosti velmi snadno vklouzne zpět do kloubní jamky. Celkové znecitlivění je také nutné, pokud se jedná o jinou než _přední luxaci_. V takových případech totiž napravení bývá komplikovanější.
 
@@ -76,6 +76,14 @@ n/a
   3. Na čem závisí úspěšné napravení vykloubeného ramene bez celkového znecitlivění?
   4. Proč bývá nutné opakovanou luxaci ramene operovat?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -88,7 +96,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

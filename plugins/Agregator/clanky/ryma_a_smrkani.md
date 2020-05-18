@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/ryma\_a\_smrkani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859940654138297" data-type="article" data-image="/files/preview/koutek/ryma\_a\_smrkani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ryma\_a_smrkani" short="Rýma a smrkání" ctime="2008-11-28" mtime="2008-11-28"}
+{ctime="2008-11-28" mtime="2008-11-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ryma\_a_smrkani" short="Rýma a smrkání"}
 
 # Rýma a smrkání, komplikace rýmy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="ušní-nosní-krční, ošetření, zánět, mikroorganizmy, nemoc, dětské, poranění"}
+{kw="ušní-nosní-krční, zánět, mikroorganizmy, dětské, poranění"}
 
 Nekomplikovaná rýma bývá banální onemocnění. Podmínkou však je smrkání (či odsávání zahleněného nosu kojencům zvláštním nástrojem).
 
@@ -60,6 +60,14 @@ n/a
   3. Jaká je nejčastější komplikace rýmy?
   4. Co je senná rýma a jak proti ní bojovat?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -72,7 +80,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

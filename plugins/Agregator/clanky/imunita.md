@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/imunita/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859875754144787" data-type="article" data-image="/files/preview/koutek/imunita/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita" ctime="2008-06-01" mtime="2008-06-01"}
+{ctime="2008-06-01" mtime="2008-06-01" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita"}
 
 # Imunita: obranyschopnost organizmu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="zdravý životní styl, prevence, mikroorganizmy, antibiotika, dětské, nemoc, zánět"}
+{kw="zdravý životní styl, prevence, alergie, mikroorganizmy, antibiotika, dětské, zánět"}
 
 Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imunita mění, lze ji podpořit zdravým způsobem života nebo naopak oslabit nadměrným užíváním léků.
 
@@ -15,7 +15,7 @@ Stupně nastavení imunitního systému
 
   1. **Správně fungující imunitní systém** dokáže rozpoznat a označit drobného cizího nepřítele v lidském těle (nejčastěji [viry nebo bakterie][1]). Vetřelec je po označení rychle zlikvidován speciálními bílými krvinkami.
   2. Snížená imunita vede k tomu, že nepřítel není rozpoznán a bílé krvinky ho ignorují. Nepoznané cizí bakterie se snadno pomnoží a vzniká **zánětlivé onemocnění**, které je nutno léčit antibiotiky.
-  3. Nadměrná imunitní aktivita naopak může označovat za nepřítele i takové látky v těle, které ve skutečnosti nepřítelem nejsou (např. pylová zrnka, prach, částečky kovu nebo různé léky). Pak se jedná o **alergii** na tu kterou látku, dnes již bohužel často i o alergie smíšené.
+  3. Nadměrná imunitní aktivita naopak může označovat za nepřítele i takové látky v těle, které ve skutečnosti nepřítelem nejsou (např. pylová zrnka, prach, částečky kovu nebo různé léky). Pak se jedná o **alergii** na tu kterou látku, dnes již bohužel často i o [alergie][2] smíšené.
   4. Může dokonce být imunitním systémem označena za nepřítele i některá tělu vlastní bílkovina a proti ní se tvoří protilátky. Pak se jedná o závažné tzv. **autoimunní onemocnění.**
 
 {id="co\_delat\_pro\_spravne\_fungujici\_imunitni\_system"}
@@ -24,9 +24,9 @@ Stupně nastavení imunitního systému
 
 n/a
 
-Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedinec, který má řádně vyvinutý imunitní (obranný) systém, je tedy odolný vůči [nakažlivým nemocem][2] i vůči [prochlazení][3], vyroste tehdy,
+Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedinec, který má řádně vyvinutý imunitní (obranný) systém, je tedy odolný vůči [nakažlivým nemocem][3] i vůči [prochlazení][4], vyroste tehdy,
 
-  * narodí-li se přirozenou cestou (blízkost porodních cest a konečníku je již při porodu prvním setkáním [s dávkou bakterií][2]),
+  * narodí-li se přirozenou cestou (blízkost porodních cest a konečníku je již při porodu prvním setkáním [s dávkou bakterií][3]),
   * je-li kojen, dostává další obranné látky od matky spolu s mateřským mlékem,
   * k obranným látkám, kterými byl vybaven již při porodu a vydrží mu asi 6 týdnů si záhy začíná vytvářet svoje vlastní,
   * následně si batole strká do pusy vše co vidí, mnohdy i věci nám zcela nepochopitelné, jde o pudové chování, smyslem je časně si zmapovat okolní bakterie a záhy tvořit imunitu,
@@ -61,6 +61,14 @@ n/a
   3. Čím mohou antibiotika snižovat imunitu?
   4. Proč nelze na stejnou chorobu dávat opakovaně stejná antibiotika?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -73,11 +81,12 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
  [1]: antibiotika
- [2]: mikroorganizmy
- [3]: teplota
+ [2]: projevy_alergie
+ [3]: mikroorganizmy
+ [4]: teplota
 

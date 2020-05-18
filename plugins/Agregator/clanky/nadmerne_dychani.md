@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/nadmerne_dychani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859905524141810" data-type="article" data-image="/files/preview/koutek/nadmerne_dychani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nadmerne\_dychani" short="Nadměrné dýchání" ctime="2012-02-05" mtime="2012-02-05"}
+{ctime="2012-02-05" mtime="2012-02-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nadmerne\_dychani" short="Nadměrné dýchání"}
 
 # Nadměrné dýchání – předýchávání
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="poruchy vědomí, první pomoc, srdce, orgány, zvracení, žaludek, bolest"}
+{kw="dýchání, strach, poruchy vědomí, první pomoc, srdce, nevolnost, kolaps, zvracení"}
 
 Nadměrným dýcháním mohou vzniknout zdravotní potíže, porucha vědomí, bezvědomí a následně i závažná porucha zdraví. První pomocí při chorobném předýchávání je uklidnění pacienta nebo dýchání do sáčku.
 
@@ -17,7 +17,7 @@ Nadměrné dýchání způsobuje nežádoucí stav organizmu s různými projevy
 
 {class="example"}
 
-Někdy bývá potřeba šetřit dechem. Například potápěč během ponoru dýchá velmi pomalu a zhluboka, aby co nejdéle vydržel pod vodou se zásobou vzduchu. Jindy je třeba se naopak rozcvičit a hodně prodýchat, například před krátkodobým náročným sportovním výkonem. Takto změněné dýchání není ničím nebezpečné, sportovec přesně ví, co a proč dělá.
+Někdy bývá potřeba šetřit dechem. Například potápěč během ponoru dýchá velmi pomalu a zhluboka, aby co nejdéle vydržel pod vodou s omezenou zásobou vzduchu. Jindy je třeba se naopak rozcvičit a hodně prodýchat, například před krátkodobým náročným sportovním výkonem. Takto změněné dýchání není ničím nebezpečné, sportovec přesně ví, co a proč dělá.
 
 {id="chorobne\_nadmerne\_dychani_hyperventilace"}
 
@@ -39,7 +39,7 @@ Předýchávání mívá nejčastěji následující projevy (nemusejí se vysky
 Na tyto projevy pak mohou navázat:
 
   * mžitky až zatmění před očima,
-  * **samotná porucha vědomí** (změněný stav vědomí),
+  * **samotná porucha vědomí** (změněný stav vědomí), 
       1. Příjemně vnímaná; např. představa letu nad krajinou (jako plachtící dravec).
       2. Nepříjemně vnímaná; např. představa topení se ve špinavé vodě.
   * bezvědomí, ve kterém může dojít k závažné poruše zdraví nebo k úrazu při pádu.
@@ -68,7 +68,7 @@ Rodina často nedokáže takto nemocného člověka zklidnit a volá záchranku.
 
 n/a
 
-Určitá forma neurózy, která má charakter panické poruchy, se nazývá _neurocirkulační astenie_ (NCA). Projevuje se občasnými potížemi vnímanými v oblasti srdce a krevního oběhu. Tyto **potíže jsou způsobeny rozrušením, nikoli onemocněním srdce** (jako [angina pectoris nebo infarkt][2]). Podmínkou k určení této diagnózy je vyloučení skutečného onemocnění srdce.
+Určitá forma neurózy, která má charakter panické poruchy, se nazývá _neurocirkulační astenie_ (NCA). Projevuje se občasnými srdečními a oběhovými potížemi. Tyto **potíže jsou způsobeny rozrušením, nikoli onemocněním srdce** (jako [angina pectoris nebo infarkt][2]). Podmínkou k určení této diagnózy je vyloučení skutečného onemocnění srdce.
 
 Jedná se o poruchu, která má kromě „srdečních“ příznaků i některé jiné neurotické příznaky. Projevuje se bodavými bolestmi nebo tlakem na hrudi, netypickým pocitem nedostatku vzduchu (dušností) a pocitem bušení srdce. Popsané potíže jsou vázány na rozrušení a mohou plynule přecházet v nadměrné dýchání s výše popsanými projevy.
 
@@ -107,6 +107,14 @@ n/a
   5. Proč člověk sám nabude vědomí po jeho ztrátě způsobené předýcháním?
   6. Co je holotropní dýchání a co léčebného přináší?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -119,7 +127,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

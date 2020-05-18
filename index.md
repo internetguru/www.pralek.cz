@@ -1,5 +1,5 @@
 
-{data-og-image="/files/preview/koutek/main.jpg" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-image="/files/preview/koutek/main.jpg" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" authorid="autor" id="pralek" ctime="2007-03-29" short="Pralék: Praktické lékařství" title="Pralék: Praktické lékařství"}
 
@@ -9,12 +9,52 @@
 
 Tento web obsahuje články o praktickém lékařství s cílem zvýšit schopnost odborné i laické veřejnosti řešit zdravotní problémy. Autor zejména poukazuje na podceňování nebo ignorování příznaků, přecházení nemoci a na všelijaké pověry.
 
-{class="figure author" id="jaroslav_pavelka"}
+{data-visibility="/o\_praleku" id="o\_praleku"}
 
-![MUDr. Jaroslav Pavelka][1] {class="img"}
-:   **MUDr. Jaroslav Pavelka** (*1952)  
-    Ambulantní chirurg s 40letou praxí
-:   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař RLP.
+## O praléku
+
+{data-visibility="/o_praleku"}
+
+Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče, které pomáhají široké veřejnosti i odborným pracovníkům. Cílem autora je nestranně a srozumitelně vzdělat čtenáře v oblasti prevence a péče o zdraví a informovat o běžných zdravotních problémech.
+
+{class="image-group author card" id="jaroslav\_pavelka" data-image-group-url="/files/thumbs/jaroslav\_pavelka.jpg"}
+
+MUDr. Jaroslav Pavelka (<span class="far fa-xs fa-asterisk">i</span> 1952) {class="card__heading"}
+:   Ambulantní chirurg s 40letou praxí
+:   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař [rychlé lékařské pomoci][1].
+
+:   {class="button-list"}
+    
+      * [Jak podpořit Pralék {class="definition-skip button button--border"}][2]
+      * [Staňte se patronem {class="button button--border"}][3] {class="donation"}
+      * [<span class="fab fa-facebook-square">i</span> Sledujte nás {title="Sledovat Pralék na Facebooku" class="button button--border button--img button--img-inline"}][4] {class="facebook"} {data-visibility="/" class="contentbalancer--simple"}
+
+{id="sponzoring"}
+
+### Sponzoring webu
+
+Práce s obsahem přináší nemalé náklady. Vytvoření kvalitního textu, který je dobře čitelný pro širokou veřejnost, vyžaduje revizní proces a profesionální podporu. Organizace článků, jejich aktualizace a udržování vzájemných vztahů mezi články je nekončící proces.
+
+{class="important"}
+
+Hlavním cílem finanční podpory je udržení, správa a rozvoj obsahu se zachováním nekomerční podstaty webu – **nestranný obsah bez reklam**. Jakýmkoli finančním příspěvkem podpoříte tento cíl naplnit.
+
+Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah a pomáhat tak čím dál tím více lidem. S rostoucí částkou bude možné Pralék dále rozšiřovat, což mohou sponzoři přímo či nepřímo ovlivnit:
+
+  * pokročilý sběr zpětné vazby čtenářů,
+  * off-line procházení webu (bez připojení k internetu),
+  * mobilní aplikace,
+  * tisk papírových brožur (sady článků na míru),
+  * moderovaný Facebook s aktivní diskuzí ke článkům,
+  * generované sady otázek na zvolené téma,
+  * interaktivní testy (abc) s automatickým vyhodnocením,
+  * překlady, lokalizace a zpřístupnění obsahu ve více jazycích.
+
+Pro účely dotací jsme zvolili službu [Patreon][3]. Služba je napůl anglicky a podporuje platby přes [PayPal][5] a platební karty. Pokud chcete web sponzorovat jiným způsobem nebo za jiných podmínek, [ozvěte se autorovi na e-mail][6].
+
+{class="button-list"}
+
+  * [Staňte se patronem {class="button"}][3] {class="donation"}
 
 {short="Odběr novinek" id="upozorneni"}
 
@@ -22,7 +62,11 @@ Tento web obsahuje články o praktickém lékařství s cílem zvýšit schopno
 
 {kw="upozornění, novinky, odběr"}
 
-<label>Přihlaste se {for="newsletter-email"}</label> k odběru krátkých upozornění na nově vyšlé články! Maximálně dvakrát za měsíc obdržíte zprávu s informacemi o novém článku.
+<label>Přihlaste se {for="EMAIL"}</label> k odběru krátkých upozornění na nově vyšlé články! Maximálně dvakrát za měsíc obdržíte zprávu s informacemi o novém článku.
+
+<!--
+    
+-->
 
 {id="ukazka"}
 
@@ -31,18 +75,20 @@ Tento web obsahuje články o praktickém lékařství s cílem zvýšit schopno
 n/a
 
     Předmět: Nový článek z praktického lékařství
-    Odesílatel: "PraLék.cz"<alert@pralek.cz>
+    Od: "no-reply"<no-reply@pralek.cz> via mailchimpapp.net
     
-    Článek Jaroslava Pavelky z 2. října 2008 je nyní dostupný na:
-       http://www.pralek.cz/teplota/
+    Nový článek Jaroslava Pavelky z 2. října 2008
+       www.pralek.cz/teplota?usp=news
     
     Normální tělesná teplota, podchlazení, horečka
-    Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá
-    nebo klesá vlivem zevního prostředí a stoupá při některých
-    onemocněních.
-     
-    Pro odhlášení z odebírání upozornění klikněte na následující odkaz:
-       http://alert.pralek.cz/2QuTamc2hBM87dwa {class="nohighlight"}
+    Tělesná teplota se mění podle fyzické aktivity organizmu.
+    Stoupá nebo klesá livem zevního prostředí a stoupá při
+    některých onemocněních.
+    
+    --
+    Pro odhlášení z odběru novinek klikněte na následující odkaz:
+       https://pralek.us4.list-manage.com/unsubscribe?
+    u=9d8689096f9734cbd6ab6d381&id=0ea09e9dfb {class="nohighlight"}
 
 {id="soukromi" short="Ochrana soukromí"}
 
@@ -121,10 +167,10 @@ n/a
 
 n/a
 
-  1. Jsou-li v bodě [Účel][2] mezi osobními údaji uvedeny soubory cookie, platí pro jejich zpracování následující pravidla.
+  1. Jsou-li v bodě [Účel][7] mezi osobními údaji uvedeny soubory cookie, platí pro jejich zpracování následující pravidla.
       * Pravidla pro používání nebo zablokování cookies si může každý uživatel nastavit ve svém internetovém prohlížeči, čímž dává najevo svůj souhlas s jejich zpracováním.
       * Uživatel si může nastavit povolení nebo odmítnutí veškerých nebo pouze některých souborů cookies (např. cookies třetích stran). Zablokování souborů cookies může mít negativní vliv na použitelnost webové stránky a služby.
-      * Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti [Google {title="Zásady ochrany osobních údajů Google"}][3] ([informace o cookies {title="Jak Google využívá soubory cookie"}][4]).
+      * Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti [Google {title="Zásady ochrany osobních údajů Google"}][8] ([informace o cookies {title="Jak Google využívá soubory cookie"}][9]).
   2. Vznesete-li námitku proti zpracování technických cookies nezbytných pro fungování webových stránek, nelze v takovém případě zaručit plnou funkčnost a kompatibilitu webových stránek.
 
 {id="prijemci" short="Příjemci"}
@@ -181,12 +227,17 @@ n/a
 
   * n/a
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
- [1]: /files/thumbs/jaroslav_pavelka.jpg "MUDr. Jaroslav Pavelka"
- [2]: #ucel
- [3]: https://policies.google.com/privacy?hl=cs
- [4]: https://policies.google.com/technologies/cookies?hl=cs
+ [1]: rychla_lekarska_pomoc
+ [2]: #sponzoring
+ [3]: https://www.patreon.com/pralek
+ [4]: https://www.facebook.com/pralek
+ [5]: https://www.paypal.com
+ [6]: mailto:mudr.pavelka@pralek.cz
+ [7]: #ucel
+ [8]: https://policies.google.com/privacy?hl=cs
+ [9]: https://policies.google.com/technologies/cookies?hl=cs
 

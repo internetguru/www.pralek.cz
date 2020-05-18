@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/vhodna_obuv/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859954680803561" data-type="article" data-image="/files/preview/koutek/vhodna_obuv/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vhodna\_obuv" short="Vhodná obuv" ctime="2011-11-28" mtime="2011-11-28"}
+{ctime="2011-11-28" mtime="2011-11-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vhodna\_obuv" short="Vhodná obuv"}
 
 # Vhodná a nevhodná obuv
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="dětské, pohyb, prevence, zdravý životní styl, strava-zažívání, nemoc, bolest"}
+{kw="pohyb, prevence, zdravý životní styl, úrazy, dětské"}
 
 Vhodná obuv je taková, která je adekvátní danému sportu nebo jiné aktivitě. Sportování, chůze nebo běhání musí být příjemné, bota nesmí být volná ani nikde tlačit. Materiál, ze kterého je obuv vyrobena, nesmí alergizovat.
 
@@ -67,6 +67,14 @@ n/a
   4. Proč je důležitá chůze bosýma nohama hlavně pro děti začínající chodit?
   5. Jaká obuv je vhodná pro sportující děti?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -79,7 +87,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

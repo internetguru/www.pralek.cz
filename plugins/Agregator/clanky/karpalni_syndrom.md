@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/karpalni_syndrom/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859877067477989" data-type="article" data-image="/files/preview/koutek/karpalni_syndrom/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="karpalni\_syndrom" short="Karpální syndrom" ctime="2011-01-17" mtime="2011-01-17"}
+{ctime="2011-01-17" mtime="2011-01-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="karpalni\_syndrom" short="Karpální syndrom"}
 
 # Noční brnění prstů ruky: karpální syndrom
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="mozek-nervy, bolest, nemoc, pohyb, zánět, nádory"}
+{kw="mozek-nervy, pohyb, zánět, nádory, nezhoubné"}
 
 Syndrom karpálního tunelu se projevuje brněním, trnutím až bolestí 2. až 4. prstu ruky. Potíže narůstají hlavně v noci. Rozhýbání prstů pomůže pouze krátkodobě. Trvalým řešením obtěžujících potíží je operační uvolnění utlačovaného nervu.
 
@@ -32,13 +32,13 @@ n/a
 
 Brnění prstů může mít různé příčiny, jednou z nich může být např. syndrom karpálního tunelu. Při krátkodobém útlaku nervu lze většinou brnění rozcvičit. Dlouhodobý útlak většinou vyžaduje chirurgické řešení.
 
-  * Příčiny krátkodobého útlaku nervu:
+  * Příčiny krátkodobého útlaku nervu: 
       * přeležení končetiny nebo otlačení končetiny v nepřirozené poloze,
       * nesprávně přiložená sádrová fixace  
-        _(pak je nutné neprodleně reklamovat fixaci na příslušném pracovišti)_,
+        _(pak je nutné neprodleně reklamovat fixaci na příslušném pracovišti)_, 
       * uhození do „brňavky“  
-        _(brňavka je místo v lokti, kde vřetenní nerv prochází žlábkem v kosti těsně pod kůží a je tedy zranitelný)_.
-  * Dlouhodobý útlak nervu bývá způsoben:
+        _(brňavka je místo v lokti, kde vřetenní nerv prochází žlábkem v kosti těsně pod kůží a je tedy zranitelný)_. 
+  * Dlouhodobý útlak nervu bývá způsoben: 
       * nejčastěji příliš těsným tunelem v zápěstí _(karpální syndrom)_,
       * méně často tlakem svalových úponů na krku _(skalenový syndrom)_,
       * nebo [tlakem nezhoubného nádoru][3],
@@ -72,6 +72,14 @@ n/a
   4. Jaké mohou být příčiny brnění prstů ruky?
   5. Který lékař řeší potíže s karpálním tunelem?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -84,7 +92,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/pichnuti_injekce/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859927637472932" data-type="article" data-image="/files/preview/koutek/pichnuti_injekce/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pichnuti\_injekce" ctime="2016-04-11" mtime="2016-04-11" short="Píchnutí injekce"}
+{ctime="2016-04-11" mtime="2016-04-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pichnuti\_injekce" short="Píchnutí injekce"}
 
 # Píchnutí injekce svépomocí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="první pomoc, ošetření, cévy, poranění"}
+{kw="první pomoc, nevolnost, kůže-podkoží, hygiena, cévy, poranění, boulička"}
 
 Píchnutí injekce (aplikace léku v injekční formě) svépomocí nebo vzájemnou pomocí do podkoží nebo do svalu je jednoduché a bezbolestné. Součástí přípravy je dodržení hygienických pravidel a volba vhodného místa vpichu.
 
@@ -46,9 +46,9 @@ Před píchnutím injekce má být pacient zklidněný a vyrovnaný. Samotné [p
 
   1. dezinfikovat kůži v místě vpichu a přebytečnou dezinfekci otřít tamponem,
   2. sejmout ochranný kryt z jehly a píchnout injekci,
-  3. **nabrat nejprve trochu tekutiny do injekce** natažením pístu zpět _(aspirovat)_ a 
+  3. **pokusit se nabrat nejprve trochu tekutiny do injekce** natažením pístu zpět _(aspirovat)_ a 
       1. pokud se v injekci objeví krev, je vhodné opakovat vpich kousek vedle,
-      2. jinak lze lék podat stlačením pístu injekční stříkačky,
+      2. pokud se v injekci krev neobjeví, lze lék podat stlačením pístu injekční stříkačky,
   4. vytáhnout jehlu,
   5. na místo vpichu přiložit tampon a přitlačit ho na chvíli k zamezení krvácení.
 
@@ -75,6 +75,14 @@ n/a
   3. Jaké musí být místo zvolené k píchnutí injekce?
   4. Co dělat, pokud se po aspiraci v injekční stříkačce objeví krev?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -87,7 +95,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

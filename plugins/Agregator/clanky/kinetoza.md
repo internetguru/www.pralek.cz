@@ -1,17 +1,17 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/kinetoza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859879230811106" data-type="article" data-image="/files/preview/koutek/kinetoza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Kinetóza" id="kinetoza" ctime="2015-07-13" mtime="2015-07-13"}
+{ctime="2015-07-13" mtime="2015-07-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Kinetóza" id="kinetoza"}
 
 # Nevolnost a zvracení v dopravních prostředcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="prevence, ošetření, mozek-nervy, strava-zažívání, žaludek, zánět, břicho, poranění"}
+{kw="nevolnost, pocení, pohyb, prevence, zvracení, mozek-nervy, žaludek, břicho"}
 
 Pocit nevolnosti může být vyvolán nejrůznějšími druhy pohybu. Tomu lze mnohdy snadno předejít. Někdy však mohou být tytéž stavy projevem onemocnění.
 
-Nevolnost vzniklá v dopravním prostředku se laicky nazývá nemoc z pohybu, cestovní nemoc, mořská nemoc nebo odborně _kinetóza_. Nejedná se o nemoc, ale o velmi **nepříjemný stav způsobený nesouladem informací z rovnovážného ústrojí se zrakovými vjemy** – tedy s vnímaným pohybem.
+Nevolnost vzniklá v dopravním prostředku se laicky nazývá nemoc z pohybu, cestovní nemoc, mořská nemoc nebo odborně _kinetóza_. Nejedná se o nemoc, ale o velmi **nepříjemný stav způsobený nesouladem informací z rovnovážného ústrojí se zrakovými vjemy** – tedy s nesprávně vnímaným pohybem.
 
 Nejčastější projevy kinetózy jsou pocit na zvracení, studený pot, slabost, bledost, závrať, bolest hlavy, celkový pocit těžkosti, pokles krevního tlaku, slinění, říhání, zvracení. Projevy mohou mezi sebou vzájemně přecházet, mohou se různě kombinovat nebo se vyskytovat jednotlivě.
 
@@ -41,7 +41,8 @@ Vzniku kinetózy je možné předcházet **sledováním pohybu a vyhýbáním se
   * zastávkami s procházkou či proběhnutím,
   * psychickou podporou (u dětí s ujištěním, že dnes bude cesta jistě příjemná),
   * udržováním příjemných podmínek (čerstvý vzduch a příjemná teplota),
-  * příjmem malého množství chutného jídla a dostatkem oblíbených tekutin.
+  * příjmem malého množství chutného jídla a dostatkem oblíbených tekutin,
+  * zákazem hrát za jízdy videohry nebo si číst.
 
 {id="komplikace_kinetozy"}
 
@@ -70,6 +71,14 @@ n/a
   4. Jaké jsou možnosti prevence vzniku kinetózy?
   5. Co odlišuje kinetózu od onemocnění se stejnými příznaky?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -82,7 +91,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

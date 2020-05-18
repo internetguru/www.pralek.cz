@@ -1,13 +1,13 @@
 
-{data-top="5" data-og-type="article" data-og-image="/files/preview/koutek/poraneni_nehtu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859932350805794" data-top="5" data-type="article" data-image="/files/preview/koutek/poraneni_nehtu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu" ctime="2011-11-30" mtime="2011-11-30"}
+{ctime="2011-11-30" mtime="2011-11-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu"}
 
 # Poranění nehtu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="úrazy, bolest, krvácení, zánět, pohyb"}
+{kw="nehet, úrazy, strach, krvácení, zánět, zlomeniny"}
 
 Úrazy nehtů bývají pro domnělou malichernost podceňované a ze strachu z bolestivosti ošetření zanedbávané. Neošetřená poranění nehtů však vedou ke zbytečným doživotním deformitám.
 
@@ -36,7 +36,7 @@ S třískou se pod nehet dostávají [mikroorganizmy][3]. Možnosti dalšího v�
 
 Pacient je ohrožen rozvojem tetanu a v souvislosti s [vývojem zánětu][5] trpí bolestí. [Vyhledání lékařského ošetření][6] je nejvhodnější následující pracovní den dopoledne. V případě trvající bolesti ihned.
 
-Lékař prst znecitliví (místním umrtvením) a tělísko odstraní – většinou je třeba snést nehet (laicky strhnout nehet). **Snesení nehtu po znecitlivění prstu nebolí.** Pak je nehtové lůžko ošetřeno a pacient je přeočkován (nebo je mu zkontrolováno očkování) proti tetanu. Po odborném odstranění nehtu **vyroste nový plnohodnotný (nezdeformovaný) nehet**.
+Lékař prst znecitliví (místním umrtvením) a tělísko odstraní – většinou je třeba snést nehet (laicky strhnout nehet). **Snesení nehtu po znecitlivění prstu nebolí.** Pak je nehtové lůžko ošetřeno a pacientovi je zkontrolováno a případně doplněno očkování proti tetanu. Po odborném odstranění nehtu **vyroste nový plnohodnotný (nezdeformovaný) nehet**.
 
 {class="example"}
 
@@ -64,7 +64,7 @@ Běžné uhození do nehtu (nejčastěji kladivem) je prosté odloučení nehtu 
 
 Od bolesti částečně uleví zvednutí poraněné končetiny do výšky nad úroveň těla a ledování. Sníží se tím tlak a prokrvení bolestivého místa. Bolest však může narůstat v souvislosti s eventuálním rozvojem zánětu.
 
-Pro urychlení léčení a odstranění bolesti lékař zcela bezbolestně provrtá nehtem drobný otvor _(fenestrace nehtu)_. Otvorem vyteče nahromaděná krev a potíže ihned ustoupí. Zánět se nerozvine. Po vyprázdnění nebo vstřebání krve nehet odpadne nebo postupně odroste a vyroste nový.
+Pro urychlení léčení a odstranění bolesti lékař zcela bezbolestně provrtá nehtem drobný otvor _(fenestrace nehtu)_. Otvorem vyteče pod tlakem nahromaděná krev a potíže ihned ustoupí. Zánět se nerozvine. Po vyprázdnění nebo vstřebání krve nehet odpadne nebo postupně odroste a vyroste nový.
 
 {id="uhozeni\_do\_nehtu\_s\_poranenim\_nehtoveho\_luzka"}
 
@@ -93,6 +93,14 @@ n/a
   3. Jak se projevuje krevní výron pod nehtem?
   4. O čem svědčí krvácení zpod nehtu spojené s odtržením části nehtu?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -105,7 +113,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

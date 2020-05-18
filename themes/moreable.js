@@ -7,6 +7,7 @@
     Config.displayMin = 3
     Config.moreText = "Show more"
     Config.leftText = "%s left"
+    Config.countedChildrenSelector = "*"
 
     function Moreable() {
 
@@ -14,43 +15,61 @@
         parent,
         wrapper,
         left,
+        countedHiddenLength,
         hiddenItems = [],
         showMore = function (event) {
           var displayCount = Config.displayStep
-          if (hiddenItems.length - Config.displayStep - Config.displayMin < 0) {
+          if (countedHiddenLength - Config.displayStep - Config.displayMin < 0) {
             displayCount = hiddenItems.length
           }
-          for (var i = 0; i < displayCount; i++) {
+          var showed = 0
+          while (showed != displayCount && hiddenItems.length != 0) {
             var item = hiddenItems.shift()
-            item.style.display = ""
-            item.classList.add("moreable-shown")
+            item.elm.style.display = ""
+            item.elm.classList.add("moreable-shown")
+            if (item.counted) {
+              showed++
+              countedHiddenLength--
+            }
           }
-          left.innerHTML = " (" + Config.leftText.replace("%s", hiddenItems.length) + ")"
           if (hiddenItems.length === 0) {
             wrapper.parentNode.removeChild(wrapper)
+            return
           }
+          left.innerHTML = " (" + Config.leftText.replace("%s", countedHiddenLength) + ")"
         },
         initStructure = function () {
-          if (parent.children.length - Config.displayStep - Config.displayMin < 0) {
-            return;
-          }
+          // hide all
+          countedHiddenLength = 0
           for (var i = 0; i < parent.children.length; i++) {
-            if (i < Config.displayStep) {
-              continue;
-            }
             parent.children[i].style.display = "none"
-            hiddenItems.push(parent.children[i])
+            var counted = parent.children[i].matches(Config.countedChildrenSelector)
+            if (counted) {
+              countedHiddenLength++
+            }
+            hiddenItems.push({
+              elm: parent.children[i],
+              counted: counted
+            })
           }
           wrapper = document.createElement("div")
-          wrapper.className = "moreable-linkwrapper eventable"
-          var moreLink = document.createElement("a")
+          wrapper.className = "moreable-linkwrapper"
+          var moreLink = document.createElement("button")
           moreLink.textContent = Config.moreText
           moreLink.addEventListener("click", showMore, false)
+          moreLink.className = "eventable button button--border"
+          moreLink.setAttribute('data-eventable-action', 'moreable')
+          moreLink.setAttribute('data-eventable-label', Config.moreText)
+          try {
+            require("IGCMS.Eventable", function () {
+              IGCMS.Eventable.register(moreLink)
+            })
+          } catch(exception) {}
           left = document.createElement("span")
-          left.innerHTML = " (" + Config.leftText.replace("%s", hiddenItems.length) + ")"
           moreLink.appendChild(left)
           wrapper.appendChild(moreLink)
           parent.appendChild(wrapper)
+          showMore()
         }
 
       return {

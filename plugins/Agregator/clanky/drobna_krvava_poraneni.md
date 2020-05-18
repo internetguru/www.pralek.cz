@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/drobna\_krvava\_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859871800811849" data-type="article" data-image="/files/preview/koutek/drobna\_krvava\_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="drobna\_krvava_poraneni" short="Drobná poranění" ctime="2008-01-22" mtime="2015-11-09"}
+{ctime="2008-01-22" mtime="2015-11-09" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="drobna\_krvava_poraneni" short="Drobná poranění"}
 
 # Drobná krvavá poranění
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="kůže-podkoží, úrazy, poranění, krvácení, ošetření, bolest, první pomoc, mikroorganizmy, zánět, nemoc, pohyb"}
+{kw="kůže-podkoží, úrazy, poranění, krvácení, první pomoc, mikroorganizmy, zánět, pohyb"}
 
 Správné ošetření drobného poranění zkracuje dobu léčení, šetří bolest a pomáhá předcházet zánětlivým komplikacím. Rána by měla být ošetřena do 6 hodin od úrazu.
 
@@ -33,7 +33,7 @@ O nutnosti vyhledání lékařského ošetření rozhoduje především velikost
 
 {class="example"}
 
-Ostrý předmět (střep, hrot nože) může i při [drobném poranění kůže][5] přerušit například šlachu nebo nerv a tím způsobit omezení hybnosti prstu. To platí pro zranění prstu, zápětstí nebo předloktí či celé ruky.
+Ostrý předmět (střep, hrot nože) může i při [drobném poranění kůže][5] přerušit například šlachu nebo nerv a tím způsobit omezení hybnosti prstu. To platí pro zranění celé končetiny, tedy prstu, ruky, zápětstí, předloktí, lokte nebo paže.
 
 Ošetřenou končetinu je dobré položit na břicho volně pokrčenou v lokti – nejlépe uloženou v šátku nebo ji přidržovat zdravou rukou. Obecně platí, že **čím více klidu má rána na hojení, tím lépe bude vypadat jizva**.
 
@@ -47,7 +47,7 @@ Pokud se zraněný rozhodne vyhledat lékařské ošetření, má ránu vyplách
 
 n/a
 
-Rána má být **ošetřena [do 6 hodin od úrazu][6]**. Je častou chybou, že pacient přijde k lékařskému ošetření po delším čase – druhý nebo nejčastěji dokonce třetí den po úrazu. Tehdy již přichází kvůli narůstající bolesti („škubání v ráně“) nebo i teplotě, což jsou [známky zánětu][7].
+Rána má být **ošetřena [do 6 hodin od úrazu][6]** . Je častou chybou, že pacient přijde k lékařskému ošetření po delším čase – druhý nebo nejčastěji dokonce třetí den po úrazu. Tehdy již přichází kvůli narůstající bolesti („škubání v ráně“) nebo i teplotě, což jsou [známky zánětu][7]. 
 
 Druhým extrémem je zbrklá a příliš rychlá jízda autem na pohotovost. Takto dopravený pacient má velmi často ránu nezakrytou a stále krvácející s tím, že „doma neměl čím ránu zavázat“. Často se zapomíná na to, že **výbavou každého auta je lékárnička**, kterou lze použít i mimo dopravní nehody :-)
 
@@ -67,6 +67,14 @@ n/a
   4. Kdy může být drobná ranka v kůži závažným úrazem?
   5. Proč je třeba ránu při první pomoci zakrýt sterilním obvazem?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -79,7 +87,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

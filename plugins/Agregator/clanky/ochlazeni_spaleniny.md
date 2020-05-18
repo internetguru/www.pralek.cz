@@ -1,17 +1,17 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/ochlazeni_spaleniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859914044140958" data-type="article" data-image="/files/preview/koutek/ochlazeni_spaleniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ochlazeni\_spaleniny" short="Ochlazení spáleniny" ctime="2007-10-21" mtime="2015-08-04"}
+{ctime="2007-10-21" mtime="2015-08-04" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ochlazeni\_spaleniny" short="Ochlazení spáleniny"}
 
 # Ochlazení jako první pomoc při spálenině
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="poranění, první pomoc, úrazy, ošetření, kůže-podkoží, bolest, břicho, nemoc, pohyb"}
+{kw="poranění, první pomoc, úrazy, kůže-podkoží, dětské, žláza, pohyb"}
 
 Okamžité ochlazení spáleniny zásadně snižuje závažnost úrazu a jeho následky! Nejlépe poslouží proud studené čisté vody. O výsledné závažnosti úrazu rozhoduje každá sekunda.
 
-**Popálenou plochu kůže je nutné ochladit co možná nejdříve v řádu sekund!** Ač je kůže vynikající izolátor, dokáže škody popálením oddálit maximálně v řádu sekund. Povrchová spálenina se projeví jen zčervenáním, hlubší způsobí puchýř, ještě hlubší povede k odumření tkáně.
+**Popálenou plochu kůže je nutné ochladit co možná nejdříve v řádu sekund!** Ač je kůže vynikající tepelný izolátor, dokáže pronikání spáleniny do hloubky oddálit maximálně v řádu sekund. Povrchová spálenina se projeví jen zčervenáním, hlubší způsobí puchýř, ještě hlubší povede k odumření tkáně.
 
 {class="example"}
 
@@ -66,6 +66,14 @@ n/a
   3. Proč přicházejí pacienti se spáleninou k ošetření buďto ihned nebo až po 3 dnech od úrazu?
   4. Jak dlouho je potřeba chladit spáleninu?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -78,7 +86,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

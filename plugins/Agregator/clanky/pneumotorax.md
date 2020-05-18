@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/pneumotorax/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859930114139351" data-type="article" data-image="/files/preview/koutek/pneumotorax/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="pneumotorax" short="Pneumotorax" ctime="2013-08-22" mtime="2013-08-22"}
+{ctime="2013-08-22" mtime="2013-08-22" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="pneumotorax" short="Pneumotorax"}
 
 # Závažné poranění hrudníku a pneumotorax
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="poranění, úrazy, zlomeniny, bolest, orgány, krvácení, pohyb"}
+{kw="hrudník, dýchání, úrazy, strach, krvácení, zlomeniny, první pomoc, pohyb"}
 
 Pneumotorax je výskyt vzduchu v prostoru mezi plícemi a hrudníkem. Příslušná plíce se tak stává nefunkční. Její úlohu (dýchání) většinou plně nahradí druhá (zdravá) plíce.
 
@@ -88,6 +88,14 @@ n/a
   3. Čím dýchá pacient s proraženým hrudníkem s otevřeným pneumotoraxem?
   4. Jak ohrožuje pacienta na životě tenzní (záklopkový) pneumotorax?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -100,7 +108,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

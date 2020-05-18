@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/zanetlive\_lozisko\_nad\_hyzdovou\_ryhou/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859957620803267" data-type="article" data-image="/files/preview/koutek/zanetlive\_lozisko\_nad\_hyzdovou\_ryhou/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanetlive\_lozisko\_nad\_hyzdovou_ryhou" short="Zánětlivé ložisko nad hýžďovou rýhou" ctime="2010-12-23" mtime="2010-12-23"}
+{ctime="2010-12-23" mtime="2010-12-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanetlive\_lozisko\_nad\_hyzdovou_ryhou" short="Zánětlivé ložisko nad hýžďovou rýhou"}
 
 # Zánětlivé ložisko nad hýžďovou rýhou
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="zánět, kůže-podkoží, bolest, nemoc, neúrazové, ošetření, teplota, prevence"}
+{kw="zánět, kůže-podkoží, boulička, neúrazové, teplota, prevence"}
 
 Zánětlivé změny ložiska nad hýžďovou rýhou jsou extrémně bolestivé. Onemocnění však není nijak nebezpečné. K odstranění bolesti může dojít samovolně (prasknutím) nebo drobným chirurgickým zákrokem. Definitivním řešením onemocnění je však jedině operace.
 
@@ -27,7 +27,7 @@ n/a
 
 {class="example"}
 
-Toto onemocnění se projevilo mimo jiné také u mladých řidičů džípů v americké armádě. Vzhledem k tomu, že mnozí z nich měli chlupatá záda, domnívali se vojenští lékaři, že nemoc vzniká odlamováním chlupů a jejich natlačováním do podkoží nad hýžďovou rýhou. Proto se nemoc začala neadekvátně označovat jako „džípová nemoc“.
+Toto onemocnění se často projevilo mimo jiné také u mladých řidičů džípů v americké armádě. Vzhledem k tomu, že mnozí z nich měli chlupatá záda, domnívali se vojenští lékaři, že nemoc vzniká odlamováním chlupů a jejich natlačováním do podkoží nad hýžďovou rýhou. Proto se nemoc začala neadekvátně označovat jako „džípová nemoc“.
 
 {id="leceni\_sakralniho\_dermoidu"}
 
@@ -60,6 +60,14 @@ n/a
   3. Proč bývá sakrální dermoid označován také jako džípová nemoc?
   4. Proč je k definitivnímu vyléčení sakrálního dermoidu nezbytné operační řešení?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -72,7 +80,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

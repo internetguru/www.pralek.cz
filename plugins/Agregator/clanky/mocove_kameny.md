@@ -1,19 +1,19 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/mocove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859902647475431" data-type="article" data-image="/files/preview/koutek/mocove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocove\_kameny" short="Močové kameny" ctime="2008-08-13" mtime="2008-08-13"}
+{ctime="2008-08-13" mtime="2008-08-13" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocove\_kameny" short="Močové kameny"}
 
 # Močové kameny a ledvinová kolika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="bolest, břicho, prevence, neúrazové, nemoc, krvácení, orgány, zánět, zvracení"}
+{kw="ledviny, močová soustava, kolika, prevence, neúrazové, krvácení, zvracení, zánět"}
 
 V močovém ústrojí mohou vzniknout kameny. Tlakem moči a prodíráním se kamenu močovodem může vzniknout ledvinová kolika.
 
 V bederní oblasti jsou uloženy 2 ledviny, ve kterých se tvoří moč. Z ledvinové pánvičky (dutina uvnitř ledviny) průběžně odtéká moč dvěma močovody [do močového měchýře][1]. Zde se moč shromažďuje a při močení je močovou trubicí vypuzena ven z těla.
 
-Močí jsou z těla odstraňovány zplodiny látkové přeměny. Aby ledviny správně fungovaly, je třeba aby v těle bylo [dostatek tekutin][2]. V případě nedostatku tekutin jsou ledviny přetěžovány a tvorba moči je velmi náročná. **V příliš koncentrované moči se snadno vytvoří kameny nebo [zánět][3].**
+Močí jsou z těla odstraňovány zplodiny látkové přeměny. Aby ledviny správně fungovaly, je třeba aby v těle bylo [dostatek tekutin][2]. V případě nedostatku tekutin jsou ledviny přetěžovány a tvorba moči je velmi náročná. **V příliš koncentrované moči se snadno vytvoří kameny nebo [zánět][3].** 
 
 {id="ledvinove\_kameny\_a\_ledvinova\_kolika"}
 
@@ -31,7 +31,7 @@ Za určitých podmínek se v ledvinové pánvičce může vytvořit kámen. Doku
 
 n/a
 
-Kdo jednou zažije ledvinovou koliku, dělá všechno pro to, aby se již neopakovala. [Vhodná životospráva][7] a **úměrné [množství různých tekutin][8]** většinou zajistí proplachování močových cest a **zamezí tvorbě nových kamenů**.
+Kdo jednou zažije ledvinovou koliku, dělá všechno pro to, aby se již neopakovala. [Vhodná životospráva][7] a **úměrné [množství různých tekutin][8]** většinou zajistí proplachování močových cest a **zamezí tvorbě nových kamenů**. 
 
 Vzniklý kámen v pánvičce ledviny lze rozbít. Zvláštním ultrazvukovým přístrojem je řízená rázová vlna směrována přesně na kámen, který je postupnými výboji rozdrcen. Proces je nebolestivý, okolní tkáně nijak netrpí.
 
@@ -51,6 +51,14 @@ n/a
   2. Čím je způsobena ledvinová kolika?
   3. Jaké jsou možnosti léčení ledvinových kamenů?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -63,7 +71,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
@@ -74,5 +82,5 @@ n/a
  [5]: funkcni_poruchy_traveni
  [6]: nalehavost_lekarskeho_vysetreni
  [7]: stravovaci_navyky
- [8]: vodni_rezim
+ [8]: prijem_tekutin
 

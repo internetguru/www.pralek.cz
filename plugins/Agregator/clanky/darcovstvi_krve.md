@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/darcovstvi_krve/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859868574145505" data-type="article" data-image="/files/preview/koutek/darcovstvi_krve/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="darcovstvi\_krve" short="Dárcovství krve" ctime="2009-05-25" mtime="2009-05-25"}
+{ctime="2009-05-25" mtime="2009-05-25" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="darcovstvi\_krve" short="Dárcovství krve"}
 
 # Dárcovství krve, krevní plazmy a kostní dřeně
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="zdravý životní styl, strava-zažívání, poruchy vědomí, zhoubné, nádory, orgány, dětské"}
+{kw="krev, strava-zažívání, strach, nevolnost, poruchy vědomí, kolaps, zhoubné, hygiena, dětské"}
 
 Darovat krev může člověk, který dovršil 18 let věku, neměl infekční žloutenku, jeho hmotnost je vyšší než 50 kg a cítí se být zdráv. Dárce je vyšetřen a jeho krev bude užita k návratu zdraví nebo k záchraně jiného života. Chybějící krev je v těle dárce obnovena za 72 hodin.
 
@@ -28,10 +28,10 @@ Odběrem kapky krve z prstu (nástrojem na 1 použití) je vyšetřena hladina k
 n/a
 
   1. Při odběru napíchne transfuzní sestra loketní žílu (jehlou na 1 použití) a odebírá krev do vaku na 1 použití. Množství odebírané krve je necelého půl litru. Jehla je velmi ostrá, takže [vpich téměř nebolí][1]. V průběhu odběru již **dárce nevnímá žádnou bolest**, většinou se dobře baví s atraktivní a milou sestrou :-)
-  2. Odběr trvá asi 5–7 minut. Po odběru dostává dárce občerstvení – svačinu, kávu a čaj. Dostává také potvrzení o darování krve a má nárok na pracovní volno. Dárce rovněž dostává potvrzení na odpis z daní na 2 000 Kč. Kromě toho dárcovství krve různě podporují zdravotní pojišťovny.
-  3. Odebraná krev je následně rozložena na jednotlivé složky (zvláštní krvinky a [krevní plazma][2]). Jednotlivé složky krve navracejí zdraví jinak neléčitelně nemocným lidem. Plná krev se dnes již podává spíše výjimečně.
+  2. Odběr trvá asi 5–7 minut. Po odběru dostává dárce občerstvení – svačinu, kávu a čaj. Dostává také potvrzení o darování krve a má nárok na pracovní volno. Dárce rovněž dostává potvrzení na odpis z daní na určitou finanční částku. Kromě toho dárcovství krve různě podporují zdravotní pojišťovny.
+  3. Odebraná krev je následně rozložena na jednotlivé složky (zvláštní krvinky a [krevní plazmu][2]). Jednotlivé složky krve navracejí zdraví jinak neléčitelně nemocným lidem. Plná krev se dnes již podává spíše výjimečně.
 
-Technicky není možné, aby se dárce krve nakazil krví přenosnou chorobou. Všechny vpichy jsou pouze jehlami na jedno použití. Odebraná krev je náležitě vyšetřena. Přesto se bohužel může někdy stát, že je nakažen příjemce krve nebo krevního derivátu. **Nikdy však není nakažen dárce.**
+Technicky není možné, aby se dárce krve nakazil krví přenosnou chorobou. Všechny vpichy jsou pouze jehlami na jedno použití. Odebraná krev je náležitě vyšetřena. Přesto se bohužel může někdy stát, že je nakažen příjemce krve nebo krevního derivátu. **Nikdy však nemůže být nakažen dárce.**
 
 {id="komplikace\_pri\_darovani_krve"}
 
@@ -41,7 +41,7 @@ n/a
 
 Během odběru nebo těsně po něm se může stát, že dárce pocítí slabost nebo teplo nebo [dokonce zkolabuje][3]. Nejčastěji je příčinou únava nebo nevyspání. Tyto potíže jsou způsobené nedostatečným prokrvením mozku. Nikoli však z důvodu ztráty odebrané krve ale spíš z důvodu nervozity a strachu.
 
-Často potíže vznikají ihned po napíchnutí, aniž by došlo k odběru. V případě kolapsu nebo nevolnosti je dárce uložen na lůžko a během okamžiku se jeho stav normalizuje.
+Často potíže vznikají ihned po napíchnutí, aniž by došlo k odběru. V případě kolapsu nebo nevolnosti je dárce uložen na připravené lůžko a během okamžiku se jeho stav normalizuje.
 
 {id="darcovstvi\_krevni\_plazmy\_krevnich\_desticek\_zvlastnich\_krvinek"}
 
@@ -84,6 +84,14 @@ n/a
   5. V čem je dárcovství kostní dřeně složitější než dárcovství krve?
   6. Proč může být darování krve opakované a darování dřeně jen zřídkakdy?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -96,7 +104,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

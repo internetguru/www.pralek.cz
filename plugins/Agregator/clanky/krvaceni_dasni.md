@@ -1,17 +1,17 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/krvaceni_dasni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859885994143763" data-type="article" data-image="/files/preview/koutek/krvaceni_dasni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_dasni" short="Krvácení dásní" ctime="2013-03-15" mtime="2013-03-15"}
+{ctime="2013-03-15" mtime="2013-03-15" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_dasni" short="Krvácení dásní"}
 
 # Příčinou krvácení dásní je nedostatek vitamínu C
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="krvácení, ošetření, prevence, cévy, neúrazové, mikroorganizmy, poranění, zánět, strava-zažívání"}
+{kw="krvácení, prevence, cévy, neúrazové, hygiena, mikroorganizmy, zánět, strava-zažívání"}
 
 Nedostatek vitamínu C oslabuje dásně. Ty mohou při čištění zubů nebo kousání tvrdé potravy krvácet. Po zvýšení konzumace přírodního vitamínu C krvácení dásní ustane.
 
-Zdraví zubů je přímo ovlivněno složením přijímané potravy a [tekutin][1], [stravovacími návyky][2] a péčí o chrup. Některé druhy zvířat a některé lidské rasy mají zdravé a silné zuby, ačkoli o ně nijak nepečují. Jiné mají sklon k vysoké kazivosti zubů (mívají oslabenou sklovinu a dokonce se snadno lámou).
+Zdraví zubů je přímo ovlivněno složením přijímané potravy a [tekutin][1], [stravovacími návyky][2] a péčí o chrup. Některé druhy zvířat a některé lidské rasy mají zdravé a silné zuby, ačkoli o ně nijak nepečují. Jiné mají sklon k vysoké kazivosti zubů (mívají oslabenou sklovinu a někdy se dokonce snadno lámou).
 
 **Paradentóza (neboli parodontitida, paradontóza) je choroba postihující okolí zubu**; tedy dáseň, kořen zubu (zubní cement), vazivové snopce (držící zub v kosti) a nakonec i samotnou kost (čelist). Paradentóza má tři stádia.
 
@@ -25,11 +25,11 @@ Zdraví zubů je přímo ovlivněno složením přijímané potravy a [tekutin][
 
 n/a
 
-Jako příčina paradentózy bývá obecně označováno napadení dásní různými [mikroorganizmy][4] při nesprávné hygieně ústní dutiny a podle toho bývá paradentóza i léčena. Osídlení dásní choroboplodnými mikroorganizmy je však podle mého názoru následkem poškození oslabené dásně.
+Jako příčina paradentózy bývá obecně označováno napadení dásní různými [mikroorganizmy][4] při nesprávné hygieně ústní dutiny a podle toho bývá paradentóza i léčena. Osídlení dásní choroboplodnými mikroorganizmy je však podle mého názoru až následkem poškození oslabené dásně.
 
 {class="important"}
 
-Prvotní **příčinou paradentózy je nedostatek vitamínu C**, který zvyšuje křehkost cév (obecně). Dásně jsou bohatě prokrvené a jejich cévy jsou velmi namáhané. Zvýšená křehkost cév oslabuje okraj dásně, který je pak náchylnější k poranění a krvácí po kontaktu s kartáčkem či tvrdou stravou.
+Prvotní **příčinou paradentózy je nedostatek vitamínu C**. Jeho nedostatkem se zvyšuje křehkost všech cév. Dásně jsou bohatě prokrvené a jejich cévy jsou velmi namáhané. Zvýšená křehkost cév oslabuje okraj dásně, který je pak náchylnější k poranění a krvácí po kontaktu s kartáčkem či tvrdou stravou.
 
 [Kouření cigaret][5] podporuje vznik paradentózy tím, že zvyšuje celkovou spotřebu vitamínu C (jehož následným nedostatkem cévy křehnou). Kouření zužuje všechny cévy obecně – tedy včetně cév v okrajích dásní (čímž se snižuje jejich schopnost regenerace).
 
@@ -41,7 +41,7 @@ n/a
 
 Aby k paradentóze vůbec nedošlo, **je nutné přijímat „dostatečné množství“ vitamínu C**. Dostatečné množství je individuální. Za nedostatečné množství se dá považovat stav, kdy dásně krvácejí. Tehdy je vhodné příjem vitamínu C (ovoce a zeleniny) dočasně např. zdvojnásobit.
 
-**Zvýšením příjmu vitamínu C je tedy možné zastavit začínající paradentózu.** Důležitý je dostatek přírodního vitamínu C, nikoli uměle vyrobeného (syntetického). Mezi nimi je totiž rozdíl, např. se liší směrem otáčení polarizovaného světla.
+**Zvýšením příjmu vitamínu C je tedy možné zastavit začínající paradentózu.** Důležitý je hlavně dostatek přírodního vitamínu C, nikoli jen uměle vyrobeného (syntetického). Mezi nimi je totiž rozdíl, např. se liší směrem otáčení polarizovaného světla.
 
 {class="example"}
 
@@ -70,6 +70,14 @@ n/a
   3. Jak působí na nemocnou dáseň zubní pasta proti paradentóze?
   4. Jaké přednosti má měkký kartáček na zuby před tvrdým?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -82,13 +90,13 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
- [1]: vodni_rezim
+ [1]: prijem_tekutin
  [2]: stravovaci_navyky
- [3]: zanet
+ [3]: lecba_zanetu
  [4]: mikroorganizmy
  [5]: koureni_cigaret
 

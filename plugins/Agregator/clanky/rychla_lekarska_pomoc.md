@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/rychla\_lekarska\_pomoc/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859939434138419" data-type="article" data-image="/files/preview/koutek/rychla\_lekarska\_pomoc/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rychla\_lekarska_pomoc" short="Rychlá lékařská pomoc" ctime="2010-02-28" mtime="2010-02-28"}
+{ctime="2010-02-28" mtime="2010-02-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rychla\_lekarska_pomoc" short="Rychlá lékařská pomoc"}
 
 # Rychlá lékařská pomoc
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="poruchy vědomí, cévy, poranění, první pomoc, úrazy, orgány, dětské, břicho"}
+{kw="poruchy vědomí, infarkt, cévy, první pomoc, úrazy, zlomeniny"}
 
 Úkolem rychlé lékařské pomoci (záchranky) je záchrana lidí v ohrožení života. Záchranka nenahrazuje lékařskou službu první pomoci (pohotovost) a není na takovou práci ani prostorově ani technicky vybavena.
 
@@ -74,7 +74,7 @@ n/a
 
 Účastníci silničního provozu většinou respektují výstražná světla i zvukové výstražné zařízení záchranné služby. Často však **nedovedou odhadnout velmi vysokou rychlost záchranky** a manévrují tak, že nutí řidiče záchranky zbytečně brzdit. Tím zpomalují transport a velmi přitěžují pacientovi i posádce, která se snaží pacienta udržet při životě.
 
-Řidiči by měli zpomalit, zajet ke kraji vozovky a umožnit bezproblémové projetí záchranky. Na dvouproudové silnici projíždí sanita uprostřed, na víceproudové silnici mezi pravým a s ním sousedícím pruhem.
+Řidiči by měli zpomalit, zajet ke kraji vozovky a umožnit bezproblémové projetí záchranky. Na dvouproudové silnici projíždí sanita uprostřed, na víceproudové silnici mezi levým a s ním sousedícím pruhem.
 
 {class="example"}
 
@@ -99,6 +99,14 @@ n/a
   7. Jaké posádky může vyslat dispečer na místo nehody?
   8. Jaké jsou nejčastější důvody výjezdů záchranky?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -111,7 +119,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

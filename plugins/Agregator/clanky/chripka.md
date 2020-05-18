@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/chripka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859866174145745" data-type="article" data-image="/files/preview/koutek/chripka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="chripka" short="Chřipka" ctime="2008-07-20" mtime="2008-07-20"}
+{ctime="2008-07-20" mtime="2008-07-20" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="chripka" short="Chřipka"}
 
 # Chřipka: virové onemocnění
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="imunita, mikroorganizmy, zdravý životní styl, zánět, teplota, prevence, nemoc, neúrazové, bolest"}
+{kw="imunita, mikroorganizmy, zdravý životní styl, zánět, prochlazení, teplota, prevence, neúrazové"}
 
 Chřipka je závažné přenosné virové onemocnění. Konkrétní lék proti chřipce neexistuje; je možné se preventivně nechat očkovat proti konkrétnímu viru chřipky. Ten však velmi rychle mutuje, a už za několik měsíců nemusí mít očkování efekt.
 
@@ -50,6 +50,14 @@ n/a
   3. Za jakých podmínek může být onemocnění chřipkou osudné?
   4. Jak léčit rozvinutou chřipku?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -62,7 +70,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
@@ -72,6 +80,6 @@ n/a
  [4]: imunita
  [5]: leky_proti_bolesti
  [6]: kasel_a_typy_kasle
- [7]: vodni_rezim
+ [7]: prijem_tekutin
  [8]: funkcni_poruchy_traveni
 

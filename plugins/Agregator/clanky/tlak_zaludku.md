@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/tlak_zaludku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859952217470474" data-type="article" data-image="/files/preview/koutek/tlak_zaludku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tlak\_zaludku" short="Tlak žaludku" ctime="2011-06-14" mtime="2011-06-14"}
+{ctime="2011-06-14" mtime="2011-06-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tlak\_zaludku" short="Tlak žaludku"}
 
 # Žaludeční potíže: krátkodobý tlak žaludku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="žaludek, břicho, strava-zažívání, orgány, zvracení, zánět, nádory"}
+{kw="žaludek, břicho, zvracení, nevolnost, strava-zažívání, žlučník, říhání, strach"}
 
 Krátkodobý tlak žaludku bývá způsoben funkční poruchou trávení (např. přejedením) nebo nadměrným hladověním spojeným s nervozitou. Tlak většinou sám ustoupí po vytrávení nebo najedení a zklidnění.
 
@@ -29,7 +29,7 @@ Vyskytuje se **bez souvislosti s jídlem** (nebo zpočátku jídla po delším h
 
 n/a
 
-  1. Kyselá pachuť v ústech se může objevit jako následek přejedení – tedy zvýšením tlaku v žaludku. Kyselý žaludeční obsah (odlišit od [pálení žáhy][3]) se může vracet jícnem do dutiny ústní. Stane-li se tak ve spánku, může dojít k jeho vdechnutí s následným prudkým kašlem nebo i s fatálním koncem.
+  1. Kyselá pachuť v ústech se může objevit jako následek přejedení – tedy zvýšením tlaku v žaludku. Kyselý žaludeční obsah (odlišit od [pálení žáhy][3]) se může vracet jícnem do dutiny ústní. Stane-li se tak ve spánku, může dojít k jeho vdechnutí s následným prudkým kašlem nebo dokonce s fatálním koncem.
   2. Hořká pachuť v ústech bývá doprovodným jevem při [onemocnění žlučníku][6]. Po požití nevhodného jídla se nesprávné množství a koncentrace žluči může dostat zpět z dvanáctníku do žaludku a jícnem do ústní dutiny. Nepříjemné hořko v ústech bývá spojeno s říháním.
 
 {id="zvraceni\_zaludecniho\_obsahu\_s\_primesi_krve"}
@@ -38,7 +38,7 @@ n/a
 
 n/a
 
-Tlak žaludku přirozeně předcházívá zvracení. Úporným zvracením může dojít až ke _zvracení žaludečního obsahu s příměsí krve_. Takové drobné krvácení vzniká porušením sliznice na přechodu mezi jícnem a žaludkem _(Mallory-Weisův příznak)_. Porušená sliznice se většinou sama zhojí, jakmile zvracení ustane. Krevní ztráty nebývají závažné a není třeba se strachovat.
+Tlak žaludku přirozeně předcházívá zvracení. Úporným zvracením může dojít až ke _zvracení žaludečního obsahu s malou příměsí krve_. Takové drobné krvácení vzniká porušením sliznice na přechodu mezi jícnem a žaludkem _(Mallory-Weisův příznak)_. Porušená sliznice se sama zhojí, jakmile zvracení ustane. Krevní ztráty nebývají závažné a není třeba se strachovat na rozdíl od [masivního krvácení žaludečního vředu][5].
 
 K úpornému [reflexnímu zvracení][1] dochází při obraně organizmu proti otravě požitím zkaženého či nevhodného jídla (včetně otravy alkoholem). Stejně tak může být reflexní zvracení vyvolané přejedením.
 
@@ -72,6 +72,14 @@ n/a
   4. Čím je způsobena hořká pachuť v ústech?
   5. Čím je způsobeno nadměrné říhání?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -84,7 +92,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

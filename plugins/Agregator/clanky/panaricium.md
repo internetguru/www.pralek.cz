@@ -1,13 +1,13 @@
 
-{data-top="7" data-og-type="article" data-og-image="/files/preview/koutek/panaricium/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859924110806618" data-top="7" data-type="article" data-image="/files/preview/koutek/panaricium/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="panaricium" short="Panaricium" ctime="2012-05-18" mtime="2012-05-18"}
+{ctime="2012-05-18" mtime="2012-05-18" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="panaricium" short="Panaricium"}
 
 # Nebezpečný zánět prstu ruky – panaricium
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="zánět, poranění, bolest, neúrazové, nemoc, pohyb, cévy, úrazy, teplota, prevence"}
+{kw="zánět, poranění, neúrazové, uzliny, pohyb, úrazy, teplota, prevence"}
 
 Zánětlivé onemocnění prstu ruky může být velmi závažné a nebezpečné. Včasné ošetření zánětu chirurgem předejde rozšíření zánětu nejen po nemocné ruce ale i do celého těla.
 
@@ -27,7 +27,7 @@ n/a
 
 Panaricium vzniká tehdy, dostane-li se určité množství mikroorganizmů do kůže, podkoží nebo pod nehet. V případě [správně fungující imunity][6] tělo mikroorganizmy rozpozná a „označí za nepřítele“. V postižením místě vzniká boj mezi bílými krvinkami a bacily, což je projevem přirozené obranyschopnosti organizmu.
 
-Postupně se vyvíjí místní zánět se svými průvodními jevy, což jsou bolest, zarudnutí, otok, teplota a zhoršená funkce (zanícený orgán hůře pracuje). Vytvořené zánětlivé ložisko se přirozenou obranyschopností buďto samo uzdraví, nebo se postupně promění v hnisavé ložisko. Hnis je tvořen produktem boje – tedy odumřelými bakteriemi, bílými krvinkami, zbytky odumřelé rozpuštěné tkáně a tělní tekutinou. Nahromaděný hnis je vždy nutné odstranit.
+Postupně se vyvíjí místní zánět se svými průvodními jevy, což jsou bolest, zarudnutí, otok, teplota a zhoršená funkce (zaníceným prstem nelze pracovat). Vytvořené zánětlivé ložisko se přirozenou obranyschopností buďto samo uzdraví, nebo se postupně promění v hnisavé ložisko. Hnis je tvořen produktem boje – tedy odumřelými bakteriemi, bílými krvinkami, zbytky odumřelé rozpuštěné tkáně a tělní tekutinou. Nahromaděný hnis je vždy nutné odstranit.
 
 {id="leceni_panaricia"}
 
@@ -43,7 +43,7 @@ Chirurgické ošetření panaricia se provádí v místním znecitlivění, pak 
 
 {class="example"}
 
-Např. člověk po transplantaci orgánu má vždy (záměrně) sníženou imunitu. Proto je potřeba už při každém podezření na infekci preventivně nasazovat antibiotika.
+Člověk po transplantaci orgánu má vždy (záměrně) sníženou imunitu. Proto je potřeba už při každém podezření na infekci preventivně nasazovat antibiotika.
 
 {id="sireni\_a\_komplikace_panaricia"}
 
@@ -82,6 +82,14 @@ n/a
   4. Jaké jsou 2 možnosti šíření zánětu z místního na celkové zánětlivé onemocnění?
   5. Proč se panaricium vyskytuje jen na prstech rukou a na nohou ne?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -94,7 +102,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

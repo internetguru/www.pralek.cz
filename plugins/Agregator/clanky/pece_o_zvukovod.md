@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/pece\_o\_zvukovod/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859925557473140" data-type="article" data-image="/files/preview/koutek/pece\_o\_zvukovod/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pece\_o_zvukovod" short="Péče o zvukovod" ctime="2012-07-31" mtime="2012-07-31"}
+{ctime="2012-07-31" mtime="2012-07-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pece\_o_zvukovod" short="Péče o zvukovod"}
 
 # Péče o zevní zvukovod
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="ušní-nosní-krční, bolest, zánět, prevence, ošetření, poranění, nemoc, orgány, kůže-podkoží"}
+{kw="zánět, hygiena, nevolnost, zvracení, točení hlavy, prevence, poranění"}
 
 Zanedbaná hygiena zevního zvukovodu a nadměrné množství ušního mazu mohou působit velmi nepříjemné potíže. Některé z nich (např. točení hlavy) zdánlivě s uchem nesouvisejí.
 
@@ -96,6 +96,14 @@ n/a
   4. Kdy se může a kdy se nesmí dostat voda do ucha?
   5. Proč je nevhodné užívat k čištění uší tvrdé předměty?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -108,7 +116,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

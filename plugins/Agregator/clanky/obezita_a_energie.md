@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/obezita\_a\_energie/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859913034141059" data-type="article" data-image="/files/preview/koutek/obezita\_a\_energie/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="obezita\_a_energie" short="Obezita" ctime="2008-02-28" mtime="2017-10-05"}
+{ctime="2008-02-28" mtime="2017-10-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="obezita\_a_energie" short="Obezita"}
 
 # Obezita jako nepoměr příjmu a výdeje energie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="strava-zažívání, zdravý životní styl, látková výměna, prevence, břicho"}
+{kw="strava-zažívání, zdravý životní styl, pohyb, látková výměna, prevence, břicho"}
 
 Obezitu může řešit jedině změna poměru příjmu a výdeje energie. Pokud se množství přijaté energie (potravou) rovná množství energie spotřebované (prací nebo cvičením), pak člověk nehubne ani netloustne.
 
@@ -69,6 +69,14 @@ n/a
   5. Proč nemá smysl se denně vážit?
   6. Jak je vhodné měřit hubnutí na rozdíl od vážení?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -81,10 +89,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
  [1]: stravovaci_navyky
- [2]: vodni_rezim
+ [2]: prijem_tekutin
 

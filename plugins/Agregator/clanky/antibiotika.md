@@ -1,19 +1,19 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/antibiotika/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859852074147155" data-type="article" data-image="/files/preview/koutek/antibiotika/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="antibiotika" short="Antibiotika" ctime="2008-05-14" mtime="2008-05-14"}
+{ctime="2008-05-14" mtime="2008-05-14" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="antibiotika" short="Antibiotika"}
 
 # Proč nelze mít svá oblíbená antibiotika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="zánět, imunita, mikroorganizmy, teplota, nemoc, ušní-nosní-krční, prevence"}
+{kw="zánět, imunita, mikroorganizmy, teplota, ušní-nosní-krční, prevence, močová soustava"}
 
 Bakterie, které imunitní systém vyhodnotí jako nežádoucí, jsou likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud dočasně mikroorganizmy vítězí (to se projevuje příznaky zánětu).
 
 Rozvoj [zánětlivého onemocnění][1] s celkovými a místními příznaky je důvodem k lékařskému vyšetření a nasazení antibiotik. Jestliže není imunitní systém dostatečně připraven, mohou dočasně vítězit bakterie a vyvíjejí se místní i celkové příznaky zánětlivého onemocnění jako např. [angína][2]. Podle stupně a závažnosti těchto příznaků **lékař nasadí antibiotika**.
 
-Vždy je výhodou, vyhledat **svého praktického lékaře** který pacienta (na rozdíl od cizího lékaře na pohotovosti) dobře zná. Ten nejlépe posoudí závažnost onemocnění a jeho souvislost s celkovým zdravotním stavem; přitom zohlední ostatní dlouhodobé nemoci, [stav imunity][3], předchozí užívání antibiotik, eventuelní alergie, vlivy prostředí a může nejlépe předvídat reakci na léky.
+Vždy je výhodou, vyhledat **svého praktického lékaře** který pacienta (na rozdíl od cizího lékaře na pohotovosti) dobře zná. Ten nejlépe posoudí závažnost onemocnění a jeho souvislost s celkovým zdravotním stavem; přitom zohlední ostatní dlouhodobé nemoci, [stav imunity][3], předchozí užívání antibiotik, eventuelní [alergie][4], vlivy prostředí a může nejlépe předvídat reakci na léky.
 
 {id="proc\_ruzne\_druhy_antibiotik"}
 
@@ -25,7 +25,7 @@ S objevem penicilínu jako prvního známého antibiotika nastala **éra vzájem
 
 Několik bakterií se však dokáže adaptovat na pro ně jedovaté penicilínové prostředí a dokáží se i zde pomnožit. Tuto odolnost uloží do své genetické informace a **potomci těchto bakterií budou navždy proti tomuto typu penicilínu odolní** (rezistentní).
 
-Chorobu způsobenou tímto druhem bakterií již nelze léčit stejným penicilínem. Může to být stejná zánětlivá nemoc jako ta původní, nebo zcela jiná (např. [angína][2], zápal plic, [zánět ledvin][4], [infekce močových cest][5], gynekologický zánět a podobně). Proto byl vyvinut nový typ penicilínu, proti kterému se neuměli ani tito jedinci bránit. Po zlikvidování celé kolonie nakonec vždy přežije několik takových bakterií, kterým se mutací obrana vydařila. Jejich pomnožením vznikají **nové kmeny, odolné vůči novému typu penicilínu**.
+Chorobu způsobenou tímto druhem bakterií již nelze léčit stejným penicilínem. Může to být stejná zánětlivá nemoc jako ta původní, nebo zcela jiná (např. [angína][2], zápal plic, [zánět ledvin][5], [infekce močových cest][6], gynekologický zánět a podobně). Proto byl vyvinut nový typ penicilínu, proti kterému se neuměli ani tito jedinci bránit. Po zlikvidování celé kolonie nakonec vždy přežije několik takových bakterií, kterým se mutací obrana vydařila. Jejich pomnožením vznikají **nové kmeny, odolné vůči novému typu penicilínu**.
 
 Následně byla objevena nová antibiotika, která bakterie přímo hubí. Další a další druhy antibiotik, další nové generace nových antibiotik a vždy si bakterie dříve nebo později najdou svou obranu a vznikají nové resistentní kmeny bakterií.
 
@@ -55,7 +55,7 @@ n/a
 
 Antibiotika nepůsobí proti virovým onemocněním (například proti chřipce). Přesto pacient za určitých podmínek při chřipce antibiotika od svého lékaře může dostat. Smyslem takového léčení je **předejít bakteriálním komplikacím** původně virového onemocnění. Například předejít vzniku zápalu plic jako komplikaci chřipkového onemocnění.
 
-Někteří lidé musejí mít uměle sníženou imunitu (například po transplantaci orgánu). Pak je logické, že je nutné nasadit antibiotika při každém podezření na zánětlivou chorobu, ale i při prostém [vytržení zubu][6].
+Někteří lidé musejí mít uměle sníženou imunitu (například po transplantaci orgánu). Pak je logické, že je nutné nasadit antibiotika při každém podezření na zánětlivou chorobu, ale i při prostém [vytržení zubu][7].
 
 {id="negativni\_ucinky\_antibiotik"}
 
@@ -89,6 +89,14 @@ n/a
   6. Kdy je vhodné podat antibiotika preventivně?
   7. V čem spočívají negativní účinky antibiotik?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -101,14 +109,15 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
  [1]: zanet
  [2]: bolest_v_krku_angina
  [3]: imunita
- [4]: mocove_kameny
- [5]: zanet_mocoveho_mechyre
- [6]: mikroorganizmy
+ [4]: projevy_alergie
+ [5]: mocove_kameny
+ [6]: zanet_mocoveho_mechyre
+ [7]: mikroorganizmy
 

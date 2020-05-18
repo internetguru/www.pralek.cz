@@ -1,0 +1,22 @@
+
+{
+  "name": "Prevence a řešení zdravotních problémů",
+  "short_name": "Pralék",
+  "display": "minimal-ui",
+  "start_url": "/",
+  "theme_color": "#ddd",
+  "background_color": "#333",
+  "icons": [
+    {
+      "src": "/lib/pwaicons/256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/lib/pwaicons/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+  

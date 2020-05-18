@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/bodne\_a\_strelne_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859855190813510" data-type="article" data-image="/files/preview/koutek/bodne\_a\_strelne_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bodne\_a\_strelne\_poraneni" short="Bodné a střelné poranění" ctime="2009-05-15" mtime="2009-05-15"}
+{ctime="2009-05-15" mtime="2009-05-15" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bodne\_a\_strelne\_poraneni" short="Bodné a střelné poranění"}
 
 # Bodné a střelné poranění a jeho závažnost
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="poranění, bolest, krvácení, kůže-podkoží, orgány, pohyb, břicho, cévy"}
+{kw="poranění, krvácení, kůže-podkoží, pohyb, břicho, cévy"}
 
 Poranění zabodnutým předmětem nebo zástřel je natolik závažné, jak a které vnitřní orgány jsou poškozeny.
 
@@ -27,11 +27,11 @@ Kůže jej velmi pevně drží, kolem zabodnutého předmětu je velmi napjatá.
 
 n/a
 
-To neplatí pro velmi ostré předměty, které při pronikání kůži nenapnou a pak je otvor stejně velký jako pronikající předmět (například injekční jehla). **Poranění velmi ostrým předmětem téměř nebolí.** Čím ostřejší je pronikající nástroj, tím menší je způsobená bolest.
+Velmi ostré předměty při pronikání kůži nenapnou a pak je otvor stejně velký jako pronikající předmět (například injekční jehla). **Poranění velmi ostrým předmětem téměř nebolí.** Čím ostřejší je pronikající nástroj, tím menší je způsobená bolest.
 
 Velmi ostré jsou skleněné střepy, které při pronikání kůži řežou pod určitým úhlem, a vzniklá rána může být zcela jiná než původní střep. Nebezpečí poranění střepem spočívá v jeho **snadném pronikání do hlubokých struktur**.
 
-**[Drobná ranka][1] na zápěstí může souviset se závažným poraněním šlach, cév nebo nervů.** [Při poranění ruky][2] je třeba vždy vyzkoušet hybnost a čití prstů. V prstech totiž nejsou žádné svaly. Prsty jsou složeny pouze z kostí, kloubů, vazů, šlach, tuku, kůže a nehtů. Svaly, které prsty pohybují jsou uloženy na předloktí a k prstům vedou pevné šlachy, které pohyb přenáší. V případě přerušení některé šlachy nelze provést pohyb příslušným prstem.
+**[Drobná ranka][1] na zápěstí může souviset se závažným poraněním šlach, cév nebo nervů.** [Při poranění ruky][2] je třeba vždy vyzkoušet hybnost a čití prstů. V prstech totiž nejsou žádné svaly. Prsty jsou složeny pouze z kostí, kloubů, vazů, šlach, tuku, kůže a nehtů. Svaly, které prsty pohybují jsou uloženy na předloktí a k prstům vedou pevné šlachy, které pohyb přenáší. V případě přerušení některé šlachy nelze provést pohyb příslušným prstem. 
 
 {id="zabodnuty\_nebo\_uvizly\_predmet\_v_tele"}
 
@@ -45,8 +45,8 @@ Drobné kovové předměty (nejčastěji odštěpky kovu při uhození kladivem 
 
 {class="example"}
 
-Střelné poranění je natolik závažné, jaké tkáně jsou projektilem zdevastované nebo poškozené ([průstřel hrudníku][6]). Přežije-li postřelený člověk, cílem chirurgů na operačním sále je napravovat škody, které způsobila energie projektilu.  
-  
+Střelné poranění je natolik závažné, jaké tkáně jsou projektilem zdevastované nebo poškozené ([průstřel hrudníku][6]). Přežije-li postřelený člověk, cílem chirurgů na operačním sále je napravovat škody, které způsobila energie projektilu.
+
 Spojují se roztříštěné kosti, sešívají se porušené cévy, šlachy, svaly, nervy. Všechny části často roztrhaného projektilu nebo všechny broky často ani není možné ani nutné odstranit. Vyjmutí projektilu samotného bývá prioritou pouze v amerických filmech :-)
 
 Zapíchnuté silnější předměty (jako např. šíp, drát, větev) není vhodné při první pomoci z těla vůbec uvolňovat, ale naopak transportovat poraněného k ošetření i se zapíchnutým předmětem.
@@ -66,6 +66,14 @@ n/a
   3. Proč není nutné vždy odstraňovat v těle uvízlé kovové střepiny?
   4. S čím může souviset drobná ranka na zápěstí?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -78,7 +86,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

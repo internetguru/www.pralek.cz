@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/bolesti\_v\_zadech_houser/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859857374146625" data-type="article" data-image="/files/preview/koutek/bolesti\_v\_zadech_houser/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolesti\_v\_zadech\_houser" short="Bolesti v zádech" ctime="2008-11-20" mtime="2008-11-20"}
+{ctime="2008-11-20" mtime="2008-11-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolesti\_v\_zadech\_houser" short="Bolesti v zádech"}
 
 # Bolesti v zádech, houser
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="bolest, pohyb, rehabilitace, neúrazové, prevence, nemoc, úrazy"}
+{kw="pohyb, rehabilitace, neúrazové, úrazy, prochlazení, prevence"}
 
 Je přímá souvislost mezi bolestmi v zádech, nepřiměřenou fyzickou aktivitou, zpocením a následným prochlazením zad a to nejčastěji v oblasti bederní nebo krční páteře.
 
@@ -31,11 +31,11 @@ n/a
 
 Může vzniknout problém ve stavbě páteře, jako:
 
-  * deformita vrozená nebo získaná (velmi časté),
-  * přetížení části páteře (např. nezvyklou prací, pádem, sportem, prudkým pohybem, spánkem v nevhodné poloze, dlouhodobým pobytem v nepřirozené poloze) nebo naopak
+  * deformita vrozená nebo získaná (velmi časté), například [torticollis][3],
+  * přetížení části páteře (např. nezvyklou prací, pádem, sportem, prudkým pohybem, spánkem v nevhodné poloze, dlouhodobým pobytem v nepřirozené poloze),
   * přílišné uvolnění vazů,
-  * [zborcení těla obratle][3] (zároveň s rozvolněním vazů),
-  * v místech přetěžovaných [úponů svalů a vazů ke kosti][4] (tvoří se kostěné výrůstky),
+  * [zborcení těla obratle][4] (zároveň s rozvolněním vazů),
+  * v místech přetěžovaných [úponů svalů a vazů ke kosti][5] (tvoří se kostěné výrůstky),
   * podráždění, prochlazení, rozvolnění nebo přetížení SI skloubení.
 
 V případě takového onemocnění kloubů a vazů přebírá jejich funkci (udržet polohu těla) svalový korzet. Nahrazuje však jejich funkci pouze částečně nebo krátkodobě. Brzy se objevují v přetížených svalech bolestivé zatvrdliny – _svalové kontraktury_. Jestliže je kontrakturou utlačován z páteře vystupující nerv, bolest vyzařuje tím směrem, kam tento nerv vede – _kořenové bolesti_. Úplné bolestivé ztuhlosti části pateře s nemožností pohybu se říká houser.
@@ -55,14 +55,14 @@ Hlavní zásady, jak zmírnit bolesti v zádech:
   * zatěžování páteře musí být přiměřené a pravidelné (ne nárazové),
   * po větší zátěži má následovat hodnotný (třeba aktivní) odpočinek,
   * vzniklou bolest v zádech neřešit ihned lékem proti bolesti (bolest je upozorněním, že je něco v nepořádku) ale snažit se páteř vyhřát suchým teplem a rozhýbat,
-  * [lék proti bolesti][5] si vzít až v případě delšího přetrvávání potíží, a to ne na práci ale až k odpočinku – nejlépe na noc a začít spíše slabšími (žádný lék páteř nevyléčí, žádný není nejlepší nebo nejhorší, ani ten, který někomu jinému pomohl),
-  * klidný a pohodlný spánek (třeba s lékem proti bolesti) na kvalitní madraci,
+  * [lék proti bolesti][6] si vzít až v případě delšího přetrvávání potíží, a to ne na práci ale až k odpočinku – nejlépe na noc a začít spíše slabšími (žádný lék páteř nevyléčí, žádný není nejlepší nebo nejhorší, ani ten, který někomu jinému pomohl),
+  * klidný a pohodlný spánek (třeba s lékem proti bolesti) na kvalitní matraci,
   * bránit se propocení a následnému prochlazení (hlavně bederní a krční páteř),
   * k jednostranné zátěži střídat strany (prostřídat končetiny),
   * v případě propocení se převléknout,
   * rehabilitace (masáže, trakce) a fyzikální terapie jsou příjemné, jistě ovlivní bolavou páteř blahodárně, ale příčinu potíží neodstraní (nevyléčí) většinou jen bolest přemístí,
   * dlouhodobé potíže s páteří vedou vždy k narušení psychiky, je vhodné vyhledat psychologa nebo lépe psychiatra,
-  * v případě dlouhodobých problémů nebo náhle vzniklých prudkých bolestí a potíží je třeba [vyhledat lékaře][6] a po vyšetření se podrobit doporučenému léčebnému postupu.
+  * v případě dlouhodobých problémů nebo náhle vzniklých prudkých bolestí a potíží je třeba [vyhledat lékaře][7] a po vyšetření se podrobit doporučenému léčebnému postupu.
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -82,6 +82,14 @@ n/a
   6. Při bolestech v zádech pomůže suché nebo vlhké teplo?
   7. Proč je pohodlný a bezbolestný spánek jednou ze zásad zmírnění bolestí v zádech?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -94,14 +102,15 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
  [1]: artroza
  [2]: starecke_zlomeniny
- [3]: zlomeniny_kosti
- [4]: onemocneni_slach
- [5]: leky_proti_bolesti
- [6]: nalehavost_lekarskeho_vysetreni
+ [3]: akutni_torticollis
+ [4]: zlomeniny_kosti
+ [5]: onemocneni_slach
+ [6]: leky_proti_bolesti
+ [7]: nalehavost_lekarskeho_vysetreni
 

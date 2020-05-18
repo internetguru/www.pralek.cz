@@ -1,13 +1,13 @@
 
-{data-top="8" data-og-type="article" data-og-image="/files/preview/koutek/teplota/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859950917470604" data-top="8" data-type="article" data-image="/files/preview/koutek/teplota/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="teplota" short="Tělesná teplota" ctime="2008-10-02" mtime="2008-10-02"}
+{ctime="2008-10-02" mtime="2008-10-02" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="teplota" short="Tělesná teplota"}
 
 # Normální tělesná teplota, podchlazení, horečka
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="teplota, zánět, ušní-nosní-krční, dětské, bolest, stařecké, neúrazové, prevence"}
+{kw="teplota, prochlazení, přehřátí, pocení, nevolnost, točení hlavy, prevence, tekutiny, mikroorganizmy"}
 
 Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá nebo klesá vlivem zevního prostředí a stoupá při některých onemocněních.
 
@@ -62,7 +62,7 @@ Další vývoj příznaků onemocnění teprve ukáže o jakou mikrobiální neb
   * nastupující bolest ucha svědčí pro zánět středouší nebo zubů,
   * [bolest v krku a potíže při polykání ukazují na angínu][8],
   * bolest na průduškách a [kašel svědčí pro zánět průdušek][10],
-  * nemožnost plného nádechu, zchvácenost a další zhoršování celkového stavu může ukazovat na zánět plic,
+  * nemožnost plného nádechu, zchvácenost a další zhoršování celkového stavu může ukazovat na zánět plic (laicky _zápal plic_),
   * bolesti v bedrech, časté nebo obtížné močení nebo pálení při močení jsou [příznaky infekce močových cest][11],
   * bolesti břicha, [průjmy a zvracení][3] mohu ale nemusí být známkou infekce v zažívacím traktu; může se ale také jednat o náhlou příhodu břišní,
   * bolest hlavy, zchvácenost, nemožnost hlavu předklonit – zánět mozkových obalů (mozkových plen nebo laicky mozkových blan) nebo mozku (např. [klíšťový zánět mozku][12]),
@@ -103,6 +103,14 @@ n/a
   6. Proč není vhodné hned srážet zvýšenou teplotu v začátku horečnatého onemocnění?
   7. Jak se projevuje meningokoková infekce a koho nejspíše postihne?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -115,12 +123,12 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
  [1]: resuscitace-ozivovani
- [2]: vodni_rezim
+ [2]: prijem_tekutin
  [3]: funkcni_poruchy_traveni
  [4]: bolest_hlavy_migrena
  [5]: zanet

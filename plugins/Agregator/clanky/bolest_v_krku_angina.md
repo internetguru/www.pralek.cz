@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/bolest\_v\_krku_angina/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859858450813184" data-type="article" data-image="/files/preview/koutek/bolest\_v\_krku_angina/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_v\_krku\_angina" short="Bolest v krku" ctime="2008-12-09" mtime="2008-12-09"}
+{ctime="2008-12-09" mtime="2008-12-09" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_v\_krku\_angina" short="Bolest v krku"}
 
 # Bolest v krku, nachlazení, angína
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="imunita, mikroorganizmy, teplota, zánět, nemoc, prevence, orgány"}
+{kw="imunita, mikroorganizmy, teplota, zánět, uzliny, boulička, prevence"}
 
 Bolesti v krku mohou přejít v angínu; pro připravený organizmus zvládnutelnou. Až teprve komplikace angíny mohou způsobit trvalé poškození zdraví.
 
@@ -33,7 +33,7 @@ Pomůže odpočinek, nejlépe klid na lůžku, [dostatek tekutin][9] a vitamínu
 
 n/a
 
-V případě oslabení imunity (mikroorganizmy nejsou včas rozpoznány nebo není dostatek obranných protilátek) se mikroorganizmy dostávají cévním lymfatickým systémem až do krční mandle a tím způsobí **zánět krční mandle** označovaný jako **angína**.
+V případě oslabení imunity (mikroorganizmy nejsou včas rozpoznány nebo není dostatek obranných protilátek) se mikroorganizmy dostávají až do krční mandle, kde se pomnoží, a tím způsobí **zánět krční mandle** označovaný jako **angína**.
 
 Stále živé **bacily se hromadí v mandlích** a hromadí se zde i bílé krvinky. Mezi bacily a krvinkami dochází k zápolení a [zánět se vyvíjí][10]. Počáteční fáze je bolestivá; překrvení, zarudnutí a zbytnění mandlí, špatně se polyká, nemocný má změněný hlas. Rozvíjí se [celkové příznaky zánětlivého onemocnění][7].
 
@@ -69,6 +69,14 @@ n/a
   4. Jaké mohou vzniknout komplikace angíny?
   5. Co nahradí funkci krčních mandlí po jejich odstranění?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -81,7 +89,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
@@ -93,7 +101,7 @@ n/a
  [6]: lymfaticke_uzliny
  [7]: zanet
  [8]: teplota
- [9]: vodni_rezim
+ [9]: prijem_tekutin
  [10]: lecba_zanetu
  [11]: nezhoubne_nadory
  [12]: mocove_kameny

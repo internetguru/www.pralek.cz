@@ -1,7 +1,6 @@
-require("IGCMS.Copyable", function () {
-  require("IGCMS.Hideable", function () {
-    IGCMS.Copyable.init({
-      selectTitle: "Kopírovat"
-    })
+require("IGCMS.Copyable", () => {
+  IGCMS.Copyable.init({
+    selectTitle: "Zkopírovat odkaz",
+    buttonHTML: "<span class='fas fa-copy'></span>"
   })
 })

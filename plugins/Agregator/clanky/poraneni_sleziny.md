@@ -1,17 +1,17 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/poraneni_sleziny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859932894139073" data-type="article" data-image="/files/preview/koutek/poraneni_sleziny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_sleziny" short="Poranění sleziny" ctime="2012-12-19" mtime="2012-12-19"}
+{ctime="2012-12-19" mtime="2012-12-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_sleziny" short="Poranění sleziny"}
 
 # Záludnost poranění sleziny u dětí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="úrazy, dětské, krvácení, orgány, břicho, bolest, cévy"}
+{kw="úrazy, dětské, krvácení, břicho, pocení, porucha vědomí, kolaps, cévy"}
 
-Poranění sleziny může být velmi zákeřným úrazem. Přes relativní nenápadnost rozvoje příznaků může zraněná slezina ohrozit nemocného na životě. Operační odstranění poraněné sleziny naštěstí nevede následně k poruchám zdraví.
+Poranění sleziny může být velmi zákeřným úrazem. Přes relativní nenápadnost rozvoje příznaků může zraněná slezina ohrozit nemocného na životě. Operace poraněné sleziny včetně jejího odstranění naštěstí nevede následně k poruchám zdraví.
 
-Slezina je bohatě prokrvený křehký orgán uložený ve vazivovém pouzdře v dutině břišní (v levém podžebří). Podílí se [na rozvoji imunity][1], obměně krvinek, tvorbě protilátek a slouží jako rezervoár krve. Přesto, že slezina plní nepostradatelnou funkci v lidském těle, nebyly popsány závažnější poruchy zdraví v souvislosti s poúrazovou ztrátou sleziny.
+Slezina je bohatě prokrvený křehký orgán uložený ve vazivovém pouzdře v dutině břišní (v levém podžebří). Podílí se [na rozvoji imunity][1], obměně krvinek, tvorbě protilátek a slouží jako rezervoár krve. Přesto, že slezina plní důležitou funkci v lidském těle, nebyly popsány závažnější poruchy zdraví v souvislosti s poúrazovou ztrátou sleziny.
 
 {class="example"}
 
@@ -42,7 +42,7 @@ n/a
 Poranění sleziny se dělí na _jednodobé_ a _dvoudobé_. V obou případech vzniká (jednou dříve, podruhé později) život ohrožující krvácení s následným _šokovým stavem_. Příznaky šokového stavu jsou rychlá [srdeční akce][4] (rychlý tlukot srdce), [pokles krevního tlaku][5], [opocení][6], bledost, slabost, chlad končetin a následně [kolaps][7], porucha vědomí a smrt.
 
   1. Jednodobé poranění sleziny vznikne **při úplném roztržení tkáně sleziny** i s jejím pouzdrem. Záhy dochází ke krvácení do dutiny břišní a k rozvoji šokového stavu z krevní ztráty. Taková poranění bývají velmi dramatická.
-  2. Dvoudobé poranění sleziny vznikne **při drobném poranění**.
+  2. Dvoudobé poranění sleziny vznikne **při drobném poranění**. 
       1. _V první době_ dojde vlivem zdánlivě malicherného úrazu pouze k natržení tkáně a k drobnému **krvácení uvnitř sleziny**. Pouzdro sleziny tedy není úrazem roztrženo. Zvětšující se krevní výron postupně pouzdro napíná. Projevy úrazu nemusejí být zpočátku žádné. Během dnů vzniká neurčitá bolest nebo tlak v levém podžebří, bolest často vystřeluje do levého ramene.
       2. Jestliže v tomto stádiu vývoje úrazu není pacient vyšetřen a není stanovena správná diagnóza, může _ve druhé době_ dojít k prasknutí pouzdra se stejně dramatickým **krvácením do dutiny břišní**, jako u jednodobého poranění.
 
@@ -56,13 +56,13 @@ n/a
 
 V případě rozvoje příznaků _šokového stavu_ je nutné bránit dalšímu rozvoji šoku a zajistit bezprostřední [transport do nemocnice nejlépe formou RLP][8]. Čím dříve je zahájeno léčení, tím vyšší je naděje na úspěch léčby.
 
-Zatímco diagnózna jednodobého poranění sleziny bývá zřejmá, u dvoudobého poranění je důležité najít souvislost mezi současnými potížemi a nedávným úrazem. **Ultrazvukové vyšetření břicha nejlépe potvrdí nebo vyloučí diagnózu** lékaře po základním laboratorním vyšetření. Někdy je výhodnější CT břicha, které se ostatně u podezření na poranění dutiny břišní již provádí rutinně.
+Zatímco diagnózna jednodobého poranění sleziny bývá zřejmá, u dvoudobého poranění je důležité najít souvislost mezi současnými potížemi a nedávným úrazem. **Ultrazvukové vyšetření břicha nejlépe potvrdí nebo vyloučí diagnózu** lékaře po základním laboratorním vyšetření. Někdy je výhodnější CT břicha, které se ostatně u podezření na poranění dutiny břišní provádí rutinně.
 
 U případů, kdy je přítomen jen malý krevní výron a pouzdro sleziny je nepoškozeno se postupuje konzervativně – postačuje klid a sledování na lůžku v rámci hospitalizace. Pacient je opakovaně kontrolován lékařem, ultrazvukem je sledován vývoj krevního výronu. Při postupném vstřebávání a zmenšování krevního výronu může být pacient za několik dnů uzdraven a bez operace propuštěn domů.
 
 Při rozsáhlejším natržení či roztržení sleziny je léčba primárně chirurgická. Při klasické břišní operaci se trhlina zaceluje speciálním tkáňovým lepidlem, nebo se slezina dle stupně poškození částečně či kompletně odstraňuje.
 
-Lidské tělo je tak dokonalé, že se dokáže se ztrátou sleziny samo vyrovnat. Po ztrátě sleziny totiž přebírají její nepostradatelnou funkci jiné orgány, které ji dokážou téměř plně nahradit. Zajímavostí z medicínského pohledu je fakt, že člověk po ztrátě sleziny se může klidně stát [dárcem krve][9].
+Lidské tělo je tak dokonalé, že se dokáže se ztrátou sleziny samo vyrovnat. Po ztrátě sleziny totiž přebírají její funkci jiné orgány, které ji dokážou téměř plně nahradit. Zajímavostí z medicínského pohledu je fakt, že člověk po ztrátě sleziny se může klidně stát [dárcem krve][9].
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -80,6 +80,14 @@ n/a
   4. Kde je uložena slezina a k čemu slouží?
   5. Jaké jsou možnosti léčení poraněné sleziny?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -92,7 +100,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

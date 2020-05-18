@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/doktor\_nebo\_lecitel/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859870774145285" data-type="article" data-image="/files/preview/koutek/doktor\_nebo\_lecitel/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="doktor\_nebo_lecitel" short="Doktor nebo léčitel" ctime="2010-04-30" mtime="2010-04-30"}
+{ctime="2010-04-30" mtime="2010-04-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="doktor\_nebo_lecitel" short="Doktor nebo léčitel"}
 
 # Doktor nebo léčitel: koho kdy vyhledat a komu věřit
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="nemoc, bolest, zdravý životní styl, strava-zažívání, první pomoc"}
+{kw="strach, neúrazové, zdravý životní styl, strava-zažívání, první pomoc"}
 
 Při rozhodování, zda vyhledat lékaře nebo léčitele, platí zásada, že nejprve musí lékař řádně vyšetřit pacienta. V případě, že je dnešní věda na chorobu krátká, je možné vyhledat léčitele a doufat, že se mu podaří navrátit pacientovi ztracené zdraví.
 
@@ -44,7 +44,7 @@ Léčitel je člověk, který o sobě tvrdí, že má mimořádné schopnosti ro
   * Otevřeně se zeptá na výsledky lékařských vyšetření.
   * Nenařizuje přestat užívat lékařem doporučené postupy a léky.
   * S pacientem jsou při všech sezeních přítomni příbuzní, není s ním nikdy sám.
-  * Jeho [vyšetřovací metody jsou _neinvazivní_][2] (do člověka ničím nepíchá, nešťourá).
+  * Jeho [vyšetřovací metody jsou _neinvazivní_][2] (do člověka ničím nepíchá, nešťourá). 
   * Jeho sliby jsou střízlivé.
   * Jeho odměna je pro pacienta únosná.
 
@@ -68,6 +68,14 @@ n/a
   2. Jaká jsou hlediska serioznosti léčitele?
   3. Proč nestačí dobrá pověst léčitele pro posouzení jeho kvality?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -80,7 +88,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/odhaleni_rakoviny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859915080807521" data-type="article" data-image="/files/preview/koutek/odhaleni_rakoviny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odhaleni\_rakoviny" short="Odhalení rakoviny" ctime="2015-03-31" mtime="2015-03-31"}
+{ctime="2015-03-31" mtime="2015-03-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odhaleni\_rakoviny" short="Odhalení rakoviny"}
 
 # Včasné odhalení rakoviny tlustého střeva a konečníku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="nádory, zhoubné, prevence, krvácení, břicho, orgány, neúrazové"}
+{kw="prevence, nádory, zhoubné, krvácení, břicho, neúrazové"}
 
 Opakované vyšetřování stolice na krvácení může odhalit zhoubný nádor střeva a konečníku již v počátečním stádiu, kdy je nádor ještě vyléčitelný. Vyšetření je potřeba doporučit každému člověku od padesáti let, a to i jako laik (čtenář tohoto článku).
 
@@ -47,7 +47,7 @@ Vyhodnocení svépomocí
 
 n/a
 
-**Přítomnost krve ve stolici nemusí souviset s rakovinou.** Nejedná se o test prokazující rakovinu, ale obecně nemoc, která se projevuje krvácením do stolice.
+**Přítomnost krve ve stolici nemusí souviset s rakovinou.** Nejedná se o test prokazující rakovinu, ale obecně nemoc, která se projevuje krvácením do zažívací trubice (např. i [krvácením dásní][2]).
 
 Je-li test pozitivní, nezbývá než se objednat na [kolonoskopii][1], která teprve určí skutečnou diagnózu. Může se jednat o obávaný zhoubný nádor, ale i o jiné onemocnění, třeba jen banální, které se projevilo krvácením do stolice.
 
@@ -66,6 +66,14 @@ n/a
   3. Proč mají osoby starší 50 let jedno bezplatné vyšetření okultního krvácení do stolice ročně?
   4. Co následuje v případě pozitivního výsledku testu na okultní krvácení?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -78,9 +86,10 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
  [1]: rakovina_tlusteho_streva_a_konecniku
+ [2]: krvaceni_dasni
 

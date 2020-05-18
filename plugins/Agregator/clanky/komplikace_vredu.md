@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/komplikace_vredu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859880254144337" data-type="article" data-image="/files/preview/koutek/komplikace_vredu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="komplikace\_vredu" short="Komplikace žaludečních vředů" ctime="2011-07-31" mtime="2011-07-31"}
+{ctime="2011-07-31" mtime="2011-07-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="komplikace\_vredu" short="Komplikace žaludečních vředů"}
 
 # Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="žaludek, krvácení, břicho, bolest, cévy, nádory, neúrazové, orgány, zhoubné, strava-zažívání"}
+{kw="žaludek, krvácení, nevolnost, zvracení, břicho, nádory, zhoubné, strava-zažívání"}
 
 Žaludeční vředy jsou v současnosti snadno léčitelným onemocněním. Komplikace vředové choroby žaludku a dvanáctníku však mohou vést k ohrožení života. Vznikají nejčastěji následkem zanedbání příznaků a neléčením vředové choroby. Jedině rozeznání a okamžité odborné řešení vzniklých komplikací může pacientovi zachránit život.
 
@@ -21,7 +21,7 @@ Zvracení velkého množství krve _(hemateméza)_ je velmi závažné, život o
 
 Hemateméza může mít dvě příčiny:
 
-  1. Zvracení tepenné krve při vředové chorobě svědčí pro poškození tepny [žaludečním vředem][3] _(ulcus ventriculi penetrans)_.
+  1. Zvracení tepenné krve při vředové chorobě svědčí pro poškození tepny [žaludečním vředem][3] _(ulcus ventriculi penetrans)_. 
       * Tepenná krev plní žaludek a následuje okamžité reflexní **zvracení velkého množství jasně červené krve**.
       * Tepenná krev v žaludku může nějaký čas zůstat. Dojde k jejímu natrávení a zvratky již nebudou jasně červené.
   2. Zvracení žilní krve může znamenat krvácení z prasklé jícnové [křečové žíly][4] _(varix)_. Jícnové varixy doprovázejí závažná onemocnění jater (nejčastěji cirhózu jater) a často se projeví právě až dramatickým krvácením.
@@ -88,6 +88,14 @@ n/a
   4. Jaké jsou počáteční projevy rakoviny žaludku?
   5. Jaké jsou projevy rozvinutého stádia rakoviny žaludku?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -100,7 +108,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 

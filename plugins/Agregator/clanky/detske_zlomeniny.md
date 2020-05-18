@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/detske_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859869624145400" data-type="article" data-image="/files/preview/koutek/detske_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="detske\_zlomeniny" short="Dětské zlomeniny" ctime="2009-06-09" mtime="2009-06-09"}
+{ctime="2009-06-09" mtime="2009-06-09" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="detske\_zlomeniny" short="Dětské zlomeniny"}
 
 # Nejčastější dětské zlomeniny a jejich zvláštnosti
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="zlomeniny, dětské, úrazy, první pomoc, poranění, pohyb, nemoc"}
+{kw="zlomeniny, dětské, úrazy, poranění, pohyb, první pomoc"}
 
 Většina dětských zlomenin se hojí dobře, rychle a bez trvalých následků (snad jen s výjimkou zlomenin lokte). Dětské zlomeniny bývají někdy laicky těžko rozpoznatelné.
 
@@ -23,9 +23,9 @@ Typická dětská zlomenina předloktí je velmi výstižně označována _zlome
 
 {class="example"}
 
-Na škole v přírodě při vybíjené dítě upadne a poraní zápěstí. Poraněné zápěstí sice bolí, ale v rámci zápalu hry je bolest překonána a malý pacient zápas dokončí. Na výraznější bolest si začne stěžovat až večer, kdy je v klidu a může se věnovat svému problému. Nyní již zavolaný pedagog těžko uvěří, že by se mohlo jednat o závažný úraz, když si po celé odpoledne vlastně nestěžoval a plně se vyrovnal ostatním dětem v běžné činnosti. Pedagog předpokládá, že se jedná o pouhé pohmoždění a správě přiloží studený obklad. Následující den může být bolest opět snesitelná díky zábavě, teprve večer si dítě stěžuje na bolest a nevýrazný otok zápěstí.  
-  
-Teprve po návratu ze školy v přírodě přichází rodiče s dítětem k lékařskému vyšetření pro trvající bolesti v oblasti zlomeniny, kterou lékařské vyšetření prokáže. Většinou se naštěstí nejedná o závažné poranění, které by zanechalo trvalé následky. Zlomenina se zhojí do 3 týdnů a po přiložení fixace ihned přestává bolet.
+Na škole v přírodě při vybíjené dítě upadne a poraní zápěstí. Poraněné zápěstí sice bolí, ale v rámci zápalu hry je bolest překonána a malý pacient zápas dokončí. Na výraznější bolest si začne stěžovat až večer, kdy je v klidu a může se věnovat svému problému. Nyní již zavolaný pedagog těžko uvěří, že by se mohlo jednat o závažný úraz, když si po celé odpoledne vlastně nestěžoval a plně se vyrovnal ostatním dětem v běžné činnosti. Pedagog předpokládá, že se jedná o pouhé pohmoždění a správě přiloží studený obklad. Následující den může být bolest opět snesitelná díky zábavě, teprve večer si dítě stěžuje na bolest a nevýrazný otok zápěstí.
+
+Teprve po návratu ze školy v přírodě přichází rodiče s dítětem k lékařskému vyšetření pro trvající bolesti v oblasti zlomeniny, kterou lékařské vyšetření prokáže. Většinou se naštěstí nejedná o závažné poranění, které by zanechalo trvalé následky. [Zlomenina se zhojí][3] do 3 týdnů a po přiložení fixace ihned přestává bolet.
 
 {id="zlomenina\_klicni\_kosti"}
 
@@ -65,7 +65,7 @@ n/a
 
 Obdobně jako _zlomeniny vrbového proutku_ (výše) se projevují zlomeniny článků prstů. Prst je bolestivý a oteklý, může být vychýlen z osy. Přesto bývá možné prsty plnit běžné úkony.
 
-První pomocí je studený obklad a [transport k lékaři][3]. Léčení bývá rychlé, snadné. Trvalé následky se vyskytují zřídkakdy.
+První pomocí je studený obklad a [transport k lékaři][4]. Léčení bývá rychlé, snadné. Trvalé následky se vyskytují zřídkakdy.
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -82,6 +82,14 @@ n/a
   3. Proč je vhodná první pomoc u zlomenin horní končetiny dětí uložení do šátkového obvazu
   4. V čem spočívá závažnost zlomeniny lokte?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -94,11 +102,12 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
  [1]: zlomeniny_kosti
  [2]: urazy_deti
- [3]: nalehavost_lekarskeho_vysetreni
+ [3]: leceni_zlomenin
+ [4]: nalehavost_lekarskeho_vysetreni
 

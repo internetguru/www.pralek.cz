@@ -1,13 +1,13 @@
 
-{data-og-type="article" data-og-image="/files/preview/koutek/tesny_prstynek/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859951530803876" data-type="article" data-image="/files/preview/koutek/tesny_prstynek/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tesny\_prstynek" short="Těsný prstýnek" ctime="2015-05-28" mtime="2015-05-28"}
+{ctime="2015-05-28" mtime="2015-05-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tesny\_prstynek" short="Těsný prstýnek"}
 
 # Prstýnek na oteklém prstu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-01-10, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
-{kw="bolest, nemoc, cévy, úrazy, pohyb"}
+{kw="cévy, úrazy, pohyb"}
 
 Včasné odstranění prstýnku z poraněné končetiny zabrání vzniku zdravotních komplikací. Ty mohou ve spojení s neléčeným škrtícím prstenem vést až ke ztrátě prstu. Přeštípnutí nebo přeříznutí prstýnku na nemocném prstu může být obtížné.
 
@@ -59,6 +59,14 @@ n/a
   3. Jak se provádí sejmutí těsného prstýnku pomocí pevné nitě?
   4. Jak se odstraňuje prsten z tvrdého kovu (z chirurgické oceli), který není možné přeštípnout kleštěmi?
 
+{var="inputvar-feedback_h" id="dotace"}
+
+## n/a
+
+{var="inputvar-feedback_desc"}
+
+n/a
+
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
 ## n/a
@@ -71,7 +79,7 @@ n/a
 
 Seznam odkazů není k dispozici
 
-{var="inputvar-taglist" class="toptags"}
+{var="inputvar-taglist" class="taglist"}
 
 n/a
 
