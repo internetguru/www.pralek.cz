@@ -921,7 +921,7 @@ ol.otazky button.selected:last-child {
 /************************************/
 div.part.internetguru .button-list,
 div.part.upozorneni .button-list {
-  justify-content: flex-start;
+  justify-content: center;
 }
 div.part.upozorneni,
 div.part.internetguru {
@@ -944,6 +944,10 @@ div.part.internetguru:before {
   border-radius: 100%;
 }
 @media all and (min-width: 42em) {
+  div.part.internetguru .button-list,
+  div.part.upozorneni .button-list {
+    justify-content: flex-start;
+  }
   div.part.upozorneni,
   div.part.internetguru {
     max-width: 55em;
