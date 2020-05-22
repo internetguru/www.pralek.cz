@@ -13,6 +13,10 @@ Cizí tělísko lze odstranit z oka svépomocí nebo vzájemnou pomocí. K odstr
 
 Nejčastěji ulpí cizí tělísko (jakékoli smítko, částečka prachu nebo muška) pod dolním víčkem oka (ve spojivkovém vaku). Cizí tělísko v oku tlačí nebo řeže. **Výplach oka** oční vodou může smítko vyplavit a **vždy ulevuje podrážděnému oku** i po odstranění smítka.
 
+{class="example"}
+
+Výplachy oční vodou nebo vykapávání očními desinfekčními kapkami (např. Ophthalmo-Septonex) rovněž mohou vyřešit počínající zánět spojivek.
+
   1. Odstranění smítka zpod _dolního_ víčka je velmi snadné, podobně jako odstranění viditelného smítka volně plovoucího na očním bělmu.
   2. Odstranění smítka zpod _horního_ víčka je poněkud složitější, ale je rovněž možné, nejlépe vzájemnou pomocí.
   3. Uvíznutí smítka na rohovce či poleptání oka chemikálií může vést k poruše zraku. Jakékoli i drobné poranění rohovky vždy vyžaduje ošetření specialistou (očním lékařem – oftalmologem).
