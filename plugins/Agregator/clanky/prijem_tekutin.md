@@ -19,7 +19,7 @@ Ledviny tvoří velké množství _prvotní moči (primární moč, primitivní 
 
 n/a
 
-  1. Dešťová voda neobsahuje žádné soli ani minerály – **měkká voda**. Je však značně znečištěna; v každé kapce vody (aby se vůbec vytvořila z páry) jsou částečky prachu nebo pylová zrnka.
+  1. Dešťová voda neobsahuje žádné soli ani minerály – **měkká voda**. Je však značně znečištěna; v každé kapce vody (aby se vůbec vytvořila z páry) jsou různé nečistoty, částečky prachu nebo pylová zrnka.
   2. Jak dešťová voda prosakuje z povrchu země propustnými vrstvami horniny, zbavuje se nečistot. Při prostupu různými horninami se v ní rozpouštějí různé soli a minerální látky. Taková pitná voda je většinou označována jako **voda pramenitá**, vyvěrající z určité hloubky země a je velmi vhodná pro trvalé pití.
   3. **Tvrdá voda** obsahuje minerálů více. Ačkoliv minerální látky z tvrdé vody zanášejí trubky, varnou konvici nebo pračku, lidskému organizmu nikterak neškodí.
   4. **Minerální voda** má obsah minerálů ještě vyšší – je přesně dán (popsáno na vinětě). Taková voda bývá označována jako lázeňská a předpokládá se její blahodárný vliv na lidský organizmus v limitovaném množství.
@@ -32,7 +32,7 @@ n/a
 
 Některé konkrétní minerální látky rozpuštěné ve vodě mohou za určitých podmínek působit blahodárně na některého konkrétního člověka. Pití vody z určitého pramene může tedy skutečně někomu zlepšit zdravotní stav (léčivá voda, zázračný pramen, léčivá studánka). Je logické, že se obsah minerálů ve vodě bude lišit podle umístění vrtu, pramene nebo studánky.
 
-Všechny minerální látky z vody se však nevstřebávají. Vstřebávání minerálů je vázáno na jiné složité [procesy v průběhu trávení][1] a většina jich projde zažívacím traktem bez užitku. Vodu s vysokým obsahem minerálů je pro organizmus obtížné vstřebat. Proto **není vhodné trvalé pití pouze minerálních vod**.
+Všechny minerální látky z vody se však nevstřebávají. Vstřebávání minerálů je vázáno na jiné složité [procesy v průběhu trávení][1] a většina jich projde zažívacím traktem bez užitku. Vodu s vysokým obsahem minerálů je pro organizmus obtížné vstřebat. Proto **není vhodné dlouhodobé pití pouze minerálních vod**.
 
 {id="nespravny\_prijem\_tekutin"}
 
