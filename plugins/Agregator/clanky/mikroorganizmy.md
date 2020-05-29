@@ -21,7 +21,7 @@ Některým bakteriím vyhovuje chlad pod ledovou krou, jiné druhy žijí v př�
 
 n/a
 
-Skupina bakterií stejného druhu obývající určitou oblast (např. určitou část lidského těla nebo živý jogurt) se nazývá **bakteriální kmen**. Svou činností tyto bakteriální kmeny podmiňují správnou funkci lidského orgánu nebo zrání jogurtu.
+Skupina bakterií stejného druhu obývající určitou oblast (např. určitou část lidského těla nebo živý jogurt) se nazývá **bakteriální kmen**. Svou činností tyto bakteriální kmeny podmiňují správnou funkci lidského orgánu nebo například zrání jogurtu.
 
 Různé kmeny bakterií žijí v celém zažívacím ústrojí, v tělních dutinách i na kůži. Jsou to **pro život člověka nepostradatelné bakteriální kmeny**. Nezpůsobují žádné choroby, jsou to tzv. nechoroboplodné bakterie. Naopak, jejich oslabení nebo vymizení způsobí zdravotní potíže.
 
