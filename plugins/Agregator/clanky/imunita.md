@@ -29,7 +29,7 @@ Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedi
   * narodí-li se přirozenou cestou (blízkost porodních cest a konečníku je již při porodu prvním setkáním [s dávkou bakterií][3]),
   * je-li kojen, dostává další obranné látky od matky spolu s mateřským mlékem,
   * k obranným látkám, kterými byl vybaven již při porodu a vydrží mu asi 6 týdnů si záhy začíná vytvářet svoje vlastní,
-  * následně si batole strká do pusy vše co vidí, mnohdy i věci nám zcela nepochopitelné, jde o pudové chování, smyslem je časně si zmapovat okolní bakterie a záhy tvořit imunitu,
+  * následně si batole strká do pusy vše co vidí, mnohdy i věci nám zcela nepochopitelné, jde o pudové chování, smyslem je časně si zmapovat okolní bakterie a buď tvořit imunitu, nebo je naopak tolerovat,
   * výhodou je blízkost domácích zvířat, návštěva chléva, pobyt na venkovském dvoře, pohladit zvíře pod dohledem opatrovníka je správné.
 
 Skleníkové prostředí bez přítomnosti bakterií není pro zdárný vývoj dítěte správné, opačný extrém však jistě rovněž ne. Bohužel domácí mazlíček často olizuje majiteli (nebo i dítěti!) obličej. Na čenichu a v tlamě psa a kočky žijí zcela odlišené a **pro člověka nepřijatelné bakteriální kmeny**.
