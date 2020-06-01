@@ -2,11 +2,22 @@ FontAwesomeConfig = {
   observeMutations: true
 };
 
-(function() {
-    var icons = document.querySelectorAll('*[class*="fa-"]')
-    for (var i = 0; i < icons.length; i++) {
-      icons[i].innerHTML = ""
-    }
+(() => {
+    let icons = document.querySelectorAll('*[class*="fa-"]')
+    let iconsCache = {}
+    icons.forEach((icon) => {
+      const name = icon.className.match(/fa-([^ ]+)/)[1]
+      iconsCache.name = icon.className
+      const svg = document.createElemnt("svg")
+      svg.innerHTML = `<use xlink:href="#${name}"></use>`
+      icon.parentNode.replaceChild(svg, icon)
+    })
+    Object.entries(iconCache).forEach(([name, cls]) => {
+      let symbol = document.createElement("span")
+      symbol.className = cls
+      symbol.setAttribute("data-fa-symbol", name)
+      document.body.appendChild(symbol)
+    })
     var script = document.createElement("script")
     script.type = "text/javascript"
     script.setAttribute("data-search-pseudo-elements", "")
