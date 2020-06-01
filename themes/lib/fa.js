@@ -10,14 +10,18 @@ FontAwesomeConfig = {
       iconsCache[name] = icon.className
       const svg = document.createElement("svg")
       svg.className = "fa-symbol"
-      svg.innerHTML = '<use xlink:href=#' + name + '></use>'
+      const useSVG = document.createElementNS('http://www.w3.org/2000/svg', 'use')      
+      useSVG.setAttributeNS('http://www.w3.org/1999/xlink','xlink:href','#' + name);
+      svg.appendChild(useSVG)
       icon.parentNode.replaceChild(svg, icon)
+      svg.parentNode.innerHTML += ''
+
     })
     for (let name in iconsCache) {
-      let symbol = document.createElement("span")
-      symbol.className = iconsCache[name]
-      symbol.setAttribute("data-fa-symbol", name)
-      document.body.appendChild(symbol)
+      document.body.insertAdjacentHTML(
+        'beforeend', 
+        '<span data-fa-symbol="' + name + '" class="' + iconsCache[name] + '">'
+      )
     }
     var script = document.createElement("script")
     script.type = "text/javascript"
