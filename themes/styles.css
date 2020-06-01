@@ -506,6 +506,7 @@ dt label.button {
   display: none;
 }
 .hdesc--top {
+  --hdesc-top-bg: url(/files/preview/koutek/main.jpg);
   color: white;
   padding-top: 7em;
 }
