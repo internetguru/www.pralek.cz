@@ -1138,3 +1138,8 @@ dl.clanek.doclist-new > dt:first-child:after {
   }
 }
 /************************************/
+.fa-symbol {
+  width: 1em;
+  height: 1em;
+  vertical-align: -.125em;
+}
