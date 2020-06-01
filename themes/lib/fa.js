@@ -15,7 +15,6 @@ FontAwesomeConfig = {
       svg.appendChild(useSVG)
       icon.parentNode.replaceChild(svg, icon)
       svg.parentNode.innerHTML += ''
-
     })
     for (let name in iconsCache) {
       document.body.insertAdjacentHTML(
