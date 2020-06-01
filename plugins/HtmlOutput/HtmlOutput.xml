@@ -10,7 +10,6 @@
   <jsFile append="body">themes/feedback.js</jsFile>
   <jsFile append="body">themes/print.js</jsFile>
   
-  <xslt>themes/icons.xsl</xslt>
   <xslt>themes/pralek.xsl</xslt>
   <xslt>themes/layout/image-group.xsl</xslt>
   
