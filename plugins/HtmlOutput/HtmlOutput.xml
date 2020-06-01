@@ -13,7 +13,7 @@
   <xslt>themes/pralek.xsl</xslt>
   <xslt>themes/layout/image-group.xsl</xslt>
   
-  <stylesheet>themes/styles.css</stylesheet>
+  <stylesheet priority="1">themes/styles.css</stylesheet>
 
   <favicon>themes/icon/Lovoo_Icon_Heart.ico</favicon>
   
