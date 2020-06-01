@@ -25,7 +25,6 @@ FontAwesomeConfig = {
     }
     var script = document.createElement("script")
     script.type = "text/javascript"
-    script.setAttribute("data-search-pseudo-elements", "")
     script.src = "https://kit.fontawesome.com/b0c4047774.js"
     document.head.appendChild(script)
 })()
