@@ -8,7 +8,7 @@ FontAwesomeConfig = {
     icons.forEach((icon) => {
       const name = icon.className.match(/fa-([^ ]+)/)[1]
       iconsCache.name = icon.className
-      const svg = document.createElemnt("svg")
+      const svg = document.createElement("svg")
       svg.innerHTML = `<use xlink:href="#${name}"></use>`
       icon.parentNode.replaceChild(svg, icon)
     })
