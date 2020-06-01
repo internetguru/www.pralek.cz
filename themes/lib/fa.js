@@ -12,7 +12,7 @@ FontAwesomeConfig = {
       svg.innerHTML = `<use xlink:href="#${name}"></use>`
       icon.parentNode.replaceChild(svg, icon)
     })
-    Object.entries(iconCache).forEach(([name, cls]) => {
+    Object.entries(iconsCache).forEach(([name, cls]) => {
       let symbol = document.createElement("span")
       symbol.className = cls
       symbol.setAttribute("data-fa-symbol", name)
