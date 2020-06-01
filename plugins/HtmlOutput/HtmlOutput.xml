@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <HtmlOutput>
 
-  <jsFile append="body" async="false">themes/article-bg.js</jsFile>
+  <jsFile append="body">themes/article-bg.js</jsFile>
   <jsFile append="body">themes/expand.js</jsFile>
   <jsFile append="body">themes/components/completable-init.js</jsFile>
   <jsFile append="body">themes/moreable.js</jsFile>
