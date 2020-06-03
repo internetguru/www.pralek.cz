@@ -12,8 +12,7 @@ FontAwesomeConfig = {
     script.type = "text/javascript"
     script.src = "/themes/lib/all.min.js"
     document.head.appendChild(script)
-    return;
-    
+    /*
     let icons = document.querySelectorAll('*[class*="fa-"]')
     let iconsCache = []
     icons.forEach((icon) => {
@@ -33,5 +32,6 @@ FontAwesomeConfig = {
         '<span data-fa-symbol="' + name + '" class="' + iconsCache[name] + '">'
       )
     }
+    */
   })})
 })()
