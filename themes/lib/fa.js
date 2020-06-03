@@ -3,8 +3,17 @@ FontAwesomeConfig = {
 };
 
 (() => {
-  return;
   require("IGCMS", () => { IGCMS.ready(() => {
+    let icons = document.querySelectorAll('*[class*="fa-"]')
+    for (let i = 0; i < icons.length; i++) {
+      icons[i].innerHTML = ""
+    }
+    var script = document.createElement("script")
+    script.type = "text/javascript"
+    script.src = "/themes/lib/all.min.js"
+    document.head.appendChild(script)
+    return;
+    
     let icons = document.querySelectorAll('*[class*="fa-"]')
     let iconsCache = []
     icons.forEach((icon) => {
@@ -24,9 +33,5 @@ FontAwesomeConfig = {
         '<span data-fa-symbol="' + name + '" class="' + iconsCache[name] + '">'
       )
     }
-    var script = document.createElement("script")
-    script.type = "text/javascript"
-    script.src = "https://kit.fontawesome.com/b0c4047774.js"
-    document.head.appendChild(script)
   })})
 })()
