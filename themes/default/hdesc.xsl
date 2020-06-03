@@ -21,7 +21,7 @@
         <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
       </xsl:element>
     </xsl:element>
-    <xsl:element name="div"> 
+    <xsl:element name="div">&#160;
       <xsl:if test="name()='h1'">
         <xsl:call-template name="topdiv"/>
       </xsl:if>
