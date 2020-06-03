@@ -628,7 +628,7 @@ body:not(.agregator) .hdesc--top label {
   margin-left: 1.7em;
 }
 .search ul .js-completable__input {
-  color: #fff;
+  color: #000;
 }
 .search ul .js-completable__input {
   height: 3.5em;
