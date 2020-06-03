@@ -604,7 +604,7 @@ body:not(.agregator) .hdesc--top label {
   background: var(--no-img-bg);
 }
 body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before {
-  background: url("/files/preview/koutek/lymfaticke_uzliny/main.jpg") 50% 33% / cover;
+  background: url("/files/koutek/lymfaticke_uzliny/main.jpg") 50% 33% / cover;
 }
 @media all and (min-width: 70em) {
   .agregator #content .hdesc--top + div:before {
