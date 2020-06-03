@@ -673,7 +673,7 @@ body:not(.agregator) .hdesc--top label {
   }
 }
 .search ul .js-completable__input::placeholder {
-  color: #424242;
+  color: #212121;
 }
 .search ul .js-completable__input:focus::placeholder {
   
@@ -694,6 +694,7 @@ body:not(.agregator) .hdesc--top label {
   outline: none;
   border-radius: 0;
   -webkit-appearance:  none;
+  --button-bg: #00695C;
 }
 .search button[type="submit"] svg {
   font-size: 2.25rem;
