@@ -3,6 +3,7 @@ FontAwesomeConfig = {
 };
 
 (() => {
+  require("IGCMS", () => { IGCMS.ready(() => {
     let icons = document.querySelectorAll('*[class*="fa-"]')
     let iconsCache = []
     icons.forEach((icon) => {
@@ -26,4 +27,5 @@ FontAwesomeConfig = {
     script.type = "text/javascript"
     script.src = "https://kit.fontawesome.com/b0c4047774.js"
     document.head.appendChild(script)
+  })})
 })()
