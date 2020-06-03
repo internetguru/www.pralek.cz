@@ -601,7 +601,7 @@ body:not(.agregator) .hdesc--top label {
   height: 36em;
   margin-top: -14em;
   margin-bottom: 3em;
-  background: url('main.jpg') 50% 33% / cover;
+  background: var(--no-img-bg);
   
 }
 @media all and (min-width: 70em) {
