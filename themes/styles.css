@@ -570,7 +570,6 @@ body:not(.agregator) .hdesc--top label {
   padding-bottom: 17em;
   padding-top: 9em;
   color: var(--global-color);
-  margin-bottom: 25em;
 }
 .agregator .hdesc--top + div:not(.section) {
   max-width: var(--global-max-width);
@@ -589,18 +588,17 @@ body:not(.agregator) .hdesc--top label {
 .agregator #content .section {
   position: relative;
 }
-.agregator #content > .section:before {
+.agregator #content .hdesc--top + div:before {
   content: "";
   display: block;
+  position: relative;
   margin: 0 auto;
-  position: absolute;
   width: calc(var(--global-max-width) + 8em);
   max-width: 100%;
   height: 36em;
+  margin-top: -14em;
+  margin-bottom: 3em;
   background: var(--no-img-bg);
-  top: -57em;
-  left: 0;
-  right: 0;
 }
 /***************************/
 .search {
