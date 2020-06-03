@@ -673,7 +673,7 @@ body:not(.agregator) .hdesc--top label {
   }
 }
 .search ul .js-completable__input::placeholder {
-  color: #616161;
+  color: #424242;
 }
 .search ul .js-completable__input:focus::placeholder {
   
