@@ -584,6 +584,12 @@ body:not(.agregator) .hdesc--top label {
   text-align: left;
 }
 .agregator .hdesc--top:after {
+  display: none;
+}
+.agregator #content .section {
+  position: relative;
+}
+.agregator #content > .section:before {
   content: "";
   display: block;
   margin: 0 auto;
@@ -592,8 +598,7 @@ body:not(.agregator) .hdesc--top label {
   max-width: 100%;
   height: 36em;
   background: var(--no-img-bg);
-  top: initial;
-  bottom: -22em;
+  top: -57em;
   left: 0;
   right: 0;
 }
