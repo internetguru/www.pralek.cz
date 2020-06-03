@@ -23,6 +23,7 @@
   --hdesc-p-max-width: 38rem;
   --input-border: medium solid #BDBDBD;
   --button-list-item-margin: 0.5rem;
+  --h1-font-size: 4em;
 }
 .button--border,
 .button--simple {
@@ -67,6 +68,9 @@
 .clanek .extra {
   --button--simple-active-bg: #4DB6AC;  
 }
+.hdesc--top .button:hover,
+.hdesc--top .button:active,
+.hdesc--top .button:focus,
 .clanek .button:hover,
 .clanek .button:active,
 .clanek .button:focus {
@@ -75,9 +79,9 @@
   --button-svg-color: #ffffff;
 }
 .hdesc--top .extra {
-  --button--simple-bg: rgba(250, 250, 250, 0);
-  --button-svg-color: #E0E0E0;
-  --button--simple-active-bg: #616161;
+  --button--simple-bg: none;
+  --button--simple-active-bg: #4DB6AC;
+  text-align: left;
 }
 .extra .hideable a.hideable-switch:before {
   all: initial;
@@ -236,7 +240,7 @@
 }
 /************************************/
 .copyable-wrapper {
-  max-width: calc(100vw - 2.5rem);
+  max-width: calc(100%);
   width: max-content;
   overflow: hidden;
   background: #ffffff;
@@ -495,7 +499,7 @@ dt label.button {
   align-items: flex-end;
 }
 .breadcrumb a[href] .imgwrap + span {
-  border-bottom: thin solid rgba(255, 255, 255, 0.44);
+  border-bottom: thin solid rgba(0, 0, 0, 0.44);
 }
 @media (max-width: 42em) {
   .breadcrumb .imgwrap + span {
@@ -506,12 +510,11 @@ dt label.button {
   display: none;
 }
 .hdesc--top {
-  --hdesc-top-bg: url("/files/koutek/main.jpg");
   color: white;
   padding-top: 7em;
 }
-.hdesc--top a:not(.definition-href),
-.hdesc--top label {
+body:not(.agregator) .hdesc--top a:not(.definition-href),
+body:not(.agregator) .hdesc--top label {
   --link-color: 255, 255, 255;
   --link-visited-color: 255, 255, 255;
 }
@@ -519,15 +522,16 @@ dt label.button {
   font-size: 1.2em;
 }
 .hdesc--top .extra .button-list {
-  position: absolute;
-  bottom: -4em;
-  right: 0;
+  /* position: absolute; */
+  /* bottom: -4em; */
+  /* left: 0; */
 }
 .hdesc--top .extra .button-list {
-  justify-content: flex-end;
+  justify-content: flex-start;
   --button-list-item-margin: 0.5rem;
   padding: 0;
-  margin-right: 1em;
+  margin-right: auto;
+  display: inline-flex;
 }
 .hdesc--top .extra .button-list li:first-child {
   all: initial;
@@ -546,8 +550,42 @@ dt label.button {
   color: rgba(var(--link-color), 0.85);
   top: 0.1em;
 }
+/***************************/
+.agregator {
+  --hdesc-dim-bg: none;
+  --hdesc-top-bg: #f5f5f5;
+}
+.agregator #header {
+  --header-bg: 255, 255, 255;
+  --header-color: var(--global-color);  
+  color: var(--global-color);
+}
 .agregator .hdesc--top {
-  padding-bottom: 5em;
+  padding-bottom: 17em;
+  padding-top: 9em;
+  color: var(--global-color);
+  margin-bottom: 25em;
+}
+.agregator .hdesc--top .meta,
+.agregator .hdesc--top h1,
+.agregator .hdesc--top .hdesc__desc-wrapper {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: left;
+}
+.agregator .hdesc--top:after {
+  content: "";
+  display: block;
+  margin: 0 auto;
+  position: absolute;
+  width: calc(var(--global-max-width) + 8em);
+  max-width: 100%;
+  height: 36em;
+  background: var(--no-img-bg);
+  top: initial;
+  bottom: -22em;
+  left: 0;
+  right: 0;
 }
 /***************************/
 .search {
@@ -685,14 +723,6 @@ dt label.button {
   }
 }
 /************************************/
-.agregator .hdesc--top + div:not(.section) {
-  padding: var(--part-vertical-padding) 0;
-  background: var(--part-odd-bg);
-}
-.agregator .hdesc--top + div:not(.section) > * {
-  max-width: var(--global-max-width);
-  margin: var(--global-vertical-margin) auto;
-}
 .agregator #content .part.docinfo {
   padding-top: var(--part-vertical-padding);
 }
@@ -712,7 +742,7 @@ dt label.button {
 .agregator .hdesc__desc-wrapper p {
   font-size: 1.2rem;
   margin-top: 0;
-  margin-bottom: calc(2.5 * var(--global-vertical-margin));
+  margin-bottom: calc(1.5 * var(--global-vertical-margin));
 }
 .agregator {
   --part-vertical-padding: 1rem;
@@ -969,7 +999,6 @@ div.part.internetguru:before {
   }
 }
 /***************************/
-.agregator-new .hdesc--top,
 dl.clanek.linklist-new,
 dl.clanek.doclist-new {
   overflow: hidden;
@@ -1004,31 +1033,29 @@ dl.clanek.doclist-new > dt:first-child:after {
   left: -2.75em;
   letter-spacing: normal;
 }
-@media all and (min-width: 52em) {
-  .agregator-new .hdesc--top > div:after {
-    transform: rotate(0deg);
-    background: none;
-    line-height: normal;
-    color: #80CBC4;
-    font-size: 1.75rem;
-    font-weight: 500;
-    border: medium solid #80CBC4;
-    display: inline-block;
-    padding: 0.5rem 1rem;
-    text-transform: uppercase;
-    border-radius: 1rem;
-    -webkit-mask-image: url('/files/preview/grunge.png');
-    z-index: 2;
-    width: fit-content;
-    margin-top: 1rem;
-    margin-left: auto;
-    margin-right: auto;
-    position: absolute;
-    z-index: 1;
-    bottom: -2em;
-    left: 1rem;
-   }
-}
+.agregator-new .hdesc--top > div:after {
+  transform: rotate(0deg);
+  background: none;
+  line-height: normal;
+  color: #009688;
+  font-size: 1.75rem;
+  font-weight: 500;
+  border: medium solid #009688;
+  display: block;
+  padding: 0.5rem 1rem;
+  text-transform: uppercase;
+  border-radius: 1rem;
+  -webkit-mask-image: url('/files/preview/grunge.png');
+  z-index: 2;
+  width: fit-content;
+  margin-top: 2rem;
+  /* margin-left: auto; */
+  margin-right: auto;
+  position: static;
+  z-index: 1;
+  bottom: -1em;
+  left: 1rem;
+ }
 /***************************/
 @media print {
   @page {
