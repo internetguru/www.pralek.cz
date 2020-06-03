@@ -593,12 +593,18 @@ body:not(.agregator) .hdesc--top label {
   display: block;
   position: relative;
   margin: 0 auto;
-  width: calc(var(--global-max-width) + 8em);
-  max-width: 100%;
+  max-width: 100vw;
   height: 36em;
   margin-top: -14em;
   margin-bottom: 3em;
   background: var(--no-img-bg);
+  
+}
+@media all and (min-width: 70em) {
+  .agregator #content .hdesc--top + div:before {
+    width: calc(var(--global-max-width) + 8em);
+    margin-left: -4em;
+  }
 }
 /***************************/
 .search {
