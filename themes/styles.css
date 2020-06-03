@@ -602,7 +602,9 @@ body:not(.agregator) .hdesc--top label {
   margin-top: -14em;
   margin-bottom: 3em;
   background: var(--no-img-bg);
-  
+}
+body[data-link="/resuscitace-ozivovani"].agregator #content .hdesc--top + div:before {
+  background: url("/files/koutek/resuscitace-ozivovani/main.jpg") 50% 33% / cover;
 }
 @media all and (min-width: 70em) {
   .agregator #content .hdesc--top + div:before {
