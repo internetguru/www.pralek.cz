@@ -3,7 +3,6 @@ FontAwesomeConfig = {
 };
 
 (() => {
-  return;
   require("IGCMS", () => { IGCMS.ready(() => {
     let icons = document.querySelectorAll('*[class*="fa-"]')
     let iconsCache = []
