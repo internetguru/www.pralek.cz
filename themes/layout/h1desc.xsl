@@ -91,7 +91,7 @@
         </xsl:if>
       </xsl:element>
     </xsl:element>
-    <xsl:element name="div">
+    <xsl:element name="div">&#160;
       <xsl:call-template name="topdiv"/>
     </xsl:element>
   </xsl:template>
