@@ -260,6 +260,10 @@
   top: -2.7rem;
   line-height: 110%;
   text-align: left;
+  display: none;
+}
+.extra .hideable-nohide .copyable-wrapper {
+  display: flex;
 }
 .clanek .copyable-wrapper {
   width: 100%;
