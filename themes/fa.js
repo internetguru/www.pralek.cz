@@ -3,24 +3,29 @@ FontAwesomeConfig = {
 };
 
 (() => {
+  require("IGCMS", () => { IGCMS.ready(() => {
     let icons = document.querySelectorAll('*[class*="fa-"]')
-    let iconsCache = {}
+    let iconsCache = []
     icons.forEach((icon) => {
-      const name = icon.className.match(/fa-([^ ]+)/)[1]
-      iconsCache.name = icon.className
-      const svg = document.createElemnt("svg")
-      svg.innerHTML = `<use xlink:href="#${name}"></use>`
+      const name = icon.className.match(/fa-(?!fw)([^ ]+)/)[1]
+      iconsCache[name] = icon.className
+      const svg = document.createElement("svg")
+      svg.className = "fa-symbol"
+      const useSVG = document.createElementNS('http://www.w3.org/2000/svg', 'use')      
+      useSVG.setAttributeNS('http://www.w3.org/1999/xlink','xlink:href','#' + name);
+      svg.appendChild(useSVG)
       icon.parentNode.replaceChild(svg, icon)
+      svg.parentNode.innerHTML += ''
     })
-    Object.entries(iconCache).forEach(([name, cls]) => {
-      let symbol = document.createElement("span")
-      symbol.className = cls
-      symbol.setAttribute("data-fa-symbol", name)
-      document.body.appendChild(symbol)
-    })
+    for (let name in iconsCache) {
+      document.body.insertAdjacentHTML(
+        'beforeend', 
+        '<span data-fa-symbol="' + name + '" class="' + iconsCache[name] + '">'
+      )
+    }
     var script = document.createElement("script")
     script.type = "text/javascript"
-    script.setAttribute("data-search-pseudo-elements", "")
     script.src = "https://kit.fontawesome.com/b0c4047774.js"
     document.head.appendChild(script)
+  })})
 })()
