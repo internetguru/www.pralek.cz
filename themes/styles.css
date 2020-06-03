@@ -23,7 +23,7 @@
   --hdesc-p-max-width: 38rem;
   --input-border: medium solid #BDBDBD;
   --button-list-item-margin: 0.5rem;
-  --h1-font-size: 4em;
+  --h1-font-size: 2.5em;
 }
 .button--border,
 .button--simple {
@@ -36,6 +36,11 @@
 #footer .button:active,
 #footer .button:focus {
   color: #fff;
+}
+@media all and (min-width: 32em) {
+  :root {
+    --h1-font-size: 4em;
+  }
 }
 /************************************/
 .hdesc h1 {
@@ -307,6 +312,7 @@ a.tag {
   --link-border-opacity: 0.2;
   margin-left: 1.95em;
   position: relative;
+  white-space: nowrap;
 }
 .kw a.tag:first-child {
   margin-left: 1.3em;
