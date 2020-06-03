@@ -5,7 +5,7 @@
     if (!general) {
       return;
     }
-    IGCMS.appendStyle(".agregator .hdesc--top:after { background: url('" + general + "') 50% 33% / cover !important; }")
+    IGCMS.appendStyle(".agregator #content > .section:before { background: url('" + general + "') 50% 33% / cover !important; }")
   })
   
 })()
