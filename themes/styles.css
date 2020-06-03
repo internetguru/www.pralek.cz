@@ -603,8 +603,8 @@ body:not(.agregator) .hdesc--top label {
   margin-bottom: 3em;
   background: var(--no-img-bg);
 }
-body[data-link="/resuscitace-ozivovani"].agregator #content .hdesc--top + div:before {
-  background: url("/files/koutek/resuscitace-ozivovani/main.jpg") 50% 33% / cover;
+body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before {
+  background: url("/files/preview/koutek/lymfaticke_uzliny/main.jpg") 50% 33% / cover;
 }
 @media all and (min-width: 70em) {
   .agregator #content .hdesc--top + div:before {
