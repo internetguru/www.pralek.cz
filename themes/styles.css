@@ -631,7 +631,7 @@ body:not(.agregator) .hdesc--top label {
   border: 0;
   outline: none;
   padding: 0.5em 1em;
-  background: rgba(85, 85, 85, 0.59);
+  background: rgba(214, 214, 214, 0.59);
   transition: all .1s ease-in-out;
   width: 100%;
   max-width: 100%;
@@ -657,7 +657,7 @@ body:not(.agregator) .hdesc--top label {
   color: #333;
 }
 .search ul .js-completable__input:focus {
-  background: #ffffff;
+  background: #F5F5F5;
 }
 .search ul li > label {
   width: 100%;
@@ -673,10 +673,10 @@ body:not(.agregator) .hdesc--top label {
   }
 }
 .search ul .js-completable__input::placeholder {
-  color: #fff;
+  color: #616161;
 }
 .search ul .js-completable__input:focus::placeholder {
-  color: #555;
+  
 }
 .search button[type="submit"] {
   width: 6rem;
