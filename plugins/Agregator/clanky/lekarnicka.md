@@ -21,7 +21,7 @@ Některé součásti domácí lékárničky mohou být použity v domácnosti i 
 
 n/a
 
-Nástroje v lékárničce mají být samozřejmě čisté. Před každým léčebným použitím je třeba je [vydezinfikovat][1] a po použití mechanicky očistit. To platí např. i pro kontaktní teploměr, kde např. hrozí riziko [přenosu plísní][2].
+Nástroje v lékárničce mají být samozřejmě čisté. Před každým léčebným použitím je třeba je [vydezinfikovat][1] a po použití mechanicky očistit. To platí např. i pro kontaktní teploměr, kde mj. hrozí [přenos plísní][2].
 
 Lékařský teploměr
 :   Základní typy teploměrů jsou lihový, rtuťový a digitální. [Teplotu měří][3] v zásadě všechny stejně dobře, jen různě rychle. Nejrychlejší je bezkontaktní digitální teploměr vhodný obzvlášť pro měření teploty malých dětí.
