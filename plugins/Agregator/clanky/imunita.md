@@ -9,20 +9,34 @@
 
 Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imunita mění, lze ji podpořit zdravým způsobem života nebo naopak oslabit nadměrným užíváním léků.
 
-Stupně nastavení imunitního systému
-
-  1. **Správně fungující imunitní systém** dokáže rozpoznat a označit drobného cizího nepřítele v lidském těle (nejčastěji [viry nebo bakterie][1]). Vetřelec je po označení rychle zlikvidován speciálními bílými krvinkami.
-  2. Snížená imunita vede k tomu, že nepřítel není rozpoznán a bílé krvinky ho ignorují. Nepoznané cizí bakterie se snadno pomnoží a vzniká **zánětlivé onemocnění**, které je nutno léčit antibiotiky.
-  3. Nadměrná imunitní aktivita naopak může označovat za nepřítele i takové látky v těle, které ve skutečnosti nepřítelem nejsou (např. pylová zrnka, prach, částečky kovu nebo různé léky). Pak se jedná o **alergii** na tu kterou látku, dnes již bohužel často i o [alergie][2] smíšené.
-  4. Může dokonce být imunitním systémem označena za nepřítele i některá tělu vlastní bílkovina a proti ní se tvoří protilátky. Pak se jedná o závažné tzv. **autoimunní onemocnění.**
-
-{id="co\_delat\_pro\_spravne\_fungujici\_imunitni\_system"}
-
-## Co dělat pro správně fungující imunitní systém
+## Stupně nastavení imunitního systému
 
 n/a
 
-Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedinec, který má řádně vyvinutý imunitní (obranný) systém, je tedy odolný vůči [nakažlivým nemocem][3] i vůči [prochlazení][4], vyroste tehdy,
+Správně fungující imunitní systém
+:   Dokáže rozpoznat a označit drobného cizího nepřítele v lidském těle (nejčastěji [viry nebo bakterie][1]).
+:   Vetřelec je po označení rychle zlikvidován speciálními bílými krvinkami.
+
+Snížená imunita
+:   Vede k tomu, že nepřítel není rozpoznán a bílé krvinky ho ignorují.
+:   Nepoznané cizí bakterie se snadno pomnoží a vzniká **zánětlivé onemocnění**, které je nutno léčit antibiotiky.
+
+Nadměrná imunitní aktivita
+:   Naopak může označovat za nepřítele i takové látky v těle, které ve skutečnosti nepřítelem nejsou (např. pylová zrnka, prach, částečky kovu nebo různé léky).
+:   Jedná se pak o **alergii** na tu kterou látku, dnes již bohužel často i o [alergie][2] smíšené.
+
+Autoimunní onemocnění
+:   Imunitním systémem může dokonce být označena za nepřítele i některá tělu vlastní bílkovina a proti ní se tvoří protilátky.
+:   Jedná se pak o závažné **autoimunní onemocnění.**
+
+{id="spravne\_fungujici\_imunitni\_system"}
+
+## Co dělat pro správně fungující imunitní systém
+
+Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedinec, který má řádně vyvinutý imunitní (obranný) systém, je odolný vůči [nakažlivým nemocem][3] i vůči [prochlazení][4].
+
+
+Takový jedinec vyroste tehdy,
 
   * narodí-li se přirozenou cestou (blízkost porodních cest a konečníku je již při porodu prvním setkáním [s dávkou bakterií][3]),
   * je-li kojen, dostává další obranné látky od matky spolu s mateřským mlékem,
@@ -30,19 +44,15 @@ Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedi
   * následně si batole strká do pusy vše co vidí, mnohdy i věci nám zcela nepochopitelné, jde o pudové chování, smyslem je časně si zmapovat okolní bakterie a záhy tvořit imunitu,
   * výhodou je blízkost domácích zvířat, návštěva chléva, pobyt na venkovském dvoře, pohladit zvíře pod dohledem opatrovníka je správné.
 
-Skleníkové prostředí bez přítomnosti bakterií není pro zdárný vývoj dítěte správné, opačný extrém však jistě rovněž ne. Bohužel domácí mazlíček často olizuje majiteli (nebo i dítěti!) obličej. Na čenichu a v tlamě psa a kočky žijí zcela odlišené a **pro člověka nepřijatelné bakteriální kmeny**.
+Skleníkové prostředí bez přítomnosti bakterií není pro zdárný vývoj dítěte správné, opačný extrém však jistě rovněž ne. Bohužel například  domácí mazlíček často olizuje majiteli (nebo i dítěti!) obličej. Na čenichu a v tlamě psa a kočky žijí zcela odlišené a **pro člověka nepřijatelné bakteriální kmeny**.
 
 {id="imunitni\_system\_a_antibiotika"}
 
 ## Imunitní systém a antibiotika
 
-n/a
-
-{class="important"}
-
 Opakované a nadměrné užívání antibiotik vede k oslabení imunitního systému. Choroboplodné zárodky jsou pomocí antibiotik zlikvidovány dříve, nežli se proti nim vytvoří dostatečně kvalitní imunita.
 
-Při opakovaném setkání se stejným mikrobem může tedy dojít k opakovanému onemocnění. Nyní již však má tento mikrob patrně vytvořenou resistenci vůči tomu [antibiotiku][1], kterým byl pacient posledně léčen. Pro zvládnutí klinicky stejné choroby je nutné nasadit odlišné antibiotikum.
+Při opakovaném setkání se stejným mikrobem může dojít k opakovanému onemocnění. Nyní však již má tento mikrob patrně vytvořenou resistenci vůči tomu [antibiotiku][1], kterým byl pacient posledně léčen. Pro zvládnutí klinicky stejné choroby je nutné nasadit odlišné antibiotikum.
 
 {id="otazky" var="inputvar-otazky_h"}
 
