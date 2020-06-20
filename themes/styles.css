@@ -519,7 +519,7 @@ dt label.button {
   justify-content: center;
 }
 .breadcrumb .breadcrumb__item {
-  margin: 0.75em 0 0.5em 0;
+  margin: 0.85em 0 0.5em 0;
 }
 .breadcrumb a.logo {
   border: none;
