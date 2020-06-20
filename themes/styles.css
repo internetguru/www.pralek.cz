@@ -522,7 +522,7 @@ dt label.button {
 .breadcrumb .breadcrumb__item {
   margin: 0.85em 0 0.5em 0;
 }
-.breadcrumb a.logo {
+.breadcrumb a {
   border: none;
 }
 .breadcrumb .imgwrap {
@@ -532,18 +532,17 @@ dt label.button {
   padding: 0 !important;
   margin-right: 0.5em;
 }
-.breadcrumb a.logo {
-  display: flex;
-  align-items: flex-end;
+.breadcrumb svg {
+  color: #009688;
 }
-.breadcrumb a[href] .imgwrap + span {
+.breadcrumb a[href] span {
   border-bottom: thin solid rgba(0, 0, 0, 0.44);
   position: relative;
   top: -0.25em;
   margin-left: 0.25em;
 }
 @media (max-width: 42em) {
-  .breadcrumb .imgwrap + span {
+  .breadcrumb span {
     display: none;
   }
 }
@@ -598,7 +597,7 @@ body:not(.agregator) .hdesc--top label {
   margin-right: 0.5em;
 }
 .hdesc--top .meta .tag svg {
-  color: rgba(var(--link-color), 0.85);
+  color: rgba(var(--link-color), 0.5);
   top: 0.1em;
 }
 /***************************/
