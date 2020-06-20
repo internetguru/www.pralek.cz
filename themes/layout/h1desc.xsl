@@ -100,7 +100,6 @@
     </xsl:element>
   </xsl:template>
   
-  <xsl:template match="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
 
   <xsl:template name="topdiv">
     <xsl:param name="pos" select="1"/>
