@@ -34,9 +34,7 @@
             <xsl:value-of select="."/>
           </xsl:element>
         </xsl:element>
-        <div class="part docinfo">
-          <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
-        </div>
+        <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
 <!--
 <div class="hdesc__desc-wrapper">
           <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
