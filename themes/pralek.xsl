@@ -52,9 +52,6 @@
   </xsl:template>
   
   <xsl:template match="//div[@class='part dotace']">
-    <div class="part docinfo">
-      <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
-    </div>
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
       <div id="feedback">
@@ -66,9 +63,7 @@
       </div>
     </xsl:copy>
   </xsl:template>
-  
-  <xsl:template match="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
-  
+    
   <xsl:template match="//*[contains(@class, 'example')]">
     <xsl:copy>
       <xsl:apply-templates select="@*"/>
