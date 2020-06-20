@@ -5,7 +5,7 @@
 
 # Zvětšené lymfatické uzliny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_update_kw.sh on 2020-04-17, do not edit -->
 
 {kw="uzliny, kůže-podkoží, teplota, boulička, zánět, nádory, cévy"}
 
@@ -25,18 +25,18 @@ V lymfatických uzlinách jsou [některé mikroorganizmy][4] zničeny, některé
 
 ## Zvětšené, bolestivé a jinak změněné lymfatické uzliny
 
-Normální lymfatické uzliny jsou drobné a nejsou ani hmatné ani bolestivé ani viditelné. Mění se v případě výskytu nějakého problému ve spádové oblasti (oblast, odkud přitéká lymfa). [Uzliny se mohou zvětšit][6] do velikosti hrachu až fazole, mohou být hmatné, viditelné a bolestivé.
+Normální lymfatické uzliny jsou drobné a nejsou ani hmatné ani bolestivé ani viditelné. Mění se v případě výskytu nějakého problému ve _spádové oblasti_. To je oblast, odkud do dané uzliny přitéká lymfa.
 
-Důvodem zvětšení uzlin bývá zánět, pohmoždění nebo nádor oblasti, odkud lymfa přitéká. [Podle stádia zánětu][7] budou uzliny bolestivé nebo nebolestivé:
+[Uzliny se mohou zvětšit][6] do velikosti hrachu až fazole, mohou být hmatné, viditelné a bolestivé. Důvodem zvětšení uzlin bývá zánět, pohmoždění nebo nádor ve spádové oblasti. [Podle stádia zánětu][7] jsou zvětšené uzliny bolestivé nebo nebolestivé:
 
-  * **Čerstvě vzniklý zánět** povede k _bolestivému_ zvětšení uzliny (akutní zánět).
-  * **Dlouhodobý zánět** způsobí dlouhodobé _nebolestivé_ zvětšení uzlin (chronický zánět).
+  * Čerstvě vzniklý neboli akutní zánět způsobuje _bolestivé_ zvětšení uzliny.
+  * Dlouhodobý neboli chronický zánět způsobuje dlouhodobé _nebolestivé_ zvětšení uzlin.
 
 Příklady zvětšení lymfatických uzlin:
 
-  * Nadměrná zátěž dolních končetin u mladých lidí často vede ke **zvětšení a bolestivosti tříselních uzlin**. Vzniklou bolestivou [bouličku je nutno odlišit od kýly][8].
+  * Nadměrná zátěž dolních končetin u mladých lidí často vede ke **zvětšení a bolestivosti tříselných uzlin**. Vzniklou bolestivou [bouličku je nutno odlišit od kýly][8].
   * [Zánět nehtového lůžka][9], oděrky prstů nebo pat mohou způsobit **bolestivé zvětšení uzlin v zákolenní jamce nebo v tříslech**.
-  * Dlouhodobé oděrky nebo plísně nohou zapříčiní **nebolestivé zvětšení tříselních uzlin**.
+  * Dlouhodobé oděrky nebo plísně nohou zapříčiní **nebolestivé zvětšení tříselných uzlin**.
   * Stejně tak dojde ke **zvětšení uzlin na horní končetině** v loketní jamce nebo v podpaží (zánět, oděrka, namožení).
   * _Prudký_ zánět na končetině s horečkou může způsobit **rudý horký viditelný pruh od místa zánětu směrem k trupu s bolestivou uzlinou na konci**. Jedná se o zánět lymfatické cévy, která se změnila a stala se viditelnou a bolestivou (laicky nesprávně označována jako otrava krve).
   * Zánět nebo nádor ve stěně hrudníku nebo v prsu rovněž způsobí **zvětšení uzlin v podpaží** (stejná spádová oblast jako pro horní končetinu).
