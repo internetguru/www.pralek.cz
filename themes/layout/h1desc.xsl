@@ -96,6 +96,9 @@
     <xsl:element name="div">&#160;
       <xsl:call-template name="topdiv"/>
     </xsl:element>
+    <div class="hdesc__desc-wrapper">
+      <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
+    </div>
   </xsl:template>
   
 
