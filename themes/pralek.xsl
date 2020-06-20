@@ -52,11 +52,11 @@
   </xsl:template>
   
   <xsl:template match="//div[@class='part dotace']">
+    <div class="part docinfo">
+      <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
+    </div>
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
-      <div class="part docinfo">
-        <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
-      </div>
       <div id="feedback">
         <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
         <ul class="button-list">
