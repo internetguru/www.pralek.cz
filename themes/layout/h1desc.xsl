@@ -34,10 +34,14 @@
             <xsl:value-of select="."/>
           </xsl:element>
         </xsl:element>
-        <div class="hdesc__desc-wrapper">
+        <div class="part docinfo">
+          <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
+        </div>
+<!--
+<div class="hdesc__desc-wrapper">
           <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
         </div>
-        <!--<xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>-->
+-->
         <xsl:if test="/body[contains(@class, 'agregator')]">
           <div class="extra">
             <ul class="button-list">
@@ -95,6 +99,8 @@
       <xsl:call-template name="topdiv"/>
     </xsl:element>
   </xsl:template>
+  
+  <xsl:template match="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
 
   <xsl:template name="topdiv">
     <xsl:param name="pos" select="1"/>
