@@ -23,7 +23,10 @@
   --hdesc-p-max-width: 38rem;
   --input-border: medium solid #BDBDBD;
   --button-list-item-margin: 0.5rem;
-  --h1-font-size: 2.5em;
+  --h1-font-size: 3em;
+  --h1-font-weight: 700;
+  --hdesc-top-h1-max-width: 15em;
+  --font-family: Lato, sans-serif;
 }
 .button--border,
 .button--simple {
@@ -37,10 +40,8 @@
 #footer .button:focus {
   color: #fff;
 }
-@media all and (min-width: 32em) {
-  :root {
-    --h1-font-size: 4em;
-  }
+h1 {
+  line-height: 1.15;
 }
 /************************************/
 .hdesc h1 {
@@ -72,6 +73,29 @@
 }
 .clanek .extra {
   --button--simple-active-bg: #4DB6AC;  
+}
+.hdesc--top .list-wrapper--multiple {
+  padding: 0;
+  margin-top: 4em;
+}
+.hdesc--top .list-wrapper--multiple svg {
+  display: none;
+}
+.hdesc--top .list-wrapper--multiple ul {
+  margin: 0;
+}
+.hdesc--top .list-wrapper--multiple li {
+  margin: 0;
+  margin-right: 0.5em;
+  font-size: 1.25em;
+}
+.hdesc--top .list-wrapper--multiple li + li:before {
+  content: "•";
+  margin-right: 0.5em;
+}
+.hdesc--top .list-wrapper--multiple .share,
+.hdesc--top .list-wrapper--multiple .social {
+  display: none;
 }
 .hdesc--top .button:hover,
 .hdesc--top .button:active,
@@ -477,7 +501,7 @@ dt label.button {
   width: 100%;
 }
 #header > div {
-  max-width: 80rem;
+  max-width: 62rem;
 }
 .search ul {
   --button-svg-color: #ffffff;
@@ -510,6 +534,9 @@ dt label.button {
 }
 .breadcrumb a[href] .imgwrap + span {
   border-bottom: thin solid rgba(0, 0, 0, 0.44);
+  position: relative;
+  top: -0.25em;
+  margin-left: 0.25em;
 }
 @media (max-width: 42em) {
   .breadcrumb .imgwrap + span {
@@ -538,7 +565,8 @@ body:not(.agregator) .hdesc--top label {
 }
 .hdesc--top .extra .button-list {
   justify-content: flex-start;
-  --button-list-item-margin: 0.5rem;
+  --button-list-item-margin: 1rem;
+  --button--simple-bg: #F5F5F5;
   padding: 0;
   margin-right: auto;
   display: inline-flex;
@@ -546,6 +574,7 @@ body:not(.agregator) .hdesc--top label {
 .hdesc--top .extra .button-list li:first-child {
   all: initial;
   margin: 0.25rem;
+  margin-left: 0;
 }
 .hdesc--top .extra .button-list li:first-child .button {
   border-radius: 100%;
@@ -556,6 +585,9 @@ body:not(.agregator) .hdesc--top label {
   max-width: var(--hdesc-p-max-width);
   margin: 0 auto;
 }
+.hdesc--top .meta .tag:first-child {
+  margin-left: 1.5em;
+}
 .hdesc--top .meta .tag svg {
   color: rgba(var(--link-color), 0.85);
   top: 0.1em;
@@ -563,19 +595,20 @@ body:not(.agregator) .hdesc--top label {
 /***************************/
 .agregator {
   --hdesc-dim-bg: none;
-  --hdesc-top-bg: #f5f5f5;
+  --hdesc-top-bg: #ffffff;
 }
 .agregator #header {
   --header-bg: 255, 255, 255;
-  --header-color: var(--global-color);  
+  --header-color: var(--global-color);
   color: var(--global-color);
+  border-bottom: thin solid #E0E0E0;
 }
 .agregator .hdesc--top {
   padding-bottom: 17em;
   padding-top: 9em;
   color: var(--global-color);
 }
-.agregator .hdesc--top + div:not(.section) {
+.agregator .hdesc--top ~ div:not(.section) {
   max-width: var(--global-max-width);
   margin: 0 auto;
 }
@@ -705,7 +738,7 @@ body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before
 .search button[type="submit"] svg {
   font-size: 2.25rem;
 }
-@media (min-width: 82em) {
+@media (min-width: 72em) {
   .search ul button[type="submit"] {
     border-radius: 0 0 var(--global-border-radius) 0;
   }
@@ -769,6 +802,8 @@ body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before
   font-size: 1.2rem;
   margin-top: 0;
   margin-bottom: calc(1.5 * var(--global-vertical-margin));
+  text-align: left;
+  padding: 0 var(--global-horizontal-padding);
 }
 .agregator {
   --part-vertical-padding: 1rem;
