@@ -5,7 +5,7 @@
   --global-border-radius: 0.5rem;
   --global-vertical-margin: 1.5rem;
   --line-height: 1.5;
-  --hdesc-dim-bg: rgba(0,0,0,0.6);
+  --hdesc-dim-bg: none;
   --footer-service-ico-color: 255, 255, 255;
   --button-svg-color: #00796B;
   --button-color: 255,255,255;
@@ -541,10 +541,10 @@ dt label.button {
 .breadcrumb svg {
   color: #E91E63;
 }
-.breadcrumb a[href] > span + span {
+.breadcrumb a > span + span {
   display: none;
 }
-.breadcrumb a[href] > span {
+.breadcrumb a > span {
   text-transform: uppercase;
   vertical-align: 0.035em;
   /* margin-left: 0.5em; */
@@ -557,7 +557,6 @@ dt label.button {
   display: none;
 }
 .hdesc--top {
-  color: white;
   padding-top: 7em;
 }
 body:not(.agregator) .hdesc--top a:not(.definition-href),
@@ -614,28 +613,27 @@ body:not(.agregator) .hdesc--top label {
   --hdesc-dim-bg: none;
   --hdesc-top-bg: #ffffff;
 }
-.agregator #header {
-  /* --header-bg: 245, 245, 245; */
-  --header-color: var(--global-color);
-  color: var(--global-color);
+.hdesc--top {
+  padding-top: 6em;
+  padding-bottom: 4em
 }
 .agregator .hdesc--top {
   padding-bottom: 16em;
   padding-top: 6em;
   color: var(--global-color);
 }
-.agregator .hdesc--top ~ div:not(.section) {
+.hdesc--top ~ div:not(.section) {
   max-width: var(--global-max-width);
   margin: 0 auto;
 }
-.agregator .hdesc--top .meta,
-.agregator .hdesc--top h1,
-.agregator .hdesc--top .hdesc__desc-wrapper {
+.hdesc--top .meta,
+.hdesc--top h1,
+.hdesc--top .hdesc__desc-wrapper {
   margin-left: 0;
   margin-right: 0;
   text-align: left;
 }
-.agregator .hdesc--top:after {
+.hdesc--top:after {
   display: none;
 }
 .agregator #content .section {
@@ -652,11 +650,6 @@ body:not(.agregator) .hdesc--top label {
   margin-bottom: 1em;
   background: var(--no-img-bg);
 }
-/*
-body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before {
-  background: url("/files/koutek/lymfaticke_uzliny/main.jpg") 50% 33% / cover;
-}
-*/
 @media all and (min-width: 70em) {
   .agregator #content .hdesc--top + div:before {
     width: calc(var(--global-max-width) - 2em);
@@ -829,7 +822,7 @@ body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before
   margin-bottom: calc(1.5 * var(--global-vertical-margin));
   text-align: left;
 }
-.agregator .hdesc--top .hdesc__desc-wrapper {
+.hdesc--top .hdesc__desc-wrapper {
   color: #757575;
 }
 .agregator {
