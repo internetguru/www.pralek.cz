@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Breadcrumb>
-  <var id="logo"><span class="far fa-fw fa-2x fa-heart">i</span><span>Pralék</span></var>
+  <var id="logo"><span class="far fa-fw fa-2x fa-heart">i</span><span><span>Pra</span><span>lék</span></span></var>
   <var id="homeTitle">Na domovskou stránku</var>
 </Breadcrumb>
