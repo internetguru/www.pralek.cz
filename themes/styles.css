@@ -59,15 +59,15 @@ h1 {
 }
 .hdesc--top + div:not(.section) .list ol ol li:before,
 .hdesc--top + div:not(.section) .list ol ul li:before,
-.part:not(.docinfo):not(.odkazy) .list ol ol li:before,
-.part:not(.docinfo):not(.odkazy) .list ol ul li:before {
+.part:not(.docinfo):not(.odkazy):not(.o_praleku) .list ol ol li:before,
+.part:not(.docinfo):not(.odkazy):not(.o_praleku) .list ol ul li:before {
   counter-increment: subsection;
   content: counter(subsection, lower-alpha) ".";
 }
 .hdesc--top + div:not(.section) .list ul li:before,
 .hdesc--top + div:not(.section) .list ol li:before,
-.part:not(.docinfo):not(.odkazy) .list ul li:before,
-.part:not(.docinfo):not(.odkazy) .list ol li:before {
+.part:not(.docinfo):not(.odkazy):not(.o_praleku) .list ul li:before,
+.part:not(.docinfo):not(.odkazy):not(.o_praleku) .list ol li:before {
   counter-increment: section;
   content: counter(section) ".";
   width: 1rem;
@@ -78,7 +78,7 @@ h1 {
   margin-left: -1.8rem;
   margin-right: 0.75rem;
 }
-.part:not(.docinfo):not(.odkazy) .list ul li:before {
+.part:not(.docinfo):not(.odkazy):not(.o_praleku) .list ul li:before {
   content: "•";
 }
 /************************************/
@@ -550,7 +550,7 @@ dt label.button {
 #header {
   --header-bg: 0,0,0,0;
   --header-padding-top: 0;
-  position: absolute;
+  /* position: absolute; */
   top: 0;
   left: 0;
   z-index: 2;
@@ -571,16 +571,29 @@ dt label.button {
   display: flex;
 }
 .breadcrumb {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+  /* justify-content: center; */
   align-items: baseline;
   padding-right: 3.9em;
   position: relative;
-  z-index: 1;
+  margin-left: 2.5rem;
+  /* z-index: 1; */
+}
+.breadcrumb .breadcrumb__item:first-child {
+  margin-left: -2.5rem;
+  width: 100%;
+  min-width: 16em;
 }
 .breadcrumb .breadcrumb__item {
   margin: 0.5em 0;
+}
+.breadcrumb .breadcrumb__item + .breadcrumb__item {
+  position: relative;
+  top: -1em;
+}
+.breadcrumb .breadcrumb__item:nth-child(2) {
+  margin-bottom: 0;
 }
 #header .breadcrumb a,
 #header .breadcrumb a[href] {
@@ -608,9 +621,15 @@ dt label.button {
   color: #E91E63;
 }
 .breadcrumb a > span + span {
+  /* display: none; */
+  display: block;
+  margin-left: 2.5rem;
+  margin-top: -0.3em;
+}
+.breadcrumb a[href] > span + span {
   display: none;
 }
-.breadcrumb a > span {
+.breadcrumb a > span:nth-child(2) {
   text-transform: uppercase;
   vertical-align: 0.035em;
   /* margin-left: 0.5em; */
@@ -676,12 +695,12 @@ body:not(.agregator) .hdesc--top label {
   --hdesc-top-bg: #ffffff;
 }
 .hdesc--top {
-  padding-top: 6em;
-  padding-bottom: 4em
+  padding-top: 2em;
+  padding-bottom: 4em;
 }
 .agregator .hdesc--top {
   padding-bottom: 16em;
-  padding-top: 6em;
+  padding-top: 1em;
   color: var(--global-color);
 }
 .hdesc--top ~ div:not(.section) {
