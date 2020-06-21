@@ -5,7 +5,7 @@
   padding: 0;
 }
 .breadcrumb .breadcrumb__item {
-  justify-content: center;
+  /* justify-content: center; */
   display: inline-flex;
   flex-wrap: nowrap;
   margin: 0.5em 0;
