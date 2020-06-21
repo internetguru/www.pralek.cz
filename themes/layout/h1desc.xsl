@@ -34,12 +34,10 @@
             <xsl:value-of select="."/>
           </xsl:element>
         </xsl:element>
-        <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
-<!--
-<div class="hdesc__desc-wrapper">
+        <div class="hdesc__desc-wrapper">
           <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
         </div>
--->
+        <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
         <xsl:if test="/body[contains(@class, 'agregator')]">
           <div class="extra">
             <ul class="button-list">
@@ -93,9 +91,9 @@
         </xsl:if>
       </xsl:element>
     </xsl:element>
-    <div class="hdesc__desc-wrapper">
+<!--     <div class="hdesc__desc-wrapper">
       <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
-    </div>
+    </div> -->
     <xsl:element name="div">&#160;
       <xsl:call-template name="topdiv"/>
     </xsl:element>
