@@ -18,7 +18,7 @@
   --list-ico-svg: #009688;
   --part-vertical-padding: 4rem;
   --part-odd-bg: none;
-  --hdesc-top-p-max-width: 38rem;
+  --hdesc-top-p-max-width: 51rem;
   --hdesc-top-bg: none;
   --hdesc-p-max-width: 38rem;
   --input-border: medium solid #BDBDBD;
@@ -76,7 +76,7 @@ h1 {
 }
 .hdesc--top .list-wrapper--multiple {
   padding: 0;
-  margin-top: 4em;
+  margin-top: 3em;
   text-align: left;
 }
 .hdesc--top .list-wrapper--multiple svg {
@@ -84,6 +84,8 @@ h1 {
 }
 .hdesc--top .list-wrapper--multiple ul {
   margin: 0;
+  text-align: left;
+  justify-content: flex-start;
 }
 .hdesc--top .list-wrapper--multiple li {
   margin: 0;
@@ -503,6 +505,7 @@ dt label.button {
 }
 #header > div {
   max-width: 62rem;
+  position: relative;
 }
 .search ul {
   --button-svg-color: #ffffff;
@@ -518,6 +521,7 @@ dt label.button {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  padding-right: 3.9em;
 }
 .breadcrumb .breadcrumb__item {
   margin: 0.85em 0 0.5em 0;
@@ -533,19 +537,20 @@ dt label.button {
   margin-right: 0.5em;
 }
 .breadcrumb svg {
+  color: #E91E63;
+}
+.breadcrumb a[href] > span + span {
+  display: none;
+}
+.breadcrumb a[href] > span {
+  text-transform: uppercase;
+  vertical-align: 0.035em;
+  /* margin-left: 0.5em; */
   color: #009688;
+  font-size: 1.8em;
+  font-weight: 600;
 }
-.breadcrumb a[href] span {
-  border-bottom: thin solid rgba(0, 0, 0, 0.44);
-  position: relative;
-  top: -0.25em;
-  margin-left: 0.25em;
-}
-@media (max-width: 42em) {
-  .breadcrumb span {
-    display: none;
-  }
-}
+.breadcrumb a[href] > span span + span {/* color: #009688; */}
 .breadcrumb > .breadcrumb__item + .breadcrumb__item {
   display: none;
 }
@@ -606,14 +611,13 @@ body:not(.agregator) .hdesc--top label {
   --hdesc-top-bg: #ffffff;
 }
 .agregator #header {
-  --header-bg: 255, 255, 255;
+  /* --header-bg: 245, 245, 245; */
   --header-color: var(--global-color);
   color: var(--global-color);
-  border-bottom: thin solid #E0E0E0;
 }
 .agregator .hdesc--top {
-  padding-bottom: 17em;
-  padding-top: 9em;
+  padding-bottom: 16em;
+  padding-top: 7em;
   color: var(--global-color);
 }
 .agregator .hdesc--top ~ div:not(.section) {
@@ -639,9 +643,9 @@ body:not(.agregator) .hdesc--top label {
   position: relative;
   margin: 0 auto;
   max-width: 100vw;
-  height: 36em;
+  height: 28em;
   margin-top: -14em;
-  margin-bottom: 3em;
+  margin-bottom: 1em;
   background: var(--no-img-bg);
 }
 body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before {
@@ -649,14 +653,17 @@ body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before
 }
 @media all and (min-width: 70em) {
   .agregator #content .hdesc--top + div:before {
-    width: calc(var(--global-max-width) + 8em);
-    margin-left: -4em;
+    width: calc(var(--global-max-width) - 2em);
+    /* margin-left: -4em; */
   }
 }
 /***************************/
 .search {
   padding-right: 6em;
   width: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
 }
 .search .js-completable__navig strong {
   font-weight: 600;
@@ -677,46 +684,41 @@ body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before
   height: 3.5em;
   border: 0;
   outline: none;
-  padding: 0.5em 1em;
-  background: #E0E0E0;
+  padding: 0;
+  background: #F5F5F5;
   transition: all .1s ease-in-out;
   width: 100%;
   max-width: 100%;
   border-radius: 0;
   -webkit-appearance: none;
   border-radius: 0 0 0 var(--global-border-radius);
-  border: thin solid rgba(255, 255, 255, 0.32);
   border-top: none;
+  width: 0;
+  position: relative;
+  right: -1rem;
 }
-@media (min-width: 38em) {
-  .search {
-    max-width: 25em;
-  }
-  .search ul .js-completable__input {
-    width: 18em;
-  }
-  .search ul .js-completable__input:focus {
-    width: 100%;
-  }
+.search ul .js-completable__input:focus {
+  width: 100%;
+  padding: 0.5em 1em;
 }
 .search .js-completable__navig,
 .search ul .js-completable__input:focus {
   color: #333;
 }
-.search ul .js-completable__input:focus {
-  background: #F5F5F5;
-}
 .search ul li > label {
   width: 100%;
   text-align: right;
 }
-@media (max-width: 38em) {
+@media (max-width: 46em) {
   .search ul .js-completable__input:focus {
-    max-width: calc(100% + 3.5em);
-    width: calc(100% + 3.5em);
+    max-width: calc(100% + 1em);
+    width: calc(100% + 1em);
     border-radius: 0;
     border-left: none;
     margin-left: -5em;
+  }
+  .search .js-completable__navig {
+    width: calc(100% + 10.5em) !important;
   }
 }
 .search ul .js-completable__input::placeholder {
@@ -726,7 +728,6 @@ body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before
   
 }
 .search button[type="submit"] {
-  width: 6rem;
   min-width: unset;
   height: 3.5rem;
   line-height: 3.5rem;
@@ -735,29 +736,35 @@ body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before
   position: absolute;
   right: -6rem;
   top: 0;
-  color: #fbe9e7;
-  padding: 0 0rem 0 0.5rem;
-  font-size: 1.8em;
+  color: #00796B;
+  padding: 0 0.75rem 0 1rem;
+  font-size: 1em;
   outline: none;
   border-radius: 0;
-  -webkit-appearance:  none;
-  --button-bg: #00695C;
+  -webkit-appearance: none;
+  --button-bg: none;
 }
 .search button[type="submit"] svg {
   font-size: 2.25rem;
+  color: #009688;
 }
-@media (min-width: 72em) {
+@media (min-width: 62em) {
   .search ul button[type="submit"] {
-    border-radius: 0 0 var(--global-border-radius) 0;
+    border-radius: 0 0 var(--global-border-radius) var(--global-border-radius);
   }
 }
 .search button span {
   display: none;
 }
-.search button[type="submit"]:hover {
-}
+.search button[type="submit"]:hover,
 .search button[type="submit"]:active,
 .search button[type="submit"]:focus {
+  color: white;
+}
+.search button[type="submit"]:hover svg,
+.search button[type="submit"]:active svg,
+.search button[type="submit"]:focus svg {
+  color: white;
 }
 .search ul {
   margin: 0;
@@ -774,7 +781,7 @@ body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before
   padding: 0;
 }
 .search .js-completable__navig {
-  width: calc(100% + 6em) !important;
+  width: calc(100% + 10.5em) !important;
   right: -6em;
   top: 3.5em;
 }
@@ -782,11 +789,15 @@ body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before
   max-width: 100%;
   display: block;
 }
-@media (max-width: 38em) {
-  .search .js-completable__navig {
-    width: calc(100% + 9.5em) !important;
-    right: -6em;
-    top: 3.5em;
+@media (min-width: 46em) {
+  .search {
+    max-width: 24em;
+  }
+  .search button span {
+    display: block;
+  }
+  .search ul .js-completable__input {
+    right: 4.8em;
   }
 }
 /************************************/
@@ -811,6 +822,7 @@ body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before
   margin-top: 0;
   margin-bottom: calc(1.5 * var(--global-vertical-margin));
   text-align: left;
+  color: #757575;
 }
 .agregator .hdesc--top + .hdesc__desc-wrapper p {
   padding: 0 var(--global-horizontal-padding);
@@ -994,10 +1006,10 @@ ol.otazky button:first-child {
 }
 .feedback-no,
 ol.otazky button:last-child {
-  --button--border-border: medium solid #F44336;
-  --button--border-active-border: medium solid #F44336;
-  --button--border-active-bg: #FFEBEE;
-  --button-svg-color: #F44336;
+  --button--border-border: medium solid #E91E63;
+  --button--border-active-border: medium solid #E91E63;
+  --button--border-active-bg: #FCE4EC;
+  --button-svg-color: #E91E63;
 }
 ol.otazky button.selected:first-child {
   --button--border-border: medium solid transparent;
