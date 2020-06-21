@@ -29,6 +29,20 @@ MUDr. Jaroslav Pavelka (<span class="far fa-xs fa-asterisk">i</span> 1952) {cla
       * [Staňte se patronem {class="button button--border"}][3] {class="donation"}
       * [<span class="fab fa-facebook-square">i</span> Sledujte nás {title="Sledovat Pralék na Facebooku" class="button button--border button--img button--img-inline"}][4] {class="facebook"} {data-visibility="/" class="contentbalancer--simple"}
 
+{id="historie"}
+
+### Historie webu
+
+Tento web byl založený v roce 2007 v reakci na časté a opakující se dotazy pacientů, kolegů a známých. Postupným přidáváním článků začala vznikat databáze autorova pojetí medicíny a přístupu k nemocem a k lidskému zdraví obecně.
+
+Postupným přidáváním článků vzniklo během prvních 10 let kolem stovky článků. Každý z nich prošel revizí s připomínkovým a schvalovacím procesem. Návštěvnost webu postupně vzrostla na desítky tisíc unikátních čtenářů měsíčně.
+
+{class="important"}
+
+Ve druhé fázi své existence všechny články dostaly obrázek a štítky. Web prošel řadou vylepšení co do výkonu, modernizace vzhledu a zobrazení. Přibylo interaktivní vyhledávání a filtrování článků podle štítků (kategorií).
+
+Díky autorově neúnavné práci a trpělivosti má každý možnost získat názor zkušeného ambulantního chirurga, kterému prošly rukama tisíce pacientů. Poděkování patří také všem sponzorům, kteří svým málem přispěli k udržení a rozvoji tohoto webu.
+
 {id="sponzoring"}
 
 ### Sponzoring webu
@@ -37,10 +51,11 @@ Práce s obsahem přináší nemalé náklady. Vytvoření kvalitního textu, kt
 
 {class="important"}
 
-Hlavním cílem finanční podpory je udržení, správa a rozvoj obsahu se zachováním nekomerční podstaty webu – **nestranný obsah bez reklam**. Jakýmkoli finančním příspěvkem podpoříte tento cíl naplnit.
+Hlavním cílem autora je udržení, správa a rozvoj webu se zachováním nekomerční podstaty – **nestranný obsah bez reklam**. Jakýmkoli finančním příspěvkem podpoříte tento cíl naplnit.
 
-Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah a pomáhat tak čím dál tím více lidem. S rostoucí částkou bude možné Pralék dále rozšiřovat, což mohou sponzoři přímo či nepřímo ovlivnit:
+Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah a pomáhat tak čím dál tím více lidem. S rostoucí částkou bude možné web dále rozšiřovat, což mohou sponzoři přímo či nepřímo ovlivnit:
 
+  * vznik nových článků na vybrané téma,
   * pokročilý sběr zpětné vazby čtenářů,
   * off-line procházení webu (bez připojení k internetu),
   * mobilní aplikace,
@@ -50,7 +65,7 @@ Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah
   * interaktivní testy (abc) s automatickým vyhodnocením,
   * překlady, lokalizace a zpřístupnění obsahu ve více jazycích.
 
-Pro účely dotací jsme zvolili službu [Patreon][3]. Služba je napůl anglicky a podporuje platby přes [PayPal][5] a platební karty. Pokud chcete web sponzorovat jiným způsobem nebo za jiných podmínek, [ozvěte se autorovi na e-mail][6].
+Pro účely dotací jsme zvolili službu [Patreon][3]. Služba je zčásti v angličtině, podporuje platby přes [PayPal][5] a platební kartou. Pokud chcete web sponzorovat jiným způsobem nebo za jiných podmínek, [ozvěte se autorovi na e-mail][6].
 
 {class="button-list"}
 
@@ -63,10 +78,6 @@ Pro účely dotací jsme zvolili službu [Patreon][3]. Služba je napůl anglick
 {kw="upozornění, novinky, odběr"}
 
 <label>Přihlaste se {for="EMAIL"}</label> k odběru krátkých upozornění na nově vyšlé články! Maximálně dvakrát za měsíc obdržíte zprávu s informacemi o novém článku.
-
-<!--
-    
--->
 
 {id="ukazka"}
 
