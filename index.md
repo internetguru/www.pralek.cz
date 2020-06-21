@@ -1,7 +1,7 @@
 
 {data-image="/files/preview/koutek/main.jpg" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{author="Jaroslav Pavelka" authorid="autor" id="pralek" ctime="2007-03-29" short="Pralék: Praktické lékařství" title="Pralék: Praktické lékařství"}
+{author="Jaroslav Pavelka" authorid="autor" id="pralek" ctime="2007-03-29" short="Pralék: Praktické lékařství" title="Praktické lékařství"}
 
 # Prevence a řešení zdravotních problémů
 
