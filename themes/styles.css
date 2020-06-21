@@ -27,7 +27,7 @@
   --h1-font-size: 3em;
   --h1-font-weight: 700;
   --hdesc-top-h1-max-width: 15em;
-  --font-family: Lato, sans-serif;
+  --font-family: Roboto, sans-serif;
 }
 .button--border,
 .button--simple {
@@ -79,7 +79,7 @@ h1 {
   margin-right: 0.75rem;
 }
 .part:not(.docinfo):not(.odkazy):not(.o_praleku) .list ul li:before {
-  content: "•";
+  content: "●";
 }
 /************************************/
 #content a.definition {
@@ -137,7 +137,7 @@ h1 {
   font-size: 1.25em;
 }
 .hdesc--top .list-wrapper--multiple li:before {
-  content: "•";
+  content: "●";
   margin-right: 0.5em;
 }
 .hdesc--top .list-wrapper--multiple .share,
