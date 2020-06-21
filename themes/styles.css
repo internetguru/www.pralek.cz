@@ -589,6 +589,7 @@ dt label.button {
 }
 .breadcrumb .breadcrumb__item {
   margin: 0.5em 0;
+  justify-content: left;
 }
 .breadcrumb .breadcrumb__item + .breadcrumb__item {
   position: relative;
