@@ -430,6 +430,10 @@ dt label.button {
   margin: 0;
   background: none;
 }
+.hdesc.o_praleku + div .card dt,
+.o_praleku .card dt {
+  font-weight: 600;
+}
 .hdesc.o_praleku + div .card .tag,
 .o_praleku .card .tag {
   white-space: nowrap;
@@ -470,6 +474,11 @@ dt label.button {
 .hdesc.o_praleku + div q,
 .o_praleku q {
   color: #BF360C;
+}
+.hdesc.o_praleku .facebook,
+.o_praleku .facebook {
+  --button--border-border: medium solid #3F51B5;
+  --button--border-active-border: medium solid #9FA8DA;
 }
 .hdesc.o_praleku .fa-facebook-square,
 .o_praleku .fa-facebook-square {
