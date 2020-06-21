@@ -576,15 +576,16 @@ dt label.button {
   /* justify-content: center; */
   align-items: baseline;
   margin-right: 3.9em;
-  position: relative;
+  /* position: relative; */
   margin-left: 2.5rem;
-  z-index: 1;
+  /* z-index: 1; */
 }
 .breadcrumb .breadcrumb__item:first-child {
   position: relative;
   left: -2.5em;
   width: 100%;
   min-width: 16em;
+  z-index: 1;
 }
 .breadcrumb .breadcrumb__item {
   margin: 0.5em 0;
