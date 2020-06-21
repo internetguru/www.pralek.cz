@@ -5,7 +5,7 @@
   padding: 0;
 }
 .breadcrumb .breadcrumb__item {
-  align-items: center;
+  justify-content: center;
   display: inline-flex;
   flex-wrap: nowrap;
   margin: 0.5em 0;
@@ -13,7 +13,7 @@
   position: relative;
 }
 .breadcrumb .breadcrumb__item + .breadcrumb__item {
-  padding-left: 1em;
+  padding-left: 1.15em;
 }
 .breadcrumb > .breadcrumb__item + .breadcrumb__item:before {
   content: "›";
@@ -29,7 +29,7 @@
 }
 .breadcrumb .breadcrumb__item a:first-child {
   padding-left: 0;
-  padding-right: 1rem;
+  margin-right: 1rem;
 }
 @media print {
   .breadcrumb {
