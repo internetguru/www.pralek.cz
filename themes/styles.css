@@ -16,6 +16,7 @@
   --button--border-border: medium solid #009688;
   --button--border-active-border: medium solid #80CBC4;
   --list-ico-svg: #009688;
+  --list-margin-left: 2.75em;
   --part-vertical-padding: 4rem;
   --part-odd-bg: none;
   --hdesc-top-p-max-width: 51rem;
@@ -42,6 +43,49 @@
 }
 h1 {
   line-height: 1.15;
+}
+/************************************/
+.list ul,
+.list ol {
+  counter-reset: section;
+  list-style: none;
+}
+.list ul ul,
+.list ol ol,
+.list ul ol,
+.list ol ul {
+  counter-reset: subsection;
+  list-style: none;
+}
+.hdesc--top + div:not(.section) .list ol ol li:before,
+.hdesc--top + div:not(.section) .list ol ul li:before,
+.part:not(.docinfo):not(.odkazy) .list ol ol li:before,
+.part:not(.docinfo):not(.odkazy) .list ol ul li:before {
+  counter-increment: subsection;
+  content: counter(subsection, lower-alpha) ".";
+}
+.hdesc--top + div:not(.section) .list ul li:before,
+.hdesc--top + div:not(.section) .list ol li:before,
+.part:not(.docinfo):not(.odkazy) .list ul li:before,
+.part:not(.docinfo):not(.odkazy) .list ol li:before {
+  counter-increment: section;
+  content: counter(section) ".";
+  width: 1rem;
+  display: inline-flex;
+  font-size: 1.25em;
+  font-weight: bold;
+  color: #26A69A;
+  margin-left: -1.8rem;
+  margin-right: 0.75rem;
+}
+.part:not(.docinfo):not(.odkazy) .list ul li:before {
+  content: "•";
+}
+/************************************/
+#content a.definition {
+  border-bottom: medium dotted rgba(var(--link-color), 0.5) !important;
+  background: none;
+  transition: all var(--button-transition);
 }
 /************************************/
 .hdesc h1 {
@@ -530,6 +574,7 @@ dt label.button {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: baseline;
   padding-right: 3.9em;
   position: relative;
   z-index: 1;
@@ -537,8 +582,20 @@ dt label.button {
 .breadcrumb .breadcrumb__item {
   margin: 0.5em 0;
 }
-.breadcrumb a {
+#header .breadcrumb a,
+#header .breadcrumb a[href] {
+  --link-color: var(--global-color);
+  --link-visited-color: var(--global-color);
   border: none;
+}
+#header .breadcrumb > .breadcrumb__item ~ .breadcrumb__item a[href] {
+  border-bottom: thin solid rgba(var(--link-color), 0.5);
+}
+.breadcrumb > .breadcrumb__item + .breadcrumb__item:before {
+  color: #009688;
+  font-size: 2em;
+  font-weight: 600;
+  line-height: 1rem;
 }
 .breadcrumb .imgwrap {
   background: none;
@@ -560,10 +617,6 @@ dt label.button {
   color: #009688;
   font-size: 1.8em;
   font-weight: 600;
-}
-.breadcrumb a[href] > span span + span {/* color: #009688; */}
-.breadcrumb > .breadcrumb__item + .breadcrumb__item {
-  display: none;
 }
 .hdesc--top {
   padding-top: 7em;
@@ -840,26 +893,22 @@ body:not(.agregator) .hdesc--top label {
 /************************************/
 .important,
 .example {
-  max-width: calc(var(--global-max-width) - 12rem) !important;
+  /* max-width: calc(var(--global-max-width) - 12rem) !important; */
   list-style: none;
   position: relative;
   padding: 1em;
-  padding-left: 3.25rem;
+  padding-left: 3.75em;
   margin: 0 auto;
-  border-radius: var(--global-border-radius);
   min-height: 3.5em;
-  box-shadow: var(--shadow-1);
   color: black;
-}
-.important {
-  background: #FFE0B2;
-}
-.example {
-  background: #E8EAF6;
-  color: black;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  border-radius: var(--global-border-radius);
+  /* box-shadow: var(--shadow-1); */
 }
 .important svg {
-  color: #FB8C00;
+  color: #E91E63;
 }
 .example svg {
   color: #3F51B5;
@@ -870,8 +919,8 @@ li.important, li.example {
 .important svg, .example svg {
   position: absolute;
   top: 1rem;
-  left: 0.75rem;
-  font-size: 1.5em
+  left: 1.5rem;
+  font-size: 1.25em;
 }
 /************************************/
 .part.docinfo {
@@ -928,13 +977,19 @@ li.important, li.example {
   border-top: thin solid #9E9E9E;
 }
 /************************************/
+#content .definition-cont {
+  position: absolute;
+  width: auto;
+  z-index: 1;
+}
 #content .definition-desc {
-  padding: 1rem;
+  padding: 1.25rem;
   font-size: 1rem;
   margin: 0;
-  background: #FFF8E1;
+  background: none;
   border-radius: var(--global-border-radius);
-  box-shadow: var(--shadow-2)
+  box-shadow: var(--shadow-2);
+  background: white;
 }
 /************************************/
 li {
@@ -1029,8 +1084,8 @@ ol.otazky button.selected:first-child {
 ol.otazky button.selected:last-child {
   --button--border-border: medium solid transparent;
   --button--border-active-border: medium solid transparent;
-  --button--border-bg: #F44336;
-  --button--border-active-bg: #C62828;
+  --button--border-bg: #E91E63;
+  --button--border-active-bg: #C2185B;
   --button-svg-color: #ffffff;
   color: white;
 }
