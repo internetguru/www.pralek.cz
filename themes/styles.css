@@ -600,10 +600,12 @@ body:not(.agregator) .hdesc--top label {
 .hdesc--top .meta .tag {
   margin-left: 1.5em;
   margin-right: 0.85em;
+  margin-top: 0.5em;
+  display: inline-block;
 }
 .hdesc--top .meta .tag svg {
   color: rgba(var(--link-color), 0.5);
-  top: 0.1em;
+  top: 0.35em;
 }
 /***************************/
 .agregator {
@@ -617,7 +619,7 @@ body:not(.agregator) .hdesc--top label {
 }
 .agregator .hdesc--top {
   padding-bottom: 16em;
-  padding-top: 7em;
+  padding-top: 6em;
   color: var(--global-color);
 }
 .agregator .hdesc--top ~ div:not(.section) {
