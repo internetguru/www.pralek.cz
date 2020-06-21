@@ -599,7 +599,7 @@ body:not(.agregator) .hdesc--top label {
 }
 .hdesc--top .meta .tag {
   margin-left: 1.5em;
-  margin-right: 0.5em;
+  margin-right: 0.85em;
 }
 .hdesc--top .meta .tag svg {
   color: rgba(var(--link-color), 0.5);
@@ -822,10 +822,9 @@ body[data-link="/lymfaticke_uzliny"].agregator #content .hdesc--top + div:before
   margin-top: 0;
   margin-bottom: calc(1.5 * var(--global-vertical-margin));
   text-align: left;
-  color: #757575;
 }
-.agregator .hdesc--top + .hdesc__desc-wrapper p {
-  padding: 0 var(--global-horizontal-padding);
+.agregator .hdesc--top .hdesc__desc-wrapper {
+  color: #757575;
 }
 .agregator {
   --part-vertical-padding: 1rem;
