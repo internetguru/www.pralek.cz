@@ -136,7 +136,7 @@ h1 {
   margin-right: 0.5em;
   font-size: 1.25em;
 }
-.hdesc--top .list-wrapper--multiple li + li:before {
+.hdesc--top .list-wrapper--multiple li:before {
   content: "•";
   margin-right: 0.5em;
 }
@@ -575,13 +575,14 @@ dt label.button {
   /* flex-wrap: wrap; */
   /* justify-content: center; */
   align-items: baseline;
-  padding-right: 3.9em;
+  margin-right: 3.9em;
   position: relative;
   margin-left: 2.5rem;
-  /* z-index: 1; */
+  z-index: 1;
 }
 .breadcrumb .breadcrumb__item:first-child {
-  margin-left: -2.5rem;
+  position: relative;
+  left: -2.5em;
   width: 100%;
   min-width: 16em;
 }
@@ -776,6 +777,7 @@ body:not(.agregator) .hdesc--top label {
   width: 0;
   position: relative;
   right: -1rem;
+  z-index: 2;
 }
 .search ul .js-completable__input:focus {
   width: 100%;
