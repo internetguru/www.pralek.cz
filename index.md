@@ -25,8 +25,8 @@ MUDr. Jaroslav Pavelka <span>(<span class="far fa-xs fa-asterisk">i</span> 1952
 
 :   {class="button-list"}
     
-      * [Historie tohoto webu {class="definition-skip button button--border"}][2]
-      * [Jak podpořit Pralék {class="definition-skip button button--border"}][3] {data-visibility="/" class="contentbalancer--simple"}
+      * [<span class="fas fa-fw fa-history">i</span> Historie tohoto webu {class="definition-skip"}][2]
+      * [<span class="fas fa-fw fa-chart-line">i</span> Jak podpořit Pralék {class="definition-skip"}][3] {data-visibility="/" class="contentbalancer--simple"}
 
 
 :   {class="button-list"}
@@ -83,6 +83,11 @@ Pro účely dotací jsme zvolili službu [Patreon][4]. Služba je zčásti v ang
 {kw="upozornění, novinky, odběr"}
 
 <label>Přihlaste se {for="EMAIL"}</label> k odběru krátkých upozornění na nově vyšlé články! Maximálně dvakrát za měsíc obdržíte zprávu s informacemi o novém článku.
+
+{class="button-list" data-visibility="/"}
+
+  * [<span class="fas fa-fw fa-file-alt">i</span> Ukázková zpráva {class="definition-skip"}][8]
+  * [<span class="fas fa-fw fa-user-secret">i</span> Ochrana soukromí {class="definition-skip"}][9]
 
 {id="ukazka"}
 
@@ -183,10 +188,10 @@ n/a
 
 n/a
 
-  1. Jsou-li v bodě [Účel][8] mezi osobními údaji uvedeny soubory cookie, platí pro jejich zpracování následující pravidla.
+  1. Jsou-li v bodě [Účel][10] mezi osobními údaji uvedeny soubory cookie, platí pro jejich zpracování následující pravidla.
       * Pravidla pro používání nebo zablokování cookies si může každý uživatel nastavit ve svém internetovém prohlížeči, čímž dává najevo svůj souhlas s jejich zpracováním.
       * Uživatel si může nastavit povolení nebo odmítnutí veškerých nebo pouze některých souborů cookies (např. cookies třetích stran). Zablokování souborů cookies může mít negativní vliv na použitelnost webové stránky a služby.
-      * Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti [Google {title="Zásady ochrany osobních údajů Google"}][9] ([informace o cookies {title="Jak Google využívá soubory cookie"}][10]).
+      * Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti [Google {title="Zásady ochrany osobních údajů Google"}][11] ([informace o cookies {title="Jak Google využívá soubory cookie"}][12]).
   2. Vznesete-li námitku proti zpracování technických cookies nezbytných pro fungování webových stránek, nelze v takovém případě zaručit plnou funkčnost a kompatibilitu webových stránek.
 
 {id="prijemci" short="Příjemci"}
@@ -254,7 +259,9 @@ n/a
  [5]: https://www.facebook.com/pralek
  [6]: https://www.paypal.com
  [7]: mailto:mudr.pavelka@pralek.cz
- [8]: #ucel
- [9]: https://policies.google.com/privacy?hl=cs
- [10]: https://policies.google.com/technologies/cookies?hl=cs
+ [8]: #ukazka
+ [9]: #soukromi
+ [10]: #ucel
+ [11]: https://policies.google.com/privacy?hl=cs
+ [12]: https://policies.google.com/technologies/cookies?hl=cs
 
