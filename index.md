@@ -23,7 +23,7 @@ MUDr. Jaroslav Pavelka <span>(<span class="far fa-xs fa-asterisk">i</span> 1952
 :   Ambulantní chirurg s 40letou praxí
 :   Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař [rychlé lékařské pomoci][1].
 
-:   {class="button-list"}
+:   {class="button-list button-list--ico"}
     
       * [<span class="fas fa-fw fa-history">i</span> Historie tohoto webu {class="definition-skip"}][2]
       * [<span class="fas fa-fw fa-chart-line">i</span> Jak podpořit Pralék {class="definition-skip"}][3] {data-visibility="/"}
@@ -84,7 +84,7 @@ Pro účely dotací jsme zvolili službu [Patreon][4]. Služba je zčásti v ang
 
 <label>Přihlaste se {for="EMAIL"}</label> k odběru krátkých upozornění na nově vyšlé články! Maximálně dvakrát za měsíc obdržíte zprávu s informacemi o novém článku.
 
-{class="button-list" data-visibility="/"}
+{class="button-list button-list--ico" data-visibility="/"}
 
   * [<span class="fas fa-fw fa-file-alt">i</span> Ukázková zpráva {class="definition-skip"}][8]
   * [<span class="fas fa-fw fa-user-secret">i</span> Ochrana soukromí {class="definition-skip"}][9]
