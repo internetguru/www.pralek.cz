@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body data-image="/files/preview/koutek/main.jpg" xml:lang="cs" ns="https://www.pralek.cz">
+  <h author="Jaroslav Pavelka" authorid="autor" id="pralek" ctime="2007-03-29" short="Pralék: Praktické lékařství" title="Praktické lékařství">Prevence a řešení zdravotních problémů</h>
+  <desc kw="lékařství, články, chirurgie">Tento web obsahuje články o praktickém lékařství s cílem zvýšit schopnost odborné i laické veřejnosti řešit zdravotní problémy. Autor zejména poukazuje na podceňování nebo ignorování příznaků, přecházení nemoci a na všelijaké pověry.</desc>
+  <section>
+    <h data-visibility="/o_praleku" id="o_praleku">O praléku</h>
+    <desc data-visibility="/o_praleku">Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče, které pomáhají široké veřejnosti i odborným pracovníkům. Cílem autora je nestranně a srozumitelně vzdělat čtenáře v oblasti prevence a péče o zdraví a informovat o běžných zdravotních problémech.</desc>
+    <dl class="image-group author card" id="jaroslav_pavelka" data-image-group-url="/files/thumbs/jaroslav_pavelka.jpg">
+      <dt class="card__heading">MUDr. Jaroslav Pavelka <span>(<span class="far fa-xs fa-asterisk">i</span>&#160;1952)</span></dt>
+      <dd>Ambulantní chirurg s 40letou praxí</dd>
+      <dd>Absolvent první Fakulty všeobecného lékařství Univerzity Karlovy v Praze z roku 1978. Zpočátku působil jako vojenský lékař v Havlíčkově Brodě. Poté pracoval přes 30 let v nemocnici v Litoměřicích jako ambulantní chirurg a operatér. Od roku 2008 jezdí po Severočeském kraji jako lékař <a href="rychla_lekarska_pomoc">rychlé lékařské pomoci</a>.</dd>
+      <dd data-visibility="/" class="contentbalancer--simple"><ul class="button-list">
+        <li><a class="definition-skip" href="#historie"><span class="fas fa-fw fa-history">i</span> Historie tohoto webu</a></li>
+        <li><a class="definition-skip" href="#sponzoring"><span class="fas fa-fw fa-chart-line">i</span> Jak podpořit Pralék</a></li>
+      </ul></dd>
+      <dd data-visibility="/" class="contentbalancer--simple"><ul class="button-list">
+        <li class="donation"><a href="https://www.patreon.com/pralek" class="button button--border button--img button--img-inline"><span class="fab fa-fw fa-patreon">i</span> Staňte se patronem</a></li>
+        <li class="facebook"><a href="https://www.facebook.com/pralek" title="Sledovat Pralék na Facebooku" class="button button--border button--img button--img-inline"><span class="fab fa-fw fa-facebook-square">i</span> Sledujte nás</a></li>
+      </ul></dd>
+    </dl>
+    <section class="contentbalancer-none">
+      <h id="historie">Historie webu</h>
+      <desc>Tento web byl založený v roce 2007 v reakci na časté a opakující se dotazy pacientů, kolegů a známých. Postupným přidáváním článků začala vznikat databáze autorova pojetí medicíny a přístupu k nemocem a k lidskému zdraví obecně.</desc>
+      <p>Postupným přidáváním článků vzniklo během prvních 10 let kolem stovky článků. Každý z nich prošel revizí s připomínkovým a schvalovacím procesem. Návštěvnost webu postupně vzrostla na desítky tisíc unikátních čtenářů měsíčně.</p>
+      <p class="important">Ve druhé fázi své existence všechny články dostaly obrázek a štítky. Web prošel řadou vylepšení co do výkonu, modernizace vzhledu a zobrazení. Přibylo interaktivní vyhledávání a filtrování článků podle štítků (kategorií).</p>
+      <p>Díky autorově neúnavné práci a trpělivosti má každý možnost získat názor zkušeného ambulantního chirurga, kterému prošly rukama tisíce pacientů. Poděkování patří také všem sponzorům, kteří svým málem přispěli k udržení a rozvoji tohoto webu.</p>
+      <h id="sponzoring">Sponzoring webu</h>
+      <desc>Práce s obsahem přináší nemalé náklady. Vytvoření kvalitního textu, který je dobře čitelný pro širokou veřejnost, vyžaduje revizní proces a profesionální podporu. Organizace článků, jejich aktualizace a udržování vzájemných vztahů mezi články je nekončící proces.</desc>
+      <p class="important">Hlavním cílem autora je udržení, správa a rozvoj webu se zachováním nekomerční podstaty – <strong>nestranný obsah bez reklam</strong>. Jakýmkoli finančním příspěvkem podpoříte tento cíl naplnit.</p>
+      <p>Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah a pomáhat tak čím dál tím více lidem. S rostoucí částkou bude možné web dále rozšiřovat, což mohou sponzoři přímo či nepřímo ovlivnit:</p>
+      <ul>
+        <li>vznik nových článků na vybrané téma,</li>
+        <li>pokročilý sběr zpětné vazby čtenářů,</li>
+        <li>off-line procházení webu (bez připojení k internetu),</li>
+        <li>mobilní aplikace,</li>
+        <li>tisk papírových brožur (sady článků na míru),</li>
+        <li>moderovaný Facebook s aktivní diskuzí ke článkům,</li>
+        <li>generované sady otázek na zvolené téma,</li>
+        <li>interaktivní testy (abc) s automatickým vyhodnocením,</li>
+        <li>překlady, lokalizace a zpřístupnění obsahu ve více jazycích.</li>
+      </ul>
+      <p>Pro účely dotací jsme zvolili službu <a href="https://www.patreon.com/pralek">Patreon</a>. Služba je zčásti v angličtině, podporuje platby přes <a href="https://www.paypal.com">PayPal</a> a platební kartou. Pokud chcete web sponzorovat jiným způsobem nebo za jiných podmínek, <a href="mailto:mudr.pavelka@pralek.cz">ozvěte se autorovi na e-mail</a>.</p>
+      <ul class="button-list">
+        <li class="donation"><a class="button" href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
+      </ul>
+    </section>
+    <h short="Odběr novinek" id="upozorneni">Odběr upozornění na nově vyšlé články</h>
+    <desc kw="upozornění, novinky, odběr"><label for="EMAIL">Přihlaste se</label> k odběru krátkých upozornění na nově vyšlé články! Maximálně dvakrát za měsíc obdržíte zprávu s informacemi o novém článku.</desc>
+    <form id="news" class="newsletter" method="post" action="https://pralek.us4.list-manage.com/subscribe/post?u=9d8689096f9734cbd6ab6d381&amp;id=0ea09e9dfb">
+      <dl class="card">
+        <dt class="card__heading"><label for="EMAIL">Vaše e-mailová adresa</label></dt>
+        <dd>
+          <input type="email" value="" name="EMAIL" placeholder="josef.novak@seznam.cz" class="required email" id="EMAIL" required="required"/>
+          <input type="submit" id="submit" class="button" value="Přihlásit"/>
+          <input class="hide" type="text" name="b_8625178b2a66c8710f182b4d0_f93996121e" tabindex="-1" value=""/>
+        </dd>
+      </dl>
+    </form>
+    <section class="contentbalancer-none">
+      <ul class="button-list">
+        <li><a class="definition-skip" href="#ukazka"><span class="fas fa-fw fa-file-alt">i</span> Ukázková zpráva</a></li>
+        <li><a class="definition-skip" href="#soukromi"><span class="fas fa-fw fa-user-secret">i</span> Ochrana soukromí</a></li>
+      </ul>
+      <h id="ukazka">Ukázková zpráva</h>
+      <desc>n/a</desc>
+      <blockcode class="nohighlight">Předmět: Nový článek z praktického lékařství
+Od: "no-reply"&lt;no-reply@pralek.cz&gt; via mailchimpapp.net
+
+Nový článek Jaroslava Pavelky z 2. října 2008
+   www.pralek.cz/teplota?usp=news
+
+Normální tělesná teplota, podchlazení, horečka
+Tělesná teplota se mění podle fyzické aktivity organizmu.
+Stoupá nebo klesá livem zevního prostředí a stoupá při
+některých onemocněních.
+
+--
+Pro odhlášení z odběru novinek klikněte na následující odkaz:
+   https://pralek.us4.list-manage.com/unsubscribe?
+u=9d8689096f9734cbd6ab6d381&amp;id=0ea09e9dfb</blockcode>
+      <h id="soukromi" short="Ochrana soukromí">Podmínky ochrany osobních údajů</h>
+      <desc>n/a</desc>
+      <section class="agregator">
+        <h id="zakladni" short="Základní">Základní ustanovení</h>
+        <desc>n/a</desc>
+        <ol>
+          <li>Správcem osobních údajů podle čl. 4 bod 7 nařízení Evropského parlamentu a Rady (EU) 2016/679 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů (dále jen GDPR) je Lubomír Brejník, IČ 40206246 se sídlem Vančurova 3, 412 01 Litoměřice (dále jen Správce).</li>
+          <li>Kontaktní údaje Správce jsou lubomir.brejnik@internetguru.cz</li>
+          <li>Osobními údaji se rozumí veškeré informace o identifikované nebo identifikovatelné fyzické osobě; identifikovatelnou fyzickou osobou je fyzická osoba, kterou lze přímo či nepřímo identifikovat, zejména odkazem na určitý identifikátor, například jméno, identifikační číslo, lokační údaje, síťový identifikátor nebo na jeden či více zvláštních prvků fyzické, fyziologické, genetické, psychické, ekonomické, kulturní nebo společenské identity této fyzické osoby.</li>
+          <li>Správce nejmenoval pověřence pro ochranu osobních údajů.</li>
+        </ol>
+        <h id="duvod" short="Důvod">Zákonný důvod zpracování osobních údajů</h>
+        <desc>n/a</desc>
+        <ol>
+          <li>Zákonným důvodem zpracování osobních údajů je Váš souhlas se zpracováním pro účely zasílání newsletterů podle čl. 6 odst. 1 písm. a) GDPR ve spojení s § 7 odst. 2 zákona č. 480/2004 Sb., o některých službách informační společnosti v případě, že nedošlo k objednávce zboží nebo služby (dále jen Souhlas).</li>
+          <li>Ze strany Správce nedochází k automatickému individuálnímu rozhodování ve smyslu čl. 22 GDPR. S takovým zpracováním jste poskytl/a svůj výslovný souhlas.</li>
+        </ol>
+        <h id="ucel" short="Účel">Účel zpracování, kategorie, zdroje a příjemci osobních údajů</h>
+        <desc>n/a</desc>
+        <dl>
+          <dt>Zákonný důvod</dt>
+          <dd>Oprávněný zájem</dd>
+          <dt>Účel</dt>
+          <dd>Běžná analýza návštěvnosti, odhalování chyb serveru a prevence podvodů a útoků na server</dd>
+          <dt>Údaje</dt>
+          <dd>Cookies třetích stran a po dobu 50 měsíců IP adresy a údaje o prohlížení webu, zobrazené stránky a akce na stránce</dd>
+          <dt>Zdroj údajů</dt>
+          <dd>Pohyb uživatele na webu, zobrazení stránky s chybou</dd>
+          <dt>Příjemci osobních údajů (zpracovatelé)</dt>
+          <dd>Google Analytics, webhostingové služby a případně další analytické služby</dd>
+        </dl>
+        <dl>
+          <dt>Zákonný důvod</dt>
+          <dd>Souhlas</dd>
+          <dt>Účel</dt>
+          <dd>Marketing a propagace webu</dd>
+          <dt>Údaje</dt>
+          <dd>E-maily</dd>
+          <dt>Zdroj údajů</dt>
+          <dd>Formulář pro newsletter</dd>
+          <dt>Příjemci osobních údajů (zpracovatelé)</dt>
+          <dd>Služba pro rozesílání e-mailů</dd>
+        </dl>
+        <h id="doba" short="Doba">Doba uchovávání údajů</h>
+        <desc>n/a</desc>
+        <ol>
+          <li>Pokud není v předchozích bodech uvedeno jinak, Správce uchovává osobní údaje po dobu, než je odvolán souhlas se zpracováním osobních údajů pro uvedené účely, jsou-li osobní údaje zpracovávány na základě souhlasu.</li>
+          <li>Po odvolání souhlasu či uplynutí doby uchovávání osobních údajů Správce osobní údaje vymaže.</li>
+        </ol>
+        <h id="cookies" short="Cookies">Soubory cookie</h>
+        <desc>n/a</desc>
+        <ol>
+          <li>Jsou-li v bodě <a href="#ucel">Účel</a> mezi osobními údaji uvedeny soubory cookie, platí pro jejich zpracování následující pravidla.<ul>
+            <li>Pravidla pro používání nebo zablokování cookies si může každý uživatel nastavit ve svém internetovém prohlížeči, čímž dává najevo svůj souhlas s jejich zpracováním.</li>
+            <li>Uživatel si může nastavit povolení nebo odmítnutí veškerých nebo pouze některých souborů cookies (např. cookies třetích stran). Zablokování souborů cookies může mít negativní vliv na použitelnost webové stránky a služby.</li>
+            <li>Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti <a href="https://policies.google.com/privacy?hl=cs" title="Zásady ochrany osobních údajů Google">Google</a> (<a href="https://policies.google.com/technologies/cookies?hl=cs" title="Jak Google využívá soubory cookie">informace o cookies</a>).</li></ul></li>
+          <li>Vznesete-li námitku proti zpracování technických cookies nezbytných pro fungování webových stránek, nelze v takovém případě zaručit plnou funkčnost a kompatibilitu webových stránek.</li>
+        </ol>
+        <h id="prijemci" short="Příjemci">Příjemci osobních údajů (subdodavatelé správce)</h>
+        <desc>n/a</desc>
+        <ol>
+          <li>Správce má v úmyslu předat osobní údaje do třetí země (do země mimo EU) nebo mezinárodní organizaci. Příjemci osobních údajů ve třetích zemích jsou poskytovatelé mailingových služeb, úložiště dat a souborů, analytických nástrojů a služeb pro přímý marketing.</li>
+        </ol>
+        <h id="prava" short="Práva">Vaše práva</h>
+        <desc>n/a</desc>
+        <ol>
+          <li>Za podmínek stanovených v GDPR máte právo<ul>
+            <li>na přístup ke svým osobním údajům dle čl. 15 GDPR,</li>
+            <li>opravu osobních údajů dle čl. 16 GDPR, popřípadě omezení zpracování dle čl. 18 GDPR,</li>
+            <li>na výmaz osobních údajů dle čl. 17 GDPR,</li>
+            <li>vznést námitku proti zpracování dle čl. 21 GDPR,</li>
+            <li>na přenositelnost údajů dle čl. 20 GDPR,</li>
+            <li>odvolat souhlas se zpracováním písemně nebo elektronicky na adresu nebo email správce uvedený v čl. III těchto podmínek.</li></ul></li>
+          <li>Dále máte právo podat stížnost u Úřadu pro ochranu osobních údajů v případě, že se domníváte, že bylo porušeno Vaše právo na ochranu osobních údajů.</li>
+        </ol>
+        <h id="zabezpeceni" short="Zabezpečení">Podmínky zabezpečení osobních údajů</h>
+        <desc>n/a</desc>
+        <ol>
+          <li>Správce prohlašuje, že přijal veškerá vhodná technická a organizační opatření k zabezpečení osobních údajů.</li>
+          <li>Správce přijal technická opatření k zabezpečení datových úložišť a úložišť osobních údajů v listinné podobě.</li>
+          <li>Správce prohlašuje, že k osobním údajům mají přístup pouze jím pověřené osoby.</li>
+        </ol>
+        <h id="zaverecna" short="Závěrečná">Závěrečná ustanovení</h>
+        <desc>n/a</desc>
+        <ol>
+          <li>Odesláním internetového registračního formuláře potvrzujete, že jste seznámen/a s podmínkami ochrany osobních údajů a že je v celém rozsahu přijímáte.</li>
+          <li>Správce je oprávněn tyto podmínky změnit. Novou verzi podmínek ochrany osobních údajů zveřejní na svých internetových stránkách a zároveň Vám zašle novou verzi těchto podmínek Vaši e-mailovou adresu, kterou jste správci poskytl/a.</li>
+        </ol>
+      </section>
+    </section>
+    <h id="clanky" short="Články" class="filter">Kategorie článků</h>
+    <desc>n/a</desc>
+<!--     <desc kw="články, koutek, novinky, upozornění">Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata nových článků závisí na aktuálním dění a na odezvě čtenářů.</desc> -->
+    <ul var="doclist-stitek" class="nomultiple">
+      <li>n/a</li>
+    </ul>
+    <p var="inputvar-taglist" class="taglist">n/a</p>
+  </section>
+</body>
