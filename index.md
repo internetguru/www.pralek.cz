@@ -25,9 +25,10 @@ MUDr. Jaroslav Pavelka <span>(<span class="far fa-xs fa-asterisk">i</span> 1952
 
 :   {class="button-list"}
     
-      * [Jak podpořit Pralék {class="definition-skip button button--border"}][2]
-      * [Staňte se patronem {class="button button--border"}][3] {class="donation"}
-      * [<span class="fab fa-facebook-square">i</span> Sledujte nás {title="Sledovat Pralék na Facebooku" class="button button--border button--img button--img-inline"}][4] {class="facebook"} {data-visibility="/" class="contentbalancer--simple"}
+      * [Historie {class="definition-skip button button--border"}][2]
+      * [Jak podpořit Pralék {class="definition-skip button button--border"}][3]
+      * [Staňte se patronem {class="button button--border"}][4] {class="donation"}
+      * [<span class="fab fa-facebook-square">i</span> Sledujte nás {title="Sledovat Pralék na Facebooku" class="button button--border button--img button--img-inline"}][5] {class="facebook"} {data-visibility="/" class="contentbalancer--simple"}
 
 {id="historie"}
 
@@ -65,11 +66,11 @@ Díky Vašim příspěvkům bude autor schopen udržovat a dále rozvíjet obsah
   * interaktivní testy (abc) s automatickým vyhodnocením,
   * překlady, lokalizace a zpřístupnění obsahu ve více jazycích.
 
-Pro účely dotací jsme zvolili službu [Patreon][3]. Služba je zčásti v angličtině, podporuje platby přes [PayPal][5] a platební kartou. Pokud chcete web sponzorovat jiným způsobem nebo za jiných podmínek, [ozvěte se autorovi na e-mail][6].
+Pro účely dotací jsme zvolili službu [Patreon][4]. Služba je zčásti v angličtině, podporuje platby přes [PayPal][6] a platební kartou. Pokud chcete web sponzorovat jiným způsobem nebo za jiných podmínek, [ozvěte se autorovi na e-mail][7].
 
 {class="button-list"}
 
-  * [Staňte se patronem {class="button"}][3] {class="donation"}
+  * [Staňte se patronem {class="button"}][4] {class="donation"}
 
 {short="Odběr novinek" id="upozorneni"}
 
@@ -178,10 +179,10 @@ n/a
 
 n/a
 
-  1. Jsou-li v bodě [Účel][7] mezi osobními údaji uvedeny soubory cookie, platí pro jejich zpracování následující pravidla.
+  1. Jsou-li v bodě [Účel][8] mezi osobními údaji uvedeny soubory cookie, platí pro jejich zpracování následující pravidla.
       * Pravidla pro používání nebo zablokování cookies si může každý uživatel nastavit ve svém internetovém prohlížeči, čímž dává najevo svůj souhlas s jejich zpracováním.
       * Uživatel si může nastavit povolení nebo odmítnutí veškerých nebo pouze některých souborů cookies (např. cookies třetích stran). Zablokování souborů cookies může mít negativní vliv na použitelnost webové stránky a služby.
-      * Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti [Google {title="Zásady ochrany osobních údajů Google"}][8] ([informace o cookies {title="Jak Google využívá soubory cookie"}][9]).
+      * Na tomto webu je návštěvníkům, kteří souhlasí s umístěním cookies do svého prohlížeče prostřednictvím patřičného nastavení chování ke cookies jednotlivých prohlížečů umístěna informace od společnosti [Google {title="Zásady ochrany osobních údajů Google"}][9] ([informace o cookies {title="Jak Google využívá soubory cookie"}][10]).
   2. Vznesete-li námitku proti zpracování technických cookies nezbytných pro fungování webových stránek, nelze v takovém případě zaručit plnou funkčnost a kompatibilitu webových stránek.
 
 {id="prijemci" short="Příjemci"}
@@ -243,12 +244,13 @@ n/a
 n/a
 
  [1]: rychla_lekarska_pomoc
- [2]: #sponzoring
- [3]: https://www.patreon.com/pralek
- [4]: https://www.facebook.com/pralek
- [5]: https://www.paypal.com
- [6]: mailto:mudr.pavelka@pralek.cz
- [7]: #ucel
- [8]: https://policies.google.com/privacy?hl=cs
- [9]: https://policies.google.com/technologies/cookies?hl=cs
+ [2]: #historie
+ [3]: #sponzoring
+ [4]: https://www.patreon.com/pralek
+ [5]: https://www.facebook.com/pralek
+ [6]: https://www.paypal.com
+ [7]: mailto:mudr.pavelka@pralek.cz
+ [8]: #ucel
+ [9]: https://policies.google.com/privacy?hl=cs
+ [10]: https://policies.google.com/technologies/cookies?hl=cs
 
