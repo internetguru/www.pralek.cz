@@ -26,7 +26,7 @@ MUDr. Jaroslav Pavelka <span>(<span class="far fa-xs fa-asterisk">i</span> 1952
 :   {class="button-list"}
     
       * [<span class="fas fa-fw fa-history">i</span> Historie tohoto webu {class="definition-skip"}][2]
-      * [<span class="fas fa-fw fa-chart-line">i</span> Jak podpořit Pralék {class="definition-skip"}][3] {data-visibility="/" class="contentbalancer--simple"}
+      * [<span class="fas fa-fw fa-chart-line">i</span> Jak podpořit Pralék {class="definition-skip"}][3] {data-visibility="/"}
 
 
 :   {class="button-list"}
