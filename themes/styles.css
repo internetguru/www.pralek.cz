@@ -546,7 +546,7 @@ li.rw {
 }
 li.donation {
   --button-bg : #D32F2F;
-  --button--active-bg : #E57373;
+  --button--active-bg : #F44336;
   --button-svg-color: white;
 }
 .author dt + dd {
