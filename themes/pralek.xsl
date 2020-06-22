@@ -60,7 +60,7 @@
       <div id="feedback">
         <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
         <ul class="button-list">
-          <li><a class="button" href="pralek#sponzoring">Možnosti podpory</a></li>
+          <li><a href="#sponzoring"><span class="fas fa-fw fa-chart-line">i</span> Jak podpořit Pralék</a></li>
           <li class="donation"><a href="https://www.patreon.com/pralek" class="button button--img button--img-inline"><span class="fab fa-fw fa-patreon">i</span> Staňte se patronem</a></li>
         </ul>
       </div>
