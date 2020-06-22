@@ -74,7 +74,7 @@ Pro účely dotací jsme zvolili službu [Patreon][4]. Služba je zčásti v ang
 
 {class="button-list"}
 
-  * [Staňte se patronem {class="button"}][4] {class="donation"}
+  * [<span class="fab fa-fw fa-patreon">i</span> Staňte se patronem {class="button button--img button--img-inline"}][4] {class="donation"}
 
 {short="Odběr novinek" id="upozorneni"}
 
