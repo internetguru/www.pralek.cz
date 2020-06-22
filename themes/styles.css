@@ -546,7 +546,7 @@ li.rw {
 }
 li.donation {
   --button-bg : #F44336;
-  --button--active-bg : #EF5350;
+  --button--active-bg : #E57373;
   --button-svg-color: white;
 }
 .author dt + dd {
@@ -920,7 +920,7 @@ body:not(.agregator) .hdesc--top label {
   margin-top: 0;
   margin-bottom: 0;
 }
-.button-list--ico svg,
+.button-list--ico li:not(.donation) svg,
 .agregator #content .part.docinfo svg {
   color: #616161;
   text-align: center;
@@ -984,19 +984,19 @@ li.important, li.example {
   border-top: thin solid #E0E0E0;
   padding-top: 3em !important;
 }
-.button-list--ico svg,
+.button-list--ico li:not(.donation) svg,
 .part.docinfo svg {
   font-size: 1.6em;
   margin-right: 0.25em;
   vertical-align: -0.25em;
 }
-.button-list--ico svg,
+.button-list--ico li:not(.donation) svg,
 .docinfo.share a:not(.fb):not(.twitter) svg {
   position: absolute;
   top: 0;
   left: -1.5em;
 }
-.button-list--ico li,
+.button-list--ico li:not(.donation),
 .docinfo.share li {
   position: relative;
   margin-left: 2.75em;
@@ -1159,6 +1159,12 @@ ol.otazky button.selected:last-child {
 #feedback .button--simple:active,
 #feedback .button--simple:focus {
   color: white;
+}
+#feedback .button-list--ico {
+  padding: 0 var(--global-horizontal-padding);
+}
+#feedback .button-list--ico li:first-child {
+  margin-left: 2.3em;
 }
 #feedback dd {
   margin: 1.25em 0;
