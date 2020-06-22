@@ -45,7 +45,7 @@
         </ul>
         <p>Chcete také publikovat na internetu?</p>
         <ul class="button-list">
-          <li><a href="https://www.rostouciweby.cz" title="Rostoucí weby" class="button">Zjistit více o rostoucích webech!</a></li>
+          <li class="rw"><a href="https://www.rostouciweby.cz" title="Rostoucí weby" class="button button--img button--img-inline"><span class="fas fa-fw fa-seedling">i</span> Zjistit více o rostoucích webech!</a></li>
         </ul>
       </div>
     </xsl:copy>
@@ -61,7 +61,7 @@
         <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
         <ul class="button-list">
           <li><a class="button" href="pralek#sponzoring">Možnosti podpory</a></li>
-          <li class="donation"><a class="button" href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
+          <li class="donation"><a href="https://www.patreon.com/pralek" class="button button--img button--img-inline"><span class="fab fa-fw fa-patreon">i</span> Staňte se patronem</a></li>
         </ul>
       </div>
     </xsl:copy>
