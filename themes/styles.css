@@ -541,12 +541,12 @@ li.facebook {
 }
 li.rw {
   --button-bg: #1976D2;
-  --button--active-bg : #42A5F5;
+  --button--active-bg: #42A5F5;
   --button-svg-color: white;
 }
 li.donation {
-  --button-bg : #D32F2F;
-  --button--active-bg : #F44336;
+  --button-bg: #D32F2F;
+  --button--active-bg: #F44336;
   --button-svg-color: white;
 }
 .author dt + dd {
