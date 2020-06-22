@@ -1026,7 +1026,8 @@ li.important, li.example {
 .part.o_praleku,
 .part.dotace,
 .part.clanky,
-.part.odkazy {
+.part.odkazy,
+.part.sponzoring {
   background: #f5f5f5;
 }
 .part.dotace h2,
@@ -1035,6 +1036,9 @@ li.important, li.example {
 }
 .part.odkazy h2 {
   border-top: thin solid #9E9E9E;
+}
+.part.sponzoring .button-list {
+  justify-content: left;
 }
 /************************************/
 #content .definition-cont {
