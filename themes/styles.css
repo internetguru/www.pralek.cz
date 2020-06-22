@@ -6,7 +6,6 @@
   --global-vertical-margin: 1.5rem;
   --line-height: 1.5;
   --hdesc-dim-bg: none;
-  --footer-service-ico-color: 255, 255, 255;
   --button-svg-color: #00796B;
   --button-color: 255,255,255;
   --button-bg: #00796B;
@@ -28,6 +27,9 @@
   --h1-font-weight: 700;
   --hdesc-top-h1-max-width: 15em;
   --font-family: Roboto, sans-serif;
+  --footer-bg: #f5f5f5;
+  --footer-color: 0, 0, 0;
+  --footer-padding: 3em 0;
 }
 .button--border,
 .button--simple {
@@ -66,7 +68,7 @@ h1 {
 }
 .hdesc--top + div:not(.section) .list ul li:before,
 .hdesc--top + div:not(.section) .list ol li:before,
-.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list ul li:before,
+.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list ul:not(.button-list) li:before,
 .part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list ol li:before {
   counter-increment: section;
   content: counter(section) ".";
@@ -78,7 +80,7 @@ h1 {
   margin-left: -1.8rem;
   margin-right: 0.75rem;
 }
-.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list ul li:before {
+.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list ul:not(.button-list) li:before {
   content: "●";
 }
 /************************************/
@@ -486,11 +488,24 @@ dt label.button {
 .o_praleku .card .tag {
   white-space: nowrap;
 }
+.hdesc.o_praleku + div .button-list,
+.o_praleku .button-list {
+  clear: both;
+  margin-top: 1.5em;
+  justify-content: center;
+}
+.button-list li {
+  flex: 0 1 auto;
+}
 @media all and (min-width: 60em) {
   .hdesc.o_praleku + div .card,
   .o_praleku .card {
     text-align: left;
   } 
+  .hdesc.o_praleku + div .button-list,
+  .o_praleku .button-list {
+    justify-content: left;
+  }
 }
 .hdesc.o_praleku + div .image-group__wrapper > div:first-child,
 .o_praleku .image-group__wrapper > div:first-child {
@@ -511,12 +526,6 @@ dt label.button {
   padding-bottom: 2em;
   text-align: center;
 }
-.hdesc.o_praleku + div .button-list,
-.o_praleku .button-list {
-  clear: both;
-  margin-top: 1.5em;
-  justify-content: left;
-}
 .hdesc.o_praleku + div dd,
 .o_praleku dd {
   margin: 0.5em 0;
@@ -525,14 +534,17 @@ dt label.button {
 .o_praleku q {
   color: #BF360C;
 }
-.hdesc.o_praleku .facebook,
-.o_praleku .facebook {
+li.facebook {
   --button-bg : #3F51B5;
   --button--active-bg : #5C6BC0;
   --button-svg-color: white;
 }
-hdesc.o_praleku .donation,
-.o_praleku .donation {
+li.rw {
+  --button-bg : #1E88E5;
+  --button--active-bg : #42A5F5;
+  --button-svg-color: white;
+}
+li.donation {
   --button-bg : #F44336;
   --button--active-bg : #EF5350;
   --button-svg-color: white;
@@ -1006,6 +1018,11 @@ li.important, li.example {
 .part.dotace {
   padding-bottom: 2em;
 }
+.hdesc.o_praleku + div {
+  padding: 1em 0 2em 0;
+  max-width: none;
+}
+.hdesc.o_praleku + div,
 .part.o_praleku,
 .part.dotace,
 .part.clanky,
@@ -1137,6 +1154,11 @@ ol.otazky button.selected:last-child {
 }
 #feedback .button--simple {
   margin-right: 0.5rem;
+}
+#feedback .button--simple:hover,
+#feedback .button--simple:active,
+#feedback .button--simple:focus {
+  color: white;
 }
 #feedback dd {
   margin: 1.25em 0;
