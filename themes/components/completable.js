@@ -149,7 +149,7 @@
           for (var i = 0; i < filters.length; i++) {
             var changeLink = document.createElement("label")
             changeLink.textContent = Config.defaultChangeText
-            changeLink.className = "button eventable"
+            changeLink.className = "button button--border eventable"
             changeLink.setAttribute("for", navig.id)
             changeLink.addEventListener("click", function (e) {
             try {
