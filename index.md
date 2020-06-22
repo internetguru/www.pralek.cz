@@ -31,8 +31,8 @@ MUDr. Jaroslav Pavelka <span>(<span class="far fa-xs fa-asterisk">i</span> 1952
 
 :   {class="button-list"}
     
-      * [<span class="fab fa-fw fa-patreon">i</span> Staňte se patronem {class="button button--border button--img button--img-inline"}][4] {class="donation"}
-      * [<span class="fab fa-fw fa-facebook-square">i</span> Sledujte nás {title="Sledovat Pralék na Facebooku" class="button button--border button--img button--img-inline"}][5] {class="facebook"} {data-visibility="/" class="contentbalancer--simple"}
+      * [<span class="fab fa-fw fa-patreon">i</span> Staňte se patronem {class="button button--img button--img-inline"}][4] {class="donation"}
+      * [<span class="fab fa-fw fa-facebook-square">i</span> Sledujte nás {title="Sledovat Pralék na Facebooku" class="button button--img button--img-inline"}][5] {class="facebook"} {data-visibility="/" class="contentbalancer--simple"}
 
 {id="historie"}
 
