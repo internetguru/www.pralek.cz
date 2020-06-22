@@ -59,15 +59,15 @@ h1 {
 }
 .hdesc--top + div:not(.section) .list ol ol li:before,
 .hdesc--top + div:not(.section) .list ol ul li:before,
-.part:not(.docinfo):not(.odkazy):not(.o_praleku) .list ol ol li:before,
-.part:not(.docinfo):not(.odkazy):not(.o_praleku) .list ol ul li:before {
+.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list ol ol li:before,
+.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list ol ul li:before {
   counter-increment: subsection;
   content: counter(subsection, lower-alpha) ".";
 }
 .hdesc--top + div:not(.section) .list ul li:before,
 .hdesc--top + div:not(.section) .list ol li:before,
-.part:not(.docinfo):not(.odkazy):not(.o_praleku) .list ul li:before,
-.part:not(.docinfo):not(.odkazy):not(.o_praleku) .list ol li:before {
+.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list ul li:before,
+.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list ol li:before {
   counter-increment: section;
   content: counter(section) ".";
   width: 1rem;
@@ -78,7 +78,7 @@ h1 {
   margin-left: -1.8rem;
   margin-right: 0.75rem;
 }
-.part:not(.docinfo):not(.odkazy):not(.o_praleku) .list ul li:before {
+.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list ul li:before {
   content: "●";
 }
 /************************************/
@@ -478,6 +478,10 @@ dt label.button {
 .o_praleku .card dt {
   font-weight: 600;
 }
+.hdesc.o_praleku + div .card dt span,
+.o_praleku .card dt span {
+  white-space: nowrap;
+}
 .hdesc.o_praleku + div .card .tag,
 .o_praleku .card .tag {
   white-space: nowrap;
@@ -510,6 +514,8 @@ dt label.button {
 .hdesc.o_praleku + div .button-list,
 .o_praleku .button-list {
   clear: both;
+  margin-top: 1.5em;
+  justify-content: left;
 }
 .hdesc.o_praleku + div dd,
 .o_praleku dd {
@@ -521,12 +527,15 @@ dt label.button {
 }
 .hdesc.o_praleku .facebook,
 .o_praleku .facebook {
-  --button--border-border: medium solid #3F51B5;
-  --button--border-active-border: medium solid #9FA8DA;
+  --button-bg : #3F51B5;
+  --button--active-bg : #5C6BC0;
+  --button-svg-color: white;
 }
-.hdesc.o_praleku .fa-facebook-square,
-.o_praleku .fa-facebook-square {
-  --button-svg-color: #3F51B5;
+hdesc.o_praleku .donation,
+.o_praleku .donation {
+  --button-bg : #F44336;
+  --button--active-bg : #EF5350;
+  --button-svg-color: white;
 }
 .author dt + dd {
   font-size: 1.2em;
@@ -893,10 +902,18 @@ body:not(.agregator) .hdesc--top label {
   margin: 0 auto;
   padding: 0;
 }
+.button-list--ico {
+  --button-list-item-margin: 1.5em;
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.button-list--ico svg,
 .agregator #content .part.docinfo svg {
   color: #616161;
   text-align: center;
 }
+.button-list--ico,
 .agregator #content .part.docinfo .button-list {
   --list-margin-left: 0.5rem;
   justify-content: left;
@@ -955,16 +972,19 @@ li.important, li.example {
   border-top: thin solid #E0E0E0;
   padding-top: 3em !important;
 }
+.button-list--ico svg,
 .part.docinfo svg {
   font-size: 1.6em;
   margin-right: 0.25em;
   vertical-align: -0.25em;
 }
+.button-list--ico svg,
 .docinfo.share a:not(.fb):not(.twitter) svg {
   position: absolute;
   top: 0;
   left: -1.5em;
 }
+.button-list--ico li,
 .docinfo.share li {
   position: relative;
   margin-left: 2.75em;
@@ -1045,11 +1065,14 @@ li {
 .part.upozorneni h2 {
   padding-top: 1em;
 }
+.part.upozorneni .list-wrapper--single {
+  margin-bottom: 3em;
+}
 .upozorneni.hdesc--top + div .card,
 .upozorneni .card {
   max-width: 36em;
   background: none;
-  margin: 2em 0 4em 0;
+  margin: 2em 0 2em 0;
 }
 .upozorneni label {
   color: rgb(var(--link-color));
