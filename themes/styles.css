@@ -332,6 +332,7 @@ h1 {
   justify-content: space-between;
   border-radius: var(--global-border-radius);
   align-items: center;
+  box-shadow: var(--shadow-2);
 }
 .extra .copyable-wrapper {
   position: absolute;
@@ -648,7 +649,7 @@ li.donation {
   margin-right: 0.5em;
 }
 .breadcrumb svg {
-  color: #E91E63;
+  color: rgb(233, 30, 99);
 }
 .breadcrumb a > span + span {
   /* display: none; */
