@@ -813,6 +813,7 @@ body:not(.agregator) .hdesc--top label {
   right: -1rem;
   z-index: 2;
 }
+.search ul .js-completable__input:not(:placeholder-shown),
 .search ul .js-completable__input:focus {
   width: 100%;
   padding: 0.5em 1em;
