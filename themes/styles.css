@@ -661,14 +661,14 @@ li.donation {
 .breadcrumb svg {
   color: rgb(233, 30, 99);
 }
-.breadcrumb a > span + span {
+.breadcrumb a[href] > span + span {
+  display: none;
+}
+body[data-link="/"] .breadcrumb a > span + span {
   /* display: none; */
   display: block;
   margin-left: 2.5rem;
   margin-top: -0.3em;
-}
-.breadcrumb a[href] > span + span {
-  display: none;
 }
 .breadcrumb a > span:nth-child(2) {
   text-transform: uppercase;
