@@ -11,7 +11,7 @@
   --button-bg: #00796B;
   --button--active-bg: #009688;
   --button--simple-active-bg: #009688;
-  --button--border-bg: rgba(255, 255, 255, 0.67);
+  --button--border-bg: rgb(255, 255, 255);
   --button--border-border: medium solid #009688;
   --button--border-active-border: medium solid #80CBC4;
   --list-ico-svg: #009688;
@@ -92,6 +92,9 @@ h1 {
 .part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list ul:not(.button-list) li:before {
   content: "●";
 }
+.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list li {
+  max-width: 
+}
 /************************************/
 #content a.definition {
   border-bottom: medium dotted rgba(var(--link-color), 0.5) !important;
@@ -169,6 +172,9 @@ h1 {
   --button--simple-bg: none;
   --button--simple-active-bg: #4DB6AC;
   text-align: left;
+}
+.hdesc h2 + .hdesc__desc-wrapper {
+  max-width: var(--hdesc-top-p-max-width);
 }
 .extra .hideable a.hideable-switch:before {
   all: initial;
@@ -961,7 +967,7 @@ body:not(.agregator) .hdesc--top label {
 /************************************/
 .important,
 .example {
-  /* max-width: calc(var(--global-max-width) - 12rem) !important; */
+  /* max-width: var(--hdesc-top-p-max-width) !important; */
   list-style: none;
   position: relative;
   padding: 1em;
