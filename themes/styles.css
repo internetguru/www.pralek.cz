@@ -38,6 +38,12 @@
 #footer {
   --button-color: #000;
 }
+.button--simple:hover svg,
+.button--simple:active svg,
+.button--simple:focus svg,
+.button--simple:hover,
+.button--simple:active,
+.button--simple:focus,
 #footer .button:hover,
 #footer .button:active,
 #footer .button:focus {
@@ -789,14 +795,12 @@ body:not(.agregator) .hdesc--top label {
   border: 0;
   outline: none;
   padding: 0;
-  background: #F5F5F5;
   transition: all .1s ease-in-out;
   width: 100%;
   max-width: 100%;
   border-radius: 0;
   -webkit-appearance: none;
-  border-radius: 0 0 0 var(--global-border-radius);
-  border-top: none;
+  border-bottom: thin solid #9E9E9E;
   width: 0;
   position: relative;
   right: -1rem;
@@ -1035,7 +1039,10 @@ li.important, li.example {
   padding-top: 1.5em;
 }
 .part.odkazy h2 {
-  border-top: thin solid #9E9E9E;
+  border-top: thin solid #c8c8c8;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
 }
 .part.sponzoring .button-list {
   justify-content: left;
