@@ -223,7 +223,8 @@ h1 {
   margin: 0.1rem 0;
 }
 .clanek .heading a {
-  border: none;  
+  border: none;
+  color: #333;
 }
 .clanek .heading {
   margin-top: 1em;
@@ -485,6 +486,7 @@ dt label.button {
 .hdesc.o_praleku + div .card dt,
 .o_praleku .card dt {
   font-weight: 600;
+  margin-bottom: 0;
 }
 .hdesc.o_praleku + div .card dt span,
 .o_praleku .card dt span {
@@ -557,6 +559,8 @@ li.donation {
 }
 .author dt + dd {
   font-size: 1.2em;
+  margin-top: 0;
+  /* margin-bottom: 1em; */
 }
 .author dt + dd svg {
   color: #333;
@@ -678,7 +682,7 @@ body:not(.agregator) .hdesc--top label {
   --link-color: 255, 255, 255;
   --link-visited-color: 255, 255, 255;
 }
-.hdesc--top .description {
+.description {
   font-size: 1.2em;
 }
 .hdesc--top .extra .button-list {
@@ -943,7 +947,7 @@ body:not(.agregator) .hdesc--top label {
   margin-bottom: calc(1.5 * var(--global-vertical-margin));
   text-align: left;
 }
-.hdesc--top .hdesc__desc-wrapper {
+.description {
   color: #757575;
 }
 .agregator {
