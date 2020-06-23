@@ -161,7 +161,7 @@ h1 {
 .clanek .button:hover,
 .clanek .button:active,
 .clanek .button:focus {
-  color: white;
+  color: white !important;
   --button-color: #ffffff;
   --button-svg-color: #ffffff;
 }
