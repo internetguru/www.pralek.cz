@@ -223,8 +223,7 @@ h1 {
   margin: 0.1rem 0;
 }
 .clanek .heading a {
-  color: #004D40;
-  border: none;
+  border: none;  
 }
 .clanek .heading {
   margin-top: 1em;
@@ -568,6 +567,9 @@ li.donation {
 #clanky {
   text-align: center;
   margin-bottom: 2em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 #clanky .tag {
   --link-color: 13 , 71 , 161;
