@@ -38,6 +38,9 @@
 #footer {
   --button-color: #000;
 }
+.button--simple {
+  color: #00796B;
+}
 .button--simple:hover svg,
 .button--simple:active svg,
 .button--simple:focus svg,
@@ -216,6 +219,7 @@ h1 {
   --button-padding: 1em;
   width: auto;
   min-width: auto;
+  color: #00796B;
 }
 .copyable-wrapper button {
   width: auto !important;
@@ -857,7 +861,7 @@ body:not(.agregator) .hdesc--top label {
   padding: 0 0.75rem 0 1rem;
   font-size: 1em;
   outline: none;
-  border-radius: 0;
+  border-radius: 0 0 0 var(--global-border-radius);
   -webkit-appearance: none;
   --button-bg: none;
 }
@@ -1125,11 +1129,13 @@ li {
 }
 .upozorneni.hdesc--top + div form dd input[type="email"],
 .upozorneni form dd input[type="email"] {
-  border-radius: var(--global-border-radius) 0 0 var(--global-border-radius);
+  border: none;
+  border-radius: 0;
+  margin-right: 0.75em;
+  border-bottom: thin solid #9E9E9E;
 }
 .upozorneni.hdesc--top + div form dd input[type="submit"],
 .upozorneni form dd input[type="submit"] {
-  border-radius: 0 var(--global-border-radius) var(--global-border-radius) 0;
 }
 .part.ukazka {
   padding-bottom: 1em;
