@@ -71,6 +71,22 @@ h1 {
   counter-reset: subsection;
   list-style: none;
 }
+.list li li ul,
+.list li li ol {
+  counter-reset: subsubsection;
+  list-style: none;
+}
+.hdesc--top + div:not(.section) li li,
+.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list li li {
+  margin-left: var(--list-margin-left);
+}
+.hdesc--top + div:not(.section) .list li li ul li:before,
+.hdesc--top + div:not(.section) .list li li ol li:before,
+.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list li li ul li:before,
+.part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list li li ol li:before {
+  counter-increment: subsubsection;
+  content: counter(subsubsection, lower-roman) ".";
+}
 .hdesc--top + div:not(.section) .list > ol ol > li:before,
 .hdesc--top + div:not(.section) .list > ol ul > li:before,
 .part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list > ol ol > li:before,
