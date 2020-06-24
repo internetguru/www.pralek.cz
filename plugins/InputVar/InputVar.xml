@@ -221,7 +221,7 @@
   
   <var id="taglist">
     <dl class="list--nomultiple">
-      <dt class="filter">Seznam štítků</dt>
+      <dt class="filter">Zobrazit články podle štítku</dt>
       <dd>
 <!-- [taglist] generated content, do not edit -->
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=alergie" href="href=alergie"><span class="fas fa-tag">i</span>alergie</a>
