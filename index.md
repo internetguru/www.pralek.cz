@@ -247,11 +247,13 @@ n/a
 {var="doclist-stitek"}
 
   * n/a
-:   
-    
-    {var="inputvar-taglist" class="taglist"}
-    
-    n/a
+
+x
+:   y
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: rychla_lekarska_pomoc
  [2]: #historie
