@@ -25,8 +25,8 @@
   <var id="ghedit2"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s" title="Navrhnout úpravy článku" class="button button--simple button--img button--img-only"><span class="fas fa-fw fa-pencil">i</span></a></var>
   <var id="fb-share"><a href="https://www.facebook.com/pralek"><span class="fab fa-fw fa-facebook-square">i</span>Sledovat Pralék na Facebooku</a></var>
 
-  <fn id="headertags" fn="sequence">
 <!--     <call>stripkws</call> -->
+  <fn id="headertags" fn="sequence">
     <call>makeelements</call>
     <call>replacenames</call>
     <call>adduspheader</call>
