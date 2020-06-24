@@ -203,6 +203,7 @@ h1 {
 .hdesc--top .list-wrapper--multiple li:before {
   content: "●";
   margin-right: 0.5em;
+  color: #26A69A;
 }
 .hdesc--top .list-wrapper--multiple .share,
 .hdesc--top .list-wrapper--multiple .social {
