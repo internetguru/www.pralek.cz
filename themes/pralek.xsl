@@ -37,11 +37,11 @@
         <h2 id="internetguru">Tento web roste s námi</h2>
         <p class="description">O tento web se stará <a href="https://www.internetguru.cz">Internet Guru</a> od roku 2007. Po celou dobu web neustále roste a pomáhá <strong>desítkám tisícům unikátních návštěvníků měsíčně</strong>!</p>
         <ul class="list--ico">
-          <li><span class="fas fa-fw fa-check">i</span>Perfektní čitelnost na všech zařízeních</li>
-          <li><span class="fas fa-fw fa-check">i</span>Publikační proces s autorizací změn a testovacím webem</li>
-          <li><span class="fas fa-fw fa-check">i</span>Správa štítků jednoduše v tabulce Excel / Spreadsheet</li>
-          <li><span class="fas fa-fw fa-check">i</span>Neustálý rozvoj funkcí a vylepšování uživatelské zkušenosti</li>
-          <li><span class="fas fa-fw fa-check">i</span>Podrobné statistiky návštěvnosti</li>
+          <li><span class="fas fa-fw fa-check">i</span>Perfektní čitelnost na všech zařízeních.</li>
+          <li><span class="fas fa-fw fa-check">i</span>Publikační proces s autorizací změn a testovacím prostředím.</li>
+          <li><span class="fas fa-fw fa-check">i</span>Správa štítků jednoduše v tabulce Excel / Spreadsheet.</li>
+          <li><span class="fas fa-fw fa-check">i</span>Neustálý rozvoj funkcí a vylepšování uživatelské zkušenosti.</li>
+          <li><span class="fas fa-fw fa-check">i</span>Podrobné statistiky návštěvnosti.</li>
         </ul>
         <p>Chcete také publikovat na internetu?</p>
         <ul class="button-list">
