@@ -35,6 +35,9 @@
 .button--simple {
   --button-color: 0, 0, 0;
 }
+.button--simple {
+  /* font-size: 1.2em; */
+}
 #footer {
   --button-color: #000;
 }
@@ -457,15 +460,15 @@ a.tag svg {
   color: rgba(var(--link-color), 0.5);
 }
 #clanky .tag {
-  color: #E53935;
+  color: rgb(233, 30, 99);
 }
 a.tag[href^="#"] {
-  --link-color: 229, 57, 53;
-  --link-visited-color: 229, 57, 53;
+  --link-color: 233, 30, 99;
+  --link-visited-color: 233, 30, 99;
 }
 #clanky .tag svg,
 a.tag[href^="#"] svg {
-  color: #E53935;
+  color: #EC407A;
 }
 /************************************/ 
 a.button:not(.button--border) {
@@ -919,7 +922,7 @@ body:not(.agregator) .hdesc--top label {
   top: 0;
   color: #00796B;
   /* padding: 0 0.75rem 0 1rem; */
-  /* font-size: 1em; */
+  /* font-size: 1.2rem; */
   outline: none;
   border-radius: 0 0 0 var(--global-border-radius);
   -webkit-appearance: none;
@@ -1225,9 +1228,6 @@ li {
 }
 .upozorneni.hdesc--top + div form dd button,
 .upozorneni form dd button {
-  --button-svg-color: white;
-  --button-bg: #E65100;
-  --button--active-bg: #F57C00;
   padding: var(--button-img-inline-padding);
   flex: 0 0 auto;
 }
