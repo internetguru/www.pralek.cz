@@ -101,6 +101,12 @@
           this.term.parentNode.insertBefore(this.container, this.term.nextSibling)
           this.created = true
         },
+        hide: function () {
+          if (!this.container) {
+            return
+          }
+          this.container.classList.add(Config.hiddenClass)
+        },        
         toggle: function () {
           this.container.classList.toggle(Config.hiddenClass)
         }
@@ -110,12 +116,15 @@
     var Definition = function() {
 
       var
+        definitions = [],
         fireEvents = function () {
           var terms = document.querySelectorAll("." + Config.ns)
           for (var i = 0; i < terms.length; i++) {
             var termComp = new DefinitionComponent(terms[i])
             terms[i].classList.add("eventable")
+            terms[i].title = `Článek: ${terms[i].title}`
             terms[i].addEventListener("click", toggleTerm.bind(termComp), false)
+            definitions.push(termComp)
           }
           return terms.length
         },
@@ -123,6 +132,12 @@
           if (event.ctrlKey || event.shiftKey) {
             return true;
           }
+          definitions.forEach((item) => {
+            if (item === this) {
+              return
+            }
+            item.hide()
+          })
           if (!this.created) {
             this.create()
           } else {
@@ -130,6 +145,24 @@
           }
           event.preventDefault()
           return false;
+        },
+        fireControllEvents = function () {
+          document.addEventListener("keydown", (event) => {
+            if (event.key === "Escape") {
+              definitions.forEach((item) => item.hide())
+            }
+          })
+          document.addEventListener("click", (event) => {
+            definitions.forEach((item) => {
+              if (!item.container) {
+                return
+              }
+              if (event.target.closest(`.${Config.containerClass}`) || event.target.closest(`.${Config.ns}`)) {
+                return
+              }
+              item.hide()   
+            })
+          })
         }
 
       return {
@@ -140,6 +173,7 @@
             return
           }
           IGCMS.appendStyle(Config.css)
+          fireControllEvents()
         },
       }
     };
