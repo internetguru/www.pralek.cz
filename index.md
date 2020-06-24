@@ -248,9 +248,6 @@ n/a
 
   * n/a
 
-x
-:   y
-
 {var="inputvar-taglist" class="taglist"}
 
 n/a
