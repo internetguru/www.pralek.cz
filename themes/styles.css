@@ -940,7 +940,7 @@ body:not(.agregator) .hdesc--top label {
   right: -6rem;
   top: 0;
   color: #00796B;
-  /* padding: 0 0.75rem 0 1rem; */
+  padding: 0 0.75rem 0 1rem;
   /* font-size: 1.2rem; */
   outline: none;
   border-radius: 0 0 0 var(--global-border-radius);
@@ -950,6 +950,8 @@ body:not(.agregator) .hdesc--top label {
 .search button[type="submit"] svg {
   font-size: 1.75rem;
   color: #00796B;
+  margin-right: 0;
+  /* margin-left: 0.25em; */
 }
 @media (min-width: 62em) {
   .search ul button[type="submit"] {
@@ -984,7 +986,7 @@ body:not(.agregator) .hdesc--top label {
   padding: 0;
 }
 .search .js-completable__navig {
-  width: calc(100% + 10.5em) !important;
+  width: calc(100% + 3.4em) !important;
   right: -6em;
   top: 3.5em;
 }
@@ -994,13 +996,16 @@ body:not(.agregator) .hdesc--top label {
 }
 @media (min-width: 46em) {
   .search {
-    max-width: 24em;
+    max-width: 27em;
   }
   .search button span {
     display: block;
   }
   .search ul .js-completable__input {
-    right: 4.8em;
+    right: -2.6em;
+  }
+  .search button[type="submit"] svg {
+    margin-left: 0.25em;
   }
 }
 /************************************/
