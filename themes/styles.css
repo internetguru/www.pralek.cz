@@ -863,10 +863,10 @@ body:not(.agregator) .hdesc--top label {
 /***************************/
 .search {
   padding-right: 6em;
-  width: 100%;
+  width: calc(100% + 1em);
   position: absolute;
-  right: 0;
-  top: 0;
+  right: 0.2em;
+  top: 0.2em;
 }
 .search .js-completable__navig strong {
   font-weight: 600;
@@ -896,7 +896,7 @@ body:not(.agregator) .hdesc--top label {
   border-bottom: thin solid #9E9E9E;
   width: 0;
   position: relative;
-  right: -1rem;
+  right: -2rem;
   z-index: 2;
 }
 .search ul .js-completable__input:not(:placeholder-shown),
@@ -943,7 +943,7 @@ body:not(.agregator) .hdesc--top label {
   padding: 0 0.75rem 0 1rem;
   /* font-size: 1.2rem; */
   outline: none;
-  border-radius: 0 0 0 var(--global-border-radius);
+  border-radius: var(--global-border-radius);
   -webkit-appearance: none;
   --button-bg: none;
 }
@@ -955,7 +955,7 @@ body:not(.agregator) .hdesc--top label {
 }
 @media (min-width: 62em) {
   .search ul button[type="submit"] {
-    border-radius: 0 0 var(--global-border-radius) var(--global-border-radius);
+    /* border-radius: 0 0 var(--global-border-radius) var(--global-border-radius); */
   }
 }
 .search button span {
@@ -986,7 +986,7 @@ body:not(.agregator) .hdesc--top label {
   padding: 0;
 }
 .search .js-completable__navig {
-  width: calc(100% + 3.4em) !important;
+  width: calc(100% + 5em) !important;
   right: -6em;
   top: 3.5em;
 }
@@ -995,6 +995,9 @@ body:not(.agregator) .hdesc--top label {
   display: block;
 }
 @media (min-width: 46em) {
+  .search .js-completable__navig {
+    width: calc(100% + 3.5em) !important;
+  }
   .search {
     max-width: 27em;
   }
