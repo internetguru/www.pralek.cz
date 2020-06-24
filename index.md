@@ -238,7 +238,7 @@ n/a
 
 {id="clanky" short="Články" class="filter"}
 
-## Seznam článků se štítkem
+## Seznam článků
 
 n/a
 
