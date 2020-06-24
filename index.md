@@ -244,13 +244,14 @@ n/a
 
 <!--     <desc kw="články, koutek, novinky, upozornění">Články jsou určeny široké veřejnosti, zvláště pak lidem ve zdravotní tísni, nemocným lidem a jejich ošetřovatelům či příbuzným. Témata nových článků závisí na aktuálním dění a na odezvě čtenářů.</desc> -->
 
-{var="doclist-stitek" class="nomultiple"}
+{var="doclist-stitek"}
 
   * n/a
-
-{var="inputvar-taglist" class="taglist"}
-
-n/a
+:   
+    
+    {var="inputvar-taglist" class="taglist"}
+    
+    n/a
 
  [1]: rychla_lekarska_pomoc
  [2]: #historie
