@@ -485,6 +485,7 @@ a.tag svg {
 a.tag[href^="#"] {
   --link-color: 233, 30, 99;
   --link-visited-color: 233, 30, 99;
+  border-bottom: none;
 }
 #clanky .tag svg,
 a.tag[href^="#"] svg {
