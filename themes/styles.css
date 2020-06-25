@@ -533,6 +533,19 @@ dt label.button {
 .moreable-linkwrapper .button span {
   margin-left: 0.25em;
 }
+.meta .moreable-linkwrapper {
+  display: inline;
+  width: auto;
+}
+.meta .moreable-linkwrapper span {
+  display: none;
+}
+.meta .moreable-linkwrapper .button {
+  padding: 0.25rem;
+  min-width: 3rem;
+  font-size: 1em;
+  font-weight: 700;
+}
 /************************************/
 .hdesc.o_praleku + div,
 .o_praleku {
@@ -794,7 +807,7 @@ body:not(.agregator) .hdesc--top label {
 .hdesc--top .meta {
   margin-top: 0;
   font-size: 1.2em;
-  max-width: 30em;
+  /* max-width: 25em; */
   overflow: hidden;
   height: 2.2em;
   margin: 0 auto;
