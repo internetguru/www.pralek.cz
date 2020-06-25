@@ -9,4 +9,10 @@ require("IGCMS.Moreable", function () {
     moreText: "Další související články",
     leftText: "zbývá %s"
   })
+  IGCMS.Moreable.init({
+    parent: ".meta > span",
+    moreText: "...",
+    leftText: "",
+    displayStep: 3
+  })
 })
