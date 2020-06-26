@@ -5,9 +5,9 @@
 
 # Srdeční infarkt: rozpoznání infarktu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
-{kw="srdce, poruchy vědomí, cévy, prevence, břicho"}
+{kw="srdce, poruchy vědomí, cévy, cukrovka, prevence, břicho"}
 
 Bezodkladné zahájení masáže srdce při infarktu zachrání život a včasné další léčení může vrátit pacienta do plného zdraví.
 
