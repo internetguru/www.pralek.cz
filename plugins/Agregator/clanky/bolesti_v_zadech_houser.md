@@ -17,7 +17,7 @@ Páteř je oporou těla. Aby dobře plnila svou funkci, musí být přiměřeně
 
 Aby byla zachována **pevnost páteře**, musí být obratle, stejně jako stavební kameny, pevné a musí obsahovat dostatek vápníku.
 
-Největší nápor na pevnost obratlů bývá při pádu na zadek se současným předklonem; [obratel se může tlakem sousedních obratlů zbortit][2].Pevné vazy brání posunu obratů mezi sebou a zajišťují normální dvojesovité prohnutí páteře.
+Největší nápor na pevnost obratlů bývá při pádu na zadek se současným předklonem; [obratel se může tlakem sousedních obratlů zbortit][2]. Pevné vazy brání posunu obratů mezi sebou a zajišťují normální dvojesovité prohnutí páteře.
 
 Vazy musí mít určitou přiměřenou vůli, aby byla umožněna **ohebnost páteře** všemi směry. Nejvolnější je krční páteř, pak bederní, nejméně volná je hrudní, křížové obratle jsou dokonce pevně srostlé v křížovou kost, na ni navazuje kostrč. Hybnost páteře je zajištěna příčně pruhovaným (hlavně zádovým) svalstvem.
 
@@ -35,7 +35,7 @@ n/a
 
 Ve stavbě páteře mohou vzniknout následující problémy:
 
-  * deformita vrozená nebo získaná (velmi časté), například [torticollis][3],
+  * deformita vrozená nebo získaná (velmi často), například [strnutí šíje][3],
   * přetížení části páteře, například nezvyklou prací, pádem, sportem, prudkým pohybem, spánkem v nevhodné poloze a dlouhodobým pobytem v nepřirozené poloze,
   * přílišné uvolnění vazů,
   * [zborcení těla obratle][4] (zároveň s rozvolněním vazů),
@@ -58,19 +58,19 @@ Bolestivé jsou přetěžované úpony svalů a vazů ke kostem. Další častá
 
 Bolesti v zádech začínají již v dětském věku. Vyskytují se u lidí cvičících i lenošících, u sportovců, počítačových nadšenců, u obézních i hubených. Nejvíce potíží mívají lidé v dospělosti, ve stáří bolesti v zádech většinou samovolně ustupují.
 
-Hlavní zásady, jak zmírnit bolesti v zádech:
+Existuje několik zásad, jak zmírnit bolesti v zádech:
 
-  * zatěžování páteře musí být přiměřené a pravidelné (ne nárazové),
-  * po větší zátěži má následovat hodnotný (třeba aktivní) odpočinek,
-  * vzniklou bolest v zádech neřešit ihned lékem proti bolesti (bolest je upozorněním, že je něco v nepořádku) ale snažit se páteř **vyhřát suchým teplem a rozhýbat**,
-  * [lék proti bolesti][6] si vzít až v případě delšího přetrvávání potíží, a to ne na práci ale až k odpočinku – nejlépe na noc a začít spíše slabšími (žádný lék páteř nevyléčí, žádný není nejlepší nebo nejhorší, ani ten, který někomu jinému pomohl),
-  * klidný a pohodlný spánek (třeba s lékem proti bolesti) na kvalitní matraci,
-  * bránit se propocení a následnému prochlazení (hlavně bederní a krční páteř),
-  * k jednostranné zátěži střídat strany (prostřídat končetiny),
-  * v případě propocení se převléknout,
-  * rehabilitace (masáže, trakce) a fyzikální terapie jsou příjemné, jistě ovlivní bolavou páteř blahodárně, ale příčinu potíží neodstraní (nevyléčí) většinou jen bolest přemístí,
-  * dlouhodobé potíže s páteří vedou vždy k narušení psychiky, je vhodné vyhledat psychologa nebo lépe psychiatra,
-  * v případě dlouhodobých problémů nebo náhle vzniklých prudkých bolestí a potíží je třeba [vyhledat lékaře][7] a po vyšetření se podrobit doporučenému léčebnému postupu.
+  * Zatěžování páteře musí být přiměřené a pravidelné (nikoli nárazové).
+  * Po větší zátěži má následovat hodnotný (třeba aktivní) odpočinek.
+  * Vzniklou bolest v zádech neřešit ihned lékem proti bolesti (bolest je upozorněním, že je něco v nepořádku), ale snažit se páteř **vyhřát suchým teplem a rozhýbat**.
+  * [Lék proti bolesti][6] si vzít až v případě delšího přetrvávání potíží, a to ne na práci, ale až k odpočinku. Nejlépe tedy na noc a začít spíše slabšími. Žádný lék páteř nevyléčí, žádný není nejlepší nebo nejhorší, ani ten, který někomu jinému pomohl.
+  * Zajistit klidný a pohodlný spánek (třeba s lékem proti bolesti) na kvalitní matraci.
+  * Bránit se propocení a následnému prochlazení. Týká se hlavně bederní a krční páteře. V případě propocení se převléknout.
+  * K jednostranné zátěži střídat strany (prostřídat končetiny).
+
+Rehabilitace (masáže, trakce) a fyzikální terapie jsou příjemné, a nepochybně ovlivní bolavou páteř blahodárně. Příčinu potíží však neodstraní (nevyléčí) a bolest většinou pouze přemístí.
+
+Dlouhodobé potíže s páteří vedou vždy k narušení psychiky, je vhodné vyhledat psychologa nebo lépe psychiatra. V případě dlouhodobých problémů nebo náhle vzniklých prudkých bolestí a potíží je třeba [vyhledat lékaře][7] a po vyšetření se podrobit doporučenému léčebnému postupu.
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -121,4 +121,3 @@ n/a
  [5]: onemocneni_slach
  [6]: leky_proti_bolesti
  [7]: nalehavost_lekarskeho_vysetreni
-
