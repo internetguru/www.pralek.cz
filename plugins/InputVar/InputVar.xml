@@ -296,66 +296,66 @@
     <ul class="completable-search__wrapper">
       <li><select id="completable-search" name="s" class="completable">
 <!-- [completable] generated content, do not edit -->
-<option class="tag" value="alergie">alergie - 8 výskytů</option>
-<option class="tag" value="antibiotika">antibiotika - 2 výskyty</option>
-<option class="tag" value="bolest">bolest - 2 výskyty</option>
-<option class="tag" value="boule">boule - 2 výskyty</option>
-<option class="tag" value="boulicka">boulička - 12 výskytů</option>
-<option class="tag" value="bricho">břicho - 25 výskytů</option>
-<option class="tag" value="cevy">cévy - 22 výskytů</option>
-<option class="tag" value="cukrovka">cukrovka - 8 výskytů</option>
-<option class="tag" value="detske">dětské - 12 výskytů</option>
-<option class="tag" value="dychani">dýchání - 4 výskyty</option>
-<option class="tag" value="hygiena">hygiena - 9 výskytů</option>
-<option class="tag" value="imunita">imunita - 6 výskytů</option>
-<option class="tag" value="infarkt">infarkt - 3 výskyty</option>
-<option class="tag" value="jed">jed - 4 výskyty</option>
-<option class="tag" value="kasel">kašel - 2 výskyty</option>
-<option class="tag" value="kloub">kloub - 2 výskyty</option>
-<option class="tag" value="kolaps">kolaps - 5 výskytů</option>
-<option class="tag" value="krvaceni">krvácení - 25 výskytů</option>
-<option class="tag" value="kuze-podkozi">kůže-podkoží - 16 výskytů</option>
-<option class="tag" value="latkova_vymena">látková výměna - 4 výskyty</option>
-<option class="tag" value="mikroorganizmy">mikroorganizmy - 17 výskytů</option>
-<option class="tag" value="mocova_soustava">močová soustava - 7 výskytů</option>
-<option class="tag" value="mozek-nervy">mozek-nervy - 8 výskytů</option>
-<option class="tag" value="myty">mýty - 2 výskyty</option>
-<option class="tag" value="nadory">nádory - 18 výskytů</option>
-<option class="tag" value="nehet">nehet - 2 výskyty</option>
-<option class="tag" value="neurazove">neúrazové - 23 výskytů</option>
-<option class="tag" value="nevolnost">nevolnost - 17 výskytů</option>
-<option class="tag" value="nezhoubne">nezhoubné - 9 výskytů</option>
-<option class="tag" value="poceni">pocení - 9 výskytů</option>
-<option class="tag" value="pohyb">pohyb - 35 výskytů</option>
-<option class="tag" value="poraneni">poranění - 27 výskytů</option>
-<option class="tag" value="poruchy_vedomi">poruchy vědomí - 11 výskytů</option>
-<option class="tag" value="prehrati">přehřátí - 2 výskyty</option>
-<option class="tag" value="prevence">prevence - 39 výskytů</option>
-<option class="tag" value="prochlazeni">prochlazení - 4 výskyty</option>
-<option class="tag" value="prvni_pomoc">první pomoc - 18 výskytů</option>
-<option class="tag" value="rehabilitace">rehabilitace - 4 výskyty</option>
-<option class="tag" value="rihani">říhání - 2 výskyty</option>
-<option class="tag" value="seniori">senioři - 5 výskytů</option>
-<option class="tag" value="spaleniny">spáleniny - 4 výskyty</option>
-<option class="tag" value="srdce">srdce - 5 výskytů</option>
-<option class="tag" value="strach">strach - 19 výskytů</option>
-<option class="tag" value="strava-zazivani">strava-zažívání - 17 výskytů</option>
-<option class="tag" value="strevo">střevo - 2 výskyty</option>
-<option class="tag" value="tekutiny">tekutiny - 5 výskytů</option>
-<option class="tag" value="teplota">teplota - 21 výskytů</option>
-<option class="tag" value="toceni_hlavy">točení hlavy - 5 výskytů</option>
-<option class="tag" value="urazy">úrazy - 36 výskytů</option>
-<option class="tag" value="uzliny">uzliny - 8 výskytů</option>
-<option class="tag" value="vykloubeni">vykloubení - 2 výskyty</option>
-<option class="tag" value="zaludek">žaludek - 10 výskytů</option>
-<option class="tag" value="zanet">zánět - 44 výskytů</option>
-<option class="tag" value="zdravy_zivotni_styl">zdravý životní styl - 13 výskytů</option>
-<option class="tag" value="zhoubne">zhoubné - 16 výskytů</option>
-<option class="tag" value="zlaza">žláza - 9 výskytů</option>
-<option class="tag" value="zlomeniny">zlomeniny - 11 výskytů</option>
-<option class="tag" value="zlucnik">žlučník - 5 výskytů</option>
-<option class="tag" value="zvire">zvíře - 3 výskyty</option>
-<option class="tag" value="zvraceni">zvracení - 24 výskytů</option>
+<option class="tag">alergie - 8 výskytů</option>
+<option class="tag">antibiotika - 2 výskyty</option>
+<option class="tag">bolest - 2 výskyty</option>
+<option class="tag">boule - 2 výskyty</option>
+<option class="tag">boulička - 12 výskytů</option>
+<option class="tag">břicho - 25 výskytů</option>
+<option class="tag">cévy - 22 výskytů</option>
+<option class="tag">cukrovka - 8 výskytů</option>
+<option class="tag">dětské - 12 výskytů</option>
+<option class="tag">dýchání - 4 výskyty</option>
+<option class="tag">hygiena - 9 výskytů</option>
+<option class="tag">imunita - 6 výskytů</option>
+<option class="tag">infarkt - 3 výskyty</option>
+<option class="tag">jed - 4 výskyty</option>
+<option class="tag">kašel - 2 výskyty</option>
+<option class="tag">kloub - 2 výskyty</option>
+<option class="tag">kolaps - 5 výskytů</option>
+<option class="tag">krvácení - 25 výskytů</option>
+<option class="tag">kůže-podkoží - 16 výskytů</option>
+<option class="tag">látková výměna - 4 výskyty</option>
+<option class="tag">mikroorganizmy - 17 výskytů</option>
+<option class="tag">močová soustava - 7 výskytů</option>
+<option class="tag">mozek-nervy - 8 výskytů</option>
+<option class="tag">mýty - 2 výskyty</option>
+<option class="tag">nádory - 18 výskytů</option>
+<option class="tag">nehet - 2 výskyty</option>
+<option class="tag">neúrazové - 23 výskytů</option>
+<option class="tag">nevolnost - 17 výskytů</option>
+<option class="tag">nezhoubné - 9 výskytů</option>
+<option class="tag">pocení - 9 výskytů</option>
+<option class="tag">pohyb - 35 výskytů</option>
+<option class="tag">poranění - 27 výskytů</option>
+<option class="tag">poruchy vědomí - 11 výskytů</option>
+<option class="tag">přehřátí - 2 výskyty</option>
+<option class="tag">prevence - 39 výskytů</option>
+<option class="tag">prochlazení - 4 výskyty</option>
+<option class="tag">první pomoc - 18 výskytů</option>
+<option class="tag">rehabilitace - 4 výskyty</option>
+<option class="tag">říhání - 2 výskyty</option>
+<option class="tag">senioři - 5 výskytů</option>
+<option class="tag">spáleniny - 4 výskyty</option>
+<option class="tag">srdce - 5 výskytů</option>
+<option class="tag">strach - 19 výskytů</option>
+<option class="tag">strava-zažívání - 17 výskytů</option>
+<option class="tag">střevo - 2 výskyty</option>
+<option class="tag">tekutiny - 5 výskytů</option>
+<option class="tag">teplota - 21 výskytů</option>
+<option class="tag">točení hlavy - 5 výskytů</option>
+<option class="tag">úrazy - 36 výskytů</option>
+<option class="tag">uzliny - 8 výskytů</option>
+<option class="tag">vykloubení - 2 výskyty</option>
+<option class="tag">žaludek - 10 výskytů</option>
+<option class="tag">zánět - 44 výskytů</option>
+<option class="tag">zdravý životní styl - 13 výskytů</option>
+<option class="tag">zhoubné - 16 výskytů</option>
+<option class="tag">žláza - 9 výskytů</option>
+<option class="tag">zlomeniny - 11 výskytů</option>
+<option class="tag">žlučník - 5 výskytů</option>
+<option class="tag">zvíře - 3 výskyty</option>
+<option class="tag">zvracení - 24 výskytů</option>
 <option class="article" value="Znaménko, bradavice, rakovina">Mateřské znaménko, bradavice nebo rakovina - </option>
 <option class="article" value="Žlučové kameny">Prevence a léčba žlučových kamenů - </option>
 <option class="article" value="Zlomeniny kostí">Zlomeniny kostí - </option>
