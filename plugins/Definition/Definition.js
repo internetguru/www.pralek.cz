@@ -136,17 +136,18 @@
       var
         definitions = [],
         fireEvents = function () {
+          const generateHandler = (value, method) => e => method(e, value)
           var terms = document.querySelectorAll(`.${Config.ns}`)
           for (var i = 0; i < terms.length; i++) {
             var termComp = new DefinitionComponent(terms[i])
             terms[i].classList.add("eventable")
             terms[i].title = `${Config.titlePrefix}${terms[i].title}`
-            terms[i].addEventListener("click", toggleTerm.bind(termComp), false)
+            terms[i].addEventListener("click", generateHandler(termComp, toggleTerm), false)
             definitions.push(termComp)
           }
           return terms.length
         },
-        toggleTerm = function (event) {
+        toggleTerm = function (event, termComp) {
           if (event.ctrlKey || event.shiftKey) {
             return true;
           }
@@ -156,10 +157,10 @@
             }
             item.hide()
           })
-          if (!this.created) {
-            this.create()
+          if (!termComp.created) {
+            termComp.create()
           } else {
-            this.toggle()
+            termComp.toggle()
           }
           event.preventDefault()
           return false;
