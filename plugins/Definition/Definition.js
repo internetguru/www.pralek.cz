@@ -1,17 +1,19 @@
-(function() {
+(() => {
 
-  require("IGCMS", function() {
+  require("IGCMS", () => {
 
     var Config = {}
     Config.ns = "definition"
-    Config.containerClass = Config.ns + "-cont"
-    Config.hiddenClass = Config.ns + "-hidden"
-    Config.closeClass = Config.ns + "-close"
+    Config.containerClass = Config.ns + "__cont"
+    Config.hiddenClass = Config.ns + "__hidden"
+    Config.closeClass = Config.ns + "__close"
     Config.closeValue = "×"
-    Config.descClass = Config.ns + "-desc"
+    Config.descClass = Config.ns + "--desc"
     Config.dataDescAttr = "data-" + Config.ns + "-desc"
-    Config.hrefClass = Config.ns + "-href"
+    Config.hrefClass = Config.ns + "--href"
     Config.dataHrefTitleAttr = "data-" + Config.ns + "-href-title"
+    Config.titlePrefix = "Článek: " // e.g. "Article: "
+    Config.copyFromParent = ".part.odkazy .list > div" // e.g. .part.odkazy .list > div
     Config.css = '/* deginition.js */' +
       '.' + Config.hiddenClass + ' {' +
       '  display: none;' +
@@ -63,14 +65,10 @@
         term = term,
         container = null,
         created = false
-
       return {
         term: term,
         created: created,
-        create: function () {
-          this.container = document.createElement("div")
-          this.container.className = Config.containerClass
-
+        createContainer: function () {
           var descValue = this.term.getAttribute(Config.dataDescAttr)
           if (!descValue) {
             descValue = this.term.getAttribute("title")
@@ -98,6 +96,26 @@
             link.setAttribute("href", href)
             desc.appendChild(link)
           }
+        },
+        copyContainer: function () {
+          var id = (new URL(`https://a.b.cz${term.getAttribute("href")}`)).pathname.substr(1)
+          var copyElm = document.querySelector(`${Config.copyFromParent} .${id}`)
+          if (!copyElm) {
+            return false
+          }
+          this.container.appendChild(copyElm)
+          return true
+        },
+        create: function () {
+          this.container = document.createElement("div")
+          this.container.className = Config.containerClass
+          var inited = false
+          if (Config.copyFromParent) {
+            inited = this.copyContainer()
+          }
+          if (!inited) {
+            this.createContainer()
+          }
           this.term.parentNode.insertBefore(this.container, this.term.nextSibling)
           this.created = true
         },
@@ -106,23 +124,23 @@
             return
           }
           this.container.classList.add(Config.hiddenClass)
-        },        
+        },
         toggle: function () {
           this.container.classList.toggle(Config.hiddenClass)
         }
       }
     }
 
-    var Definition = function() {
+    var Definition = function () {
 
       var
         definitions = [],
         fireEvents = function () {
-          var terms = document.querySelectorAll("." + Config.ns)
+          var terms = document.querySelectorAll(`.${Config.ns}`)
           for (var i = 0; i < terms.length; i++) {
             var termComp = new DefinitionComponent(terms[i])
             terms[i].classList.add("eventable")
-            terms[i].title = `Článek: ${terms[i].title}`
+            terms[i].title = `${Config.titlePrefix}${terms[i].title}`
             terms[i].addEventListener("click", toggleTerm.bind(termComp), false)
             definitions.push(termComp)
           }
@@ -160,13 +178,13 @@
               if (event.target.closest(`.${Config.containerClass}`) || event.target.closest(`.${Config.ns}`)) {
                 return
               }
-              item.hide()   
+              item.hide()
             })
           })
         }
 
       return {
-        init : function(cfg) {
+        init: function (cfg) {
           IGCMS.initCfg(Config, cfg)
           var events = fireEvents()
           if (events === 0) {
@@ -176,11 +194,11 @@
           fireControllEvents()
         },
       }
-    };
+    }
 
     IGCMS.Definition = new Definition()
-    require("IGCMS.Eventable", function () {
+    require("IGCMS.Eventable", () => {
       IGCMS.Definition.init()
     })
-  });
-})();
+  })
+})()
