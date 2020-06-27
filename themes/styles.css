@@ -1179,6 +1179,8 @@ li.important, li.example {
 }
 #content .definition__cont .clanek {
   box-shadow: var(--shadow-2);
+  display: block !important;
+  margin-top: 0;
 }
 #content .definition__cont {
   position: absolute;
