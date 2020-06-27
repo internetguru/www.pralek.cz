@@ -19,29 +19,29 @@ Hodnotu tělesné teploty řídí zvláštní centrum uložené v mozku. U zdrav
 
 Pokles teploty o více než 1 °C může ohrozit zdraví (nemoc z prochlazení). **Organizmus se brání třesem** a nutí nás do zvýšení tělesné aktivity.
 
-Pokles na ještě nižší hodnoty může ohrozit život [zpomalením a následně zástavou srdce][1]. Jedná se například o podchlazení organizmu při spánku, nejčastěji po požití alkoholu – spící opilý člověk si nemusí uvědomovat chlad.
+Pokles na ještě nižší hodnoty může ohrozit život [zpomalením a následně zástavou srdce][1]. Jedná se například o podchlazení organizmu při spánku, nejčastěji po požití alkoholu. Spící opilý člověk si nemusí uvědomovat chlad.
 
 {id="prehrati_organizmu"}
 
 ## Přehřátí organizmu
 
-Vzestup tělesné teploty následuje po fyzické aktivitě. Při práci vzniká odpadní teplo, které musí organismus vyzářit do okolního prostředí. Při práci v horku nebo při nadměrném oblečení se musí odpařováním tekutiny (pocením) člověk zbavovat nadměrného tepla, aby nedošlo k přehřátí organizmu.
+S fyzickou aktivitou roste tělesná teplota, neboť při práci svalů vzniká odpadní teplo. Aby nedošlo k přehřátí organizmu, musí tělo předat vzniklé teplo do okolního prostředí odpařováním. Při práci v horku nebo při nadměrném oblečení probíhá chlazení pocením.
 
 {class="important"}
 
-Podmínkou pro správně fungující termoregulaci je [dostatek tekutin][2].
+Podmínkou pro správně fungující termoregulaci je [dostatek tekutin][2]. Nestačí jen voda. Vodu je nutné [kombinovat s ostatními nápoji][2] nejen sladkými a ovocnými, ale i slanými (polévky, minerálky).
 
 Pobyt v horku, na slunci, nemožnost ochlazení organismu koupelí ve chladné vodě a nedostatek tekutin jistě povede k úpalu. Projeví se [nevolností až zvracením][3], [bolestí a točením hlavy][4] a celkovou slabostí. Takto přehřátý člověk potřebuje pobyt v chladné tmavé místnosti, chladné nápoje, chladnou sprchu a klid.
 
-Na přehřátí jsou **náchylnější malé děti a staří lidé**. Hůře si totiž uvědomují pocit žízně. Dlouhá cesta na dovolenou a následný pobyt v prohřátém a prosluněném letovisku nutí sledovat množství požitých tekutin. Nestačí jen voda. Vodu je nutné [kombinovat s ostatními nápoji][2] nejen sladkými a ovocnými, ale i slanými (polévky, minerálky).
+Na přehřátí jsou **náchylnější malé děti a staří lidé**. Hůře si totiž uvědomují pocit žízně. Dlouhá cesta na dovolenou a následný pobyt v prohřátém a prosluněném letovisku nutí sledovat množství požitých tekutin. 
 
 {id="horecka\_a\_horecnata_onemocneni"}
 
 ## Horečka a horečnatá onemocnění
 
-Většina běžných dětských nemocí a [zánětlivých chorob dospělých][5] je provázena vzestupem tělesné teploty (horečnatá onemocnění). Začátky těchto nemocí bývají podobné – bolest hlavy, nechutenství, žaludeční nevolnost, celková slabost a zvýšená teplota.
+Většina běžných dětských nemocí a [zánětlivých chorob dospělých][5] je provázena zvýšením tělesné teploty (horečnatá onemocnění). Začátky těchto nemocí bývají obdobné – bolest hlavy, nechutenství, žaludeční nevolnost, celková slabost a zvýšená teplota.
 
-Tady je však zvýšená teplota obranou organizmu [proti mikroorganizmům][6] (bakteriím nebo virům) a **není vhodné teplotu hned snižovat**. První 2 až 3 dny bývají známky onemocnění obecně. Po této době se teprve projeví známky konkrétní choroby.
+Tady je však zvýšená teplota [obranou organizmu proti mikroorganizmům][14] (bakteriím nebo virům) a **mírně zvýšenou teplotu není vhodné hned snižovat**. První 2 až 3 dny bývají známky onemocnění obecně. Po této době se teprve projeví známky konkrétní choroby.
 
 {id="vyvoj\_horecnateho\_onemocneni"}
 
@@ -49,33 +49,33 @@ Tady je však zvýšená teplota obranou organizmu [proti mikroorganizmům][6] (
 
 Na počátku horečnatého onemocnění nemusí být vůbec zřejmé, zda půjde pouze o nekomplikovanou nemoc z prochlazení, nebo zda se jedná o počátek závažného (až smrtelného) onemocnění.
 
-Je vhodné, aby nemocný odpočíval, polehával, pil čaj s citronem. Vypotit se udělá nemocnému dobře. Teplotu v podpaží je vhodné udržovat do 38,5 °C pomocí zábalů nebo pomocí [léků proti teplotě][7]. V tomto případě **teplota je jednou ze součástí boje** proti choroboplodným zárodkům.
+Je vhodné, aby nemocný odpočíval, polehával, pil čaj s citronem. Vypotit se udělá nemocnému dobře. Teplotu v podpaží je vhodné udržovat do 38,5 °C pomocí zábalů nebo pomocí [léků proti teplotě][7]. V tomto případě **je teplota jednou ze součástí boje** proti choroboplodným zárodkům.
 
-Další vývoj příznaků onemocnění teprve ukáže o jakou mikrobiální nebo virovou nemoc se jedná. Jednotlivé příklady:
+Další vývoj příznaků onemocnění teprve ukáže o jakou mikrobiální nebo virovou nemoc se jedná.
 
-  * postupná úleva a rychlý ústup potíží – lehká [nemoc z prochlazení][8],
-  * bolesti nad a pod očima a potíže při smrkání svědčí pro [zánět obličejových dutin][9],
-  * nastupující bolest ucha svědčí pro zánět středouší nebo zubů,
-  * [bolest v krku a potíže při polykání ukazují na angínu][8],
-  * bolest na průduškách a [kašel svědčí pro zánět průdušek][10],
-  * nemožnost plného nádechu, zchvácenost a další zhoršování celkového stavu může ukazovat na zánět plic (laicky _zápal plic_),
-  * bolesti v bedrech, časté nebo obtížné močení nebo pálení při močení jsou [příznaky infekce močových cest][11],
-  * bolesti břicha, [průjmy a zvracení][3] mohu ale nemusí být známkou infekce v zažívacím traktu; může se ale také jednat o náhlou příhodu břišní,
-  * bolest hlavy, zchvácenost, nemožnost hlavu předklonit – zánět mozkových obalů (mozkových plen nebo laicky mozkových blan) nebo mozku (např. [klíšťový zánět mozku][12]),
-  * bolesti v krku, kloubů, svalů, hlavy, dráždivý kašel, zchvácenost může [ukazovat na chřipku][13],
-  * prudký dramatický rychle nastupující stav se zchváceností a vysokou teplotou a skvrnami na kůži se známkami prokrvácení může svědčit pro meningokokovou infekci.
+  * Postupná úleva a rychlý ústup potíží značí lehkou [nemoc z prochlazení][8].
+  * Bolesti nad a pod očima a potíže při smrkání svědčí pro [zánět obličejových dutin][9].
+  * Nastupující bolest ucha svědčí pro zánět středouší nebo zubů.
+  * [Bolest v krku a potíže při polykání ukazují na angínu][8].
+  * Bolest na průduškách a [kašel svědčí pro zánět průdušek][10].
+  * Nemožnost plného nádechu, zchvácenost a další zhoršování celkového stavu může ukazovat na zánět plic (laicky _zápal plic_).
+  * Bolesti v bedrech, časté nebo obtížné močení nebo pálení při močení jsou [příznaky infekce močových cest][11].
+  * Bolesti břicha, [průjmy a zvracení][3] mohu ale nemusí být známkou infekce v zažívacím traktu. Může se ale také jednat o náhlou příhodu břišní.
+  * Bolest hlavy, zchvácenost, nemožnost předklonit hlavu svědčí pro zánět mozkových obalů (mozkových plen nebo laicky mozkových blan) nebo pro zánět mozku (např. [klíšťový zánět mozku][12]).
+  * Bolesti v krku, kloubů, svalů, hlavy, dráždivý kašel a zchvácenost může značit [chřipku][13].
+  * Prudký dramatický rychle nastupující stav se zchváceností a vysokou teplotou a skvrnami na kůži se známkami prokrvácení může svědčit pro meningokokovou infekci.
   
-U běžných dětských nemocí se nejčastěji určí správná diagnóza až podle vyrážky. Při velmi vysoké teplotě mohou u dítěte vzniknout křeče z teploty (febrilní křeče) s poruchou dýchání.
+U běžných dětských nemocí se nejčastěji určí správná diagnóza až podle vyrážky. Při velmi vysoké teplotě mohou u dítěte vzniknout křeče z teploty _(febrilní křeče)_ s poruchou dýchání.
 
 {id="meningokokova_infekce"}
 
 ## Meningokoková infekce
 
-Obávaný [meningokok je mikroorganizmus][6], který se běžně vyskytuje v lidské populaci, stejně jako nepřeberné množství jiných podivně pojmenovaných bakterií. Bakterie se dělí na ty, které nikdy nezpůsobí lidem onemocnění, naopak jsou nutné k normálnímu fungování lidského těla a na ty, které někdy zapříčiní chorobu.
+Obávaný meningokok je [mikroorganizmus][6], který se běžně vyskytuje v lidské populaci stejně jako nepřeberné množství jiných podivně pojmenovaných bakterií. Bakterie se dělí na ty, které nikdy nezpůsobí lidem onemocnění, naopak jsou nutné k normálnímu fungování lidského těla a na ty, které někdy zapříčiní chorobu.
 
 {class="important"}
 
-Závažnost a průběh onemocnění jsou dány spíše [připraveností člověka](jak_neonemocnet) (imunitou a celkovým stavem) než záludností a nebezpečností bakterie.
+Závažnost a průběh onemocnění jsou dány spíše [připraveností organizmu](jak_neonemocnet) (imunitou a celkovým stavem) než záludností a nebezpečností bakterie.
 
 Meningokokové infekci bohužel nejčastěji podlehne malé dítě v době, kdy již nemá od matky dostatek protilátek (dostává je nitroděložně placentou a poporodně mateřským mlékem) a ještě nemá vytvořeny své [vlastní protilátky][14]. Další skupinou lidí, kteří mohou podlehnout meningokokovi jsou adolescenti ve stavu vyčerpání a únavy (například po probdělé noci). Ostatní **lidé při setkání s meningokokem nemusejí vůbec onemocnět**.
 
