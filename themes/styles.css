@@ -172,6 +172,7 @@ h1 {
   display: flex;
   flex-direction: column;
   position: relative;
+  width: 100%;
 }
 .extra {
   --button-color: var(--global-color);
@@ -771,7 +772,7 @@ body[data-link="/"] .breadcrumb a > span + span {
 .hdesc--top {
   padding-top: 7em;
 }
-body:not(.agregator) .hdesc--top a:not(.definition-href),
+body:not(.agregator) .hdesc--top a:not(.definition--href),
 body:not(.agregator) .hdesc--top label {
   --link-color: 255, 255, 255;
   --link-visited-color: 255, 255, 255;
@@ -1176,12 +1177,15 @@ li.important, li.example {
   background: none;
   transition: all var(--button-transition);
 }
-#content .definition-cont {
+#content .definition__cont .clanek {
+  box-shadow: var(--shadow-2);
+}
+#content .definition__cont {
   position: absolute;
   width: auto;
   z-index: 1;
 }
-#content .definition-desc {
+#content .definition__desc {
   padding: 1.75rem 1rem 1rem 1rem;
   font-size: 1rem;
   margin: 0;
@@ -1190,7 +1194,7 @@ li.important, li.example {
   box-shadow: var(--shadow-2);
   background: white;
 }
-#content .definition-close {
+#content .definition__close {
   font-size: 2em;
   display: flex;
   border-radius: 100%;
@@ -1204,7 +1208,7 @@ li.important, li.example {
   align-items: center;
   padding-right: 0.075em;
 }
-#content .definition-close:hover {
+#content .definition__close:hover {
   background: #EF5350;
   color: white;
 }
