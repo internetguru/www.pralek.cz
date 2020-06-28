@@ -546,6 +546,13 @@ dt label.button {
   min-width: 3rem;
   font-size: 1em;
   font-weight: 700;
+  --button--simple-bg: whitesmoke;
+  border-radius: 100%;
+  width: 2.5em;
+  height: 2.5em;
+  color: #616161;
+  justify-content: center;
+  align-items: center;
 }
 /************************************/
 .hdesc.o_praleku + div,
