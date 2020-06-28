@@ -239,6 +239,7 @@ h1 {
 }
 .extra .button-list li {
   flex: 0 1 auto;
+  margin-left: 0 !important;
 }
 .extra .button-list li:first-child {
   --button-list-item-margin: 0;
@@ -1194,6 +1195,7 @@ li.important, li.example {
   width: max-content;
   z-index: 1;
   margin: 0.5em 0;
+  max-width: 100%;
 }
 #content .definition--desc {
   padding: 1.75rem 1rem 1rem 1rem;
