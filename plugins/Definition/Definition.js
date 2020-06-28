@@ -163,11 +163,12 @@
           } else {
             termComp.toggle()
           }
-          if (event.clientX + termComp.container.clientWidth > window.innerWidth) {
+          const delta = termComp.container.clientWidth / 4
+          if (event.clientX - delta + termComp.container.clientWidth > window.innerWidth) {
             termComp.container.style.left = null
             termComp.container.style.right = `0px`
           } else {
-            termComp.container.style.left = `${event.clientX}px`
+            termComp.container.style.left = `${Math.max(event.clientX - delta, 0)}px`
           }
           event.preventDefault()
           return false;
