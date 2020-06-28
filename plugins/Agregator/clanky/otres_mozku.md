@@ -9,25 +9,23 @@
 
 {kw="mozek-nervy, poruchy vědomí, nevolnost, zvracení, poranění, boule, úrazy"}
 
-Pohmoždění hlavy lékařské vyšetření nevyžaduje. Níže vyjmenované příznaky otřesu mozku však vedou zraněného k lékařskému vyšetření.
+Pohmoždění hlavy jako takové lékařské vyšetření nevyžaduje. Po takovém poranění **je potřeba rozlišit, zda se jedná jen o pohmoždění hlavy nebo o otřes mozku**, a jak se ve kterém případě zachovat. Níže vyjmenované příznaky otřesu mozku lékařskému vyšetření vyžadují.
 
 {class="example"}
 
 Nejčastějšími příčinami tupého nebo [krvavého poranění hlavy][1] jsou pád na znak, poranění hozeným předmětem, uhození o futro nízkých dveří, náraz na pevné břemeno nebo poranění při potyčce.
 
-Po takovém poranění **je třeba rozlišit, jestli se jedná jen o pohmoždění hlavy nebo o otřes mozku** a jak se ve kterém případě zachovat.
-
 {id="bezvedomi"}
 
 ## Bezvědomí jako příznak otřesu mozku
 
-Pro otřes mozku svědčí třeba jen krátkodobé [bezvědomí][2], které navazuje na úraz hlavy. Poskytovatel první pomoci by se měl ujistit, [zda poraněný v bezvědomí dýchá][3] (akce srdeční nebývá tímto úrazem změněna).
+Pro otřes mozku svědčí třeba jen krátkodobé [bezvědomí][2], které navazuje na úraz hlavy. Člověk poskytující první pomoc by se měl ujistit, [zda poraněný v bezvědomí dýchá][3]. Srdeční akce nebývá tímto úrazem změněna.
 
 {class="important"}
 
 K záchraně života tedy většinou **postačí zachovat volné dýchací cesty** – vyprázdnění dutiny ústní, záklon hlavy nebo pouze stabilizovaná poloha. Většinou zraněný během krátké doby po úrazu sám opět nabude vědomí.
 
-Upadne-li dítě a uhodí se do hlavy, tak je pro lékaře důležitá informace, jestli pláč nastal bezprostředně po úrazu (pro posouzení třeba jen krátkodobého bezvědomí). Další chování poraněného dítěte bude úměrné bolesti související s úrazem nebo nějak změněné. Je třeba se k takovému dítěti chovat vlídně a klidně, aby dítě nebylo vyděšeno ze změněného chování.
+Upadne-li dítě a uhodí se do hlavy, tak je pro lékaře důležitá informace, zda pláč nastal bezprostředně po úrazu (pro posouzení třeba jen krátkodobého bezvědomí). Další chování poraněného dítěte bude úměrné bolesti související s úrazem nebo nějak změněné. Je třeba se k takovému dítěti chovat vlídně a klidně, aby nebylo vyděšeno ze změněného chování.
 
 {class="example"}
 
@@ -43,7 +41,7 @@ Příkladem otřesu mozku po úrazu hlavy je krátkodobé bezvědomí po každé
 
 Je logické, že **poraněný nesmí nic jíst ani pít do vyšetření lékařem**. Většinou takové zvracení ustává do 24 hodin od úrazu.
 
-Pokud souvisí úraz hlavy s pitím alkoholu, rovněž je třeba se přiklonit k otřesu mozku. Rozlišení je velmi obtížné, poraněného opilce by měl vyšetřit odborný lékař.
+Pokud souvisí úraz hlavy s pitím alkoholu, rovněž je třeba se přiklonit k otřesu mozku. Rozlišení je velmi obtížné a poraněného opilce by měl vyšetřit odborný lékař.
 
 {id="porucha\_pameti"}
 
