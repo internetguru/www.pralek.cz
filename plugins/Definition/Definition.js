@@ -68,6 +68,7 @@
       return {
         term: term,
         created: created,
+        container: container,
         createContainer: function () {
           var descValue = this.term.getAttribute(Config.dataDescAttr)
           if (!descValue) {
@@ -161,6 +162,12 @@
             termComp.create()
           } else {
             termComp.toggle()
+          }
+          if (event.clientX + termComp.container.clientWidth > window.innerWidth) {
+            termComp.container.style.left = ""
+            termComp.container.style.right = `0px`
+          } else {
+            termComp.container.style.left = `${event.clientX}px`
           }
           event.preventDefault()
           return false;
