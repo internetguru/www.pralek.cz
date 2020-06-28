@@ -542,7 +542,7 @@ dt label.button {
   display: none;
 }
 .meta .moreable-linkwrapper .button {
-  padding: 1.25rem 0.25rem 1.65rem 0.25rem;
+  padding: 1.25rem 0rem 1.65rem 0rem;
   min-width: 3rem;
   font-size: 1em;
   font-weight: 700;
