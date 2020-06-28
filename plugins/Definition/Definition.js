@@ -104,7 +104,7 @@
           if (!copyElm) {
             return false
           }
-          this.container.appendChild(copyElm)
+          this.container.appendChild(copyElm.cloneNode(true))
           return true
         },
         create: function () {
@@ -153,7 +153,7 @@
             return true;
           }
           definitions.forEach((item) => {
-            if (item === this) {
+            if (item === termComp) {
               return
             }
             item.hide()
@@ -164,7 +164,7 @@
             termComp.toggle()
           }
           if (event.clientX + termComp.container.clientWidth > window.innerWidth) {
-            termComp.container.style.left = ""
+            termComp.container.style.left = null
             termComp.container.style.right = `0px`
           } else {
             termComp.container.style.left = `${event.clientX}px`
