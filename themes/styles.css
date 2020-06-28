@@ -542,14 +542,14 @@ dt label.button {
   display: none;
 }
 .meta .moreable-linkwrapper .button {
-  padding: 0.25rem;
+  padding: 1.25rem 0.25rem 1.65rem 0.25rem;
   min-width: 3rem;
   font-size: 1em;
   font-weight: 700;
   --button--simple-bg: whitesmoke;
   border-radius: 100%;
   width: 2.5em;
-  height: 2.5em;
+  height: 1.5em;
   color: #616161;
   justify-content: center;
   align-items: center;
