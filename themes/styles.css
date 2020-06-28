@@ -1193,6 +1193,7 @@ li.important, li.example {
   position: absolute;
   width: max-content;
   z-index: 1;
+  margin: 0.5em 0;
 }
 #content .definition__desc {
   padding: 1.75rem 1rem 1rem 1rem;
