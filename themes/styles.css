@@ -810,6 +810,9 @@ body:not(.agregator) .hdesc--top label {
   margin-left: 0 !important;
   margin-right: 1em !important;
 }
+.extra .button-list li:last-child {
+  margin-right: 0 !important;
+}
 .hdesc--top .extra .button-list li:first-child .button {
   border-radius: 100%;
 }
