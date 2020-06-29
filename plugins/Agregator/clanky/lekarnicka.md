@@ -5,7 +5,7 @@
 
 # Obsah domácí lékárničky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
 {kw="první pomoc, teplota, poranění, mikroorganizmy, zánět, alergie, zvíře"}
 

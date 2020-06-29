@@ -5,9 +5,9 @@
 
 # Nebezpečný zánět prstu ruky – panaricium
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
-{kw="zánět, poranění, neúrazové, uzliny, pohyb, úrazy, teplota, prevence"}
+{kw="zánět, poranění, neúrazové, uzliny, pohyb, úrazy, teplota, cukrovka, prevence"}
 
 Zánětlivé onemocnění prstu ruky může být velmi závažné a nebezpečné. Včasné ošetření zánětu chirurgem předejde rozšíření zánětu nejen po nemocné ruce ale i do celého těla.
 

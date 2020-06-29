@@ -5,9 +5,9 @@
 
 # Jak žít s cukrovkou
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
-{kw="strava-zažívání, látková výměna, poruchy vědomí, první pomoc, nevolnost, pocení, cévy, břicho"}
+{kw="cukrovka, strava-zažívání, látková výměna, poruchy vědomí, první pomoc"}
 
 Ukázněný diabetik (česky cukrovkář) se nemusí během života setkat se žádnými komplikacemi cukrovky. Ty bývají způsobené nedodržováním doporučených léčebných zásad.
 

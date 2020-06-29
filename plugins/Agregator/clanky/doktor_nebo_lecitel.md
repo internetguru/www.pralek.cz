@@ -5,7 +5,7 @@
 
 # Doktor nebo léčitel: koho kdy vyhledat a komu věřit
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
 {kw="strach, neúrazové, zdravý životní styl, strava-zažívání, první pomoc"}
 
