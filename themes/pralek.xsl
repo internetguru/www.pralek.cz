@@ -45,7 +45,7 @@
         </ul>
         <p>Chcete také publikovat na internetu?</p>
         <ul class="button-list">
-          <li class="rw"><a href="https://www.rostouciweby.cz" title="Rostoucí weby" class="button button--img button--img-inline"><span class="fas fa-fw fa-seedling">i</span> Zjistit více o rostoucích webech!</a></li>
+          <li class="rw"><a href="https://www.rostouciweby.cz" title="Rostoucí weby" class="button button--img button--img-inline"><span class="fas fa-fw fa-seedling">i</span> Zjistit více o rostoucích webech</a></li>
         </ul>
       </div>
     </xsl:copy>
