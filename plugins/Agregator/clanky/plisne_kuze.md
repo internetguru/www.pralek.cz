@@ -5,9 +5,9 @@
 
 # Plísňová onemocnění kůže
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
-{kw="kůže-podkoží, prevence, neúrazové, uzliny, boulička, zánět"}
+{kw="kůže-podkoží, zánět, neúrazové, cukrovka, prevence, uzliny, boulička"}
 
 Projevem plísňového onemocnění je zapaření (zapářka) nebo opruzení kůže hlavně v místech nepřístupných vzduchu. Původcem jsou houbové mikroorganizmy, nejčastěji plísně nebo kvasinky. Nejrůznější plísně postihují čím dál více lidí a mají nejrůznější projevy.
 

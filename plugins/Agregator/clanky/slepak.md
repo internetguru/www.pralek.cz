@@ -5,7 +5,7 @@
 
 # Slepák: zánět červovitého přívěsku slepého střeva
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
 {kw="břicho, střevo, zánět, zvracení, teplota"}
 

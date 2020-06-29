@@ -148,8 +148,8 @@
           var filters = document.querySelectorAll(Config.filterSelector)
           for (var i = 0; i < filters.length; i++) {
             var changeLink = document.createElement("label")
-            changeLink.textContent = Config.defaultChangeText
-            changeLink.className = "button eventable"
+            changeLink.innerHTML = `<span class="far fa-fw fa-search"></span>${Config.defaultChangeText}`
+            changeLink.className = "button button--simple button--img button--img-inline eventable"
             changeLink.setAttribute("for", navig.id)
             changeLink.addEventListener("click", function (e) {
             try {
@@ -252,12 +252,16 @@
               break
             case 27: //esc
               // remove focus if navig is not open
-              if (!open) {
-                navig.blur()
+              if (open) {
+                navig.value = ""
+                closeNavig()
                 break
               }
-              navig.value = textNavigValue
-              closeNavig()
+              if (navig.value) {
+                navig.value = ""
+                break
+              }
+              navig.blur()              
               break
             case 38: //up
               if (!open) {
