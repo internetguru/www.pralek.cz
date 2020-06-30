@@ -7,11 +7,11 @@
 
 {kw="zánět, imunita, mikroorganizmy, teplota, ušní-nosní-krční, prevence, močová soustava"}
 
-Bakterie, které imunitní systém vyhodnotí jako nežádoucí, jsou likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud dočasně mikroorganizmy vítězí (to se projevuje příznaky zánětu).
+Nežádoucí [bakterie][7] jsou v lidském těle likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud bakterie dočasně vítězí. To se projevuje [rozvojem zánětu][1].
 
-Rozvoj [zánětlivého onemocnění][1] s celkovými a místními příznaky je důvodem k lékařskému vyšetření a nasazení antibiotik. Jestliže není imunitní systém dostatečně připraven, mohou dočasně vítězit bakterie. Pak se vyvíjejí místní i celkové příznaky zánětlivého onemocnění jako např. [angína][2]. Podle stupně a závažnosti těchto příznaků **lékař nasadí antibiotika**.
+Rozvoj [zánětlivého onemocnění][1] s celkovými a místními příznaky je důvodem k lékařskému vyšetření a nasazení antibiotik. Jestliže není [imunitní systém dostatečně připraven](jak_neonemocnet), mohou dočasně vítězit bakterie. Pak se vyvíjejí místní i celkové příznaky zánětlivého onemocnění jako např. [angína][2]. Podle stupně a závažnosti těchto příznaků **lékař nasadí vhodná antibiotika**.
 
-Vždy je výhodou, vyhledat **svého praktického lékaře**, který pacienta (na rozdíl od cizího lékaře na pohotovosti) dobře zná. Ten nejlépe posoudí závažnost onemocnění a jeho souvislost s celkovým zdravotním stavem. Zohlední přitom ostatní dlouhodobé nemoci, [stav imunity][3], předchozí užívání antibiotik, eventuelní [alergie][4], vlivy prostředí a může nejlépe předvídat reakci na léky.
+Vždy je výhodou, vyhledat **svého praktického lékaře**, který pacienta dobře zná na rozdíl od cizího lékaře na pohotovosti. Ten nejlépe posoudí závažnost onemocnění a jeho souvislost s celkovým zdravotním stavem pacienta. Zohlední přitom ostatní dlouhodobé nemoci, [stav imunity][3], předchozí užívání antibiotik, eventuální [alergie][4], vlivy prostředí a dokáže nejlépe předvídat reakci na léky.
 
 {id="proc\_ruzne\_druhy_antibiotik"}
 
@@ -21,35 +21,32 @@ S objevem penicilínu jako prvního známého antibiotika nastala **éra vzájem
 
 {class="important"}
 
-Několik bakterií se však dokáže adaptovat na pro ně jedovaté penicilínové prostředí a dokáží se i zde pomnožit. Tuto odolnost uloží do své genetické informace a **potomci těchto bakterií budou navždy proti tomuto typu penicilínu odolní** (rezistentní).
+Část bakterií se však dokáže adaptovat a pomnožit se v pro ně jedovatém penicilínovém prostředí. Tuto odolnost uloží do své genetické informace a **potomci těchto bakterií budou navždy proti tomuto typu penicilínu odolní** (rezistentní).
 
-Chorobu způsobenou tímto druhem bakterií již nelze léčit stejným penicilínem. Může to být stejná zánětlivá nemoc jako ta původní, nebo zcela jiná (např. [angína][2], zápal plic, [zánět ledvin][5], [infekce močových cest][6], gynekologický zánět a podobně). Proto byl vyvinut nový typ penicilínu, proti kterému se neuměli ani tito jedinci bránit.
+Chorobu způsobenou takto adaptovaným druhem bakterií již nelze léčit stejným penicilínem. Může jít o téže zánětlivou nemoc nebo o zcela jinou jako je [angína][2], zápal plic, [zánět ledvin][5], [infekce močových cest][6], gynekologický zánět. Proto byl vyvinut jiný typ penicilínu, proti kterému se tento adaptovaný druh bakterií neuměl bránit.
 
-Po zlikvidování celé kolonie nakonec vždy přežije několik takových bakterií, kterým se mutací obrana vydařila. Jejich pomnožením vznikají **nové kmeny, odolné vůči novému typu penicilínu**.
-
-Následně byla objevena nová antibiotika, která bakterie přímo hubí. Další a další druhy antibiotik, další nové generace nových antibiotik a vždy si bakterie dříve nebo později najdou svou obranu a vznikají nové resistentní kmeny bakterií.
+Po zlikvidování celé kolonie bakterií nakonec vždy přežije několik takových, kterým se mutací obrana vydařila. Jejich pomnožením vznikají **nové kmeny bakterií odolné vůči novému typu penicilínu**. Následně byla objevena nová antibiotika, která nové bakterie přímo hubí. Tak vznikají další a další generace nových bakterií.
 
 {class="important"}
 
-Při závažných onemocněních mnohdy bývá nutné kombinovat různá antibiotika. Nedobráním doporučené dávky antibiotika se zvyšuje množství přežívajících bakterií a tím se podporuje vznik resistentních bakteriálních kmenů vůči danému antibiotiku!
+Při závažných onemocněních mnohdy bývá nutné kombinovat různá antibiotika. Nedobráním doporučené dávky antibiotika se zvyšuje množství přežívajících bakterií a tím se podporuje vznik rezistentních bakteriálních kmenů vůči danému antibiotiku!
 
-{id="vysetreni\_bakterii"}
+{id="k+c"}
 
-## Vyšetření bakterií – kultivace a citlivost na antibiotika (K+C)
+## Kultivace a citlivost na antibiotika
 
-Než lékař nasadí antibiotika pro zánětlivé onemocnění, provádí se **odběr biologického materiálu**. Umožní-li to podmínky a čas, provede se výtěr z nemocné tělní dutiny, nebo se odebere sekret z rány, moč nebo krev (biologický materiál) na K+C.
+Než lékař nasadí antibiotika pro zánětlivé onemocnění, provádí se **odběr biologického materiálu za účelem kultivace a citlivosti na antibiotika** (K+C). Umožní-li to podmínky a čas, provede se výtěr z nemocné tělní dutiny, nebo se odebere sekret z rány, moč nebo krev.
 
-Tento biologický materiál obsahující bakterie je uložen na živnou půdu a do termostatu. Pře teplotě 37 °C se zde bakterie velmi ochotně množí (kultivace). Bakteriální kmeny je pak možné určit a pojmenovat.
-
-Na ploše živné půdy jsou rozloženy vzorky různých antibiotik. Po 2 dnech je dobře vidět, která antibiotika proti kterým bakteriím působí. V místech působnosti antibiotika se bakterie nerozmnožily (stupeň citlivosti na antibiotika).
+1. Biologický materiál obsahující bakterie je uložen na živnou půdu do termostatu. Při teplotě 37 °C se zde bakterie velmi ochotně množí, probíhá tzv. kultivace. Bakteriální kmeny je pak možné určit a pojmenovat.
+2. Na ploše živné půdy jsou rozloženy vzorky různých antibiotik. Po 2 dnech je dobře vidět, která antibiotika proti kterým bakteriím působí, tzv. stupeň citlivosti na antibiotika. V místech působnosti antibiotika se bakterie nerozmnožily.
 
 Jestliže není možnost provést vyšetření K+C v začátku onemocnění, **nasadí lékař antibiotika zkusmo** a doufá v jejich účinnost. Později se může doplnit K+C a dle výsledku antibiotika eventuálně změnit.
 
-{id="duvody\_preventivniho\_podavani_antibiotik"}
+{id="preventivni\_podavani_antibiotik"}
 
-## Důvody preventivního podávání antibiotik
+## Preventivní podávání antibiotik
 
-Antibiotika nepůsobí proti virovým onemocněním (například proti chřipce). Přesto pacient za určitých podmínek při chřipce antibiotika od svého lékaře může dostat. Smyslem takového léčení je **předejít bakteriálním komplikacím** původně virového onemocnění. Například předejít vzniku zápalu plic jako komplikaci chřipkového onemocnění.
+Antibiotika nepůsobí proti virovým onemocněním, například proti chřipce. Přesto pacient za určitých podmínek při chřipce antibiotika od svého lékaře může dostat. Smyslem takového léčení je **předejít bakteriálním komplikacím** původně virového onemocnění. Například předejít vzniku zápalu plic jakožto komplikace chřipkového onemocnění.
 
 Někteří lidé mají uměle sníženou imunitu (například po transplantaci orgánu). Pak je logické, že je nutné nasadit antibiotika při každém podezření na zánětlivou chorobu, ale i při prostém [vytržení zubu][7].
 
@@ -57,13 +54,13 @@ Někteří lidé mají uměle sníženou imunitu (například po transplantaci o
 
 ## Negativní účinky antibiotik
 
-Užívání antibiotik napomáhá imunitnímu systému zlikvidovat příčinu zánětlivého onemocnění. Antibiotika však nepůsobí pouze proti původci onemocnění, ale **proti všem mikrobům** obývajícím lidské tělo. Tím narušují harmonickou rovnováhu a spolupráci obrovského množství mikroorganizmů v lidském těle.
+Užívání antibiotik napomáhá imunitnímu systému zlikvidovat příčinu zánětlivého onemocnění. Antibiotika však nepůsobí pouze proti původci onemocnění, ale **proti všem mikrobům v těle** citlivým na daný druh antibiotika. Tím narušují harmonickou rovnováhu a spolupráci obrovského množství mikroorganizmů v lidském těle.
 
 Původní kmeny blahodárně působících bakterií bývají antibiotiky vyhubeny nebo oslabeny. Následně jsou nahrazeny **jinými bakteriálními kmeny s různými negativními projevy** (svědění až pálení sliznic, zažívací a trávicí potíže). Takto změněné prostředí umožní pomnožení kvasinek a plísní, které je špatně léčitelné.
 
 {class="important"}
 
-Opakované nadměrné užívání antibiotik vede k oslabení imunitního systému. Přibývá i alergických reakcí na antibiotika. Tomu se bohužel nelze vyvarovat.
+Opakované nadměrné užívání antibiotik vede k oslabení imunitního systému. Přibývá i alergických reakcí na antibiotika. Tomu se bohužel nelze zcela vyvarovat než předejitím nadměrného užívání antibiotik.
 
 {id="otazky" var="inputvar-otazky_h"}
 
