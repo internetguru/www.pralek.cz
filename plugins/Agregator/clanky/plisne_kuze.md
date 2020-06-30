@@ -22,7 +22,7 @@ Dlouhodobé (chronické) onemocnění plísní postihuje velké množství lidí
   1. **Jinak zbarvené ložisko oproti okolní zdravé kůži:** 
       * Ložiska takto [změněné kůže][2] (světlejší či tmavší) mohou být kdekoli na těle a často bývají vícečetná.
       * Ložiska nemusejí nikterak bolet nebo svědit, obtěžují hlavně kosmeticky.
-      * Lidé se za projevy kožní plísně stydí. Proto se často vyhýbají pobytu mezi ostatními lidmi – tedy pobytu na vzduchu a slunci. Tím samozřejmě podporují další rozvoj své nemoci.
+      * Lidé se za projevy kožní plísně stydí. Proto se často vyhýbají pobytu v plavkách mezi ostatními lidmi – tedy pobytu na vzduchu a slunci. Tím samozřejmě podporují další rozvoj své nemoci.
   2. **Ztvrdlá a rozpraskaná kůže pat:** 
       * Výskyt onemocnění narůstá s přibývajícím věkem. Senioři trpí tímto onemocněním všichni, často mají postiženy nejen paty nebo prsty, ale i celá chodidla.
       * Takto změněnou kůži pat je vhodné snášet (odstraňovat) různými pilníčky, které jsou k dostání v lékárnách. Snášení kůže je možné provádět za sucha nebo po rozmáčení ve vodě. Následně po odstranění [hrubé kůže (hyperkeratoza)][3] je nutné ošetření protiplísňovým prostředkem ([mastí, krémem nebo roztokem][4]).
