@@ -5,8 +5,6 @@
 
 # Přiměřený příjem tekutin
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
-
 {kw="tekutiny, zdravý životní styl, močová soustava, teplota, pocení, dětské, senioři"}
 
 Životodárná voda tvoří převážnou část objemu i hmotnosti lidského těla. Dostatek pitné vody je podmínkou pro správný chod celého organizmu (pitný režim). Stejně důležitý je přiměřený poměr mezi množstvím pitné vody, solí a minerálů.
@@ -120,6 +118,6 @@ n/a
  [4]: mikroorganizmy
  [5]: mocove_kameny
  [6]: srdecni_infarkt
- [7]: iktus
+ [7]: mrtvice
  [8]: zlucove_kameny
 
