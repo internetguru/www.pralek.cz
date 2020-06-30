@@ -136,7 +136,7 @@ h1 {
 .part.odkazy .hdesc + .list.list-wrapper--single,
 .part.odkazy .list.list-wrapper--multiple,
 .part.clanky .list.list-wrapper--multiple {
-  --global-max-width: 81rem;
+  --global-max-width: 80rem;
   --list-multiple-item-margin: 1rem;
   padding-left: 0;
   padding-right: 0;
@@ -1457,6 +1457,25 @@ dl.clanek.doclist-new > dt:first-child:after {
   left: 1rem;
  }
 /***************************/
+.fa-symbol {
+  width: 1em;
+  height: 1em;
+  vertical-align: -.125em;
+}
+body .scrolltopable span {
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -0.1em;
+}
+.agregator .figure {
+  width: 50em;
+  max-width: 100%;
+
+}
+/************************************/
 @media print {
   @page {
     size: auto;
@@ -1566,19 +1585,5 @@ dl.clanek.doclist-new > dt:first-child:after {
   .docinfo.social a.twitter svg {
     color: black !important;
   }
-}
-/************************************/
-.fa-symbol {
-  width: 1em;
-  height: 1em;
-  vertical-align: -.125em;
-}
-body .scrolltopable span {
-  font-size: 2rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: relative;
-  top: -0.1em;
 }
 /************************************/
