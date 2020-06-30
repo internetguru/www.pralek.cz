@@ -3,43 +3,35 @@
 
 {ctime="2008-05-12" mtime="2008-05-12" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="srdecni\_infarkt" short="Srdeční infarkt"}
 
-# Srdeční infarkt: rozpoznání infarktu
+# Rozpoznání a závažnost srdečního infarktu
 
 <!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="srdce, poruchy vědomí, cévy, prevence, břicho"}
 
-Bezodkladné zahájení masáže srdce při infarktu zachrání život a včasné další léčení může vrátit pacienta do plného zdraví.
-
-_Infarkt myokardu_ (česky záhať srdečního svalu) patří mezi civilizační choroby. Většinou obecně navazuje na **nezdravý životní styl**, což je například [kouření cigaret][1], nedostatek pohybu, [obezita][2], [cukrovka][3], [vysoký krevní tlak][4] a stres. Může ale přijít i z „plného zdraví“ u aktivního člověka.
+Srdeční infarkt neboli _infarkt myokardu_ (česky záhať srdečního svalu) patří mezi civilizační choroby. Rozpoznání infarktu a bezodkladné zahájení masáže srdce zachrání život. Včasné další léčení může vrátit pacienta do plného zdraví.
 
 {class="example"}
 
-Infarkt postihuje nejčastěji muže ve středním a vyšším věku.
+Infarkt postihuje nejčastěji muže ve středním a vyšším věku. Většinou obecně navazuje na **nezdravý životní styl**, což je například [kouření cigaret][1], nedostatek pohybu, [obezita][2], [cukrovka][3], [vysoký krevní tlak][4] a stres. Může ale přijít i z „plného zdraví“ u aktivního člověka.
 
 {id="srdce_cevy"}
 
 ## Jak funguje srdce a cévy
 
-**Srdeční sval** [pumpuje krev do těla][4]. Aby srdeční sval mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve.
+**Srdeční sval [pumpuje krev do těla][4]**. Aby mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve. Zvláštní cévy rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná céva**.
 
-Zvláštní cévy rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná céva**. **V jiných svalech** a orgánech k jednomu místu **přivádí krev více cév**. Poškození jedné z nich je snadno nahrazeno ostatními a vzniklý [problém se nemusí vůbec projevit][5].
+**V ostatních svalech** a orgánech k jednomu místu **přivádí krev více cév**. Poškození jedné z nich je snadno nahrazeno ostatními. Zdravá céva má ve stěně sval a je schopna se rozšiřovat nebo zužovat – podle nároků zásobovaného místa. Vzniklý [problém se tedy nemusí vůbec projevit][5].
 
-{class="example"}
+Člověk trénovaný pravidelnou zátěží je schopen v případě potřeby několikanásobně zvýšit práci srdce. Toho je schopen za pomocí zrychlení srdeční akce, zvýšení krevního tlaku a zvýšení stažlivosti srdce. Je-li srdeční sval dostatečně zásoben krví, tak si zvýšení srdeční aktivity člověk ani neuvědomuje a nemá žádné potíže.
 
-Zdravá céva má ve stěně sval a je schopna se rozšiřovat nebo zužovat – podle nároků zásobovaného místa.
-
-Člověk trénovaný pravidelnou zátěží je schopen v případě potřeby několikanásobně zvýšit práci srdce. Toho je schopen za pomocí zrychlení akce srdeční, zvýšení krevního tlaku a zvýšení stažlivosti srdce. Je-li srdeční sval dostatečně zásoben krví, tak si zvýšení srdeční aktivity člověk ani neuvědomuje a **nemá žádné potíže**.
-
-**Srdeční rytmus** je určován zvláštním uzlíkem, z něhož vychází impulzy v určitých intervalech. Stahy srdeční se dále systematicky rozšiřují po srdci speciálním nervovým _převodním systémem_.
+Srdeční rytmus je určován zvláštním uzlíkem, z něhož vychází impulzy v určitých intervalech. Srdeční stahy se dále systematicky rozšiřují po srdci speciálním nervovým _převodním systémem_.
 
 {id="projevy\_onemocneniv"}
 
 ## Projevy onemocnění srdečních cév
 
-Srdeční cévy podléhají stárnutí stejně, jako ostatní cévy v těle. Proces [kornatění cév][6] začíná již v dětském věku a v průběhu života se zhoršuje.
-
-Jejich kornatění _(ateroskleróza)_ se vyvíjí:
+Srdeční cévy podléhají stárnutí stejně, jako ostatní cévy v těle. Proces [kornatění cév][6] začíná již v dětském věku a v průběhu života se zhoršuje. Kornatění cév _(ateroskleróza)_ se vyvíjí:
 
   1. změnou cévní výstelky,
   2. postupným ukládáním tuků,
@@ -62,15 +54,11 @@ n/a
 
 V případě **postižení malého rozsahu** (například pouze část stěny srdeční) bez postižení převodního systému vzniknou potíže a bolesti, ale stav se může sám upravit. Drobná postižená část srdce sice odumře, ale později **se zahojí jizvou** a na funkci srdce nemusí zůstat žádné následky – jedná se o tzv. **přechozený infarkt**.
 
-V případě narušení převodního systému je podle rozsahu a umístění ložiska infarkt závažný a vzniká **porucha rytmu nebo dokonce zástava srdce** během několika sekund.
-
 {class="important"}
 
-V případě **závažného infarktu** se srdeční zástavou může zachránit život [okamžitá resuscitace][7].
+Při narušení převodního systému je podle rozsahu a umístění ložiska infarkt závažný a vzniká **porucha rytmu nebo dokonce zástava srdce** během několika sekund. V případě závažného infarktu se srdeční zástavou může zachránit život [okamžitá resuscitace][7].
 
-Po úspěšné resuscitaci a prokázání infarktu EKG záznamem (záznam infarktem změněné elektrické aktivity srdeční) má pacient šanci dostat se včas k výkonu na specializované pracoviště.
-
-Dříve než dojde k odumření infarktem ohroženého svalu, může se podařit do postižené cévy zavedenou sondou obnovit průtok krve a **infarkt se vůbec nemusí vyvinout**. Výsledkem je vyléčení a návrat do plného zdraví během několika dnů.
+Po úspěšné resuscitaci a prokázání infarktu EKG vyšetření (záznam infarktem změněné elektrické aktivity srdeční) má pacient šanci dostat se včas k výkonu na specializované pracoviště. Dříve než dojde k odumření infarktem ohroženého svalu, může se podařit do postižené cévy zavedenou sondou obnovit průtok krve a **infarkt se vůbec nemusí vyvinout**. Výsledkem je vyléčení a návrat do plného zdraví během několika dnů.
 
 {id="otazky" var="inputvar-otazky_h"}
 
