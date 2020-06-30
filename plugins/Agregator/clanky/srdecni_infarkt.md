@@ -5,8 +5,6 @@
 
 # Rozpoznání a závažnost srdečního infarktu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
-
 {kw="srdce, poruchy vědomí, cévy, cukrovka, prevence, břicho"}
 
 Srdeční infarkt neboli _infarkt myokardu_ (česky záhať srdečního svalu) patří mezi civilizační choroby. Rozpoznání infarktu a bezodkladné zahájení masáže srdce zachrání život. Včasné další léčení může vrátit pacienta do plného zdraví.
@@ -19,7 +17,7 @@ Infarkt postihuje nejčastěji muže ve středním a vyšším věku. Většinou
 
 ## Jak funguje srdce a cévy
 
-**Srdeční sval [pumpuje krev do těla][4]**. Aby mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve. Zvláštní cévy rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná céva**.
+**Srdeční sval [pumpuje krev do těla][4]** . Aby mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve. Zvláštní cévy rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná céva**. 
 
 **V ostatních svalech** a orgánech k jednomu místu **přivádí krev více cév**. Poškození jedné z nich je snadno nahrazeno ostatními. Zdravá céva má ve stěně sval a je schopna se rozšiřovat nebo zužovat – podle nároků zásobovaného místa. Vzniklý [problém se tedy nemusí vůbec projevit][5].
 
@@ -27,7 +25,7 @@ Infarkt postihuje nejčastěji muže ve středním a vyšším věku. Většinou
 
 Srdeční rytmus je určován zvláštním uzlíkem, z něhož vychází impulzy v určitých intervalech. Srdeční stahy se dále systematicky rozšiřují po srdci speciálním nervovým _převodním systémem_.
 
-{id="projevy\_onemocneniv"}
+{id="projevy_onemocneniv"}
 
 ## Projevy onemocnění srdečních cév
 
@@ -46,7 +44,7 @@ Potíže mohou po zklidnění samovolně ustat a opět se vrátit při stresu, n
 
 Jestliže dojde k (téměř) **úplnému uzávěru některé srdeční cévy**, tak do určitého okrsku srdečního svalu nepřichází žádná krev. Náhle vzniknou potíže podobné, jako při angíně pectoris, ale intenzivnější. Postižená část srdce pak přestává správně pracovat – **vzniká srdeční infarkt**.
 
-{id="zavaznost\_infarktu"}
+{id="zavaznost_infarktu"}
 
 ## Závažnost infarktu podle rozsahu a umístění
 
