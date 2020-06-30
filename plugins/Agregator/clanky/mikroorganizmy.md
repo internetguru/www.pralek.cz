@@ -1,27 +1,27 @@
 
 {data-fbcommentid="1859901470808882" data-type="article" data-image="/files/preview/koutek/mikroorganizmy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-06-16" mtime="2008-06-16" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="mikroorganizmy" short="Mikroorganizmy"}
+{ctime="2008-06-16" mtime="2008-06-16" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="bakterie" short="Bakterie"}
 
-# Mikroorganizmus jako pomocník nebo nepřítel člověka
+# Bakterie jako pomocníci a nepřítelé člověka
 
 {kw="mikroorganizmy, antibiotika, zánět, hygiena, strava-zažívání, nevolnost, zvracení"}
 
-Dostanou-li se jinak prospěšné bakterie do míst, kam nepatří, mohou způsobit nemoc. Jsou-li správné bakteriální kmeny na správném místě, pak vzniká oboustranně prospěšná spolupráce a tělo funguje jak má. Přirozená bakteriální flóra bývá vždy narušena užíváním antibiotik.
+Bakterie a celé bakteriální kmeny jsou pro lidské tělo prospěšné, pokud se vyskytují na příslušných místech. Jakmile se však dostanou, kam nepatří, mohou způsobit nemoc. Přirozená bakteriální flóra bývá vždy narušena užíváním antibiotik.
+
+Bakterie jsou drobní jednobuněční živočichové (mikroorganizmy) viditelní v mikroskopu. Obývají celou naší planetu od počátku života. Dokáží se přizpůsobit i těm nejbizarnějším podmínkám. Bakterie žijí, množí se a umírají jako všichni ostatní tvorové na Zemi.
+
+Skupiny bakterií stejného druhu obývající určitou oblast (např. určitou část lidského těla nebo živý jogurt) se nazývají **bakteriální kmeny**. Svou činností tyto bakteriální kmeny podmiňují správnou funkci lidského orgánu nebo například zrání jogurtu.
 
 {class="example"}
 
-Bakterie jsou drobní jednobuněční živočichové, viditelní v mikroskopu (mikroorganizmy). Obývají celou naší planetu od počátku života. Dokáží se přizpůsobit i těm nejbizarnějším podmínkám. Bakterie žijí, množí se a umírají jako všichni ostatní tvorové na Zemi.
-
-Některým bakteriím vyhovuje chlad pod ledovou krou, jiné druhy žijí v přírodním vřídle horké vody. Žijí dokonce i v místech jedovatých horkých sirných výronů v obrovském tlaku a teplotě v mořských hlubinách. Různé druhy specifických **bakterií osídlily i lidské tělo**.
+Některým bakteriím vyhovuje chlad pod ledovou krou, jiné druhy žijí v přírodním vřídle horké vody. Žijí dokonce i v místech jedovatých horkých sirných výronů v obrovském tlaku a teplotě v mořských hlubinách. **Různé druhy specifických bakterií osídlily i lidské tělo**.
 
 {id="nechoroboplodne_bakterie"}
 
 ## Nechoroboplodné bakterie
 
-Skupina bakterií stejného druhu obývající určitou oblast (např. určitou část lidského těla nebo živý jogurt) se nazývá **bakteriální kmen**. Svou činností tyto bakteriální kmeny podmiňují správnou funkci lidského orgánu nebo například zrání jogurtu.
-
-Různé kmeny bakterií žijí v celém zažívacím ústrojí, v tělních dutinách i na kůži a jsou **nepostradatelné pro život člověka**. Nezpůsobují žádné choroby, jsou to tzv. nechoroboplodné bakterie. Naopak, jejich oslabení nebo vymizení způsobí zdravotní potíže.
+Různé bakteriální kmeny žijí v celém zažívacím ústrojí, v tělních dutinách i na kůži a **jsou nepostradatelné pro život člověka**. Nezpůsobují žádné choroby, pokud se nedostanou na místo, kam nepatří. Naopak jejich oslabení nebo vymizení způsobí zdravotní potíže.
 
 {class="example"}
 
@@ -31,11 +31,11 @@ Bakterie obývající dutinu ústní zahajují složitý proces trávení. Ten u
 
 Správnou funkci bakterií obývajících zažívací ústrojí si člověk neuvědomuje. Změna složení bakterií nebo jejich funkce se však projeví. Například po [požití zkažené potravy][1]. V takovém případě se v potravě mnohonásobně pomnožily jiné bakteriální kmeny, které dočasně zaplavily celé zažívací ústrojí a jejich jedovaté produkty se vstřebávají do těla. [Horečka][2], [slabost, zvracení, nevolnost a průjmy][1] jsou doprovodnými příznaky takové otravy.
 
-Jindy stačí změna prostředí doprovázená zvýšeným množstvím pro nás cizích druhů bakterií. Nejznámějším příkladem jsou průjmy při dovolené v tropech.
+Jindy stačí změna prostředí doprovázená zvýšeným množstvím pro nás cizích druhů bakterií. Nejznámějším příkladem jsou tzv. cestovatelské průjmy při dovolené v tropech.
 
 {class="example"}
 
-Určité bakterie žijící ve vagíně jsou příčinou prostředí, které je pro partnera zajímavé a vzrušující, citlivé a šetrné pro spermie a pro majitelku příjemné a neobtěžující.
+Určité bakterie žijící ve vagíně zajišťují prostředí, které je pro partnera zajímavé a vzrušující, citlivé a šetrné pro spermie a pro majitelku příjemné a neobtěžující.
 
 Zdravé bakteriální osídlení vagíny může být narušeno sníženou hygienou, či naopak nevhodnou nadměrnou hygienou, sexuální promiskuitou a nevhodnými sexuálními praktikami. Následně se většinou přidá osídlení kvasinkami nebo plísněmi s velmi nepříjemnými projevy (svědění, pálení až bolest, výtok, nepříjemný zápach).
 
@@ -47,7 +47,7 @@ Taková situace nastane například tehdy, dostanou-li se bakterie z konečníku
 
 Obrovské množství bakteriálních kmenů, které jsou popsány a pojmenovány například v učebnici mikrobiologie, může zapříčinit různé nakažlivé nebo [zánětlivé choroby][4] neboli choroboplodné zárodky.
 
-Cizí [choroboplodné bakterie, které člověka napadly][2] mohou přežívat v určitém místě lidského těla, např. v mandlích při angíně. Mohou se také vyplavit do celého těla a **způsobit celkové příznaky závažného [zánětlivého onemocnění][5]** . Pak je nasazení [antibiotik][7] nevyhnutelné. 
+Cizí [choroboplodné bakterie, které člověka napadly][2] mohou přežívat v určitém místě lidského těla, např. v mandlích při angíně. Mohou se také vyplavit do celého těla a **způsobit celkové příznaky závažného [zánětlivého onemocnění][5]**. Pak bývá nevyhnutelné nasazení [antibiotik][7].
 
   1. Některé **konkrétní bakterie** se složitými latinskými názvy **způsobují konkrétní chorobu**, např. tuberkulózu, boreliozu nebo pohlavní choroby.
   2. Jiné **bakterie způsobují různá [zánětlivá onemocnění][6]** s různě vyvinutými celkovými příznaky. Například angína nebo zápal plic mohou být způsobeny různými druhy bakterií opět latinsky pojmenovanými. 
