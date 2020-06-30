@@ -11,7 +11,7 @@
 
 Bolesti v krku mohou přejít v angínu; pro připravený organizmus zvládnutelnou. Až teprve komplikace angíny mohou způsobit trvalé poškození zdraví.
 
-[Horní cesty dýchací][1] jsou častou vstupní bránou infekce. Nemocný člověk může [svou chorobu přenášet][2] na ostatní lidi kašlem a kýcháním – kapénkovou infekcí. Vývoj a závažnost onemocnění je [závislá na imunitě][3] (obranyschopnosti) organizmu. **Imunita vzniká a narůstá stykem organizmu s choroboplodnými zárodky.**
+[Horní cesty dýchací][1] jsou častou vstupní bránou infekce. Nemocný člověk může [svou chorobu přenášet][2] na ostatní lidi kašlem a kýcháním – [kapénkovou infekcí](jak_neonemocnet). Vývoj a závažnost onemocnění je [závislá na imunitě][3] (obranyschopnosti) organizmu. **Imunita vzniká a narůstá stykem organizmu s choroboplodnými zárodky.**
 
 {id="bolest\_v\_krku\_pricina\_a_leceni"}
 
