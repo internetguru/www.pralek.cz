@@ -5,7 +5,7 @@
 
 # Bércový vřed, jeho vývoj a hojení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-24, do not edit -->
 
 {kw="zánět, neúrazové, kůže-podkoží, cévy, poranění, krvácení"}
 

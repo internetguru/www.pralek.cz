@@ -5,9 +5,9 @@
 
 # Normální tělesná teplota, podchlazení, horečka
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
-{kw="teplota, prochlazení, přehřátí, pocení, nevolnost, točení hlavy, prevence, tekutiny, mikroorganizmy"}
+{kw="teplota, prochlazení, přehřátí, pocení, nevolnost, točení hlavy, tekutiny, mikroorganizmy"}
 
 Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá nebo klesá vlivem zevního prostředí a stoupá při některých onemocněních.
 

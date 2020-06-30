@@ -5,7 +5,7 @@
 
 # Šetrná léčba vykloubeného ramene
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
 {kw="rameno, kloub, úrazy, první pomoc, pohyb, strach"}
 

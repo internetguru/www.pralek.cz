@@ -37,15 +37,15 @@
         <h2 id="internetguru">Tento web roste s námi</h2>
         <p class="description">O tento web se stará <a href="https://www.internetguru.cz">Internet Guru</a> od roku 2007. Po celou dobu web neustále roste a pomáhá <strong>desítkám tisícům unikátních návštěvníků měsíčně</strong>!</p>
         <ul class="list--ico">
-          <li><span class="fas fa-fw fa-check">i</span>Perfektní čitelnost na všech zařízeních</li>
-          <li><span class="fas fa-fw fa-check">i</span>Publikační proces s autorizací změn a testovacím webem</li>
-          <li><span class="fas fa-fw fa-check">i</span>Správa štítků jednoduše v tabulce Excel / Spreadsheet</li>
-          <li><span class="fas fa-fw fa-check">i</span>Neustálý rozvoj funkcí a vylepšování uživatelské zkušenosti</li>
-          <li><span class="fas fa-fw fa-check">i</span>Podrobné statistiky návštěvnosti</li>
+          <li><span class="fas fa-fw fa-check">i</span>Perfektní čitelnost na všech zařízeních.</li>
+          <li><span class="fas fa-fw fa-check">i</span>Publikační proces s autorizací změn a testovacím prostředím.</li>
+          <li><span class="fas fa-fw fa-check">i</span>Správa štítků jednoduše v tabulce Excel / Spreadsheet.</li>
+          <li><span class="fas fa-fw fa-check">i</span>Neustálý rozvoj funkcí a vylepšování uživatelské zkušenosti.</li>
+          <li><span class="fas fa-fw fa-check">i</span>Podrobné statistiky návštěvnosti.</li>
         </ul>
         <p>Chcete také publikovat na internetu?</p>
         <ul class="button-list">
-          <li><a href="https://www.rostouciweby.cz" title="Rostoucí weby" class="button">Zjistit více o rostoucích webech!</a></li>
+          <li class="rw"><a href="https://www.rostouciweby.cz" title="Rostoucí weby" class="button button--img button--img-inline"><span class="fas fa-fw fa-seedling">i</span> Zjistit více o rostoucích webech</a></li>
         </ul>
       </div>
     </xsl:copy>
@@ -59,27 +59,27 @@
       <xsl:apply-templates select="node()|@*"/>
       <div id="feedback">
         <p>Víte, že Pralék je nevýdělečnou aktivitou autora? Jakýmkoli finančním příspěvkem podpoříte rozvoj Praléku.</p>
-        <ul class="button-list">
-          <li><a class="button" href="pralek#sponzoring">Možnosti podpory</a></li>
-          <li class="donation"><a class="button" href="https://www.patreon.com/pralek">Staňte se patronem</a></li>
+        <ul class="button-list button-list--ico">
+          <li><a href="#sponzoring"><span class="fas fa-fw fa-chart-line">i</span> Jak podpořit Pralék</a></li>
+          <li class="donation"><a href="https://www.patreon.com/pralek" class="button button--img button--img-inline"><span class="fab fa-fw fa-patreon">i</span> Staňte se patronem</a></li>
         </ul>
       </div>
     </xsl:copy>
   </xsl:template>
   
   <xsl:template match="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
-  
+    
   <xsl:template match="//*[contains(@class, 'example')]">
     <xsl:copy>
       <xsl:apply-templates select="@*"/>
-      <span class="fas fa-fw fa-lightbulb">i</span>
+      <span class="fas fa-fw fa-info">i</span>
       <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
   <xsl:template match="//*[contains(@class, 'important')]">
     <xsl:copy>
       <xsl:apply-templates select="@*"/>
-      <span class="fas fa-fw fa-exclamation-triangle">i</span>
+      <span class="fas fa-fw fa-exclamation">i</span>
       <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
