@@ -5,9 +5,9 @@
 
 # Funkční poruchy trávení: zvracení, průjem, škytání, větry
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
-{kw="zvracení, nevolnost, žaludek, strava-zažívání, zdravý životní styl, břicho"}
+{kw="zvracení, nevolnost, žaludek, strava-zažívání, jed, zdravý životní styl, břicho"}
 
 Mnohým funkčním poruchám trávení lze předejít dodržováním správných stravovacích návyků.
 
@@ -115,7 +115,7 @@ n/a
  [4]: lekove_formy
  [5]: slepak
  [6]: poraneni_sleziny
- [7]: iktus
+ [7]: mrtvice
  [8]: subduralni_hematom
  [9]: otres_mozku
  [10]: strevni_nepruchodnost

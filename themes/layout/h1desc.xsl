@@ -37,7 +37,7 @@
         <div class="hdesc__desc-wrapper">
           <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
         </div>
-        <!--<xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>-->
+        <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
         <xsl:if test="/body[contains(@class, 'agregator')]">
           <div class="extra">
             <ul class="button-list">
@@ -68,6 +68,14 @@
                 </xsl:element>
               </li>
               <li>
+                <span class="hideable hideable-hidden">
+                  <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-link">i</span></span>
+                  <span class="copyable" fn="inputvar-createlink">
+                    <xsl:value-of disable-output-escaping="yes" select="$link"/>
+                  </span>
+                </span>
+              </li>
+              <li>
                 <xsl:value-of disable-output-escaping="yes" select="$inputvar-ghedit2"/>
               </li>
               <li>
@@ -78,23 +86,19 @@
                   <span class="fas fa-fw fa-print">i</span>
                 </xsl:element>
               </li>
-              <li>
-                <span class="hideable hideable-hidden">
-                  <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-link">i</span></span>
-                  <span class="copyable" fn="inputvar-createlink">
-                    <xsl:value-of disable-output-escaping="yes" select="$link"/>
-                  </span>
-                </span>
-              </li>
             </ul>
           </div>
         </xsl:if>
       </xsl:element>
     </xsl:element>
+<!--     <div class="hdesc__desc-wrapper">
+      <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
+    </div> -->
     <xsl:element name="div">&#160;
       <xsl:call-template name="topdiv"/>
     </xsl:element>
   </xsl:template>
+  
 
   <xsl:template name="topdiv">
     <xsl:param name="pos" select="1"/>

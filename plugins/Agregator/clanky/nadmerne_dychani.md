@@ -5,7 +5,7 @@
 
 # Nadměrné dýchání – předýchávání
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="dýchání, strach, poruchy vědomí, první pomoc, srdce, nevolnost, kolaps, zvracení"}
 
@@ -131,7 +131,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: iktus
+ [1]: mrtvice
  [2]: srdecni_infarkt
  [3]: funkcni_poruchy_traveni
  [4]: mdloba_neboli_kolaps

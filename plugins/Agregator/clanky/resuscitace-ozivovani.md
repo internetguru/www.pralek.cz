@@ -5,7 +5,7 @@
 
 # Resuscitace neboli oživování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
 {kw="poruchy vědomí, dýchání, poranění, kolaps, první pomoc, srdce"}
 

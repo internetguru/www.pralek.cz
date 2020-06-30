@@ -19,7 +19,7 @@ Některým bakteriím vyhovuje chlad pod ledovou krou, jiné druhy žijí v př�
 
 {id="nechoroboplodne_bakterie"}
 
-## Nechoroboplodné bakterie
+Skupina bakterií stejného druhu obývající určitou oblast (např. určitou část lidského těla nebo živý jogurt) se nazývá **bakteriální kmen**. Svou činností tyto bakteriální kmeny podmiňují správnou funkci lidského orgánu nebo například zrání jogurtu.
 
 Různé bakteriální kmeny žijí v celém zažívacím ústrojí, v tělních dutinách i na kůži a **jsou nepostradatelné pro život člověka**. Nezpůsobují žádné choroby, pokud se nedostanou na místo, kam nepatří. Naopak jejich oslabení nebo vymizení způsobí zdravotní potíže.
 

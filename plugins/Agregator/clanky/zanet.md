@@ -5,7 +5,7 @@
 
 # Kdy zánět léčit, kdy rozhánět a kdy podporovat
 
-{class="description" kw="zánět, teplota, imunita, pocení, látková výměna, úrazové, neúrazové"}
+{class="description" kw="zánět, teplota, imunita, pocení, látková výměna, alergie, úrazové, neúrazové"}
 
 Různé druhy zánětů mají různý průběh a vývoj, různé příčiny a projevy. Podle druhu a vývoje zánětu je třeba proti němu někdy intenzivně bojovat, jindy je lépe ponechat zánětu přirozený průběh a někdy jej dokonce podporovat.
 
@@ -65,7 +65,7 @@ Při obranném zánětu tělo rozpozná a označí viníka infekce a tvoří pro
 Obranný zánět vzniká bojem proti viníkům infekce – tedy virům, bakteriím nebo parazitům. Začíná [proniknutím mikroorganizmů do těla][8] a následně jejich pomnožením v oslabené nebo poraněné tkáni. Příklady vstupu infekce do organizmu jsou:
 
   * infikovaná oděrka, [poškozený puchýř][9], [zánět slepého střeva][6],
-  * kapénková infekce ([chřipka][10]),
+  * [kapénková infekce](jak_neonemocnet) ([chřipka][10]),
   * mikroorganizmy nakažená (kontaminovaná) strava nebo voda (nemoc špinavých rukou, infekční žloutenka nebo [infekční průjmy][11]),
   * opakovaně užívaná injekční jehla narkomanů (žloutenka typu C nebo HIV),
   * špatně vyčištěný nástroj při lékařském výkonu či manikůře ([panaricium][12]), pedikůře ([zarůstající nehty][13]), tetování atp,

@@ -5,9 +5,9 @@
 
 # Proč se točí hlava
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
-{kw="točení hlavy, zvracení, nevolnost, pocení, pohyb, prevence, žaludek"}
+{kw="točení hlavy, zvracení, nevolnost, pocení, jed, pohyb, prevence, žaludek"}
 
 Točení hlavy neboli vertigo je pocit neovladatelného pohybu, točení nebo houpání člověka či jeho okolí. Může být vyvoláno různými zevními vlivy nebo může doprovázet různá onemocnění. Od příčiny točení hlavy se odvíjí jeho řešení.
 
