@@ -5,8 +5,6 @@
 
 # Chřipka: virové onemocnění
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
-
 {kw="imunita, mikroorganizmy, zdravý životní styl, zánět, prochlazení, teplota, prevence, neúrazové"}
 
 Chřipka je závažné přenosné virové onemocnění. Konkrétní lék proti chřipce neexistuje, ale je možné se preventivně nechat očkovat proti konkrétnímu viru chřipky. Ten však velmi rychle mutuje a už za několik měsíců nemusí mít očkování efekt.
@@ -31,11 +29,11 @@ V průběhu šíření však virus postupně mění identitu. Na původní míst
 
 ## Komplikace a léčba chřipky
 
-Chřipkou [onemocní spíše člověk oslabený](jak_neonemocnet) věkem nebo jinou chorobou, unavený, vyčerpaný, netrénovaný, trpící nedostatkem vitamínů anebo mající nízkou imunitu. Čím je pacient slabší, tím závažnější u něj bude průběh onemocnění. Pro člověka, který je sešlý věkem a mnohými chorobami, může být chřipka osudná.
+Chřipkou [onemocní spíše člověk oslabený][5] věkem nebo jinou chorobou, unavený, vyčerpaný, netrénovaný, trpící nedostatkem vitamínů anebo mající nízkou imunitu. Čím je pacient slabší, tím závažnější u něj bude průběh onemocnění. Pro člověka, který je sešlý věkem a mnohými chorobami, může být chřipka osudná.
 
 Chřipkové epidemie mají různá jména podle míst, kde byl ten který virus izolován. Proti konkrétnímu viru chřipky je možné se nechat preventivně očkovat. Člověku je aplikována dávka oslabeného viru, jeho tělo virus zmapuje a vytvoří si příslušné protilátky. **Očkovací látka je funkční, dokud virus nezmutuje.** To trvá různě dlouho, většinou několik měsíců.
 
-**Spolehlivý lék proti chřipce neexistuje.** Jsou léky podpůrné, kterými je možno blahodárně ovlivnit příznaky chřipky – [léky proti vysoké horečce a proti bolestem][5] a [léky proti kašli][6]. Zásadní léčbou je ale klid na lůžku, [dostatek tekutin (čaj a střídavě minerálky)][7], pocení, [udržování teploty kolem 38 °C][3], vitamíny podle chuti – nejlépe přírodní. Pacienta [není třeba nutit do jídla][8], dokud mu není dobře. **Pacienta je však nutno neustále nutit do pití.**
+**Spolehlivý lék proti chřipce neexistuje.** Jsou léky podpůrné, kterými je možno blahodárně ovlivnit příznaky chřipky – [léky proti vysoké horečce a proti bolestem][6] a [léky proti kašli][7]. Zásadní léčbou je ale klid na lůžku, [dostatek tekutin (čaj a střídavě minerálky)][8], pocení, [udržování teploty kolem 38 °C][3], vitamíny podle chuti – nejlépe přírodní. Pacienta [není třeba nutit do jídla][9], dokud mu není dobře. **Pacienta je však nutno neustále nutit do pití.**
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -80,8 +78,9 @@ n/a
  [2]: ryma_a_smrkani
  [3]: teplota
  [4]: imunita
- [5]: leky_proti_bolesti
- [6]: kasel_a_typy_kasle
- [7]: prijem_tekutin
- [8]: funkcni_poruchy_traveni
+ [5]: jak_neonemocnet
+ [6]: leky_proti_bolesti
+ [7]: kasel_a_typy_kasle
+ [8]: prijem_tekutin
+ [9]: funkcni_poruchy_traveni
 
