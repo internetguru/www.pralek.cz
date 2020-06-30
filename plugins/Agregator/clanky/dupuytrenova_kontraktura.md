@@ -5,7 +5,7 @@
 
 # Uzly a zatvrdliny ve dlani: Dupuytrenova kontraktura
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="boulička, nezhoubné, prevence, neúrazové, pohyb, zánět, hygiena"}
 
@@ -86,6 +86,6 @@ n/a
  [3]: lupavy_prst
  [4]: artroza
  [5]: nezhoubne_nadory
- [6]: mikroorganizmy
+ [6]: bakterie
  [7]: zanet
 

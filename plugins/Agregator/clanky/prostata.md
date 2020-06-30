@@ -5,7 +5,7 @@
 
 # Prostata: potíže s močením
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="prostata, žláza, močová soustava, zánět, nádory, nezhoubné, zhoubné"}
 
@@ -111,7 +111,7 @@ n/a
  [1]: mocove_kameny
  [2]: zanet
  [3]: antibiotika
- [4]: mikroorganizmy
+ [4]: bakterie
  [5]: teplota
  [6]: zanet_mocoveho_mechyre
  [7]: bolest_v_krku_angina

@@ -5,7 +5,7 @@
 
 # Drobná krvavá poranění
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="kůže-podkoží, úrazy, poranění, krvácení, první pomoc, mikroorganizmy, zánět, pohyb"}
 
@@ -93,7 +93,7 @@ n/a
 
  [1]: naplastovy_steh
  [2]: lekarnicka
- [3]: mikroorganizmy
+ [3]: bakterie
  [4]: krevni_tlak
  [5]: bodne_a_strelne_poraneni
  [6]: nalehavost_lekarskeho_vysetreni

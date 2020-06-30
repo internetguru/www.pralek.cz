@@ -7,7 +7,7 @@
       <li var="modified">n/a</li>
     </ul>
     <ul class="docinfo share button-list">
-      <li><a var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-fw fa-comment">i</span>Diskutovat na našem Facebooku</a></li>
+      <li><a var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-fw fa-comment">i</span>Diskutovat tento článek na našem Facebooku</a></li>
       <li><a href="#" var="inputvar-ghedit">n/a</a></li>
     </ul>
     <ul class="docinfo social nomultiple button-list">

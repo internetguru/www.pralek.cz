@@ -5,9 +5,9 @@
 
 # Srdeční infarkt: rozpoznání infarktu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
-{kw="srdce, poruchy vědomí, cévy, prevence, břicho"}
+{kw="srdce, poruchy vědomí, cévy, cukrovka, prevence, břicho"}
 
 Bezodkladné zahájení masáže srdce při infarktu zachrání život a včasné další léčení může vrátit pacienta do plného zdraví.
 
@@ -56,7 +56,7 @@ V případě **postižení malého rozsahu** (například pouze část stěny sr
 
 V případě narušení převodního systému bude podle rozsahu a umístění ložiska infarkt závažný a vzniká **porucha rytmu nebo dokonce zástava srdce** během několika sekund.
 
-V případě **závažného infarktu** se srdeční zástavou může zachránit život [okamžitá resuscitace][7]. Po úspěšné resuscitaci a prokázání infarktu EKG záznamem (záznam infarktem změněné elektrické aktivity srdeční) má pacient šanci dostat se včas k výkonu na specializované pracoviště.
+V případě **závažného infarktu** se srdeční zástavou může zachránit život [okamžitá resuscitace][7]. Po úspěšné resuscitaci a prokázání infarktu EKG záznamem (záznam infarktem změněné elektrické aktivity srdeční) má pacient šanci dostat se včas k život zachraňujícímu výkonu na specializované pracoviště.
 
 Dříve než dojde k odumření infarktem ohroženého svalu, může se podařit do postižené cévy zavedenou sondou obnovit průtok krve a **infarkt se vůbec nemusí vyvinout**. Výsledkem je vyléčení a návrat do plného zdraví během několika dnů.
 

@@ -5,7 +5,7 @@
 
 # Vyhledání lékařské péče: kdy, kde a jak naléhavě
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="úrazy, krvácení, spáleniny, zlomeniny, vykloubení, zánět"}
 
@@ -149,7 +149,7 @@ n/a
  [11]: spolknute_predmety
  [12]: otres_mozku
  [13]: nezhoubne_nadory
- [14]: iktus
+ [14]: mrtvice
  [15]: srdecni_infarkt
  [16]: teplota
  [17]: drobna_krvava_poraneni

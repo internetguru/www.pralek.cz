@@ -5,7 +5,7 @@
 
 # Proč nelze mít svá oblíbená antibiotika
 
-{kw="zánět, imunita, mikroorganizmy, teplota, ušní-nosní-krční, prevence, močová soustava"}
+{kw="zánět, imunita, mikroorganizmy, teplota, alergie, prevence, močová soustava"}
 
 Nežádoucí [bakterie][7] jsou v lidském těle likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud bakterie dočasně vítězí. To se projevuje [rozvojem zánětu][1].
 
@@ -110,5 +110,5 @@ n/a
  [4]: projevy_alergie
  [5]: mocove_kameny
  [6]: zanet_mocoveho_mechyre
- [7]: mikroorganizmy
+ [7]: bakterie
 

@@ -5,7 +5,7 @@
 
 # Odřeniny – proč je nutné mechanicky vyčistit oděrku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="poranění, úrazy, krvácení, kůže-podkoží, pohyb, zánět"}
 
@@ -103,7 +103,7 @@ n/a
 
  [1]: pady_z_kola
  [2]: drobna_krvava_poraneni
- [3]: mikroorganizmy
+ [3]: bakterie
  [4]: lymfaticke_uzliny
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: antibiotika

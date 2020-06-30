@@ -11,7 +11,7 @@
 
 Krvácení z prasklé křečové žíly bývá vždy velmi dramatické. Větší ztrátě krve může zamezit jen správně poskytnutá první pomoc.
 
-Jestliže je rozšířená a krví přeplněná žíla třeba jen drobně poraněna, krvácí tak, že z ní **krev stříká do dálky podobně jako z poraněné tepny**. Starší lidé často mívají [křečové žíly][1] _(varixy)_ v kombinaci s onemocněním srdce a cév, a pak chybí ke krvácení jen krůček.
+Jestliže je rozšířená a krví přeplněná žíla třeba jen drobně poraněna, krvácí tak, že z ní **krev stříká do dálky podobně jako z poraněné tepny**. Starší lidé často mívají [křečové žíly][1] _(varixy)_ v kombinaci s onemocněním srdce a cév, a pak chybí k takovému krvácení jen krůček.
 
 {id="pricina\_krvaceni\_z\_krecove\_zily"}
 

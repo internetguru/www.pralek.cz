@@ -5,7 +5,7 @@
 
 # Střevní neprůchodnost bývá komplikací jiné choroby
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="nevolnost, zvracení, břicho, strava-zažívání, nádory, zhoubné, cévy"}
 
@@ -125,7 +125,7 @@ n/a
  [11]: kyla
  [12]: subduralni_hematom
  [13]: srdecni_infarkt
- [14]: mikroorganizmy
+ [14]: bakterie
  [15]: zanet
  [16]: prijem_tekutin
 

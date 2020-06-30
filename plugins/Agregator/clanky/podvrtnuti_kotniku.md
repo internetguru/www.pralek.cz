@@ -5,7 +5,7 @@
 
 # Podvrtnutí kotníku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
 {kw="kloub, vykloubení, úrazy, pohyb"}
 

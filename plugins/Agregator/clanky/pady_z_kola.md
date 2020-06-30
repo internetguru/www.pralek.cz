@@ -5,9 +5,9 @@
 
 # Úrazy související s pádem z kola
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
-{kw="úrazy, poranění, krvácení, zlomeniny, pohyb, břicho"}
+{kw="úrazy, poranění, krvácení, zlomeniny, senioři, dětské, pohyb, břicho"}
 
 Typické úrazy po pádu z kola jsou různě hluboké plošné oděrky, tržné rány, pohmoždění hrudníku, břicha, kloubů a svalů a zlomeniny dlouhých kostí. Jednotlivé úrazy mají svá specifika, jsou-li způsobeny pádem z kola.
 
@@ -123,7 +123,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: mikroorganizmy
+ [1]: bakterie
  [2]: odreniny_neboli_oderky
  [3]: nalehavost_lekarskeho_vysetreni
  [4]: zanet
