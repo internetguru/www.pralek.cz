@@ -7,11 +7,11 @@
 
 {kw="zánět, imunita, mikroorganizmy, teplota, alergie, prevence, močová soustava"}
 
-Nežádoucí [bakterie][7] jsou v lidském těle likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud bakterie dočasně vítězí. To se projevuje [rozvojem zánětu][1].
+Nežádoucí [bakterie][1] jsou v lidském těle likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud bakterie dočasně vítězí. To se projevuje [rozvojem zánětu][2].
 
-Rozvoj [zánětlivého onemocnění][1] s celkovými a místními příznaky je důvodem k lékařskému vyšetření a nasazení antibiotik. Jestliže není [imunitní systém dostatečně připraven](jak_neonemocnet), mohou dočasně vítězit bakterie. Pak se vyvíjejí místní i celkové příznaky zánětlivého onemocnění jako např. [angína][2]. Podle stupně a závažnosti těchto příznaků **lékař nasadí vhodná antibiotika**.
+Rozvoj [zánětlivého onemocnění][2] s celkovými a místními příznaky je důvodem k lékařskému vyšetření a nasazení antibiotik. Jestliže není [imunitní systém dostatečně připraven][3], mohou dočasně vítězit bakterie. Pak se vyvíjejí místní i celkové příznaky zánětlivého onemocnění jako např. [angína][4]. Podle stupně a závažnosti těchto příznaků **lékař nasadí vhodná antibiotika**.
 
-Vždy je výhodou, vyhledat **svého praktického lékaře**, který pacienta dobře zná na rozdíl od cizího lékaře na pohotovosti. Ten nejlépe posoudí závažnost onemocnění a jeho souvislost s celkovým zdravotním stavem pacienta. Zohlední přitom ostatní dlouhodobé nemoci, [stav imunity][3], předchozí užívání antibiotik, eventuální [alergie][4], vlivy prostředí a dokáže nejlépe předvídat reakci na léky.
+Vždy je výhodou, vyhledat **svého praktického lékaře**, který pacienta dobře zná na rozdíl od cizího lékaře na pohotovosti. Ten nejlépe posoudí závažnost onemocnění a jeho souvislost s celkovým zdravotním stavem pacienta. Zohlední přitom ostatní dlouhodobé nemoci, [stav imunity][5], předchozí užívání antibiotik, eventuální [alergie][6], vlivy prostředí a dokáže nejlépe předvídat reakci na léky.
 
 {id="proc\_ruzne\_druhy_antibiotik"}
 
@@ -23,7 +23,7 @@ S objevem penicilínu jako prvního známého antibiotika nastala **éra vzájem
 
 Část bakterií se však dokáže adaptovat a pomnožit se v pro ně jedovatém penicilínovém prostředí. Tuto odolnost uloží do své genetické informace a **potomci těchto bakterií budou navždy proti tomuto typu penicilínu odolní** (rezistentní).
 
-Chorobu způsobenou takto adaptovaným druhem bakterií již nelze léčit stejným penicilínem. Může jít o téže zánětlivou nemoc nebo o zcela jinou jako je [angína][2], zápal plic, [zánět ledvin][5], [infekce močových cest][6], gynekologický zánět. Proto byl vyvinut jiný typ penicilínu, proti kterému se tento adaptovaný druh bakterií neuměl bránit.
+Chorobu způsobenou takto adaptovaným druhem bakterií již nelze léčit stejným penicilínem. Může jít o téže zánětlivou nemoc nebo o zcela jinou jako je [angína][4], zápal plic, [zánět ledvin][7], [infekce močových cest][8], gynekologický zánět. Proto byl vyvinut jiný typ penicilínu, proti kterému se tento adaptovaný druh bakterií neuměl bránit.
 
 Po zlikvidování celé kolonie bakterií nakonec vždy přežije několik takových, kterým se mutací obrana vydařila. Jejich pomnožením vznikají **nové kmeny bakterií odolné vůči novému typu penicilínu**. Následně byla objevena nová antibiotika, která nové bakterie přímo hubí. Tak vznikají další a další generace nových bakterií.
 
@@ -31,24 +31,24 @@ Po zlikvidování celé kolonie bakterií nakonec vždy přežije několik takov
 
 Při závažných onemocněních mnohdy bývá nutné kombinovat různá antibiotika. Nedobráním doporučené dávky antibiotika se zvyšuje množství přežívajících bakterií a tím se podporuje vznik rezistentních bakteriálních kmenů vůči danému antibiotiku!
 
-{id="k+c"}
+{id="kultivace\_a\_citlivost\_na\_antibiotika"}
 
 ## Kultivace a citlivost na antibiotika
 
 Než lékař nasadí antibiotika pro zánětlivé onemocnění, provádí se **odběr biologického materiálu za účelem kultivace a citlivosti na antibiotika** (K+C). Umožní-li to podmínky a čas, provede se výtěr z nemocné tělní dutiny, nebo se odebere sekret z rány, moč nebo krev.
 
-1. Biologický materiál obsahující bakterie je uložen na živnou půdu do termostatu. Při teplotě 37 °C se zde bakterie velmi ochotně množí, probíhá tzv. kultivace. Bakteriální kmeny je pak možné určit a pojmenovat.
-2. Na ploše živné půdy jsou rozloženy vzorky různých antibiotik. Po 2 dnech je dobře vidět, která antibiotika proti kterým bakteriím působí, tzv. stupeň citlivosti na antibiotika. V místech působnosti antibiotika se bakterie nerozmnožily.
+  1. Biologický materiál obsahující bakterie je uložen na živnou půdu do termostatu. Při teplotě 37 °C se zde bakterie velmi ochotně množí, probíhá tzv. kultivace. Bakteriální kmeny je pak možné určit a pojmenovat.
+  2. Na ploše živné půdy jsou rozloženy vzorky různých antibiotik. Po 2 dnech je dobře vidět, která antibiotika proti kterým bakteriím působí, tzv. stupeň citlivosti na antibiotika. V místech působnosti antibiotika se bakterie nerozmnožily.
 
 Jestliže není možnost provést vyšetření K+C v začátku onemocnění, **nasadí lékař antibiotika zkusmo** a doufá v jejich účinnost. Později se může doplnit K+C a dle výsledku antibiotika eventuálně změnit.
 
-{id="preventivni\_podavani_antibiotik"}
+{id="preventivni\_podavani\_antibiotik"}
 
 ## Preventivní podávání antibiotik
 
 Antibiotika nepůsobí proti virovým onemocněním, například proti chřipce. Přesto pacient za určitých podmínek při chřipce antibiotika od svého lékaře může dostat. Smyslem takového léčení je **předejít bakteriálním komplikacím** původně virového onemocnění. Například předejít vzniku zápalu plic jakožto komplikace chřipkového onemocnění.
 
-Někteří lidé mají uměle sníženou imunitu (například po transplantaci orgánu). Pak je logické, že je nutné nasadit antibiotika při každém podezření na zánětlivou chorobu, ale i při prostém [vytržení zubu][7].
+Někteří lidé mají uměle sníženou imunitu (například po transplantaci orgánu). Pak je logické, že je nutné nasadit antibiotika při každém podezření na zánětlivou chorobu, ale i při prostém [vytržení zubu][1].
 
 {id="negativni\_ucinky\_antibiotik"}
 
@@ -104,11 +104,12 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zanet
- [2]: bolest_v_krku_angina
- [3]: imunita
- [4]: projevy_alergie
- [5]: mocove_kameny
- [6]: zanet_mocoveho_mechyre
- [7]: bakterie
+ [1]: bakterie
+ [2]: zanet
+ [3]: jak_neonemocnet
+ [4]: bolest_v_krku_angina
+ [5]: imunita
+ [6]: projevy_alergie
+ [7]: mocove_kameny
+ [8]: zanet_mocoveho_mechyre
 
