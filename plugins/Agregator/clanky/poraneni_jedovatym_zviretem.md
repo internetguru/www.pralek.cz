@@ -93,7 +93,7 @@ n/a
  [3]: ryma_a_smrkani
  [4]: lekarnicka
  [5]: pichnuti_injekce
- [6]: mikroorganizmy
+ [6]: bakterie
  [7]: lecba_zanetu
  [8]: nalehavost_lekarskeho_vysetreni
 

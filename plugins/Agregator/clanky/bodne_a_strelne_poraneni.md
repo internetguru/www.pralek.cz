@@ -5,7 +5,7 @@
 
 # Bodné a střelné poranění a jeho závažnost
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-24, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="poranění, krvácení, kůže-podkoží, pohyb, břicho, cévy"}
 
@@ -93,7 +93,7 @@ n/a
  [1]: drobna_krvava_poraneni
  [2]: onemocneni_slach
  [3]: teplota
- [4]: mikroorganizmy
+ [4]: bakterie
  [5]: karpalni_syndrom
  [6]: pneumotorax
 

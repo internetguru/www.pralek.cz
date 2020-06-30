@@ -5,8 +5,6 @@
 
 # Kdy kašel potlačovat a kdy podporovat
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
-
 {kw="kašel, dýchání, zánět, mikroorganizmy, teplota, strach, břicho, poranění"}
 
 Každý kašel je dobré nejprve pojmenovat. Výprava do lékárny pro lék proti kašli není vždy účelným řešením potíží. Častěji pomůže lék k uvolnění průdušek, který naopak účinné odkašlání podpoří.
@@ -39,14 +37,14 @@ Vdechnutím mohou podráždit dýchací cesty:
   * větší množství prachu nebo částečky aerosolu,
   * vodní tříšť (plavání v prudkém dešti je velmi nebezpečné, hrozí utonutí),
   * drobek, sousto nebo kapka [(zakuckání)][6],
-  * příliš velké množství [choroboplodných zárodků][7] [(kapénková infekce)][jak_neonemocnet],
+  * příliš velké množství [choroboplodných zárodků][7] \[(kapénková infekce)\]\[jak_neonemocnet\],
   * zvýšená zátěž (zadýchání) u člověka, který má dýchací cesty poškozené.
 
 {id="typy\_charakteristika\_reseni"}
 
 ## Charakteristika a řešení jednotlivých typů kašle
 
-Kašel se mění v průběhu onemocnění podle stupně podráždění nebo podle [stádia zánětlivých změn][10]. Při kašli jsou velmi zatěžovány všechny dýchací svaly. V extrémním případě si [lze kašlem způsobit kýlu][11].
+Kašel se mění v průběhu onemocnění podle stupně podráždění nebo podle [stádia zánětlivých změn][8]. Při kašli jsou velmi zatěžovány všechny dýchací svaly. V extrémním případě si [lze kašlem způsobit kýlu][9].
 
 {class="important"}
 
@@ -64,7 +62,7 @@ Suchý dráždivý (štěkavý) kašel – obtěžující, nepřinášející ú
 :   Bývá v začátku horečnatého onemocnění nebo podrážděním zevní škodlivinou.
 :   Lze jej zklidnit vdechováním teplé páry nad hrncem s vodou nebo nad sprchou.
 :   **Pomůže čaj s citronem a medem a klid na lůžku.**
-:   Lze podat lék proti kašli a na udržení [správné teploty][8].
+:   Lze podat lék proti kašli a na udržení [správné teploty][10].
 
 Vlhký kašel – ulevující
 :   Navazuje na suchý dráždivý kašel.
@@ -73,7 +71,7 @@ Vlhký kašel – ulevující
 
 Alergický kašel – obtěžující
 :   Vzniká podrážděním vdechováním alergenu.
-:   Zklidňuje se zvláštním [sprejem nebo jinou formou léku][9] (alergici znají a mají mít stále u sebe).
+:   Zklidňuje se zvláštním [sprejem nebo jinou formou léku][11] (alergici znají a mají mít stále u sebe).
 :   Je vhodná změna prostředí.
 
 Hrčivý kašel se zkolabováním průdušek – škodící organizmu
@@ -139,9 +137,9 @@ n/a
  [4]: koureni_cigaret
  [5]: imunita
  [6]: resuscitace-ozivovani
- [7]: mikroorganizmy
- [8]: teplota
- [9]: lekove_formy
- [10]: zanet
- [11]: kyla
+ [7]: bakterie
+ [8]: zanet
+ [9]: kyla
+ [10]: teplota
+ [11]: lekove_formy
 

@@ -5,7 +5,7 @@
 
 # Zánět močového měchýře žen
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="močová soustava, zánět, prochlazení, břicho, pocení, neúrazové, prevence, krvácení"}
 
@@ -96,7 +96,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: mikroorganizmy
+ [1]: bakterie
  [2]: teplota
  [3]: zanet
  [4]: prijem_tekutin

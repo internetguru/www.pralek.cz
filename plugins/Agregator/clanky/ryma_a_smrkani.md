@@ -5,8 +5,6 @@
 
 # Rýma a smrkání, komplikace rýmy
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
-
 {kw="ušní-nosní-krční, zánět, mikroorganizmy, dětské, poranění"}
 
 Rýma je zánět sliznice dutiny nosní a často i čelistní a čelní. Nekomplikovaná rýma bývá banální onemocnění. Podmínkou však je smrkání, či odsávání zahleněného nosu kojencům zvláštním nástrojem.
@@ -17,9 +15,9 @@ Je velmi důležité **naučit dítě smrkat již v útlém věku**. Správné v
 
 Horní cesty dýchací (dutina nosní a hrtan, čelistní a čelní dutiny) slouží k vedení, mechanickému čištění, ohřívání a zvlhčování vdechovaného vzduchu. Při výdechu zde vzniká barva hlasu tvořeného hlasivkami.
 
-Horní cesty dýchací jsou častým místem styku organizmu se zevní škodlivinou nebo s infekcí. V případě dobré kondice a imunity dokáže organizmus dlouho **odolávat [kapénkové infekci][1] i [prochlazení][2]**, někdy však podlehne. Nejčastěji organizmus [podléhá infekci v souvislosti s únavou a vyčerpáním](jak_neonemocnet).
+Horní cesty dýchací jsou častým místem styku organizmu se zevní škodlivinou nebo s infekcí. V případě dobré kondice a imunity dokáže organizmus dlouho **odolávat [kapénkové infekci][1] i [prochlazení][2]** , někdy však podlehne. Nejčastěji organizmus [podléhá infekci v souvislosti s únavou a vyčerpáním][3]. 
 
-Sliznice horních cest dýchacích je neustále bombardována různými **nečistotami z vdechovaného vzduchu**. Sliznice tyto nečistoty co nejvíce filtruje, aby co nejvíce uchránila plíce. Jedná se o aerosoly, prachové částice, [alergeny (pyly))](projevy_alergie) a různé [mikroorganizmy][3]. Stupeň znečištění vdechovaného vzduchu určuje náročnost procesu čištění.
+Sliznice horních cest dýchacích je neustále bombardována různými **nečistotami z vdechovaného vzduchu**. Sliznice tyto nečistoty co nejvíce filtruje, aby co nejvíce uchránila plíce. Jedná se o aerosoly, prachové částice, [alergeny (pyly))][4] a různé [mikroorganizmy][5]. Stupeň znečištění vdechovaného vzduchu určuje náročnost procesu čištění.
 
 Sekret nosní sliznice za normálních podmínek průběžně stéká do hrtanu a je následně polykán se slinami. V žaludku jsou nečistoty i s mikroorganizmy likvidovány.
 
@@ -27,11 +25,11 @@ Sekret nosní sliznice za normálních podmínek průběžně stéká do hrtanu 
 
 ## Jak na rýmu
 
-[Pronikne-li infekce][5] do sliznice nosní dutiny, kde se pomnoží, začíná klasická rýma. V počátku dochází ke **zbytnění a pálení sliznice** (nemožnost dýchat nosem). Proti tomu [pomohou nosní kapky][6] k uvolnění nosní sliznice a horká koupel.
+[Pronikne-li infekce][6] do sliznice nosní dutiny, kde se pomnoží, začíná klasická rýma. V počátku dochází ke **zbytnění a pálení sliznice** (nemožnost dýchat nosem). Proti tomu [pomohou nosní kapky][7] k uvolnění nosní sliznice a horká koupel.
 
-Ve sliznici probíhá [boj mezi mikroorganizmy a bílými krvinkami][7]. Krvinky posléze vítězí a zánět přechází do sekreční fáze. Nyní je třeba smrkat a již odřený nos zevně mazat jakoukoli příjemnou zklidňující mastí.
+Ve sliznici probíhá [boj mezi mikroorganizmy a bílými krvinkami][8]. Krvinky posléze vítězí a zánět přechází do sekreční fáze. Nyní je třeba smrkat a již odřený nos zevně mazat jakoukoli příjemnou zklidňující mastí.
 
-V další fázi je sekret hustý a sám nevytéká a **tehdy je vysmrkání velmi důležité**. Hromadící se sekret by mohl vést k uzavření a zánětu vedlejších dutin (čelistní a čelní) a způsobit tak velmi nepříjemnou komplikaci. Rovněž pomohou léky k uvolnění nosní sliznice. Jsou to tytéž léky, které [uvolňují průdušky při vlhkém kašli][8].
+V další fázi je sekret hustý a sám nevytéká a **tehdy je vysmrkání velmi důležité**. Hromadící se sekret by mohl vést k uzavření a zánětu vedlejších dutin (čelistní a čelní) a způsobit tak velmi nepříjemnou komplikaci. Rovněž pomohou léky k uvolnění nosní sliznice. Jsou to tytéž léky, které [uvolňují průdušky při vlhkém kašli][9].
 
 Nekomplikovaná **rýma by měla do týdne ustoupit**. Teprve v opačném případě je vhodné vyhledat odborného lékaře k odvrácení hrozících komplikací a chronické rýmy.
 
@@ -39,7 +37,7 @@ Nekomplikovaná **rýma by měla do týdne ustoupit**. Teprve v opačném příp
 
 ## Senná rýma
 
-Na rozdíl od běžné rýmy ve sliznici nosní nebojují v případě senné rýmy bílé krvinky proti mikroorganizmům, ale [proti alergenům][7] (nejčastěji vdechnutá zrnka pylu). Výsledkem tohoto boje bývá **hojná řídká sekrece z nosu**, kterou má smysl pouze průběžně utírat (nikoliv násilně smrkat).
+Na rozdíl od běžné rýmy ve sliznici nosní nebojují v případě senné rýmy bílé krvinky proti mikroorganizmům, ale [proti alergenům][8] (nejčastěji vdechnutá zrnka pylu). Výsledkem tohoto boje bývá **hojná řídká sekrece z nosu**, kterou má smysl pouze průběžně utírat (nikoliv násilně smrkat).
 
 Zároveň v zarudlých a alergenem podrážděných spojivkových vacích (pod očními víčky) se zvyšuje sekrece slz, které stékají slzným kanálkem do nosní dutiny. Pomůže vyvarovat se pobytu v alergizujícím prostředí a brát léky sloužící k oslabení alergické reakce.
 
@@ -84,8 +82,11 @@ n/a
 
  [1]: chripka
  [2]: teplota
- [3]: mikroorganizmy
- [5]: lecba_zanetu
- [6]: lekove_formy
- [7]: imunita
- [8]: kasel_a_typy_kasle
+ [3]: jak_neonemocnet
+ [4]: projevy_alergie
+ [5]: bakterie
+ [6]: lecba_zanetu
+ [7]: lekove_formy
+ [8]: imunita
+ [9]: kasel_a_typy_kasle
+

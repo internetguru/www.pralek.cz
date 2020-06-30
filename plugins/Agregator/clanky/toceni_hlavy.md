@@ -5,7 +5,7 @@
 
 # Proč se točí hlava
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="točení hlavy, zvracení, nevolnost, pocení, jed, pohyb, prevence, žaludek"}
 
@@ -159,7 +159,7 @@ n/a
  [6]: nadmerne_dychani
  [7]: nadmerne_dychani#holotropni_dychani
  [8]: krevni_tlak
- [9]: mikroorganizmy
+ [9]: bakterie
  [10]: chripka
  [11]: subduralni_hematom
  [12]: bolesti_v_zadech_houser

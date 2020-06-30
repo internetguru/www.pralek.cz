@@ -5,7 +5,7 @@
 
 # Bolest paty: patní ostruha
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="zánět, neúrazové, pohyb, prevence, teplota, úrazy"}
 
@@ -110,7 +110,7 @@ n/a
  [1]: vhodna_obuv
  [2]: onemocneni_slach
  [3]: leky_proti_bolesti
- [4]: mikroorganizmy
+ [4]: bakterie
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: lekove_formy
  [7]: zanet

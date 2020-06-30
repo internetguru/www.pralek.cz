@@ -5,8 +5,6 @@
 
 # Močové kameny a ledvinová kolika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
-
 {kw="ledviny, močová soustava, kolika, prevence, neúrazové, krvácení, zvracení, zánět"}
 
 V močovém ústrojí mohou vzniknout kameny. Tlakem moči a prodíráním se kamenu močovodem pak může vzniknout ledvinová kolika.
@@ -15,7 +13,7 @@ V močovém ústrojí mohou vzniknout kameny. Tlakem moči a prodíráním se ka
 
 V bederní oblasti jsou uloženy 2 ledviny, ve kterých se tvoří moč. Z ledvinové pánvičky (dutina uvnitř ledviny) průběžně odtéká moč dvěma močovody [do močového měchýře][1]. Zde se moč shromažďuje a při močení je močovou trubicí vypuzena ven z těla.
 
-Močí jsou z těla odstraňovány zplodiny látkové přeměny. Aby ledviny správně fungovaly, je třeba, aby v těle bylo [dostatek tekutin][2]. V případě nedostatku tekutin jsou ledviny přetěžovány a tvorba moči je velmi náročná. **V příliš koncentrované moči se snadno vytvoří kameny nebo [zánět][3].**
+Močí jsou z těla odstraňovány zplodiny látkové přeměny. Aby ledviny správně fungovaly, je třeba, aby v těle bylo [dostatek tekutin][2]. V případě nedostatku tekutin jsou ledviny přetěžovány a tvorba moči je velmi náročná. **V příliš koncentrované moči se snadno vytvoří kameny nebo [zánět][3].** 
 
 {id="problem\_ledvinovych\_kamenu"}
 
@@ -81,7 +79,7 @@ n/a
 
  [1]: zanet_mocoveho_mechyre
  [2]: teplota
- [3]: mikroorganizmy
+ [3]: bakterie
  [4]: mytus_o_rakovine
  [5]: funkcni_poruchy_traveni
  [6]: nalehavost_lekarskeho_vysetreni

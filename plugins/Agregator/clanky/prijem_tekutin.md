@@ -115,7 +115,7 @@ n/a
  [1]: stravovaci_navyky
  [2]: teplota
  [3]: krevni_tlak
- [4]: mikroorganizmy
+ [4]: bakterie
  [5]: mocove_kameny
  [6]: srdecni_infarkt
  [7]: mrtvice

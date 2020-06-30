@@ -5,7 +5,7 @@
 
 # Puchýř, mozol, kuří oko: jak správně ošetřovat
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="kůže-podkoží, úrazy, neúrazové, zánět, poranění, cukrovka"}
 
@@ -112,7 +112,7 @@ n/a
  [2]: lymfaticke_uzliny
  [3]: pady_z_kola
  [4]: ochlazeni_spaleniny
- [5]: mikroorganizmy
+ [5]: bakterie
  [6]: lecba_zanetu
  [7]: zanet
  [8]: drobna_krvava_poraneni

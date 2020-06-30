@@ -65,13 +65,13 @@ Při obranném zánětu tělo rozpozná a označí viníka infekce a tvoří pro
 Obranný zánět vzniká bojem proti viníkům infekce – tedy virům, bakteriím nebo parazitům. Začíná [proniknutím mikroorganizmů do těla][8] a následně jejich pomnožením v oslabené nebo poraněné tkáni. Příklady vstupu infekce do organizmu jsou:
 
   * infikovaná oděrka, [poškozený puchýř][9], [zánět slepého střeva][6],
-  * [kapénková infekce](jak_neonemocnet) ([chřipka][10]),
-  * mikroorganizmy nakažená (kontaminovaná) strava nebo voda (nemoc špinavých rukou, infekční žloutenka nebo [infekční průjmy][11]),
+  * [kapénková infekce][10] ([chřipka][11]),
+  * mikroorganizmy nakažená (kontaminovaná) strava nebo voda (nemoc špinavých rukou, infekční žloutenka nebo [infekční průjmy][12]),
   * opakovaně užívaná injekční jehla narkomanů (žloutenka typu C nebo HIV),
-  * špatně vyčištěný nástroj při lékařském výkonu či manikůře ([panaricium][12]), pedikůře ([zarůstající nehty][13]), tetování atp,
+  * špatně vyčištěný nástroj při lékařském výkonu či manikůře ([panaricium][13]), pedikůře ([zarůstající nehty][14]), tetování atp,
   * nechráněný pohlavní styk, při kterém se přenášejí pohlavní choroby a mnohé viry (například původce rakoviny děložního čípku).
 
-Pokud lze podle projevů zánětu usuzovat na konkrétního původce _(specifický zánět)_, je většinou nutné nasadit kombinaci několika různých antibiotik (např. při tuberkulóze). V ostatních případech nebývá určení původce zánětu podstatné _(nespecifický zánět)_. K léčbě většinou postačí jeden druh antibiotik (např. při [angíně][14]).
+Pokud lze podle projevů zánětu usuzovat na konkrétního původce _(specifický zánět)_, je většinou nutné nasadit kombinaci několika různých antibiotik (např. při tuberkulóze). V ostatních případech nebývá určení původce zánětu podstatné _(nespecifický zánět)_. K léčbě většinou postačí jeden druh antibiotik (např. při [angíně][15]).
 
 {id="opravny\_reparativni\_ci\_asepticky\_zanet"}
 
@@ -83,7 +83,7 @@ n/a
 
 Opravný zánět navazuje na poškození tkání jako je **pohmoždění, uhození, namožení, přetížení, popálení, omrznutí, poleptání nebo ozáření**. V počátku aseptického zánětu vždy dobře poslouží studené obklady, které zlepší prokrvení postiženého místa a tím urychlí ústup bolestivých zánětlivých změn.
 
-Jelikož v aseptickém zánětu nejsou žádné mikroorganizmy, netvoří tělo žádné protilátky, a proto ani antibiotika nejsou namístě. Při závažném úrazu (např. při větší [spálenině][15]) pomohou co nejrychleji opravit poškozené buňky a tkáně jiné podpůrné léky (náhrada tekutin, vitamíny, minerály, [léky proti bolesti][16]).
+Jelikož v aseptickém zánětu nejsou žádné mikroorganizmy, netvoří tělo žádné protilátky, a proto ani antibiotika nejsou namístě. Při závažném úrazu (např. při větší [spálenině][16]) pomohou co nejrychleji opravit poškozené buňky a tkáně jiné podpůrné léky (náhrada tekutin, vitamíny, minerály, [léky proti bolesti][17]).
 
 {id="alergicky\_a\_autoimunitni_zanet"}
 
@@ -95,7 +95,7 @@ n/a
 
 V případě chybné reakce [imunitního systému][3] může tělo tvořit protilátky vůči látkám, které tělu ve skutečnosti vůbec neškodí (alergie), nebo které jsou mu vlastní, a které dokonce potřebuje (autoimunitní onemocnění).
 
-[Alergický zánět][17] reaguje na alergeny (například kovy, prach nebo pyl). Tyto látky organizmus mylně vyhodnotí za tělu nebezpečného nepřítele (chybná imunitní reakce – např. alergická rýma). Tělo proti alergenům mobilizuje síly podobně jako proti skutečně nepřátelským mikroorganizmům. Podávány musejí být protialergické léky _(antialergika)_, které obecně tlumí příznaky zánětu.
+[Alergický zánět][18] reaguje na alergeny (například kovy, prach nebo pyl). Tyto látky organizmus mylně vyhodnotí za tělu nebezpečného nepřítele (chybná imunitní reakce – např. alergická rýma). Tělo proti alergenům mobilizuje síly podobně jako proti skutečně nepřátelským mikroorganizmům. Podávány musejí být protialergické léky _(antialergika)_, které obecně tlumí příznaky zánětu.
 
 Autoimunitní zánět (častěji autoimunitní onemocnění) je stav, kdy organizmus mylně vyhodnotí za nepřítele určitou látku, která je tělu vlastní (velmi chybná imunitní reakce). Mylně bojuje proti vlastní, zdravé a nepoškozené bílkovině stejně, jako by bojoval proti skutečnému nepříteli. Podávají se složité léky k potlačení imunity.
 
@@ -148,14 +148,15 @@ n/a
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: slepak
  [7]: podvrtnuti_kotniku
- [8]: mikroorganizmy
+ [8]: bakterie
  [9]: puchyr_mozol_kuri_oko
- [10]: chripka
- [11]: bolest_zaludku
- [12]: panaricium
- [13]: zarustajici_nehty
- [14]: bolest_v_krku_angina
- [15]: ochlazeni_spaleniny
- [16]: leky_proti_bolesti
- [17]: projevy_alergie
+ [10]: jak_neonemocnet
+ [11]: chripka
+ [12]: bolest_zaludku
+ [13]: panaricium
+ [14]: zarustajici_nehty
+ [15]: bolest_v_krku_angina
+ [16]: ochlazeni_spaleniny
+ [17]: leky_proti_bolesti
+ [18]: projevy_alergie
 

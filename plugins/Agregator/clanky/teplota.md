@@ -5,8 +5,6 @@
 
 # Normální tělesná teplota, podchlazení, horečka
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
-
 {kw="teplota, prochlazení, přehřátí, pocení, nevolnost, točení hlavy, tekutiny, mikroorganizmy"}
 
 Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá nebo klesá vlivem zevního prostředí a stoupá při některých onemocněních.
@@ -33,7 +31,7 @@ Podmínkou pro správně fungující termoregulaci je [dostatek tekutin][2]. Nes
 
 Pobyt v horku, na slunci, nemožnost ochlazení organismu koupelí ve chladné vodě a nedostatek tekutin jistě povede k úpalu. Projeví se [nevolností až zvracením][3], [bolestí a točením hlavy][4] a celkovou slabostí. Takto přehřátý člověk potřebuje pobyt v chladné tmavé místnosti, chladné nápoje, chladnou sprchu a klid.
 
-Na přehřátí jsou **náchylnější malé děti a staří lidé**. Hůře si totiž uvědomují pocit žízně. Dlouhá cesta na dovolenou a následný pobyt v prohřátém a prosluněném letovisku nutí sledovat množství požitých tekutin. 
+Na přehřátí jsou **náchylnější malé děti a staří lidé**. Hůře si totiž uvědomují pocit žízně. Dlouhá cesta na dovolenou a následný pobyt v prohřátém a prosluněném letovisku nutí sledovat množství požitých tekutin.
 
 {id="horecka\_a\_horecnata_onemocneni"}
 
@@ -41,7 +39,7 @@ Na přehřátí jsou **náchylnější malé děti a staří lidé**. Hůře si 
 
 Většina běžných dětských nemocí a [zánětlivých chorob dospělých][5] je provázena zvýšením tělesné teploty (horečnatá onemocnění). Začátky těchto nemocí bývají obdobné – bolest hlavy, nechutenství, žaludeční nevolnost, celková slabost a zvýšená teplota.
 
-Tady je však zvýšená teplota [obranou organizmu proti mikroorganizmům][14] (bakteriím nebo virům) a **mírně zvýšenou teplotu není vhodné hned snižovat**. První 2 až 3 dny bývají známky onemocnění obecně. Po této době se teprve projeví známky konkrétní choroby.
+Tady je však zvýšená teplota [obranou organizmu proti mikroorganizmům][6] (bakteriím nebo virům) a **mírně zvýšenou teplotu není vhodné hned snižovat**. První 2 až 3 dny bývají známky onemocnění obecně. Po této době se teprve projeví známky konkrétní choroby.
 
 {id="vyvoj\_horecnateho\_onemocneni"}
 
@@ -64,20 +62,20 @@ Další vývoj příznaků onemocnění teprve ukáže o jakou mikrobiální neb
   * Bolest hlavy, zchvácenost, nemožnost předklonit hlavu svědčí pro zánět mozkových obalů (mozkových plen nebo laicky mozkových blan) nebo pro zánět mozku (např. [klíšťový zánět mozku][12]).
   * Bolesti v krku, kloubů, svalů, hlavy, dráždivý kašel a zchvácenost může značit [chřipku][13].
   * Prudký dramatický rychle nastupující stav se zchváceností a vysokou teplotou a skvrnami na kůži se známkami prokrvácení může svědčit pro meningokokovou infekci.
-  
+
 U běžných dětských nemocí se nejčastěji určí správná diagnóza až podle vyrážky. Při velmi vysoké teplotě mohou u dítěte vzniknout křeče z teploty _(febrilní křeče)_ s poruchou dýchání.
 
 {id="meningokokova_infekce"}
 
 ## Meningokoková infekce
 
-Obávaný meningokok je [mikroorganizmus][6], který se běžně vyskytuje v lidské populaci stejně jako nepřeberné množství jiných podivně pojmenovaných bakterií. Bakterie se dělí na ty, které nikdy nezpůsobí lidem onemocnění, naopak jsou nutné k normálnímu fungování lidského těla a na ty, které někdy zapříčiní chorobu.
+Obávaný meningokok je [mikroorganizmus][14], který se běžně vyskytuje v lidské populaci stejně jako nepřeberné množství jiných podivně pojmenovaných bakterií. Bakterie se dělí na ty, které nikdy nezpůsobí lidem onemocnění, naopak jsou nutné k normálnímu fungování lidského těla a na ty, které někdy zapříčiní chorobu.
 
 {class="important"}
 
-Závažnost a průběh onemocnění jsou dány spíše [připraveností organizmu](jak_neonemocnet) (imunitou a celkovým stavem) než záludností a nebezpečností bakterie.
+Závažnost a průběh onemocnění jsou dány spíše [připraveností organizmu][15] (imunitou a celkovým stavem) než záludností a nebezpečností bakterie.
 
-Meningokokové infekci bohužel nejčastěji podlehne malé dítě v době, kdy již nemá od matky dostatek protilátek (dostává je nitroděložně placentou a poporodně mateřským mlékem) a ještě nemá vytvořeny své [vlastní protilátky][14]. Další skupinou lidí, kteří mohou podlehnout meningokokovi jsou adolescenti ve stavu vyčerpání a únavy (například po probdělé noci). Ostatní **lidé při setkání s meningokokem nemusejí vůbec onemocnět**.
+Meningokokové infekci bohužel nejčastěji podlehne malé dítě v době, kdy již nemá od matky dostatek protilátek (dostává je nitroděložně placentou a poporodně mateřským mlékem) a ještě nemá vytvořeny své [vlastní protilátky][6]. Další skupinou lidí, kteří mohou podlehnout meningokokovi jsou adolescenti ve stavu vyčerpání a únavy (například po probdělé noci). Ostatní **lidé při setkání s meningokokem nemusejí vůbec onemocnět**.
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -126,7 +124,7 @@ n/a
  [3]: funkcni_poruchy_traveni
  [4]: bolest_hlavy_migrena
  [5]: zanet
- [6]: mikroorganizmy
+ [6]: imunita
  [7]: leky_proti_bolesti
  [8]: bolest_v_krku_angina
  [9]: ryma_a_smrkani
@@ -134,5 +132,6 @@ n/a
  [11]: mocove_kameny
  [12]: prisate_kliste
  [13]: chripka
- [14]: imunita
+ [14]: bakterie
+ [15]: jak_neonemocnet
 

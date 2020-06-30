@@ -74,7 +74,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: mikroorganizmy
+ [1]: bakterie
  [2]: ryma_a_smrkani
  [3]: teplota
  [4]: imunita

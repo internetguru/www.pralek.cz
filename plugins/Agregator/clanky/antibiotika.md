@@ -5,7 +5,7 @@
 
 # Proč nelze mít svá oblíbená antibiotika
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-24, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="zánět, imunita, mikroorganizmy, teplota, alergie, prevence, močová soustava"}
 
@@ -119,5 +119,5 @@ n/a
  [4]: projevy_alergie
  [5]: mocove_kameny
  [6]: zanet_mocoveho_mechyre
- [7]: mikroorganizmy
+ [7]: bakterie
 

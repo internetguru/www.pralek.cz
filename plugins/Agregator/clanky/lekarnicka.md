@@ -5,8 +5,6 @@
 
 # Obsah domácí lékárničky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
-
 {kw="první pomoc, teplota, poranění, mikroorganizmy, zánět, alergie, zvíře"}
 
 Domácí lékárnička má obsahovat čisté nástroje, zdravotní materiál a ověřené, majiteli známé léky. Každá domácnost by si měla obsah lékárničky upravit podle svých zkušeností a individuálních potřeb.
@@ -101,13 +99,13 @@ Prošlé léky a masti do lékárničky nepatří a je nutné je odevzdat v lék
 
 {id="mimo\_lekarnicku\_"}
 
-## Mimo lékárničku 
+## Mimo lékárničku
 
 n/a
 
 V rámci první pomoci mohou být použity i nástroje běžné (denní) potřeby. Vlivem stresu při poskytování první pomoci bývají zejména opomíjeny nůžky, kosmetické pinzety (manikúra), špejle, ušní štětičky, čistící tampóny ba dokonce protialergické léky.
 
-V mrazáku je dobré mít modrý chladivý gel _(kryoperlóza)_ nebo jeho náhražku – nadrobno nakrájenou zeleninu v plastovém sáčku. Obsah musí být tvárný aby přilnul ke chlazenému místu. Jen tak může dobře posloužit ke chlazení [spáleniny][14] nebo jakéhokoli počínajícího [místního zánětu][21]. 
+V mrazáku je dobré mít modrý chladivý gel _(kryoperlóza)_ nebo jeho náhražku – nadrobno nakrájenou zeleninu v plastovém sáčku. Obsah musí být tvárný aby přilnul ke chlazenému místu. Jen tak může dobře posloužit ke chlazení [spáleniny][14] nebo jakéhokoli počínajícího [místního zánětu][21].
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -149,7 +147,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: mikroorganizmy
+ [1]: bakterie
  [2]: plisne_kuze
  [3]: teplota
  [4]: odreniny_neboli_oderky

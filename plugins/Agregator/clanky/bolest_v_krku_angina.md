@@ -5,25 +5,23 @@
 
 # Bolest v krku, nachlazení, angína
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
-
 {kw="imunita, mikroorganizmy, teplota, zánět, uzliny, boulička, prevence"}
 
 Bolesti v krku mohou přejít v angínu, která je pro připravený organizmus zvládnutelná. Až teprve komplikace angíny mohou způsobit trvalé poškození zdraví.
 
-[Horní cesty dýchací][1] jsou častou vstupní bránou infekce. Nemocný člověk může [svou chorobu přenášet][2] na ostatní lidi kašlem a kýcháním – [kapénkovou infekcí](jak_neonemocnet). Vývoj a závažnost onemocnění je [závislá na imunitě][3] (obranyschopnosti) organizmu. **Imunita vzniká a narůstá stykem organizmu s choroboplodnými zárodky.**
+[Horní cesty dýchací][1] jsou častou vstupní bránou infekce. Nemocný člověk může [svou chorobu přenášet][2] na ostatní lidi kašlem a kýcháním – [kapénkovou infekcí][3]. Vývoj a závažnost onemocnění je [závislá na imunitě][4] (obranyschopnosti) organizmu. **Imunita vzniká a narůstá stykem organizmu s choroboplodnými zárodky.**
 
 {id="bolest\_v\_krku\_pricina\_a_leceni"}
 
 ## Bolest v krku, příčina a léčení
 
-Spousta nečistot a bacilů vdechovaných společně se vzduchem je [vychytávána zdravou sliznicí a likvidována][4]. **Zdravý neoslabený jedinec by [neměl kapénkovou infekcí vůbec onemocnět](jak_neonemocnet).**
+Spousta nečistot a bacilů vdechovaných společně se vzduchem je [vychytávána zdravou sliznicí a likvidována][5]. **Zdravý neoslabený jedinec by [neměl kapénkovou infekcí vůbec onemocnět][3].** 
 
-Aby se podařilo [choroboplodným zárodkům (mikroorganizmům)][5] proniknout sliznicí, musejí k tomu mít zvláštní podmínky, například podráždění sliznice a prochlazení. Tehdy se většinou vytvoří pod dolní čelistí [bolestivé uzliny][6]. **Mikroorganizmy jsou brzy imunitním systémem rozpoznány a postupně likvidovány.**
+Aby se podařilo [choroboplodným zárodkům (mikroorganizmům)][6] proniknout sliznicí, musejí k tomu mít zvláštní podmínky, například podráždění sliznice a prochlazení. Tehdy se většinou vytvoří pod dolní čelistí [bolestivé uzliny][7]. **Mikroorganizmy jsou brzy imunitním systémem rozpoznány a postupně likvidovány.**
 
-Tento stav boje zvláštních bílých krvinek proti mikroorganizmům ve sliznici se projevuje jako **pálení a škrábání v krku**. Může být spojen s [kašlem][4] nebo s [rýmou][1]. Bývají rovněž [celkové příznaky zánětu][7] jako únava, slabost, [zvýšená teplota][8]. Většinou se stav upraví během několika dnů. V tom případě se jednalo pouze o _nemoc z prochlazení (nastuzení, nachlazení)_.
+Tento stav boje zvláštních bílých krvinek proti mikroorganizmům ve sliznici se projevuje jako **pálení a škrábání v krku**. Může být spojen s [kašlem][5] nebo s [rýmou][1]. Bývají rovněž [celkové příznaky zánětu][8] jako únava, slabost, [zvýšená teplota][9]. Většinou se stav upraví během několika dnů. V tom případě se jednalo pouze o _nemoc z prochlazení (nastuzení, nachlazení)_.
 
-Pomůže odpočinek, nejlépe klid na lůžku, [dostatek tekutin][9] a vitamínu C. Někomu pomáhá kloktání slabé vlažné dezinfekce nebo minerálky. **Antibiotika v této fázi onemocnění nepomohou.** Pokud organizmus infekci nezvládne, může se následně vyvinout angína.
+Pomůže odpočinek, nejlépe klid na lůžku, [dostatek tekutin][10] a vitamínu C. Někomu pomáhá kloktání slabé vlažné dezinfekce nebo minerálky. **Antibiotika v této fázi onemocnění nepomohou.** Pokud organizmus infekci nezvládne, může se následně vyvinout angína.
 
 {id="vznik\_a\_prubeh_anginy"}
 
@@ -31,9 +29,9 @@ Pomůže odpočinek, nejlépe klid na lůžku, [dostatek tekutin][9] a vitamínu
 
 V případě oslabení imunity, kdy nejsou mikroorganizmy včas rozpoznány nebo není dostatek obranných protilátek, se mikroorganizmy dostávají až do krční mandle. Tam se pomnoží, a tím způsobí **zánět krční mandle** označovaný jako angína.
 
-Stále živé **bacily se hromadí v mandlích**, kde se hromadí i bílé krvinky. Mezi bacily a krvinkami dochází k zápolení a [zánět se vyvíjí][10]. Počáteční fáze je bolestivá. Dochází k překrvení, zarudnutí a zbytnění mandlí, špatně se polyká, nemocný má změněný hlas. Rozvíjí se [celkové příznaky zánětlivého onemocnění][7].
+Stále živé **bacily se hromadí v mandlích**, kde se hromadí i bílé krvinky. Mezi bacily a krvinkami dochází k zápolení a [zánět se vyvíjí][11]. Počáteční fáze je bolestivá. Dochází k překrvení, zarudnutí a zbytnění mandlí, špatně se polyká, nemocný má změněný hlas. Rozvíjí se [celkové příznaky zánětlivého onemocnění][8].
 
-**Boj mezi krvinkami a bacily se později projeví tvorbou hnisu**, což jsou odumřelé mikroby a boji podlehnuvší bílé krvinky a další odumřelé buňky. Hnis je vstřebáván nebo se vyplavuje chodbičkami v mandlích a je polykán nebo se vytvoří [absces (dutina vyplněná hnisem)][11], který bývá nutné ošetřit chirurgicky.
+**Boj mezi krvinkami a bacily se později projeví tvorbou hnisu**, což jsou odumřelé mikroby a boji podlehnuvší bílé krvinky a další odumřelé buňky. Hnis je vstřebáván nebo se vyplavuje chodbičkami v mandlích a je polykán nebo se vytvoří [absces (dutina vyplněná hnisem)][12], který bývá nutné ošetřit chirurgicky.
 
 {id="komplikace\_a\_leceni_anginy"}
 
@@ -43,7 +41,7 @@ Z nemocných a změněných mandlí se mohou živé bacily dostat krevní cestou
 
 {class="example"}
 
-Nejčastější trvalé následky v důsledku komplikací jsou [zánět ledvin][12] nebo onemocnění srdečních chlopní.
+Nejčastější trvalé následky v důsledku komplikací jsou [zánět ledvin][14] nebo onemocnění srdečních chlopní.
 
 Angínu lze takříkajíc přechodit. Je zde ale nebezpečí vzniku výše popsaných komplikací. Při léčení angíny je nutný klid na lůžku a dostatek tekutin. Dle stavu jsou vhodná antibiotika a další léky podle celkových příznaků onemocnění.
 
@@ -95,15 +93,16 @@ n/a
 
  [1]: ryma_a_smrkani
  [2]: chripka
- [3]: imunita
- [4]: kasel_a_typy_kasle
- [5]: mikroorganizmy
- [6]: lymfaticke_uzliny
- [7]: zanet
- [8]: teplota
- [9]: prijem_tekutin
- [10]: lecba_zanetu
- [11]: nezhoubne_nadory
- [12]: mocove_kameny
+ [3]: jak_neonemocnet
+ [4]: imunita
+ [5]: kasel_a_typy_kasle
+ [6]: bakterie
+ [7]: lymfaticke_uzliny
+ [8]: zanet
+ [9]: teplota
+ [10]: prijem_tekutin
+ [11]: lecba_zanetu
+ [12]: nezhoubne_nadory
  [13]: antibiotika
+ [14]: mocove_kameny
 
