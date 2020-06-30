@@ -24,13 +24,13 @@ Stupně nastavení imunitního systému
 
 n/a
 
-Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedinec, který má řádně vyvinutý imunitní (obranný) systém, je tedy odolný vůči [nakažlivým nemocem][3] i vůči [prochlazení][4], vyroste tehdy,
+Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedinec, který má řádně vyvinutý imunitní (obranný) systém, je tedy odolný vůči [nakažlivým nemocem][3] i vůči [prochlazení][4], vyroste za následujících okolností:
 
-  * narodí-li se přirozenou cestou (blízkost porodních cest a konečníku je již při porodu prvním setkáním [s dávkou bakterií][3]),
-  * je-li kojen, dostává další obranné látky od matky spolu s mateřským mlékem,
+  * Narodí se přirozenou cestou. Blízkost porodních cest a konečníku je již při porodu prvním setkáním [s dávkou bakterií][3]).
+  * Je kojen, čímž dostává další obranné látky od matky spolu s mateřským mlékem.
   * k obranným látkám, kterými byl vybaven již při porodu a vydrží mu asi 6 týdnů si záhy začíná vytvářet svoje vlastní,
-  * následně si batole strká do pusy vše co vidí, mnohdy i věci nám zcela nepochopitelné, jde o pudové chování, smyslem je časně si zmapovat okolní bakterie a záhy tvořit imunitu,
-  * výhodou je blízkost domácích zvířat, návštěva chléva, pobyt na venkovském dvoře, pohladit zvíře pod dohledem opatrovníka je správné.
+  * Jako batole si strká do pusy vše, co vidí. Mnohdy i věci nám zcela nepochopitelné. Jde o pudové chování, jehož smyslem je časně si zmapovat okolní bakterie a vytvářet proti nim imunitu nebo je tolerovat.
+  * Výhodou je blízkost domácích zvířat, návštěva chléva, pobyt na venkovském dvoře. Pohladit zvíře (pod dohledem opatrovníka) je také prospěšné.
 
 Skleníkové prostředí bez přítomnosti bakterií není pro zdárný vývoj dítěte správné, opačný extrém však jistě rovněž ne. Bohužel domácí mazlíček často olizuje majiteli (nebo i dítěti!) obličej. Na čenichu a v tlamě psa a kočky žijí zcela odlišené a **pro člověka nepřijatelné bakteriální kmeny**.
 
