@@ -11,7 +11,7 @@
 
 Pneumotorax je výskyt vzduchu v prostoru mezi plícemi a hrudníkem. Příslušná plíce se tak stává nefunkční. Její úlohu (dýchání) většinou plně nahradí druhá (zdravá) plíce.
 
-V plicích dochází k okysličování krve. Aby mohly plíce plnit svou dýchací funkci, roztahují se a stahují vlivem pohybů hrudníku. **Přirozený stav plic je smrštěný** (vyfouknutý), tedy bez vzduchu. Aby se plíce při nádechu roztahovaly, musí kopírovat hrudník. Proto je mezi nimi a hrudníkem podtlak. Při nádechu je vzduch nasáván [dýchacími cestami][1] do plic.
+V plicích dochází k okysličování krve. Aby mohly plíce plnit svou dýchací funkci, roztahují se a stahují vlivem pohybů hrudníku. **Přirozený stav plic je smrštěný** (vyfouknutý), tedy bez vzduchu. Aby se plíce při nádechu roztahovaly, musí kopírovat hrudník. Proto je mezi nimi a hrudníkem podtlak. Při nádechu je vzduch nasáván [dýchacími cestami][1] do plic roztahováním hrudníku.
 
 Pneumotorax je výskyt vzduchu v prostoru mezi plícemi a hrudníkem. Příslušná plíce splaskne (není v ní žádný vzduch) a nedýchá. **Podtlakové prostory obou plic jsou však vzájemně oddělené.** Druhá plíce na zdravé straně hrudníku je tedy plně funkční, což k dýchání postačí.
 
