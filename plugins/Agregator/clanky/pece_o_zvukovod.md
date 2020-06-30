@@ -5,7 +5,7 @@
 
 # Péče o zevní zvukovod
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="zánět, hygiena, nevolnost, zvracení, točení hlavy, prevence, poranění"}
 
@@ -124,6 +124,6 @@ n/a
  [2]: funkcni_poruchy_traveni
  [3]: lymfaticke_uzliny
  [4]: plisne_kuze
- [5]: mikroorganizmy
+ [5]: bakterie
  [6]: zanet
 

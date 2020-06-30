@@ -5,7 +5,7 @@
 
 # Boule vzniklé následkem úrazu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="boule, úrazy, krvácení, kůže-podkoží, cévy, pohyb, první pomoc"}
 
@@ -84,7 +84,7 @@ n/a
 
  [1]: otres_mozku
  [2]: lecba_zanetu
- [3]: mikroorganizmy
+ [3]: bakterie
  [4]: krecove_zily
  [5]: zlomeniny_kosti
  [6]: natazeni_natrzeni_svalu

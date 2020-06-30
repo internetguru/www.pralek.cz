@@ -5,7 +5,7 @@
 
 # Ochlazení jako první pomoc při spálenině
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="poranění, první pomoc, úrazy, kůže-podkoží, dětské, žláza, pohyb"}
 
@@ -92,7 +92,7 @@ n/a
 
  [1]: lecba_zanetu
  [2]: puchyr_mozol_kuri_oko
- [3]: mikroorganizmy
+ [3]: bakterie
  [4]: urazy_deti
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: rychla_lekarska_pomoc

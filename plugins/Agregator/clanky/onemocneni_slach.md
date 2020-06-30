@@ -5,7 +5,7 @@
 
 # Onemocnění šlach: zánět šlach, gangliom, tenisový loket
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="pohyb, zánět, uzliny, neúrazové, mikroorganizmy, antibiotika"}
 
@@ -118,7 +118,7 @@ n/a
 
  [1]: artroza
  [2]: zanet
- [3]: mikroorganizmy
+ [3]: bakterie
  [4]: antibiotika
  [5]: lymfaticke_uzliny
  [6]: nezhoubne_nadory

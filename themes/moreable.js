@@ -57,7 +57,7 @@
           var moreLink = document.createElement("button")
           moreLink.textContent = Config.moreText
           moreLink.addEventListener("click", showMore, false)
-          moreLink.className = "eventable button button--border"
+          moreLink.className = "eventable button button--simple"
           moreLink.setAttribute('data-eventable-action', 'moreable')
           moreLink.setAttribute('data-eventable-label', Config.moreText)
           try {

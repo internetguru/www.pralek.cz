@@ -5,7 +5,7 @@
 
 # Možnosti podávání léků a lékové formy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="angína, poruchy vědomí, teplota, cévy, zvracení, alergie"}
 
@@ -131,7 +131,7 @@ n/a
  [8]: imunita
  [9]: onemocneni_slach
  [10]: cukrovka
- [11]: iktus
+ [11]: mrtvice
  [12]: ochlazeni_spaleniny
  [13]: artroza
 

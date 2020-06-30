@@ -21,7 +21,7 @@ Náplasťový steh je plnohodnotná alternativa k zašití rány (nahrazuje chir
 {type="image/svg+xml" data="/files/naplastovy_steh-maslicka.svg"}</object> 
 :   Sklon náplasťového stehu vůči ráně a) steri strip kolmý na ránu (případně pomocný steri strip), b) mašlička.
 
-Překrytí celé rány náplastí nebo obvazem vede k uvolnění okrajů rány a její rozmáčení vlivem [kožního mazu][3] a potu. To platí obzvlášť pro obličej, kde kůže obsahuje více mazových a potních žláz. Pod neprodyšným obvazem by ani přiložená náplasťová fixace ránu neudržela. Naopak **nezakrytá rána ošetřená náplasťovým stehem může dýchat a je trvale kontrolovatelná** (hrozí [zanícení][4] nebo rozšklebení).
+Překrytí celé rány náplastí nebo obvazem vede k uvolnění okrajů rány a její rozmáčení vlivem [kožního mazu][3] a potu. To platí obzvlášť pro obličej, kde kůže obsahuje více mazových a potních žláz. Pod neprodyšným obvazem by ani přiložená náplasťová fixace ránu neudržela. Naopak **nezakrytá rána ošetřená náplasťovým stehem může dýchat a je trvale kontrolovatelná** (lze kontrovat hrozící [zanícení][4] nebo rozšklebení).
 
 {id="aplikace\_naplastoveho\_stehu"}
 

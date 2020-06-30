@@ -5,7 +5,7 @@
 
 # Cévkování močového měchýře
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="močová soustava, retence moči, nádory, nezhoubné, strach, katetrizace"}
 
@@ -102,6 +102,6 @@ n/a
  [1]: prostata
  [2]: zanet_mocoveho_mechyre
  [3]: penis-fimoza-obrizka
- [4]: mikroorganizmy
+ [4]: bakterie
  [5]: lecba_zanetu
 

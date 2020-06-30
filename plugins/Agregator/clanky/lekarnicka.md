@@ -5,8 +5,6 @@
 
 # Obsah domácí lékárničky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
-
 {kw="první pomoc, teplota, poranění, mikroorganizmy, zánět, alergie, zvíře"}
 
 Domácí lékárnička má obsahovat čisté nástroje, zdravotní materiál a ověřené, majiteli známé léky. Každá domácnost by si měla obsah lékárničky upravit podle svých zkušeností a individuálních potřeb.
@@ -21,7 +19,7 @@ Některé součásti domácí lékárničky mohou být použity v domácnosti i 
 
 n/a
 
-Nástroje v lékárničce mají být samozřejmě čisté. Před každým léčebným použitím je třeba je [vydezinfikovat][1] a po použití mechanicky očistit. To platí např. i pro kontaktní teploměr, kde hrozí riziko [přenosu plísní][2].
+Nástroje v lékárničce mají být samozřejmě čisté. Před každým léčebným použitím je třeba je [vydezinfikovat][1] a po použití mechanicky očistit. To platí např. i pro kontaktní teploměr, kde mj. hrozí [přenos plísní][2].
 
 Lékařský teploměr
 :   Základní typy teploměrů jsou lihový, rtuťový a digitální. [Teplotu měří][3] v zásadě všechny stejně dobře, jen různě rychle. Nejrychlejší je bezkontaktní digitální teploměr vhodný obzvlášť pro měření teploty malých dětí.
@@ -101,13 +99,13 @@ Prošlé léky a masti do lékárničky nepatří a je nutné je odevzdat v lék
 
 {id="mimo\_lekarnicku\_"}
 
-## Mimo lékárničku 
+## Mimo lékárničku
 
 n/a
 
 V rámci první pomoci mohou být použity i nástroje běžné (denní) potřeby. Vlivem stresu při poskytování první pomoci bývají zejména opomíjeny nůžky, kosmetické pinzety (manikúra), špejle, ušní štětičky, čistící tampóny ba dokonce protialergické léky.
 
-V mrazáku je dobré mít modrý chladivý gel _(kryoperlóza)_ nebo jeho náhražku – nadrobno nakrájenou zeleninu v plastovém sáčku. Obsah musí být tvárný aby přilnul ke chlazenému místu. Jen tak může dobře posloužit ke chlazení [spáleniny][14] nebo jakéhokoli počínajícího [místního zánětu][21]. 
+V mrazáku je dobré mít modrý chladivý gel _(kryoperlóza)_ nebo jeho náhražku – nadrobno nakrájenou zeleninu v plastovém sáčku. Obsah musí být tvárný aby přilnul ke chlazenému místu. Jen tak může dobře posloužit ke chlazení [spáleniny][14] nebo jakéhokoli počínajícího [místního zánětu][21].
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -149,7 +147,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: mikroorganizmy
+ [1]: bakterie
  [2]: plisne_kuze
  [3]: teplota
  [4]: odreniny_neboli_oderky

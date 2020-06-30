@@ -5,7 +5,7 @@
 
 # Prudký zánět slinivky břišní: akutní pankreatitida
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="zánět, břicho, žláza, zvracení, žlučník, nevolnost, zhoubné, cukrovka"}
 
@@ -139,7 +139,7 @@ n/a
  [3]: zanet
  [4]: zlucove_kameny
  [5]: srdecni_infarkt
- [6]: mikroorganizmy
+ [6]: bakterie
  [7]: obezita_a_energie
  [8]: nezhoubny_nebo_zhoubny_nador
  [9]: rakovina_tlusteho_streva_a_konecniku

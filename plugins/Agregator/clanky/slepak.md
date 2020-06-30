@@ -5,7 +5,7 @@
 
 # Slepák: zánět červovitého přívěsku slepého střeva
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="břicho, střevo, zánět, zvracení, teplota"}
 
@@ -117,6 +117,6 @@ n/a
  [5]: mytus_o_rakovine
  [6]: teplota
  [7]: lecba_zanetu
- [8]: mikroorganizmy
+ [8]: bakterie
  [9]: mocove_kameny
 

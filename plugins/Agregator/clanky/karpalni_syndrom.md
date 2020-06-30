@@ -5,7 +5,7 @@
 
 # Noční brnění prstů ruky: karpální syndrom
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="mozek-nervy, pohyb, zánět, nádory, nezhoubné"}
 
@@ -97,7 +97,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: onemocneni_slach
- [2]: iktus
+ [2]: mrtvice
  [3]: nezhoubne_nadory
  [4]: bodne_a_strelne_poraneni
  [5]: nalehavost_lekarskeho_vysetreni

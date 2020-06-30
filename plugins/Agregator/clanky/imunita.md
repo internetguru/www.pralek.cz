@@ -93,6 +93,6 @@ n/a
 
  [1]: antibiotika
  [2]: projevy_alergie
- [3]: mikroorganizmy
+ [3]: bakterie
  [4]: teplota
 
