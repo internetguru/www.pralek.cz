@@ -17,6 +17,8 @@ V bederní oblasti jsou uloženy 2 ledviny, ve kterých se tvoří moč. Z ledvi
 
 Močí jsou z těla odstraňovány zplodiny látkové přeměny. Aby ledviny správně fungovaly, je třeba, aby v těle bylo [dostatek tekutin][2]. V případě nedostatku tekutin jsou ledviny přetěžovány a tvorba moči je velmi náročná. **V příliš koncentrované moči se snadno vytvoří kameny nebo [zánět][3].**
 
+{id="problem\_ledvinovych\_kamenu"}
+
 ## Problém ledvinových kamenů
 
 Za určitých podmínek se v ledvinové pánvičce může vytvořit kámen. Dokud netlačí na okolní tkáně, nemusí působit potíže. Časem se mění a podle podmínek se může zvětšovat, nebo se uvolní a dostane se do močovodu.
