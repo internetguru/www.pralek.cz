@@ -5,9 +5,9 @@
 
 # Rozpoznání a závažnost srdečního infarktu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
-{kw="srdce, poruchy vědomí, cévy, prevence, břicho"}
+{kw="srdce, poruchy vědomí, cévy, cukrovka, prevence, břicho"}
 
 Srdeční infarkt neboli _infarkt myokardu_ (česky záhať srdečního svalu) patří mezi civilizační choroby. Rozpoznání infarktu a bezodkladné zahájení masáže srdce zachrání život. Včasné další léčení může vrátit pacienta do plného zdraví.
 

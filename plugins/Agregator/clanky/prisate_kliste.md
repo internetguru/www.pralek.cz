@@ -5,7 +5,7 @@
 
 # Nakažení přisátým klíštětem
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="zvíře, poranění, zánět, mozek-nervy, teplota"}
 
@@ -83,7 +83,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: mikroorganizmy
+ [1]: bakterie
  [2]: bolest_hlavy_migrena
  [3]: teplota
  [4]: akutni_torticollis

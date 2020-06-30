@@ -5,7 +5,7 @@
 
 # Poranění nehtu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="nehet, úrazy, strach, krvácení, zánět, zlomeniny"}
 
@@ -119,7 +119,7 @@ n/a
 
  [1]: plisne_kuze
  [2]: zarustajici_nehty
- [3]: mikroorganizmy
+ [3]: bakterie
  [4]: zanet
  [5]: bolest_v_krku_angina
  [6]: nalehavost_lekarskeho_vysetreni
