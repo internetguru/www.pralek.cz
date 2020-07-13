@@ -103,7 +103,7 @@ n/a
  [2]: obezita_a_energie
  [3]: cukrovka
  [4]: krevni_tlak
- [5]: iktus
+ [5]: mrtvice
  [6]: cholesterol
  [7]: resuscitace-ozivovani
 
