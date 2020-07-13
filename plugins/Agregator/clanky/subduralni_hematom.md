@@ -5,8 +5,6 @@
 
 # Poúrazové krvácení do hlavy: chronický subdurální hematom
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
-
 {kw="úrazy, cévy, krvácení, zvracení, poruchy vědomí"}
 
 Po úrazu hlavy může po určité bezpříznakové době vzniknout chronický subdurální hematom. Jeho záludnost spočívá v plíživém nástupu potíží, které si pacient často sám vůbec neuvědomuje.
@@ -34,10 +32,10 @@ n/a
 Subdurální hematomy jsou různě závažné podle svého rozsahu a následného vývoje. Jednotlivé projevy se mohou měnit a přecházet jeden v druhý podle síly a směru útlaku jednotlivých mozkových center.
 
   1. **Drobný subdurální hematom** se vzhledem k nevelkému rozsahu nijak neprojevuje a časem se sám zcela vstřebá, aniž by byl zjištěn.
-  2. **Běžný chronický subdurální hematom** se projeví v průměru za týden až měsíc
+  2. **Běžný chronický subdurální hematom** se projeví v průměru za týden až měsíc 
       * známkami nitrolebečního přetlaku; tedy bolestí hlavy, zvracením, nestejně širokými zornicemi a postupně narůstající poruchou vědomí, která může vést až k fatálnímu konci, nebo
       * častěji poruchou utlačovaných center v mozku; tedy bolestí hlavy, změnou osobnosti a zvýšenou únavností.
-  3. **Rozsáhlý nebo vícečetný chronický subdurální hematom** způsobuje pokračující útlak mozku s různými projevy:
+  3. **Rozsáhlý nebo vícečetný chronický subdurální hematom** způsobuje pokračující útlak mozku s různými projevy: 
       * [pocit na zvracení nebo zvracení][1],
       * [bolest různých částí hlavy][2],
       * [točení hlavy s poruchou orientace v prostoru][3],
@@ -116,7 +114,7 @@ n/a
  [1]: funkcni_poruchy_traveni
  [2]: bolest_hlavy_migrena
  [3]: kinetoza
- [4]: iktus
+ [4]: mrtvice
  [5]: mdloba_neboli_kolaps
  [6]: krevni_tlak
 
