@@ -127,7 +127,7 @@ n/a
  [4]: ochlazeni_spaleniny
  [5]: mdloba_neboli_kolaps
  [6]: srdecni_infarkt
- [7]: iktus
+ [7]: mrtvice
  [8]: bodne_a_strelne_poraneni
  [9]: zlomeniny_kosti
 
