@@ -112,7 +112,10 @@ h1 {
   margin-right: 0.75rem;
 }
 .part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list > ul:not(.button-list) > li:before {
-  content: "●";
+  content: "•";
+  font-size: 2.5em;
+  line-height: 0;
+  vertical-align: -0.5rem;
 }
 .important,
 .example,
