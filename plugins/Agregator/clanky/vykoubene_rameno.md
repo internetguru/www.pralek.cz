@@ -31,9 +31,9 @@ n/a
 
 Ihned po úrazu nastupuje **prudká bolest postiženého ramene** a nemožnost poraněnou paží vykonat jakoukoli činnost. Rameno vypadá oproti druhému ramenu nesymetricky _(má změněnou konfiguraci)_. Bezvládná paže visí dolů nebo si ji pacient přidržuje v pro něj přijatelné poloze.
 
-V rámci první pomoci je třeba **zafixovat končetinu v dané poloze**. Toho lze docílit buď uložením končetiny do šátku nebo pomocí zraněnému s udržením končetiny v dané poloze. Je nutné vyloučit jakékoli pohyby nebo otřesy – všechny jsou totiž velmi bolestivé. Následně by měl zachránce [přivolat RLP][2], nebo zraněného dopravit na nejbližší chirurgii nebo traumatologii.
+V rámci první pomoci je třeba **zafixovat končetinu v dané poloze**. Toho lze docílit buď uložením končetiny do šátku nebo pomocí zraněnému s udržením končetiny v dané poloze. Je nutné vyloučit jakékoli pohyby nebo otřesy – všechny jsou totiž velmi bolestivé. Proto by měl zachránce raději [přivolat RLP][2] než zraněného dopravit na nejbližší chirurgii nebo traumatologii.
 
-Zraněný nesmí jíst, pít, kouřit ani brát léky. V případě celkového znecitlivění (pokud je nutné) musí být zraněný nalačno a střízlivý. Léky a kouření mohou celkové znecitlivění zkomplikovat.
+Zraněný nesmí jíst, pít, kouřit ani brát léky. V případě nutnosti celkového znecitlivění (narkózy) musí být zraněný nalačno a střízlivý. V opačném případě musí být výkon odložen do vytrávení nebo vystřízlivění.
 
 {id="leceni\_vykloubeneho\_ramene\_neni\_bolestive"}
 
