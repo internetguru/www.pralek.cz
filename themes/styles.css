@@ -1300,6 +1300,9 @@ ol.otazky span {
   display: block;
   margin: 0.5em 0 0.75em;
 }
+ol.otazky li:last-child:before {
+  content: "" !important;
+}
 .feedback-yes,
 ol.otazky button:first-child {
   --button--border-border: medium solid #4CAF50;
