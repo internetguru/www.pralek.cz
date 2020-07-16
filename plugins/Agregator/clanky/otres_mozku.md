@@ -55,7 +55,7 @@ Během cesty k lékaři je třeba **poraněnému zvolna a klidně opakovaně odp
 
 ## Pohmoždění hlavy bez doprovodných příznaků
 
-Jestli po poranění hlavy nenásledovalo bezvědomí, zvracení ani porucha paměti se zmateností a poraněný se chová normálně, nejedná se o otřes mozku, ale o pohmoždění hlavy. Lékařské vyšetření potom není nutné.
+Jestli po poranění hlavy nenásledovalo bezvědomí, zvracení ani porucha paměti se zmateností a poraněný se chová normálně, nejedná se o otřes mozku, ale o pohmoždění hlavy. V takovém případě lékařské vyšetření není nutné.
 
 Po tupém poranění hlavy [vznikne boule][5] – krevní výron. Zraněnému udělá dobře studený obklad na hlavu. Po úrazu hlavy je dobře být v klidu, šeru, chladnu, nejíst, pouze se napít. V případě chuti a únavy je možné spát, lépe ve společnosti druhé osoby.
 
