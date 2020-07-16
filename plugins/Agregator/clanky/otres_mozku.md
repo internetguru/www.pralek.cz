@@ -25,7 +25,7 @@ Pro otřes mozku svědčí třeba jen krátkodobé [bezvědomí][2], které nava
 
 K záchraně života tedy většinou **postačí zachovat volné dýchací cesty** – vyprázdnění dutiny ústní, záklon hlavy nebo pouze stabilizovaná poloha. Většinou zraněný během krátké doby po úrazu sám opět nabude vědomí.
 
-Upadne-li dítě a uhodí se do hlavy, tak je pro lékaře důležitá informace, zda pláč nastal bezprostředně po úrazu (pro posouzení třeba jen krátkodobého bezvědomí). Další chování poraněného dítěte bude úměrné bolesti související s úrazem nebo nějak změněné. Je třeba se k takovému dítěti chovat vlídně a klidně, aby nebylo vyděšeno ze změněného chování.
+Upadne-li dítě a uhodí se do hlavy, tak je pro lékaře důležitá informace, zda pláč nastal bezprostředně po úrazu (pro posouzení třeba jen krátkodobého bezvědomí). Další chování poraněného dítěte bude úměrné bolesti související s úrazem nebo nějak změněné. Je třeba se k takovému dítěti chovat vlídně a klidně, aby nebylo vyděšeno ze změněného chování rodiče nebo opatrovníka.
 
 {class="example"}
 
