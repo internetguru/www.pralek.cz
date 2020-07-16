@@ -16,7 +16,7 @@ Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imu
 n/a
 
 Správně fungující imunitní systém
-:   Dokáže rozpoznat a označit drobného cizího nepřítele v lidském těle, nejčastěji [viry][3] nebo [bakterie][4]).
+:   Dokáže rozpoznat a označit drobného cizího nepřítele v lidském těle, nejčastěji [viry][3] nebo [bakterie][4].
 :   Vetřelec je po označení rychle zlikvidován speciálními bílými krvinkami.
 
 Snížená imunita
