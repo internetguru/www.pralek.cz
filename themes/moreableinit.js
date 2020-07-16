@@ -13,6 +13,6 @@ require("IGCMS.Moreable", function () {
     parent: ".meta > span",
     moreText: "...",
     leftText: "",
-    displayStep: 3
+    displayStep: 4
   })
 })
