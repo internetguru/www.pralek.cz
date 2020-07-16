@@ -23,7 +23,7 @@ Pokles na ještě nižší hodnoty může ohrozit život [zpomalením a následn
 
 ## Přehřátí organizmu
 
-S fyzickou aktivitou roste tělesná teplota, neboť při práci svalů vzniká odpadní teplo. Aby nedošlo k přehřátí organizmu, musí tělo předat vzniklé teplo do okolního prostředí odpařováním. Při práci v horku nebo při nadměrném oblečení probíhá chlazení pocením.
+S fyzickou aktivitou roste tělesná teplota, neboť při práci svalů vzniká odpadní teplo. Aby nedošlo k přehřátí organizmu, musí tělo předat vzniklé teplo sáláním do okolního prostředí. Při práci v horku nebo při nadměrném oblečení probíhá chlazení pocením.
 
 {class="important"}
 
