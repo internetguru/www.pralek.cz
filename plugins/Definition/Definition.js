@@ -117,7 +117,7 @@
           if (!inited) {
             this.createContainer()
           }
-          this.term.parentNode.insertBefore(this.container, this.term.nextSibling)
+          document.body.appendChild(this.container)
           this.created = true
         },
         hide: function () {
@@ -167,8 +167,11 @@
           if (event.clientX - delta + termComp.container.clientWidth > window.innerWidth) {
             termComp.container.style.left = null
             termComp.container.style.right = `0px`
+            termComp.container.style.top = `${event.clientY + window.scrollY + 10}px`
           } else {
+            termComp.container.style.right = null
             termComp.container.style.left = `${Math.max(event.clientX - delta, 0)}px`
+            termComp.container.style.top = `${event.clientY + window.scrollY + 10}px`
           }
           event.preventDefault()
           return false;
