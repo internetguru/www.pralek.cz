@@ -37,7 +37,7 @@ Vdechnutím mohou podráždit dýchací cesty:
   * větší množství prachu nebo částečky aerosolu,
   * vodní tříšť (plavání v prudkém dešti je velmi nebezpečné, hrozí utonutí),
   * drobek, sousto nebo kapka [(zakuckání)][6],
-  * příliš velké množství [choroboplodných zárodků][7] \[(kapénková infekce)\]\[jak_neonemocnet\],
+  * příliš velké množství [choroboplodných zárodků][7] ([kapénková infekce](jak_neonemocnet)),
   * zvýšená zátěž (zadýchání) u člověka, který má dýchací cesty poškozené.
 
 {id="typy\_charakteristika\_reseni"}
