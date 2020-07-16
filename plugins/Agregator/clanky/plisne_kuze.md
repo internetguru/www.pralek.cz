@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859929247472771" data-type="article" data-image="/files/preview/koutek/plisne_kuze/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-09-25" mtime="2011-09-25" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="plisne\_kuze" short="Plísně kůže"}
+{data-top="981" ctime="2011-09-25" mtime="2011-09-25" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="plisne\_kuze" short="Plísně kůže"}
 
 # Plísňová onemocnění kůže
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
 {kw="kůže-podkoží, zánět, neúrazové, cukrovka, prevence, uzliny, boulička"}
 

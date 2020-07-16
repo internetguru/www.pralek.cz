@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859950310803998" data-type="article" data-image="/files/preview/koutek/telisko\_v\_oku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2012-01-18" mtime="2012-01-18" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="telisko\_v_oku" short="Tělísko v oku"}
+{data-top="972" ctime="2012-01-18" mtime="2012-01-18" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="telisko\_v_oku" short="Tělísko v oku"}
 
 # Cizí tělísko v oku
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
 {kw="úrazy, poranění"}
 

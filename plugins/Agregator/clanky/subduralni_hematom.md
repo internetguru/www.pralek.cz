@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859949660804063" data-type="article" data-image="/files/preview/koutek/subduralni_hematom/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-01-31" mtime="2011-01-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="subduralni\_hematom" short="Chronický subdurální hematom"}
+{data-top="958" ctime="2011-01-31" mtime="2011-01-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="subduralni\_hematom" short="Chronický subdurální hematom"}
 
 # Poúrazové krvácení do hlavy: chronický subdurální hematom
 

@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859956097470086" data-type="article" data-image="/files/preview/koutek/zaludecni_vredy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-07-20" mtime="2011-07-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zaludecni\_vredy" short="Žaludeční vředy"}
+{data-top="937" ctime="2011-07-20" mtime="2011-07-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zaludecni\_vredy" short="Žaludeční vředy"}
 
 # Žaludeční a dvanáctníkový vřed
 

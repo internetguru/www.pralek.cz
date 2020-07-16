@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859955397470156" data-type="article" data-image="/files/preview/koutek/vykoubene_rameno/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2013-05-12" mtime="2013-05-12" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vykoubene\_rameno" short="Vykloubené rameno"}
+{data-top="988" ctime="2013-05-12" mtime="2013-05-12" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vykoubene\_rameno" short="Vykloubené rameno"}
 
 # Šetrná léčba vykloubeného ramene
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="rameno, kloub, úrazy, první pomoc, pohyb, strach"}
 

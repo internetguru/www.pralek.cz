@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859914044140958" data-type="article" data-image="/files/preview/koutek/ochlazeni_spaleniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2007-10-21" mtime="2015-08-04" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ochlazeni\_spaleniny" short="Ochlazení spáleniny"}
+{data-top="961" ctime="2007-10-21" mtime="2015-08-04" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ochlazeni\_spaleniny" short="Ochlazení spáleniny"}
 
 # Ochlazení jako první pomoc při spálenině
 

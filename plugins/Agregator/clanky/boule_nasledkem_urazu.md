@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859860544146308" data-type="article" data-image="/files/preview/koutek/boule\_nasledkem\_urazu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-09-27" mtime="2010-09-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="boule\_nasledkem_urazu" short="Boule následkem úrazu"}
+{data-top="989" ctime="2010-09-27" mtime="2010-09-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="boule\_nasledkem_urazu" short="Boule následkem úrazu"}
 
 # Boule vzniklé následkem úrazu
 

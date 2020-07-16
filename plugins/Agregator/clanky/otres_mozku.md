@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859922170806812" data-type="article" data-image="/files/preview/koutek/otres_mozku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-09-11" mtime="2008-09-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="otres\_mozku" short="Otřes mozku"}
+{data-top="980" ctime="2008-09-11" mtime="2008-09-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="otres\_mozku" short="Otřes mozku"}
 
 # Otřes mozku nebo jen pohmoždění hlavy
-
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="mozek-nervy, poruchy vědomí, nevolnost, zvracení, poranění, boule, úrazy"}
 
@@ -43,7 +41,7 @@ Je logické, že **poraněný nesmí nic jíst ani pít do vyšetření lékaře
 
 Pokud souvisí úraz hlavy s pitím alkoholu, rovněž je třeba se přiklonit k otřesu mozku. Rozlišení je velmi obtížné a poraněného opilce by měl vyšetřit odborný lékař.
 
-{id="porucha\_pameti"}
+{id="porucha_pameti"}
 
 ## Porucha paměti jako příznak otřesu mozku
 
@@ -51,7 +49,7 @@ Zapomenutí okolnosti úrazu hlavy svědčí pro otřes mozku. Někdy si zraněn
 
 Během cesty k lékaři je třeba **poraněnému zvolna a klidně opakovaně odpovídat a uklidňovat jej**. Poruchy paměti nebývají závažné, stav se většinou během 1 až 2 dnů vrací do normálu.
 
-{id="pohmozdeni\_hlavy"}
+{id="pohmozdeni_hlavy"}
 
 ## Pohmoždění hlavy bez doprovodných příznaků
 
@@ -61,7 +59,7 @@ Po tupém poranění hlavy [vznikne boule][5] – krevní výron. Zraněnému ud
 
 {class="important"}
 
-Bohužel může dojít k závažnému **[poranění mozku][6] i bez známek otřesu mozku**. Toto poranění se může projevit i s delším časovým odstupem.
+Bohužel může dojít k závažnému **[poranění mozku][6] i bez známek otřesu mozku** . Toto poranění se může projevit i s delším časovým odstupem. 
 
 {id="otazky" var="inputvar-otazky_h"}
 

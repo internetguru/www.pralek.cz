@@ -1,7 +1,7 @@
 
-{data-fbcommentid="1859924110806618" data-top="7" data-type="article" data-image="/files/preview/koutek/panaricium/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859924110806618" data-type="article" data-image="/files/preview/koutek/panaricium/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2012-05-18" mtime="2012-05-18" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="panaricium" short="Panaricium"}
+{data-top="998" ctime="2012-05-18" mtime="2012-05-18" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="panaricium" short="Panaricium"}
 
 # Nebezpečný zánět prstu ruky – panaricium
 

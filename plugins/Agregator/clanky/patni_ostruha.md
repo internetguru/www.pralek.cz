@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859924830806546" data-type="article" data-image="/files/preview/koutek/patni_ostruha/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-04-19" mtime="2011-04-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="patni\_ostruha" short="Patní ostruha"}
+{data-top="969" ctime="2011-04-19" mtime="2011-04-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="patni\_ostruha" short="Patní ostruha"}
 
 # Bolest paty: patní ostruha
 

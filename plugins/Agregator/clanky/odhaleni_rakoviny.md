@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859915080807521" data-type="article" data-image="/files/preview/koutek/odhaleni_rakoviny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2015-03-31" mtime="2015-03-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odhaleni\_rakoviny" short="Odhalení rakoviny"}
+{data-top="917" ctime="2015-03-31" mtime="2015-03-31" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odhaleni\_rakoviny" short="Odhalení rakoviny"}
 
 # Včasné odhalení rakoviny tlustého střeva a konečníku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="prevence, nádory, zhoubné, krvácení, břicho, neúrazové"}
 

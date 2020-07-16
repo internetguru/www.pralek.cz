@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859953800803649" data-type="article" data-image="/files/preview/koutek/urazy_deti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-08-11" mtime="2009-08-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="urazy\_deti" short="Úrazy malých dětí"}
+{data-top="940" ctime="2009-08-11" mtime="2009-08-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="urazy\_deti" short="Úrazy malých dětí"}
 
 # Časté úrazy malých dětí
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="poranění, úrazy, první pomoc, zlomeniny, prevence, dětské, pohyb"}
 

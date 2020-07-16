@@ -1,7 +1,7 @@
 
-{data-fbcommentid="1859898944142468" data-top="9" data-type="article" data-image="/files/preview/koutek/lymfaticke_uzliny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859898944142468" data-type="article" data-image="/files/preview/koutek/lymfaticke_uzliny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-01-20" mtime="2009-01-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lymfaticke\_uzliny" short="Lymfatické uzliny"}
+{data-top="996" ctime="2009-01-20" mtime="2009-01-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lymfaticke\_uzliny" short="Lymfatické uzliny"}
 
 # Zvětšené lymfatické uzliny
 

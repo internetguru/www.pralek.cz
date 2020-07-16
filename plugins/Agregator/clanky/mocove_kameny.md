@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859902647475431" data-type="article" data-image="/files/preview/koutek/mocove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-08-13" mtime="2008-08-13" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocove\_kameny" short="Močové kameny"}
+{data-top="926" ctime="2008-08-13" mtime="2008-08-13" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocove\_kameny" short="Močové kameny"}
 
 # Močové kameny a ledvinová kolika
 

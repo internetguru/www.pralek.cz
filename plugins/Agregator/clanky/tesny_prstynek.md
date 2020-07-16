@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859951530803876" data-type="article" data-image="/files/preview/koutek/tesny_prstynek/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2015-05-28" mtime="2015-05-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tesny\_prstynek" short="Těsný prstýnek"}
+{data-top="963" ctime="2015-05-28" mtime="2015-05-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tesny\_prstynek" short="Těsný prstýnek"}
 
 # Prstýnek na oteklém prstu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="cévy, úrazy, pohyb"}
 

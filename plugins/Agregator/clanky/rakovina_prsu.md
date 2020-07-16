@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859936690805360" data-type="article" data-image="/files/preview/koutek/rakovina_prsu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-07-25" mtime="2010-07-25" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_prsu" short="Rakovina prsu"}
+{data-top="918" ctime="2010-07-25" mtime="2010-07-25" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_prsu" short="Rakovina prsu"}
 
 # Rakovina prsu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="boulička, strach, žláza, nádory, zhoubné, uzliny, prevence"}
 

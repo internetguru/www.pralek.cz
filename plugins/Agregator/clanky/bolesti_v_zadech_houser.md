@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859857374146625" data-type="article" data-image="/files/preview/koutek/bolesti\_v\_zadech_houser/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-11-20" mtime="2008-11-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolesti\_v\_zadech\_houser" short="Bolesti v zádech"}
+{data-top="957" ctime="2008-11-20" mtime="2008-11-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolesti\_v\_zadech\_houser" short="Bolesti v zádech"}
 
 # Bolesti v zádech, houser
-
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="pohyb, rehabilitace, neúrazové, úrazy, prochlazení, prevence"}
 
@@ -121,3 +119,4 @@ n/a
  [5]: onemocneni_slach
  [6]: leky_proti_bolesti
  [7]: nalehavost_lekarskeho_vysetreni
+

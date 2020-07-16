@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859905524141810" data-type="article" data-image="/files/preview/koutek/nadmerne_dychani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2012-02-05" mtime="2012-02-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nadmerne\_dychani" short="Nadměrné dýchání"}
+{data-top="949" ctime="2012-02-05" mtime="2012-02-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nadmerne\_dychani" short="Nadměrné dýchání"}
 
 # Nadměrné dýchání – předýchávání
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="dýchání, strach, poruchy vědomí, první pomoc, srdce, nevolnost, kolaps, zvracení"}
 

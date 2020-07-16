@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859915990807430" data-type="article" data-image="/files/preview/koutek/odreniny\_neboli\_oderky/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2012-11-03" mtime="2012-11-03" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odreniny\_neboli_oderky" short="Odřeniny neboli oděrky"}
+{data-top="938" ctime="2012-11-03" mtime="2012-11-03" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="odreniny\_neboli_oderky" short="Odřeniny neboli oděrky"}
 
 # Odřeniny – proč je nutné mechanicky vyčistit oděrku
 

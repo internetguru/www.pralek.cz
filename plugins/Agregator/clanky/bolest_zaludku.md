@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859859510813078" data-type="article" data-image="/files/preview/koutek/bolest_zaludku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-05-30" mtime="2011-05-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_zaludku" short="Bolest žaludku"}
+{data-top="935" ctime="2011-05-30" mtime="2011-05-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_zaludku" short="Bolest žaludku"}
 
 # Žaludeční potíže: bolest žaludku
 

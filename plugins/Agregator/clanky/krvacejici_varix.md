@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859885004143862" data-type="article" data-image="/files/preview/koutek/krvacejici_varix/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2014-09-06" mtime="2014-09-06" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvacejici\_varix" short="Krvácející varix"}
+{data-top="976" ctime="2014-09-06" mtime="2014-09-06" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvacejici\_varix" short="Krvácející varix"}
 
 # Krvácení z křečové žíly dolní končetiny
-
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
 
 {kw="krvácení, cévy, první pomoc, kůže-podkoží, senioři, úrazy, neúrazové"}
 

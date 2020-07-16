@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859888217476874" data-type="article" data-image="/files/preview/koutek/kyla/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-01-08" mtime="2008-01-08" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="kyla" short="Kýla"}
+{data-top="950" ctime="2008-01-08" mtime="2008-01-08" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="kyla" short="Kýla"}
 
 # Kýla: boulička v třísle, v pupku nebo jeho okolí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="boulička, břicho, strach, zvracení, pohyb"}
 

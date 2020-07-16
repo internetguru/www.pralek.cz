@@ -1,7 +1,7 @@
 
-{data-fbcommentid="1859932350805794" data-top="5" data-type="article" data-image="/files/preview/koutek/poraneni_nehtu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859932350805794" data-type="article" data-image="/files/preview/koutek/poraneni_nehtu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-11-30" mtime="2011-11-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu"}
+{data-top="997" ctime="2011-11-30" mtime="2011-11-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu"}
 
 # Poranění nehtu
 

@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859947917470904" data-type="article" data-image="/files/preview/koutek/stravovaci_navyky/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-09-01" mtime="2009-09-01" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="stravovaci\_navyky" short="Stravovací návyky"}
+{data-top="936" ctime="2009-09-01" mtime="2009-09-01" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="stravovaci\_navyky" short="Stravovací návyky"}
 
 # Stravovací návyky a trávicí systém
 

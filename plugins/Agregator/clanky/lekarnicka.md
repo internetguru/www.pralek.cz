@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859890900809939" data-type="article" data-image="/files/preview/koutek/lekarnicka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2015-08-13" mtime="2015-08-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Lékárnička" id="lekarnicka"}
+{data-top="932" ctime="2015-08-13" mtime="2015-08-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Lékárnička" id="lekarnicka"}
 
 # Obsah domácí lékárničky
 

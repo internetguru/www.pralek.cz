@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859953017470394" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/toceni_hlavy/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{ctime="2020-01-20" mtime="2020-01-20" id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy"}
+{data-top="965" ctime="2020-01-20" mtime="2020-01-20" id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy"}
 
 # Proč se točí hlava
 
