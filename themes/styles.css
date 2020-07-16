@@ -1236,6 +1236,12 @@ body .definition__close:hover {
   background: #EF5350;
   color: white;
 }
+.definition__cont .desc {
+  height: 100%;
+}
+.definition__cont .desc .expand-button {
+  display: none !important;
+}
 /************************************/
 li {
   margin-top: 0.15em;
