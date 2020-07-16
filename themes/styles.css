@@ -828,7 +828,7 @@ body:not(.agregator) .hdesc--top label {
 .hdesc--top .meta {
   margin-top: 0;
   font-size: 1.2em;
-  max-width: 30em;
+  max-width: 32em;
   /* overflow: hidden; */
   /* height: 2.2em; */
   margin: 0 auto;
