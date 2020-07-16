@@ -4,7 +4,7 @@
   <var modifyonly="modifyonly" id="creation"><a href="" var="authorid@href author">n/a</a> na téma úrazy a nemoci, <span var="ctime" fn="inputvar-dateformat">n/a</span></var>
   <var modifyonly="modifyonly" id="modified">Tento článek byl revidován <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
   
-  <doclist id="stitek" path="clanky" filter-name="top">
+  <doclist id="stitek" path="clanky" filter-name="top" limit="30">
     <dl class="clanek card card--shadow card--image col--3" var="doclist-new@class">
       <dt><a title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=image"><img var="image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
