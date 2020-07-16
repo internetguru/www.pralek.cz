@@ -61,7 +61,7 @@ n/a
 {class="otazky"}
 
   1. Jaká je příčina zarůstání nehtu?
-  2. Proč zarůstající nehet časem může přestat bolet?
+  2. Na čem závisí bolestivost zarůstajícího nehtu?
   3. Proč jsou vhodné v počátku onemocnění koupele v dezinfekčním roztoku a později koupele v hojivém roztoku?
   4. Může po zdařilé plastice opět zarůstat nehet?
 
