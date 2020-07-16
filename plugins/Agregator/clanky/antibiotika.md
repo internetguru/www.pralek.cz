@@ -23,7 +23,7 @@ S objevem penicilínu jako prvního známého antibiotika nastala **éra vzájem
 
 Část bakterií se však dokáže adaptovat a pomnožit se v pro ně jedovatém penicilínovém prostředí. Tuto odolnost uloží do své genetické informace a **potomci těchto bakterií budou navždy proti tomuto typu penicilínu odolní** (rezistentní).
 
-Chorobu způsobenou takto adaptovaným druhem bakterií již nelze léčit stejným penicilínem. Může jít o téže zánětlivou nemoc nebo o zcela jinou jako je [angína][4], zápal plic, [zánět ledvin][7], [infekce močových cest][8], gynekologický zánět. Proto byl vyvinut jiný typ penicilínu, proti kterému se tento adaptovaný druh bakterií neuměl bránit.
+Chorobu způsobenou takto adaptovaným druhem bakterií již nelze léčit stejným penicilínem. Může jít o tutéž zánětlivou nemoc nebo o zcela jinou jako je [angína][4], zápal plic, [zánět ledvin][7], [infekce močových cest][8], gynekologický zánět. Proto byl vyvinut jiný typ penicilínu, proti kterému se tento adaptovaný druh bakterií neuměl bránit.
 
 Po zlikvidování celé kolonie bakterií nakonec vždy přežije několik takových, kterým se mutací obrana vydařila. Jejich pomnožením vznikají **nové kmeny bakterií odolné vůči novému typu penicilínu**. Následně byla objevena nová antibiotika, která nové bakterie přímo hubí. Tak vznikají další a další generace nových bakterií.
 
