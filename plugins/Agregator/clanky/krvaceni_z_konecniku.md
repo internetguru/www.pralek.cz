@@ -66,9 +66,9 @@ n/a
 {class="otazky"}
 
   1. Jaké jsou možnosti léčení hemoroidů?
-  2. Co je bolestivý hemoroid (boulička)?
+  2. Jak vzniká bolestivý hemoroid (bolestivá boulička)?
   3. Jak náročné je vyšetření konečníku?
-  4. Co zhorší potíže s hemoroidy?
+  4. Jaké jsou příčiny podráždění hemoroidů?
   5. Jak lze odlišit hemoroidy od rakoviny konečníku?
 
 {var="inputvar-feedback_h" id="dotace"}
