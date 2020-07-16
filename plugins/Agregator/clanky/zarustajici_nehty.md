@@ -5,8 +5,6 @@
 
 # Zarůstající nehty na palcích dolních končetin
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
-
 {kw="nehet, hygiena, zánět, prevence, teplota, mikroorganizmy, pohyb"}
 
 Zarůstání nehtů je časté bolestivé onemocnění vzniklé špatným zastřižením nehtu. Řešením je odstranění zánětu a jeho prevence. K úplnému zhojení dojde až tehdy, když špatně zastřižený nehet doroste na správné místo.
