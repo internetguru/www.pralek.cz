@@ -7,7 +7,7 @@
 
 {kw="mozek-nervy, poruchy vědomí, nevolnost, zvracení, poranění, boule, úrazy"}
 
-Pohmoždění hlavy jako takové lékařské vyšetření nevyžaduje. Po takovém poranění **je potřeba rozlišit, zda se jedná jen o pohmoždění hlavy nebo o otřes mozku**, a jak se ve kterém případě zachovat. Níže vyjmenované příznaky otřesu mozku lékařskému vyšetření vyžadují.
+Pohmoždění hlavy jako takové lékařské vyšetření nevyžaduje. Po takovém poranění **je potřeba rozlišit, zda se jedná jen o pohmoždění hlavy nebo o otřes mozku**, a jak se ve kterém případě zachovat. Veškeré následující příznaky svědčí o otřesu mozku a vyžadují lékařské vyšetření.
 
 {class="example"}
 
