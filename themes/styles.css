@@ -1183,24 +1183,24 @@ li.important, li.example {
   justify-content: left;
 }
 /************************************/
-#content a.definition {
+body a.definition {
   border-bottom: medium dotted rgba(var(--link-color), 0.5) !important;
   background: none;
   transition: all var(--button-transition);
 }
-#content .definition__cont .clanek {
+body .definition__cont .clanek {
   box-shadow: var(--shadow-2);
   display: flex !important;
   margin-top: 0;
 }
-#content .definition__cont {
+body .definition__cont {
   position: absolute;
   width: max-content;
   z-index: 1;
   margin: 0.5em 0;
   max-width: 100%;
 }
-#content .definition--desc {
+body .definition--desc {
   padding: 1.75rem 1rem 1rem 1rem;
   font-size: 1rem;
   margin: 0;
@@ -1209,7 +1209,7 @@ li.important, li.example {
   box-shadow: var(--shadow-2);
   background: white;
 }
-#content .definition__close {
+body .definition__close {
   font-size: 2em;
   display: flex;
   border-radius: 100%;
@@ -1223,7 +1223,7 @@ li.important, li.example {
   align-items: center;
   padding-right: 0.075em;
 }
-#content .definition__close:hover {
+body .definition__close:hover {
   background: #EF5350;
   color: white;
 }
