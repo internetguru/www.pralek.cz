@@ -1475,6 +1475,12 @@ body .scrolltopable span {
   max-width: 100%;
 
 }
+body[data-link="/o_praleku"] .hdesc--top + div > *,
+body[data-link="/o_praleku"] .part > * {
+  max-width: var(--global-max-width);
+  margin-left: auto;
+  margin-right: auto;
+}
 /************************************/
 @media print {
   @page {
