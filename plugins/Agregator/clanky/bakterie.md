@@ -3,7 +3,7 @@
 
 {ctime="2008-06-16" mtime="2020-06-16" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="bakterie" short="Bakterie"}
 
-# Bakterie jako pomocníci a nepřítelé člověka
+# Bakterie jako pomocník a nepřítel člověka
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-07-16, do not edit -->
 
