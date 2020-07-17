@@ -11,7 +11,7 @@ require("IGCMS.Moreable", function () {
   })
   IGCMS.Moreable.init({
     parent: ".meta > span",
-    moreText: "...",
+    moreText: "Další",
     leftText: "",
     displayStep: 4
   })

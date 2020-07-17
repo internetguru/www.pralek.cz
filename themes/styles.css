@@ -547,22 +547,27 @@ dt label.button {
 .meta .moreable-linkwrapper {
   display: inline;
   width: auto;
+  padding: 0;
 }
 .meta .moreable-linkwrapper span {
   display: none;
 }
 .meta .moreable-linkwrapper .button {
-  padding: 1.25rem 0rem 1.65rem 0rem;
-  min-width: 3rem;
-  font-size: 1em;
-  font-weight: 700;
+  /* padding: 1.25rem 0rem 1.65rem 0rem; */
+  /* min-width: 3rem; */
+  /* font-size: 1em; */
+  /* font-weight: 700; */
   --button--simple-bg: whitesmoke;
-  border-radius: 100%;
-  width: 2.5em;
-  height: 1.5em;
-  color: #616161;
-  justify-content: center;
-  align-items: center;
+  /* border-radius: 100%; */
+  /* width: 2.5em; */
+  /* height: 1.5em; */
+  /* color: #616161; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  min-width: auto;
+  /* --button--simple-bg: #F5F5F5; */
+  /* --button--simple-active-bg: #009688; */
+  margin-top: 1em;
 }
 /************************************/
 .hdesc.o_praleku + div,
