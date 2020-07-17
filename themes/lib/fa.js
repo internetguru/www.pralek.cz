@@ -31,11 +31,11 @@ FontAwesomeConfig = {
         '<span data-fa-symbol="' + name + '" class="' + iconsCache[name] + '">'
       )
     }
+    */
     
     var script = document.createElement("script")
     script.type = "text/javascript"
     script.src = "/themes/lib/all.min.1.js"
     document.head.appendChild(script)
-    */
   })})
 })()
