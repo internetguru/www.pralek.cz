@@ -13,23 +13,7 @@
       <dd class="desc" var="desc">n/a</dd>
       <dd class="extra"><ul class="button-list">
         <li>
-          <a class="button button--simple button--simple" title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=button">Přečíst</a></li>
-        <li>
-          <a class="button button--simple button--img button--img-only" var="fbcommentid@href inputvar-fbcomment-title@title" href="https://www.facebook.com/pralek/posts/%s" ><span class="fas fa-fw fa-comment">i</span></a>
-        </li>
-         <li>
-          <a class="button button--simple button--img button--img-only" var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/%s" onclick="return !window.open(this.href, 'Google', 'width=750,height=500')"><span class="fab fa-fw fa-facebook-square">i</span></a>
-        </li>
-        <li>
-          <a class="button button--simple button--img button--img-only" var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.hostovka.cz/%s" onclick="return !window.open(this.href, 'Google', 'width=750,height=500')"><span class="fab fa-fw fa-twitter">i</span></a>
-        </li>
-        <li>
-          <span class="hideable hideable-hidden">
-            <span var="link@data-eventable-label" class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-link">i</span></span>
-            <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
-          </span>
-        </li>
-
+          <a class="button button--simple button--simple" title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=button">Přečíst</a></li>        
       </ul></dd>
       <dd class="print"><span var="heading">n/a</span>, /<span var="link">n/a</span></dd>
     </dl>
