@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859944810804548" data-type="article" data-image="/files/preview/koutek/slepak/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-12-13" mtime="2009-12-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="slepak" short="Slepák"}
+{data-top="941" ctime="2009-12-13" mtime="2009-12-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="slepak" short="Slepák"}
 
 # Slepák: zánět červovitého přívěsku slepého střeva
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="břicho, střevo, zánět, zvracení, teplota"}
 
@@ -117,6 +117,6 @@ n/a
  [5]: mytus_o_rakovine
  [6]: teplota
  [7]: lecba_zanetu
- [8]: mikroorganizmy
+ [8]: bakterie
  [9]: mocove_kameny
 

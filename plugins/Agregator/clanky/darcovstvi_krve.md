@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859868574145505" data-type="article" data-image="/files/preview/koutek/darcovstvi_krve/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-05-25" mtime="2009-05-25" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="darcovstvi\_krve" short="Dárcovství krve"}
+{data-top="921" ctime="2009-05-25" mtime="2009-05-25" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="darcovstvi\_krve" short="Dárcovství krve"}
 
 # Dárcovství krve, krevní plazmy a kostní dřeně
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="krev, strava-zažívání, strach, nevolnost, poruchy vědomí, kolaps, zhoubné, hygiena, dětské"}
 

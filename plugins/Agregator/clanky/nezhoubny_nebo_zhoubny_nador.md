@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859912164141146" data-type="article" data-image="/files/preview/koutek/nezhoubny\_nebo\_zhoubny_nador/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-05-23" mtime="2010-05-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubny\_nebo\_zhoubny\_nador" short="Nezhoubný nebo zhoubný nádor"}
+{data-top="982" ctime="2010-05-23" mtime="2010-05-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubny\_nebo\_zhoubny\_nador" short="Nezhoubný nebo zhoubný nádor"}
 
 # Nezhoubný nebo zhoubný nádor: obecné srovnání
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="nádory, boulička, strach, nezhoubné, zhoubné"}
 

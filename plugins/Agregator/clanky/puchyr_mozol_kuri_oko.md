@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859935877472108" data-type="article" data-image="/files/preview/koutek/puchyr\_mozol\_kuri_oko/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-08-19" mtime="2010-08-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="puchyr\_mozol\_kuri\_oko" short="Puchýř, mozol, kuří oko"}
+{data-top="967" ctime="2010-08-19" mtime="2010-08-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="puchyr\_mozol\_kuri\_oko" short="Puchýř, mozol, kuří oko"}
 
 # Puchýř, mozol, kuří oko: jak správně ošetřovat
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="kůže-podkoží, úrazy, neúrazové, zánět, poranění, cukrovka"}
 
@@ -112,7 +112,7 @@ n/a
  [2]: lymfaticke_uzliny
  [3]: pady_z_kola
  [4]: ochlazeni_spaleniny
- [5]: mikroorganizmy
+ [5]: bakterie
  [6]: lecba_zanetu
  [7]: zanet
  [8]: drobna_krvava_poraneni

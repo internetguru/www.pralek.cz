@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859961224136240" data-type="article" data-image="/files/preview/koutek/zlomeniny_kosti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-10-22" mtime="2009-10-22" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlomeniny\_kosti" short="Zlomeniny kostí"}
+{data-top="939" ctime="2009-10-22" mtime="2009-10-22" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlomeniny\_kosti" short="Zlomeniny kostí"}
 
 # Zlomeniny kostí
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="zlomeniny, úrazy, poranění, krvácení, pohyb, rehabilitace"}
 

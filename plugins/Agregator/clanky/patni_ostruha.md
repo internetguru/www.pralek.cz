@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859924830806546" data-type="article" data-image="/files/preview/koutek/patni_ostruha/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-04-19" mtime="2011-04-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="patni\_ostruha" short="Patní ostruha"}
+{data-top="969" ctime="2011-04-19" mtime="2011-04-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="patni\_ostruha" short="Patní ostruha"}
 
 # Bolest paty: patní ostruha
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="zánět, neúrazové, pohyb, prevence, teplota, úrazy"}
 
@@ -110,7 +110,7 @@ n/a
  [1]: vhodna_obuv
  [2]: onemocneni_slach
  [3]: leky_proti_bolesti
- [4]: mikroorganizmy
+ [4]: bakterie
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: lekove_formy
  [7]: zanet

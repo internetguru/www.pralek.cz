@@ -3,48 +3,56 @@
 
 {ctime="2008-06-01" mtime="2008-06-01" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita"}
 
-# Imunita: obranyschopnost organizmu
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+# Obranyschopnost organizmu
 
 {kw="zdravý životní styl, prevence, alergie, mikroorganizmy, antibiotika, dětské, zánět"}
 
-Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imunita mění, lze ji podpořit zdravým způsobem života nebo naopak oslabit nadměrným užíváním léků.
+Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imunita mění. Lze ji podpořit [zdravým způsobem života][1] nebo naopak oslabit [nadměrným užíváním léků, zejména antibiotik][2].
 
-Stupně nastavení imunitního systému
+{id="stupne_nastaveni"}
 
-  1. **Správně fungující imunitní systém** dokáže rozpoznat a označit drobného cizího nepřítele v lidském těle (nejčastěji [viry nebo bakterie][1]). Vetřelec je po označení rychle zlikvidován speciálními bílými krvinkami.
-  2. Snížená imunita vede k tomu, že nepřítel není rozpoznán a bílé krvinky ho ignorují. Nepoznané cizí bakterie se snadno pomnoží a vzniká **zánětlivé onemocnění**, které je nutno léčit antibiotiky.
-  3. Nadměrná imunitní aktivita naopak může označovat za nepřítele i takové látky v těle, které ve skutečnosti nepřítelem nejsou (např. pylová zrnka, prach, částečky kovu nebo různé léky). Pak se jedná o **alergii** na tu kterou látku, dnes již bohužel často i o [alergie][2] smíšené.
-  4. Může dokonce být imunitním systémem označena za nepřítele i některá tělu vlastní bílkovina a proti ní se tvoří protilátky. Pak se jedná o závažné tzv. **autoimunní onemocnění.**
-
-{id="co\_delat\_pro\_spravne\_fungujici\_imunitni\_system"}
-
-## Co dělat pro správně fungující imunitní systém
+## Stupně nastavení imunitního systému
 
 n/a
 
-Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedinec, který má řádně vyvinutý imunitní (obranný) systém, je tedy odolný vůči [nakažlivým nemocem][3] i vůči [prochlazení][4], vyroste tehdy,
+Správně fungující imunitní systém
+:   Dokáže rozpoznat a označit drobného cizího nepřítele v lidském těle, nejčastěji [viry][3] nebo [bakterie][4].
+:   Vetřelec je po označení rychle zlikvidován speciálními bílými krvinkami.
 
-  * narodí-li se přirozenou cestou (blízkost porodních cest a konečníku je již při porodu prvním setkáním [s dávkou bakterií][3]),
-  * je-li kojen, dostává další obranné látky od matky spolu s mateřským mlékem,
-  * k obranným látkám, kterými byl vybaven již při porodu a vydrží mu asi 6 týdnů si záhy začíná vytvářet svoje vlastní,
-  * následně si batole strká do pusy vše co vidí, mnohdy i věci nám zcela nepochopitelné, jde o pudové chování, smyslem je časně si zmapovat okolní bakterie a záhy tvořit imunitu,
-  * výhodou je blízkost domácích zvířat, návštěva chléva, pobyt na venkovském dvoře, pohladit zvíře pod dohledem opatrovníka je správné.
+Snížená imunita
+:   Vede k tomu, že nepřítel není rozpoznán a bílé krvinky ho ignorují.
+:   Nepoznané cizí bakterie se snadno pomnoží a vzniká [zánětlivé onemocnění, které je nutno léčit antibiotiky][5].
 
-Skleníkové prostředí bez přítomnosti bakterií není pro zdárný vývoj dítěte správné, opačný extrém však jistě rovněž ne. Bohužel domácí mazlíček často olizuje majiteli (nebo i dítěti!) obličej. Na čenichu a v tlamě psa a kočky žijí zcela odlišené a **pro člověka nepřijatelné bakteriální kmeny**.
+Nadměrná imunitní aktivita
+:   Naopak může označovat za nepřítele i takové látky v těle, které ve skutečnosti nepřítelem nejsou (např. pylová zrnka, prach, částečky kovu nebo různé léky).
+:   Jedná se pak o [alergii][6] na tu kterou látku, dnes již bohužel často i o alergie smíšené.
+
+Autoimunitní onemocnění
+:   Imunitním systémem může dokonce být označena za nepřítele i některá tělu vlastní bílkovina a proti ní se tvoří protilátky.
+:   Jedná se pak o závažné **autoimunitní onemocnění.**
+
+{id="spravne\_fungujici\_imunitni_system"}
+
+## Co dělat pro správně fungující imunitní systém
+
+Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedinec, který má řádně vyvinutý imunitní (obranný) systém, je odolný vůči [nakažlivým nemocem][4] i vůči [prochlazení][7].
+
+Faktory podporující správně fungující imunitní systém jsou následující:
+
+  * Porod přirozenou cestou v blízkosti porodních cest a konečníku je již při porodu prvním setkáním [s dávkou bakterií][4].
+  * Kojením dostává organizmus spolu s mateřským mlékem další obranné látky od matky.
+  * Batole si strká do pusy vše co vidí, mnohdy i věci nám zcela nepochopitelné. Jde o pudové chování, jehož smyslem je časně si zmapovat okolní bakterie a záhy tvořit imunitu.
+  * Výhodou je blízkost domácích zvířat, návštěva chléva, pobyt na venkovském dvoře. Prospěšné je pohlazení zvířete (pod dohledem opatrovníka).
+
+Skleníkové prostředí bez přítomnosti bakterií není pro zdárný vývoj imunity jedince prospěšné. Opačný extrém je také nevhodný, například nechat olizovat obličej svůj či dítěte (!) domácím mazlíčkem. Na čenichu a v tlamě psa a kočky žijí zcela odlišené a **pro člověka nepřijatelné [bakteriální kmeny][4]** . 
 
 {id="imunitni\_system\_a_antibiotika"}
 
 ## Imunitní systém a antibiotika
 
-n/a
+Opakované a nadměrné užívání [antibiotik][2] vede k oslabení imunitního systému. Choroboplodné zárodky jsou pomocí antibiotik zlikvidovány dříve, nežli se proti nim vytvoří dostatečně kvalitní imunita.
 
-{class="important"}
-
-Opakované a nadměrné užívání antibiotik vede k oslabení imunitního systému. Choroboplodné zárodky jsou pomocí antibiotik zlikvidovány dříve, nežli se proti nim vytvoří dostatečně kvalitní imunita.
-
-Při opakovaném setkání se stejným mikrobem může tedy dojít k opakovanému onemocnění. Nyní již však má tento mikrob patrně vytvořenou resistenci vůči tomu [antibiotiku][1], kterým byl pacient posledně léčen. Pro zvládnutí klinicky stejné choroby je nutné nasadit odlišné antibiotikum.
+Při opakovaném setkání se stejným mikrobem může dojít k opakovanému onemocnění. Nyní však již má tento mikrob patrně vytvořenou [rezistenci vůči antibiotiku][2], kterým byl pacient posledně léčen. Pro zvládnutí klinicky stejné choroby je nutné nasadit odlišné antibiotikum.
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -85,8 +93,11 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: antibiotika
- [2]: projevy_alergie
- [3]: mikroorganizmy
- [4]: teplota
+ [1]: stravovaci_navyky
+ [2]: antibiotika
+ [3]: chripka
+ [4]: bakterie
+ [5]: lecba_zanetu
+ [6]: projevy_alergie
+ [7]: teplota
 

@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859959790803050" data-type="article" data-image="/files/preview/koutek/zarustajici_nehty/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-04-19" mtime="2009-04-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zarustajici\_nehty" short="Zarůstající nehty"}
+{data-top="985" ctime="2009-04-19" mtime="2009-04-19" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zarustajici\_nehty" short="Zarůstající nehty"}
 
 # Zarůstající nehty na palcích dolních končetin
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
 {kw="nehet, hygiena, zánět, prevence, teplota, mikroorganizmy, pohyb"}
 
@@ -61,7 +59,7 @@ n/a
 {class="otazky"}
 
   1. Jaká je příčina zarůstání nehtu?
-  2. Proč zarůstající nehet časem může přestat bolet?
+  2. Na čem závisí bolestivost zarůstajícího nehtu?
   3. Proč jsou vhodné v počátku onemocnění koupele v dezinfekčním roztoku a později koupele v hojivém roztoku?
   4. Může po zdařilé plastice opět zarůstat nehet?
 
@@ -89,7 +87,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: mikroorganizmy
+ [1]: bakterie
  [2]: lecba_zanetu
  [3]: zanet
  [4]: teplota

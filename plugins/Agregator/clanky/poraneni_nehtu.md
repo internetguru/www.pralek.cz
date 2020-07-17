@@ -1,11 +1,11 @@
 
-{data-fbcommentid="1859932350805794" data-top="5" data-type="article" data-image="/files/preview/koutek/poraneni_nehtu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859932350805794" data-type="article" data-image="/files/preview/koutek/poraneni_nehtu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-11-30" mtime="2011-11-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu"}
+{data-top="997" ctime="2011-11-30" mtime="2011-11-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu"}
 
 # Poranění nehtu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="nehet, úrazy, strach, krvácení, zánět, zlomeniny"}
 
@@ -119,7 +119,7 @@ n/a
 
  [1]: plisne_kuze
  [2]: zarustajici_nehty
- [3]: mikroorganizmy
+ [3]: bakterie
  [4]: zanet
  [5]: bolest_v_krku_angina
  [6]: nalehavost_lekarskeho_vysetreni

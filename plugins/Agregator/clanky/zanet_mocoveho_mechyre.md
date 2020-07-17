@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859958557469840" data-type="article" data-image="/files/preview/koutek/zanet\_mocoveho\_mechyre/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-01-27" mtime="2010-01-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_mocoveho_mechyre" short="Zánět močového měchýře"}
+{data-top="945" ctime="2010-01-27" mtime="2010-01-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zanet\_mocoveho_mechyre" short="Zánět močového měchýře"}
 
 # Zánět močového měchýře žen
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="močová soustava, zánět, prochlazení, břicho, pocení, neúrazové, prevence, krvácení"}
 
@@ -96,7 +96,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: mikroorganizmy
+ [1]: bakterie
  [2]: teplota
  [3]: zanet
  [4]: prijem_tekutin

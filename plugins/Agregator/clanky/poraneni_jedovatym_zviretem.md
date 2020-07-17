@@ -29,7 +29,7 @@ Má-li člověk zkušenost a reakci na bodnutí (otok) má minimální, **není 
 
 Lidem trpícím značnou reakcí na bodnutí hmyzem je potřeba [neprodleně zavolat záchranku][2]. [Alergici u sebe mívají][4] injekci s vhodným lékem, kterou si v takovém případě [svépomocí aplikují][5].
 
-Zvláštní kapitolou je **poranění drobným hmyzem** (mouchou či muškou), který není jedovatý a nemá žihadlo. Může však kousnutím do kůže [zanést infekci][6]. Takový kousanec zprvu pouze svědí, ale po několika dnech se projeví místním [rozvojem zánětu][7].
+Zvláštní kapitolou je **poranění drobným hmyzem** (muchničkou či jinou muškou), který není jedovatý a nemá žihadlo. Může však kousnutím do kůže [zanést infekci][6]. Takový kousanec zprvu pouze svědí, ale po několika dnech se projeví místním [rozvojem zánětu][7].
 
 {id="ustknuti\_zmiji\_obecnou"}
 
@@ -93,7 +93,7 @@ n/a
  [3]: ryma_a_smrkani
  [4]: lekarnicka
  [5]: pichnuti_injekce
- [6]: mikroorganizmy
+ [6]: bakterie
  [7]: lecba_zanetu
  [8]: nalehavost_lekarskeho_vysetreni
 

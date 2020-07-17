@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859883900810639" data-type="article" data-image="/files/preview/koutek/krevni_tlak/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-03-27" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krevni\_tlak" short="Krevní tlak"}
+{data-top="979" ctime="2008-03-27" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krevni\_tlak" short="Krevní tlak"}
 
 # Měření a vyhodnocení krevního tlaku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="srdce, cévy, prevence, zdravý životní styl, tlakoměr, točení hlavy"}
 

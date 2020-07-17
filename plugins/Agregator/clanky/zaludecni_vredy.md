@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859956097470086" data-type="article" data-image="/files/preview/koutek/zaludecni_vredy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-07-20" mtime="2011-07-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zaludecni\_vredy" short="Žaludeční vředy"}
+{data-top="937" ctime="2011-07-20" mtime="2011-07-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zaludecni\_vredy" short="Žaludeční vředy"}
 
 # Žaludeční a dvanáctníkový vřed
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="žaludek, zvracení, strava-zažívání, břicho, prevence, mikroorganizmy"}
 
@@ -96,7 +96,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: mikroorganizmy
+ [1]: bakterie
  [2]: stravovaci_navyky
  [3]: tlak_zaludku
  [4]: funkcni_poruchy_traveni

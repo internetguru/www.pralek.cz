@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859873800811649" data-type="article" data-image="/files/preview/koutek/funkcni\_poruchy\_traveni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-09-10" mtime="2009-09-10" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="funkcni\_poruchy_traveni" short="Funkční poruchy trávení"}
+{data-top="968" ctime="2009-09-10" mtime="2009-09-10" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="funkcni\_poruchy_traveni" short="Funkční poruchy trávení"}
 
 # Funkční poruchy trávení: zvracení, průjem, škytání, větry
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
 {kw="zvracení, nevolnost, žaludek, strava-zažívání, jed, zdravý životní styl, břicho"}
 
@@ -115,7 +113,7 @@ n/a
  [4]: lekove_formy
  [5]: slepak
  [6]: poraneni_sleziny
- [7]: iktus
+ [7]: mrtvice
  [8]: subduralni_hematom
  [9]: otres_mozku
  [10]: strevni_nepruchodnost

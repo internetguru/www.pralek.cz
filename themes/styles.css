@@ -112,7 +112,10 @@ h1 {
   margin-right: 0.75rem;
 }
 .part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list > ul:not(.button-list) > li:before {
-  content: "●";
+  content: "•";
+  font-size: 2.5em;
+  line-height: 0;
+  vertical-align: -0.5rem;
 }
 .important,
 .example,
@@ -136,7 +139,7 @@ h1 {
 .part.odkazy .hdesc + .list.list-wrapper--single,
 .part.odkazy .list.list-wrapper--multiple,
 .part.clanky .list.list-wrapper--multiple {
-  --global-max-width: 81rem;
+  --global-max-width: 82rem;
   --list-multiple-item-margin: 1rem;
   padding-left: 0;
   padding-right: 0;
@@ -202,9 +205,15 @@ h1 {
   font-size: 1.25em;
 }
 .hdesc--top .list-wrapper--multiple li:before {
-  content: "●";
-  margin-right: 0.5em;
+  content: "•";
+  margin-right: 0.5rem;
   color: #26A69A;
+  font-size: 2.5em;
+  line-height: 0;
+  /* width: 1rem; */
+  /* height: 1rem; */
+  display: inline-flex;
+  vertical-align: -0.7rem;
 }
 .hdesc--top .list-wrapper--multiple .share,
 .hdesc--top .list-wrapper--multiple .social {
@@ -819,7 +828,7 @@ body:not(.agregator) .hdesc--top label {
 .hdesc--top .meta {
   margin-top: 0;
   font-size: 1.2em;
-  max-width: 30em;
+  max-width: 33em;
   /* overflow: hidden; */
   /* height: 2.2em; */
   margin: 0 auto;
@@ -1183,24 +1192,24 @@ li.important, li.example {
   justify-content: left;
 }
 /************************************/
-#content a.definition {
+body a.definition {
   border-bottom: medium dotted rgba(var(--link-color), 0.5) !important;
   background: none;
   transition: all var(--button-transition);
 }
-#content .definition__cont .clanek {
+body .definition__cont .clanek {
   box-shadow: var(--shadow-2);
   display: flex !important;
   margin-top: 0;
 }
-#content .definition__cont {
+body .definition__cont {
   position: absolute;
   width: max-content;
   z-index: 1;
   margin: 0.5em 0;
   max-width: 100%;
 }
-#content .definition--desc {
+body .definition--desc {
   padding: 1.75rem 1rem 1rem 1rem;
   font-size: 1rem;
   margin: 0;
@@ -1209,7 +1218,7 @@ li.important, li.example {
   box-shadow: var(--shadow-2);
   background: white;
 }
-#content .definition__close {
+body .definition__close {
   font-size: 2em;
   display: flex;
   border-radius: 100%;
@@ -1223,9 +1232,15 @@ li.important, li.example {
   align-items: center;
   padding-right: 0.075em;
 }
-#content .definition__close:hover {
+body .definition__close:hover {
   background: #EF5350;
   color: white;
+}
+.definition__cont .desc {
+  height: 100%;
+}
+.definition__cont .desc .expand-button {
+  display: none !important;
 }
 /************************************/
 li {
@@ -1299,6 +1314,9 @@ li {
 ol.otazky span {
   display: block;
   margin: 0.5em 0 0.75em;
+}
+ol.otazky li:last-child:before {
+  content: "" !important;
 }
 .feedback-yes,
 ol.otazky button:first-child {
@@ -1457,6 +1475,31 @@ dl.clanek.doclist-new > dt:first-child:after {
   left: 1rem;
  }
 /***************************/
+.fa-symbol {
+  width: 1em;
+  height: 1em;
+  vertical-align: -.125em;
+}
+body .scrolltopable span {
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -0.1em;
+}
+.agregator .figure {
+  width: 50em;
+  max-width: 100%;
+
+}
+body[data-link="/o_praleku"] .hdesc--top + div > *,
+body[data-link="/o_praleku"] .part > * {
+  max-width: var(--global-max-width);
+  margin-left: auto;
+  margin-right: auto;
+}
+/************************************/
 @media print {
   @page {
     size: auto;
@@ -1566,19 +1609,5 @@ dl.clanek.doclist-new > dt:first-child:after {
   .docinfo.social a.twitter svg {
     color: black !important;
   }
-}
-/************************************/
-.fa-symbol {
-  width: 1em;
-  height: 1em;
-  vertical-align: -.125em;
-}
-body .scrolltopable span {
-  font-size: 2rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: relative;
-  top: -0.1em;
 }
 /************************************/

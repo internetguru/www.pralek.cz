@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859892824143080" data-type="article" data-image="/files/preview/koutek/leky\_proti\_bolesti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-03-28" mtime="2010-03-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="leky\_proti_bolesti" short="Léky proti bolesti"}
+{data-top="964" ctime="2010-03-28" mtime="2010-03-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="leky\_proti_bolesti" short="Léky proti bolesti"}
 
 # Léky proti bolesti neboli analgetika
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="neúrazové, prevence, úrazy, pohyb, břicho"}
 

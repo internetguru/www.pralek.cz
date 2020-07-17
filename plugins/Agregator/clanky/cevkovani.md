@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859864120812617" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/cevkovani/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{ctime="2019-10-17" mtime="2019-10-17" id="cevkovani" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Cévkování"}
+{data-top="971" ctime="2019-10-17" mtime="2019-10-17" id="cevkovani" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Cévkování"}
 
 # Cévkování močového měchýře
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="močová soustava, retence moči, nádory, nezhoubné, strach, katetrizace"}
 
@@ -102,6 +102,6 @@ n/a
  [1]: prostata
  [2]: zanet_mocoveho_mechyre
  [3]: penis-fimoza-obrizka
- [4]: mikroorganizmy
+ [4]: bakterie
  [5]: lecba_zanetu
 

@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859910350807994" data-type="article" data-image="/files/preview/koutek/nevolnost_zvraceni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2019-11-14" mtime="2019-11-14" id="nevolnost\_zvraceni" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Nevolnost a zvracení"}
+{data-top="916" ctime="2019-11-14" mtime="2019-11-14" id="nevolnost\_zvraceni" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Nevolnost a zvracení"}
 
 # Jak postupovat při nevolnosti a zvracení
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
 {kw="nevolnost, zvracení, průjem, jed, pocení, žlučník, mikroorganizmy, tekutiny"}
 
@@ -140,7 +138,7 @@ n/a
  [7]: slepak
  [8]: strevni_nepruchodnost
  [9]: kyla
- [10]: iktus
+ [10]: mrtvice
  [11]: subduralni_hematom
  [12]: otres_mozku
 

@@ -5,8 +5,6 @@
 
 # Rychlá lékařská pomoc
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
-
 {kw="poruchy vědomí, infarkt, cévy, první pomoc, úrazy, zlomeniny"}
 
 Úkolem rychlé lékařské pomoci (záchranky) je záchrana lidí v ohrožení života. Záchranka nenahrazuje lékařskou službu první pomoci (pohotovost) a není na takovou práci ani prostorově ani technicky vybavena.
@@ -46,7 +44,7 @@ Dispečer má na výběr na místo vyslat:
   1. posádku rychlé zdravotnické pomoci (RZP); řidič a sestra;
   2. posádku rychlé lékařské pomoci (RLP); řidič, lékař a sestra;
   3. posádku letecké záchranné služby (LZS); pilot, lékař a sestra;
-  4. systém „rendezvous“; řidič s lékařem.
+  4. systém „rendezvous“; řidič s lékařem. 
       * V hustě osídlených aglomeracích (centrum Prahy) je výjezdů více a proto je objíždění vozidel rychlé záchranné pomoci (bez lékaře) výhodné. Osobním autem mohou lékař s řidičem záchranářem objíždět a konzultovat více zasahujících posádek záchranky.
 
 Řidič záchranky je vždy zároveň záchranář. Sestru někdy nahrazuje druhý záchranář; oba vyškoleni v oboru akutní intenzivní péče.
@@ -129,7 +127,7 @@ n/a
  [4]: ochlazeni_spaleniny
  [5]: mdloba_neboli_kolaps
  [6]: srdecni_infarkt
- [7]: iktus
+ [7]: mrtvice
  [8]: bodne_a_strelne_poraneni
  [9]: zlomeniny_kosti
 

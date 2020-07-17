@@ -1,13 +1,11 @@
 
 {data-fbcommentid="1859867264145636" data-type="article" data-image="/files/preview/koutek/cukrovka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-03-26" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cukrovka" short="Cukrovka"}
+{data-top="914" ctime="2008-03-26" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cukrovka" short="Cukrovka"}
 
 # Jak žít s cukrovkou
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
-
-{kw="cukrovka, strava-zažívání, látková výměna, poruchy vědomí, první pomoc"}
+{kw="strava-zažívání, látková výměna, poruchy vědomí, první pomoc, nevolnost, pocení, cévy, břicho"}
 
 Ukázněný diabetik (česky cukrovkář) se nemusí během života setkat se žádnými komplikacemi cukrovky. Ty bývají způsobené nedodržováním doporučených léčebných zásad.
 
@@ -15,9 +13,9 @@ Určitá hladina cukru v krvi je nezbytná jako energetická nabídka (potrava) 
 
 {class="important"}
 
-Hladina cukru v krvi (glykémie) přirozeně kolísá. U neukázněného diabetika glykémie kolísá značně, což je v obou krajních případech život ohrožující.
+Hladina cukru v krvi (glykémie) přirozeně kolísá. U neléčeného diabetika glykémie kolísá značně, což je v obou krajních případech život ohrožující.
 
-Standardní pokles hladiny cukru v krvi pod určitou hodnotu vyvolá pocit hladu. Trvá-li stav déle (člověk se nenasytí), játra začnou cukr vyrábět z jiných zdrojů podle aktuální nabídky – z bílkovin nebo z tuků.
+Standardní pokles hladiny cukru v krvi pod určitou hodnotu vyvolá u každého člověka pocit hladu. Trvá-li stav déle (člověk se nenasytí), játra začnou cukr vyrábět z jiných zdrojů podle aktuální nabídky – z bílkovin nebo z tuků.
 
 {class="important"}
 
@@ -27,7 +25,7 @@ Vyhýbání se cukrům ve stravě je u zdravého člověka zbytečné podobně j
 
 ## Neléčená cukrovka dlouhodobě ničí organizmus
 
-Člověk nemocný cukrovkou _(diabetik)_ trpí nedostatkem inzulínu nebo jeho zhoršenou kvalitou. To způsobuje, že buňky nedokáží cukr z krve získat. Neléčená cukrovka čili vysoká glykémie pak ničí mnohé orgány:
+Člověk nemocný cukrovkou _(diabetik)_ trpí nedostatkem inzulínu nebo jeho zhoršenou kvalitou. To způsobuje, že buňky nedokáží cukr z krve získat. Protože chybí inzulín a buňky tedy mají hlad, organizmus chybně řeší situaci další a další nabídkou cukru do krve. Neléčená cukrovka čili vysoká glykémie pak ničí mnohé orgány:
 
   * cévy až s následkem amputace [z nedostatečného prokrvení][2] končetin z důvodu kornatění cév _(ateroskleróza)_,
   * zrak až s následkem oslepnutí,
@@ -38,7 +36,7 @@ Vyhýbání se cukrům ve stravě je u zdravého člověka zbytečné podobně j
 
 Nejcitlivější na nedostatek energie jsou buňky mozkové. Na jejich podnět **organizmus reaguje zvyšováním množství cukru v krvi**.
 
-V případě požití sladkého jídla se glykémie ještě zvyšuje (i na několikanásobek normální hodnoty). Projevem tohoto stádia cukrovky může být zatím jen občasná slabost a žízeň. Pacient o své nemoci bohužel nemusí vůbec vědět. Tehdy vzniká prostor pro vznik komplikací cukrovky.
+V případě požití sladkého jídla se glykémie ještě zvyšuje (i na několikanásobek normální hodnoty). Projevem tohoto stádia cukrovky může být zatím jen občasná slabost a prakticky trvalá žízeň. Pacient o své nemoci bohužel nemusí vůbec vědět. Tehdy vzniká prostor pro rozvoj komplikací cukrovky.
 
 {class="important"}
 
@@ -48,11 +46,11 @@ V případě požití sladkého jídla se glykémie ještě zvyšuje (i na něko
 
 ## Typy cukrovky
 
-Existují tři typy cukrovky. Liší se podle závažnosti a způsobu léčení.
+Existují tři základní typy cukrovky. Liší se podle závažnosti a způsobu léčení.
 
 Nejlehčí forma
 :   Lze ji léčit **pouze dietou**, tedy postačí omezit nabídku cukrů ve stravě.
-:   Na zpracování kaloricky i složením vyvážené stravy postačí vlastní inzulín. V případě nadbytku cukru ve stravě nedokáže slinivka uvolnit dostatek inzulínu na jeho zpracování. Následkem je dočasná vysoká hladina cukru v krvi _(hyperglykémie)_.
+:   Na zpracování kaloricky i složením vyvážené stravy postačí vlastní inzulín. V případě nadbytku cukru ve stravě by nedokázala slinivka uvolnit dostatek inzulínu na jeho zpracování. Následkem by byla dočasná vysoká hladina cukru v krvi _(hyperglykémie)_.
 
 Závažnější forma
 :   Kromě dodržování diety je potřeba podávat **určité léky podporující tvorbu vlastního inzulínu** ve slinivce břišní. Ty se podávají formou tablet a množství je dáno úrovní choroby.

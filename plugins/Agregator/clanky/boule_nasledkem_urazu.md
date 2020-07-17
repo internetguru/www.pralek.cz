@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859860544146308" data-type="article" data-image="/files/preview/koutek/boule\_nasledkem\_urazu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-09-27" mtime="2010-09-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="boule\_nasledkem_urazu" short="Boule následkem úrazu"}
+{data-top="989" ctime="2010-09-27" mtime="2010-09-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="boule\_nasledkem_urazu" short="Boule následkem úrazu"}
 
 # Boule vzniklé následkem úrazu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="boule, úrazy, krvácení, kůže-podkoží, cévy, pohyb, první pomoc"}
 
@@ -84,7 +84,7 @@ n/a
 
  [1]: otres_mozku
  [2]: lecba_zanetu
- [3]: mikroorganizmy
+ [3]: bakterie
  [4]: krecove_zily
  [5]: zlomeniny_kosti
  [6]: natazeni_natrzeni_svalu

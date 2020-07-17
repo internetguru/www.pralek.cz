@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859855190813510" data-type="article" data-image="/files/preview/koutek/bodne\_a\_strelne_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-05-15" mtime="2009-05-15" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bodne\_a\_strelne\_poraneni" short="Bodné a střelné poranění"}
+{data-top="929" ctime="2009-05-15" mtime="2009-05-15" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bodne\_a\_strelne\_poraneni" short="Bodné a střelné poranění"}
 
 # Bodné a střelné poranění a jeho závažnost
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-24, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="poranění, krvácení, kůže-podkoží, pohyb, břicho, cévy"}
 
@@ -93,7 +93,7 @@ n/a
  [1]: drobna_krvava_poraneni
  [2]: onemocneni_slach
  [3]: teplota
- [4]: mikroorganizmy
+ [4]: bakterie
  [5]: karpalni_syndrom
  [6]: pneumotorax
 

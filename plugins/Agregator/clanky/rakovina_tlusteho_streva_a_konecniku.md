@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859937637471932" data-type="article" data-image="/files/preview/koutek/rakovina\_tlusteho\_streva\_a\_konecniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-07-17" mtime="2010-07-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_tlusteho\_streva\_a_konecniku" short="Rakovina tlustého střeva a konečníku"}
+{data-top="943" ctime="2010-07-17" mtime="2010-07-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_tlusteho\_streva\_a_konecniku" short="Rakovina tlustého střeva a konečníku"}
 
 # Rakovina tlustého střeva a konečníku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="nádory, zhoubné, prevence, břicho, strach, uzliny, krvácení, zvracení"}
 

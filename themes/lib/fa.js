@@ -4,7 +4,6 @@ FontAwesomeConfig = {
 
 (() => {
   require("IGCMS", () => { IGCMS.ready(() => {
-    
     let icons = document.querySelectorAll('*[class*="fa-"]')
     for (let i = 0; i < icons.length; i++) {
       while (icons[i].firstChild) {
@@ -33,6 +32,7 @@ FontAwesomeConfig = {
       )
     }
     */
+    
     var script = document.createElement("script")
     script.type = "text/javascript"
     script.src = "/themes/lib/all.min.1.js"

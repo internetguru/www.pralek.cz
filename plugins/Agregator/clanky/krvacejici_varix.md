@@ -1,17 +1,15 @@
 
 {data-fbcommentid="1859885004143862" data-type="article" data-image="/files/preview/koutek/krvacejici_varix/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2014-09-06" mtime="2014-09-06" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvacejici\_varix" short="Krvácející varix"}
+{data-top="976" ctime="2014-09-06" mtime="2014-09-06" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvacejici\_varix" short="Krvácející varix"}
 
 # Krvácení z křečové žíly dolní končetiny
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
-
-{kw="krvácení, cévy, první pomoc, kůže-podkoží, senioři, neúrazové"}
+{kw="krvácení, cévy, první pomoc, kůže-podkoží, senioři, úrazy, neúrazové"}
 
 Krvácení z prasklé křečové žíly bývá vždy velmi dramatické. Větší ztrátě krve může zamezit jen správně poskytnutá první pomoc.
 
-Jestliže je rozšířená a krví přeplněná žíla třeba jen drobně poraněna, krvácí tak, že z ní **krev stříká do dálky podobně jako z poraněné tepny**. Starší lidé často mívají [křečové žíly][1] _(varixy)_ v kombinaci s onemocněním srdce a cév, a pak chybí ke krvácení jen krůček.
+Jestliže je rozšířená a krví přeplněná žíla třeba jen drobně poraněna, krvácí tak, že z ní **krev stříká do dálky podobně jako z poraněné tepny**. Starší lidé často mívají [křečové žíly][1] _(varixy)_ v kombinaci s onemocněním srdce a cév, a pak chybí k takovému krvácení jen krůček.
 
 {id="pricina\_krvaceni\_z\_krecove\_zily"}
 

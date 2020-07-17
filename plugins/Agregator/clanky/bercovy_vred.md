@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859854094146953" data-type="article" data-image="/files/preview/koutek/bercovy_vred/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2014-09-15" mtime="2014-09-15" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bercovy\_vred" short="Bércový vřed"}
+{data-top="952" ctime="2014-09-15" mtime="2014-09-15" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bercovy\_vred" short="Bércový vřed"}
 
 # Bércový vřed, jeho vývoj a hojení
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-24, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="zánět, neúrazové, kůže-podkoží, cévy, poranění, krvácení"}
 

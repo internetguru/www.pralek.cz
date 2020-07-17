@@ -1,11 +1,11 @@
 
-{data-fbcommentid="1859948894137473" data-top="4" data-type="article" data-image="/files/preview/koutek/strevni_nepruchodnost/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859948894137473" data-type="article" data-image="/files/preview/koutek/strevni_nepruchodnost/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2013-02-16" mtime="2013-02-16" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="strevni\_nepruchodnost" short="Střevní neprůchodnost"}
+{data-top="990" ctime="2013-02-16" mtime="2013-02-16" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="strevni\_nepruchodnost" short="Střevní neprůchodnost"}
 
 # Střevní neprůchodnost bývá komplikací jiné choroby
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="nevolnost, zvracení, břicho, strava-zažívání, nádory, zhoubné, cévy"}
 
@@ -125,7 +125,7 @@ n/a
  [11]: kyla
  [12]: subduralni_hematom
  [13]: srdecni_infarkt
- [14]: mikroorganizmy
+ [14]: bakterie
  [15]: zanet
  [16]: prijem_tekutin
 

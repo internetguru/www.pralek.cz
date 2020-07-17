@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859930834139279" data-type="article" data-image="/files/preview/koutek/podvrtnuti_kotniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-12-23" mtime="2009-12-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="podvrtnuti\_kotniku" short="Podvrtnutí kotníku"}
+{data-top="942" ctime="2009-12-23" mtime="2009-12-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="podvrtnuti\_kotniku" short="Podvrtnutí kotníku"}
 
 # Podvrtnutí kotníku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="kloub, vykloubení, úrazy, pohyb"}
 

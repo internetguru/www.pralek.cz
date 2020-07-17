@@ -5,71 +5,62 @@
 
 # Proč nelze mít svá oblíbená antibiotika
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-24, do not edit -->
-
 {kw="zánět, imunita, mikroorganizmy, teplota, alergie, prevence, močová soustava"}
 
-Bakterie, které imunitní systém vyhodnotí jako nežádoucí, jsou likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud dočasně mikroorganizmy vítězí (to se projevuje příznaky zánětu).
+Nežádoucí [bakterie][1] jsou v lidském těle likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud bakterie dočasně vítězí. To se projevuje [rozvojem zánětu][2].
 
-Rozvoj [zánětlivého onemocnění][1] s celkovými a místními příznaky je důvodem k lékařskému vyšetření a nasazení antibiotik. Jestliže není imunitní systém dostatečně připraven, mohou dočasně vítězit bakterie a vyvíjejí se místní i celkové příznaky zánětlivého onemocnění jako např. [angína][2]. Podle stupně a závažnosti těchto příznaků **lékař nasadí antibiotika**.
+Rozvoj [zánětlivého onemocnění][2] s celkovými a místními příznaky je důvodem k lékařskému vyšetření a nasazení antibiotik. Jestliže není [imunitní systém dostatečně připraven][3], mohou dočasně vítězit bakterie. Pak se vyvíjejí místní i celkové příznaky zánětlivého onemocnění jako např. [angína][4]. Podle stupně a závažnosti těchto příznaků **lékař nasadí vhodná antibiotika**.
 
-Vždy je výhodou, vyhledat **svého praktického lékaře** který pacienta (na rozdíl od cizího lékaře na pohotovosti) dobře zná. Ten nejlépe posoudí závažnost onemocnění a jeho souvislost s celkovým zdravotním stavem; přitom zohlední ostatní dlouhodobé nemoci, [stav imunity][3], předchozí užívání antibiotik, eventuelní [alergie][4], vlivy prostředí a může nejlépe předvídat reakci na léky.
+Vždy je výhodou, vyhledat **svého praktického lékaře**, který pacienta dobře zná na rozdíl od cizího lékaře na pohotovosti. Ten nejlépe posoudí závažnost onemocnění a jeho souvislost s celkovým zdravotním stavem pacienta. Zohlední přitom ostatní dlouhodobé nemoci, [stav imunity][5], předchozí užívání antibiotik, eventuální [alergie][6], vlivy prostředí a dokáže nejlépe předvídat reakci na léky.
 
 {id="proc\_ruzne\_druhy_antibiotik"}
 
 ## Proč různé druhy antibiotik
 
-n/a
-
 S objevem penicilínu jako prvního známého antibiotika nastala **éra vzájemného působení bakterií a antibiotik**. Penicilín bakterie neničí, ale znemožňuje jejich množení. Nenarůstá-li tedy po nasazení penicilínu množství útočících bakterií, jsou bílé krvinky snáze schopny stávající útočníky zlikvidovat.
-
-Několik bakterií se však dokáže adaptovat na pro ně jedovaté penicilínové prostředí a dokáží se i zde pomnožit. Tuto odolnost uloží do své genetické informace a **potomci těchto bakterií budou navždy proti tomuto typu penicilínu odolní** (rezistentní).
-
-Chorobu způsobenou tímto druhem bakterií již nelze léčit stejným penicilínem. Může to být stejná zánětlivá nemoc jako ta původní, nebo zcela jiná (např. [angína][2], zápal plic, [zánět ledvin][5], [infekce močových cest][6], gynekologický zánět a podobně). Proto byl vyvinut nový typ penicilínu, proti kterému se neuměli ani tito jedinci bránit. Po zlikvidování celé kolonie nakonec vždy přežije několik takových bakterií, kterým se mutací obrana vydařila. Jejich pomnožením vznikají **nové kmeny, odolné vůči novému typu penicilínu**.
-
-Následně byla objevena nová antibiotika, která bakterie přímo hubí. Další a další druhy antibiotik, další nové generace nových antibiotik a vždy si bakterie dříve nebo později najdou svou obranu a vznikají nové resistentní kmeny bakterií.
 
 {class="important"}
 
-Mnohdy bývá nutné při závažných onemocněních různá antibiotika kombinovat. Nedobráním doporučené dávky antibiotika se zvyšuje množství přežívajících bakterií a tím se podporuje vznik resistentních bakteriálních kmenů vůči danému antibiotiku!
+Část bakterií se však dokáže adaptovat a pomnožit se v pro ně jedovatém penicilínovém prostředí. Tuto odolnost uloží do své genetické informace a **potomci těchto bakterií budou navždy proti tomuto typu penicilínu odolní** (rezistentní).
 
-{id="vysetreni\_bakterii-kultivace\_a\_citlivost\_na\_antibiotika\_kc"}
+Chorobu způsobenou takto adaptovaným druhem bakterií již nelze léčit stejným penicilínem. Může jít o tutéž zánětlivou nemoc nebo o zcela jinou jako je [angína][4], zápal plic, [zánět ledvin][7], [infekce močových cest][8], gynekologický zánět. Proto byl vyvinut jiný typ penicilínu, proti kterému se tento adaptovaný druh bakterií neuměl bránit.
 
-## Vyšetření bakterií – kultivace a citlivost na antibiotika (K+C)
+Po zlikvidování celé kolonie bakterií nakonec vždy přežije několik takových, kterým se mutací obrana vydařila. Jejich pomnožením vznikají **nové kmeny bakterií odolné vůči novému typu penicilínu**. Následně byla objevena nová antibiotika, která nové bakterie přímo hubí. Tak vznikají další a další generace nových bakterií.
 
-n/a
+{class="important"}
 
-Než lékař nasadí antibiotika pro zánětlivé onemocnění, provádí se **odběr biologického materiálu**. Umožní-li to podmínky a čas, provede se výtěr z nemocné tělní dutiny, nebo se odebere sekret z rány, moč nebo krev (biologický materiál) na K+C.
+Při závažných onemocněních mnohdy bývá nutné kombinovat různá antibiotika. Nedobráním doporučené dávky antibiotika se zvyšuje množství přežívajících bakterií a tím se podporuje vznik rezistentních bakteriálních kmenů vůči danému antibiotiku!
 
-Tento biologický materiál obsahující bakterie je uložen na živnou půdo a do termostatu. Pře teplotě 37 °C se zde bakterie velmi ochotně množí (kultivace). Bakteriální kmeny je pak možné určit a pojmenovat.
+{id="kultivace\_a\_citlivost\_na\_antibiotika"}
 
-Na ploše živné půdy jsou rozloženy vzorky různých antibiotik. Po 2 dnech je dobře vidět, která antibiotika proti kterým bakteriím působí. V místech působnosti antibiotika se bakterie nerozmnožily (stupeň citlivosti na antibiotika).
+## Kultivace a citlivost na antibiotika
+
+Než lékař nasadí antibiotika pro zánětlivé onemocnění, provádí se **odběr biologického materiálu za účelem kultivace a citlivosti na antibiotika** (K+C). Umožní-li to podmínky a čas, provede se výtěr z nemocné tělní dutiny, nebo se odebere sekret z rány, moč nebo krev.
+
+  1. Biologický materiál obsahující bakterie je uložen na živnou půdu do termostatu. Při teplotě 37 °C se zde bakterie velmi ochotně množí, probíhá tzv. kultivace. Bakteriální kmeny je pak možné určit a pojmenovat.
+  2. Na ploše živné půdy jsou rozloženy vzorky různých antibiotik. Po 2 dnech je dobře vidět, která antibiotika proti kterým bakteriím působí, tzv. stupeň citlivosti na antibiotika. V místech působnosti antibiotika se bakterie nerozmnožily.
 
 Jestliže není možnost provést vyšetření K+C v začátku onemocnění, **nasadí lékař antibiotika zkusmo** a doufá v jejich účinnost. Později se může doplnit K+C a dle výsledku antibiotika eventuálně změnit.
 
-{id="duvody\_preventivniho\_podavani_antibiotik"}
+{id="preventivni\_podavani\_antibiotik"}
 
-## Důvody preventivního podávání antibiotik
+## Preventivní podávání antibiotik
 
-n/a
+Antibiotika nepůsobí proti virovým onemocněním, například proti chřipce. Přesto pacient za určitých podmínek při chřipce antibiotika od svého lékaře může dostat. Smyslem takového léčení je **předejít bakteriálním komplikacím** původně virového onemocnění. Například předejít vzniku zápalu plic jakožto komplikace chřipkového onemocnění.
 
-Antibiotika nepůsobí proti virovým onemocněním (například proti chřipce). Přesto pacient za určitých podmínek při chřipce antibiotika od svého lékaře může dostat. Smyslem takového léčení je **předejít bakteriálním komplikacím** původně virového onemocnění. Například předejít vzniku zápalu plic jako komplikaci chřipkového onemocnění.
-
-Někteří lidé musejí mít uměle sníženou imunitu (například po transplantaci orgánu). Pak je logické, že je nutné nasadit antibiotika při každém podezření na zánětlivou chorobu, ale i při prostém [vytržení zubu][7].
+Někteří lidé mají uměle sníženou imunitu (například po transplantaci orgánu). Pak je logické, že je nutné nasadit antibiotika při každém podezření na zánětlivou chorobu, ale i při prostém [vytržení zubu][1].
 
 {id="negativni\_ucinky\_antibiotik"}
 
 ## Negativní účinky antibiotik
 
-n/a
+Užívání antibiotik napomáhá imunitnímu systému zlikvidovat příčinu zánětlivého onemocnění. Antibiotika však nepůsobí pouze proti původci onemocnění, ale **proti všem mikrobům v těle** citlivým na daný druh antibiotika. Tím narušují harmonickou rovnováhu a spolupráci obrovského množství mikroorganizmů v lidském těle.
 
-Užívání antibiotik napomáhá imunitnímu systému zlikvidovat příčinu zánětlivého onemocnění. Antibiotika však nepůsobí pouze proti původci onemocnění, ale **proti všem mikrobům** obývajícím lidské tělo. Tím narušují harmonickou rovnováhu a spolupráci obrovského množství mikroorganizmů v lidském těle.
-
-Původní kmeny blahodárně působících bakterií bývají antibiotiky vyhubeny nebo oslabeny a následně nahrazeny **jinými bakteriálními kmeny s různými negativními projevy** (svědění až pálení sliznic, zažívací a trávicí potíže). Takto změněné prostředí umožní pomnožení kvasinek a plísní, které je špatně léčitelné.
+Původní kmeny blahodárně působících bakterií bývají antibiotiky vyhubeny nebo oslabeny. Následně jsou nahrazeny **jinými bakteriálními kmeny s různými negativními projevy** (svědění až pálení sliznic, zažívací a trávicí potíže). Takto změněné prostředí umožní pomnožení kvasinek a plísní, které je špatně léčitelné.
 
 {class="important"}
 
-Opakované nadměrné užívání antibiotik vede k oslabení imunitního systému. Přibývá i alergických reakcí na antibiotika. Tomu se bohužel nelze vyvarovat.
+Opakované nadměrné užívání antibiotik vede k oslabení imunitního systému. Přibývá i alergických reakcí na antibiotika. Tomu se bohužel nelze zcela vyvarovat než předejitím nadměrného užívání antibiotik.
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -113,11 +104,12 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zanet
- [2]: bolest_v_krku_angina
- [3]: imunita
- [4]: projevy_alergie
- [5]: mocove_kameny
- [6]: zanet_mocoveho_mechyre
- [7]: mikroorganizmy
+ [1]: bakterie
+ [2]: zanet
+ [3]: jak_neonemocnet
+ [4]: bolest_v_krku_angina
+ [5]: imunita
+ [6]: projevy_alergie
+ [7]: mocove_kameny
+ [8]: zanet_mocoveho_mechyre
 

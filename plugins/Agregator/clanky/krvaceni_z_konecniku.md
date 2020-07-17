@@ -1,11 +1,11 @@
 
-{data-fbcommentid="1859887264143636" data-top="6" data-type="article" data-image="/files/preview/koutek/krvaceni\_z\_konecniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-fbcommentid="1859887264143636" data-type="article" data-image="/files/preview/koutek/krvaceni\_z\_konecniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2007-11-23" mtime="2017-11-08" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_z_konecniku" short="Krvácení z konečníku"}
+{data-top="994" ctime="2007-11-23" mtime="2017-11-08" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_z_konecniku" short="Krvácení z konečníku"}
 
 # Krvácení z konečníku: hemoroidy nebo nádor
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="krvácení, strach, zánět, boulička, hygiena, strava-zažívání, nádory, cévy, břicho, zhoubné"}
 
@@ -66,9 +66,9 @@ n/a
 {class="otazky"}
 
   1. Jaké jsou možnosti léčení hemoroidů?
-  2. Co je bolestivý hemoroid (boulička)?
+  2. Jak vzniká bolestivý hemoroid (bolestivá boulička)?
   3. Jak náročné je vyšetření konečníku?
-  4. Co zhorší potíže s hemoroidy?
+  4. Jaké jsou příčiny podráždění hemoroidů?
   5. Jak lze odlišit hemoroidy od rakoviny konečníku?
 
 {var="inputvar-feedback_h" id="dotace"}

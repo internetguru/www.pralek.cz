@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859923077473388" data-type="article" data-image="/files/preview/koutek/pady\_z\_kola/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2012-11-20" mtime="2012-11-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pady\_z_kola" short="Pády z kola"}
+{data-top="951" ctime="2012-11-20" mtime="2012-11-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pady\_z_kola" short="Pády z kola"}
 
 # Úrazy související s pádem z kola
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="úrazy, poranění, krvácení, zlomeniny, senioři, dětské, pohyb, břicho"}
 
@@ -123,7 +123,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: mikroorganizmy
+ [1]: bakterie
  [2]: odreniny_neboli_oderky
  [3]: nalehavost_lekarskeho_vysetreni
  [4]: zanet

@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859890034143359" data-type="article" data-image="/files/preview/koutek/leceni_zlomenin/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2015-04-21" mtime="2015-04-21" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="leceni\_zlomenin" short="Léčení zlomenin"}
+{data-top="977" ctime="2015-04-21" mtime="2015-04-21" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="leceni\_zlomenin" short="Léčení zlomenin"}
 
 # Metody léčení zlomenin
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="zlomeniny, poranění, úrazy, pohyb"}
 

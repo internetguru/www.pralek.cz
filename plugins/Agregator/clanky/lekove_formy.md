@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859891710809858" data-type="article" data-image="/files/preview/koutek/lekove_formy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-05-09" mtime="2010-05-09" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lekove\_formy" short="Podávání léků a lékové formy"}
+{data-top="962" ctime="2010-05-09" mtime="2010-05-09" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lekove\_formy" short="Podávání léků a lékové formy"}
 
 # Možnosti podávání léků a lékové formy
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
 
 {kw="angína, poruchy vědomí, teplota, cévy, zvracení, alergie"}
 
@@ -131,7 +129,7 @@ n/a
  [8]: imunita
  [9]: onemocneni_slach
  [10]: cukrovka
- [11]: iktus
+ [11]: mrtvice
  [12]: ochlazeni_spaleniny
  [13]: artroza
 

@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859851007480595" data-type="article" data-image="/files/preview/koutek/akutni_torticollis/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2014-11-17" mtime="2014-11-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="akutni\_torticollis" short="Akutní torticollis"}
+{data-top="975" ctime="2014-11-17" mtime="2014-11-17" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="akutni\_torticollis" short="Akutní torticollis"}
 
 # (Ne)závažnost strnutí šíje
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-24, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="mozek-nervy, pohyb, rehabilitace"}
 

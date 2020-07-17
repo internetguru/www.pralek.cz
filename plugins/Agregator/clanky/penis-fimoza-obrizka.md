@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859926900806339" data-type="article" data-image="/files/preview/koutek/penis-fimoza-obrizka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-07-09" mtime="2009-07-09" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="penis-fimoza-obrizka" short="Péče o penis"}
+{data-top="954" ctime="2009-07-09" mtime="2009-07-09" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="penis-fimoza-obrizka" short="Péče o penis"}
 
 # Péče o penis, hygiena chlapců, fimóza, obřízka
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
 
 {kw="penis, močová soustava, dětské, hygiena, prevence, zánět, cukrovka, strach"}
 
@@ -88,7 +88,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: akne
- [2]: mikroorganizmy
+ [2]: bakterie
  [3]: zanet
  [4]: cukrovka
 
