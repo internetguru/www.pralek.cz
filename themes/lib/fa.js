@@ -4,15 +4,14 @@ FontAwesomeConfig = {
 
 (() => {
   require("IGCMS", () => { IGCMS.ready(() => {
-    /*
     let icons = document.querySelectorAll('*[class*="fa-"]')
     for (let i = 0; i < icons.length; i++) {
       while (icons[i].firstChild) {
         icons[i].firstChild.remove()
       }
     }
-    */
     
+    /*
     let icons = document.querySelectorAll('*[class*="fa-"]')
     let iconsCache = []
     icons.forEach((icon) => {
@@ -37,5 +36,6 @@ FontAwesomeConfig = {
     script.type = "text/javascript"
     script.src = "/themes/lib/all.min.1.js"
     document.head.appendChild(script)
+    */
   })})
 })()
