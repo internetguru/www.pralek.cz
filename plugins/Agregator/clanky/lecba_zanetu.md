@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859889117476784" data-type="article" data-image="/files/preview/koutek/lecba_zanetu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="946" ctime="2014-12-27" mtime="2014-12-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lecba\_zanetu" short="Léčba zánětu"}
+{ctime="2014-12-27" mtime="2014-12-27" data-top="946" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lecba\_zanetu" short="Léčba zánětu"}
 
 # Léčba zánětu podle druhu a stádia
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="zánět, teplota, tekutiny, spáleniny, neúrazové"}
 

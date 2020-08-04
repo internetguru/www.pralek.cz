@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859878090811220" data-type="article" data-image="/files/preview/koutek/kasel\_a\_typy_kasle/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="925" ctime="2008-12-02" mtime="2008-12-02" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="kasel\_a\_typy\_kasle" short="Kašel"}
+{ctime="2008-12-02" mtime="2020-06-16" data-top="925" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="kasel\_a\_typy\_kasle" short="Kašel"}
 
 # Kdy kašel potlačovat a kdy podporovat
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="kašel, dýchání, zánět, mikroorganizmy, teplota, strach, břicho, poranění"}
 
@@ -37,14 +39,14 @@ Vdechnutím mohou podráždit dýchací cesty:
   * větší množství prachu nebo částečky aerosolu,
   * vodní tříšť (plavání v prudkém dešti je velmi nebezpečné, hrozí utonutí),
   * drobek, sousto nebo kapka [(zakuckání)][6],
-  * příliš velké množství [choroboplodných zárodků][7] ([kapénková infekce](jak_neonemocnet)),
+  * příliš velké množství [choroboplodných zárodků][7] ([kapénková infekce][8]),
   * zvýšená zátěž (zadýchání) u člověka, který má dýchací cesty poškozené.
 
 {id="typy\_charakteristika\_reseni"}
 
 ## Charakteristika a řešení jednotlivých typů kašle
 
-Kašel se mění v průběhu onemocnění podle stupně podráždění nebo podle [stádia zánětlivých změn][8]. Při kašli jsou velmi zatěžovány všechny dýchací svaly. V extrémním případě si [lze kašlem způsobit kýlu][9].
+Kašel se mění v průběhu onemocnění podle stupně podráždění nebo podle [stádia zánětlivých změn][9]. Při kašli jsou velmi zatěžovány všechny dýchací svaly. V extrémním případě si [lze kašlem způsobit kýlu][10].
 
 {class="important"}
 
@@ -62,7 +64,7 @@ Suchý dráždivý (štěkavý) kašel – obtěžující, nepřinášející ú
 :   Bývá v začátku horečnatého onemocnění nebo podrážděním zevní škodlivinou.
 :   Lze jej zklidnit vdechováním teplé páry nad hrncem s vodou nebo nad sprchou.
 :   **Pomůže čaj s citronem a medem a klid na lůžku.**
-:   Lze podat lék proti kašli a na udržení [správné teploty][10].
+:   Lze podat lék proti kašli a na udržení [správné teploty][11].
 
 Vlhký kašel – ulevující
 :   Navazuje na suchý dráždivý kašel.
@@ -71,7 +73,7 @@ Vlhký kašel – ulevující
 
 Alergický kašel – obtěžující
 :   Vzniká podrážděním vdechováním alergenu.
-:   Zklidňuje se zvláštním [sprejem nebo jinou formou léku][11] (alergici znají a mají mít stále u sebe).
+:   Zklidňuje se zvláštním [sprejem nebo jinou formou léku][12] (alergici znají a mají mít stále u sebe).
 :   Je vhodná změna prostředí.
 
 Hrčivý kašel se zkolabováním průdušek – škodící organizmu
@@ -138,8 +140,9 @@ n/a
  [5]: imunita
  [6]: resuscitace-ozivovani
  [7]: bakterie
- [8]: zanet
- [9]: kyla
- [10]: teplota
- [11]: lekove_formy
+ [8]: jak_neonemocnet
+ [9]: zanet
+ [10]: kyla
+ [11]: teplota
+ [12]: lekove_formy
 

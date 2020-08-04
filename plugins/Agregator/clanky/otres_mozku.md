@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859922170806812" data-type="article" data-image="/files/preview/koutek/otres_mozku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="980" ctime="2008-09-11" mtime="2008-09-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="otres\_mozku" short="Otřes mozku"}
+{ctime="2008-09-11" mtime="2020-06-16" data-top="980" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="otres\_mozku" short="Otřes mozku"}
 
 # Otřes mozku nebo jen pohmoždění hlavy
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="mozek-nervy, poruchy vědomí, nevolnost, zvracení, poranění, boule, úrazy"}
 

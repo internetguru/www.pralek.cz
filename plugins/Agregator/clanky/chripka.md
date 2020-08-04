@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859866174145745" data-type="article" data-image="/files/preview/koutek/chripka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="913" ctime="2008-07-20" mtime="2008-07-20" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="chripka" short="Chřipka"}
+{ctime="2008-07-20" mtime="2020-08-04" data-top="913" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="chripka" short="Chřipka"}
 
 # Chřipka: virové onemocnění
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="imunita, mikroorganizmy, zdravý životní styl, zánět, prochlazení, teplota, prevence, neúrazové"}
 

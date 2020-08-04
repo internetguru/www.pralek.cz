@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859932350805794" data-type="article" data-image="/files/preview/koutek/poraneni_nehtu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="997" ctime="2011-11-30" mtime="2011-11-30" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu"}
+{ctime="2011-11-30" mtime="2011-11-30" data-top="997" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu"}
 
 # Poranění nehtu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="nehet, úrazy, strach, krvácení, zánět, zlomeniny"}
 

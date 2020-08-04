@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859918410807188" data-type="article" data-image="/files/preview/koutek/onemocneni_slach/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="987" ctime="2010-01-14" mtime="2010-01-14" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_slach" short="Onemocnění šlach"}
+{ctime="2010-01-14" mtime="2010-01-14" data-top="987" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_slach" short="Onemocnění šlach"}
 
 # Onemocnění šlach: zánět šlach, gangliom, tenisový loket
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="pohyb, zánět, uzliny, neúrazové, mikroorganizmy, antibiotika"}
 

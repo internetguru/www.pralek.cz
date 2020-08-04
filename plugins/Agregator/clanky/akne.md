@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859850017480694" data-type="article" data-image="/files/preview/koutek/akne/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="915" ctime="2008-02-26" mtime="2017-10-01" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="akne" short="Akné"}
+{ctime="2008-02-26" mtime="2017-10-01" data-top="915" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="akne" short="Akné"}
 
 # Boj proti akné
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="žláza, kůže-podkoží, boulička, prevence, strava-zažívání, zánět, teplota"}
 

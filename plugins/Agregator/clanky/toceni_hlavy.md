@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859953017470394" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/toceni_hlavy/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{data-top="965" ctime="2020-01-20" mtime="2020-01-20" id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy"}
+{ctime="2020-01-20" mtime="2020-01-20" data-top="965" id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy"}
 
 # Proč se točí hlava
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="točení hlavy, zvracení, nevolnost, pocení, jed, pohyb, prevence, žaludek"}
 

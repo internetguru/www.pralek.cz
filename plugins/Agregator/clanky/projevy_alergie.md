@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1939252742873754" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/projevy_alergie/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{data-top="912" ctime="2020-04-14" mtime="2020-04-14" id="projevy\_alergie" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka"}
+{ctime="2020-04-14" mtime="2020-04-14" data-top="912" id="projevy\_alergie" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka"}
 
 # Projevy alergie
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="alergie, jed, imunita, mikroorganizmy"}
 

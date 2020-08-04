@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859875754144787" data-type="article" data-image="/files/preview/koutek/imunita/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-06-01" mtime="2008-06-01" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita"}
+{ctime="2008-06-01" mtime="2020-06-16" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita"}
 
 # Obranyschopnost organizmu
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="zdravý životní styl, prevence, alergie, mikroorganizmy, antibiotika, dětské, zánět"}
 

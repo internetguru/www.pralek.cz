@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859926900806339" data-type="article" data-image="/files/preview/koutek/penis-fimoza-obrizka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="954" ctime="2009-07-09" mtime="2009-07-09" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="penis-fimoza-obrizka" short="Péče o penis"}
+{ctime="2009-07-09" mtime="2009-07-09" data-top="954" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="penis-fimoza-obrizka" short="Péče o penis"}
 
 # Péče o penis, hygiena chlapců, fimóza, obřízka
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="penis, močová soustava, dětské, hygiena, prevence, zánět, cukrovka, strach"}
 

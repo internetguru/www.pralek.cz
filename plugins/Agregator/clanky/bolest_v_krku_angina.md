@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859858450813184" data-type="article" data-image="/files/preview/koutek/bolest\_v\_krku_angina/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="927" ctime="2008-12-09" mtime="2008-12-09" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_v\_krku\_angina" short="Bolest v krku"}
+{ctime="2008-12-09" mtime="2020-08-04" data-top="927" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_v\_krku\_angina" short="Bolest v krku"}
 
 # Bolest v krku, nachlazení, angína
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="imunita, mikroorganizmy, teplota, zánět, uzliny, boulička, prevence"}
 

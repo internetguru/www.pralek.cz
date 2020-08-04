@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859923077473388" data-type="article" data-image="/files/preview/koutek/pady\_z\_kola/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="951" ctime="2012-11-20" mtime="2012-11-20" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pady\_z_kola" short="Pády z kola"}
+{ctime="2012-11-20" mtime="2012-11-20" data-top="951" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="pady\_z_kola" short="Pády z kola"}
 
 # Úrazy související s pádem z kola
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="úrazy, poranění, krvácení, zlomeniny, senioři, dětské, pohyb, břicho"}
 

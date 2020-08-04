@@ -5,7 +5,7 @@
 
 # Obezita jako nepoměr příjmu a výdeje energie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="strava-zažívání, zdravý životní styl, pohyb, látková výměna, prevence, břicho"}
 

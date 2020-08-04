@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859944810804548" data-type="article" data-image="/files/preview/koutek/slepak/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="941" ctime="2009-12-13" mtime="2009-12-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="slepak" short="Slepák"}
+{ctime="2009-12-13" mtime="2009-12-13" data-top="941" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="slepak" short="Slepák"}
 
 # Slepák: zánět červovitého přívěsku slepého střeva
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="břicho, střevo, zánět, zvracení, teplota"}
 

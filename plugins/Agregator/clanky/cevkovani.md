@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859864120812617" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/cevkovani/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{data-top="971" ctime="2019-10-17" mtime="2019-10-17" id="cevkovani" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Cévkování"}
+{ctime="2019-10-17" mtime="2019-10-17" data-top="971" id="cevkovani" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Cévkování"}
 
 # Cévkování močového měchýře
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="močová soustava, retence moči, nádory, nezhoubné, strach, katetrizace"}
 

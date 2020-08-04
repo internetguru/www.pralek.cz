@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859911224141240" data-type="article" data-image="/files/preview/koutek/nezhoubne_nadory/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="992" ctime="2010-06-18" mtime="2010-06-18" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubne\_nadory" short="Nezhoubné nádory"}
+{ctime="2010-06-18" mtime="2010-06-18" data-top="992" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubne\_nadory" short="Nezhoubné nádory"}
 
 # Nezhoubné nádory a bouličky s nimi zaměňované
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="nádory, boulička, neúrazové, strach, nezhoubné, žláza, spáleniny"}
 

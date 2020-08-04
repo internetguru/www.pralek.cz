@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859961817469514" data-type="article" data-image="/files/preview/koutek/zlucove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="944" ctime="2007-11-09" mtime="2016-06-18" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlucove\_kameny" short="Žlučové kameny"}
+{ctime="2007-11-09" mtime="2016-06-18" data-top="944" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zlucove\_kameny" short="Žlučové kameny"}
 
 # Prevence a léčba žlučových kamenů
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="žlučník, břicho, říhání, zvracení, stravovací návyky, prevence, zánět, strach"}
 

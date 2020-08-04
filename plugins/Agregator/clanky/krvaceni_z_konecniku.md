@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859887264143636" data-type="article" data-image="/files/preview/koutek/krvaceni\_z\_konecniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="994" ctime="2007-11-23" mtime="2017-11-08" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_z_konecniku" short="Krvácení z konečníku"}
+{ctime="2007-11-23" mtime="2017-11-08" data-top="994" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_z_konecniku" short="Krvácení z konečníku"}
 
 # Krvácení z konečníku: hemoroidy nebo nádor
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="krvácení, strach, zánět, boulička, hygiena, strava-zažívání, nádory, cévy, břicho, zhoubné"}
 

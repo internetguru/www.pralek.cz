@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859941794138183" data-type="article" data-image="/files/preview/koutek/skoky\_do\_vody/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="922" ctime="2015-03-23" mtime="2015-03-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="skoky\_do_vody" short="Skoky do vody"}
+{ctime="2015-03-23" mtime="2015-03-23" data-top="922" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="skoky\_do_vody" short="Skoky do vody"}
 
 # Nebezpečí skoku do vody
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="úrazy, poranění, zlomeniny, krvácení, pohyb"}
 

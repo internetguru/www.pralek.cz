@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859935144138848" data-type="article" data-image="/files/preview/koutek/prostata/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="923" ctime="2011-02-20" mtime="2011-02-20" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="prostata" short="Prostata"}
+{ctime="2011-02-20" mtime="2011-02-20" data-top="923" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="prostata" short="Prostata"}
 
 # Prostata: potíže s močením
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="prostata, žláza, močová soustava, zánět, nádory, nezhoubné, zhoubné"}
 

@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859860544146308" data-type="article" data-image="/files/preview/koutek/boule\_nasledkem\_urazu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="989" ctime="2010-09-27" mtime="2010-09-27" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="boule\_nasledkem_urazu" short="Boule následkem úrazu"}
+{ctime="2010-09-27" mtime="2010-09-27" data-top="989" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="boule\_nasledkem_urazu" short="Boule následkem úrazu"}
 
 # Boule vzniklé následkem úrazu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="boule, úrazy, krvácení, kůže-podkoží, cévy, pohyb, první pomoc"}
 

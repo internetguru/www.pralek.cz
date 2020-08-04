@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859907937474902" data-type="article" data-image="/files/preview/koutek/naplastovy_steh/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="995" ctime="2011-10-24" mtime="2011-10-24" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="naplastovy\_steh" short="Náplasťový steh"}
+{ctime="2011-10-24" mtime="2011-10-24" data-top="995" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="naplastovy\_steh" short="Náplasťový steh"}
 
 # Ošetření kožní rány náplasťovým stehem
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="úrazy, první pomoc, poranění, krvácení, pohyb, žláza, alergie"}
 

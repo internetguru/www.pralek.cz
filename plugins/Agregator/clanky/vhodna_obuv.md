@@ -5,7 +5,7 @@
 
 # Vhodná a nevhodná obuv
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-26, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="pohyb, prevence, zdravý životní styl, úrazy, dětské"}
 

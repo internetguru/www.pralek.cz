@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859955397470156" data-type="article" data-image="/files/preview/koutek/vykoubene_rameno/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="988" ctime="2013-05-12" mtime="2013-05-12" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vykoubene\_rameno" short="Vykloubené rameno"}
+{ctime="2013-05-12" mtime="2013-05-12" data-top="988" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vykoubene\_rameno" short="Vykloubené rameno"}
 
 # Šetrná léčba vykloubeného ramene
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="rameno, kloub, úrazy, první pomoc, pohyb, strach"}
 
@@ -19,7 +19,7 @@ Rameno je nejvolnější kloub v těle, protože umožňuje pohyb paží všemi 
 
 n/a
 
-**Nejobvyklejší je _přední luxace_** (9 z 10 případů), tedy vykloubení hlavice pažní kosti z kloubní jamky směrem dopředu. K takovému vykloubení ramene dochází nejčastěji při odtažení paže od těla a jejím zvedání proti odporu, někdy třeba jen při oblékání, jindy při nárazu nataženou paží proti překážce. _Přední luxace_ se bohužel může vracet (dále).
+**Nejobvyklejší je _přední luxace_** (9 z 10 případů), tedy vykloubení hlavice pažní kosti z kloubní jamky směrem dopředu. K takovému vykloubení ramene dochází nejčastěji při odtažení paže od těla a jejím zvedání proti odporu, někdy třeba jen při oblékání, jindy při nárazu nataženou paží proti překážce. _Přední luxace_ se bohužel může vracet (dále). 
 
 Ostatní typy vykloubení ramene (směrem dozadu nebo dolů) jsou mnohem méně časté. Velmi vzácně může vzniknout _luxace nahoru_ nebo dokonce _luxace do hrudníku_ se [zlomeninou žeber][1]. Tyto typy vykloubení mívají nejrůznější mechanizmy vzniku včetně působení hrubého násilí při pádech nebo dopravních nehodách.
 

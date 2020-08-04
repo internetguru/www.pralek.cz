@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859890900809939" data-type="article" data-image="/files/preview/koutek/lekarnicka/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="932" ctime="2015-08-13" mtime="2015-08-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Lékárnička" id="lekarnicka"}
+{ctime="2015-08-13" mtime="2015-08-13" data-top="932" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Lékárnička" id="lekarnicka"}
 
 # Obsah domácí lékárničky
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="první pomoc, teplota, poranění, mikroorganizmy, zánět, alergie, zvíře"}
 

@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859947157470980" data-type="article" data-image="/files/preview/koutek/starecke_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="931" ctime="2009-06-22" mtime="2009-06-22" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="starecke\_zlomeniny" short="Stařecké zlomeniny"}
+{ctime="2009-06-22" mtime="2009-06-22" data-top="931" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="starecke\_zlomeniny" short="Stařecké zlomeniny"}
 
 # Nejčastější stařecké zlomeniny
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="poranění, bolest, senioři, úrazy, zlomeniny, pohyb"}
 

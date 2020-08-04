@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859917610807268" data-type="article" data-image="/files/preview/koutek/onemocneni_prsu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="953" ctime="2010-06-29" mtime="2010-06-29" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_prsu" short="Onemocnění prsu"}
+{ctime="2010-06-29" mtime="2010-06-29" data-top="953" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_prsu" short="Onemocnění prsu"}
 
 # Onemocnění prsu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="žláza, nádory, nezhoubné, zhoubné, neúrazové, poranění, zánět"}
 

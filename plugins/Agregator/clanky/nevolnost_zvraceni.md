@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859910350807994" data-type="article" data-image="/files/preview/koutek/nevolnost_zvraceni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{data-top="916" ctime="2019-11-14" mtime="2019-11-14" id="nevolnost\_zvraceni" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Nevolnost a zvracení"}
+{ctime="2019-11-14" mtime="2019-11-14" data-top="916" id="nevolnost\_zvraceni" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Nevolnost a zvracení"}
 
 # Jak postupovat při nevolnosti a zvracení
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="nevolnost, zvracení, průjem, jed, pocení, žlučník, mikroorganizmy, tekutiny"}
 

@@ -5,9 +5,9 @@
 
 # Mdloba neboli kolaps
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
-{kw="poruchy vědomí, mozek-nervy, kolaps, prevence, první pomoc, srdce, poranění, mikroorganizmy"}
+{kw="poruchy vědomí, mozek-nervy, kolaps, prevence, první pomoc, cukrovka"}
 
 Mdloba je způsobena nedostatečným okysličením mozku, a to nejčastěji z důvodu poklesu krevního tlaku. Oživování _(resuscitace)_ zkolabovaného je nutné jen výjimečně.
 

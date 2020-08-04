@@ -5,7 +5,7 @@
 
 # Bakterie jako pomocník a nepřítel člověka
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="mikroorganizmy, antibiotika, zánět, hygiena, strava-zažívání, nevolnost, zvracení"}
 

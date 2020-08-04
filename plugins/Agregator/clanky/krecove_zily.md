@@ -5,7 +5,7 @@
 
 # Křečové žíly dolních končetin neboli varixy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-17, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="cévy, prevence, neúrazové, krvácení, úrazy, zánět, zdravý životní styl"}
 
@@ -23,7 +23,7 @@ Pro správnou funkci žil je nutný průtok krve. Krev se v žíle pohybuje pouz
 
 {class="figure"}
 
-{type="image/svg+xml" data="/files/krecove_zily.svg" title="Správná a narušená funkce žil"}</object>
+</object>
 :   Správná a narušená funkce žil a) zdravá žíla v klidu, b) zdravá stlačená žíla, c) rozšířená žíla v klidu, d) rozšířená stlačená žíla, e) křečové žíly (varixy).
 
 Ve zdravých žilách se při pasivním sezení nebo stání krev žílou prakticky nepohybuje. Je uložena nad jednotlivými chlopněmi jako ve vacích (obrázek 1:a). **Krev se pohne se při každém stlačení žíly** stažením okolních svalů (obrázek 1:b) – a to jen požadovaným směrem díky funkčním chlopním.

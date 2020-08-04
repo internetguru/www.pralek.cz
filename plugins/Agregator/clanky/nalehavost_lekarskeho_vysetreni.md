@@ -5,7 +5,7 @@
 
 # Vyhledání lékařské péče: kdy, kde a jak naléhavě
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
 
 {kw="úrazy, krvácení, spáleniny, zlomeniny, vykloubení, zánět"}
 
