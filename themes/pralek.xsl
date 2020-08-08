@@ -37,15 +37,14 @@
         <h2 id="ebook">Nová kniha s články z Praléku!</h2>
         <p class="description">TODO...</p>
         <ol class="list--ico">
-          <li><span class="fas fa-fw fa-check">i</span>E-book.</li>
+          <li><span class="fas fa-fw fa-check">i</span><label for="mce-EMAIL">E-book.</label></li>
           <li><span class="fas fa-fw fa-check">i</span>Audiokniha.</li>
           <li><span class="fas fa-fw fa-check">i</span>Tištěná verze s podpisem autora.</li>
         </ol>
         <form action="https://pralek.us17.list-manage.com/subscribe/post?u=2e9033b7fc4e6eab54229d768&amp;id=5049faf784" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form">
           <div>
-          <label for="mce-EMAIL">Mám zájem o e-book </label>
           <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"/>
-          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"/>
+            <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-plus"></span> Informujte mě!</button>
           </div>
         </form>
         <ul class="button-list">
