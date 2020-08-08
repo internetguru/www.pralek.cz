@@ -47,9 +47,6 @@
             <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-plus">i</span>Informujte mě!</button>
           </div>
         </form>
-        <ul class="button-list">
-          <li class="rw"><a href="https://www.rostouciweby.cz" title="Rostoucí weby" class="button button--img button--img-inline"><span class="fas fa-fw fa-seedling">i</span> Zjistit více o rostoucích webech</a></li>
-        </ul>
       </div>
     </xsl:copy>
   </xsl:template>
