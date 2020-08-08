@@ -1395,9 +1395,20 @@ div.part.internetguru:before {
   background-size: 55%;
 }
 div.part.internetguru:before {
-  background: url("/files/leaf.png") 48% 64% #eaf6ff no-repeat;
-  background-size: 75%;
+  background: url("/files/book.png") 50% 54% #eaf6ff no-repeat;
+  background-size: 53%;
   border-radius: 100%;
+}
+div.part.internetguru form div {
+  display: flex;
+}
+div.part.internetguru form div button {
+  flex-shrink: 0;
+}
+div.part.internetguru form div input {
+  border: none;
+  border-radius: 0;
+  border-bottom: thin solid;
 }
 @media all and (min-width: 42em) {
   div.part.internetguru .button-list,
