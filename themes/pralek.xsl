@@ -44,7 +44,7 @@
         <form action="https://pralek.us17.list-manage.com/subscribe/post?u=2e9033b7fc4e6eab54229d768&amp;id=5049faf784" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form">
           <div>
           <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"/>
-            <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-plus"/> Informujte mě!</button>
+            <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-plus">i</span>Informujte mě!</button>
           </div>
         </form>
         <ul class="button-list">
