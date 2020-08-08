@@ -1399,6 +1399,12 @@ div.part.internetguru:before {
   background-size: 53%;
   border-radius: 100%;
 }
+div.part.internetguru {
+  padding-bottom: 6em;
+}
+div.part.internetguru form {
+  padding-top: 2em;
+}
 div.part.internetguru form div {
   display: flex;
 }
