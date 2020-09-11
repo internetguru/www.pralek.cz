@@ -77,7 +77,7 @@ Alergický kašel – obtěžující
 :   Je vhodná změna prostředí.
 
 Hrčivý kašel se zkolabováním průdušek – škodící organizmu
-:   **Nepřináší úlevu a vyskytuje se nejvíce u dětí.**
+:   **Nepřináší úlevu a vyskytuje se nejvíce u malých dětí.**
 :   Opět je dobré podat léky na uvolnění dýchacích cest a snažit se tento typ kašle převést na vlhký kašel.
 
 Prudký kašel spojený s následným pocitem nedostatku vzduchu (dušnost) – vyčerpávající
@@ -86,7 +86,7 @@ Prudký kašel spojený s následným pocitem nedostatku vzduchu (dušnost) – 
 
 Usilovný kašel s nemožností se následně nadechnout a se strachem o život
 :   Bývá spojen s [vdechnutím cizího tělesa][6].
-:   Po vykašlání veškerého vzduchu z plic může poskytnout pomoc přítomný dobrovolník.
+:   Po vykašlání veškerého vzduchu z plic může poskytnout pomoc přítomný dobrovolník prudkým vymáčknutím stále zbývajícího vzduchu z plic.
 :   V opačném případě se musí postižený sám snažit o pozvolný výdech a poté teprve nádech. Křeč kolem vdechnutého tělesa často sama povolí a dýchací cesty se uvolní.
 
 Kuřácký kašel – pro kuřáky nezbytný
