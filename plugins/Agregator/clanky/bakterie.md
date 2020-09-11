@@ -42,8 +42,7 @@ Taková situace nastane například tehdy, dostanou-li se bakterie z konečníku
 {id="choroboplodne_bakterie"}
 
 ## Choroboplodné bakterie
-
-Obrovské množství bakteriálních kmenů, které jsou popsány a pojmenovány například v učebnici mikrobiologie, může zapříčinit různé nakažlivé nebo [zánětlivé choroby][4] neboli choroboplodné zárodky.
+Obrovské množství choroboplodných bakteriálních kmenů, které jsou popsány a pojmenovány v učebnicích mikrobiologie, může zapříčinit různé nakažlivé [zánětlivé choroby][4].
 
 Cizí [choroboplodné bakterie, které člověka napadly][2] mohou přežívat v určitém místě lidského těla, např. v mandlích při angíně. Mohou se také vyplavit do celého těla a **způsobit celkové příznaky závažného [zánětlivého onemocnění][5]** . Pak bývá nevyhnutelné nasazení [antibiotik][6]. 
 
