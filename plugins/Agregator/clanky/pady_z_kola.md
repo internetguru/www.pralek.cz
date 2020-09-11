@@ -35,7 +35,7 @@ n/a
 
 Velmi časté úrazy v souvislosti s pády z kola jsou tržné rány. Nebývají mnohočetné, ale bývají kombinovány s oděrkami (výše). Nejčastěji vznikají nárazem na nějakou hranu, kámen nebo část kola.
 
-Rány vzniklé pádem z kola **bývají zhmožděné a znečištěné**, protože k nim dochází nárazem na tupý předmět. Takové rány se hojí pomaleji a mají sklon [k zánětlivým komplikacím][4] na rozdíl od [tržných ran][5] způsobených ostrým předmětem.
+Rány vzniklé pádem z kola **bývají zhmožděné a znečištěné**, protože k nim dochází nárazem na tupý předmět. Takové rány jsou bolestivé, hojí se pomaleji a mají sklon [k zánětlivým komplikacím][4] na rozdíl od [tržných ran][5] způsobených ostrým předmětem.
 
 Zhmožděné tržné rány většinou vyžadují složitější chirurgické ošetření včetně odstranění zhmožděných tkání a nečistot. Proto je správné, když takto zraněný cyklista vyhledá lékařské ošetření častěji, než kdyby se poranil relativně čistým a ostrým nástrojem.
 
