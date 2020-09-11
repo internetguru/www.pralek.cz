@@ -35,7 +35,7 @@ Jelikož se nejedná o [bakteriální onemocnění][3], při léčbě [nepomohou
 
 n/a
 
-Gangliom je bolestivá boulička [podobně jako lymfatická uzlina][5] nebo [podobně jako nezhoubný nádor][6]. Vyskytuje se nejčastěji na zápěstí, hřbetu ruky, na bérci nebo na nártu nohy. Vzniká rovněž v souvislosti s přetížením některé šlachy nebo drobného kloubu zápěstí nebo nártu. Z důvodu zvýšené námahy se tvoří nadměrné množství mazu a ten se vtlačí do zvláštního nově vzniklého váčku. Váček je viditelný a hmatný pod kůží. V době vzniku bývá bolestivý, později bolest ustává.
+Gangliom je boulička [podobně jako lymfatická uzlina][5] nebo [podobně jako nezhoubný nádor][6]. Vyskytuje se nejčastěji na zápěstí, hřbetu ruky, na bérci nebo na nártu nohy. Vzniká rovněž v souvislosti s přetížením některé šlachy nebo drobného kloubu zápěstí nebo nártu. Z důvodu zvýšené námahy se tvoří nadměrné množství mazu a ten se vtlačí do zvláštního nově vzniklého váčku. Váček je viditelný a hmatný pod kůží. V době vzniku bývá bolestivý, později bolest ustává.
 
 Stejně jako u zánětu šlach (nedostatek kloubního mazu) je v případě gangliomu (nadbytek kloubního mazu) potřeba **zamezit pohybům, které onemocnění způsobily**. Pokud pacient nedodrží léčebný režim, je možné gangliom:
 
@@ -58,7 +58,7 @@ Tenisový loket je zánětlivé onemocnění, při kterém bolí místo úponu �
 
 Příčinou _epikondylitýdy_ nebývá jen nadměrná zátěž při tenisu, ale i jakákoli jiný sport či namáhavá práce. Nejčastěji bývá postižena vnitřní nebo zevní strana lokte.
 
-Léčení tenisového loktu spočívá opět v omezení bolestivých pohybů nebo přiložením fixace. Někdy je nutné přistoupit k rentgernovým ozářkám nebo k operačnímu „přesazení“ vazivového úponu svalu ke kosti.
+Léčení tenisového loktu spočívá v omezení bolestivých pohybů nebo přiložením fixace. Někdy je nutné přistoupit k rentgernovým ozářkám nebo k operačnímu „přesazení“ vazivového úponu svalu ke kosti.
 
 {id="pretrzena_slacha"}
 
