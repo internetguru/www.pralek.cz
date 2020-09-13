@@ -48,7 +48,7 @@ Jestliže není možnost provést vyšetření K+C v začátku onemocnění, **n
 
 ## Preventivní podávání antibiotik
 
-Antibiotika nepůsobí proti virovým onemocněním, například proti kovidu nebo chřipce. Přesto pacient za určitých podmínek při chřipce antibiotika od svého lékaře může dostat. Smyslem takového léčení je **předejít bakteriálním komplikacím** původně virového onemocnění. Například předejít vzniku zápalu plic jakožto komplikace chřipkového onemocnění.
+Antibiotika nepůsobí proti virovým onemocněním, například proti chřipce nebo koronaviru. Přesto pacient za určitých podmínek při chřipce antibiotika od svého lékaře může dostat. Smyslem takového léčení je **předejít bakteriálním komplikacím** původně virového onemocnění. Například předejít vzniku zápalu plic jakožto komplikace chřipkového onemocnění.
 
 Někteří lidé mají uměle sníženou imunitu (například po transplantaci orgánu). Pak je logické, že je nutné nasadit antibiotika při každém podezření na zánětlivou chorobu, ale i při prostém [vytržení zubu][1].
 
