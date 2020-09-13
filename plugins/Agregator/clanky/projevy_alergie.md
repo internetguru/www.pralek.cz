@@ -13,7 +13,7 @@ Alergie je nepřiměřená reakce organismu na běžně neškodnou látku. Látk
 
 {id="cim\_je\_zpusobena\_alergie"}
 
-## Čím je způsobena alergie
+## Princip alergie
 
 Alergie je způsobena aktivací protilátek vůči danému alergenu. Alergenem se může stát původně neškodná látka. [Imunitní systém][2] látku chybně vyhodnotí jako nepřátelskou a naprosto nesmyslně proti ní bojuje, jako kdyby byla škodlivá.
 
