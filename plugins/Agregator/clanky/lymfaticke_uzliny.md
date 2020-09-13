@@ -38,7 +38,7 @@ Příklady zvětšení lymfatických uzlin:
   * [Zánět nehtového lůžka][9], oděrky prstů nebo pat mohou způsobit **bolestivé zvětšení uzlin v zákolenní jamce nebo v tříslech**.
   * Dlouhodobé oděrky nebo plísně nohou zapříčiní **nebolestivé zvětšení tříselných uzlin**.
   * Stejně tak dojde ke **zvětšení uzlin na horní končetině** v loketní jamce nebo v podpaží (zánět, oděrka, namožení).
-  * _Prudký_ zánět na končetině s horečkou může způsobit **rudý horký viditelný pruh od místa zánětu směrem k trupu s bolestivou uzlinou na konci**. Jedná se o zánět lymfatické cévy, která se změnila a stala se viditelnou a bolestivou.
+  * _Prudký_ zánět na končetině s horečkou může způsobit **rudý horký viditelný pruh od místa zánětu směrem k trupu s bolestivou uzlinou na konci**. Jedná se o zánět lymfatické cévy, která se změnila a stala se viditelnou a bolestivou. Tento stav bývá laicky nesprávně označován jako [otrava krve][panaricium].
   * Zánět nebo nádor ve stěně hrudníku nebo v prsu rovněž způsobí **zvětšení uzlin v podpaží** (stejná spádová oblast jako pro horní končetinu).
   * **Zvětšení uzliny na přední straně krku a nad klíční kostí** svědčí pro onemocnění v krku nebo v hrudníku.
   * [Bolesti v krku][2], zánět v dutině ústní nebo zánět zubu způsobí **zvětšení podčelistních uzlin**.
