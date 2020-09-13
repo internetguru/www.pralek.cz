@@ -85,8 +85,8 @@ Prudký kašel spojený s následným pocitem nedostatku vzduchu (dušnost) – 
 :   Je dobré se postavit do otevřeného okna a opřít dlaněmi o parapet palci od sebe (pro maximální využití pomocného dýchacího svalstva) a **snažit se dýchat klidně, zhluboka a pomalu**.
 
 Usilovný kašel s nemožností se následně nadechnout a se strachem o život
-:   Bývá spojen s [vdechnutím cizího tělesa][6].
-:   Po vykašlání veškerého vzduchu z plic může poskytnout pomoc přítomný dobrovolník prudkým vymáčknutím stále zbývajícího vzduchu z plic.
+:   Bývá spojen s [vdechnutím cizího tělesa][6], kdy se pacient usilovně snaží předmět vykašlat, dokud mu nejdojde dech.
+V plicích však zbývá stále dostatek vzduchu na uvolnění uvíznutého předmětu. Záchranář tak může uvíznutý předmět uvolnit prudkým stlačením hrudníku (Heimlichův manévr).
 :   V opačném případě se musí postižený sám snažit o pozvolný výdech a poté teprve nádech. Křeč kolem vdechnutého tělesa často sama povolí a dýchací cesty se uvolní.
 
 Kuřácký kašel – pro kuřáky nezbytný
