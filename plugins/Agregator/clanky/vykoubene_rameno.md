@@ -72,7 +72,7 @@ n/a
 {class="otazky"}
 
   1. Proč nesmí pacient s vykloubeným ramenem jíst, pít ani kouřit?
-  2. Proč je vhodnější při luxaci ramene volat RLP než vést raněného autem?
+  2. Proč je vhodnější při luxaci ramene volat RLP než vézt raněného autem?
   3. Na čem závisí úspěšné napravení vykloubeného ramene bez celkového znecitlivění?
   4. Proč bývá nutné opakovanou luxaci ramene operovat?
 
