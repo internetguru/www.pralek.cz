@@ -71,11 +71,11 @@ U běžných dětských nemocí se nejčastěji určí správná diagnóza až p
 
 ## Meningokoková infekce
 
-Obávaný meningokok je [mikroorganizmus][14], který se běžně vyskytuje v lidské populaci stejně jako nepřeberné množství jiných podivně pojmenovaných bakterií. Bakterie se dělí na ty, které nikdy nezpůsobí lidem onemocnění, naopak jsou nutné k normálnímu fungování lidského těla a na ty, které někdy zapříčiní chorobu.
+Obávaný meningokok je [mikroorganizmus][14], který se běžně vyskytuje v lidské populaci stejně jako nepřeberné množství jiných podivně pojmenovaných bakterií nebo virů. Bakterie se dělí na ty, které nikdy nezpůsobí lidem onemocnění, naopak jsou nutné k normálnímu fungování lidského těla a na ty, které někdy zapříčiní chorobu.
 
 {class="important"}
 
-Závažnost a průběh onemocnění jsou dány spíše [připraveností organizmu][15] (imunitou a celkovým stavem) než záludností a nebezpečností bakterie.
+Závažnost a průběh onemocnění jsou dány spíše [připraveností organizmu][15] (imunitou a celkovým stavem) než záludností a nebezpečností bakterie nebo viru.
 
 Meningokokové infekci bohužel nejčastěji podlehne malé dítě v době, kdy již nemá od matky dostatek protilátek (dostává je nitroděložně placentou a poporodně mateřským mlékem) a ještě nemá vytvořeny své [vlastní protilátky][6]. Další skupinou lidí, kteří mohou podlehnout meningokokovi jsou adolescenti ve stavu vyčerpání a únavy (například po probdělé noci). Ostatní **lidé při setkání s meningokokem nemusejí vůbec onemocnět**.
 
