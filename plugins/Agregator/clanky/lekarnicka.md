@@ -89,7 +89,7 @@ Léky proti kašli
 :   Při [kašli][19] a dráždění dýchacích cest v počátku horečnatého onemocnění je dobré [podat léky][20] podporující uvolnění hlenu v průduškách nebo později léky proti dráždivému kašli.
 
 Léky proti alergii
-:   I když není v rodině žádný alergik, je dobré mít v lékárničce základní lék proti alergii. Alergie totiž může vzniknout kdykoli i při plném zdraví. Kromě toho může být potřeba pomoci s alergickou reakcí kamarádovi či sousedovi.
+:   I když není v rodině žádný alergik, je dobré mít v lékárničce základní lék proti alergii. Alergie totiž může vzniknout kdykoli i z plného zdraví. Kromě toho může být potřeba pomoci s alergickou reakcí kamarádovi či sousedovi.
 
 Višněvského emulze (hovorově „višňák“)
 :   Protizánětlivá emulze dobře poslouží [k léčbě počínajícího zánětu][21].
