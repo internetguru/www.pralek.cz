@@ -11,9 +11,9 @@
 
 Alergie je nepřiměřená reakce organismu na běžně neškodnou látku. Látka způsobující alergii se nazývá alergen. Alergenem se tedy mohou stát cizorodé bílkoviny jako např. pylová zrna, plísně, složky potravy, jed [bodavého hmyzu][1], částice prachu nebo chemické prvky, a to nejčastěji kovy.
 
-{id="co\_je\_alergie"}
+{id="princip\_alergie"}
 
-## Co je alergie
+## Princip alergie
 
 Alergie je způsobena aktivací protilátek vůči danému alergenu. Alergenem se může stát původně neškodná látka. [Imunitní systém][2] látku chybně vyhodnotí jako nepřátelskou a naprosto nesmyslně proti ní bojuje, jako kdyby byla škodlivá.
 
