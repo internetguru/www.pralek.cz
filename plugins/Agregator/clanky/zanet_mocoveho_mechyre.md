@@ -36,7 +36,7 @@ Prodělané **onemocnění močového měchýře se vracívá** _(recidiva)_. P�
 
 {class="example"}
 
-Je nutné [bránit se nejen prochlazení][6], ale stejně nebezpečné může být zpocení s následným prostydnutím anebo pouhé prochlazení nohou. Znovuvzplanutí zánětu močového měchýře může způsobit jen pobyt v mokrých plavkách nebo v mokrých botách.
+Je nutné [bránit se nejen prochlazení][6], ale stejně nebezpečné může být zpocení s následným prostydnutím anebo pouhé prochlazení nohou. Znovuvzplanutí zánětu močového měchýře může způsobit jen delší pobyt v mokrých plavkách nebo v mokrých botách.
 
 {id="projevy\_zanetu\_mocoveho_mechyre"}
 
