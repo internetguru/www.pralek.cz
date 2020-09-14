@@ -13,7 +13,7 @@ Nežádoucí [bakterie][1] jsou v lidském těle likvidovány bílými krvinkami
 
 Rozvoj [zánětlivého onemocnění][2] s celkovými a místními příznaky je důvodem k lékařskému vyšetření a nasazení antibiotik. Jestliže není [imunitní systém dostatečně připraven][3], mohou dočasně vítězit bakterie. Pak se vyvíjejí místní i celkové příznaky zánětlivého onemocnění jako např. [angína][4]. Podle stupně a závažnosti těchto příznaků **lékař nasadí vhodná antibiotika**.
 
-Vždy je výhodou, vyhledat **svého praktického lékaře**, který pacienta dobře zná na rozdíl od cizího lékaře na pohotovosti. Ten nejlépe posoudí závažnost onemocnění a jeho souvislost s celkovým zdravotním stavem pacienta. Zohlední přitom ostatní dlouhodobé nemoci, [stav imunity][5], předchozí užívání antibiotik, eventuální [alergie][6], vlivy prostředí a dokáže nejlépe předvídat reakci na léky.
+Vždy je výhodou, vyhledat **svého praktického lékaře**, který pacienta dobře zná na rozdíl od cizího lékaře na pohotovosti. Ten vždy nejlépe posoudí závažnost onemocnění a jeho souvislost s celkovým zdravotním stavem pacienta. Zohlední přitom ostatní dlouhodobé nemoci, [stav imunity][5], předchozí užívání antibiotik, eventuální [alergie][6], vlivy prostředí a dokáže nejlépe předvídat reakci na léky.
 
 {id="proc\_ruzne\_druhy_antibiotik"}
 
@@ -27,7 +27,7 @@ S objevem penicilínu jako prvního známého antibiotika nastala **éra vzájem
 
 Chorobu způsobenou takto adaptovaným druhem bakterií již nelze léčit stejným penicilínem. Může jít o tutéž zánětlivou nemoc nebo o zcela jinou jako je [angína][4], zápal plic, [zánět ledvin][7], [infekce močových cest][8], gynekologický zánět. Proto byl vyvinut jiný typ penicilínu, proti kterému se tento adaptovaný druh bakterií neuměl bránit.
 
-Po zlikvidování celé kolonie bakterií nakonec vždy přežije několik takových, kterým se mutací obrana vydařila. Jejich pomnožením vznikají **nové kmeny bakterií odolné vůči novému typu penicilínu**. Následně byla objevena nová antibiotika, která nové bakterie přímo hubí. Tak vznikají další a další generace nových bakterií.
+Po zlikvidování celé kolonie bakterií nakonec vždy přežije několik takových, kterým se mutací obrana vydařila. Jejich pomnožením vznikají **nové kmeny bakterií odolné vůči novému typu penicilínu**. Následně byla objevena nová antibiotika, která nové bakterie přímo hubí. Tak stále vznikají další a další generace nových antibiotik a zároveň resistentních bakterií.
 
 {class="important"}
 
@@ -48,7 +48,7 @@ Jestliže není možnost provést vyšetření K+C v začátku onemocnění, **n
 
 ## Preventivní podávání antibiotik
 
-Antibiotika nepůsobí proti virovým onemocněním, například proti chřipce. Přesto pacient za určitých podmínek při chřipce antibiotika od svého lékaře může dostat. Smyslem takového léčení je **předejít bakteriálním komplikacím** původně virového onemocnění. Například předejít vzniku zápalu plic jakožto komplikace chřipkového onemocnění.
+Antibiotika nepůsobí proti virovým onemocněním, například proti chřipce nebo koronaviru. Přesto pacient za určitých podmínek při chřipce antibiotika od svého lékaře může dostat. Smyslem takového léčení je **předejít bakteriálním komplikacím** původně virového onemocnění. Například předejít vzniku zápalu plic jakožto komplikace chřipkového onemocnění.
 
 Někteří lidé mají uměle sníženou imunitu (například po transplantaci orgánu). Pak je logické, že je nutné nasadit antibiotika při každém podezření na zánětlivou chorobu, ale i při prostém [vytržení zubu][1].
 
