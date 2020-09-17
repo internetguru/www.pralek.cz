@@ -1,7 +1,9 @@
 (() => {
 
   require("IGCMS", () => {
-
+    
+    var clickTimer = null
+    
     var Config = {}
     Config.ns = "definition"
     Config.containerClass = Config.ns + "__cont"
@@ -144,6 +146,9 @@
             terms[i].classList.add("eventable")
             terms[i].title = `${Config.titlePrefix}${terms[i].title}`
             terms[i].addEventListener("click", generateHandler(termComp, toggleTerm), false)
+            terms[i].addEventListener("dblclick", () => {
+              clearTimeout(clickTimer)
+            }, false)
             definitions.push(termComp)
           }
           return terms.length
@@ -152,6 +157,15 @@
           if (event.ctrlKey || event.shiftKey) {
             return true;
           }
+          if (event.detail === 1) {
+            clickTimer = setTimeout(() => {
+              doToggleTerm(event, termComp)
+            }, 200)
+            event.preventDefault()
+            return false
+          }
+        },
+        doToggleTerm = function (event, termComp) {
           definitions.forEach((item) => {
             if (item === termComp) {
               return
@@ -173,8 +187,6 @@
             termComp.container.style.left = `${Math.max(event.clientX - delta, 0)}px`
             termComp.container.style.top = `${event.clientY + window.scrollY + 10}px`
           }
-          event.preventDefault()
-          return false;
         },
         fireControllEvents = function () {
           document.addEventListener("keydown", (event) => {
