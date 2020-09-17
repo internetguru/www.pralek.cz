@@ -147,6 +147,7 @@ h1 {
 .part.odkazy .list > div,
 .part.clanky .list > div {
   justify-content: center;
+  align-items: baseline;
 }
 .part.odkazy .list.list-wrapper--single:last-child,
 .part.clanky .list.list-wrapper--single {
@@ -176,6 +177,7 @@ h1 {
   flex-direction: column;
   position: relative;
   width: 100%;
+  min-height: 36.7em;
 }
 .extra {
   --button-color: var(--global-color);
@@ -833,7 +835,7 @@ body:not(.agregator) .hdesc--top label {
 .hdesc--top .meta {
   margin-top: 0;
   font-size: 1.2em;
-  max-width: 33em;
+  /* max-width: 33em; */
   /* overflow: hidden; */
   /* height: 2.2em; */
   margin: 0 auto;
