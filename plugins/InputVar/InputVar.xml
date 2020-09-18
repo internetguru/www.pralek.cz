@@ -56,19 +56,11 @@
   
   <fn id="replacenames" fn="replace">
 <!-- [replacenames] generated content, do not edit -->
-    <data name="title='title='"></data>
-    <data name="href='href='"></data>
-    <data name="title='title='"></data>
-    <data name="href='href='"></data>
-    <data name="title='title='"></data>
-    <data name="href='href='"></data>
-    <data name="title='title='"></data>
-    <data name="href='href='"></data>
-    <data name="title=alergie">8 výskytů</data>
+    <data name="title=alergie">9 výskytů</data>
     <data name="href=alergie">/?stitek=alergie#clanky</data>
-    <data name="title='title=angína'"></data>
-    <data name="href='href=angína'"></data>
-    <data name="title=antibiotika">3 výskyty</data>
+    <data name="title=angína">4 výskyty</data>
+    <data name="href=angína">/?stitek=angina#clanky</data>
+    <data name="title=antibiotika">6 výskytů</data>
     <data name="href=antibiotika">/?stitek=antibiotika#clanky</data>
     <data name="title=bolest">2 výskyty</data>
     <data name="href=bolest">/?stitek=bolest#clanky</data>
@@ -80,14 +72,12 @@
     <data name="href=břicho">/?stitek=bricho#clanky</data>
     <data name="title=cévy">23 výskytů</data>
     <data name="href=cévy">/?stitek=cevy#clanky</data>
-    <data name="title=cukrovka">7 výskytů</data>
+    <data name="title=cukrovka">6 výskytů</data>
     <data name="href=cukrovka">/?stitek=cukrovka#clanky</data>
-    <data name="title=dětské">12 výskytů</data>
-    <data name="href=dětské">/?stitek=detske#clanky</data>
+    <data name="title=děti">11 výskytů</data>
+    <data name="href=děti">/?stitek=deti#clanky</data>
     <data name="title=dýchání">4 výskyty</data>
     <data name="href=dýchání">/?stitek=dychani#clanky</data>
-    <data name="title='title=hrudník'"></data>
-    <data name="href='href=hrudník'"></data>
     <data name="title=hygiena">10 výskytů</data>
     <data name="href=hygiena">/?stitek=hygiena#clanky</data>
     <data name="title=imunita">6 výskytů</data>
@@ -108,18 +98,18 @@
     <data name="href='href=kolika'"></data>
     <data name="title='title=krev'"></data>
     <data name="href='href=krev'"></data>
-    <data name="title=krvácení">25 výskytů</data>
+    <data name="title=krvácení">26 výskytů</data>
     <data name="href=krvácení">/?stitek=krvaceni#clanky</data>
     <data name="title=kůže-podkoží">16 výskytů</data>
     <data name="href=kůže-podkoží">/?stitek=kuze-podkozi#clanky</data>
-    <data name="title=látková výměna">4 výskyty</data>
+    <data name="title=látková výměna">3 výskyty</data>
     <data name="href=látková výměna">/?stitek=latkova_vymena#clanky</data>
     <data name="title='title=ledviny'"></data>
     <data name="href='href=ledviny'"></data>
-    <data name="title=mikroorganizmy">18 výskytů</data>
+    <data name="title=mikroorganizmy">17 výskytů</data>
     <data name="href=mikroorganizmy">/?stitek=mikroorganizmy#clanky</data>
-    <data name="title=močová soustava">7 výskytů</data>
-    <data name="href=močová soustava">/?stitek=mocova_soustava#clanky</data>
+    <data name="title=moč">8 výskytů</data>
+    <data name="href=moč">/?stitek=moc#clanky</data>
     <data name="title=mozek-nervy">8 výskytů</data>
     <data name="href=mozek-nervy">/?stitek=mozek-nervy#clanky</data>
     <data name="title=mýty">2 výskyty</data>
@@ -128,7 +118,7 @@
     <data name="href=nádory">/?stitek=nadory#clanky</data>
     <data name="title=nehet">2 výskyty</data>
     <data name="href=nehet">/?stitek=nehet#clanky</data>
-    <data name="title=neúrazové">23 výskytů</data>
+    <data name="title=neúrazové">21 výskytů</data>
     <data name="href=neúrazové">/?stitek=neurazove#clanky</data>
     <data name="title=nevolnost">18 výskytů</data>
     <data name="href=nevolnost">/?stitek=nevolnost#clanky</data>
@@ -138,14 +128,12 @@
     <data name="href='href=penis'"></data>
     <data name="title=pocení">10 výskytů</data>
     <data name="href=pocení">/?stitek=poceni#clanky</data>
-    <data name="title=pohyb">35 výskytů</data>
+    <data name="title=pohyb">34 výskytů</data>
     <data name="href=pohyb">/?stitek=pohyb#clanky</data>
-    <data name="title=poranění">27 výskytů</data>
+    <data name="title=poranění">26 výskytů</data>
     <data name="href=poranění">/?stitek=poraneni#clanky</data>
-    <data name="title='title=porucha vědomí'"></data>
-    <data name="href='href=porucha vědomí'"></data>
-    <data name="title=poruchy vědomí">11 výskytů</data>
-    <data name="href=poruchy vědomí">/?stitek=poruchy_vedomi#clanky</data>
+    <data name="title=porucha vědomí">12 výskytů</data>
+    <data name="href=porucha vědomí">/?stitek=porucha_vedomi#clanky</data>
     <data name="title=přehřátí">2 výskyty</data>
     <data name="href=přehřátí">/?stitek=prehrati#clanky</data>
     <data name="title=prevence">39 výskytů</data>
@@ -154,9 +142,9 @@
     <data name="href=prochlazení">/?stitek=prochlazeni#clanky</data>
     <data name="title='title=prostata'"></data>
     <data name="href='href=prostata'"></data>
-    <data name="title='title=průjem'"></data>
-    <data name="href='href=průjem'"></data>
-    <data name="title=první pomoc">18 výskytů</data>
+    <data name="title=průjem">2 výskyty</data>
+    <data name="href=průjem">/?stitek=prujem#clanky</data>
+    <data name="title=první pomoc">19 výskytů</data>
     <data name="href=první pomoc">/?stitek=prvni_pomoc#clanky</data>
     <data name="title='title=rakovina'"></data>
     <data name="href='href=rakovina'"></data>
@@ -164,22 +152,18 @@
     <data name="href='href=rameno'"></data>
     <data name="title=rehabilitace">4 výskyty</data>
     <data name="href=rehabilitace">/?stitek=rehabilitace#clanky</data>
-    <data name="title='title=retence moči'"></data>
-    <data name="href='href=retence moči'"></data>
     <data name="title=říhání">2 výskyty</data>
     <data name="href=říhání">/?stitek=rihani#clanky</data>
     <data name="title=senioři">5 výskytů</data>
     <data name="href=senioři">/?stitek=seniori#clanky</data>
-    <data name="title=spáleniny">4 výskyty</data>
+    <data name="title=spáleniny">3 výskyty</data>
     <data name="href=spáleniny">/?stitek=spaleniny#clanky</data>
     <data name="title=srdce">5 výskytů</data>
     <data name="href=srdce">/?stitek=srdce#clanky</data>
-    <data name="title=strach">19 výskytů</data>
+    <data name="title=strach">17 výskytů</data>
     <data name="href=strach">/?stitek=strach#clanky</data>
     <data name="title=strava-zažívání">17 výskytů</data>
     <data name="href=strava-zažívání">/?stitek=strava-zazivani#clanky</data>
-    <data name="title='title=stravovací návyky'"></data>
-    <data name="href='href=stravovací návyky'"></data>
     <data name="title=střevo">2 výskyty</data>
     <data name="href=střevo">/?stitek=strevo#clanky</data>
     <data name="title=tekutiny">5 výskytů</data>
@@ -190,19 +174,15 @@
     <data name="href='href=tlakoměr'"></data>
     <data name="title=točení hlavy">5 výskytů</data>
     <data name="href=točení hlavy">/?stitek=toceni_hlavy#clanky</data>
-    <data name="title='title=úrazové'"></data>
-    <data name="href='href=úrazové'"></data>
-    <data name="title=úrazy">37 výskytů</data>
-    <data name="href=úrazy">/?stitek=urazy#clanky</data>
-    <data name="title='title=ušní-nosní-krční'"></data>
-    <data name="href='href=ušní-nosní-krční'"></data>
+    <data name="title=úraz">39 výskytů</data>
+    <data name="href=úraz">/?stitek=uraz#clanky</data>
     <data name="title=uzliny">8 výskytů</data>
     <data name="href=uzliny">/?stitek=uzliny#clanky</data>
     <data name="title=vykloubení">2 výskyty</data>
     <data name="href=vykloubení">/?stitek=vykloubeni#clanky</data>
     <data name="title=žaludek">9 výskytů</data>
     <data name="href=žaludek">/?stitek=zaludek#clanky</data>
-    <data name="title=zánět">45 výskytů</data>
+    <data name="title=zánět">46 výskytů</data>
     <data name="href=zánět">/?stitek=zanet#clanky</data>
     <data name="title=zdravý životní styl">12 výskytů</data>
     <data name="href=zdravý životní styl">/?stitek=zdravy_zivotni_styl#clanky</data>
@@ -214,11 +194,11 @@
     <data name="href=zlomeniny">/?stitek=zlomeniny#clanky</data>
     <data name="title=žlučník">5 výskytů</data>
     <data name="href=žlučník">/?stitek=zlucnik#clanky</data>
-    <data name="title=zvíře">3 výskyty</data>
+    <data name="title=zvíře">2 výskyty</data>
     <data name="href=zvíře">/?stitek=zvire#clanky</data>
     <data name="title=zvracení">24 výskytů</data>
     <data name="href=zvracení">/?stitek=zvraceni#clanky</data>
-<!-- generated by user_update.sh on 2020-08-04 -->
+<!-- generated by user_update.sh on 2020-09-18 -->
   </fn>
   
   <var id="taglist">
@@ -227,6 +207,7 @@
       <dd>
 <!-- [taglist] generated content, do not edit -->
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=alergie" href="href=alergie"><span class="fas fa-tag">i</span>alergie</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=angína" href="href=angína"><span class="fas fa-tag">i</span>angína</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=antibiotika" href="href=antibiotika"><span class="fas fa-tag">i</span>antibiotika</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=bolest" href="href=bolest"><span class="fas fa-tag">i</span>bolest</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=boule" href="href=boule"><span class="fas fa-tag">i</span>boule</a>
@@ -234,7 +215,7 @@
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=břicho" href="href=břicho"><span class="fas fa-tag">i</span>břicho</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=cévy" href="href=cévy"><span class="fas fa-tag">i</span>cévy</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=cukrovka" href="href=cukrovka"><span class="fas fa-tag">i</span>cukrovka</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=dětské" href="href=dětské"><span class="fas fa-tag">i</span>dětské</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=děti" href="href=děti"><span class="fas fa-tag">i</span>děti</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=dýchání" href="href=dýchání"><span class="fas fa-tag">i</span>dýchání</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=hygiena" href="href=hygiena"><span class="fas fa-tag">i</span>hygiena</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=imunita" href="href=imunita"><span class="fas fa-tag">i</span>imunita</a>
@@ -247,7 +228,7 @@
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=kůže-podkoží" href="href=kůže-podkoží"><span class="fas fa-tag">i</span>kůže-podkoží</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=látková výměna" href="href=látková výměna"><span class="fas fa-tag">i</span>látková výměna</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=mikroorganizmy" href="href=mikroorganizmy"><span class="fas fa-tag">i</span>mikroorganizmy</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=močová soustava" href="href=močová soustava"><span class="fas fa-tag">i</span>močová soustava</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=moč" href="href=moč"><span class="fas fa-tag">i</span>moč</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=mozek-nervy" href="href=mozek-nervy"><span class="fas fa-tag">i</span>mozek-nervy</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=mýty" href="href=mýty"><span class="fas fa-tag">i</span>mýty</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=nádory" href="href=nádory"><span class="fas fa-tag">i</span>nádory</a>
@@ -258,10 +239,11 @@
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=pocení" href="href=pocení"><span class="fas fa-tag">i</span>pocení</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=pohyb" href="href=pohyb"><span class="fas fa-tag">i</span>pohyb</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=poranění" href="href=poranění"><span class="fas fa-tag">i</span>poranění</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=poruchy vědomí" href="href=poruchy vědomí"><span class="fas fa-tag">i</span>poruchy vědomí</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=porucha vědomí" href="href=porucha vědomí"><span class="fas fa-tag">i</span>porucha vědomí</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=přehřátí" href="href=přehřátí"><span class="fas fa-tag">i</span>přehřátí</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=prevence" href="href=prevence"><span class="fas fa-tag">i</span>prevence</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=prochlazení" href="href=prochlazení"><span class="fas fa-tag">i</span>prochlazení</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=průjem" href="href=průjem"><span class="fas fa-tag">i</span>průjem</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=první pomoc" href="href=první pomoc"><span class="fas fa-tag">i</span>první pomoc</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=rehabilitace" href="href=rehabilitace"><span class="fas fa-tag">i</span>rehabilitace</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=říhání" href="href=říhání"><span class="fas fa-tag">i</span>říhání</a>
@@ -274,7 +256,7 @@
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=tekutiny" href="href=tekutiny"><span class="fas fa-tag">i</span>tekutiny</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=teplota" href="href=teplota"><span class="fas fa-tag">i</span>teplota</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=točení hlavy" href="href=točení hlavy"><span class="fas fa-tag">i</span>točení hlavy</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=úrazy" href="href=úrazy"><span class="fas fa-tag">i</span>úrazy</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=úraz" href="href=úraz"><span class="fas fa-tag">i</span>úraz</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=uzliny" href="href=uzliny"><span class="fas fa-tag">i</span>uzliny</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=vykloubení" href="href=vykloubení"><span class="fas fa-tag">i</span>vykloubení</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=žaludek" href="href=žaludek"><span class="fas fa-tag">i</span>žaludek</a>
@@ -286,7 +268,7 @@
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=žlučník" href="href=žlučník"><span class="fas fa-tag">i</span>žlučník</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=zvíře" href="href=zvíře"><span class="fas fa-tag">i</span>zvíře</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=zvracení" href="href=zvracení"><span class="fas fa-tag">i</span>zvracení</a>
-<!-- generated by user_update.sh on 2020-08-04 -->
+<!-- generated by user_update.sh on 2020-09-18 -->
       </dd>
     </dl>
   </var>
@@ -296,15 +278,16 @@
     <ul class="completable-search__wrapper">
       <li><select id="completable-search" name="s" class="completable">
 <!-- [completable] generated content, do not edit -->
-<option class="tag" value="stitky/alergie">alergie - 8 výskytů</option>
-<option class="tag" value="stitky/antibiotika">antibiotika - 3 výskyty</option>
+<option class="tag" value="stitky/alergie">alergie - 9 výskytů</option>
+<option class="tag" value="stitky/angina">angína - 4 výskyty</option>
+<option class="tag" value="stitky/antibiotika">antibiotika - 6 výskytů</option>
 <option class="tag" value="stitky/bolest">bolest - 2 výskyty</option>
 <option class="tag" value="stitky/boule">boule - 2 výskyty</option>
 <option class="tag" value="stitky/boulicka">boulička - 12 výskytů</option>
 <option class="tag" value="stitky/bricho">břicho - 25 výskytů</option>
 <option class="tag" value="stitky/cevy">cévy - 23 výskytů</option>
-<option class="tag" value="stitky/cukrovka">cukrovka - 7 výskytů</option>
-<option class="tag" value="stitky/detske">dětské - 12 výskytů</option>
+<option class="tag" value="stitky/cukrovka">cukrovka - 6 výskytů</option>
+<option class="tag" value="stitky/deti">děti - 11 výskytů</option>
 <option class="tag" value="stitky/dychani">dýchání - 4 výskyty</option>
 <option class="tag" value="stitky/hygiena">hygiena - 10 výskytů</option>
 <option class="tag" value="stitky/imunita">imunita - 6 výskytů</option>
@@ -313,48 +296,49 @@
 <option class="tag" value="stitky/kasel">kašel - 2 výskyty</option>
 <option class="tag" value="stitky/kloub">kloub - 2 výskyty</option>
 <option class="tag" value="stitky/kolaps">kolaps - 5 výskytů</option>
-<option class="tag" value="stitky/krvaceni">krvácení - 25 výskytů</option>
+<option class="tag" value="stitky/krvaceni">krvácení - 26 výskytů</option>
 <option class="tag" value="stitky/kuze-podkozi">kůže-podkoží - 16 výskytů</option>
-<option class="tag" value="stitky/latkova_vymena">látková výměna - 4 výskyty</option>
-<option class="tag" value="stitky/mikroorganizmy">mikroorganizmy - 18 výskytů</option>
-<option class="tag" value="stitky/mocova_soustava">močová soustava - 7 výskytů</option>
+<option class="tag" value="stitky/latkova_vymena">látková výměna - 3 výskyty</option>
+<option class="tag" value="stitky/mikroorganizmy">mikroorganizmy - 17 výskytů</option>
+<option class="tag" value="stitky/moc">moč - 8 výskytů</option>
 <option class="tag" value="stitky/mozek-nervy">mozek-nervy - 8 výskytů</option>
 <option class="tag" value="stitky/myty">mýty - 2 výskyty</option>
 <option class="tag" value="stitky/nadory">nádory - 18 výskytů</option>
 <option class="tag" value="stitky/nehet">nehet - 2 výskyty</option>
-<option class="tag" value="stitky/neurazove">neúrazové - 23 výskytů</option>
+<option class="tag" value="stitky/neurazove">neúrazové - 21 výskytů</option>
 <option class="tag" value="stitky/nevolnost">nevolnost - 18 výskytů</option>
 <option class="tag" value="stitky/nezhoubne">nezhoubné - 9 výskytů</option>
 <option class="tag" value="stitky/poceni">pocení - 10 výskytů</option>
-<option class="tag" value="stitky/pohyb">pohyb - 35 výskytů</option>
-<option class="tag" value="stitky/poraneni">poranění - 27 výskytů</option>
-<option class="tag" value="stitky/poruchy_vedomi">poruchy vědomí - 11 výskytů</option>
+<option class="tag" value="stitky/pohyb">pohyb - 34 výskytů</option>
+<option class="tag" value="stitky/poraneni">poranění - 26 výskytů</option>
+<option class="tag" value="stitky/porucha_vedomi">porucha vědomí - 12 výskytů</option>
 <option class="tag" value="stitky/prehrati">přehřátí - 2 výskyty</option>
 <option class="tag" value="stitky/prevence">prevence - 39 výskytů</option>
 <option class="tag" value="stitky/prochlazeni">prochlazení - 4 výskyty</option>
-<option class="tag" value="stitky/prvni_pomoc">první pomoc - 18 výskytů</option>
+<option class="tag" value="stitky/prujem">průjem - 2 výskyty</option>
+<option class="tag" value="stitky/prvni_pomoc">první pomoc - 19 výskytů</option>
 <option class="tag" value="stitky/rehabilitace">rehabilitace - 4 výskyty</option>
 <option class="tag" value="stitky/rihani">říhání - 2 výskyty</option>
 <option class="tag" value="stitky/seniori">senioři - 5 výskytů</option>
-<option class="tag" value="stitky/spaleniny">spáleniny - 4 výskyty</option>
+<option class="tag" value="stitky/spaleniny">spáleniny - 3 výskyty</option>
 <option class="tag" value="stitky/srdce">srdce - 5 výskytů</option>
-<option class="tag" value="stitky/strach">strach - 19 výskytů</option>
+<option class="tag" value="stitky/strach">strach - 17 výskytů</option>
 <option class="tag" value="stitky/strava-zazivani">strava-zažívání - 17 výskytů</option>
 <option class="tag" value="stitky/strevo">střevo - 2 výskyty</option>
 <option class="tag" value="stitky/tekutiny">tekutiny - 5 výskytů</option>
 <option class="tag" value="stitky/teplota">teplota - 21 výskytů</option>
 <option class="tag" value="stitky/toceni_hlavy">točení hlavy - 5 výskytů</option>
-<option class="tag" value="stitky/urazy">úrazy - 37 výskytů</option>
+<option class="tag" value="stitky/uraz">úraz - 39 výskytů</option>
 <option class="tag" value="stitky/uzliny">uzliny - 8 výskytů</option>
 <option class="tag" value="stitky/vykloubeni">vykloubení - 2 výskyty</option>
 <option class="tag" value="stitky/zaludek">žaludek - 9 výskytů</option>
-<option class="tag" value="stitky/zanet">zánět - 45 výskytů</option>
+<option class="tag" value="stitky/zanet">zánět - 46 výskytů</option>
 <option class="tag" value="stitky/zdravy_zivotni_styl">zdravý životní styl - 12 výskytů</option>
 <option class="tag" value="stitky/zhoubne">zhoubné - 16 výskytů</option>
 <option class="tag" value="stitky/zlaza">žláza - 9 výskytů</option>
 <option class="tag" value="stitky/zlomeniny">zlomeniny - 11 výskytů</option>
 <option class="tag" value="stitky/zlucnik">žlučník - 5 výskytů</option>
-<option class="tag" value="stitky/zvire">zvíře - 3 výskyty</option>
+<option class="tag" value="stitky/zvire">zvíře - 2 výskyty</option>
 <option class="tag" value="stitky/zvraceni">zvracení - 24 výskytů</option>
 <option class="article" value="clanky/znamenko-bradavice-rakovina">Mateřské znaménko, bradavice nebo rakovina - Znaménko, bradavice, rakovina</option>
 <option class="article" value="clanky/zlucove_kameny">Prevence a léčba žlučových kamenů - Žlučové kameny</option>
@@ -465,7 +449,7 @@
 <option class="article" value="clanky/antibiotika">Proč nelze mít svá oblíbená antibiotika - Antibiotika</option>
 <option class="article" value="clanky/akutni_torticollis">(Ne)závažnost strnutí šíje - Akutní torticollis</option>
 <option class="article" value="clanky/akne">Boj proti akné - Akné</option>
-<!-- generated by user_update.sh on 2020-08-04 -->
+<!-- generated by user_update.sh on 2020-09-18 -->
         </select><button type="submit" class="completable__submit button button--img button--img-inline" aria-label="Vyhledat"><span>Vyhledat</span><span class="far fa-fw fa-search">i</span></button></li>
     </ul>
   </form>
