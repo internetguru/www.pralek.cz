@@ -3,7 +3,7 @@
 
 {ctime="2010-12-30" mtime="2010-12-30" data-top="973" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lupavy\_prst" short="Lupavý prst"}
 
-# Lupavý prst
+# Příčiny a léčba lupavého prstu
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 

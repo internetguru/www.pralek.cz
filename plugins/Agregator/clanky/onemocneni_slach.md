@@ -122,5 +122,5 @@ n/a
  [4]: antibiotika
  [5]: lymfaticke_uzliny
  [6]: nezhoubne_nadory
- [7]: natazeni_natrzeni_svalu
+ [7]: poraneni_svalu
 

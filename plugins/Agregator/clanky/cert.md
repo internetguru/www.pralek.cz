@@ -112,10 +112,10 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: znamenko-bradavice-rakovina
- [2]: zasady_spravneho_opalovani
+ [2]: opalovani
  [3]: puchyr_mozol_kuri_oko
  [4]: nezhoubny_nebo_zhoubny_nador
  [5]: zanet
- [6]: zanetlive_lozisko_nad_hyzdovou_ryhou
+ [6]: dzipova_nemoc
  [7]: nezhoubne_nadory
 

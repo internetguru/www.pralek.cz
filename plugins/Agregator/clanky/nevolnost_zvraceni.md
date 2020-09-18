@@ -136,7 +136,7 @@ n/a
  [3]: kinetoza
  [4]: teplota
  [5]: zlucove_kameny
- [6]: bolest_hlavy_migrena
+ [6]: bolesti_hlavy
  [7]: slepak
  [8]: strevni_nepruchodnost
  [9]: kyla

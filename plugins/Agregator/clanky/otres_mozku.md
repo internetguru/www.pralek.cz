@@ -103,7 +103,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: drobna_krvava_poraneni
- [2]: mdloba_neboli_kolaps
+ [2]: kolaps
  [3]: resuscitace-ozivovani
  [4]: funkcni_poruchy_traveni
  [5]: boule_nasledkem_urazu

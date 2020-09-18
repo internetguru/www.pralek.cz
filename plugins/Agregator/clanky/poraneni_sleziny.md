@@ -110,7 +110,7 @@ n/a
  [4]: srdecni_infarkt
  [5]: krevni_tlak
  [6]: teplota
- [7]: mdloba_neboli_kolaps
- [8]: rychla_lekarska_pomoc
+ [7]: kolaps
+ [8]: zachranka
  [9]: darcovstvi_krve
 

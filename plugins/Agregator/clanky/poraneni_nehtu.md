@@ -3,7 +3,7 @@
 
 {ctime="2011-11-30" mtime="2011-11-30" data-top="997" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu"}
 
-# Poranění nehtu
+# Nejčastější poranění nehtu
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
@@ -123,5 +123,5 @@ n/a
  [4]: zanet
  [5]: bolest_v_krku_angina
  [6]: nalehavost_lekarskeho_vysetreni
- [7]: zlomeniny_kosti
+ [7]: zlomeniny
 

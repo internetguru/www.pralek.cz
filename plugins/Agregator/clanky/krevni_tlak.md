@@ -131,5 +131,5 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: mdloba_neboli_kolaps
+ [1]: kolaps
 

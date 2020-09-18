@@ -91,7 +91,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: podvrtnuti_kotniku
+ [1]: vyron_kotniku
  [2]: nalehavost_lekarskeho_vysetreni
  [3]: patni_ostruha
 

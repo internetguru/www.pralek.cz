@@ -102,8 +102,8 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: poraneni_jedovatym_zviretem
+ [1]: jedovate_zvire
  [2]: imunita
  [3]: ryma_a_smrkani
- [4]: mdloba_neboli_kolaps
+ [4]: kolaps
 

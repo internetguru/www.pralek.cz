@@ -114,7 +114,7 @@ n/a
 
  [1]: tlak_zaludku
  [2]: funkcni_poruchy_traveni
- [3]: rakovina_tlusteho_streva_a_konecniku
+ [3]: rakovina_streva
  [4]: mocove_kameny
  [5]: zlucove_kameny
  [6]: otres_mozku

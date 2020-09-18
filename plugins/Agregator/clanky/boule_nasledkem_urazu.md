@@ -86,8 +86,8 @@ n/a
  [2]: lecba_zanetu
  [3]: bakterie
  [4]: krecove_zily
- [5]: zlomeniny_kosti
- [6]: natazeni_natrzeni_svalu
+ [5]: zlomeniny
+ [6]: poraneni_svalu
  [7]: kyla
  [8]: onemocneni_slach
  [9]: bolesti_v_zadech_houser

@@ -100,8 +100,8 @@ n/a
  [3]: krecove_zily
  [4]: stravovaci_navyky
  [5]: lekove_formy
- [6]: rakovina_tlusteho_streva_a_konecniku
+ [6]: rakovina_streva
  [7]: komplikace_vredu
  [8]: krevni_tlak
- [9]: rychla_lekarska_pomoc
+ [9]: zachranka
 

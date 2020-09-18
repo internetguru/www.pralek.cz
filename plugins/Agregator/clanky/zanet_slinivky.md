@@ -142,7 +142,7 @@ n/a
  [6]: bakterie
  [7]: obezita_a_energie
  [8]: nezhoubny_nebo_zhoubny_nador
- [9]: rakovina_tlusteho_streva_a_konecniku
+ [9]: rakovina_streva
  [10]: slepak
  [11]: funkcni_poruchy_traveni
  [12]: nalehavost_lekarskeho_vysetreni

@@ -114,9 +114,9 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: funkcni_poruchy_traveni
- [2]: bolest_hlavy_migrena
+ [2]: bolesti_hlavy
  [3]: kinetoza
  [4]: mrtvice
- [5]: mdloba_neboli_kolaps
+ [5]: kolaps
  [6]: krevni_tlak
 

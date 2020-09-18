@@ -100,7 +100,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: bolest_hlavy_migrena
+ [1]: bolesti_hlavy
  [2]: mocove_kameny
  [3]: artroza
  [4]: bolesti_v_zadech_houser

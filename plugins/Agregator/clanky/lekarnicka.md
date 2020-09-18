@@ -153,20 +153,20 @@ n/a
  [2]: plisne_kuze
  [3]: teplota
  [4]: odreniny_neboli_oderky
- [5]: poraneni_jedovatym_zviretem
+ [5]: jedovate_zvire
  [6]: prisate_kliste
  [7]: puchyr_mozol_kuri_oko
  [8]: bodne_a_strelne_poraneni
  [9]: projevy_alergie
  [10]: naplastovy_steh
- [11]: podvrtnuti_kotniku
- [12]: zlomeniny_kosti
+ [11]: vyron_kotniku
+ [12]: zlomeniny
  [13]: boule_nasledkem_urazu
  [14]: ochlazeni_spaleniny
  [15]: funkcni_poruchy_traveni
  [16]: ryma_a_smrkani
  [17]: leky_proti_bolesti
- [18]: bolest_hlavy_migrena
+ [18]: bolesti_hlavy
  [19]: kasel_a_typy_kasle
  [20]: lekove_formy
  [21]: lecba_zanetu

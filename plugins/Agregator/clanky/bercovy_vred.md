@@ -103,7 +103,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: zanet
- [2]: zasady_spravneho_opalovani
+ [2]: opalovani
  [3]: plisne_kuze
  [4]: cholesterol
  [5]: krvacejici_varix

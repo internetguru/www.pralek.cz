@@ -117,7 +117,7 @@ n/a
  [1]: artroza
  [2]: starecke_zlomeniny
  [3]: akutni_torticollis
- [4]: zlomeniny_kosti
+ [4]: zlomeniny
  [5]: onemocneni_slach
  [6]: leky_proti_bolesti
  [7]: nalehavost_lekarskeho_vysetreni

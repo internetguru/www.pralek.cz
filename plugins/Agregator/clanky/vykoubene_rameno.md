@@ -101,5 +101,5 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: pneumotorax
- [2]: rychla_lekarska_pomoc
+ [2]: zachranka
 

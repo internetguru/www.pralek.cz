@@ -115,6 +115,6 @@ n/a
  [1]: kasel_a_typy_kasle
  [2]: resuscitace-ozivovani
  [3]: bodne_a_strelne_poraneni
- [4]: rychla_lekarska_pomoc
+ [4]: zachranka
  [5]: drobna_krvava_poraneni
 

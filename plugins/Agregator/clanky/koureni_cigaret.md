@@ -146,7 +146,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: kasel_a_typy_kasle
- [2]: rakovina_tlusteho_streva_a_konecniku
+ [2]: rakovina_streva
  [3]: srdecni_infarkt
  [4]: mrtvice
  [5]: komplikace_vredu

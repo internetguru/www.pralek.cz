@@ -106,7 +106,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zlomeniny_kosti
+ [1]: zlomeniny
  [2]: urazy_deti
  [3]: leceni_zlomenin
  [4]: nalehavost_lekarskeho_vysetreni

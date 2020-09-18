@@ -163,7 +163,7 @@ n/a
  [10]: chripka
  [11]: subduralni_hematom
  [12]: bolesti_v_zadech_houser
- [13]: bolest_hlavy_migrena
+ [13]: bolesti_hlavy
  [14]: srdecni_infarkt
  [15]: cukrovka
 

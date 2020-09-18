@@ -124,7 +124,7 @@ n/a
  [1]: resuscitace-ozivovani
  [2]: prijem_tekutin
  [3]: funkcni_poruchy_traveni
- [4]: bolest_hlavy_migrena
+ [4]: bolesti_hlavy
  [5]: zanet
  [6]: imunita
  [7]: leky_proti_bolesti

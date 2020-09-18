@@ -147,7 +147,7 @@ n/a
  [4]: antibiotika
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: slepak
- [7]: podvrtnuti_kotniku
+ [7]: vyron_kotniku
  [8]: bakterie
  [9]: puchyr_mozol_kuri_oko
  [10]: jak_neonemocnet

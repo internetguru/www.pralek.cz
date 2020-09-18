@@ -98,5 +98,5 @@ n/a
  [6]: resuscitace-ozivovani
  [7]: zarustajici_nehty
  [8]: ochlazeni_spaleniny
- [9]: zasady_spravneho_opalovani
+ [9]: opalovani
 

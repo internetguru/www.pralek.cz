@@ -112,14 +112,14 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zasady_spravneho_opalovani
+ [1]: opalovani
  [2]: znamenko-bradavice-rakovina
  [3]: puchyr_mozol_kuri_oko
  [4]: lekove_formy
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: lymfaticke_uzliny
  [7]: akne
- [8]: onemocneni_prsu
+ [8]: afekce_prsu
  [9]: zanet
  [10]: krvaceni_z_konecniku
  [11]: cukrovka

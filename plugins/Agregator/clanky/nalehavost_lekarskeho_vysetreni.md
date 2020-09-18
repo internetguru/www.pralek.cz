@@ -137,11 +137,11 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: resuscitace-ozivovani
- [2]: rychla_lekarska_pomoc
+ [2]: zachranka
  [3]: ochlazeni_spaleniny
  [4]: mocove_kameny
  [5]: leky_proti_bolesti
- [6]: zlomeniny_kosti
+ [6]: zlomeniny
  [7]: boule_nasledkem_urazu
  [8]: slepak
  [9]: strevni_nepruchodnost
@@ -155,8 +155,8 @@ n/a
  [17]: drobna_krvava_poraneni
  [18]: puchyr_mozol_kuri_oko
  [19]: onemocneni_slach
- [20]: natazeni_natrzeni_svalu
- [21]: podvrtnuti_kotniku
+ [20]: poraneni_svalu
+ [21]: vyron_kotniku
  [22]: krvaceni_z_konecniku
  [23]: bolest_v_krku_angina
  [24]: ryma_a_smrkani

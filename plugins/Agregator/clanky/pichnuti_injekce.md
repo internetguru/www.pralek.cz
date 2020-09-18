@@ -101,7 +101,7 @@ n/a
 
  [1]: cukrovka
  [2]: lekove_formy
- [3]: mdloba_neboli_kolaps
+ [3]: kolaps
  [4]: drobna_krvava_poraneni
  [5]: bodne_a_strelne_poraneni
 

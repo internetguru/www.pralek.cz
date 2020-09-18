@@ -137,8 +137,8 @@ n/a
  [2]: zanet
  [3]: znamenko-bradavice-rakovina
  [4]: lymfaticke_uzliny
- [5]: zlomeniny_kosti
- [6]: rakovina_tlusteho_streva_a_konecniku
+ [5]: zlomeniny
+ [6]: rakovina_streva
  [7]: krvaceni_z_konecniku
  [8]: odhaleni_rakoviny
  [9]: onemocneni_slach

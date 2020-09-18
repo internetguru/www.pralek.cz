@@ -100,7 +100,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: mytus_o_rakovine
- [2]: zasady_spravneho_opalovani
+ [2]: opalovani
  [3]: chripka
  [4]: puchyr_mozol_kuri_oko
  [5]: nezhoubne_nadory

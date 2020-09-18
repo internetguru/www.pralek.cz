@@ -57,7 +57,7 @@ Vždy je třeba rozlišit prosté pohmoždění od závažného zranění, což 
 
 **Pohmoždění po pádu z kola bývají mnohočetná.** Je-li zraněný při vědomí a spolupracuje, je třeba vědět o nebezpečích, která mohou na zdánlivě lehký úraz navazovat. V případě zjevně těžkého poranění se [řeší úraz přivoláním RLP][11].
 
-{id="zlomeniny_kosti"}
+{id="zlomeniny"}
 
 ## Zlomeniny kostí
 
@@ -133,10 +133,10 @@ n/a
  [8]: otres_mozku
  [9]: subduralni_hematom
  [10]: bolesti_v_zadech_houser
- [11]: rychla_lekarska_pomoc
- [12]: natazeni_natrzeni_svalu
- [13]: podvrtnuti_kotniku
- [14]: zlomeniny_kosti
+ [11]: zachranka
+ [12]: poraneni_svalu
+ [13]: vyron_kotniku
+ [14]: zlomeniny
  [15]: starecke_zlomeniny
  [16]: detske_zlomeniny
 

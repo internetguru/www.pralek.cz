@@ -100,8 +100,8 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: podvrtnuti_kotniku
- [2]: zlomeniny_kosti
+ [1]: vyron_kotniku
+ [2]: zlomeniny
  [3]: nalehavost_lekarskeho_vysetreni
  [4]: detske_zlomeniny
 

@@ -95,6 +95,6 @@ n/a
  [3]: bakterie
  [4]: urazy_deti
  [5]: nalehavost_lekarskeho_vysetreni
- [6]: rychla_lekarska_pomoc
+ [6]: zachranka
  [7]: akne
 

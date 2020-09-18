@@ -105,5 +105,5 @@ n/a
  [1]: otres_mozku
  [2]: kasel_a_typy_kasle
  [3]: srdecni_infarkt
- [4]: mdloba_neboli_kolaps
+ [4]: kolaps
 

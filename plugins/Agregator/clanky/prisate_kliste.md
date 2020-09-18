@@ -84,7 +84,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: bakterie
- [2]: bolest_hlavy_migrena
+ [2]: bolesti_hlavy
  [3]: teplota
  [4]: akutni_torticollis
 

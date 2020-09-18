@@ -90,6 +90,6 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: rakovina_tlusteho_streva_a_konecniku
+ [1]: rakovina_streva
  [2]: krvaceni_dasni
 
