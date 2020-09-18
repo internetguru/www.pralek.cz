@@ -5,9 +5,9 @@
 
 # Vhodná a nevhodná obuv
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="pohyb, prevence, zdravý životní styl, úrazy, dětské"}
+{kw="pohyb, prevence, zdravý životní styl, úraz, děti"}
 
 Vhodná obuv je taková, která je adekvátní danému sportu nebo jiné aktivitě. Sportování, chůze nebo běhání musí být příjemné, bota nesmí být volná ani nikde tlačit. Materiál, ze kterého je obuv vyrobena, nesmí alergizovat.
 
@@ -31,7 +31,7 @@ n/a
 
 Nejrůznější _speciální (značková) kvalitní obuv_ určená pro jednotlivé sporty nohu chrání a zpevňuje v nejvíce zatěžovaných místech. V případě již vzniklé drobné pohybové vady dokáže špičková obuv zkvalitnit stereotyp pohybu nebo chůze a zbavit sportovce problému při pohybu (například při [bolesti paty][3]). Kvalitní obuv samozřejmě maximálně brání uklouznutí a chrání před zevním poraněním. Taková bota jistě nejlépe poslouží sportovcům k dosažení nejlepších výsledků.
 
-**Dlouhodobě příliš šetřené vazy (kvalitní obuví) se nezpevňují a mohou dokonce slábnout _(atrofovat)_.** To platí i při zátěži nohy sportem. Podobně negativně působí neúměrně [dlouhodobě nošená ortéza][1].
+**Dlouhodobě příliš šetřené vazy (kvalitní obuví) se nezpevňují a mohou dokonce slábnout _(atrofovat)_.** To platí i při zátěži nohy sportem. Podobně negativně působí neúměrně [dlouhodobě nošená ortéza][1]. 
 
 Oproti tomu _nekvalitní (levná neznačková) obuv_ je vyrobena z méně kvalitního materiálu a je méně propracovaná, méně pohodlná. Zátěž v takové obuvi však **nutí nohu k užívání důležitých vazů a tím i k jejich posilování**. Chůze nebo sportování v takové obuvi jsou ovšem méně pohodlné. Pohyb musí být stále kontrolován, hrozí větší nebezpečí poranění.
 

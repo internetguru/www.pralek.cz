@@ -5,9 +5,9 @@
 
 # Rychlá lékařská pomoc
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="poruchy vědomí, infarkt, cévy, první pomoc, úrazy, zlomeniny"}
+{kw="porucha vědomí, infarkt, cévy, první pomoc, úraz, zlomeniny"}
 
 Úkolem rychlé lékařské pomoci (záchranky) je záchrana lidí v ohrožení života. Záchranka nenahrazuje lékařskou službu první pomoci (pohotovost) a není na takovou práci ani prostorově ani technicky vybavena.
 

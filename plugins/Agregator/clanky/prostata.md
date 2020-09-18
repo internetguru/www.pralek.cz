@@ -5,9 +5,9 @@
 
 # Prostata: potíže s močením
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="prostata, žláza, močová soustava, zánět, nádory, nezhoubné, zhoubné"}
+{kw="prostata, žláza, moč, zánět, nádory, nezhoubné, zhoubné"}
 
 Zvětšená prostata je nejčastější příčinou potíží s močením. Při léčení jakýchkoli potíží s prostatou provádí urolog taková vyšetření, která prokáží nebo vyloučí i rakovinu prostaty. Největší problém tedy hrozí, jestliže se pacient se svými problémy vůbec neléčí.
 

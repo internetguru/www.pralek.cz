@@ -5,9 +5,9 @@
 
 # Poranění nehtu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="nehet, úrazy, strach, krvácení, zánět, zlomeniny"}
+{kw="nehet, úraz, strach, krvácení, zánět, zlomeniny"}
 
 Úrazy nehtů bývají pro domnělou malichernost podceňované a ze strachu z bolestivosti ošetření zanedbávané. Neošetřená poranění nehtů však vedou ke zbytečným doživotním deformitám.
 

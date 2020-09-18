@@ -5,9 +5,9 @@
 
 # Kdy kašel potlačovat a kdy podporovat
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="kašel, dýchání, zánět, mikroorganizmy, teplota, strach, břicho, poranění"}
+{kw="kašel, dýchání, zánět, mikroorganizmy, teplota, břicho, poranění"}
 
 Každý kašel je dobré nejprve pojmenovat. Výprava do lékárny pro lék proti kašli není vždy účelným řešením potíží. Častěji pomůže lék k uvolnění průdušek, který naopak účinné odkašlání podpoří.
 
@@ -85,8 +85,7 @@ Prudký kašel spojený s následným pocitem nedostatku vzduchu (dušnost) – 
 :   Je dobré se postavit do otevřeného okna a opřít dlaněmi o parapet palci od sebe (pro maximální využití pomocného dýchacího svalstva) a **snažit se dýchat klidně, zhluboka a pomalu**.
 
 Usilovný kašel s nemožností se následně nadechnout a se strachem o život
-:   Bývá spojen s [vdechnutím cizího tělesa][6], kdy se pacient usilovně snaží předmět vykašlat, dokud mu nejdojde dech.
-V plicích však zbývá stále dostatek vzduchu na uvolnění uvíznutého předmětu. Záchranář tak může uvíznutý předmět uvolnit prudkým stlačením hrudníku (Heimlichův manévr).
+:   Bývá spojen s [vdechnutím cizího tělesa][6], kdy se pacient usilovně snaží předmět vykašlat, dokud mu nejdojde dech. V plicích však zbývá stále dostatek vzduchu na uvolnění uvíznutého předmětu. Záchranář tak může uvíznutý předmět uvolnit prudkým stlačením hrudníku (Heimlichův manévr).
 :   V opačném případě se musí postižený sám snažit o pozvolný výdech a poté teprve nádech. Křeč kolem vdechnutého tělesa často sama povolí a dýchací cesty se uvolní.
 
 Kuřácký kašel – pro kuřáky nezbytný

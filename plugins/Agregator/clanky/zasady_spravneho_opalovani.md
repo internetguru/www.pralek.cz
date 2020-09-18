@@ -5,7 +5,7 @@
 
 # Zásady správného opalování
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
 {kw="kůže-podkoží, spáleniny, prevence, zhoubné, zánět, nádory"}
 
@@ -33,12 +33,12 @@ Intenzita slunečního záření se mění (v našich krajích) podle ročního 
 
 n/a
 
-V případě nadměrného opalování dojde ke [spálenině sluncem][1]. Již pouhé zarudnutí kůže (1. stupeň spáleniny) je nejen nepříjemné, ale také nebezpečné. V případě [tvorby puchýřů][2] (2. stupeň spáleniny) je bolestivost ještě větší. Nadměrné dráždění nepřipravených _melanocytů_ slunečním zářením může vést ke vzniku [nejzávažnější rakoviny kůže – _melanomu_][3].
+V případě nadměrného opalování dojde ke [spálenině sluncem][1]. Již pouhé zarudnutí kůže (1. stupeň spáleniny) je nejen nepříjemné, ale také nebezpečné. V případě [tvorby puchýřů][2] (2. stupeň spáleniny) je bolestivost ještě větší. Nadměrné dráždění nepřipravených _melanocytů_ slunečním zářením může vést ke vzniku [nejzávažnější rakoviny kůže – _melanomu_][3] . 
 
 Přiměřené vystavování slunečnímu záření je nutné (tvorba vitamínu D). Pro každého člověka je však přiměřené jiné množství záření. **Nadměrné dlouhodobé slunění však není zdravé**, protože:
 
   * urychluje stárnutí kůže (podporuje vysychání, snižuje pružnost kůže a tím podporuje tvorbu vrásek),
-  * zvyšuje pravděpodobnost [onemocnění rakovinou kůže – _bazaliom_][3].
+  * zvyšuje pravděpodobnost [onemocnění rakovinou kůže – _bazaliom_][3] . 
 
 {id="rozlicne\_typy\_lidi\_ve\_vztahu\_ke\_slunecnimu_zareni"}
 

@@ -5,9 +5,9 @@
 
 # Bakterie jako pomocník a nepřítel člověka
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="mikroorganizmy, antibiotika, zánět, hygiena, strava-zažívání, nevolnost, zvracení"}
+{kw="mikroorganizmy, antibiotika, zánět, hygiena, nevolnost, zvracení"}
 
 Bakterie a celé bakteriální kmeny jsou pro lidské tělo prospěšné, pokud se vyskytují na příslušných místech. Jakmile se však dostanou, kam nepatří, mohou způsobit nemoc. Přirozená bakteriální flóra bývá vždy narušena užíváním antibiotik.
 

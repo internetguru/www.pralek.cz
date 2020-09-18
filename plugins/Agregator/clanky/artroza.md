@@ -5,9 +5,9 @@
 
 # Bolesti kloubů – jak žít s artrózou
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="senioři, bolest, rehabilitace, pohyb, prevence, úrazy"}
+{kw="senioři, bolest, rehabilitace, pohyb, prevence, úraz"}
 
 Klouby se přetěžováním a věkem opotřebovávají. Poškozené klouby bolí, otékají, postupně se deformují a jsou omezeně pohyblivé. Pravidelná a přiměřená zátěž udrží nemoc relativně snesitelnou.
 

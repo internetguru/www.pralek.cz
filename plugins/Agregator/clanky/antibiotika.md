@@ -5,9 +5,9 @@
 
 # Proč nelze mít svá oblíbená antibiotika
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="zánět, imunita, mikroorganizmy, teplota, alergie, prevence, močová soustava"}
+{kw="zánět, imunita, mikroorganizmy, teplota, angína, alergie, prevence, moč"}
 
 Nežádoucí [bakterie][1] jsou v lidském těle likvidovány bílými krvinkami. Antibiotika mohou bílým krvinkám pomoci, pokud bakterie dočasně vítězí. To se projevuje [rozvojem zánětu][2].
 

@@ -5,9 +5,9 @@
 
 # Spolknuté nebezpečné a ostré předměty
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="břicho, žaludek, střevo, poranění, úrazy, dětské, zvracení"}
+{kw="břicho, žaludek, střevo, poranění, úraz, děti, zvracení"}
 
 Spolknutý ostrý předmět většinou nezpůsobí žádné potíže a bez problémů projde zažívacím traktem. Potíže může způsobit spíše větší předmět, který nemusí projít zúženými místy zažívacího traktu. Nejzávažnější poranění způsobí spolknutá kyselina nebo zásada.
 

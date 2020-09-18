@@ -5,9 +5,9 @@
 
 # Časté úrazy malých dětí
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="poranění, úrazy, první pomoc, zlomeniny, prevence, dětské, pohyb"}
+{kw="poranění, úraz, první pomoc, zlomeniny, prevence, děti, pohyb"}
 
 Mechanizmy úrazů malých dětí se stále stejně opakují. Jestliže budou opatrovníkům známé, je snadné takovým úrazům předcházet.
 
@@ -23,7 +23,7 @@ Dítě, které se učí chodit, padá velmi často. Vzhledem k nedokonalé koord
 
   * Problém může nastat, jde-li malé dítě s opatrovníkem za ruku a padá. Pak jej opatrovník za ruku pozvedá, aby předešel jeho pádu. Jestli se dítě pootočí setrvačností kolem osy své ruky _(pronatio dolorosa)_, snadno doje k vykloubení hlavičky kosti vřetení z vazivového poutka v lokti _(luxatio dolorosa)_. Následně dítě poraněnou končetinu přestane používat a jakákoli manipulace je velmi bolestivá. Zkušený chirurg jednoduchým manévrem napraví vykloubení. Jistě je však jednodušší **nikdy dítě nezvedat za jednu ruku**.
   * Problém nastane vždy při pádu na ostrou hranu (nejčastěji radiátor, roh stolu, práh dveří, ostrá hrana schodu, nevhodná hračka, ostrý kámen). Vzniklé [drobné krvavé poranění hlavy][2] je nutné ošetřit a odlišit prosté poranění hlavy od [otřesu mozku][3]. Je jistě lepší takovému poranění předejít a **chůzi nacvičovat na takových místech, kde ke krvavému poranění nemůže dojít**.
-  * Vážný problém nastane, má li dítě při pádu v ústech lízátko nebo jinou tyčku (klacík, lžičku, tužku). Následné poranění hrtanu, patra nebo dutiny ústní může být závažné. Jako první pomoc v takovém případě lze doporučit neprodlený [transport k lékařskému ošetření][4]. Přirozené **[strkání všech předmětů do úst][5] je třeba sledovat** a patřičně preventivně korigovat.
+  * Vážný problém nastane, má li dítě při pádu v ústech lízátko nebo jinou tyčku (klacík, lžičku, tužku). Následné poranění hrtanu, patra nebo dutiny ústní může být závažné. Jako první pomoc v takovém případě lze doporučit neprodlený [transport k lékařskému ošetření][4]. Přirozené **[strkání všech předmětů do úst][5] je třeba sledovat** a patřičně preventivně korigovat. 
   * Další problém může při pádu nastat, má-li dítě v ústech jídlo. Při pádu na zadek může dítě sousto (bonbón, sousto potravy) vdechnout a dusit se. Musí [následovat resuscitace][6]. Jistě je jednodušší, aby dítě při jídle i při mlsání sedělo (třeba na klíně nebo na zvláštní stoličce) a **při běhání mělo vždy prázdná ústa**.
 
 {id="omotany\_vlas\_kolem_prstu"}

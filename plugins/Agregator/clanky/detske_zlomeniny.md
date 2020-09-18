@@ -5,9 +5,9 @@
 
 # Nejčastější dětské zlomeniny a jejich zvláštnosti
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="zlomeniny, dětské, úrazy, poranění, pohyb, první pomoc"}
+{kw="zlomeniny, děti, úraz, poranění, pohyb, první pomoc"}
 
 Většina dětských zlomenin se hojí dobře, rychle a bez trvalých následků (snad jen s výjimkou zlomenin lokte). Dětské zlomeniny bývají někdy laicky těžko rozpoznatelné.
 

@@ -5,9 +5,9 @@
 
 # Obsah domácí lékárničky
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="první pomoc, teplota, poranění, mikroorganizmy, zánět, alergie, zvíře"}
+{kw="první pomoc, teplota, poranění, mikroorganizmy, zánět, alergie"}
 
 Domácí lékárnička má obsahovat čisté nástroje, zdravotní materiál a ověřené, majiteli známé léky. Každá domácnost by si měla obsah lékárničky upravit podle svých zkušeností a individuálních potřeb.
 

@@ -5,7 +5,7 @@
 
 # Jak snížit hladinu cholesterolu v krvi
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
 {kw="látková výměna, strava-zažívání, zdravý životní styl, prevence, cévy, mozek-nervy"}
 

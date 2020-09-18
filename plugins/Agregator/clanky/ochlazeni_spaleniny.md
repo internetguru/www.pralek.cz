@@ -5,9 +5,9 @@
 
 # Ochlazení jako první pomoc při spálenině
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="poranění, první pomoc, úrazy, kůže-podkoží, dětské, žláza, pohyb"}
+{kw="poranění, první pomoc, úraz, kůže-podkoží, děti, žláza, pohyb"}
 
 Okamžité ochlazení spáleniny zásadně snižuje závažnost úrazu a jeho následky! Nejlépe poslouží proud studené čisté vody. O výsledné závažnosti úrazu rozhoduje každá sekunda.
 

@@ -5,9 +5,9 @@
 
 # Bolest paty: patní ostruha
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="zánět, neúrazové, pohyb, prevence, teplota, úrazy"}
+{kw="zánět, neúrazové, pohyb, prevence, teplota, úraz"}
 
 Patní ostruha je zkostnatělý výrůstek patní kosti v místě úponu vazu. Léčení počátečních příznaků nemoci je snadné. U plně vyvinutého onemocnění jsou nutné složitější léčebné metody.
 
@@ -21,12 +21,12 @@ Ostruha se může vytvořit pod patou uprostřed nohy, na vnitřní nebo zevní 
 
 n/a
 
-  1. Při vzniku ostruhy se jedná zpočátku jen o [bolesti paty][3] v souvislosti se zátěží.
+  1. Při vzniku ostruhy se jedná zpočátku jen o [bolesti paty][3] v souvislosti se zátěží. 
       * Bolí přetížený úpon vazu.
       * Jedná se o [nebakteriální zánět][4].
-  2. Následně dochází k ukládání vápníku do přetěžovaného nebo opakovanými drobnými úrazy drážděného úponu.
+  2. Následně dochází k ukládání vápníku do přetěžovaného nebo opakovanými drobnými úrazy drážděného úponu. 
       * Úpon vazu ke kosti se postupně mění v plnohodnotnou kost a tím vzniká kostěný výrůstek.
-  3. Plně vyvinutá ostruha bolí:
+  3. Plně vyvinutá ostruha bolí: 
       * mechanickým tlakem proti tvrdé podložce nebo proti botě,
       * bolestivý je stále i úpon šlachy k ostruze.
 

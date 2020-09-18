@@ -5,9 +5,9 @@
 
 # Nejčastější stařecké zlomeniny
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="poranění, bolest, senioři, úrazy, zlomeniny, pohyb"}
+{kw="poranění, bolest, senioři, úraz, zlomeniny, pohyb"}
 
 Kosti se ve stáří stávají křehké a málo pevné. Mohou se tedy lámat i při velice malém násilí. To je způsobeno ztrátou chrupavčité složky v kostech, později i ztrátou pevné kostěné složky (takzvané řídnutí kostí).
 
@@ -19,7 +19,7 @@ n/a
 
 Po pádu na zadek může snadno dojít ke zlomenině obratle. Nejčastěji se láme poslední hrudní obratel nebo 1. či 2. obratel bederní (zhruba na úrovni ledvin). [Bolestivost bederní páteře][1] po pádu přisuzuje pacient pohmoždění. Obratel se však násilím zbortil. Většinou nedochází k poškození míchy, není tedy nebezpečí ochrnutí dolních končetin. Někdy může dojít k deformitě páteře (až ke vzniku hrbu).
 
-První pomocí po zlomení obratle je [lék proti bolesti][2]. **[Transport k vyšetření][3] musí být vleže** – sanitou. Léčení pomocí zvláštního korsetu trvá asi 3 měsíce. Operační řešení je nutné výjimečně a trvalé následky nebývají.
+První pomocí po zlomení obratle je [lék proti bolesti][2]. **[Transport k vyšetření][3] musí být vleže** – sanitou. Léčení pomocí zvláštního korsetu trvá asi 3 měsíce. Operační řešení je nutné výjimečně a trvalé následky nebývají. 
 
 {id="zlomenina\_krcku\_stehenni_kosti"}
 

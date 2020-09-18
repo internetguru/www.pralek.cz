@@ -5,7 +5,7 @@
 
 # Mateřské znaménko, bradavice nebo rakovina
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
 {kw="kůže-podkoží, nádory, nezhoubné, zhoubné, prevence, krvácení"}
 
@@ -47,7 +47,7 @@ n/a
 
 n/a
 
-Nebezpečné je tmavé znaménko v rovině kůže, které nově vzniklo nebo se jakkoli mění, svědí, z jedné strany se ztrácí a na druhou stranu roste nebo dokonce krvácí. Za těchto okolností **může ploché mateřské znaménko [způsobit rakovinu][6]**. Je třeba neprodleně vyhledat odborného lékaře a řídit se jeho doporučením.
+Nebezpečné je tmavé znaménko v rovině kůže, které nově vzniklo nebo se jakkoli mění, svědí, z jedné strany se ztrácí a na druhou stranu roste nebo dokonce krvácí. Za těchto okolností **může ploché mateřské znaménko [způsobit rakovinu][6]** . Je třeba neprodleně vyhledat odborného lékaře a řídit se jeho doporučením. 
 
 K aktivizaci (propuknutí nebezpečného stavu) plochého znaménka často vede **nadměrné neřízené vystavování slunečnímu záření** (stejně tak umělému solárnímu). Rovněž mechanické třeba jen jednorázové **poranění plochého znaménka může být závažné** a je třeba vyhledat lékaře.
 

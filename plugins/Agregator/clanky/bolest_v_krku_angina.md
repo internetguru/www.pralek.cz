@@ -5,9 +5,9 @@
 
 # Bolest v krku, nachlazení, angína
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="imunita, mikroorganizmy, teplota, zánět, uzliny, boulička, prevence"}
+{kw="angína, imunita, mikroorganizmy, teplota, zánět, uzliny, boulička, prevence"}
 
 Bolesti v krku mohou přejít v angínu, která je pro připravený organizmus zvládnutelná. Až teprve komplikace angíny mohou způsobit trvalé poškození zdraví.
 
