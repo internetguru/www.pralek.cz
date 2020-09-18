@@ -11,6 +11,17 @@
   <redir link="mikroorganizmy">bakterie</redir>
   <redir link="jaroslav_pavelka">/#jaroslav_pavelka</redir>
   <redir link="koutek">/#clanky</redir>
+  <redir link="bolest_hlavy_migrena">bolesti_hlavy</redir>
+  <redir link="mdloba_neboli_kolaps">kolaps</redir>
+  <redir link="natazeni_natrzeni_svalu">poraneni_svalu</redir>
+  <redir link="onemocneni_prsu">afekce_prsu</redir>
+  <redir link="podvrtnuti_kotniku">vyron_kotniku</redir>
+  <redir link="poraneni_jedovatym_zviretem">jedovate_zvire</redir>
+  <redir link="rakovina_tlusteho_streva_a_konecniku">rakovina_streva</redir>
+  <redir link="rychla_lekarska_pomoc">zachranka</redir>
+  <redir link="zanetlive_lozisko_nad_hyzdovou_ryhou">dzipova_nemoc</redir>
+  <redir link="zasady_spravneho_opalovani">opalovani</redir>
+  <redir link="zlomeniny_kosti">zlomeniny</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
