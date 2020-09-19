@@ -21,9 +21,9 @@
         closeNavig()
         let path = ""        
         if (/^stitky/.test(currentFile.value)) {
-          path = `?usp=navig&stitek=${currentFile.value.match(/(?<=stitky\/).*/)[0]}#clanky`
+          path = `/?usp=navig&stitek=${currentFile.value.match(/(?<=stitky\/).*/)[0]}#clanky`
         } else if (/^clanky/.test(currentFile.value)) {
-          path = `${currentFile.value.match(/(?<=clanky\/).*/)[0]}?usp=navig`
+          path = `/${currentFile.value.match(/(?<=clanky\/).*/)[0]}?usp=navig`
         } else {
           path = "https://www.google.com/search?sitesearch=www.pralek.cz&amp;q=" + currentFile.value
         }
