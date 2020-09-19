@@ -5,7 +5,7 @@
 
 # Péče o penis, hygiena chlapců, fimóza, obřízka
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
 
 {kw="penis, moč, děti, hygiena, prevence, zánět, cukrovka, strach"}
 

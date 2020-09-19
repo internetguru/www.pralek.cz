@@ -5,7 +5,7 @@
 
 # Nezhoubný nebo zhoubný nádor: obecné srovnání
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
 
 {kw="nádory, boulička, strach, nezhoubné, zhoubné"}
 

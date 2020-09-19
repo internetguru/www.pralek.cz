@@ -5,7 +5,7 @@
 
 # Časté úrazy malých dětí
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
 
 {kw="poranění, úraz, první pomoc, zlomeniny, prevence, děti, pohyb"}
 

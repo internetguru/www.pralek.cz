@@ -5,9 +5,9 @@
 
 # Včasné odhalení rakoviny tlustého střeva a konečníku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
 
-{kw="prevence, nádory, zhoubné, krvácení, břicho, neúrazové"}
+{kw="prevence, nádory, zhoubné, krvácení, krev, břicho, neúrazové"}
 
 Opakované vyšetřování stolice na krvácení může odhalit zhoubný nádor střeva a konečníku již v počátečním stádiu, kdy je nádor ještě vyléčitelný. Vyšetření je potřeba doporučit každému člověku od padesáti let, a to i jako laik (čtenář tohoto článku).
 
