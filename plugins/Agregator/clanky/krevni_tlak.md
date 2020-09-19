@@ -5,8 +5,6 @@
 
 # Měření a vyhodnocení krevního tlaku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
-
 {kw="srdce, cévy, krev, prevence, zdravý životní styl, tlakoměr, točení hlavy"}
 
 Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření.
@@ -123,6 +121,9 @@ n/a
 
 n/a
 
+<!-- placeholder -->
+:   <!-- placeholder -->
+
 {var="linklist"}
 
 Seznam odkazů není k dispozici
@@ -130,7 +131,6 @@ Seznam odkazů není k dispozici
 {var="inputvar-taglist" class="taglist"}
 
 n/a
-:
 
  [1]: kolaps
 
