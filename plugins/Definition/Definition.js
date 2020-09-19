@@ -66,11 +66,13 @@
       var
         term = term,
         container = null,
-        created = false
+        created = false,
+        href= null
       return {
         term: term,
         created: created,
         container: container,
+        href: href,
         createContainer: function () {
           var descValue = this.term.getAttribute(Config.dataDescAttr)
           if (!descValue) {
@@ -87,7 +89,7 @@
           closeButton.className = Config.closeClass
           desc.appendChild(closeButton)
 
-          var href = this.term.getAttribute("href")
+          href = this.term.getAttribute("href")
           var hrefTitle = this.term.getAttribute(Config.dataHrefTitleAttr)
           if (!hrefTitle) {
             hrefTitle = href
@@ -146,9 +148,11 @@
             terms[i].classList.add("eventable")
             terms[i].title = `${Config.titlePrefix}${terms[i].title}`
             terms[i].addEventListener("click", generateHandler(termComp, toggleTerm), false)
-            terms[i].addEventListener("dblclick", () => {
-              clearTimeout(clickTimer)
-            }, false)
+            if (terms[i].href) {
+              terms[i].addEventListener("dblclick", () => {
+                clearTimeout(clickTimer)
+              }, false)
+            }
             definitions.push(termComp)
           }
           return terms.length
