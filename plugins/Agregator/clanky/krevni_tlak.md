@@ -130,6 +130,7 @@ Seznam odkazů není k dispozici
 {var="inputvar-taglist" class="taglist"}
 
 n/a
+:
 
  [1]: kolaps
 
