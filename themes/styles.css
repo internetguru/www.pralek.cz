@@ -915,13 +915,12 @@ body:not(.agregator) .hdesc--top label {
   font-weight: 600;
 }
 .search .js-completable__navig li svg {
-  margin: 0 0.5em 0 0.25em;
+  margin: 0 0.35em 0 0;
   color: #616161;
   vertical-align: -0.2em;
 }
 .search .js-completable__navig span {
   color: #9e9e9e;
-  margin-left: 1.7em;
 }
 .search ul .js-completable__input {
   color: #000;
@@ -1036,6 +1035,8 @@ body:not(.agregator) .hdesc--top label {
 .search .js-completable__navig li {
   max-width: 100%;
   display: block;
+  padding-left: 2em;
+  text-indent: -1.3em;
 }
 @media (min-width: 46em) {
   .search .js-completable__navig {
