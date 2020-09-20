@@ -69,7 +69,7 @@
               </li>
               <li>
                 <span class="hideable hideable-hidden">
-                  <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="far fa-fw fa-share-alt">i</span></span>
+                  <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fab fa-fw fa-share-alt">i</span></span>
                   <span class="copyable" fn="inputvar-createlink">
                     <xsl:value-of disable-output-escaping="yes" select="$link"/>
                   </span>
