@@ -149,8 +149,11 @@
             terms[i].title = `${Config.titlePrefix}${terms[i].title}`
             terms[i].addEventListener("click", generateHandler(termComp, toggleTerm), false)
             if (terms[i].href) {
-              terms[i].addEventListener("dblclick", () => {
+              terms[i].addEventListener("dblclick", (event) => {
                 clearTimeout(clickTimer)
+                require("IGCMS.Eventable", () => {
+                  IGCMS.Eventable.sendGAEvent(Config.ns, "dblclick", event.currentTarget.href);
+                })
               }, false)
             }
             definitions.push(termComp)
