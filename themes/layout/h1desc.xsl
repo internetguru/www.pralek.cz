@@ -50,29 +50,33 @@
                 </xsl:element>         
               </li>
               <li>
-                <xsl:element name="a">
-                  <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
-                  <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fb-title"/></xsl:attribute>
-                  <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
-                  <xsl:attribute name="onclick">return !window.open(this.href, 'Facebook', 'width=750,height=500')</xsl:attribute>
-                  <span class="fab fa-fw fa-facebook-square">i</span>
-                </xsl:element>
-              </li>
-              <li>
-                <xsl:element name="a">
-                  <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
-                  <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
-                  <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
-                  <xsl:attribute name="onclick">return !window.open(this.href, 'Twitter', 'width=750,height=500')</xsl:attribute>
-                  <span class="fab fa-fw fa-twitter">i</span>
-                </xsl:element>
-              </li>
-              <li>
                 <span class="hideable hideable-hidden">
                   <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fab fa-fw fa-share-alt">i</span></span>
-                  <span class="copyable" fn="inputvar-createlink">
-                    <xsl:value-of disable-output-escaping="yes" select="$link"/>
-                  </span>
+                  <ul>
+                    <li>
+                      <xsl:element name="a">
+                        <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
+                        <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fb-title"/></xsl:attribute>
+                        <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
+                        <xsl:attribute name="onclick">return !window.open(this.href, 'Facebook', 'width=750,height=500')</xsl:attribute>
+                        <span class="fab fa-fw fa-facebook-square">i</span>
+                      </xsl:element>
+                    </li>
+                    <li>
+                      <xsl:element name="a">
+                        <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
+                        <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
+                        <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
+                        <xsl:attribute name="onclick">return !window.open(this.href, 'Twitter', 'width=750,height=500')</xsl:attribute>
+                        <span class="fab fa-fw fa-twitter">i</span>
+                      </xsl:element>
+                    </li>
+                    <li>
+                      <span class="copyable" fn="inputvar-createlink">
+                        <xsl:value-of disable-output-escaping="yes" select="$link"/>
+                      </span>
+                    </li>
+                  </ul>
                 </span>
               </li>
               <li>
