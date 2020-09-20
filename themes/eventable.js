@@ -31,56 +31,43 @@
             elements[i].addEventListener(eventName, handler, false)
           }
         },
+        firePrintEvent = function () {
+          window.addEventListener("beforeprint", (event) => {
+            sendGAEvent("print")
+          })
+        },
         sendGAEvents = function (event) {
-          var element = event.target
-          // all external
-          if (element.host === window.location.host) {
-            if (!element.classList.contains(Config.ns)) {
-              element = element.parentNode
-            }
-            if (!element.classList.contains(Config.ns)) {
-              return
-            }
-          }
+          var element = this
           var category = element.getAttribute(Config.dataCategory) || element.id || element.className || element.nodeName
           var action = element.getAttribute(Config.dataAction) || element.href || element.nodeName
           var label = element.getAttribute(Config.dataLabel) || element.innerText
           sendGAEvent(category, action, label)
+          if (Config.debug) {
+            event.preventDefault();
+          }
         },
         sendGAFormEvents = function (event) {
           var form = event.target
           var inputs = form.getElementsByTagName("input")
           var category = form.getAttribute(Config.dataCategory) || form.id || form.className || 'form-' + form.action + '-' + form.method
-          var action = form.action + '-' + form.method
-          var label = form.getAttribute(Config.dataLabel) || ""
-          var value = ""
           for (var i = 0; i < inputs.length; i++) {
-            if (inputs[i].type == "hidden") {
-              continue
-            }
-            if (value != "") {
-              value += "\n"
-            }
-            value = value + (inputs[i].name || inputs[i].nodeName) + ":" + inputs[i].value
-          }
-          sendGAEvent(category, action, label, value)
-        },
-        sendGAEvent = function (category, action, label, value) {
-          if (typeof value == "undefined") {
-            value = 1
+            sendGAEvent(category, inputs[i].name, inputs[i].value)
           }
           if (Config.debug) {
-            alert("category: '" + category + "',"
-              + "action: '" + action + "',"
-              + "label: '" + label + "',"
-              + "value: '" + value + "'")
+            event.preventDefault();
+          }
+        },
+        sendGAEvent = function (category, action, label) {
+          if (Config.debug || typeof ga === "undefined") {
+            console.log("category: '" + category + "'\n"
+              + "action: '" + action + "'\n"
+              + "label: '" + label + "'")
           } else {
             ga('send', {
               'hitType': 'event',
               'eventCategory': category,
               'eventAction': action,
-              'eventLabel': label,
-              'eventValue': value
+              'eventLabel': label
             });
           }
         };
@@ -96,10 +83,17 @@
             if (allLinks[i].host && allLinks[i].host !== window.location.host) {
               externalLinks.push(allLinks[i])
             }
+            if (allLinks[i].protocol == "mailto:" || allLinks[i].protocol == "tel:") {
+              externalLinks.push(allLinks[i])
+            }
           }
           fireEvents(externalLinks)
           fireEvents(document.getElementsByTagName("form"))
           fireEvents(document.getElementsByClassName(Config.ns))
+          firePrintEvent()
+        },
+        register: function (link) {
+          fireEvents([link])
         },
         sendGAEvent: sendGAEvent
       }
