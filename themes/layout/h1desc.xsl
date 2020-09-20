@@ -59,7 +59,7 @@
                         <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fb-title"/></xsl:attribute>
                         <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
                         <xsl:attribute name="onclick">return !window.open(this.href, 'Facebook', 'width=750,height=500')</xsl:attribute>
-                        <span class="fab fa-fw fa-facebook-square">i</span>
+                        <span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku
                       </xsl:element>
                     </li>
                     <li>
@@ -68,7 +68,7 @@
                         <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
                         <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
                         <xsl:attribute name="onclick">return !window.open(this.href, 'Twitter', 'width=750,height=500')</xsl:attribute>
-                        <span class="fab fa-fw fa-twitter">i</span>
+                        <span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru
                       </xsl:element>
                     </li>
                     <li>
