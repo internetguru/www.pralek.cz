@@ -408,15 +408,24 @@ body:not(.admin) .extra .hideable-nohide .copyable__wrapper {
   display: block;
 }
 body:not(.admin) .hdesc .copyable__wrapper > span:first-child button {
-  /* padding: .3em */
+  padding: 0 0.5em;
+  width: 100% !important;
+  border: none;
+  background: none;
+  text-align: left;
+  outline: none;
+  height: auto;
+  padding-top: 0.75em;
 }
 body:not(.admin) .copyable__wrapper > span:first-child button svg {
-  /* color: #424242 !important; */
+  color: #616161 !important;
+  margin: 0 0.4em 0 0.25em !important;
 }
 body:not(.admin) .copyable__wrapper>span:first-child+span {
   padding: .5em;
   white-space: nowrap;
-  display: none;
+  /* display: none; */
+  display: block;
 }
 /************************************/
 a:not([href]) {
@@ -772,6 +781,7 @@ body:not(.agregator) .hdesc--top label {
   padding: 0;
   margin-right: auto;
   display: inline-flex;
+  width: 100%;
 }
 .hdesc--top .extra .button-list li:first-child {
   all: initial;
@@ -788,6 +798,7 @@ body:not(.agregator) .hdesc--top label {
 .hdesc--top .extra .button-list ul {
   list-style: none;
   width: 100%;
+  max-width: 23em;
   position: absolute;
   top: 4em;
   left: 0em;
@@ -809,7 +820,7 @@ body:not(.agregator) .hdesc--top label {
   border-radius: var(--global-border-radius) var(--global-border-radius) 0 0;
 }
 #content .hdesc--top .extra .button-list ul li:last-child .button {
-  border-radius:  0 0 var(--global-border-radius) var(--global-border-radius);
+  /* border-radius:  0 0 var(--global-border-radius) var(--global-border-radius); */
 }
 #content .hdesc--top .extra .button-list ul li .button svg {
   margin: 0 0.5em 0 0.25em;
