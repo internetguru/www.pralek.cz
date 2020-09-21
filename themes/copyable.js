@@ -3,41 +3,87 @@
   require("IGCMS", () => {
 
     var Config = {}
-    Config.buttonHTML = "Copy"
-    Config.selectTitle = "Copy"
-    Config.ns = "copyable"
 
-    var Copyable = function () {
+    Config.ns = "copyable"
+    Config.buttonClass = `${Config.ns}__button`
+    Config.buttonIco = "fas fa-fw fa-copy"
+    Config.buttonContent = ""
+    Config.successMsg = ""
+    Config.copyOnClick = false 
+
+
+    var CopyableElm = function () {
 
       var
+        button = null,
+        successMsg = null,
+        buttonIco = null,
         copyText = function (event, elm) {
           navigator.clipboard.writeText(elm.textContent).then(() => {
-            // TODO show success message
+            var newButton = initButton(buttonIco, successMsg)
+            button.innerHTML = newButton.innerHTML
           }, function(err) {
             console.error('Could not copy text: ', err)
           })
         },
-        createButton = function (elements) {
-          const generateHandler = (value, method) => e => method(e, value)
-          elements.forEach((elm) => {
-            var button = document.createElement("button")
-            button.addEventListener("click", generateHandler(elm, copyText), false)
-            button.innerHTML = Config.buttonHTML
-            button.title = Config.selectTitle
-            button.className = "eventable button button button--simple button--img button--img-only"
-            var spanWrapper = document.createElement("span")
-            var span = document.createElement("span")
-            spanWrapper.appendChild(span)
-            spanWrapper.className = Config.ns + "__wrapper"
-            var copyable = elm
-            var parent = elm.parentNode
-            if (parent.nodeName.toLowerCase() === "pre") {
-              copyable = parent
-              parent = parent.parentNode
+        getButton = function () {
+          var button = document.createElement("button")
+          button.className = Config.buttonClass
+          return button
+        },
+        initButton = function (buttonIco, buttonContent) {
+          var button = null
+          if (buttonIco) {
+            button = getButton()
+            button.innerHTML = `<span class="${buttonIco}"></span>`
+          }
+          if (buttonContent) {
+            if (!button) {
+              button = getButton()
             }
-            parent.insertBefore(spanWrapper, copyable)
+            button.insertAdjacentHTML("beforeend", buttonContent)
+          }
+          return button
+        }
+
+      return {
+        init: function (elm) {
+          const generateHandler = (value, method) => e => method(e, value)
+          const buttonContent = elm.hasAttribute("data-button-content") ? elm.getAttribute("data-button-content") : Config.buttonContent
+          const copyOnClick = elm.hasAttribute("data-copy-on-click") ? elm.getAttribute("data-copy-on-click") : Config.copyOnClick
+          buttonIco = elm.hasAttribute("data-button-ico") ? elm.getAttribute("data-button-ico") : Config.buttonIco
+          successMsg = elm.hasAttribute("data-success-msg") ? elm.getAttribute("data-success-msg") : Config.successMsg
+
+          var spanWrapper = document.createElement("span")
+          var span = document.createElement("span")
+          spanWrapper.appendChild(span)
+          spanWrapper.className = Config.ns + "__wrapper"
+          if (copyOnClick) {
+            elm.addEventListener("click", generateHandler(elm, copyText), false)
+          }
+          var parent = elm.parentNode
+          if (parent.nodeName.toLowerCase() === "pre") {
+            elm = parent
+            parent = parent.parentNode
+          }
+          parent.insertBefore(spanWrapper, elm)
+          spanWrapper.appendChild(elm)
+          button = initButton(buttonIco, buttonContent)
+          if (button) {
+            button.addEventListener("click", generateHandler(elm, copyText), false)
             span.appendChild(button)
-            spanWrapper.appendChild(copyable)
+          }
+        }
+      }
+    }
+
+    var Copyable = function () {
+
+      var
+        initCopyables = function (elements) {          
+          elements.forEach((elm) => {
+            var copyable = new CopyableElm()
+            copyable.init(elm)
           })
         }
 
@@ -47,7 +93,7 @@
           // create toc
           IGCMS.initCfg(Config, cfg)
           var elements = document.querySelectorAll("." + Config.ns)
-          createButton(elements)
+          initCopyables(elements)
         }
       }
     }
