@@ -5,7 +5,7 @@
 
 # Nezhoubné nádory a bouličky s nimi zaměňované
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="nádory, boulička, neúrazové, strach, nezhoubné, žláza"}
 

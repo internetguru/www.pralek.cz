@@ -5,7 +5,7 @@
 
 # První pomoc při kolapsu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="porucha vědomí, mozek-nervy, kolaps, prevence, první pomoc, cukrovka"}
 

@@ -5,7 +5,7 @@
 
 # Nejčastější stařecké zlomeniny
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="poranění, bolest, senioři, úraz, zlomeniny, pohyb"}
 

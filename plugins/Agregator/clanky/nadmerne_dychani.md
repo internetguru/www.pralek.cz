@@ -5,7 +5,7 @@
 
 # Nadměrné dýchání – předýchávání
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="dýchání, strach, porucha vědomí, první pomoc, srdce, krev, nevolnost, kolaps, zvracení"}
 

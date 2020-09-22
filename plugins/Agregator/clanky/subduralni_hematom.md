@@ -5,9 +5,9 @@
 
 # Poúrazové krvácení do hlavy: chronický subdurální hematom
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="úrazy, cévy, krev, zvracení, porucha vědomí"}
+{kw="úraz, cévy, krev, zvracení, porucha vědomí"}
 
 Po úrazu hlavy může po určité bezpříznakové době vzniknout chronický subdurální hematom. Jeho záludnost spočívá v plíživém nástupu potíží, které si pacient často sám vůbec neuvědomuje.
 

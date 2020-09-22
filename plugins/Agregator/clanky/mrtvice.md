@@ -5,7 +5,7 @@
 
 # Cévní mozková příhoda
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="infarkt, cévy, krev, mozek-nervy, pocení, nevolnost, zvracení, porucha vědomí, srdce"}
 

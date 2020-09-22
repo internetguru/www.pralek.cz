@@ -5,7 +5,7 @@
 
 # Jak postupovat při nevolnosti a zvracení
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="nevolnost, zvracení, průjem, jed, pocení, žlučník, mikroorganizmy, tekutiny"}
 
