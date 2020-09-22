@@ -283,6 +283,7 @@ h1 {
 .extra li svg.fa-share-alt {
   position: relative;
   left: -0.1em;
+  font-size: 1.2em;
 }
 .extra .button-list span {
   padding: 0;
