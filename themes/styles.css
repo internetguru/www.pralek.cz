@@ -425,12 +425,13 @@ body:not(.admin) .copyable__wrapper > span:first-child button svg {
   margin: 0 0.4em 0 0.25em !important;
 }
 body:not(.admin) .copyable__wrapper>span:first-child+span {
-  padding: 0.5em 0;
+  padding: 0.2em 0;
   white-space: nowrap;
   /* display: none; */
   display: block;
   overflow-x: auto;
   max-width: calc(100% - 0.5em);
+  border-bottom: thin solid #ccc;
 }
 /************************************/
 a:not([href]) {
@@ -787,6 +788,7 @@ body:not(.agregator) .hdesc--top label {
   margin-right: auto;
   display: inline-flex;
   width: 100%;
+  position: static;
 }
 .hdesc--top .extra .button-list li:first-child {
   all: initial;
@@ -804,13 +806,19 @@ body:not(.agregator) .hdesc--top label {
   list-style: none;
   width: 100%;
   max-width: 20em;
-  position: absolute;
-  top: 4em;
-  left: 0em;
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  height: fit-content;
   background: white;
-  box-shadow: var(--shadow-2);
   border-radius: var(--global-border-radius);
   padding: 1em 0.5em;
+  box-shadow: 0 0 0 100em rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 0 100vmax rgba(0, 0, 0, 0.7);
 }
 #content .hdesc--top .extra .button-list ul li {
   margin: 0;
