@@ -173,7 +173,8 @@
           fireControlEvent()
           inited = true
         },
-        isInit : function() { return inited; }
+        isInit : function() { return inited; },
+        toggleElement: toggleElement
       }
     };
 
