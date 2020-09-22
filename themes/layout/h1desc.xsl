@@ -73,6 +73,8 @@
                     </li>
                     <li>
                       <span class="copyable" fn="inputvar-createlink">
+                        <span class="copyable__heading">Možnosti sdílení</span>
+                        <span class="copyable__close" onclick="this.parentNode.removeChild(this)">×</span>
                         <xsl:value-of disable-output-escaping="yes" select="$link"/>
                       </span>
                     </li>
