@@ -54,6 +54,7 @@
 #footer .button:active,
 #footer .button:focus {
   --button-color: 255,255,255;
+  color: white;
 }
 h1 {
   line-height: 1.15;
@@ -406,26 +407,30 @@ body:not(.admin) .extra .copyable__wrapper {
 }
 body:not(.admin) .extra .hideable-nohide .copyable__wrapper {
   display: block;
+  padding: 0 0.5em 0 1em;
 }
 body:not(.admin) .hdesc .copyable__wrapper > span:first-child button {
-  padding: 0 0.5em;
+  padding: 0;
   width: 100% !important;
   border: none;
   background: none;
   text-align: left;
   outline: none;
   height: auto;
-  padding-top: 0.75em;
+  padding-top: 0.5em;
+  color: #757575;
 }
 body:not(.admin) .copyable__wrapper > span:first-child button svg {
   color: #616161 !important;
   margin: 0 0.4em 0 0.25em !important;
 }
 body:not(.admin) .copyable__wrapper>span:first-child+span {
-  padding: .5em;
+  padding: 0.5em 0;
   white-space: nowrap;
   /* display: none; */
   display: block;
+  overflow-x: auto;
+  max-width: calc(100% - 0.5em);
 }
 /************************************/
 a:not([href]) {
@@ -798,29 +803,30 @@ body:not(.agregator) .hdesc--top label {
 .hdesc--top .extra .button-list ul {
   list-style: none;
   width: 100%;
-  max-width: 23em;
+  max-width: 20em;
   position: absolute;
   top: 4em;
   left: 0em;
   background: white;
   box-shadow: var(--shadow-2);
   border-radius: var(--global-border-radius);
+  padding: 1em 0.5em;
 }
 #content .hdesc--top .extra .button-list ul li {
   margin: 0;
 }
 #content .hdesc--top .extra .button-list ul li .button {
-  width: 100% !important;
-  border-radius: 0;
+  --button--simple-bg: 255,255,255;
+  width: max-content !important;
+  border-radius: var(--global-border-radius);
   justify-content: flex-start;
   align-items: center;
   font-family: var(--font-family);
 }
-#content .hdesc--top .extra .button-list ul li:first-child .button {
-  border-radius: var(--global-border-radius) var(--global-border-radius) 0 0;
-}
-#content .hdesc--top .extra .button-list ul li:last-child .button {
-  /* border-radius:  0 0 var(--global-border-radius) var(--global-border-radius); */
+#content .hdesc--top .extra .button-list ul li {
+  width: 100%;
+  display: block;
+  text-align: left;
 }
 #content .hdesc--top .extra .button-list ul li .button svg {
   margin: 0 0.5em 0 0.25em;
