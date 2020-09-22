@@ -73,7 +73,7 @@
                     </li>
                     <li>
                       <span class="copyable__heading">Možnosti sdílení</span>
-                      <span class="copyable__close">×</span>
+                      <span class="copyable__close" onclick="IGCMS.Hideable.toggleElement(this.parentNode.parentNode.parentNode.getElementsByTagName('a')[0])">×</span>
                       <span class="copyable" fn="inputvar-createlink">
                         <xsl:value-of disable-output-escaping="yes" select="$link"/>
                       </span>
