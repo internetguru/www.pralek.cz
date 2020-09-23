@@ -890,7 +890,7 @@ body:not(.agregator) .hdesc--top label {
 .hdesc--top .meta .tag {
   margin-left: 1.5em;
   margin-right: 0.85em;
-  margin-top: 0.5em;
+  margin-top: 1.1em;
   display: inline-block;
 }
 .hdesc--top .meta .tag svg {
