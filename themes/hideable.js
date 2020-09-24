@@ -19,6 +19,8 @@
     Config.noprintClass = "noprint"
     Config.dataHere = "data-" + Config.ns + "-here"
     Config.dataBefore = "data-" + Config.ns + "-before"
+    Config.dataCloseOnExt = "data-" + Config.ns + "-close-on-ext"
+    Config.closeOnExt = false
     Config.css = '/* hideables.js */'
       + ' .' + Config.hideClass + ' { display: none !important; }'
       + ' a.' + Config.switchClass + ' { text-decoration: none; border: none !important; }'
@@ -40,17 +42,17 @@
             hideable = hideable.parentNode
             hideable.classList.add(Config.ns)
             if (hideables[i].classList.contains(Config.hideableNohideClass)) {
-               hideable.classList.add(Config.hideableNohideClass) 
+              hideable.classList.add(Config.hideableNohideClass)
             }
             if (hideables[i].classList.contains(Config.hideableNohideFallbackClass)) {
-               hideable.classList.add(Config.hideableNohideFallbackClass) 
+              hideable.classList.add(Config.hideableNohideFallbackClass)
             }
           }
           var link = initToggleButton(hideable)
           if (link === null) {
             continue
           }
-          var containsNohide = 
+          var containsNohide =
             (hideables[i].classList.contains(Config.hideableNohideClass)
             || hideables[i].classList.contains(Config.hideableNohideFallbackClass))
             ? true : false
@@ -141,23 +143,31 @@
         }
       }
 
+
+      var hide = function (item) {
+        var close = Config.closeOnExt
+        var parent = item.parentNode.parentNode
+        if (parent.hasAttribute(Config.dataCloseOnExt)) {
+          close = parent.getAttribute(Config.dataCloseOnExt) === "true"
+        }        
+        if (!close) {
+          return
+        }
+        if (parent.classList.contains(Config.hideableNohideClass)) {
+          toggleElement(item)
+        }
+      }
+
       var fireControlEvent = function () {
         document.addEventListener("keydown", (event) => {
           if (event.key === "Escape") {
-            hideableLinks.forEach((item) => {
-              if (item.parentNode.parentNode.classList.contains(Config.hideableNohideClass)) {
-                toggleElement(item)
-              }
-            })
+            hideableLinks.forEach(hide)
           }
         })
         document.addEventListener("click", (event) => {
           hideableLinks.forEach((item) => {
-            if (event.target.closest(`.${Config.ns}`)) {
-              return
-            }
-            if (item.parentNode.parentNode.classList.contains(Config.hideableNohideClass)) {
-              toggleElement(item)
+            if (!event.target.closest(`.${Config.ns}`)) {
+              hide(item)
             }
           })
         })
@@ -174,7 +184,7 @@
           inited = true
         },
         isInit : function() { return inited; },
-        toggleElement: toggleElement
+        toggleElement: toggleElement,
       }
     };
 
