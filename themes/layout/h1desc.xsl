@@ -50,7 +50,7 @@
                 </xsl:element>         
               </li>
               <li>
-                <span class="hideable hideable-hidden" data-hideable-lose-on-ext="true">
+                <span class="hideable hideable-hidden" data-hideable-close-on-ext="true">
                   <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fab fa-fw fa-share-alt">i</span></span>
                   <ul>
                     <li>
