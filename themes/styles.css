@@ -1356,6 +1356,7 @@ li {
   border-radius: 0;
   margin-right: 0.75em;
   border-bottom: thin solid #9E9E9E;
+  --input-padding: 1em 0.5em;
 }
 .upozorneni.hdesc--top + div form dd button,
 .upozorneni form dd button {
@@ -1453,6 +1454,7 @@ div.part.internetguru {
   padding-bottom: 6em;
 }
 div.part.internetguru form {
+  padding: var(--global-horizontal-padding);
   padding-top: 2em;
 }
 div.part.internetguru form div {
@@ -1464,7 +1466,9 @@ div.part.internetguru form div button {
 div.part.internetguru form div input {
   border: none;
   border-radius: 0;
-  border-bottom: thin solid;
+  margin-right: 0.75em;
+  border-bottom: thin solid #9E9E9E;
+  --input-padding: 1em 0.5em;
 }
 @media all and (min-width: 42em) {
   div.part.internetguru .button-list,
@@ -1500,7 +1504,7 @@ dl.clanek.doclist-new > dt:first-child {
 .agregator-new .hdesc--top > div:after,
 dl.clanek.linklist-new > dt:first-child:after,
 dl.clanek.doclist-new > dt:first-child:after {
-  content: "Nový";
+  content: "NovÃ½";
   width: 12em;
   background: #00796b;
   position: absolute;
@@ -1516,7 +1520,7 @@ dl.clanek.doclist-new > dt:first-child:after {
   pointer-events: none;
 }
 .agregator-new .hdesc--top > div:after {
-  content: "Nový článek";
+  content: "NovÃ½ ÄlÃ¡nek";
   transform: rotate(45deg);
   top: auto;
   bottom: -2.75em;
