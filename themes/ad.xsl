@@ -3,13 +3,9 @@
                 xmlns:math="http://exslt.org/math"
                 extension-element-prefixes="math">
   
-  <xsl:template match="div[contains(@class, 'section')]//p[not(contains(@class, 'description'))][not(contains(@class, 'important'))][not(contains(@class, 'example'))]">
-    <xsl:variable name="pos"><xsl:number level="any"/></xsl:variable>
+  <xsl:template match="//h2">
     <xsl:variable name="rand"><xsl:value-of select="(floor(math:random()*3) mod 3) + 1" /></xsl:variable>
-    <xsl:copy>
-      <xsl:apply-templates select="node()|@*"/>
-    </xsl:copy>
-    <xsl:if test="($pos mod 4) = 1">
+<!--     <xsl:if test="($pos mod 3) = 1"> -->
       <div class="list"><ul class="ad" var="cms-server">
         <xsl:choose>
           <xsl:when test="$rand = 1">
@@ -26,7 +22,10 @@
           </xsl:when>
         </xsl:choose>
       </ul></div>
-    </xsl:if>
+<!--     </xsl:if> -->
+      <xsl:copy>
+        <xsl:apply-templates select="node()|@*"/>
+      </xsl:copy>
   </xsl:template>
   
   <xsl:template match="node()|@*">
