@@ -1576,6 +1576,27 @@ body[data-link="/o_praleku"] .part > * {
   margin-right: auto;
 }
 /************************************/
+.ad {
+  padding: 1em;
+  background: #E0F2F1;
+  border-radius: var(--global-border-radius);
+}
+.ad li:not(.list--ico-single) {
+  margin-left: 0;
+}
+.ad li.list--ico-single {
+  margin-bottom: 1em;
+  margin-left: 3em;
+}
+.ad li.list--ico-single svg {
+  font-size: 3em;
+  top: 0em;
+  left: -1.1em;
+}
+.ad li:before {
+  display: none !important;
+}
+/************************************/
 @media print {
   @page {
     size: auto;
