@@ -11,7 +11,7 @@
     </xsl:copy>
     <xsl:if test="($pos mod 5) = 1">
       <div class="list"><ul class="ad" var="cms-server">
-        <li class="list--ico-single"><span class="fas fa-3x fa-fw fa-book-medical">i</span>
+        <li class="list--ico-single"><span class="fas fa-fw fa-book-medical">i</span>
         <xsl:choose>
           <xsl:when test="$rand = 1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</xsl:when>
           <xsl:when test="$rand = 2">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</xsl:when>
