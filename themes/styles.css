@@ -1581,18 +1581,11 @@ body[data-link="/o_praleku"] .part > * {
   background: #E0F2F1;
   border-radius: var(--global-border-radius);
 }
-.ad li:not(.list--ico-single) {
+.ad li {
   margin-left: 0;
 }
-.ad li.list--ico-single {
+.ad li:first-child {
   margin-bottom: 1em;
-  margin-left: 3em;
-  min-height: 3em;
-}
-.ad li.list--ico-single svg {
-  font-size: 3em;
-  top: 0em;
-  left: -1.1em;
 }
 .ad li:before {
   display: none !important;
