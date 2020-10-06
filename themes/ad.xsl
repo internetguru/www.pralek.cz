@@ -4,7 +4,7 @@
                 extension-element-prefixes="math">
   
 <!--   <xsl:template match="/body[contains(@class, 'agregator')]//div[contains(@class, 'section')]/div[position() = 2]//h2"> -->
-  <xsl:template match="//h2[ancestor::body[contains(@class, 'agregator')]][div[contains(@class, 'section')]/div[position() = 2]]">
+  <xsl:template match="//h2[ancestor::body[contains(@class, 'agregator')]][ancestor::div[contains(@class, 'section')]/div[position() = 2]]">
     <xsl:variable name="rand"><xsl:value-of select="floor(math:random()*3)" /></xsl:variable>
 <!--     <xsl:if test="math:random() &lt; 0.5"> -->
       <div class="list"><ul class="ad" var="cms-server">
