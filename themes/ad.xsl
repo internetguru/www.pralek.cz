@@ -3,7 +3,7 @@
                 xmlns:math="http://exslt.org/math"
                 extension-element-prefixes="math">
   
-  <xsl:template match="/body[contains(@class, 'agregator')]//div[contains(@class, 'section')]//h2">
+  <xsl:template match="/body[contains(@class, 'agregator')]//div[contains(@class, 'section')]/div[count(../div) - position() &gt; 5]//h2">
     <xsl:variable name="rand"><xsl:value-of select="floor(math:random()*3)" /></xsl:variable>
 <!--     <xsl:if test="math:random() &lt; 0.5"> -->
       <div class="list"><ul class="ad" var="cms-server">
