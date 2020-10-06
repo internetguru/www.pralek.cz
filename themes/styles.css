@@ -1587,6 +1587,7 @@ body[data-link="/o_praleku"] .part > * {
 .ad li.list--ico-single {
   margin-bottom: 1em;
   margin-left: 3em;
+  min-height: 3em;
 }
 .ad li.list--ico-single svg {
   font-size: 3em;
