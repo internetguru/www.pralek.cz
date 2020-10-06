@@ -10,7 +10,7 @@
       <xsl:apply-templates select="node()|@*"/>
     </xsl:copy>
     <xsl:if test="($pos mod 5) = 1">
-      <ul class="ad list" var="cms-server">
+      <div class="list"><ul class="ad" var="cms-server">
         <li><span class="fas fa-3x fa-fw fa-book-medical">i</span>
         <xsl:choose>
           <xsl:when test="$rand = 1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</xsl:when>
@@ -18,7 +18,7 @@
           <xsl:when test="$rand = 3">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</xsl:when>
         </xsl:choose></li>
         <li><a href="#ebook" class="button">Nová elektronická kniha</a></li>
-      </ul>
+      </ul></div>
     </xsl:if>
   </xsl:template>
   
