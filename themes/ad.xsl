@@ -12,11 +12,19 @@
     <xsl:if test="($pos mod 5) = 1">
       <div class="list"><ul class="ad" var="cms-server">
         <xsl:choose>
-          <xsl:when test="$rand = 1"><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li></xsl:when>
-          <xsl:when test="$rand = 2"><li>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</li></xsl:when>
-          <xsl:when test="$rand = 3"><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</li></xsl:when>
+          <xsl:when test="$rand = 1">
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+            <li><a href="#ebook" class="button"><span class="fab fa-fw fa-book-medical">i</span> Nová elektronická kniha</a></li>
+          </xsl:when>
+          <xsl:when test="$rand = 2">
+            <li>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</li>
+            <li><a href="#ebook" class="button"><span class="fab fa-fw fa-book-medical">i</span> Nová elektronická kniha</a></li>
+          </xsl:when>
+          <xsl:when test="$rand = 3">
+            <li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</li>
+            <li><a href="#ebook" class="button"><span class="fab fa-fw fa-book-medical">i</span> Nová elektronická kniha</a></li>
+          </xsl:when>
         </xsl:choose>
-        <li><a href="#ebook" class="button"><span class="fab fa-fw fa-book-medical">i</span> Nová elektronická kniha</a></li>
       </ul></div>
     </xsl:if>
   </xsl:template>
