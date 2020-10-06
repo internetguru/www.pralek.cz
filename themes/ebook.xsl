@@ -2,7 +2,10 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   
   <xsl:template match="div[contains(@class, 'section')]//p">
-    [<xsl:number level="any"/>]
+    <xsl:variable name="pos"><xsl:number level="any"/></xsl:variable>
+    <xsl:if test="$pos = 3">
+      [3]
+    </xsl:if>
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
     </xsl:copy>
