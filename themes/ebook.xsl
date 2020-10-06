@@ -5,13 +5,25 @@
   
   <xsl:template match="div[contains(@class, 'section')]//p">
     <xsl:variable name="pos"><xsl:number level="any"/></xsl:variable>
-    <xsl:variable name="cnt"><xsl:value-of select="count(//p)"/></xsl:variable>
+    <xsl:variable name="rand"><xsl:value-of select="(floor(math:random()*3) mod 3) + 1" /></xsl:variable>
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
     </xsl:copy>
+    <p class="ad" var="cms-server">
     <xsl:if test="($pos mod 5) = 1">
-      <xsl:value-of select="(floor(math:random()*10) mod 10) + 1" />
+      <xsl:choose>
+        <xsl:when test="$rand = 1">
+          [1]
+        </xsl:when>
+        <xsl:when test="$rand = 2">
+          [2]
+        </xsl:when>
+        <xsl:when test="$rand = 3">
+          [3]
+        </xsl:when>
+      </xsl:choose>
     </xsl:if>
+    </p>
   </xsl:template>
   
   <xsl:template match="node()|@*">
