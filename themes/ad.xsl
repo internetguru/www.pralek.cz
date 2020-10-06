@@ -9,7 +9,7 @@
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
     </xsl:copy>
-    <xsl:if test="($pos mod 3) = 1">
+    <xsl:if test="($pos mod 4) = 1">
       <div class="list"><ul class="ad" var="cms-server">
         <xsl:choose>
           <xsl:when test="$rand = 1">
