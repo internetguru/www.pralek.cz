@@ -3,7 +3,7 @@
                 xmlns:math="http://exslt.org/math"
                 extension-element-prefixes="math">
   
-  <xsl:template match="div[contains(@class, 'section')]//p">
+  <xsl:template match="div[contains(@class, 'section')]//p[contains(@class, 'description')]">
     <xsl:variable name="pos"><xsl:number level="any"/></xsl:variable>
     <xsl:variable name="rand"><xsl:value-of select="(floor(math:random()*3) mod 3) + 1" /></xsl:variable>
     <xsl:copy>
