@@ -14,15 +14,15 @@
         <xsl:choose>
           <xsl:when test="$rand = 1">
             <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
-            <li><a href="#ebook" class="button button--img button--img-inline"><span class="fab fa-fw fa-book-medical">i</span> Nová elektronická kniha</a></li>
+            <li><a href="#ebook" class="button button--simple button--img button--img-inline"><span class="fab fa-fw fa-book-medical">i</span> Nová elektronická kniha</a></li>
           </xsl:when>
           <xsl:when test="$rand = 2">
             <li>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</li>
-            <li><a href="#ebook" class="button button--img button--img-inline"><span class="fab fa-fw fa-book-medical">i</span> Nová elektronická kniha</a></li>
+            <li><a href="#ebook" class="button button--simple button--img button--img-inline"><span class="fab fa-fw fa-book-medical">i</span> Nová elektronická kniha</a></li>
           </xsl:when>
           <xsl:when test="$rand = 3">
             <li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</li>
-            <li><a href="#ebook" class="button button--img button--img-inline"><span class="fab fa-fw fa-book-medical">i</span> Nová elektronická kniha</a></li>
+            <li><a href="#ebook" class="button button--simple button--img button--img-inline"><span class="fab fa-fw fa-book-medical">i</span> Nová elektronická kniha</a></li>
           </xsl:when>
         </xsl:choose>
       </ul></div>
