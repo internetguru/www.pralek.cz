@@ -1587,6 +1587,9 @@ body[data-link="/o_praleku"] .part > * {
 .ad li:first-child {
   margin-bottom: 1em;
 }
+.ad li:last-child {
+  text-align: right;
+}
 .ad li:before {
   display: none !important;
 }
