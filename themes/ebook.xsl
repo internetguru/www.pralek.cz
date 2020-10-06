@@ -10,7 +10,7 @@
       <xsl:apply-templates select="node()|@*"/>
     </xsl:copy>
     <p class="ad" var="cms-server">
-      <span class="fas fa-3x fa-fw fa-book-medical"/>
+      <span class="fas fa-3x fa-fw fa-book-medical">i</span>
       <xsl:if test="($pos mod 5) = 1">
         <xsl:choose>
           <xsl:when test="$rand = 1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</xsl:when>
