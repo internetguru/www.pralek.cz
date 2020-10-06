@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   
   <xsl:template match="//p">
-    [<xsl:value-of select="count(preceding-sibling::p)" />]
+    <xsl:attribute name="pos"><xsl:number level="any"/></xsl:attribute>
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
     </xsl:copy>
