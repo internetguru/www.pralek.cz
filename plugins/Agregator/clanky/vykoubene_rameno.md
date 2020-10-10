@@ -21,7 +21,7 @@ n/a
 
 **Nejobvyklejší je _přední luxace_** (9 z 10 případů), tedy vykloubení hlavice pažní kosti z kloubní jamky směrem dopředu. K takovému vykloubení ramene dochází nejčastěji při odtažení paže od těla a jejím zvedání proti odporu, někdy třeba jen při oblékání, jindy při nárazu nataženou paží proti překážce. _Přední luxace_ se bohužel může vracet (dále). 
 
-Ostatní typy vykloubení ramene (směrem dozadu nebo dolů) jsou mnohem méně časté. Velmi vzácně může vzniknout _luxace nahoru_ nebo dokonce _luxace do hrudníku_ se [zlomeninou žeber][1]. Tyto typy vykloubení mívají nejrůznější mechanizmy vzniku včetně působení hrubého násilí při pádech nebo dopravních nehodách.
+Ostatní typy vykloubení ramene (směrem dozadu nebo dolů) jsou mnohem méně časté. Velmi vzácně může vzniknout _luxace nahoru_ nebo dokonce _luxace do hrudníku_ se [zlomeninou žeber][1]. Tyto typy vykloubení mívají nejrůznější mechanizmy vzniku včetně působení hrubého násilí [při pádech](pady_z_kola) nebo dopravních nehodách.
 
 {id="vykloubene\_rameno\_a\_prvni\_pomoc"}
 
