@@ -85,7 +85,7 @@ K nejzávažnějším úrazům s ohrožením zraku patří poleptání oka (pole
 
 {class="important"}
 
-Při poleptání oka je první pomocí vyplachování oka čistou vodou (nebo v lékárně zakoupenou oční vodou) nepřetržitě až do převzetí péče oftalmologem.
+Při poleptání oka je první pomocí vyplachování oka čistou vodou (nebo [v lékárně](lekarnicka) zakoupenou oční vodou) nepřetržitě až do převzetí péče oftalmologem.
 
 {class="example"}
 
