@@ -33,7 +33,7 @@ V počátku onemocnění bývá lupání [komplikováno zánětem][2] a je tedy 
 
 n/a
 
-V počátečním stádiu onemocnění (velmi bolestivé lupání prstu) je dobré prst nerozcvičovat, naopak je třeba lupání naprosto vyloučit (zhoršoval by se zánět a tím i bolestivost). K tomu nejlépe poslouží pevná fixace prstu nebo i celé ruky. Zhruba po 3 týdnech může lupání přestat, nebo se stát méně znatelným a nebolestivým. Pak by bylo možné zlehka bez námahy bolestivý prst procvičovat.
+V počátečním stádiu onemocnění (velmi bolestivé lupání prstu) je dobré prst nerozcvičovat, naopak je třeba lupání naprosto vyloučit ([zhoršoval by se zánět](zanet) a tím i bolestivost). K tomu nejlépe poslouží pevná fixace prstu nebo i celé ruky. Zhruba po 3 týdnech může lupání přestat, nebo se stát méně znatelným a nebolestivým. Pak by bylo možné zlehka bez námahy bolestivý prst procvičovat.
 
 V případě, že by fixace nepřinesla efekt, pak bude nutné operační řešení, které nemá smysl odkládat. Operace je velmi jednoduchá, provádí se v místním znecitlivění. Většinou postačí protnout poutko nad kloubem a uzlík na šlaše se sám zahojí. Omezení pracovního zařazení je vlastně jen do doby zhojení kůže (asi 2 týdny).
 
