@@ -29,7 +29,7 @@ Současný vědecký výklad lidského těla a medicíny je na úrovni vědy z p
 
 Je naprosto jisté, že je současná medicína v některých odvětvích stoprocentně úspěšná, v některých odvětvích je v plenkách, v některých je možná ve slepé uličce. Mnohé choroby umí pouze příznivě ovlivnit, mnohé neumí léčit vůbec a spoustu chorob dosud vůbec nezná. Medicína se vyvíjí, přístupy k chorobám a k úrazům se mění. Některé léčebné zásady přestávají platit, jiné nové stále vznikají.
 
-Pacient je o vývoji své choroby průběžně pravdivě informován. Na základě zkušeností se dá předvídat další vývoj nemoci, lze odhadnout stupeň změny kvality života v souvislosti s onemocněním nebo trvalé následky po úrazu.
+Pacient je o vývoji své choroby průběžně pravdivě informován. Na základě zkušeností se dá předvídat další vývoj nemoci, lze odhadnout stupeň změny kvality života v souvislosti s onemocněním nebo trvalé následky [po úrazu](subduralni_hematom).
 
 Zkušený doktor dokáže ve vhodnou dobu sdělit pacientovi, že již **současná medicína neumí pacientovo zdraví zachránit** nebo zcela navrátit. Není důvod, proč by pacient po vyčerpání léčebných možností nemohl vyzkoušet léčitelovy schopnosti, jestliže jim důvěřuje.
 
@@ -48,7 +48,7 @@ Léčitel je člověk, který o sobě tvrdí, že má mimořádné schopnosti ro
   * Jeho sliby jsou střízlivé.
   * Jeho odměna je pro pacienta únosná.
 
-Léčitel tvrdí, že cítí, co pacientovi chybí nebo přebývá a poradí nejčastěji vhodnou dietu, čaje nebo koupele. Někteří léčitelé dokáží odstranit bolest, nebo dokonce blahodárně ovlivnit závažné onemocnění.
+Léčitel tvrdí, že cítí, co pacientovi chybí nebo přebývá a poradí nejčastěji vhodnou dietu, čaje nebo koupele. Někteří léčitelé dokáží [odstranit bolest](leky_proti_bolesti), nebo dokonce blahodárně ovlivnit závažné onemocnění.
 
 Dnešní věda nerozumí schopnostem léčitelů; **umění léčitelů nelze nijak prokázat**. Je však možné, že léčitelé pracují s jevy nám dnes neznámými (podobně jako proutkaři) a časem budou jejich metody i vědecky prokázány.
 
