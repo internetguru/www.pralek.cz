@@ -4,7 +4,6 @@ normalize() {
   echo "$1" | iconv -f utf8 -t ascii//TRANSLIT | tr " " "_"
 }
 
-
 path="$1"
 short="$2"
 long="$3"
@@ -25,12 +24,13 @@ sed -i '/author=/s/ id="[^"]\+"/ id="'"$newId"'"/' "$path"
 
 articleDir="$(dirname "$path")"
 oldId="$(basename "$path")"
+oldId="${oldId%.*}"
 
 # update other article links
 sed -i 's/ href="'"$oldId"'"/ href="'"$newId"'"/' "$articleDir/*.html"
 
 # move
-mv "$path" "$articleDir/$id.html"
+mv "$path" "$articleDir/$oldId.html"
 
 # commit
 git add .
