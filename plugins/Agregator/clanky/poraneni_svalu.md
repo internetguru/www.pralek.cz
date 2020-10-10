@@ -9,7 +9,7 @@
 
 {kw="úraz, pohyb"}
 
-Natažení svalu nelze od jeho natržení laicky rozeznat. Rozdíl v léčení je zásadní, a proto je vhodné vyhledat odborné vyšetření.
+Natažení svalu nelze od jeho natržení laicky rozeznat. Rozdíl v léčení je zásadní, a proto je vhodné [vyhledat odborné vyšetření](nalehavost_lekarskeho_vysetreni).
 
 Natažení nebo natržení svalu je úraz ponejvíce mužů středního věku. Jestliže je od svalu požadovaná síla větší, než je sval schopen zvládnout, poškodí se jeho struktura. Může dojít v lepším případě k natažení a v horším případě k přetržení části přetíženého svalu. Obojí se projeví prudkou pálivou bolestí v poraněném svalu.
 
@@ -43,7 +43,7 @@ Ostatní svalové skupiny bývají postiženy vždy podle přetěžování **v s
 
 n/a
 
-Poraněný sval je dobré zaledovat a nepoužívat jej (nechat v klidu). Uložení do zvýšené polohy zmírní prokrvácení a zamezí vzniku otoku. Hmatný defekt ve svalu by svědčil pro jeho hrubé poškození. To se stává zřídkakdy.
+Poraněný sval je dobré zaledovat a nepoužívat jej (nechat v klidu). Uložení do zvýšené polohy [zmírní prokrvácení a zamezí vzniku otoku](lecba_zanetu). Hmatný defekt ve svalu by svědčil pro jeho hrubé poškození. To se stává zřídkakdy.
 
 K rozlišení natažení nebo natržení je třeba odborného lékařského vyšetření; často doplněného rentgenovým a sonografickým vyšetřením.
 
