@@ -27,7 +27,7 @@ Jestliže násilí působí opačně (tlačí nohu pod zevní kotník), pak se p
 
 Často se zvrtnutí nesprávně laicky označuje jako _podvrknutí kotníku_, _vyvrknutí kotníku_ či _zvrknutí kotníku_.
 
-Větší násilí může poranit hlezno oboustranně. Jedná se o závažnější úraz, rychle nastupuje otok a brzy se ukazuje i krevní výron. Stav je označován jako **podvrtnutí, zvrtnutí nebo vyvrtnutí obou kotníků** (hlezna). Laicky bývá také označován jako „výron“. Vzhledem k nestabilitě kloubu lze mluvit i o **vymknutí (vykloubení) hlezna** – _hlezenného kloubu_.
+Větší násilí může [poranit hlezno](pady_z_kola) oboustranně. Jedná se o závažnější úraz, rychle nastupuje otok a brzy se ukazuje i krevní výron. Stav je označován jako **podvrtnutí, zvrtnutí nebo vyvrtnutí obou kotníků** (hlezna). Laicky bývá také označován jako „výron“. Vzhledem k nestabilitě kloubu lze mluvit i o **vymknutí (vykloubení) hlezna** – _hlezenného kloubu_.
 
 **Hlezenný kloub** je velmi zatěžovaný složitý kloub, spojující 3 kosti:
 
