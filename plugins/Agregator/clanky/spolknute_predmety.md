@@ -29,7 +29,7 @@ Při polykání mohou ostré předměty poranit hrtan nebo jícen. Známé je po
 
 n/a
 
-Mnohem **závažnější je spolknutí velkého sousta**. Špatně rozmělněné sousto nedostatečně promísené slinami může [uvíznout v jícnu][1]. Typicky to bývá suchý včerejší rohlík nebo kus tuhého masa. Vzniklá bolest je nejprve pálivá, je doprovázena sliněním. Po určité době se sousto většinou uvolní a sklouzne do žaludku. K tomu většinou pomůže doušek vody.
+Mnohem závažnější než spolknutí ostrého předmětu je spolknutí velkého sousta. Špatně rozmělněné sousto nedostatečně promísené slinami může [uvíznout v jícnu][1]. Typicky to bývá suchý včerejší rohlík nebo kus tuhého masa. Vzniklá bolest je nejprve pálivá, je doprovázena sliněním. Po určité době se sousto většinou uvolní a sklouzne do žaludku. K tomu většinou pomůže doušek vody.
 
 Jestliže se sousto neuvolní, přetrvává tlak za hrudní kostí a nadměrné slinění. Pak je nutné sousto uvolnit speciálním přístrojem – endoskopem (přístroj, kterým lze vidět a ošetřovat uvnitř tělních dutin).
 
@@ -59,7 +59,7 @@ n/a
 
 {class="otazky"}
 
-  1. Polknutí čeho je mnohem závažnější zranění než spolknutí ostrého předmětu?
+  1. Co je závažnější spolknout ve srovnání s ostrým předmětem?
   2. Jak to, že spolknutý špendlík většinou nezpůsobí žádné potíže a projde zažívacím traktem?
   3. Co bývá poraněno při spolknutí rybí nebo kuřecí kosti?
   4. Může být nebezpečné spolknutí velkého sousta?
