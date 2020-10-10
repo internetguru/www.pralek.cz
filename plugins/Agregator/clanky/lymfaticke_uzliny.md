@@ -56,7 +56,7 @@ n/a
 
   1. K čemu slouží mízní cévy?
   2. K čemu slouží mízní uzliny?
-  3. Proč zvětšená uzlina někdy bolí a někdy nebolí?
+  3. Za jakých podmínek je zvětšená uzlina bolestivá a kdy nebolestivá??
   4. Co bývá nejčastější příčinou zvětšení podčelistních uzlin?
 
 {var="inputvar-feedback_h" id="dotace"}
