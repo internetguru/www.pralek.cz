@@ -17,13 +17,22 @@ long="$3"
   && echo "Article '$path' does not exists" \
   && exit 1
 
+# update short, long and id
 sed -i '/author=/s/ short="[^"]\+"/ short="'"$short"'"/' "$path"
 sed -i "/author=/s/>[^<]\+/>$long</" "$path"
-id="$(normalize "$short")"
-sed -i '/author=/s/ id="[^"]\+"/ id="'"$id"'"/' "$path"
+newId="$(normalize "$short")"
+sed -i '/author=/s/ id="[^"]\+"/ id="'"$newId"'"/' "$path"
 
-newpath="$(dirname "$path")/$id.html"
-mv "$path" "$newpath"
+articleDir="$(dirname "$path")"
+oldId="$(basename "$path")"
+
+# update other article links
+sed -i 's/ href="'"$oldId"'"/ href="'"$newId"'"/' "$articleDir/*.html"
+
+# move
+mv "$path" "$articleDir/$id.html"
+
+# commit
 git add .
-git commit -m "updateArticleName.sh autocommit" -- "$newpath"
+git commit -m "updateArticleName.sh autocommit"
 
