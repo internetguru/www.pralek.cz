@@ -71,7 +71,7 @@ n/a
 {class="otazky"}
 
   1. Kam se nejlépe píchne svépomocí podkožní injekce?
-  2. Kam se nejlépe píchne nitrosvalová injekce vzájemnou pomocí?
+  2. Do kterého svalu se typicky píchne nitrosvalová injekce vzájemnou pomocí?
   3. Jaké musí být místo zvolené k píchnutí injekce?
   4. Co dělat, pokud se po aspiraci v injekční stříkačce objeví krev?
 
