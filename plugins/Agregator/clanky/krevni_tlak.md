@@ -11,7 +11,7 @@
 
 Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření.
 
-Srdce pumpuje krev – žílami ji nabírá a tepnami ji rozvádí zpět do celého těla. K zachování směru toku krve slouží chlopně jakožto jednosměrné ventily.
+Srdce pumpuje krev – žílami ji nabírá a [tepnami ji rozvádí zpět do celého těla](srdecni_infarkt). K zachování směru toku krve slouží [chlopně jakožto jednosměrné ventily](krecove_zily).
 
   * Při **stažení srdeční komory** _(systola)_ je krev vypuzena díky chlopním jedním směrem do tepen.
   * Při **uvolnění srdeční komory** _(diastola)_ se průchodnost chlopní vymění. Krev je z opačného směru nasávána ze žil.
@@ -75,7 +75,7 @@ Z důvodu různého odstupu pažních tepen od srdeční tepny bývá **tlak na 
 
 ## Vysoký krevní tlak – hypertenze
 
-Opakované vyšší systolické hodnoty vyžadují poradu s lékařem. U zvýšené diastolické hodnoty je návštěva lékaře nezbytná.
+Opakované vyšší systolické hodnoty vyžadují poradu s lékařem. U zvýšené diastolické hodnoty je [návštěva lékaře nezbytná](nalehavost_lekarskeho_vysetreni).
 
 Mladí lidé mívají systolickou hodnotu 120 až 130 mm Hg, starší lidé i vyšší. Tato hodnota se mění během let, během dne i během okamžiku. **Teprve až opakované vyšší hodnoty mohou znamenat hypertenzi** a vyžadují poradu s lékařem.
 
