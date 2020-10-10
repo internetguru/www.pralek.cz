@@ -13,7 +13,7 @@ Pocit nevolnosti může být vyvolán nejrůznějšími druhy pohybu. Tomu lze m
 
 Nevolnost vzniklá v dopravním prostředku se laicky nazývá nemoc z pohybu, cestovní nemoc, mořská nemoc nebo odborně _kinetóza_. Nejedná se o nemoc, ale o velmi **nepříjemný stav způsobený nesouladem informací z rovnovážného ústrojí se zrakovými vjemy** – tedy s nesprávně vnímaným pohybem.
 
-Nejčastější projevy kinetózy jsou pocit na zvracení, studený pot, slabost, bledost, závrať, bolest hlavy, celkový pocit těžkosti, pokles krevního tlaku, slinění, říhání, zvracení. Projevy mohou mezi sebou vzájemně přecházet, mohou se různě kombinovat nebo se vyskytovat jednotlivě.
+Nejčastější projevy kinetózy jsou [pocit na zvracení](nevolnost_zvraceni), studený pot, slabost, bledost, závrať, [bolest hlavy](bolesti_hlavy), celkový pocit těžkosti, [pokles krevního tlaku](krevni_tlak), slinění, říhání, zvracení. Projevy mohou mezi sebou vzájemně přecházet, mohou se různě kombinovat nebo se vyskytovat jednotlivě.
 
 {id="vznik_kinetozy"}
 
