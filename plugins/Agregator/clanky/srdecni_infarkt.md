@@ -17,11 +17,11 @@ Infarkt postihuje nejčastěji muže ve středním a vyšším věku. Většinou
 
 {id="srdce_cevy"}
 
-## Jak funguje srdce a cévy
+## Jak funguje srdce a tepny
 
-**Srdeční sval [pumpuje krev do těla][4]** . Aby mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve. Zvláštní cévy rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná céva**. 
+**Srdeční sval [pumpuje krev do těla][4]**. Aby mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve. Zvláštní tepny rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná tepna**. 
 
-**V ostatních svalech** a orgánech k jednomu místu **přivádí krev více cév**. Poškození jedné z nich je snadno nahrazeno ostatními. Zdravá céva má ve stěně svalovinu a je schopna se rozšiřovat nebo zužovat – podle nároků zásobovaného místa. Vzniklý [problém se tedy mimo srdce nemusí vůbec projevit][5].
+**V ostatních svalech** a orgánech k jednomu místu **přivádí krev více tepen**. Poškození jedné z nich je snadno nahrazeno ostatními. Zdravá tepna má ve stěně svalovinu a je schopna se rozšiřovat nebo zužovat – podle nároků zásobovaného místa. Vzniklý [problém se tedy mimo srdce nemusí vůbec projevit][5].
 
 Člověk trénovaný pravidelnou zátěží je schopen v případě potřeby několikanásobně zvýšit práci srdce. Toho je schopen za pomocí zrychlení srdeční akce, zvýšení krevního tlaku a zvýšení stažlivosti srdce. Je-li srdeční sval dostatečně zásoben krví, tak si zvýšení srdeční aktivity člověk ani neuvědomuje a nemá žádné potíže.
 
@@ -31,7 +31,7 @@ Srdeční rytmus je určován zvláštním uzlíkem, z něhož vychází impulzy
 
 ## Projevy onemocnění srdečních cév
 
-Srdeční cévy podléhají stárnutí stejně, jako ostatní cévy v těle. Proces [kornatění cév][6] začíná již v dětském věku a v průběhu života se zhoršuje. Kornatění cév _(ateroskleróza)_ se vyvíjí:
+Srdeční tepny podléhají stárnutí stejně jako ostatní cévy (tepny a žíly) v těle. Proces [kornatění cév][6] začíná již v dětském věku a v průběhu života se zhoršuje. Kornatění cév _(ateroskleróza)_ se vyvíjí:
 
   1. změnou cévní výstelky,
   2. postupným ukládáním tuků,
@@ -44,7 +44,7 @@ Jestliže z důvodu kornatění **srdeční sval dostává v daném okamžiku m�
 
 Potíže mohou po zklidnění samovolně ustat a opět se vrátit při stresu, námaze, nebo jen při přejedení. Tento stav může být dlouhodobý, pak se nazývá _angína pectoris_.
 
-Jestliže dojde k (téměř) **úplnému uzávěru některé srdeční cévy**, tak do určitého okrsku srdečního svalu nepřichází žádná krev. Náhle vzniknou potíže podobné, jako při angíně pectoris, ale intenzivnější. Postižená část srdce pak přestává správně pracovat – **vzniká srdeční infarkt**.
+Jestliže dojde k (téměř) **úplnému uzávěru některé srdeční tepny**, tak do určitého okrsku srdečního svalu nepřichází žádná krev. Náhle vzniknou potíže podobné, jako při angíně pectoris, ale intenzivnější. Postižená část srdce pak přestává správně pracovat – **vzniká srdeční infarkt**.
 
 {id="zavaznost_infarktu"}
 
@@ -58,7 +58,7 @@ V případě **postižení malého rozsahu** (například pouze část stěny sr
 
 Při narušení převodního systému je podle rozsahu a umístění ložiska infarkt závažný a vzniká **porucha rytmu nebo dokonce zástava srdce** během několika sekund. V případě závažného infarktu se srdeční zástavou může zachránit život [okamžitá resuscitace][7].
 
-Po úspěšné resuscitaci a prokázání infarktu EKG vyšetření (záznam infarktem změněné elektrické aktivity srdeční) má pacient šanci dostat se včas k výkonu na specializované pracoviště. Dříve než dojde k odumření infarktem ohroženého svalu, může se podařit do postižené cévy zavedenou sondou obnovit průtok krve a **infarkt se vůbec nemusí vyvinout**. Výsledkem je vyléčení a návrat do plného zdraví během několika dnů.
+Po úspěšné resuscitaci a prokázání infarktu EKG vyšetření (záznam infarktem změněné elektrické aktivity srdeční) má pacient šanci dostat se včas k výkonu na specializované pracoviště. Dříve než dojde k odumření infarktem ohroženého svalu, může se podařit do postižené tepny zavedenou sondou obnovit průtok krve a **infarkt se vůbec nemusí vyvinout**. Výsledkem je vyléčení a návrat do plného zdraví během několika dnů.
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -70,9 +70,9 @@ n/a
 
 {class="otazky"}
 
-  1. Co znamená nezdravý životní styl?
-  2. Využívá srdeční sval ke své výživě pumpovanou krev nebo má své vlastní cévy?
-  3. K čemu slouží svaly ve stěně cév?
+  1. Jaké faktory spojené s životním stylem zvyšují riziko infarktu?
+  2. Proč je uzavření srdeční tepny závažnější než uzavření kterékoli jiné tepny?
+  3. K čemu slouží svaly ve stěně tepen?
   4. Čím je způsobena pálivá bolest za hrudní kostí?
   5. Čím je dáno, že někdo infarkt přechodí bez následků a někdo má vážné potíže?
   6. Proč je dobře pospíchat při vzniku popsaných potíží s vyhledáním lékařské pomoci?
