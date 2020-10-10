@@ -11,7 +11,7 @@
 
 Zánětlivé onemocnění prstu ruky může být velmi závažné a nebezpečné. Včasné ošetření zánětu chirurgem předejde rozšíření zánětu nejen po nemocné ruce ale i do celého těla.
 
-Panaricium _(panaritium)_ je označení pro [zánět prstu na ruce][1]. Příčinou zánětu je nejčastěji **nesprávně provedená manikúra**. Vstupní bránou infekce bývá záděrka nehtového valu, zatržení nehtu, [cizí tělísko zaražené pod nehet][2], oděrka nebo poranění nejčastěji posledního článku prstu. [Infekci způsobí mikroorganizmy][3], které se běžně vyskytují na rukou a při poranění pronikají do organizmu.
+Panaricium _(panaritium)_ je [prudký bolestivý zánět](zanet) nejčastěji v okolí nehtového lůžka na ruce. Příčinou zánětu je nejčastěji **nesprávně provedená manikúra**. Vstupní bránou infekce bývá záděrka nehtového valu, zatržení nehtu, [cizí tělísko zaražené pod nehet][2], oděrka nebo poranění nejčastěji posledního článku prstu. [Infekci způsobí mikroorganizmy][3], které se běžně vyskytují na rukou a při poranění pronikají do organizmu.
 
 Prevencí vzniku panaricia je správné ošetřování [nehtů, nehtových lůžek a valů][2] pilníčkem či nůžkami (neokusovat a nezatrhávat), po umytí promazávat příjemným krémem.
 
