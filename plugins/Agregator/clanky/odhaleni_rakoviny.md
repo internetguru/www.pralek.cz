@@ -19,7 +19,7 @@ Zhoubný [nádor tlustého střeva a konečníku][1] se nejčastěji vyskytuje u
 
 n/a
 
-Samotné vyšetření je jednoduché a bezbolestné. Nazývá se _imunologický test okultního krvácení do stolice (iTOKS)_ a obnáší pouze odběr vzorku stolice a jeho následné vyšetření. Vyšetření odhalí nebo vyloučí okem neviditelné stopy krve ve stolici.
+Samotné vyšetření je jednoduché a bezbolestné. Nazývá se _imunologický test okultního [krvácení do stolice](krvaceni_z_konecniku) (iTOKS)_ a obnáší pouze odběr vzorku stolice a jeho následné vyšetření. Vyšetření odhalí nebo vyloučí okem neviditelné stopy krve ve stolici.
 
 Příměs krve ve stolici poukazuje na onemocnění střeva nebo konečníku a je důvodem k pátrání po příčině krvácení. Normálně se totiž krev ve stolici zdravého člověka vůbec nevyskytuje.
 
