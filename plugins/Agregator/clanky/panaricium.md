@@ -62,7 +62,7 @@ V boji mezi bílými krvinkami a mikroby mohou mikroby dočasně vítězit a š�
 
 V sepsi mohou stejným zánětem jaký byl původně v prstu onemocnět kterékoli vnitřní životně důležité orgány.
 
-V obou uvedených případech je chirurgické ošetření naprosto nezbytné, stejně jako [nasazení antibiotik][7]. Toto velmi závažné onemocnění se týká pouze prstů rukou. Na prstech nohou se prakticky nevyskytuje. Důvodem je naprosto odlišného mikrobiálního osídlení rukou a nohou.
+V obou uvedených případech je chirurgické ošetření naprosto nezbytné, stejně jako [nasazení antibiotik][7]. Toto velmi závažné onemocnění se týká pouze prstů rukou. Na prstech nohou se prakticky nevyskytuje. Důvodem je naprosto odlišné mikrobiální osídlení rukou a nohou.
 
 Na palcích nohou může rovněž vzniknout zánět nehtových valů. Je však dlouhodobý a je vždy v souvislosti se [zarůstajícími špatně ošetřenými nehty][9]. Takový zánět je sice nepříjemné, ale ve srovnání s panariciem nezávažné onemocnění.
 
@@ -80,7 +80,6 @@ n/a
   2. Co je nejčastější vstupní bránou infekce při vzniku panaricia?
   3. Jaké jsou místní průvodní jevy zánětu?
   4. Jaké jsou 2 možnosti šíření zánětu z místního na celkové zánětlivé onemocnění?
-  5. Proč se panaricium vyskytuje jen na prstech rukou a na nohou ne?
 
 {var="inputvar-feedback_h" id="dotace"}
 
