@@ -44,7 +44,7 @@ Existují různé preparáty, které mohou ovlivnit trávení, snížit chuť k 
 
 {class="important"}
 
-O lécích na hubnutí je vhodné uvažovat až v případě, že obezita omezuje kvalitu života (práce, pohyb, sport, záliby). Konkrétní lék a dávkování by měl určit lékař. Součástí léčby obezity by vždy měla být dohledovaná dieta a zvýšená fyzická aktivita.
+O lécích na hubnutí je vhodné uvažovat až v případě, že obezita omezuje kvalitu života (práce, pohyb, sport, záliby). [Konkrétní lék](lekove_formy) a dávkování by měl určit lékař. Součástí léčby obezity by vždy měla být dohledovaná dieta a zvýšená fyzická aktivita.
 
 V případě užívání léků na hubnutí beze změny stravovacích návyků může dojít k dočasnému snížení hmotnosti. Po dobrání léků se však hmotnost brzy vrátí na či dokonce nad původní úroveň – tzv. _jojo efekt_.
 
