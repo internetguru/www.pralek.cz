@@ -79,7 +79,7 @@ n/a
   1. Co je panaricium?
   2. Co je nejčastější vstupní bránou infekce při vzniku panaricia?
   3. Jaké jsou místní průvodní jevy zánětu?
-  4. Jaké jsou 2 možnosti šíření zánětu z místního na celkové zánětlivé onemocnění?
+  4. Kterými dvěma cestami se může šířit místní zánět prstu do celého těla?
 
 {var="inputvar-feedback_h" id="dotace"}
 
