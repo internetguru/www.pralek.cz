@@ -121,7 +121,7 @@ n/a
 
 {class="otazky"}
 
-  1. Co často doprovází točení hlavy?
+  1. Co často souvisí s točením hlavy?
   2. Co bývá označováno jako závrať?
   3. Za jakých podmínek může být podrážděno zdravé vestibulární ústrojí?
   4. Čím bývá způsobeno krátkodobé onemocnění vestibulárního ústrojí?
