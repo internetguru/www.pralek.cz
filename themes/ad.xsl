@@ -6,7 +6,7 @@
   <xsl:param name="cms-server" select="''"/>
   
   <xsl:template match="/body[contains(@class, 'agregator')]//div[contains(@class, 'part')][last() - position() &gt; 4][position() mod 3 = 2]//h2">
-    <xsl:variable name="rand"><xsl:value-of select="floor(math:random()*3)" /></xsl:variable>
+    <xsl:variable name="rand"><xsl:value-of select="floor(math:random()*6)" /></xsl:variable>
 <!--     <xsl:if test="math:random() &lt; 0.3"> -->
     <xsl:if test="$cms-server = ''">
       <div class="list"><ul class="ad">
