@@ -30,7 +30,7 @@ n/a
   * nikdy netvoří druhotná ložiska, kde by začal růst _(metastázy)_;
   * sám svého nositele nezahubí; 
       * Může se však za určitých podmínek proměnit ve zhoubný nádor.
-  * lze většinou poměrně snadno chirurgicky odstranit.
+  * lze většinou poměrně snadno [chirurgicky odstranit](nalehavost_lekarskeho_vysetreni).
 
 {id="zhoubny_nador-rakovina"}
 
@@ -41,7 +41,7 @@ n/a
   * je společenství buněk, které mají _zásadně změněné chování_ oproti původní tkáni, ze které vyšly;
   * nebývá ohraničen vůči svému okolí a často brzy prorůstá do okolních struktur;
   * sám nijak nebolí;
-  * roste velmi rychle (týdny); 
+  * [roste velmi rychle](odhaleni_rakoviny) (týdny);
       * Buňky zhoubného nádoru se množí tak překotně, že neplní žádnou jinou funkci než vlastní množení.
   * **vysiluje svého nositele**, který chátrá a hubne; 
       * Zhoubný nádor má velmi vysokou energetickou spotřebu. Proto člověk postižený rakovinou často v počátku onemocnění [hubne jakoby bez příčiny][3].
@@ -50,7 +50,7 @@ n/a
   * **prorůstá do okolních tkání a orgánů** a tím může rušit jejich funkce; 
       * Změněná funkce okolních tkání **může působit krutou bolest**.
   * často **tvoří druhotná ložiska** jinde v těle _(metastázy)_, kde roste stejně agresivně;
-  * brzy zahubí svého nositele, pokud není léčen;
+  * brzy zahubí svého nositele, [pokud není léčen](rakovina_streva);
   * bývá složitější operačně odstranit.
 
 {class="example"}
