@@ -27,7 +27,7 @@ Např. při vytržení zubu se běžné bakterie z dutiny ústní dostávají do
 
 Bakterie obývající dutinu ústní zahajují složitý proces trávení. Ten ukončují jiné bakterie obývající tlusté střevo a konečník. Jejich zásluhou dobře funguje trávení. Společně se stravou jíme i spoustu různých cizích všudypřítomných bakterií, se kterými se dokáží naše vlastní bakterie a prostředí zažívacího traktu snadno vypořádat.
 
-Správnou funkci bakterií obývajících zažívací ústrojí si člověk neuvědomuje. Změna složení bakterií nebo jejich funkce se však projeví. Například po [požití zkažené potravy][1]. V takovém případě se v potravě mnohonásobně pomnožily jiné bakteriální kmeny, které dočasně zaplavily celé zažívací ústrojí a jejich jedovaté produkty se vstřebávají do těla. [Horečka][2], [slabost, zvracení, nevolnost a průjmy][3] jsou doprovodnými příznaky takové otravy.
+Správnou funkci bakterií obývajících zažívací ústrojí si člověk neuvědomuje. Změna složení bakterií nebo jejich funkce se však projeví. Například po [požití zkažené potravy][1]. V takovém případě se v potravě mnohonásobně pomnožily jiné bakteriální kmeny, které dočasně zaplavily celé zažívací ústrojí a jejich jedovaté produkty se vstřebávají do těla. [Horečka][2], [slabost, zvracení, nevolnost a průjmy][1] jsou doprovodnými příznaky takové otravy.
 
 Jindy stačí změna prostředí doprovázená zvýšeným množstvím pro nás cizích druhů bakterií. Nejznámějším příkladem jsou tzv. cestovatelské průjmy při dovolené v tropech.
 
@@ -37,18 +37,18 @@ Určité bakterie žijící ve vagíně zajišťují prostředí, které je pro 
 
 Zdravé bakteriální osídlení vagíny může být narušeno sníženou hygienou, či naopak nevhodnou nadměrnou hygienou, sexuální promiskuitou a nevhodnými sexuálními praktikami. Následně se většinou přidá osídlení kvasinkami nebo plísněmi s velmi nepříjemnými projevy (svědění, pálení až bolest, výtok, nepříjemný zápach).
 
-Taková situace nastane například tehdy, dostanou-li se bakterie z konečníku do pochvy nebo dokonce do [močových cest][4]. Vzniklá infekce se musí často léčit antibiotiky.
+Taková situace nastane například tehdy, dostanou-li se bakterie z konečníku do pochvy nebo dokonce do [močových cest][3]. Vzniklá infekce se musí často léčit antibiotiky.
 
 {id="choroboplodne_bakterie"}
 
 ## Choroboplodné bakterie
 
-Existuje obrovské množství bakteriálních kmenů, které jsou popsány a pojmenovány v učebnicích mikrobiologie. Všechny mohou za určitých podmínek zapříčinit různé [zánětlivé a nakažlivé choroby][5].
+Existuje obrovské množství bakteriálních kmenů, které jsou popsány a pojmenovány v učebnicích mikrobiologie. Všechny mohou za určitých podmínek zapříčinit různé [zánětlivé a nakažlivé choroby][4].
 
-Cizí [choroboplodné bakterie, které člověka napadly][2] mohou přežívat v určitém místě lidského těla, např. v mandlích při angíně. Mohou se také vyplavit do celého těla a **způsobit celkové příznaky závažného [zánětlivého onemocnění][6]** . Pak bývá nevyhnutelné nasazení [antibiotik][7]. 
+Cizí [choroboplodné bakterie, které člověka napadly][2] mohou přežívat v určitém místě lidského těla, např. v mandlích při angíně. Mohou se také vyplavit do celého těla a **způsobit celkové příznaky závažného [zánětlivého onemocnění][5]** . Pak bývá nevyhnutelné nasazení [antibiotik][6]. 
 
   1. Některé **konkrétní bakterie** se složitými latinskými názvy **způsobují konkrétní chorobu**, např. tuberkulózu, boreliozu nebo pohlavní choroby.
-  2. Jiné **bakterie způsobují různá [zánětlivá onemocnění][8]** s různě vyvinutými celkovými příznaky. Například angína nebo zápal plic mohou být způsobeny různými druhy bakterií opět latinsky pojmenovanými. 
+  2. Jiné **bakterie způsobují různá [zánětlivá onemocnění][7]** s různě vyvinutými celkovými příznaky. Například angína nebo zápal plic mohou být způsobeny různými druhy bakterií opět latinsky pojmenovanými. 
   3. Jiná **konkrétní bakterie může způsobit různá horečnatá onemocnění**. Například pro choroby jako je spála, spálová angína nebo růže je společným původcem bakterie jménem streptokok.
 
 {id="otazky" var="inputvar-otazky_h"}
@@ -91,10 +91,9 @@ n/a
 
  [1]: travici_potize
  [2]: teplota
- [3]: funkcni_poruchy_traveni
- [4]: mocova_infekce
- [5]: angina
- [6]: vyvoj_zanetu
- [7]: antibiotika
- [8]: stadia_zanetu
+ [3]: mocova_infekce
+ [4]: angina
+ [5]: vyvoj_zanetu
+ [6]: antibiotika
+ [7]: stadia_zanetu
 
