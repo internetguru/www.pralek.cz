@@ -70,8 +70,8 @@ n/a
 
 {class="otazky"}
 
-  1. Jaké faktory spojené s životním stylem zvyšují riziko infarktu?
-  2. Proč je uzavření srdeční tepny závažnější než uzavření kterékoli jiné tepny?
+  1. Které faktory spojené s životním stylem zvyšují pravděpodobnost vzniku infarktu?
+  2. Proč je zúžení srdeční tepny závažnější než zúžení jakékoli jiné tepny v těle?
   3. K čemu slouží svaly ve stěně tepen?
   4. Čím je způsobena pálivá bolest za hrudní kostí?
   5. Čím je dáno, že někdo infarkt přechodí bez následků a někdo má vážné potíže?
