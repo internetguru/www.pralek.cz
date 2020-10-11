@@ -583,11 +583,11 @@ dt label.button {
 }
 .hdesc.o_praleku + div .imgwrap,
 .o_praleku .imgwrap {
-  height: 12em;
-  width: 12em;
+  height: 11em;
+  width: 11em;
   margin-top: 0;
   padding: 0 !important;
-  margin-left: auto;
+  margin-left: 0;
   margin-right: auto;
   background: none;
 }
@@ -624,7 +624,7 @@ dt label.button {
 .button-list > li {
   flex: 0 1 auto;
 }
-@media all and (min-width: 60em) {
+@media all and (min-width: 62em) {
   .hdesc.o_praleku + div .card,
   .o_praleku .card {
     text-align: left;
@@ -636,12 +636,12 @@ dt label.button {
 }
 .hdesc.o_praleku + div .image-group__wrapper > div:first-child,
 .o_praleku .image-group__wrapper > div:first-child {
-  width: 14em;
+  width: 12em;
   text-align: center;
 }
 .hdesc.o_praleku + div .image-group__wrapper > dl:last-child,
 .o_praleku .image-group__wrapper > dl:last-child {
-  width: 42em;
+  width: 47em;
 }
 .hdesc.o_praleku + div .list-wrapper--multiple > div,
 .o_praleku .list-wrapper--multiple > div {
@@ -674,6 +674,9 @@ li.rw {
 li.donation {
   --button-bg: #D32F2F;
   --button--active-bg: #F44336;
+  --button-svg-color: white;
+}
+li.ebook {
   --button-svg-color: white;
 }
 .author dt + dd {
