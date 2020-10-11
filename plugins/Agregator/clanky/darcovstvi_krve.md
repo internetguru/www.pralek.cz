@@ -39,7 +39,7 @@ Technicky není možné, aby se dárce krve nakazil krví přenosnou chorobou. V
 
 n/a
 
-Během odběru nebo těsně po něm se může stát, že dárce pocítí slabost nebo teplo nebo [dokonce zkolabuje][3]. Nejčastěji je příčinou únava nebo nevyspání. Tyto potíže jsou způsobené nedostatečným prokrvením mozku z důvodu poklesu [tlaku krve](krevni_tlak). Nikoli však z důvodu ztráty odebrané krve ale spíš z důvodu nervozity a strachu.
+Během odběru nebo těsně po něm se může stát, že dárce pocítí slabost nebo teplo nebo [dokonce zkolabuje][3]. Tyto potíže jsou způsobené nedostatečným prokrvením mozku v důsledku [poklesu krevního tlaku](krevni_tlak). To nikoli z důvodu ztráty odebrané krve, ale spíše z důvodu únavy, nervozity a strachu.
 
 Často potíže vznikají ihned po napíchnutí, aniž by došlo k odběru. V případě kolapsu nebo nevolnosti je dárce uložen na připravené lůžko a během okamžiku se jeho stav normalizuje.
 
