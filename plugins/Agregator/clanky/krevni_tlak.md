@@ -5,13 +5,11 @@
 
 # Měření a vyhodnocení krevního tlaku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="srdce, cévy, krev, prevence, zdravý životní styl, tlakoměr, točení hlavy"}
 
 Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření.
 
-Srdce pumpuje krev – žílami ji nabírá a [tepnami ji rozvádí zpět do celého těla](srdecni_infarkt). K zachování směru toku krve slouží [chlopně jakožto jednosměrné ventily](krecove_zily).
+Srdce pumpuje krev – žílami ji nabírá a [tepnami ji rozvádí zpět do celého těla][1]. K zachování směru toku krve slouží [chlopně jakožto jednosměrné ventily][2].
 
   * Při **stažení srdeční komory** _(systola)_ je krev vypuzena díky chlopním jedním směrem do tepen.
   * Při **uvolnění srdeční komory** _(diastola)_ se průchodnost chlopní vymění. Krev je z opačného směru nasávána ze žil.
@@ -52,7 +50,7 @@ Za normální se u mladého zdravého člověka považuje hodnota kolem 120/80 m
   * potřebou odvést zplodiny látkové výměny (ze svalů po námaze),
   * v souvislosti s psychikou (strach, hněv, rozčílení, vzrušení).
 
-Krátkodobě **nízkou hodnotu krevního tlaku** naměří zdravý člověk v klidu, v pohodě, dobře naladěný. Nervově labilní člověk si může v souvislosti s nějakou vzpomínkou nebo představou způsobit nadměrný [pokles tlaku s následným kolapsem][1].
+Krátkodobě **nízkou hodnotu krevního tlaku** naměří zdravý člověk v klidu, v pohodě, dobře naladěný. Nervově labilní člověk si může v souvislosti s nějakou vzpomínkou nebo představou způsobit nadměrný [pokles tlaku s následným kolapsem][3].
 
 {id="podminky_mereni"}
 
@@ -75,7 +73,7 @@ Z důvodu různého odstupu pažních tepen od srdeční tepny bývá **tlak na 
 
 ## Vysoký krevní tlak – hypertenze
 
-Opakované vyšší systolické hodnoty vyžadují poradu s lékařem. U zvýšené diastolické hodnoty je [návštěva lékaře nezbytná](nalehavost_lekarskeho_vysetreni).
+Opakované vyšší systolické hodnoty vyžadují poradu s lékařem. U zvýšené diastolické hodnoty je [návštěva lékaře nezbytná][4].
 
 Mladí lidé mívají systolickou hodnotu 120 až 130 mm Hg, starší lidé i vyšší. Tato hodnota se mění během let, během dne i během okamžiku. **Teprve až opakované vyšší hodnoty mohou znamenat hypertenzi** a vyžadují poradu s lékařem.
 
@@ -123,9 +121,6 @@ n/a
 
 n/a
 
-<!-- placeholder -->
-:   <!-- placeholder -->
-
 {var="linklist"}
 
 Seznam odkazů není k dispozici
@@ -134,5 +129,8 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: kolaps
+ [1]: srdecni_infarkt
+ [2]: krecove_zily
+ [3]: kolaps
+ [4]: nalehavost_lekarskeho_vysetreni
 
