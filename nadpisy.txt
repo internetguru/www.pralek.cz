@@ -1,0 +1,66 @@
+bercovy_vred#Bércový vřed#Vývoj a hojení bércového vředu
+bodne_a_strelne_poraneni#Závažná poranění#Závažnost bodných a střelných poranění
+bolesti_v_zadech_houser#Bolesti v zádech#Příčiny a léčba bolestí v zádech
+bolest_v_krku_angina#Angína#Nachlazení a bolesti v krku
+bolest_zaludku#Bolest žaludku#Žaludeční potíže: bolest žaludku
+boule_nasledkem_urazu#Úrazové boule#Boule vzniklé následkem úrazu
+cert#Čert#Kterak pohádkový čert na svět přišel
+cevkovani#Cévkování#Cévkování močového měchýře
+chripka#Chřipka#Chřipka: virové onemocnění
+darcovstvi_krve#Darování krve#Dárcovství krve, krevní plazmy a kostní dřeně
+detske_zlomeniny#Dětské zlomeniny#Zvláštnosti dětských zlomenin
+doktor_nebo_lecitel#Léčitelství#Doktor nebo léčitel
+drobna_krvava_poraneni#Poranění#Drobná krvavá poranění
+dupuytrenova_kontraktura#Dupuytrenova kontraktura#Uzly, deformity a zatrvrdliny ve dlani
+funkcni_poruchy_traveni#Trávicí potíže#Funkční poruchy trávení
+karpalni_syndrom#Karpální syndrom#Noční brnění prstů ruky
+kasel_a_typy_kasle#Kašel#Kdy kašlání potlačovat a kdy podporovat
+krecove_zily#Varixy#Křečové žíly dolních končetin
+krvaceni_dasni#Krvácení dásní#Příčinou krvácení dásní je nedostatek vitamínu C
+krvaceni_z_konecniku#Hemoroidy#Krvácení z konečníku: hemoroidy nebo nádor
+kyla#Kýla#Boulička v třísle, v pupku nebo v jeho okolí
+lecba_zanetu#Stádia zánětu#Léčba zánětu podle druhu a stádia
+leceni_zlomenin#Léčení zlomenin#Metody léčení zlomenin
+lekove_formy#Léky#Možnosti podávání léků a lékové formy
+leky_proti_bolesti#Analgetika#Léky proti bolesti
+lymfaticke_uzliny#Uzliny#Zvětšené lymfatické uzliny
+mocove_kameny#Močové kameny#Močové kameny a ledvinová kolika
+nadmerne_dychani#Předýchávání#Nadměrné dýchání
+nalehavost_lekarskeho_vysetreni#Naléhavost vyšetření#Naléhavost vyhledání lékařské péče
+nezhoubne_nadory#Nezhoubné nádory#Nezhoubné nádory a bouličky s nimi zaměňované
+nezhoubny_nebo_zhoubny_nador#Nezhoubný nebo zhoubný nádor#Rozdíly mezi nezhoubným a zhoubným nádorem
+obezita_a_energie#Obezita#Obezita jako nepoměr příjmu a výdeje energie
+odhaleni_rakoviny#Odhalení rakoviny#Včasné odhalení rakoviny tlustého střeva a konečníku
+onemocneni_slach#Onemocnění šlach#Zánět šlach, gangliom, tenisový loket
+opalovani#Opalování#Zásady správného opalování
+otres_mozku#Otřes mozku#Otřes mozku nebo jen pohmoždění hlavy
+panaricium#Panaricium#Nebezpečný zánět prstu ruky
+patni_ostruha#Patní ostruha#Neúrazová bolest paty
+pece_o_zvukovod#Zvukovod#Péče o zevní zvukovod
+penis-fimoza-obrizka#Péče o penis#Péče o penis, hygiena chlapců, fimóza, obřízka
+pichnuti_injekce#Injekce#Píchnutí injekce svépomocí
+pneumotorax#Pneumotorax#Závažné poranění hrudníku a pneumotorax
+poraneni_nehtu#Poranění nehtu#Nejčastější poranění nehtu
+poraneni_sleziny#Poranění sleziny#Záludnost poranění sleziny u dětí
+prijem_tekutin#Příjem tekutin#Přiměřený příjem tekutin
+projevy_alergie#Alergie#Co je a co není alergická reakce
+prostata#Prostata#Prostatické potíže s močením
+puchyr_mozol_kuri_oko#Ošetření puchýře#Jak ošetřit puchýř, mozol nebo kuří oko
+rakovina_streva#Rakovina střeva#Rakovina tlustého střeva a konečníku
+resuscitace-ozivovani#Resuscitace#Kdy a jak resuscitovat
+ryma_a_smrkani#Rýma#Rýma a smrkání, komplikace rýmy
+slepak#Slepák#Zánět červovitého přívěsku slepého střeva
+spolknute_predmety#Spolknuté předměty#Spolknuté nebezpečné a ostré předměty
+starecke_zlomeniny#Stařecké zlomeniny#Typické stařecké zlomeniny
+stravovaci_navyky#Zdravé trávení#Stravovací návyky a trávicí systém
+strevni_nepruchodnost#Ileus#Střevní neprůchodnost bývá komplikací jiné choroby
+subduralni_hematom#Subdurální hematom#Poúrazové krvácení do hlavy
+telisko_v_oku#Tělísko v oku#Cizí tělísko v oku
+teplota#Teplota#Normální tělesná teplota, horečka, podchlazení
+tlak_zaludku#Tlak žaludku#Krátkodobý tlak žaludku
+urazy_deti#Úrazy batolat#Typické úrazy malých dětí
+vhodna_obuv#Obuv#Vhodná a nevhodná obuv
+zanet#Vývoj zánětu#Kdy zánět léčit, kdy rozhánět a kdy podporovat
+zanet_mocoveho_mechyre#Močová infekce#Zánět močové trubice a močového měchýře žen
+zanet_slinivky#Pankreatitida#Prudký zánět slinivky břišní
+zarustajici_nehty#Zarůstající nehty#Zarůstající nehty na palcích dolních končetin
