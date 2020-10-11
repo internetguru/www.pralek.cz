@@ -30,6 +30,7 @@
   <redir link="vodni_rezim">prijem_tekutin</redir>
   
   <!-- do not remove this line -->
+<redir link="leky_proti_bolesti">analgetika</redir>
 <redir link="lekove_formy">leky</redir>
 <redir link="lecba_zanetu">stadia_zanetu</redir>
 <redir link="krvaceni_z_konecniku">hemoroidy</redir>
