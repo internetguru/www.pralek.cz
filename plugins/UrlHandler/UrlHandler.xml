@@ -30,5 +30,6 @@
   <redir link="vodni_rezim">prijem_tekutin</redir>
   
   <!-- do not remove this line -->
+<redir link="bolesti_v_zadech_houser">bolesti_v_zadech</redir>
 <redir link="bodne_a_strelne_poraneni">zavazna_poraneni</redir>
 </UrlHandler>
