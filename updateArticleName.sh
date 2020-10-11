@@ -21,8 +21,7 @@ sed -i '/author=/s/ short="[^"]\+"/ short="'"$short"'"/' "$path"
 sed -i "/author=/s/>[^<]\+</>$long</" "$path"
 
 newId="$(normalize "$short")"
-oldId="$(basename "$path")"
-oldId="${oldId%.*}"
+oldId="$(hxselect -c "body > h::attr(id)" < "$path")"
 
 if [[ "$newId" != "$oldId" ]]; then
   articleDir="$(dirname "$path")"
@@ -31,7 +30,7 @@ if [[ "$newId" != "$oldId" ]]; then
   # update other article links
   sed -i 's/ href="'"$oldId"'"/ href="'"$newId"'"/' "$articleDir/"*.html
   # move
-  mv "$path" "$articleDir/$oldId.html"
+  mv "$path" "$articleDir/$newId.html"
   # add redir
   sed -i 's~this line -->~this line -->\n<redir link="'"$oldId"'">'"$newId"'</redir>~' plugins/UrlHandler/UrlHandler.xml
 fi
