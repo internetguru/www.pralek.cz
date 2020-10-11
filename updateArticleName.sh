@@ -1,7 +1,7 @@
 #!/bin/bash
 
 normalize() {
-  echo "$1" | iconv -f utf8 -t ascii//TRANSLIT | tr " " "_"
+  echo "$1" | iconv -f utf8 -t ascii//TRANSLIT | tr " " "_" | tr '[:upper:]' '[:lower:]'
 }
 
 path="$1"
