@@ -155,7 +155,7 @@ n/a
  [4]: travici_potize
  [5]: komplikace_vredu
  [6]: predychavani
- [7]: nadmerne_dychani#holotropni_dychani
+ [7]: predychavani#holotropni_dychani
  [8]: krevni_tlak
  [9]: bakterie
  [10]: chripka
