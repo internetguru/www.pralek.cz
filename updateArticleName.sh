@@ -16,21 +16,25 @@ long="$3"
   && echo "Article '$path' does not exists" \
   && exit 1
 
-# update short, long and id
+# update short, long
 sed -i '/author=/s/ short="[^"]\+"/ short="'"$short"'"/' "$path"
 sed -i "/author=/s/>[^<]\+/>$long</" "$path"
-newId="$(normalize "$short")"
-sed -i '/author=/s/ id="[^"]\+"/ id="'"$newId"'"/' "$path"
 
-articleDir="$(dirname "$path")"
+newId="$(normalize "$short")"
 oldId="$(basename "$path")"
 oldId="${oldId%.*}"
 
-# update other article links
-sed -i 's/ href="'"$oldId"'"/ href="'"$newId"'"/' "$articleDir/*.html"
-
-# move
-mv "$path" "$articleDir/$oldId.html"
+if [[ "$newId" != "$oldId" ]]; then
+  articleDir="$(dirname "$path")"
+  # update id
+  sed -i '/author=/s/ id="[^"]\+"/ id="'"$newId"'"/' "$path"
+  # update other article links
+  sed -i 's/ href="'"$oldId"'"/ href="'"$newId"'"/' "$articleDir/"*.html
+  # move
+  mv "$path" "$articleDir/$oldId.html"
+  # add redir
+  sed -i 's~this line -->~this line -->\n<redir link="'"$oldId"'">'"$newId"'</redir>~' plugins/UrlHandler/UrlHandler.xml
+fi
 
 # commit
 git add .
