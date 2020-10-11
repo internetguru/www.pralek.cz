@@ -1583,6 +1583,8 @@ body[data-link="/o_praleku"] .part > * {
 }
 .ad li {
   margin-left: 0;
+  font-size: 1.2em;
+  color: #00796B;
 }
 .ad li:first-child {
   margin-bottom: 1em;
