@@ -30,6 +30,7 @@
   <redir link="vodni_rezim">prijem_tekutin</redir>
   
   <!-- do not remove this line -->
+<redir link="ryma_a_smrkani">ryma</redir>
 <redir link="resuscitace-ozivovani">resuscitace</redir>
 <redir link="puchyr_mozol_kuri_oko">osetreni_puchyre</redir>
 <redir link="projevy_alergie">alergie</redir>
