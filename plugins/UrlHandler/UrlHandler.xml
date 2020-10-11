@@ -30,6 +30,7 @@
   <redir link="vodni_rezim">prijem_tekutin</redir>
   
   <!-- do not remove this line -->
+<redir link="lecba_zanetu">stadia_zanetu</redir>
 <redir link="krvaceni_z_konecniku">hemoroidy</redir>
 <redir link="krecove_zily">varixy</redir>
 <redir link="kasel_a_typy_kasle">kasel</redir>
