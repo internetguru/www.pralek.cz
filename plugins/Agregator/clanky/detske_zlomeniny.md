@@ -3,7 +3,7 @@
 
 {ctime="2009-06-09" mtime="2009-06-09" data-top="966" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="detske\_zlomeniny" short="Dětské zlomeniny"}
 
-# Nejčastější dětské zlomeniny a jejich zvláštnosti
+# Zvláštnosti dětských zlomenin
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
@@ -107,7 +107,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: zlomeniny
- [2]: urazy_deti
+ [2]: urazy_batolat
  [3]: leceni_zlomenin
- [4]: nalehavost_lekarskeho_vysetreni
+ [4]: nalehavost_vysetreni
 

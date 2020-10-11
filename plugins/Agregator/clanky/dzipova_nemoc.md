@@ -87,7 +87,7 @@ n/a
  [1]: nezhoubne_nadory
  [2]: akne
  [3]: teplota
- [4]: zanet
+ [4]: vyvoj_zanetu
  [5]: afekce_prsu
  [6]: bakterie
 

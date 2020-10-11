@@ -97,11 +97,11 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: bakterie
- [2]: stravovaci_navyky
+ [2]: zdrave_traveni
  [3]: tlak_zaludku
- [4]: funkcni_poruchy_traveni
+ [4]: travici_potize
  [5]: slepak
- [6]: zanet_slinivky
+ [6]: pankreatitida
  [7]: bolest_zaludku
  [8]: antibiotika
  [9]: koureni_cigaret

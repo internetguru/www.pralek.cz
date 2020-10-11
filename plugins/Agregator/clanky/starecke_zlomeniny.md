@@ -3,7 +3,7 @@
 
 {ctime="2009-06-22" mtime="2009-06-22" data-top="931" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="starecke\_zlomeniny" short="Stařecké zlomeniny"}
 
-# Nejčastější stařecké zlomeniny
+# Typické stařecké zlomeniny
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
@@ -94,9 +94,9 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: bolesti_v_zadech_houser
- [2]: leky_proti_bolesti
- [3]: nalehavost_lekarskeho_vysetreni
+ [1]: bolesti_v_zadech
+ [2]: analgetika
+ [3]: nalehavost_vysetreni
  [4]: artroza
  [5]: leceni_zlomenin
 

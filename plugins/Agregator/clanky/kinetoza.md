@@ -96,6 +96,6 @@ n/a
  [1]: nevolnost_zvraceni
  [2]: bolesti_hlavy
  [3]: krevni_tlak
- [4]: lekove_formy
- [5]: pece_o_zvukovod
+ [4]: leky
+ [5]: zvukovod
 

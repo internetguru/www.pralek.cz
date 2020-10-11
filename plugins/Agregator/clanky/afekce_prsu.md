@@ -102,10 +102,10 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zanet
+ [1]: vyvoj_zanetu
  [2]: nezhoubne_nadory
  [3]: rakovina_prsu
  [4]: znamenko-bradavice-rakovina
- [5]: lymfaticke_uzliny
- [6]: lecba_zanetu
+ [5]: uzliny
+ [6]: stadia_zanetu
 

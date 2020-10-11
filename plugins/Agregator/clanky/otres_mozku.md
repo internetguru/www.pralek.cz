@@ -102,10 +102,10 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: drobna_krvava_poraneni
+ [1]: poraneni
  [2]: kolaps
- [3]: resuscitace-ozivovani
- [4]: funkcni_poruchy_traveni
- [5]: boule_nasledkem_urazu
+ [3]: resuscitace
+ [4]: travici_potize
+ [5]: urazove_boule
  [6]: subduralni_hematom
 

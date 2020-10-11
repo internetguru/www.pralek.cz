@@ -3,7 +3,7 @@
 
 {ctime="2010-05-23" mtime="2010-05-23" data-top="982" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubny\_nebo\_zhoubny\_nador" short="Nezhoubný nebo zhoubný nádor"}
 
-# Nezhoubný nebo zhoubný nádor: obecné srovnání
+# Rozdíly mezi nezhoubným a zhoubným nádorem
 
 {kw="nádory, boulička, strach, nezhoubné, zhoubné"}
 
@@ -100,8 +100,8 @@ n/a
 
  [1]: rakovina_prsu
  [2]: karpalni_syndrom
- [3]: nalehavost_lekarskeho_vysetreni
+ [3]: nalehavost_vysetreni
  [4]: odhaleni_rakoviny
- [5]: obezita_a_energie
+ [5]: obezita
  [6]: rakovina_streva
 

@@ -138,7 +138,7 @@ n/a
  [5]: zlucove_kameny
  [6]: bolesti_hlavy
  [7]: slepak
- [8]: strevni_nepruchodnost
+ [8]: ileus
  [9]: kyla
  [10]: mrtvice
  [11]: subduralni_hematom

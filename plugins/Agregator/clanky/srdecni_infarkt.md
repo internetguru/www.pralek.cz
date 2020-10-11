@@ -100,10 +100,10 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: koureni_cigaret
- [2]: obezita_a_energie
+ [2]: obezita
  [3]: cukrovka
  [4]: krevni_tlak
  [5]: mrtvice
  [6]: cholesterol
- [7]: resuscitace-ozivovani
+ [7]: resuscitace
 

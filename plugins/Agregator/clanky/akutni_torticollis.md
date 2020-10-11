@@ -105,6 +105,6 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: bolesti_v_zadech_houser
- [2]: leky_proti_bolesti
+ [1]: bolesti_v_zadech
+ [2]: analgetika
 

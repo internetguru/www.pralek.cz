@@ -89,6 +89,6 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: rakovina_streva
- [2]: krvaceni_z_konecniku
+ [2]: hemoroidy
  [3]: krvaceni_dasni
 

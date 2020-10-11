@@ -3,7 +3,7 @@
 
 {ctime="2008-01-08" mtime="2008-01-08" data-top="950" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="kyla" short="Kýla"}
 
-# Kýla: boulička v třísle, v pupku nebo jeho okolí
+# Boulička v třísle, v pupku nebo v jeho okolí
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
@@ -83,11 +83,11 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: kasel_a_typy_kasle
- [2]: ryma_a_smrkani
- [3]: krvaceni_z_konecniku
- [4]: lymfaticke_uzliny
- [5]: funkcni_poruchy_traveni
- [6]: strevni_nepruchodnost
- [7]: nalehavost_lekarskeho_vysetreni
+ [1]: kasel
+ [2]: ryma
+ [3]: hemoroidy
+ [4]: uzliny
+ [5]: travici_potize
+ [6]: ileus
+ [7]: nalehavost_vysetreni
 

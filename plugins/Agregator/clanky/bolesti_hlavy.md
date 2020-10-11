@@ -105,17 +105,17 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: leky_proti_bolesti
- [2]: nalehavost_lekarskeho_vysetreni
- [3]: bolesti_v_zadech_houser
- [4]: lecba_zanetu
+ [1]: analgetika
+ [2]: nalehavost_vysetreni
+ [3]: bolesti_v_zadech
+ [4]: stadia_zanetu
  [5]: teplota
  [6]: prijem_tekutin
  [7]: bakterie
  [8]: koureni_cigaret
  [9]: krevni_tlak
- [10]: stravovaci_navyky
- [11]: krvaceni_z_konecniku
+ [10]: zdrave_traveni
+ [11]: hemoroidy
  [12]: otres_mozku
  [13]: mrtvice
  [14]: subduralni_hematom

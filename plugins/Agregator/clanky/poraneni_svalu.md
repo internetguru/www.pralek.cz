@@ -88,7 +88,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: nalehavost_lekarskeho_vysetreni
+ [1]: nalehavost_vysetreni
  [2]: onemocneni_slach
- [3]: lecba_zanetu
+ [3]: stadia_zanetu
 

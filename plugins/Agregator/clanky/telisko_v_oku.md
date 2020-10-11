@@ -129,7 +129,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zanet
- [2]: nalehavost_lekarskeho_vysetreni
+ [1]: vyvoj_zanetu
+ [2]: nalehavost_vysetreni
  [3]: lekarnicka
 

@@ -1,9 +1,9 @@
 
 {data-fbcommentid="1859950917470604" data-type="article" data-image="/files/preview/koutek/teplota/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-10-02" mtime="2020-06-16" data-top="999" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="teplota" short="Tělesná teplota"}
+{ctime="2008-10-02" mtime="2020-06-16" data-top="999" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="teplota" short="Teplota"}
 
-# Normální tělesná teplota, podchlazení, horečka
+# Normální tělesná teplota, horečka, podchlazení
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
@@ -121,16 +121,16 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: resuscitace-ozivovani
+ [1]: resuscitace
  [2]: prijem_tekutin
- [3]: funkcni_poruchy_traveni
+ [3]: travici_potize
  [4]: bolesti_hlavy
- [5]: zanet
+ [5]: vyvoj_zanetu
  [6]: imunita
- [7]: leky_proti_bolesti
- [8]: bolest_v_krku_angina
- [9]: ryma_a_smrkani
- [10]: kasel_a_typy_kasle
+ [7]: analgetika
+ [8]: angina
+ [9]: ryma
+ [10]: kasel
  [11]: mocove_kameny
  [12]: prisate_kliste
  [13]: chripka

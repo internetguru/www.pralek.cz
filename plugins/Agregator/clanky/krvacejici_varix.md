@@ -111,7 +111,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: krecove_zily
+ [1]: varixy
  [2]: bercovy_vred
- [3]: darcovstvi_krve
+ [3]: darovani_krve
 

@@ -16,7 +16,7 @@ Močová trubice při močení odvádí moč z močového měchýře ven z těla
 Příčiny retence moči jsou
 
   * [zvětšení prostaty][1] – nezhoubná hypertrofie prostaty nebo její zhoubný nádor,
-  * [pozánětlivé][2] [zúžení močové trubice][2],
+  * [pozánětlivé][2] [zúžení močové trubice][3],
   * ucpání močové trubice např. krevní sraženinou a
   * porucha nervového zásobení močového měchýře.
 
@@ -24,7 +24,7 @@ Cévka je sterilní trubička, kterou je z močového měchýře vypouštěna mo
 
 {class="example"}
 
-Moč se tvoří v ledvinách a dvěma močovody průběžně odtéká do močového měchýře, ve kterém se shromažďuje. Při močení je vypuzena [močovou trubicí][3] ven z těla.
+Moč se tvoří v ledvinách a dvěma močovody průběžně odtéká do močového měchýře, ve kterém se shromažďuje. Při močení je vypuzena [močovou trubicí][4] ven z těla.
 
 {id="jednorazova_cevka"}
 
@@ -34,7 +34,7 @@ Jednorázové vycévkování (katetrizace močového měchýře) mužů i žen j
 
 {class="important"}
 
-Močová cévka je sterilní, tedy bez [choroboplodných zárodků][4]. Rovněž její zavádění je prováděno za sterilních podmínek. Cévka je vyrobena z měkkého nedráždivého materiálu a šetrné cévkování není bolestivé.
+Močová cévka je sterilní, tedy bez [choroboplodných zárodků][5]. Rovněž její zavádění je prováděno za sterilních podmínek. Cévka je vyrobena z měkkého nedráždivého materiálu a šetrné cévkování není bolestivé.
 
 {id="trvala_cevka"}
 
@@ -56,7 +56,7 @@ Cévkování je nepříjemné a lidé z něj mívají strach. Značnou roli hraj
 
   * Bezprostředně po zavedení cévky má pacient pocit nutkání močení, i když má močový měchýř prázdný.
   * Nepoučený pacient se často snaží cévku vytáhnout, protože má mylný pocit, že mu cévka brání v močení. To ovšem nejde, kvůli naplněnému balónku v měchýři.
-  * Pálení močové trubice po vycévkování bývá známkou jejího podráždění nebo později i [počínajícího zánětu][5].
+  * Pálení močové trubice po vycévkování bývá známkou jejího podráždění nebo později i [počínajícího zánětu][6].
   * V případě ucpání cévky je nutné nefunkční cévku odstranit a zavést novou (přecévkovat).
   * Po odstranění cévky mívají pacienti dočasné potíže s udržením moče.
 
@@ -100,8 +100,9 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: prostata
- [2]: zanet_mocoveho_mechyre
- [3]: penis-fimoza-obrizka
- [4]: bakterie
- [5]: lecba_zanetu
+ [2]: mocova_infekce
+ [3]: zanet_mocoveho_mechyre
+ [4]: pece_o_penis
+ [5]: bakterie
+ [6]: stadia_zanetu
 

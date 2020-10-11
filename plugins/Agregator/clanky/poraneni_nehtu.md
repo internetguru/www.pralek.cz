@@ -120,8 +120,8 @@ n/a
  [1]: plisne_kuze
  [2]: zarustajici_nehty
  [3]: bakterie
- [4]: zanet
- [5]: bolest_v_krku_angina
- [6]: nalehavost_lekarskeho_vysetreni
+ [4]: vyvoj_zanetu
+ [5]: angina
+ [6]: nalehavost_vysetreni
  [7]: zlomeniny
 

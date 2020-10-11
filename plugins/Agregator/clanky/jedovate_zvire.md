@@ -88,12 +88,12 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: projevy_alergie
+ [1]: alergie
  [2]: zachranka
- [3]: ryma_a_smrkani
+ [3]: ryma
  [4]: lekarnicka
- [5]: pichnuti_injekce
+ [5]: injekce
  [6]: bakterie
- [7]: lecba_zanetu
- [8]: nalehavost_lekarskeho_vysetreni
+ [7]: stadia_zanetu
+ [8]: nalehavost_vysetreni
 

@@ -3,7 +3,7 @@
 
 {ctime="2012-05-18" mtime="2012-05-18" data-top="998" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="panaricium" short="Panaricium"}
 
-# Nebezpečný zánět prstu ruky – panaricium
+# Nebezpečný zánět prstu ruky
 
 {kw="zánět, poranění, uzliny, úraz, teplota, krev, antibiotika, prevence"}
 
@@ -103,13 +103,13 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zanet
+ [1]: vyvoj_zanetu
  [2]: poraneni_nehtu
  [3]: bakterie
- [4]: urazy_deti
+ [4]: urazy_batolat
  [5]: cukrovka
  [6]: imunita
  [7]: antibiotika
- [8]: lymfaticke_uzliny
+ [8]: uzliny
  [9]: zarustajici_nehty
 

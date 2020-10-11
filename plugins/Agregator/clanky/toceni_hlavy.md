@@ -152,15 +152,15 @@ n/a
  [1]: kinetoza
  [2]: tlak_zaludku
  [3]: prijem_tekutin
- [4]: funkcni_poruchy_traveni
+ [4]: travici_potize
  [5]: komplikace_vredu
- [6]: nadmerne_dychani
+ [6]: predychavani
  [7]: nadmerne_dychani#holotropni_dychani
  [8]: krevni_tlak
  [9]: bakterie
  [10]: chripka
  [11]: subduralni_hematom
- [12]: bolesti_v_zadech_houser
+ [12]: bolesti_v_zadech
  [13]: bolesti_hlavy
  [14]: srdecni_infarkt
  [15]: cukrovka

@@ -90,11 +90,11 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: lecba_zanetu
- [2]: puchyr_mozol_kuri_oko
+ [1]: stadia_zanetu
+ [2]: osetreni_puchyre
  [3]: bakterie
- [4]: urazy_deti
- [5]: nalehavost_lekarskeho_vysetreni
+ [4]: urazy_batolat
+ [5]: nalehavost_vysetreni
  [6]: zachranka
  [7]: akne
 

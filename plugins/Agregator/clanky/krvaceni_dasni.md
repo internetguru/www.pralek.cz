@@ -95,8 +95,8 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: prijem_tekutin
- [2]: stravovaci_navyky
- [3]: lecba_zanetu
+ [2]: zdrave_traveni
+ [3]: stadia_zanetu
  [4]: bakterie
  [5]: koureni_cigaret
 

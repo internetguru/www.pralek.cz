@@ -130,9 +130,9 @@ n/a
  [2]: kolaps
  [3]: vyron_kotniku
  [4]: detske_zlomeniny
- [5]: nalehavost_lekarskeho_vysetreni
+ [5]: nalehavost_vysetreni
  [6]: otres_mozku
- [7]: bodne_a_strelne_poraneni
+ [7]: zavazna_poraneni
  [8]: skoky_do_vody
  [9]: starecke_zlomeniny
 

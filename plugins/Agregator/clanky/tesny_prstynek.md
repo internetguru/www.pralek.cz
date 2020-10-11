@@ -83,8 +83,8 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: lecba_zanetu
+ [1]: stadia_zanetu
  [2]: plisne_kuze
  [3]: krevni_tlak
- [4]: urazy_deti
+ [4]: urazy_batolat
 

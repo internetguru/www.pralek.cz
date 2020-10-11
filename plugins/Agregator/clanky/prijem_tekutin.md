@@ -114,7 +114,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: stravovaci_navyky
+ [1]: zdrave_traveni
  [2]: teplota
  [3]: krevni_tlak
  [4]: bakterie

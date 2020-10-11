@@ -3,7 +3,7 @@
 
 {ctime="2011-03-19" mtime="2011-03-19" data-top="984" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="dupuytrenova\_kontraktura" short="Dupuytrenova kontraktura"}
 
-# Uzly a zatvrdliny ve dlani: Dupuytrenova kontraktura
+# Uzly, deformity a zatrvrdliny ve dlani
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
@@ -81,11 +81,11 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: puchyr_mozol_kuri_oko
+ [1]: osetreni_puchyre
  [2]: onemocneni_slach
  [3]: lupavy_prst
  [4]: artroza
  [5]: nezhoubne_nadory
  [6]: bakterie
- [7]: zanet
+ [7]: vyvoj_zanetu
 

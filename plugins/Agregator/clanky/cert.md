@@ -3,7 +3,7 @@
 
 {ctime="2011-04-01" mtime="2011-04-01" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cert" short="Čert"}
 
-# Pohádkový čert: kterak na svět přišel
+# Kterak pohádkový čert na svět přišel
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
@@ -113,9 +113,9 @@ n/a
 
  [1]: znamenko-bradavice-rakovina
  [2]: opalovani
- [3]: puchyr_mozol_kuri_oko
+ [3]: osetreni_puchyre
  [4]: nezhoubny_nebo_zhoubny_nador
- [5]: zanet
+ [5]: vyvoj_zanetu
  [6]: dzipova_nemoc
  [7]: nezhoubne_nadory
 

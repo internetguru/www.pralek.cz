@@ -145,7 +145,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: kasel_a_typy_kasle
+ [1]: kasel
  [2]: rakovina_streva
  [3]: srdecni_infarkt
  [4]: mrtvice

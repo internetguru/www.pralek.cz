@@ -130,8 +130,8 @@ n/a
  [1]: onemocneni_slach
  [2]: patni_ostruha
  [3]: nezhoubne_nadory
- [4]: bolesti_v_zadech_houser
- [5]: vhodna_obuv
- [6]: leky_proti_bolesti
- [7]: lekove_formy
+ [4]: bolesti_v_zadech
+ [5]: obuv
+ [6]: analgetika
+ [7]: leky
 

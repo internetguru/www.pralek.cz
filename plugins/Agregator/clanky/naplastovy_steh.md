@@ -102,10 +102,10 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: drobna_krvava_poraneni
- [2]: bodne_a_strelne_poraneni
+ [1]: poraneni
+ [2]: zavazna_poraneni
  [3]: akne
- [4]: zanet
- [5]: krecove_zily
- [6]: projevy_alergie
+ [4]: vyvoj_zanetu
+ [5]: varixy
+ [6]: alergie
 

@@ -88,6 +88,6 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: stravovaci_navyky
- [2]: strevni_nepruchodnost
+ [1]: zdrave_traveni
+ [2]: ileus
 

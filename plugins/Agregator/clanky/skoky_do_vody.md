@@ -99,6 +99,6 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: drobna_krvava_poraneni
+ [1]: poraneni
  [2]: zlomeniny
 

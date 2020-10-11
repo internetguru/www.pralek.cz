@@ -107,6 +107,6 @@ n/a
 
  [1]: pady_z_kola
  [2]: zlomeniny
- [3]: nalehavost_lekarskeho_vysetreni
- [4]: vhodna_obuv
+ [3]: nalehavost_vysetreni
+ [4]: obuv
 

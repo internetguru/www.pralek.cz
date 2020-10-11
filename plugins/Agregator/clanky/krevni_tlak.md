@@ -130,7 +130,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: srdecni_infarkt
- [2]: krecove_zily
+ [2]: varixy
  [3]: kolaps
- [4]: nalehavost_lekarskeho_vysetreni
+ [4]: nalehavost_vysetreni
 

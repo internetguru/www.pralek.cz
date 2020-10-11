@@ -77,6 +77,6 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: onemocneni_slach
- [2]: lecba_zanetu
- [3]: zanet
+ [2]: stadia_zanetu
+ [3]: vyvoj_zanetu
 

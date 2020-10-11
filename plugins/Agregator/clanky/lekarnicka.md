@@ -155,21 +155,21 @@ n/a
  [4]: odreniny_neboli_oderky
  [5]: jedovate_zvire
  [6]: prisate_kliste
- [7]: puchyr_mozol_kuri_oko
- [8]: bodne_a_strelne_poraneni
- [9]: projevy_alergie
+ [7]: osetreni_puchyre
+ [8]: zavazna_poraneni
+ [9]: alergie
  [10]: naplastovy_steh
  [11]: vyron_kotniku
  [12]: zlomeniny
- [13]: boule_nasledkem_urazu
+ [13]: urazove_boule
  [14]: ochlazeni_spaleniny
- [15]: funkcni_poruchy_traveni
- [16]: ryma_a_smrkani
- [17]: leky_proti_bolesti
+ [15]: travici_potize
+ [16]: ryma
+ [17]: analgetika
  [18]: bolesti_hlavy
- [19]: kasel_a_typy_kasle
- [20]: lekove_formy
- [21]: lecba_zanetu
- [22]: nalehavost_lekarskeho_vysetreni
+ [19]: kasel
+ [20]: leky
+ [21]: stadia_zanetu
+ [22]: nalehavost_vysetreni
  [23]: telisko_v_oku
 

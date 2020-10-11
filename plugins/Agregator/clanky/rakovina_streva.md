@@ -118,13 +118,13 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: odhaleni_rakoviny
- [2]: stravovaci_navyky
- [3]: funkcni_poruchy_traveni
- [4]: krvaceni_z_konecniku
- [5]: strevni_nepruchodnost
+ [2]: zdrave_traveni
+ [3]: travici_potize
+ [4]: hemoroidy
+ [5]: ileus
  [6]: komplikace_vredu
  [7]: nezhoubny_nebo_zhoubny_nador
- [8]: lymfaticke_uzliny
+ [8]: uzliny
  [9]: nezhoubne_nadory
- [10]: zanet
+ [10]: vyvoj_zanetu
 

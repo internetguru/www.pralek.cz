@@ -3,7 +3,7 @@
 
 {ctime="2009-12-13" mtime="2009-12-13" data-top="941" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="slepak" short="Slepák"}
 
-# Slepák: zánět červovitého přívěsku slepého střeva
+# Zánět červovitého přívěsku slepého střeva
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
@@ -110,13 +110,13 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: stravovaci_navyky
- [2]: strevni_nepruchodnost
+ [1]: zdrave_traveni
+ [2]: ileus
  [3]: zlucove_kameny
- [4]: funkcni_poruchy_traveni
+ [4]: travici_potize
  [5]: mytus_o_rakovine
  [6]: teplota
- [7]: lecba_zanetu
+ [7]: stadia_zanetu
  [8]: bakterie
  [9]: mocove_kameny
 
