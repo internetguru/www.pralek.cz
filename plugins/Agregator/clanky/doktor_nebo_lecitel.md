@@ -48,9 +48,9 @@ Léčitel je člověk, který o sobě tvrdí, že má mimořádné schopnosti ro
   * Jeho sliby jsou střízlivé.
   * Jeho odměna je pro pacienta únosná.
 
-Léčitel tvrdí, že cítí, co pacientovi chybí nebo přebývá a poradí nejčastěji vhodnou dietu, čaje nebo koupele. Někteří léčitelé dokáží [odstranit bolest](leky_proti_bolesti), nebo dokonce blahodárně ovlivnit závažné onemocnění.
+Léčitel tvrdí, že cítí, co pacientovi chybí nebo přebývá a poradí nejčastěji vhodnou dietu, čaje nebo koupele. Někteří léčitelé dokáží pouhým dotykem či pohyby [odstranit bolest](leky_proti_bolesti), nebo dokonce blahodárně ovlivnit závažné onemocnění.
 
-Dnešní věda nerozumí schopnostem léčitelů; **umění léčitelů nelze nijak prokázat**. Je však možné, že léčitelé pracují s jevy nám dnes neznámými (podobně jako proutkaři) a časem budou jejich metody i vědecky prokázány.
+Dnešní věda nerozumí schopnostem léčitelů; **umění léčitelů nelze nijak prokázat**. Je však možné, že léčitelé pracují s jevy nám dnes neznámými (podobně jako proutkaři), a že časem budou jejich metody i vědecky prokázány.
 
 **Dobrá pověst léčitele není měřítkem jeho schopností.** Šikovný léčitel psycholog totiž dokáže zneužít vyděšenosti pacienta, pro kterého může být poslední nadějí. Vyzví, co potřebuje, naslibuje pomoc a vyinkasuje odměnu, aniž by reálně pacientovi pomohl. Takto „zpracovaný“ pacient bude tohoto léčitele všude chválit.
 
