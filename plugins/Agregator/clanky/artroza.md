@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859853107480385" data-type="article" data-image="/files/preview/koutek/artroza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2012-03-18" mtime="2012-03-18" data-top="974" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="artroza" short="Bolesti kloubů"}
+{ctime="2012-03-18" mtime="2012-03-18" data-top="974" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="artroza" short="Artróza"}
 
 # Bolesti kloubů – jak žít s artrózou
 
