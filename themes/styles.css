@@ -1188,18 +1188,19 @@ li.important, li.example {
   padding-top: 3em !important;
 }
 .button-list--ico li:not(.donation) svg,
+.button-list--ico li:not(.ebook) svg,
 .part.docinfo svg {
   font-size: 1.6em;
   margin-right: 0.25em;
   vertical-align: -0.25em;
 }
-.button-list--ico li:not(.donation) svg,
-.docinfo.share a:not(.fb):not(.twitter) svg {
+.button-list--ico li:not(.donation):not(.ebook) svg,
+.docinfo.share a:not(.fb):not(.twitter):not(.ebook) svg {
   position: absolute;
   top: 0;
   left: -1.5em;
 }
-.button-list--ico li:not(.donation),
+.button-list--ico li:not(.donation):not(.ebook),
 .docinfo.share li {
   position: relative;
   margin-left: 2.75em;
@@ -1215,9 +1216,11 @@ li.important, li.example {
   color: white;
 }
 .docinfo.social a.fb svg,
-.docinfo.social a.twitter svg {
+.docinfo.social a.twitter svg,
+.button-list--ico li.ebook svg {
   color: white !important;
 }
+.docinfo.social
 .part.dotace {
   padding-bottom: 2em;
 }
