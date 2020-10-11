@@ -30,6 +30,7 @@
   <redir link="vodni_rezim">prijem_tekutin</redir>
   
   <!-- do not remove this line -->
+<redir link="vhodna_obuv">obuv</redir>
 <redir link="urazy_deti">urazy_batolat</redir>
 <redir link="strevni_nepruchodnost">ileus</redir>
 <redir link="stravovaci_navyky">zdrave_traveni</redir>
