@@ -18,7 +18,7 @@ long="$3"
 
 # update short, long
 sed -i '/author=/s/ short="[^"]\+"/ short="'"$short"'"/' "$path"
-sed -i "/author=/s/>[^<]\+/>$long</" "$path"
+sed -i "/author=/s/>[^<]\+</>$long</" "$path"
 
 newId="$(normalize "$short")"
 oldId="$(basename "$path")"
