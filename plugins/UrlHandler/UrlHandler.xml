@@ -30,6 +30,7 @@
   <redir link="vodni_rezim">prijem_tekutin</redir>
   
   <!-- do not remove this line -->
+<redir link="funkcni_poruchy_traveni">travici_potize</redir>
 <redir link="drobna_krvava_poraneni">poraneni</redir>
 <redir link="doktor_nebo_lecitel">lecitelstvi</redir>
 <redir link="darcovstvi_krve">darovani_krve</redir>
