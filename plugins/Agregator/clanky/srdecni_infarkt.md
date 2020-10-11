@@ -5,8 +5,6 @@
 
 # Rozpoznání a závažnost srdečního infarktu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="srdce, krev, porucha vědomí, cévy, cukrovka, prevence, břicho"}
 
 Srdeční infarkt neboli _infarkt myokardu_ (česky záhať srdečního svalu) patří mezi civilizační choroby. Rozpoznání infarktu a bezodkladné zahájení masáže srdce zachrání život. Včasné další léčení může vrátit pacienta do plného zdraví.
@@ -19,7 +17,7 @@ Infarkt postihuje nejčastěji muže ve středním a vyšším věku. Většinou
 
 ## Jak funguje srdce a tepny
 
-**Srdeční sval [pumpuje krev do těla][4]**. Aby mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve. Zvláštní tepny rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná tepna**. 
+**Srdeční sval [pumpuje krev do těla][4]** . Aby mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve. Zvláštní tepny rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná tepna**. 
 
 **V ostatních svalech** a orgánech k jednomu místu **přivádí krev více tepen**. Poškození jedné z nich je snadno nahrazeno ostatními. Zdravá tepna má ve stěně svalovinu a je schopna se rozšiřovat nebo zužovat – podle nároků zásobovaného místa. Vzniklý [problém se tedy mimo srdce nemusí vůbec projevit][5].
 

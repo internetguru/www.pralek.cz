@@ -5,8 +5,6 @@
 
 # Šetrná léčba vykloubeného ramene
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="rameno, kloub, úraz, první pomoc, pohyb"}
 
 Vykloubení ramene (luxace ramene) je velmi bolestivý a právem obávaný úraz. Napravení se provádí vždy citlivě, bez násilí, bez trhání nebo škubání. Často je nezbytné celkové znecitlivění.
@@ -21,7 +19,7 @@ n/a
 
 **Nejobvyklejší je _přední luxace_** (9 z 10 případů), tedy vykloubení hlavice pažní kosti z kloubní jamky směrem dopředu. K takovému vykloubení ramene dochází nejčastěji při odtažení paže od těla a jejím zvedání proti odporu, někdy třeba jen při oblékání, jindy při nárazu nataženou paží proti překážce. _Přední luxace_ se bohužel může vracet (dále). 
 
-Ostatní typy vykloubení ramene (směrem dozadu nebo dolů) jsou mnohem méně časté. Velmi vzácně může vzniknout _luxace nahoru_ nebo dokonce _luxace do hrudníku_ se [zlomeninou žeber][1]. Tyto typy vykloubení mívají nejrůznější mechanizmy vzniku včetně působení hrubého násilí [při pádech](pady_z_kola) nebo dopravních nehodách.
+Ostatní typy vykloubení ramene (směrem dozadu nebo dolů) jsou mnohem méně časté. Velmi vzácně může vzniknout _luxace nahoru_ nebo dokonce _luxace do hrudníku_ se [zlomeninou žeber][1]. Tyto typy vykloubení mívají nejrůznější mechanizmy vzniku včetně působení hrubého násilí [při pádech][2] nebo dopravních nehodách.
 
 {id="vykloubene\_rameno\_a\_prvni\_pomoc"}
 
@@ -31,7 +29,7 @@ n/a
 
 Ihned po úrazu nastupuje **prudká bolest postiženého ramene** a nemožnost poraněnou paží vykonat jakoukoli činnost. Rameno vypadá oproti druhému ramenu nesymetricky _(má změněnou konfiguraci)_. Bezvládná paže visí dolů nebo si ji pacient přidržuje v pro něj přijatelné poloze.
 
-V rámci první pomoci je třeba **zafixovat končetinu v dané poloze**. Toho lze docílit buď uložením končetiny do šátku nebo pomocí zraněnému s udržením končetiny v dané poloze. Je nutné vyloučit jakékoli pohyby nebo otřesy – všechny jsou totiž velmi bolestivé. Proto by měl zachránce raději [přivolat RLP][2] než zraněného dopravit na nejbližší chirurgii nebo traumatologii.
+V rámci první pomoci je třeba **zafixovat končetinu v dané poloze**. Toho lze docílit buď uložením končetiny do šátku nebo pomocí zraněnému s udržením končetiny v dané poloze. Je nutné vyloučit jakékoli pohyby nebo otřesy – všechny jsou totiž velmi bolestivé. Proto by měl zachránce raději [přivolat RLP][3] než zraněného dopravit na nejbližší chirurgii nebo traumatologii.
 
 Zraněný nesmí jíst, pít, kouřit ani brát léky. V případě nutnosti celkového znecitlivění (narkózy) musí být zraněný nalačno a střízlivý. V opačném případě musí být výkon odložen do vytrávení nebo vystřízlivění z důvodu nebezpečí komplikací spojených s narkózou.
 
@@ -101,5 +99,6 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: pneumotorax
- [2]: zachranka
+ [2]: pady_z_kola
+ [3]: zachranka
 

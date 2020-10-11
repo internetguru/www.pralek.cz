@@ -5,8 +5,6 @@
 
 # Příčiny a léčba lupavého prstu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="pohyb, zánět, úraz"}
 
 Při tomto onemocnění je v jednom místě ztížený pohyb prstem. Při snaze o ohnutí prstu dojde po překonání určitého odporu k přeskočení prstu do nové polohy (lupnutí).
@@ -33,7 +31,7 @@ V počátku onemocnění bývá lupání [komplikováno zánětem][2] a je tedy 
 
 n/a
 
-Rozcvičování prstu v počáteční fázi onemocnění by zvyšovalo bolest i [intenzitu zánětu](zanet). Proto je potřeba se v této fázi lupání prstu naprosto vyvarovat. To lze podpořit pevnou fixací prstu nebo i celé ruky.
+Rozcvičování prstu v počáteční fázi onemocnění by zvyšovalo bolest i [intenzitu zánětu][3]. Proto je potřeba se v této fázi lupání prstu naprosto vyvarovat. To lze podpořit pevnou fixací prstu nebo i celé ruky.
 
 Zhruba po 3 týdnech může lupání přestat nebo se stát méně znatelným a nebolestivým. Pak je teprve vhodné začít bolestivý prst zlehka a bez námahy procvičovat.
 
@@ -80,4 +78,5 @@ n/a
 
  [1]: onemocneni_slach
  [2]: lecba_zanetu
+ [3]: zanet
 

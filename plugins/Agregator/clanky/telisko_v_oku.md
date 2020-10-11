@@ -5,8 +5,6 @@
 
 # Cizí tělísko v oku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="úraz, poranění, první pomoc"}
 
 Cizí tělísko lze odstranit z oka svépomocí nebo vzájemnou pomocí. K odstranění smítka je vhodná navlhčená vatová ušní štětička nebo čistý růžek látkového kapesníku. V případě podezření na poranění oka nebo poranění rohovky je však nezbytné ošetření očním lékařem.
@@ -85,7 +83,7 @@ K nejzávažnějším úrazům s ohrožením zraku patří poleptání oka (pole
 
 {class="important"}
 
-Při poleptání oka je první pomocí vyplachování oka čistou vodou (nebo [v lékárně](lekarnicka) zakoupenou oční vodou) nepřetržitě až do převzetí péče oftalmologem.
+Při poleptání oka je první pomocí vyplachování oka čistou vodou (nebo [v lékárně][3] zakoupenou oční vodou) nepřetržitě až do převzetí péče oftalmologem.
 
 {class="example"}
 
@@ -133,4 +131,5 @@ n/a
 
  [1]: zanet
  [2]: nalehavost_lekarskeho_vysetreni
+ [3]: lekarnicka
 

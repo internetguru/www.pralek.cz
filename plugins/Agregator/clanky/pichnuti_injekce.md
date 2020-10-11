@@ -5,8 +5,6 @@
 
 # Píchnutí injekce svépomocí
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="první pomoc, nevolnost, kůže-podkoží, hygiena, cévy, krev, poranění, boulička"}
 
 Píchnutí injekce (aplikace léku v injekční formě) svépomocí nebo vzájemnou pomocí do podkoží nebo do svalu je jednoduché a bezbolestné. Součástí přípravy je dodržení hygienických pravidel a volba vhodného místa vpichu.

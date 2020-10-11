@@ -5,8 +5,6 @@
 
 # Vyvrtnutí a podvrtnutí kotníku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="kloub, vykloubení, úraz, pohyb"}
 
 Jedná se o častý úraz převážně mladých lidí a sportovců. Panují však nejasnosti v tom, zda a kdy vyhledat lékařské vyšetření a existují různé možnosti léčení.
@@ -27,7 +25,7 @@ Jestliže násilí působí opačně (tlačí nohu pod zevní kotník), pak se p
 
 Často se zvrtnutí nesprávně laicky označuje jako _podvrknutí kotníku_, _vyvrknutí kotníku_ či _zvrknutí kotníku_.
 
-Větší násilí může [poranit hlezno](pady_z_kola) oboustranně. Jedná se o závažnější úraz, rychle nastupuje otok a brzy se ukazuje i krevní výron. Stav je označován jako **podvrtnutí, zvrtnutí nebo vyvrtnutí obou kotníků** (hlezna). Laicky bývá také označován jako „výron“. Vzhledem k nestabilitě kloubu lze mluvit i o **vymknutí (vykloubení) hlezna** – _hlezenného kloubu_.
+Větší násilí může [poranit hlezno][1] oboustranně. Jedná se o závažnější úraz, rychle nastupuje otok a brzy se ukazuje i krevní výron. Stav je označován jako **podvrtnutí, zvrtnutí nebo vyvrtnutí obou kotníků** (hlezna). Laicky bývá také označován jako „výron“. Vzhledem k nestabilitě kloubu lze mluvit i o **vymknutí (vykloubení) hlezna** – _hlezenného kloubu_.
 
 **Hlezenný kloub** je velmi zatěžovaný složitý kloub, spojující 3 kosti:
 
@@ -45,9 +43,9 @@ n/a
 
 Podvrtnutí zevního (resp. vnitřního) kotníku se projevuje bolestí pod zevním (resp. vnitřním) kotníkem. Vlastní kotník nebolí. Může dojít k otoku a může se tvořit krevní výron v místě bolesti. V případě vážnějšího poranění obou kotníků s nestabilitou kloubu je bolestivost pod oběma kotníky i před nimi na nártu. Poraněný není schopen chůze.
 
-Ve všech případech je nejlépe **uložit poraněnou končetinu zřetelně do výšky a bolestivé místo ledovat**. Diagnózu potvrdí odborný lékař chirurg nebo ortoped po doplnění rentgenovým vyšetřením k vyloučení možného současného [poranění kostí][1].
+Ve všech případech je nejlépe **uložit poraněnou končetinu zřetelně do výšky a bolestivé místo ledovat**. Diagnózu potvrdí odborný lékař chirurg nebo ortoped po doplnění rentgenovým vyšetřením k vyloučení možného současného [poranění kostí][2].
 
-S vyhledáním odborného vyšetření lze [vyčkat na vhodnou dobu][2]. Nejlépe všední den dopoledne, na horách lze vyčkat v chatě až ustane vánice, na lodi lze vyčkat příjezdu do přístavu. Do té doby je vždy nutné dodržet vyvýšení zraněné končetiny a ledování bolavého místa.
+S vyhledáním odborného vyšetření lze [vyčkat na vhodnou dobu][3]. Nejlépe všední den dopoledne, na horách lze vyčkat v chatě až ustane vánice, na lodi lze vyčkat příjezdu do přístavu. Do té doby je vždy nutné dodržet vyvýšení zraněné končetiny a ledování bolavého místa.
 
 {id="moznosti\_leceni\_podvrtnuteho_kotniku"}
 
@@ -61,7 +59,7 @@ Jiná možnost je **přiložení ortézy**. Ortéza limituje pohyb hlezna v pož
 
 {class="example"}
 
-Dlouhodobé [preventivní nošení ortézy][3] je však sporné. V případě běžné zátěže nahrazuje ortéza oslabený vaz a ten proto nesílí a nezpevňuje se. V případě nadměrného násilí nebo nečekaného úrazu nezabrání ortéza recidivě.
+Dlouhodobé [preventivní nošení ortézy][4] je však sporné. V případě běžné zátěže nahrazuje ortéza oslabený vaz a ten proto nesílí a nezpevňuje se. V případě nadměrného násilí nebo nečekaného úrazu nezabrání ortéza recidivě.
 
 **Správně provedené tejpování** může podpořit lehce poškozené kloubní pouzdro nebo vaz. Vzhledem k velkým silám v oblasti hlezna ale spíše jen symbolicky.
 
@@ -107,7 +105,8 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zlomeniny
- [2]: nalehavost_lekarskeho_vysetreni
- [3]: vhodna_obuv
+ [1]: pady_z_kola
+ [2]: zlomeniny
+ [3]: nalehavost_lekarskeho_vysetreni
+ [4]: vhodna_obuv
 
