@@ -30,6 +30,7 @@
   <redir link="vodni_rezim">prijem_tekutin</redir>
   
   <!-- do not remove this line -->
+<redir link="zanet_slinivky">pankreatitida</redir>
 <redir link="zanet_mocoveho_mechyre">mocova_infekce</redir>
 <redir link="zanet">vyvoj_zanetu</redir>
 <redir link="vhodna_obuv">obuv</redir>
