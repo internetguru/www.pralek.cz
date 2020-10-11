@@ -30,6 +30,7 @@
   <redir link="vodni_rezim">prijem_tekutin</redir>
   
   <!-- do not remove this line -->
+<redir link="doktor_nebo_lecitel">lecitelstvi</redir>
 <redir link="darcovstvi_krve">darovani_krve</redir>
 <redir link="boule_nasledkem_urazu">urazove_boule</redir>
 <redir link="bolest_v_krku_angina">angina</redir>
