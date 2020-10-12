@@ -3,7 +3,7 @@
 
 {ctime="2008-04-20" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="resuscitace" short="Resuscitace"}
 
-# Kdy a jak resuscitovat
+# Kdy a jak zahájit oživování
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
