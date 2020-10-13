@@ -1352,22 +1352,32 @@ li {
 .upozorneni .card__heading {
   display: none;
 }
-.upozorneni.hdesc--top + div form dd,
-.upozorneni form dd {
-  display: flex;
-}
 .upozorneni.hdesc--top + div form dd input[type="email"],
 .upozorneni form dd input[type="email"] {
   border: none;
   border-radius: 0;
   margin-right: 0.75em;
   border-bottom: thin solid #9E9E9E;
+  max-width: 15em;
   --input-padding: 1em 0.5em;
 }
 .upozorneni.hdesc--top + div form dd button,
 .upozorneni form dd button {
   padding: var(--button-img-inline-padding);
   flex: 0 0 auto;
+  margin-top: 1em;
+  padding-left: 0;
+}
+@media all and (min-width: 28em) {
+  .upozorneni.hdesc--top + div form dd,
+  .upozorneni form dd {
+    display: flex;
+  }
+  .upozorneni.hdesc--top + div form dd button,
+  .upozorneni form dd button {
+    margin-top: 0;
+    padding-left: 1em;
+  }
 }
 .part.ukazka {
   padding-bottom: 1em;
@@ -1379,6 +1389,10 @@ ol.otazky span {
 }
 ol.otazky li:last-child:before {
   content: "" !important;
+}
+ol.otazky button {
+  width: 15em;
+  max-width: 100vw;
 }
 .feedback-yes,
 ol.otazky button:first-child {
@@ -1463,18 +1477,28 @@ div.part.internetguru form {
   padding: var(--global-horizontal-padding);
   padding-top: 2em;
 }
-div.part.internetguru form div {
-  display: flex;
-}
 div.part.internetguru form div button {
   flex-shrink: 0;
+  margin-top: 1em;
+  padding-left: 0;
 }
 div.part.internetguru form div input {
   border: none;
   border-radius: 0;
   margin-right: 0.75em;
   border-bottom: thin solid #9E9E9E;
+  max-width: 15em;
   --input-padding: 1em 0.5em;
+}
+@media all and (min-width: 28em) {
+  div.part.internetguru form div {
+    display: flex;
+  }
+  div.part.internetguru form div button {
+    flex-shrink: 0;
+    margin-top: 0;
+    padding-left: 1em;
+  }
 }
 @media all and (min-width: 42em) {
   div.part.internetguru .button-list,
