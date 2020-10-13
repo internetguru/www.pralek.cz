@@ -679,6 +679,21 @@ li.donation {
 li.ebook {
   --button-svg-color: white;
 }
+li.patreon,
+li.donation,
+li.facebook,
+li.ebook {
+   flex: 0 1 var(--button-max-width) !important;
+}
+@media all and (min-width: 32em) {
+  li.patreon,
+  li.donation,
+  li.facebook,
+  li.ebook {
+     flex: 0 1 auto !important;
+  }
+}
+
 .author dt + dd {
   font-size: 1.2em;
   margin-top: 0;
