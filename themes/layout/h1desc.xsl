@@ -41,7 +41,9 @@
         <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
         <xsl:if test="/body[contains(@class, 'agregator')]">
           <div class="extra">
-            <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlebuttons"/>
+            <ul class="button-list">
+              <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlebuttons"/>
+            </ul>
           </div>
         </xsl:if>
       </xsl:element>
