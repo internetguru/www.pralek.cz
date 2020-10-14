@@ -1569,7 +1569,7 @@ dl.clanek.doclist-new > dt:first-child:after {
   pointer-events: none;
 }
 .agregator-new .hdesc--top > div:after {
-  content: "Nový článek;
+  content: "Nový článek";
   transform: rotate(45deg);
   top: auto;
   bottom: -2.75em;
