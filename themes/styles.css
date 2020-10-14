@@ -1201,6 +1201,7 @@ li.important, li.example {
 .part.docinfo > div {
   border-top: thin solid #E0E0E0;
   padding-top: 3em !important;
+  padding-bottom: 2em !important;
 }
 .button-list--ico li:not(.donation) svg,
 .button-list--ico li:not(.ebook) svg,
