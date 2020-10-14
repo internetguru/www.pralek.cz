@@ -87,7 +87,7 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="//li[id='docinfoshare']">
+  <xsl:template match="//li[@id='docinfoshare']">
     <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlebuttons"/>
   </xsl:template>
 
