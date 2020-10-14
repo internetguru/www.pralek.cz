@@ -42,7 +42,7 @@
           </ul>
         </span>
       </li>
-      <li var="inputvar-ghedit2">n/a</li>
+      <li><span var="inputvar-ghedit2">n/a</span></li>
       <li><button data-eventable-category="print-header" title="Vytisknout článek" class="button__print button button--simple button--img button--img-only eventable"><span class="fas fa-fw fa-print">i</span>Vytisknout článek</button></li>
     </ul>
   </var>
