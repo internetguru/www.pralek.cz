@@ -261,6 +261,8 @@ h1 {
 .extra .button-list li:first-child ~ li button,
 .extra .button-list li:first-child ~ li span {
   --button-border-radius: 10em;
+  display: flex;
+  flex-wrap: wrap;
 }
 .extra .button-list > li:first-child ~ li {
   text-align: center;
@@ -269,20 +271,21 @@ h1 {
 .clanek .extra li:first-child + li svg {
   /* font-size: 0.75rem; */
 }
-.hdesc--top .extra li a,
-.hdesc--top .extra li button,
-.clanek .extra li:first-child ~ li a,
-.clanek .extra li:first-child ~ li button {
+.hdesc--top .extra li .button--img-only {
   width: 3rem !important;
   height: 3rem;
+  overflow: hidden;
 }
-.extra li svg {
+.extra li .button--img-only > svg,
+.extra li .button--img-only .hideable-switch svg {
   font-size: 1.2rem;
   width: 1.5rem;
+  display: block !important;
+  position: relative;
+  left: 0.1em;
+  margin-bottom: 0.5em;
 }
 .extra li svg.fa-share-alt {
-  position: relative;
-  left: -0.1em;
   font-size: 1.2em;
 }
 .extra .button-list span {
@@ -1550,7 +1553,7 @@ dl.clanek.doclist-new > dt:first-child {
 .agregator-new .hdesc--top > div:after,
 dl.clanek.linklist-new > dt:first-child:after,
 dl.clanek.doclist-new > dt:first-child:after {
-  content: "NovÃ½";
+  content: "Nový";
   width: 12em;
   background: #00796b;
   position: absolute;
@@ -1566,7 +1569,7 @@ dl.clanek.doclist-new > dt:first-child:after {
   pointer-events: none;
 }
 .agregator-new .hdesc--top > div:after {
-  content: "NovÃ½ ÄlÃ¡nek";
+  content: "Nový článek;
   transform: rotate(45deg);
   top: auto;
   bottom: -2.75em;
