@@ -86,12 +86,7 @@
       <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
-  
-  <xsl:template match="//li[@id='docinfoshare']">
-    <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlebuttons"/>
-  </xsl:template>
-
-  
+    
   <xsl:template match="node()|@*">
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
