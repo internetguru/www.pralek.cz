@@ -33,7 +33,7 @@
           <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fab fa-fw fa-share-alt">i</span></span>
         </div>
       </li>
-      <li><a var="link@href" fn="inputvar-createfblink@href" class="button button--simple button--img button--img-only"><span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
+      <li><a onclick="a" var="link@href" fn="inputvar-createfblink@href" class="button button--simple button--img button--img-only"><span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
     </ul>
   </var>
   
