@@ -409,10 +409,12 @@ body:not(.admin) .extra .copyable__wrapper {
   text-align: left;
   display: none;
 }
+body:not(.admin) .docinfo .copyable__wrapper,
 body:not(.admin) .extra .hideable-nohide .copyable__wrapper {
   display: block;
   padding: 0em 0.5em 0 1em;
 }
+body:not(.admin) .docinfo .copyable__wrapper > span:first-child button,
 body:not(.admin) .hdesc .copyable__wrapper > span:first-child button {
   padding: 0;
   width: 100% !important;
@@ -422,7 +424,7 @@ body:not(.admin) .hdesc .copyable__wrapper > span:first-child button {
   outline: none;
   height: auto;
   padding-top: 0.5em;
-  color: #757575;
+  color: #757575 !important;
 }
 body:not(.admin) .copyable__wrapper > span:first-child button svg {
   color: #616161 !important;
@@ -852,6 +854,29 @@ body:not(.agregator) .hdesc--top label {
 .extra .button-list > li:last-child {
   margin-right: 0 !important;
 }
+.hdesc--top .extra .button-list li:first-child .button {
+  border-radius: 100%;
+}
+.hdesc--top .meta {
+  margin-top: 0;
+  font-size: 1.2em;
+  /* max-width: 33em; */
+  /* overflow: hidden; */
+  /* height: 2.2em; */
+  margin: 0 auto;
+}
+.hdesc--top .meta .tag {
+  margin-left: 1.5em;
+  margin-right: 0.85em;
+  margin-top: 1.1em;
+  display: inline-block;
+}
+.hdesc--top .meta .tag svg {
+  color: rgba(var(--link-color), 0.5);
+  top: 0.35em;
+}
+/***************************/
+.docinfo.share li span > ul,
 .hdesc--top .extra .button-list ul {
   list-style: none;
   width: 100%;
@@ -873,50 +898,39 @@ body:not(.agregator) .hdesc--top label {
 #content .hdesc--top .extra .button-list .hideable-hidden ul {
   display: none;
 }
+.docinfo.share li span > ul li,
 #content .hdesc--top .extra .button-list ul li {
   margin: 0;
 }
+.docinfo.share li span > ul li .button,
 #content .hdesc--top .extra .button-list ul li .button {
   --button--simple-bg: 255,255,255;
+  --button-svg-color: rgb(66,66,66);
   width: max-content !important;
   border-radius: var(--global-border-radius);
   justify-content: flex-start;
   align-items: center;
   font-family: var(--font-family);
+  padding: var(--button-padding);
 }
+.docinfo.share li span > ul li .button svg {
+  font-size: 2em;
+}
+.docinfo.share li span > ul li,
 #content .hdesc--top .extra .button-list ul li {
   width: 100%;
   display: block;
   text-align: left;
 }
+.docinfo.share li span > ul li .button svg,
 #content .hdesc--top .extra .button-list ul li .button svg {
   margin: 0 0.5em 0 0.25em;
 }
+.docinfo.share li span > ul li .button svg.fa-copy,
 #content .hdesc--top .extra .button-list ul li .button svg.fa-copy {
   font-size: 1rem;
   margin-right: 0.65em;
   margin-left: 0.5em;
-}
-.hdesc--top .extra .button-list li:first-child .button {
-  border-radius: 100%;
-}
-.hdesc--top .meta {
-  margin-top: 0;
-  font-size: 1.2em;
-  /* max-width: 33em; */
-  /* overflow: hidden; */
-  /* height: 2.2em; */
-  margin: 0 auto;
-}
-.hdesc--top .meta .tag {
-  margin-left: 1.5em;
-  margin-right: 0.85em;
-  margin-top: 1.1em;
-  display: inline-block;
-}
-.hdesc--top .meta .tag svg {
-  color: rgba(var(--link-color), 0.5);
-  top: 0.35em;
 }
 /***************************/
 .agregator {
@@ -1139,7 +1153,8 @@ body:not(.agregator) .hdesc--top label {
   margin-bottom: 0;
 }
 .button-list--ico li:not(.donation) svg,
-.agregator #content .part.docinfo svg {
+.agregator #content .docinfo.global svg,
+.agregator #content .part.docinfo .button--img-only svg {
   color: #616161;
   text-align: center;
 }
@@ -1206,42 +1221,21 @@ li.important, li.example {
   padding-top: 3em !important;
   padding-bottom: 2em !important;
 }
-.button-list--ico li:not(.donation) svg,
-.button-list--ico li:not(.ebook) svg,
 .part.docinfo svg {
   font-size: 1.6em;
   margin-right: 0.25em;
   vertical-align: -0.25em;
 }
-.button-list--ico li:not(.donation):not(.ebook) svg,
-.docinfo.share a:not(.fb):not(.twitter):not(.ebook) svg {
+.docinfo.share button svg,
+.docinfo.share .button--img-only svg {
   position: absolute;
-  top: 0;
+  top: 0.25em;
   left: -1.5em;
+  margin-right: 0;
 }
-.button-list--ico li:not(.donation):not(.ebook),
-.docinfo.share li {
+.docinfo.share > li {
   position: relative;
   margin-left: 2.75em;
-}
-.docinfo.social a.fb {
-  --button-bg: #1160c6;
-  --button--active-bg: #0b3f84;
-  color: white;
-}
-.docinfo.social a.twitter {
-  --button-bg: #1a76ad;
-  --button--active-bg: #165276;
-  color: white;
-}
-.docinfo.social a.fb svg,
-.docinfo.social a.twitter svg,
-.button-list--ico li.ebook svg {
-  color: white !important;
-}
-.docinfo.social
-.part.dotace {
-  padding-bottom: 2em;
 }
 .hdesc.o_praleku + div {
   padding: 1em 0 2em 0;
@@ -1270,6 +1264,33 @@ li.important, li.example {
 }
 .part.sponzoring .button-list {
   justify-content: left;
+}
+.docinfo.share li .button svg {
+  top: 0;
+}
+.docinfo.share .hideable > .button {
+  padding: 0;
+  color: rgb(var(--global-color));
+  background: none !important;
+}
+.docinfo.share li button,
+.docinfo.share li .button--img-only[href],
+.docinfo.share li .button--img-only[href]:visited,
+.docinfo.share li .hideable-switch {
+  text-transform: none;
+  font-size: 1rem;
+  letter-spacing: var(--global-letter-spacing);
+  color: var(--link-color) !important;
+  border-bottom: thin solid rgb(var(--global-color)) !important;
+  padding: 0;
+  border-radius: 0;
+  background: none !important;
+}
+.docinfo.share li .hideable-switch:before {
+  display: none;
+}
+.docinfo.share .copyable__button {
+  border: none !important;
 }
 /************************************/
 body a.definition {
