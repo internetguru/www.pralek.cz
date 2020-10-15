@@ -911,7 +911,9 @@ body:not(.agregator) .hdesc--top label {
   justify-content: flex-start;
   align-items: center;
   font-family: var(--font-family);
-  padding: var(--button-padding);
+  padding: 0.5rem;
+  padding-right: 0.75rem;
+  margin: 0.2em 0.25em;
 }
 .docinfo.share li span > ul li .button svg {
   font-size: 2em;
@@ -924,7 +926,7 @@ body:not(.agregator) .hdesc--top label {
 }
 .docinfo.share li span > ul li .button svg,
 #content .hdesc--top .extra .button-list ul li .button svg {
-  margin: 0 0.5em 0 0.25em;
+  /* margin: 0 0.5em 0 0.25em; */
 }
 .docinfo.share li span > ul li .button svg.fa-copy,
 #content .hdesc--top .extra .button-list ul li .button svg.fa-copy {
