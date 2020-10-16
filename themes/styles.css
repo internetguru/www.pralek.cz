@@ -250,7 +250,7 @@ h1 {
   position: relative;
 }
 .extra .button-list > li {
-  flex: 0 1 auto;
+  flex: 0 0 auto !important;
   margin-left: 0 !important;
 }
 .extra .button-list li:first-child {
@@ -282,7 +282,7 @@ h1 {
   width: 1.5rem;
   display: block !important;
   position: relative;
-  left: 0.1em;
+  left: 0.05em;
   margin-bottom: 0.5em;
 }
 .extra li svg.fa-share-alt {
@@ -510,6 +510,9 @@ a.tag[href^="#"] svg {
   color: #EC407A;
 }
 /************************************/ 
+.button--img-inline {
+  justify-content: left;
+}
 a.button:not(.button--border) {
   border-bottom: none !important;
 }
@@ -627,7 +630,15 @@ dt label.button {
   justify-content: center;
 }
 .button-list > li {
-  flex: 0 1 auto;
+  flex: 0 1 100%;
+  justify-content: left;
+  text-align: left;
+  max-width: 17em;
+}
+@media all and (min-width: 32em) {
+  .button-list > li {
+    flex: 0 1 auto;
+  }
 }
 @media all and (min-width: 62em) {
   .hdesc.o_praleku + div .card,
@@ -852,7 +863,7 @@ body:not(.agregator) .hdesc--top label {
   margin-right: 1em !important;
 }
 .extra .button-list > li:last-child {
-  margin-right: 0 !important;
+  margin-right: auto !important;
 }
 .hdesc--top .extra .button-list li:first-child .button {
   border-radius: 100%;
@@ -1154,7 +1165,7 @@ body:not(.agregator) .hdesc--top label {
   margin-top: 0;
   margin-bottom: 0;
 }
-.button-list--ico li:not(.donation) svg,
+.button-list--ico li:not(.donation):not(.ebook) svg,
 .agregator #content .docinfo.global svg,
 .agregator #content .part.docinfo .button--img-only svg {
   color: #616161;
@@ -1223,11 +1234,13 @@ li.important, li.example {
   padding-top: 3em !important;
   padding-bottom: 2em !important;
 }
+.button-list--ico li:not(.donation):not(.ebook) svg,
 .part.docinfo svg {
   font-size: 1.6em;
   margin-right: 0.25em;
   vertical-align: -0.25em;
 }
+.button-list--ico li:not(.donation):not(.ebook) svg,
 .docinfo.share button svg,
 .docinfo.share .button--img-only svg {
   position: absolute;
@@ -1235,9 +1248,17 @@ li.important, li.example {
   left: -1.5em;
   margin-right: 0;
 }
+.button-list--ico li:not(.donation):not(.ebook) svg {
+  top: 0;
+}
+.button-list--ico li:not(.donation):not(.ebook),
 .docinfo.share > li {
   position: relative;
   margin-left: 2.75em;
+  max-width: 12.5em;
+}
+.docinfo.share > li a {
+  width: auto;
 }
 .hdesc.o_praleku + div {
   padding: 1em 0 2em 0;
@@ -1480,7 +1501,12 @@ ol.otazky button.selected:last-child {
   padding: 0 var(--global-horizontal-padding);
 }
 #feedback .button-list--ico li:first-child {
-  margin-left: 2.3em;
+  margin-left: 4.2em;
+}
+@media (min-width: 32em) {
+  #feedback .button-list--ico li:first-child {
+    margin-left: 2.6em;
+  }
 }
 #feedback dd {
   margin: 1.25em 0;
