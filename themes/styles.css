@@ -623,11 +623,12 @@ dt label.button {
 .o_praleku .card .tag {
   white-space: nowrap;
 }
+.button-list,
 .hdesc.o_praleku + div .button-list,
 .o_praleku .button-list {
   clear: both;
   margin-top: 1.5em;
-  justify-content: center;
+  justify-content: left;
 }
 .button-list > li {
   flex: 0 1 100%;
@@ -636,6 +637,10 @@ dt label.button {
   max-width: 17em;
 }
 @media all and (min-width: 32em) {
+  hdesc.o_praleku + div .button-list,
+  .o_praleku .button-list {
+    justify-content: center;
+  }
   .button-list > li {
     flex: 0 1 auto;
   }
@@ -1515,7 +1520,7 @@ ol.otazky button.selected:last-child {
 /************************************/
 div.part.internetguru .button-list,
 div.part.upozorneni .button-list {
-  justify-content: center;
+  justify-content: left;
 }
 div.part.upozorneni,
 div.part.internetguru {
