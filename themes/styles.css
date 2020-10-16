@@ -1638,8 +1638,7 @@ body .scrolltopable span {
 }
 .agregator .figure {
   width: 50em;
-  max-width: 100%;
-
+  max-width: 100% !important;
 }
 body[data-link="/o_praleku"] .hdesc--top + div > *,
 body[data-link="/o_praleku"] .part > * {
