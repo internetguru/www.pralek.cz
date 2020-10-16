@@ -26,7 +26,7 @@
   <var id="fb-share"><a href="https://www.facebook.com/pralek"><span class="fab fa-fw fa-facebook-square">i</span>Sledovat Pralék na Facebooku</a></var>
 
   <var id="articlebuttons">
-    <li><a class="button button--simple button--img button--img-only" var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-fw fa-comment">i</span>Diskutovat článek</a></li>
+    <li><a class="button button--simple button--img button--img-only" var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fab fa-fw fa-facebook">i</span>Diskutovat článek</a></li>
     <li>
       <span class="hideable hideable-hidden" data-hideable-close-on-ext="true">
         <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fab fa-fw fa-share-alt">i</span> Sdílet článek</span>
