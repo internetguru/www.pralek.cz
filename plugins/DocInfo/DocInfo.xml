@@ -7,12 +7,7 @@
       <li var="modified">n/a</li>
     </ul>
     <ul class="docinfo share button-list">
-      <li><a var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-fw fa-comment">i</span>Diskutovat tento článek na našem Facebooku</a></li>
-      <li><a href="#" var="inputvar-ghedit">n/a</a></li>
-    </ul>
-    <ul class="docinfo social nomultiple button-list">
-      <li><a onclick="return !window.open(this.href, 'Google', 'width=750,height=500')" var="link@href" fn="inputvar-createfblink@href" class="button button--img button--img-inline fb"><span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
-      <li><a onclick="return !window.open(this.href, 'Google', 'width=750,height=500')" var="link@href" fn="inputvar-createtwitterlink@href" class="button button--img button--img-inline twitter"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
+      <li id="docinfoshare">n/a</li>
     </ul>
   </var>
   

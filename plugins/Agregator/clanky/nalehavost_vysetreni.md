@@ -27,7 +27,7 @@ n/a
   * Každou **spáleninu** je nutné 
       1. [okamžitě ochladit][3]. Kůže je vynikající tepelný izolátor a teplo proniká do hloubky pomalu a postupně. Bezprostřední chlazení podstatně **snižuje závažnost úrazu** i jeho následky.
       2. Zavolat záchranku, pokud je spálenina závažná (rozsáhlá). Běžné drobné spáleniny jsou léčeny na chirurgických ambulancích, závažné na specializovaných klinikách.
-  * **Poleptání oka** je nutné 
+  * **[Poleptání oka](telisko_v_oku)** je nutné 
       1. neprodleně řešit opakovanými výplachy oka čistou vodou nebo lépe oční vodou.
       2. Následně je třeba zavolat záchranku nebo zraněného co nejrychleji dopravit na oční oddělení spádové nemocnice.
       3. Oko je třeba vyplachovat až do předání pacienta lékaři z důvodu minimalizace poruchy zraku způsobené následným jizvením rohovky.
@@ -75,7 +75,7 @@ n/a
 
   * Krvavé **poranění nosu nebo ušního boltce** bude ošetřeno na oddělení ORL.
   * **Poranění genitálií** bude ošetřeno na urologii resp. gynekologii.
-  * **Poranění oka či očního víčka** bude ošetřeno na očním oddělení _(oftalmologie)_.
+  * **[Poranění oka](telisko_v_oku) či očního víčka** bude ošetřeno na očním oddělení _(oftalmologie)_.
   * Všechny ostatní [rány vyžadující ošetření][17] (včetně poranění rtů a jazyka) budou ošetřeny na chirurgické ambulanci.
 
 {id="osetreni\_nasledujici\_pracovni\_den\_dopoledne"}

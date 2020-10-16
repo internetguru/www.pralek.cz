@@ -7,6 +7,7 @@
   <xsl:param name="inputvar-otazky_desc" select="''"/>
   <xsl:param name="linklist" select="'&lt;p&gt;&lt;em&gt;Nebyly nalezeny žádné odkazy.&lt;/em&gt;&lt;/p&gt;'"/>
   <xsl:param name="agregator-current-stitek" select="'nejčtenější'"/>
+  <xsl:param name="inputvar-articlebuttons" select="''"/>
 
 <!--   <xsl:template match="div[@id = 'header']">
     <div id="header"><div>
@@ -85,7 +86,7 @@
       <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
-  
+    
   <xsl:template match="node()|@*">
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>

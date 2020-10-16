@@ -250,7 +250,7 @@ h1 {
   position: relative;
 }
 .extra .button-list > li {
-  flex: 0 1 auto;
+  flex: 0 0 auto !important;
   margin-left: 0 !important;
 }
 .extra .button-list li:first-child {
@@ -261,6 +261,8 @@ h1 {
 .extra .button-list li:first-child ~ li button,
 .extra .button-list li:first-child ~ li span {
   --button-border-radius: 10em;
+  display: flex;
+  flex-wrap: wrap;
 }
 .extra .button-list > li:first-child ~ li {
   text-align: center;
@@ -269,20 +271,21 @@ h1 {
 .clanek .extra li:first-child + li svg {
   /* font-size: 0.75rem; */
 }
-.hdesc--top .extra li a,
-.hdesc--top .extra li button,
-.clanek .extra li:first-child ~ li a,
-.clanek .extra li:first-child ~ li button {
+.hdesc--top .extra li .button--img-only {
   width: 3rem !important;
   height: 3rem;
+  overflow: hidden;
 }
-.extra li svg {
+.extra li .button--img-only > svg,
+.extra li .button--img-only .hideable-switch svg {
   font-size: 1.2rem;
   width: 1.5rem;
+  display: block !important;
+  position: relative;
+  left: 0.05em;
+  margin-bottom: 0.5em;
 }
 .extra li svg.fa-share-alt {
-  position: relative;
-  left: -0.1em;
   font-size: 1.2em;
 }
 .extra .button-list span {
@@ -406,10 +409,12 @@ body:not(.admin) .extra .copyable__wrapper {
   text-align: left;
   display: none;
 }
+body:not(.admin) .docinfo .copyable__wrapper,
 body:not(.admin) .extra .hideable-nohide .copyable__wrapper {
   display: block;
   padding: 0em 0.5em 0 1em;
 }
+body:not(.admin) .docinfo .copyable__wrapper > span:first-child button,
 body:not(.admin) .hdesc .copyable__wrapper > span:first-child button {
   padding: 0;
   width: 100% !important;
@@ -419,7 +424,7 @@ body:not(.admin) .hdesc .copyable__wrapper > span:first-child button {
   outline: none;
   height: auto;
   padding-top: 0.5em;
-  color: #757575;
+  color: #757575 !important;
 }
 body:not(.admin) .copyable__wrapper > span:first-child button svg {
   color: #616161 !important;
@@ -505,6 +510,9 @@ a.tag[href^="#"] svg {
   color: #EC407A;
 }
 /************************************/ 
+.button--img-inline {
+  justify-content: left;
+}
 a.button:not(.button--border) {
   border-bottom: none !important;
 }
@@ -615,14 +623,27 @@ dt label.button {
 .o_praleku .card .tag {
   white-space: nowrap;
 }
+.button-list,
 .hdesc.o_praleku + div .button-list,
 .o_praleku .button-list {
   clear: both;
   margin-top: 1.5em;
-  justify-content: center;
+  justify-content: left;
 }
 .button-list > li {
-  flex: 0 1 auto;
+  flex: 0 1 100%;
+  justify-content: left;
+  text-align: left;
+  max-width: 17em;
+}
+@media all and (min-width: 32em) {
+  hdesc.o_praleku + div .button-list,
+  .o_praleku .button-list {
+    justify-content: center;
+  }
+  .button-list > li {
+    flex: 0 1 auto;
+  }
 }
 @media all and (min-width: 62em) {
   .hdesc.o_praleku + div .card,
@@ -679,6 +700,21 @@ li.donation {
 li.ebook {
   --button-svg-color: white;
 }
+li.patreon,
+li.donation,
+li.facebook,
+li.ebook {
+   flex: 0 1 var(--button-max-width) !important;
+}
+@media all and (min-width: 32em) {
+  li.patreon,
+  li.donation,
+  li.facebook,
+  li.ebook {
+     flex: 0 1 auto !important;
+  }
+}
+
 .author dt + dd {
   font-size: 1.2em;
   margin-top: 0;
@@ -832,52 +868,7 @@ body:not(.agregator) .hdesc--top label {
   margin-right: 1em !important;
 }
 .extra .button-list > li:last-child {
-  margin-right: 0 !important;
-}
-.hdesc--top .extra .button-list ul {
-  list-style: none;
-  width: 100%;
-  max-width: 20em;
-  position: fixed;
-  z-index: 2;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin: auto;
-  height: fit-content;
-  background: white;
-  border-radius: var(--global-border-radius);
-  padding: 3.7em 0.5em 1.3em 0.5em;
-  box-shadow: 0 0 0 100em rgba(0, 0, 0, 0.7);
-  box-shadow: 0 0 0 100vmax rgba(0, 0, 0, 0.7);
-}
-#content .hdesc--top .extra .button-list .hideable-hidden ul {
-  display: none;
-}
-#content .hdesc--top .extra .button-list ul li {
-  margin: 0;
-}
-#content .hdesc--top .extra .button-list ul li .button {
-  --button--simple-bg: 255,255,255;
-  width: max-content !important;
-  border-radius: var(--global-border-radius);
-  justify-content: flex-start;
-  align-items: center;
-  font-family: var(--font-family);
-}
-#content .hdesc--top .extra .button-list ul li {
-  width: 100%;
-  display: block;
-  text-align: left;
-}
-#content .hdesc--top .extra .button-list ul li .button svg {
-  margin: 0 0.5em 0 0.25em;
-}
-#content .hdesc--top .extra .button-list ul li .button svg.fa-copy {
-  font-size: 1rem;
-  margin-right: 0.65em;
-  margin-left: 0.5em;
+  margin-right: auto !important;
 }
 .hdesc--top .extra .button-list li:first-child .button {
   border-radius: 100%;
@@ -899,6 +890,65 @@ body:not(.agregator) .hdesc--top label {
 .hdesc--top .meta .tag svg {
   color: rgba(var(--link-color), 0.5);
   top: 0.35em;
+}
+/***************************/
+.docinfo.share li span > ul,
+.hdesc--top .extra .button-list ul {
+  list-style: none;
+  width: 100%;
+  max-width: 20em;
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  height: fit-content;
+  background: white;
+  border-radius: var(--global-border-radius);
+  padding: 3.7em 0.5em 1.3em 0.5em;
+  box-shadow: 0 0 0 100em rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 0 100vmax rgba(0, 0, 0, 0.7);
+}
+#content .hdesc--top .extra .button-list .hideable-hidden ul {
+  display: none;
+}
+.docinfo.share li span > ul li,
+#content .hdesc--top .extra .button-list ul li {
+  margin: 0;
+}
+.docinfo.share li span > ul li .button,
+#content .hdesc--top .extra .button-list ul li .button {
+  --button--simple-bg: 255,255,255;
+  --button-svg-color: rgb(66,66,66);
+  width: max-content !important;
+  border-radius: var(--global-border-radius);
+  justify-content: flex-start;
+  align-items: center;
+  font-family: var(--font-family);
+  padding: 0.5rem;
+  padding-right: 0.75rem;
+  margin: 0.2em 0.25em;
+}
+.docinfo.share li span > ul li .button svg {
+  font-size: 2em;
+}
+.docinfo.share li span > ul li,
+#content .hdesc--top .extra .button-list ul li {
+  width: 100%;
+  display: block;
+  text-align: left;
+}
+.docinfo.share li span > ul li .button svg,
+#content .hdesc--top .extra .button-list ul li .button svg {
+  /* margin: 0 0.5em 0 0.25em; */
+}
+.docinfo.share li span > ul li .button svg.fa-copy,
+#content .hdesc--top .extra .button-list ul li .button svg.fa-copy {
+  font-size: 1rem;
+  margin-right: 0.65em;
+  margin-left: 0.5em;
 }
 /***************************/
 .agregator {
@@ -1120,8 +1170,9 @@ body:not(.agregator) .hdesc--top label {
   margin-top: 0;
   margin-bottom: 0;
 }
-.button-list--ico li:not(.donation) svg,
-.agregator #content .part.docinfo svg {
+.button-list--ico li:not(.donation):not(.ebook) svg,
+.agregator #content .docinfo.global svg,
+.agregator #content .part.docinfo .button--img-only svg {
   color: #616161;
   text-align: center;
 }
@@ -1186,43 +1237,33 @@ li.important, li.example {
 .part.docinfo > div {
   border-top: thin solid #E0E0E0;
   padding-top: 3em !important;
+  padding-bottom: 2em !important;
 }
-.button-list--ico li:not(.donation) svg,
-.button-list--ico li:not(.ebook) svg,
+.button-list--ico li:not(.donation):not(.ebook) svg,
 .part.docinfo svg {
   font-size: 1.6em;
   margin-right: 0.25em;
   vertical-align: -0.25em;
 }
 .button-list--ico li:not(.donation):not(.ebook) svg,
-.docinfo.share a:not(.fb):not(.twitter):not(.ebook) svg {
+.docinfo.share button svg,
+.docinfo.share .button--img-only svg {
   position: absolute;
-  top: 0;
+  top: 0.25em;
   left: -1.5em;
+  margin-right: 0;
+}
+.button-list--ico li:not(.donation):not(.ebook) svg {
+  top: 0;
 }
 .button-list--ico li:not(.donation):not(.ebook),
-.docinfo.share li {
+.docinfo.share > li {
   position: relative;
   margin-left: 2.75em;
+  max-width: 12.5em;
 }
-.docinfo.social a.fb {
-  --button-bg: #1160c6;
-  --button--active-bg: #0b3f84;
-  color: white;
-}
-.docinfo.social a.twitter {
-  --button-bg: #1a76ad;
-  --button--active-bg: #165276;
-  color: white;
-}
-.docinfo.social a.fb svg,
-.docinfo.social a.twitter svg,
-.button-list--ico li.ebook svg {
-  color: white !important;
-}
-.docinfo.social
-.part.dotace {
-  padding-bottom: 2em;
+.docinfo.share > li a {
+  width: auto;
 }
 .hdesc.o_praleku + div {
   padding: 1em 0 2em 0;
@@ -1251,6 +1292,33 @@ li.important, li.example {
 }
 .part.sponzoring .button-list {
   justify-content: left;
+}
+.docinfo.share li .button svg {
+  top: 0;
+}
+.docinfo.share .hideable > .button {
+  padding: 0;
+  color: rgb(var(--global-color));
+  background: none !important;
+}
+.docinfo.share li button,
+.docinfo.share li .button--img-only[href],
+.docinfo.share li .button--img-only[href]:visited,
+.docinfo.share li .hideable-switch {
+  text-transform: none;
+  font-size: 1rem;
+  letter-spacing: var(--global-letter-spacing);
+  color: var(--link-color) !important;
+  border-bottom: thin solid rgb(var(--global-color)) !important;
+  padding: 0;
+  border-radius: 0;
+  background: none !important;
+}
+.docinfo.share li .hideable-switch:before {
+  display: none;
+}
+.docinfo.share .copyable__button {
+  border: none !important;
 }
 /************************************/
 body a.definition {
@@ -1352,22 +1420,32 @@ li {
 .upozorneni .card__heading {
   display: none;
 }
-.upozorneni.hdesc--top + div form dd,
-.upozorneni form dd {
-  display: flex;
-}
 .upozorneni.hdesc--top + div form dd input[type="email"],
 .upozorneni form dd input[type="email"] {
   border: none;
   border-radius: 0;
   margin-right: 0.75em;
   border-bottom: thin solid #9E9E9E;
+  max-width: 15em;
   --input-padding: 1em 0.5em;
 }
 .upozorneni.hdesc--top + div form dd button,
 .upozorneni form dd button {
   padding: var(--button-img-inline-padding);
   flex: 0 0 auto;
+  margin-top: 1em;
+  padding-left: 0;
+}
+@media all and (min-width: 28em) {
+  .upozorneni.hdesc--top + div form dd,
+  .upozorneni form dd {
+    display: flex;
+  }
+  .upozorneni.hdesc--top + div form dd button,
+  .upozorneni form dd button {
+    margin-top: 0;
+    padding-left: 1em;
+  }
 }
 .part.ukazka {
   padding-bottom: 1em;
@@ -1379,6 +1457,10 @@ ol.otazky span {
 }
 ol.otazky li:last-child:before {
   content: "" !important;
+}
+ol.otazky button {
+  width: 15em;
+  max-width: 100vw;
 }
 .feedback-yes,
 ol.otazky button:first-child {
@@ -1424,7 +1506,12 @@ ol.otazky button.selected:last-child {
   padding: 0 var(--global-horizontal-padding);
 }
 #feedback .button-list--ico li:first-child {
-  margin-left: 2.3em;
+  margin-left: 4.2em;
+}
+@media (min-width: 32em) {
+  #feedback .button-list--ico li:first-child {
+    margin-left: 2.6em;
+  }
 }
 #feedback dd {
   margin: 1.25em 0;
@@ -1433,7 +1520,7 @@ ol.otazky button.selected:last-child {
 /************************************/
 div.part.internetguru .button-list,
 div.part.upozorneni .button-list {
-  justify-content: center;
+  justify-content: left;
 }
 div.part.upozorneni,
 div.part.internetguru {
@@ -1463,18 +1550,28 @@ div.part.internetguru form {
   padding: var(--global-horizontal-padding);
   padding-top: 2em;
 }
-div.part.internetguru form div {
-  display: flex;
-}
 div.part.internetguru form div button {
   flex-shrink: 0;
+  margin-top: 1em;
+  padding-left: 0;
 }
 div.part.internetguru form div input {
   border: none;
   border-radius: 0;
   margin-right: 0.75em;
   border-bottom: thin solid #9E9E9E;
+  max-width: 15em;
   --input-padding: 1em 0.5em;
+}
+@media all and (min-width: 28em) {
+  div.part.internetguru form div {
+    display: flex;
+  }
+  div.part.internetguru form div button {
+    flex-shrink: 0;
+    margin-top: 0;
+    padding-left: 1em;
+  }
 }
 @media all and (min-width: 42em) {
   div.part.internetguru .button-list,
@@ -1510,7 +1607,7 @@ dl.clanek.doclist-new > dt:first-child {
 .agregator-new .hdesc--top > div:after,
 dl.clanek.linklist-new > dt:first-child:after,
 dl.clanek.doclist-new > dt:first-child:after {
-  content: "NovÃ½";
+  content: "Nový";
   width: 12em;
   background: #00796b;
   position: absolute;
@@ -1526,7 +1623,7 @@ dl.clanek.doclist-new > dt:first-child:after {
   pointer-events: none;
 }
 .agregator-new .hdesc--top > div:after {
-  content: "NovÃ½ ÄlÃ¡nek";
+  content: "Nový článek";
   transform: rotate(45deg);
   top: auto;
   bottom: -2.75em;
@@ -1572,8 +1669,7 @@ body .scrolltopable span {
 }
 .agregator .figure {
   width: 50em;
-  max-width: 100%;
-
+  max-width: 100% !important;
 }
 body[data-link="/o_praleku"] .hdesc--top + div > *,
 body[data-link="/o_praleku"] .part > * {
