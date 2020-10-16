@@ -21,12 +21,12 @@
   
   <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
   <var id="mdfile" var="file" fn="html2md"/>
-  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s"><span class="fas fa-fw fa-pencil">i</span>Navrhnout úpravy tohoto článku</a></var>
-  <var id="ghedit2"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s" title="Navrhnout úpravy článku" class="button button--simple button--img button--img-only"><span class="fas fa-fw fa-pencil">i</span>Navrhnout úpravy tohoto článku</a></var>
+  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s"><span class="fas fa-fw fa-pencil">i</span>Upravit článek</a></var>
+  <var id="ghedit2"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.pralek.cz/edit/dev/%s" title="Navrhnout úpravy článku" class="button button--simple button--img button--img-only"><span class="fas fa-fw fa-pencil">i</span>Upravit článek</a></var>
   <var id="fb-share"><a href="https://www.facebook.com/pralek"><span class="fab fa-fw fa-facebook-square">i</span>Sledovat Pralék na Facebooku</a></var>
 
   <var id="articlebuttons">
-    <li><a class="button button--simple button--img button--img-only" var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-fw fa-comment">i</span>Diskutovat tento článek na našem Facebooku</a></li>
+    <li><a class="button button--simple button--img button--img-only" var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fas fa-fw fa-comment">i</span>Diskutovat článek</a></li>
     <li>
       <span class="hideable hideable-hidden" data-hideable-close-on-ext="true">
         <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fab fa-fw fa-share-alt">i</span> Sdílet článek</span>
