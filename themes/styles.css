@@ -3297,6 +3297,10 @@ ol.otazky button:last-child {
   --button--border-active-bg: #FCE4EC;
   --button-svg-color: #E91E63;
 }
+.feedback-yes,
+.feedback-no {
+  padding-right: 1rem;
+}
 ol.otazky button.selected:first-child {
   --button--border-border: medium solid transparent;
   --button--border-active-border: medium solid transparent;
