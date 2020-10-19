@@ -215,8 +215,8 @@
         wrapper.appendChild(dt)
         wrapper.appendChild(dd)
 
-        var yesButton = getElm("button", "<span class='fas fa-check'></span>ano", "feedback-yes button button--border button--img button--img-inline")
-        var noButton = getElm("button", "<span class='fas fa-times'></span>ne", "feedback-no button button--border button--img button--img-inline")
+        var yesButton = getElm("button", "<span class='fas fa-fw fa-check'></span>ano", "feedback-yes button button--border button--img button--img-inline")
+        var noButton = getElm("button", "<span class='fas fa-fw fa-times'></span>ne", "feedback-no button button--border button--img button--img-inline")
         dd.appendChild(yesButton)
         dd.appendChild(noButton)
         yesButton.addEventListener("click", processYes, false)
