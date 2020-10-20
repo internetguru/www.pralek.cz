@@ -633,11 +633,11 @@ dt label.button {
   margin-top: 1.5em;	
   justify-content: left;	
 }	
-.button-list > li {	
-  flex: 0 1 100%;	
-  justify-content: left;	
-  text-align: left;	
-  max-width: 17em;	
+.button-list > li {
+  flex: 0 1 100%;
+  justify-content: left;
+  text-align: left;
+  max-width: 19em;
 }	
 @media all and (min-width: 32em) {	
   hdesc.o_praleku + div .button-list,	
