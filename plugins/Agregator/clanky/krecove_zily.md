@@ -19,8 +19,6 @@ Krev je vypuzována srdečním svalem a tepnami je přenášena [pod určitým t
 
 ## Správná a narušená funkce žil
 
-TODO
-
 Pro správnou funkci žil je nutný průtok krve. Krev se v žíle pohybuje pouze samospádem (zemskou přitažlivostí) nebo opačným směrem stlačením žíly okolními svaly. Aby se krev pohybovala pouze požadovaným směrem, jsou v žílách **jednosměrné chlopně**.
 
 Při stlačení žíly se sloupec krve pohne pouze tím směrem, který mu chlopně umožní. Při uvolnění svalového napětí se krev nevrací. Zdravé chlopně tedy návrat krve neumožní.
@@ -40,7 +38,7 @@ Nefunkční chlopně umožní v klidu pohyb krve dolů (obrázek 1:c). Při stla
 
 ## Léčení křečových žil
 
-TODO
+TODO: pp?
 
 Na dolních končetinách jsou dva žilní systémy – hluboký a povrchový. Změny na povrchovém systému bývají viditelné a někdy i bolestivé. Rozšířené rozsáhlé žilní městky často hyzdí dolní končetiny deformací a barevně. Někdy se mohou městky [zanítit][3] a být velmi bolestivé. Drobné rozšířené žilky (metličky) působí nepříjemně kosmeticky.
 
@@ -57,7 +55,7 @@ Chirurgicky, chemicky nebo laserem přerušená žíla vždy zanikne a posléze 
 
 ## Prevence vzniku křečových žil
 
-TODO
+TODO: pp?
 
 {class="important"}
 
