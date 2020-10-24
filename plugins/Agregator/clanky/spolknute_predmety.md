@@ -15,8 +15,6 @@ Spolknutý ostrý předmět většinou nezpůsobí žádné potíže a bez probl
 
 ## Spolknuté ostré předměty většinou potíže nezpůsobí
 
-n/a
-
 Ostré předměty mohou poranit při kousání jazyk a dutinu ústní. To se stává výjimečně. Při mělnění potravy jsou totiž záhy zjištěny a se stravou vyplivnuty. Eventuelní poranění ústní dutiny nebývá vážné.
 
 Při polykání mohou ostré předměty poranit hrtan nebo jícen. Známé je poranění rybí kostí. Mnohem častější a méně známé je však **poranění kuřecí kostí, které bývá spojeno s hltavým způsobem jídla**. Kost v dutině ústní zbrklý jedlík podcení a spolkne spolu se soustem. Takové poranění jícnu může být závažné.
@@ -35,7 +33,7 @@ Mnohem **závažnější je spolknutí velkého sousta**. Špatně rozmělněné
 
 Vzniklá bolest je nejprve pálivá a je doprovázena sliněním. Po určité době se sousto většinou uvolní a sklouzne do žaludku. K tomu většinou pomůže doušek vody.
 
-Jestliže se sousto neuvolní,tak přetrvává tlak za hrudní kostí a nadměrné slinění. V takovém případě je nutné sousto uvolnit endoskopem. Endoskop je speciální přístroj, kterým lze vidět a ošetřovat uvnitř tělních dutin.
+Jestliže se sousto neuvolní, tak přetrvává tlak za hrudní kostí a nadměrné slinění. V takovém případě je nutné sousto uvolnit endoskopem. Endoskop je speciální přístroj, kterým lze vidět a ošetřovat uvnitř tělních dutin.
 
 {id="spolknuti\_u\_deti"}
 
@@ -53,7 +51,7 @@ Velmi časté je u dětí také spolknutí mince. Do průměru 23 milimetrů (p�
 
 ## Spolknutí kyseliny nebo zásady
 
-**Spolknutí silné kyseliny je velmi závažné poranění.**
+Spolknutí silné kyseliny je velmi závažné poranění!
 
 Poleptáním jícnu kyselinou vznikají nenapravitelné škody (v nejlepším případě zúžení jícnu). [V žaludku již kyselina nevadí][1] – žaludek je na kyselinu zvyklý.
 
