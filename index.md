@@ -7,7 +7,7 @@
 
 {kw="lékařství, články, chirurgie"}
 
-Tento web obsahuje články o praktickém lékařství s cílem zvýšit schopnost odborné i laické veřejnosti řešit zdravotní problémy. Autor zejména poukazuje na podceňování nebo ignorování příznaků, přecházení nemoci a na všelijaké pověry.
+Články o praktickém lékařství s cílem zvýšit schopnost odborné i laické veřejnosti řešit zdravotní problémy.
 
 {data-visibility="/o\_praleku" id="o\_praleku"}
 
