@@ -23,14 +23,14 @@ Odběrem kapky krve z prstu (nástrojem na 1 použití) je vyšetřena hladina k
 
 ## Průběh odběru krve
 
-TODO: pp?
+Odběr krve trvá jen několik minut a provádí ho transfuzní sestra. Po odběru dostane dárce malé občerstvení a potvrzení o odběru. Odebraná krev je vyšetřena a pokračuje na další zpracování.
 
-  1. Při odběru napíchne transfuzní sestra loketní žílu (jehlou na 1 použití) a odebírá krev do vaku na 1 použití.
+  1. Při odběru napíchne transfuzní sestra loketní žílu jehlou na 1 použití a odebere krev do vaku na 1 použití.
     - Množství odebírané krve je necelého půl litru.
     - Jehla je velmi ostrá, takže [vpich téměř nebolí][1].
-    - V průběhu odběru již **dárce nevnímá žádnou bolest**, většinou se dobře baví s atraktivní a milou sestrou.
-  2. Odběr trvá asi 5 až 7 minut.
-    - Po odběru dostává dárce občerstvení – svačinu, kávu a čaj.
+    - V průběhu odběru již **dárce nevnímá žádnou bolest**. Většinou se dobře baví s atraktivní a milou sestrou.
+    - Odběr trvá 5 až 7 minut.
+  2. Po odběru dostává dárce občerstvení – svačinu, kávu a čaj.
     - Dostává také potvrzení o darování krve a má nárok na pracovní volno.
     - Dárce rovněž dostává potvrzení na odpis z daní na určitou finanční částku.
     - Kromě toho dárcovství krve různě podporují zdravotní pojišťovny.
@@ -38,7 +38,7 @@ TODO: pp?
     - Jednotlivé složky krve navracejí zdraví jinak neléčitelně nemocným lidem.
     - Plná krev se dnes již podává spíše výjimečně.
 
-Technicky není možné, aby se dárce krve nakazil krví přenosnou chorobou. Všechny vpichy jsou pouze jehlami na jedno použití. Odebraná krev je náležitě vyšetřena. Přesto se bohužel může někdy stát, že je nakažen příjemce krve nebo krevního derivátu. **Nikdy však nemůže být nakažen dárce.**
+Technicky není možné, aby se dárce během odběru krve nakazil krví přenosnou chorobou. Všechny vpichy jsou pouze jehlami na jedno použití. Odebraná krev je náležitě vyšetřena. Přesto se bohužel může někdy stát, že je nakažen příjemce krve nebo krevního derivátu. **Nikdy však nemůže být nakažen dárce.**
 
 {id="komplikace\_pri\_darovani_krve"}
 
@@ -48,7 +48,7 @@ Během odběru nebo těsně po něm se může stát, že dárce pocítí slabost
 
 {class="example"}
 
-Často vznikají potíže ihned po napíchnutí, aniž by došlo k odběru. V případě kolapsu nebo nevolnosti je dárce uložen na připravené lůžko a během okamžiku se jeho stav normalizuje.
+Popsané potíže často vznikají ihned po napíchnutí žíly, aniž by došlo k úbytku krve. V případě kolapsu nebo nevolnosti je dárce uložen na připravené lůžko a během okamžiku se jeho stav normalizuje.
 
 {id="darcovstvi\_krevni\_plazmy\_krevnich\_desticek\_zvlastnich\_krvinek"}
 
@@ -56,8 +56,8 @@ Během odběru nebo těsně po něm se může stát, že dárce pocítí slabost
 
 Na transfuzní stanici je zvláštní přístroj, který umí z krve oddělit krevní plazmu. Po vyšetření je dárci napíchnuta loketní žíla podobně jako při klasickém darování krve. Krev je vedena ze žíly do přístroje, kde je oddělena krevní plazma (případně krvinky nebo krevní destičky). Ochuzená krev se vrací dárci zpět do oběhu dalším vpichem do žíly.
 
-  * Odběr plazmy trvá déle než odběr krve, bolestivost je srovnatelná (2 vpichy).
-  * Jednotlivé transfuzní stanice mají zvláštní podmínky, je třeba se informovat v místě bydliště.
+  * Odběr plazmy trvá déle než odběr krve. Bolestivost je srovnatelná (2 vpichy).
+  * Jednotlivé transfuzní stanice mají zvláštní podmínky. Je třeba se informovat v místě bydliště.
   * Dárcovství plazmy bývá finančně ohodnocené.
 
 {id="darcovstvi\_kostni\_drene"}
