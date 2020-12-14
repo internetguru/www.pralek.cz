@@ -38,7 +38,7 @@ Nefunkční chlopně umožní v klidu pohyb krve dolů (obrázek 1:c). Při stla
 
 ## Léčení křečových žil
 
-TODO: pp?
+n/a
 
 Na dolních končetinách jsou dva žilní systémy – hluboký a povrchový. Změny na povrchovém systému bývají viditelné a někdy i bolestivé. Rozšířené rozsáhlé žilní městky často hyzdí dolní končetiny deformací a barevně. Někdy se mohou městky [zanítit][3] a být velmi bolestivé. Drobné rozšířené žilky (metličky) působí nepříjemně kosmeticky.
 
@@ -55,7 +55,7 @@ Chirurgicky, chemicky nebo laserem přerušená žíla vždy zanikne a posléze 
 
 ## Prevence vzniku křečových žil
 
-TODO: pp?
+n/a
 
 {class="important"}
 
