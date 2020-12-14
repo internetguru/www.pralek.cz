@@ -75,7 +75,7 @@ Dlouhodobé [preventivní nošení ortézy][4] je však sporné. V případě b�
 {var="inputvar-otazky_desc"}
 
 n/a
-00
+
 {class="otazky"}
 
   1. Jaký je nejčastější úraz hlezenného kloubu?
