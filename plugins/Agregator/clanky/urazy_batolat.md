@@ -52,7 +52,7 @@ Do prstu přitéká normálně tepenná krev, zaškrcení však způsobilo, že 
 
 ## Spáleniny a jejich prevence
 
-Nejzávažnějšími úrazy jsou [spáleniny][8]. (pp TODO probrat s autorem proč jsou tak závažné (například větší plocha popálení => rychleji vznikne šok a je nebezpečí úmrtí))
+Nejzávažnějšími úrazy jsou [spáleniny][8].
 
 Co dělat, aby ke spálenině malého dítěte vůbec nedošlo:
 
@@ -88,7 +88,6 @@ n/a
   1. Proč jsou pády malých dětí bizarnější než pády ostatních lidí?
   2. Proč se nesmí dítě zvedat do výšky za jednu ruku?
   3. Proč má mít dítě při všech tělesných aktivitách prázdná ústa?
-  4. (pp TODO přidat otázku?: Proč jsou spáleniny malých dětí tak nebezpečné?)
 
 {var="inputvar-feedback_h" id="dotace"}
 
