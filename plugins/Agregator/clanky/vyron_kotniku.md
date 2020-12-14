@@ -17,7 +17,7 @@ Další častou příčinou bývá **neřízený pád či hrubé násilí** (nap
 
 ## Typy podvrtnutí kotníků a názvosloví
 
-TODO
+n/a
 
 Podvrtnutí, vyvrtnutí, zvrtnutí nebo odborně _distorze_ zevního kotníku
 :   Nejčastěji dochází k zatlačení nohy směrem pod vnitřní kotník. Tím se může poranit (pouze natáhnout nebo prasknout) kloubní pouzdro a někdy i vaz pod zevním kotníkem.
@@ -54,7 +54,7 @@ S vyhledáním odborného vyšetření lze [vyčkat na vhodnou dobu][3]. Nejlép
 
 ## Možnosti léčení podvrtnutého kotníku
 
-TODO
+n/a
 
 Trenér pří úrazu hlezna doporučí **léčení rozcvičením**. Svým způsobem má pravdu. Skutečně po krátkodobém zklidnění dojde rozcvičením k rychlému ústupu potíží. Kloubní pouzdro a vazy však zůstanou volnější, větší než byly původně a tím je kloub méně stabilní. Lze tedy předpokládat, že dojde k opakování (recidivě) úrazu při každé sebemenší příležitosti.
 
