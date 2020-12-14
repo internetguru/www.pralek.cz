@@ -73,7 +73,7 @@ Závažnější problém vzniká při [pronikajícím poranění hlavy][7] s por
 
 ## Zlomeniny páteře
 
-TODO
+n/a
 
 Nejzávažnějším zlomeninám krční páteře při dopravních nehodách předchází správně nastavené opěrky hlavy v kombinaci s bezpečnostními pasy a airbagy. Nic takového však bohužel nebrání [skokanům při skocích do neznámé nebo mělké vody po hlavě][8]. Zlomenina krčního obratle pak souvisí s poškozením míchy a trvalou poruchou hybnosti (upoutání na lůžko nebo v lepším případě na vozík).
 
