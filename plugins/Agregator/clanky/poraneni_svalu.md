@@ -23,7 +23,7 @@ K natažení nebo natržení svalu nejčastěji dochází:
 
 ## Svalové oblasti náchylné k natržení nebo natažení svalu
 
-TODO
+n/a
 
 Velmi časté je **natržení svalu v lýtkové oblasti** (výjimečně natažení). Projevuje se prudkou bolestí v poraněném místě, případně s citelným prasknutím v okamžiku přetížení. Brzy se vyvíjí otok, často se ukáže i modřina (krevní výron). Bolest znemožňuje chůzi, [nelze stoupnout na špičku nohy][2].
 
