@@ -1735,7 +1735,10 @@ body[data-link="/o_praleku"] .part > * {
   .linklist-href,	
   .moreable-linkwrapper,	
   .docinfo.share,	
-  .hdesc--top .extra {	
+  .hdesc--top .extra,
+  #mc-embedded-subscribe-form,
+  #content .list-wrapper--multiple dl:nth-child(10) ~ dl,
+  .part.odkazy .list-wrapper--single {
     display: none !important;	
   }	
   div.part.upozorneni,	
@@ -1743,7 +1746,7 @@ body[data-link="/o_praleku"] .part > * {
     padding: 1em 0;	
   }	
   .hdesc--top .description {	
-    margin-bottom: 0 !important;	
+    margin-bottom: 0 !important;
   }	
   .part.odkazy {	
     background: none;	
@@ -1784,8 +1787,7 @@ body[data-link="/o_praleku"] .part > * {
   }	
   #footer {	
     padding-top: 0;	
-    background: none;	
-    border-top: thin solid;	
+    background: none;		
   }	
   #footer .footer-menu__item:nth-child(4) {	
     display: none;	
