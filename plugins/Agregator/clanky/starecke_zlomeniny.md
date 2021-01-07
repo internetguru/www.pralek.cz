@@ -53,9 +53,7 @@ Léčení je podle druhu zlomeniny. Buď spočívá v narovnání kostí s míst
 
 ## Zlomeniny pažní kosti a lokte
 
-Při pádu z lůžka, z křesla či v koupelně může dojít ke zlomení pažní kosti nebo lokte. Většinou se jedná o **závažné a často obtížně léčitelné úrazy**.
-
-Zlomenina se opět projevuje bolestivostí a deformací v postiženém místě, otok rovněž nastupuje velmi rychle (jako u zlomeniny zápěstí).
+Při pádu z lůžka, z křesla či v koupelně může dojít ke zlomení pažní kosti nebo lokte. Většinou se jedná o **závažné a často obtížně léčitelné úrazy**. Zlomenina se opět projevuje bolestivostí a deformací v postiženém místě. Otok rovněž nastupuje velmi rychle podobně jako u zlomeniny zápěstí.
 
 {class="important"}
 
