@@ -61,7 +61,7 @@ Prevence
 :   Proces koupele je stejný jako již popsaný včetně odtlačovaní nyní již nebolestivého nehtového valu.
 :   Heřmánek podporuje hojení a zároveň blahodárně vysušuje nemocná místa.
 
-Při nezdaru zmíněných metod léčby je v určité fázi zánětu možno přistoupit k operaci, tzv. **plastice nehtu nebo nehtového valu**.
+Při nezdaru zmíněných metod léčby je v určité fázi zánětu možno přistoupit k operaci, k tzv. **plastice nehtu nebo nehtového valu**.
 
 {class="important"}
 
