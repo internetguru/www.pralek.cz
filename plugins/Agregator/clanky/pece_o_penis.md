@@ -17,7 +17,7 @@ Na ošetřování, koupele, přetahování nebo nepřetahování předkožky nov
 
 {id="popis\_penisu\_predkozka"}
 
-## Popis penisu, předkožka
+## Penis, žalud a předkožka
 
 Topořivá tělesa penisu jsou kryta volně posunlivou kůží a žalud je kryt citlivou sliznicí. Volné podkoží na penisu umožňuje samovolné přetažení kůže přes žalud.
 
@@ -33,21 +33,19 @@ Během koupele je nutné přetáhnout předkožku přes penis a předkožkový v
 
 ## Slepeniny mezi žaludem a vnitřním listem předkožky
 
-Poměrně často se stává, že jsou už při narození vytvořeny **slepeniny mezi žaludem a vnitřním listem předkožky**. To má za následek nemožnost přetažení předkožky přes žalud.
-
-V takovém případě je nutné vyhledat chirurgické nebo urologické ošetření a slepeniny nechat snadným zákrokem uvolnit. Jedná se o takzvané _uvolnění konglutinací_.
+Poměrně často se stává, že jsou už při narození vytvořeny **slepeniny mezi žaludem a vnitřním listem předkožky**. To má za následek nemožnost přetažení předkožky přes žalud. V takovém případě je nutné vyhledat chirurgické nebo urologické ošetření a slepeniny nechat snadným zákrokem uvolnit. Jedná se o takzvané _uvolnění konglutinací_.
 
 {class="important"}
 
-V případě, že se slepeniny neuvolní a předkožku nelze přetáhnout, tak se **slepeniny postupně mění ve srůsty** mezi žaludem a předkožkou. Jejich následné uvolnění v pozdějším věku je pak složitější a bolestivé a ve chlapcích **zanechává negativní zážitek**.
+V případě, že se slepeniny neuvolní a předkožku nelze přetáhnout, tak se **slepeniny postupně mění ve srůsty** mezi žaludem a předkožkou. Jejich následné uvolnění v pozdějším věku je pak složitější a bolestivé a u chlapců **zanechává negativní zážitek**.
+
+Mezitím se v předkožkovém vaku hromadí smegma. Občasný [zánět vaku][3] _(balanitis)_ vede k podráždění předkožky a k jejímu pozánětlivému jizvení. Opakované záněty vaku vyústí ve významné zúžení zevního ústí předkožky _(fimóza, phimosis)_.
 
 {id="fimoza"}
 
 ## Zúžení zevního ústí předkožky – fimóza
 
-Mezitím se v předkožkovém vaku hromadí smegma. Občasný [zánět vaku][3] _(balanitis)_ vede k podráždění předkožky a k jejímu pozánětlivému jizvení. Opakované záněty vaku vyústí ve významné zúžení zevního ústí předkožky _(fimóza, phimosis)_.
-
-V tom případě již nelze předkožku přetáhnout přes žalud neboť je otvor v předkožce menší než velikost žaludu. Při močení se ztenčuje proud, který je limitovaný otvorem v předkožce. Močí se naplňuje předkožkový vak a smegma se může močí z vaku vyplachovat a dítě nemusí mít potíže až do první erekce. V souvislosti s erekcí musí být často řešeny zbytky slepenin nebo srůstů v předkožkovém vaku.
+Dojde-li k zúžení zevního ústí předkožky, nelze již předkožku přetáhnout přes žalud. Otvor v předkožce je menší než velikost žaludu. Při močení se ztenčuje proud, který je limitovaný otvorem v předkožce. Močí se naplňuje předkožkový vak a smegma se může močí z vaku vyplachovat. Dítě nemusí mít potíže až do první erekce. V souvislosti s erekcí musí být často řešeny zbytky slepenin nebo srůstů v předkožkovém vaku.
 
 {class="important"}
 
