@@ -15,15 +15,15 @@ Spolknutý ostrý předmět většinou nezpůsobí žádné potíže a bez probl
 
 ## Spolknuté ostré předměty většinou potíže nezpůsobí
 
-Ostré předměty mohou poranit při kousání jazyk a dutinu ústní. To se stává výjimečně. Při mělnění potravy jsou totiž záhy zjištěny a se stravou vyplivnuty. Eventuelní poranění ústní dutiny nebývá vážné.
+Ostré předměty mohou poranit při kousání jazyk a dutinu ústní. To se stává výjimečně. Při mělnění potravy jsou totiž záhy zjištěny a se stravou vyplivnuty. Eventuální poranění ústní dutiny nebývá vážné.
 
 Při polykání mohou ostré předměty poranit hrtan nebo jícen. Známé je poranění rybí kostí. Mnohem častější a méně známé je však **poranění kuřecí kostí, které bývá spojeno s hltavým způsobem jídla**. Kost v dutině ústní zbrklý jedlík podcení a spolkne spolu se soustem. Takové poranění jícnu může být závažné.
 
-Spolknutí ostrých předmětů jako střepů, hřebíků nebo špendlíků **v žaludku ani ve střevech nezpůsobí žádné potíže**. Stěna střevní uhne před hrotem špendlíku podobně, jako se nepodaří napíchnout žížalu na mokré hladké podložce. Špendlík se ve střevě vždy otočí hlavičkou napřed a putuje spolu se stravou zažívacím traktem a vyjde se stolicí.
+Spolknutí ostrých předmětů jako jsou střepy, hřebíky nebo špendlíky **v žaludku ani ve střevech nezpůsobí žádné potíže**. Stěna střevní uhne před hrotem špendlíku podobně, jako se nepodaří napíchnout žížalu na mokré hladké podložce. Špendlík se ve střevě vždy otočí hlavičkou napřed a putuje spolu se stravou zažívacím traktem a vyjde se stolicí.
 
 {class="important"}
 
-**Stěna žaludku nebo střevní nebývá hrotem ani ostřím střepu poraněna!** Plochý střep nebo ostří žiletky by mohly teoreticky poranit až konečník při stolici.
+**Stěna žaludku nebo střeva nebývá hrotem ani ostřím střepu poraněna!** Plochý střep nebo ostří žiletky by mohly teoreticky poranit až konečník při stolici.
 
 {id="spolknute\_velke\_sousto"}
 
@@ -51,13 +51,11 @@ Velmi časté je u dětí také spolknutí mince. Do průměru 23 milimetrů (p�
 
 ## Spolknutí kyseliny nebo zásady
 
-Spolknutí silné kyseliny je velmi závažné poranění!
-
-Poleptáním jícnu kyselinou vznikají nenapravitelné škody (v nejlepším případě zúžení jícnu). [V žaludku již kyselina nevadí][1] – žaludek je na kyselinu zvyklý.
+**Spolknutí silné kyseliny je velmi závažné poranění!** Poleptáním jícnu kyselinou vznikají nenapravitelné škody. V nejlepším případě dochází k zúžení jícnu. [V žaludku již kyselina nevadí][1] – žaludek je na kyselinu zvyklý.
 
 {class="important"}
 
-Jako první pomoc je třeba kyselinu ředit nebo šetrně neutralizovat a **nikdy nevyvolávat zvracení** (nové poleptání jícnu).
+Jako první pomoc je třeba kyselinu ředit nebo šetrně neutralizovat a **nikdy nevyvolávat zvracení**. To by vedlo k dalšímu poleptání jícnu.
 
 {id="otazky" var="inputvar-otazky_h"}
 
