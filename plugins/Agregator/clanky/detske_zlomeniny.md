@@ -81,7 +81,7 @@ n/a
 
   1. Proč se dětská kost pružnější a ohebnější než dospělá?
   2. Proč je zlomenina dětského zápěstí snadno laicky přehlédnutelná?
-  3. Proč je vhodná první pomoc u zlomenin horní končetiny dětí uložení do šátkového obvazu
+  3. Proč je vhodná první pomoc u zlomenin horní končetiny dětí uložení do šátkového obvazu?
   4. V čem spočívá závažnost zlomeniny lokte?
 
 {var="inputvar-feedback_h" id="dotace"}
