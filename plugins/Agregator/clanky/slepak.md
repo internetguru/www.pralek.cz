@@ -21,13 +21,9 @@ Předně [tenké střevo ústí do tlustého střeva v pravém podbřišku][1]. 
 
 Pro zánět přívěsku slepého střeva **neexistují žádné typické příznaky**. Popsané příznaky se mohou vyskytovat jednotlivě nebo se jakkoli kombinovat. Mohou být zcela nenápadné nebo náhle vzplanou v plné síle a mohou trvat stejně tak hodinu jako celé dny.
 
-Zánět může začít tak, že zdravý člověk večer usne a v noci jej probudí
+Zánět může začít tak, že zdravý člověk večer usne a v noci jej probudí **prudká nesnesitelná [bolest břicha][2]**, ale může také začít jako občasné **pobolívání břicha**, které vždy po určité době samo ustane. Umístění bolesti bývá různé, nejčastěji kolem pupku. Do pravého podbřišku se bolest stěhuje spíše později.
 
-  * **prudká nesnesitelná [bolest břicha][2]**, ale může také začít jako
-  * občasné **pobolívání břicha**, které vždy po určité době samo ustane. Umístění bolesti bývá různé, nejčastěji kolem pupku. Do pravého podbřišku se bolest stěhuje spíše později. Počátek zánětu se může projevovat také pouze
-  * pocitem **zažívací nepohody**, nepopsatelným pocitem že je cosi v nepořádku _([střevní diskomfort][3])_.
-  * [**Nevolnost nebo zvracení**][4] bývá častým doprovodným znakem zánětu stejně jako **[nechutenství][5]**.
-  * [**Průjem**][4] se objevuje spíše výjimečně a [**teplota**][6] bývá často normální nebo jen lehce zvýšená.
+Počátek zánětu se může projevovat také pouze pocitem **zažívací nepohody**, nepopsatelným pocitem že je cosi v nepořádku _([střevní diskomfort][3])_. [**Nevolnost nebo zvracení**][4] bývá častým doprovodným znakem zánětu stejně jako **[nechutenství][5]**. [**Průjem**][4] se objevuje spíše výjimečně a [**teplota**][6] bývá často normální nebo jen lehce zvýšená.
 
 {id="pozdejsi\_priznaky\_apendicitidy"}
 
@@ -46,15 +42,13 @@ Bolesti se mohou stupňovat a bolí každý pohyb. Pacient nemůže chodit a hle
 
 ## Vývoj, léčení a komplikace apendicitidy
 
-Zánět může **pokročit a stát se zřejmým**. Pak vyřeší problém operace – odstranění červovitého přívěsku slepého střeva _(appendectomie)_.
-
-Plánovaná _appendectomie_ je preventivní odstranění třeba i nezměněného apendixu v případě opakovaných bolestí břicha a nejistých výsledků vyšetření. Provádí se z důvodu předejití komplikacím:
+Zánět může **pokročit a stát se zřejmým**. Pak vyřeší problém operace – odstranění červovitého přívěsku slepého střeva _(appendectomie)_. Plánovaná _appendectomie_ je preventivní odstranění třeba i nezměněného apendixu v případě opakovaných bolestí břicha a nejistých výsledků vyšetření. Provádí se z důvodu předejití komplikacím.
 
   * Dlouhodobé a opakované potíže mohou vést ke změnám v okolí apendixu. Může vzniknout souvislost mezi onemocněním apendixu, vaječníkem a vejcovodem (většinou vpravo).
   * Může vzniknout souvislost mezi apendixem a pravým [močovodem][9].
   * Vzniklé [srůsty po opakovaných zánětech][2] mohou negativně ovlivnit [trávení][1].
 
-Zánět však může také zůstat v počátečním stádiu a **časem samovolně ustoupit**. Přiložený studený obklad na pravý podbřišek může ústup zánětu podpořit (takzvané „rozhánění slepáku“).
+Zánět však může také zůstat v počátečním stádiu a **časem samovolně ustoupit**. Přiložený studený obklad na pravý podbřišek může [ústup zánětu podpořit][10] (takzvané „rozhánění slepáku“).
 
 {class="important"}
 
@@ -109,4 +103,4 @@ n/a
  [7]: stadia_zanetu
  [8]: bakterie
  [9]: mocove_kameny
-
+ [10]: vyvoj_zanetu
