@@ -7,9 +7,9 @@
 
 {kw="kloub, vykloubení, úraz, pohyb"}
 
-Jedná se o častý úraz převážně mladých lidí a sportovců. Panují však nejasnosti v tom, zda a kdy vyhledat lékařské vyšetření a existují různé možnosti léčení.
+Vyvrtnutí či podvrtnutí kotníku je častý úraz převážně mladých lidí a sportovců. Závažnost úrazu není vysoká. Panují však nejasnosti o tom, zda a kdy vyhledat lékařské vyšetření. A existují různé možnosti léčení.
 
-Nejčastěji dochází k úrazu **při nadměrném nebo nečekaném násilí** na nohu v pravolevém směru. Nohou se rozumí dolní část končetiny od kotníků po konce prstů. Někdy stačí **nečekaná překážka**, která překvapí, například kraj chodníku, výmol, obrubník.
+Nejčastěji dochází k úrazu **při nadměrném nebo nečekaném násilí** na nohu směrem do strany. Nohou se rozumí dolní část končetiny od kotníků po konce prstů. Někdy stačí **nečekaná překážka**, která překvapí, například kraj chodníku, výmol, obrubník.
 
 Další častou příčinou bývá **neřízený pád či hrubé násilí** (například při dopravní nehodě), které mohou působit kterýmkoli směrem.
 
@@ -32,13 +32,11 @@ Podvrtnutí, zvrtnutí nebo vyvrtnutí obou kotníků (hlezna)
 
 Často se zvrtnutí nesprávně laicky označuje jako _podvrknutí kotníku_, _vyvrknutí kotníku_ či _zvrknutí kotníku_.
 
-**Hlezenný kloub** je velmi zatěžovaný složitý kloub, spojující 3 kosti:
+**Hlezenný kloub** je velmi zatěžovaný složitý kloub. Je udržován ve správném postavení pevným kloubním pouzdrem a velmi pevnými vazy. Vazy vzájemně spojují tři kosti:
 
   * dolní konec kosti holení (hlavní nosná kost bérce), která zároveň tvoří vnitřní kotník,
   * dolní vnitřní konec kosti lýtkové (mnohem slabší kost bérce), která tvoří zevní kotník,
   * horní kloubní plocha kosti hlezenné.
-
-Kloub je udržován ve správném postavení pevným kloubním pouzdrem a velmi pevnými vazy, které vzájemně spojují jednotlivé kosti mezi sebou.
 
 {id="projevy\_a\_diagnoza\_podvrtnuti\_kotniku"}
 
