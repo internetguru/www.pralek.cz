@@ -9,9 +9,7 @@
 
 {kw="zlomeniny, úraz, poranění, krvácení, pohyb, rehabilitace"}
 
-Rozpoznání zlomeniny kosti a správné poskytnutí první pomoci zabrání vzniku šoku a komplikací.
-
-Zlomeninou se rozumí porušení kontinuity kosti. Jedná se o nalomení, prasklinu, zlomeninu s posunem nebo bez posunu, roztříštění, rozdrcení kosti či vpáčení kosti.
+Zlomeninou se rozumí porušení kontinuity kosti. Jedná se o nalomení, prasklinu, zlomeninu s posunem nebo bez posunu, roztříštění, rozdrcení kosti či vpáčení kosti. Rozpoznání zlomeniny kosti a správné poskytnutí první pomoci zabrání vzniku šoku a komplikací.
 
 {id="projevy\_zlomeniny\_dlouhe_kosti"}
 
