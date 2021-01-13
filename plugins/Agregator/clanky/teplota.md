@@ -1,13 +1,13 @@
 
 {data-fbcommentid="1859950917470604" data-type="article" data-image="/files/preview/koutek/teplota/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-10-02" mtime="2020-06-16" data-top="999" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="teplota" short="Tělesná teplota"}
+{ctime="2008-10-02" mtime="2020-06-16" data-top="999" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="teplota" short="Teplota"}
 
-# Normální tělesná teplota, podchlazení, horečka
+# Normální tělesná teplota, horečka, podchlazení
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="teplota, prochlazení, přehřátí, pocení, nevolnost, točení hlavy, tekutiny, mikroorganizmy"}
+{kw="teplota, prochlazení, přehřátí, pocení, nevolnost, točení hlavy, tekutiny, moč, mikroorganizmy"}
 
 Tělesná teplota se mění podle fyzické aktivity organizmu. Stoupá nebo klesá vlivem zevního prostředí a stoupá při některých onemocněních.
 
@@ -71,11 +71,11 @@ U běžných dětských nemocí se nejčastěji určí správná diagnóza až p
 
 ## Meningokoková infekce
 
-Obávaný meningokok je [mikroorganizmus][14], který se běžně vyskytuje v lidské populaci stejně jako nepřeberné množství jiných podivně pojmenovaných bakterií. Bakterie se dělí na ty, které nikdy nezpůsobí lidem onemocnění, naopak jsou nutné k normálnímu fungování lidského těla a na ty, které někdy zapříčiní chorobu.
+Obávaný meningokok je [mikroorganizmus][14], který se běžně vyskytuje v lidské populaci stejně jako nepřeberné množství jiných podivně pojmenovaných bakterií nebo virů. Bakterie se dělí na ty, které nikdy nezpůsobí lidem onemocnění, naopak jsou nutné k normálnímu fungování lidského těla a na ty, které někdy zapříčiní chorobu.
 
 {class="important"}
 
-Závažnost a průběh onemocnění jsou dány spíše [připraveností organizmu][15] (imunitou a celkovým stavem) než záludností a nebezpečností bakterie.
+Závažnost a průběh onemocnění jsou dány spíše [připraveností organizmu][15] (imunitou a celkovým stavem) než záludností a nebezpečností bakterie nebo viru.
 
 Meningokokové infekci bohužel nejčastěji podlehne malé dítě v době, kdy již nemá od matky dostatek protilátek (dostává je nitroděložně placentou a poporodně mateřským mlékem) a ještě nemá vytvořeny své [vlastní protilátky][6]. Další skupinou lidí, kteří mohou podlehnout meningokokovi jsou adolescenti ve stavu vyčerpání a únavy (například po probdělé noci). Ostatní **lidé při setkání s meningokokem nemusejí vůbec onemocnět**.
 
@@ -121,16 +121,16 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: resuscitace-ozivovani
+ [1]: resuscitace
  [2]: prijem_tekutin
- [3]: funkcni_poruchy_traveni
- [4]: bolest_hlavy_migrena
- [5]: zanet
+ [3]: travici_potize
+ [4]: bolesti_hlavy
+ [5]: vyvoj_zanetu
  [6]: imunita
- [7]: leky_proti_bolesti
- [8]: bolest_v_krku_angina
- [9]: ryma_a_smrkani
- [10]: kasel_a_typy_kasle
+ [7]: analgetika
+ [8]: angina
+ [9]: ryma
+ [10]: kasel
  [11]: mocove_kameny
  [12]: prisate_kliste
  [13]: chripka

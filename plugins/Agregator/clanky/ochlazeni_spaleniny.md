@@ -5,9 +5,9 @@
 
 # Ochlazení jako první pomoc při spálenině
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="poranění, první pomoc, úrazy, kůže-podkoží, dětské, žláza, pohyb"}
+{kw="poranění, první pomoc, úraz, kůže-podkoží, děti, žláza, pohyb"}
 
 Okamžité ochlazení spáleniny zásadně snižuje závažnost úrazu a jeho následky! Nejlépe poslouží proud studené čisté vody. O výsledné závažnosti úrazu rozhoduje každá sekunda.
 
@@ -90,11 +90,11 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: lecba_zanetu
- [2]: puchyr_mozol_kuri_oko
+ [1]: stadia_zanetu
+ [2]: osetreni_puchyre
  [3]: bakterie
- [4]: urazy_deti
- [5]: nalehavost_lekarskeho_vysetreni
- [6]: rychla_lekarska_pomoc
+ [4]: urazy_batolat
+ [5]: nalehavost_vysetreni
+ [6]: zachranka
  [7]: akne
 

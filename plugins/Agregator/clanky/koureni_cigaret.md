@@ -5,7 +5,7 @@
 
 # Závislosti na kouření je snazší předejít
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="prevence, cévy, nevolnost, točení hlavy, kašel, nádory, zhoubné, infarkt"}
 
@@ -145,8 +145,8 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: kasel_a_typy_kasle
- [2]: rakovina_tlusteho_streva_a_konecniku
+ [1]: kasel
+ [2]: rakovina_streva
  [3]: srdecni_infarkt
  [4]: mrtvice
  [5]: komplikace_vredu

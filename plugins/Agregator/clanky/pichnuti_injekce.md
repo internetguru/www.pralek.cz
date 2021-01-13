@@ -5,9 +5,7 @@
 
 # Píchnutí injekce svépomocí
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
-
-{kw="první pomoc, nevolnost, kůže-podkoží, hygiena, cévy, poranění, boulička"}
+{kw="první pomoc, nevolnost, kůže-podkoží, hygiena, cévy, krev, poranění, boulička"}
 
 Píchnutí injekce (aplikace léku v injekční formě) svépomocí nebo vzájemnou pomocí do podkoží nebo do svalu je jednoduché a bezbolestné. Součástí přípravy je dodržení hygienických pravidel a volba vhodného místa vpichu.
 
@@ -47,7 +45,7 @@ Před píchnutím injekce má být pacient zklidněný a vyrovnaný. Samotné [p
   1. dezinfikovat kůži v místě vpichu a přebytečnou dezinfekci otřít tamponem,
   2. sejmout ochranný kryt z jehly a píchnout injekci,
   3. **pokusit se nabrat nejprve trochu tekutiny do injekce** natažením pístu zpět _(aspirovat)_ a 
-      1. pokud se v injekci objeví krev, je vhodné opakovat vpich kousek vedle,
+      1. pokud se po aspiraci v injekci objeví krev, je vhodné opakovat vpich kousek vedle,
       2. pokud se v injekci krev neobjeví, lze lék podat stlačením pístu injekční stříkačky,
   4. vytáhnout jehlu,
   5. na místo vpichu přiložit tampon a přitlačit ho na chvíli k zamezení krvácení.
@@ -71,7 +69,7 @@ n/a
 {class="otazky"}
 
   1. Kam se nejlépe píchne svépomocí podkožní injekce?
-  2. Kam se nejlépe píchne nitrosvalová injekce vzájemnou pomocí?
+  2. Do kterého svalu se typicky píchne nitrosvalová injekce vzájemnou pomocí?
   3. Jaké musí být místo zvolené k píchnutí injekce?
   4. Co dělat, pokud se po aspiraci v injekční stříkačce objeví krev?
 
@@ -101,7 +99,7 @@ n/a
 
  [1]: cukrovka
  [2]: lekove_formy
- [3]: mdloba_neboli_kolaps
+ [3]: kolaps
  [4]: drobna_krvava_poraneni
  [5]: bodne_a_strelne_poraneni
 

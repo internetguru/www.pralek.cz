@@ -5,7 +5,7 @@
 
 # Onemocnění prsu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
 {kw="žláza, nádory, nezhoubné, zhoubné, neúrazové, poranění, zánět"}
 

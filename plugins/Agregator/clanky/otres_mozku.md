@@ -5,9 +5,9 @@
 
 # Otřes mozku nebo jen pohmoždění hlavy
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="mozek-nervy, poruchy vědomí, nevolnost, zvracení, poranění, boule, úrazy"}
+{kw="mozek-nervy, porucha vědomí, nevolnost, zvracení, poranění, boule, krev, úraz"}
 
 Pohmoždění hlavy jako takové lékařské vyšetření nevyžaduje. Po takovém poranění **je potřeba rozlišit, zda se jedná jen o pohmoždění hlavy nebo o otřes mozku**, a jak se ve kterém případě zachovat. Veškeré následující příznaky svědčí o otřesu mozku a vyžadují lékařské vyšetření.
 
@@ -102,10 +102,10 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: drobna_krvava_poraneni
- [2]: mdloba_neboli_kolaps
- [3]: resuscitace-ozivovani
- [4]: funkcni_poruchy_traveni
- [5]: boule_nasledkem_urazu
+ [1]: poraneni
+ [2]: kolaps
+ [3]: resuscitace
+ [4]: travici_potize
+ [5]: urazove_boule
  [6]: subduralni_hematom
 

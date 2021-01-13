@@ -5,9 +5,7 @@
 
 # Včasné odhalení rakoviny tlustého střeva a konečníku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
-
-{kw="prevence, nádory, zhoubné, krvácení, břicho, neúrazové"}
+{kw="prevence, nádory, zhoubné, krvácení, krev, břicho, neúrazové"}
 
 Opakované vyšetřování stolice na krvácení může odhalit zhoubný nádor střeva a konečníku již v počátečním stádiu, kdy je nádor ještě vyléčitelný. Vyšetření je potřeba doporučit každému člověku od padesáti let, a to i jako laik (čtenář tohoto článku).
 
@@ -19,7 +17,7 @@ Zhoubný [nádor tlustého střeva a konečníku][1] se nejčastěji vyskytuje u
 
 n/a
 
-Samotné vyšetření je jednoduché a bezbolestné. Nazývá se _imunologický test okultního krvácení do stolice (iTOKS)_ a obnáší pouze odběr vzorku stolice a jeho následné vyšetření. Vyšetření odhalí nebo vyloučí okem neviditelné stopy krve ve stolici.
+Samotné vyšetření je jednoduché a bezbolestné. Nazývá se _imunologický test okultního [krvácení do stolice][2] (iTOKS)_ a obnáší pouze odběr vzorku stolice a jeho následné vyšetření. Vyšetření odhalí nebo vyloučí okem neviditelné stopy krve ve stolici. 
 
 Příměs krve ve stolici poukazuje na onemocnění střeva nebo konečníku a je důvodem k pátrání po příčině krvácení. Normálně se totiž krev ve stolici zdravého člověka vůbec nevyskytuje.
 
@@ -47,7 +45,7 @@ Vyhodnocení svépomocí
 
 n/a
 
-**Přítomnost krve ve stolici nemusí souviset s rakovinou.** Nejedná se o test prokazující rakovinu, ale obecně nemoc, která se projevuje krvácením do zažívací trubice (např. i [krvácením dásní][2]).
+**Přítomnost krve ve stolici nemusí souviset s rakovinou.** Nejedná se o test prokazující rakovinu, ale obecně nemoc, která se projevuje krvácením do zažívací trubice (např. i [krvácením dásní][3]).
 
 Je-li test pozitivní, nezbývá než se objednat na [kolonoskopii][1], která teprve určí skutečnou diagnózu. Může se jednat o obávaný zhoubný nádor, ale i o jiné onemocnění, třeba jen banální, které se projevilo krvácením do stolice.
 
@@ -90,6 +88,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: rakovina_tlusteho_streva_a_konecniku
- [2]: krvaceni_dasni
+ [1]: rakovina_streva
+ [2]: hemoroidy
+ [3]: krvaceni_dasni
 

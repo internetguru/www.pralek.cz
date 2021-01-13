@@ -5,15 +5,15 @@
 
 # Projevy alergie
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="alergie, jed, imunita, mikroorganizmy"}
+{kw="alergie, jed, imunita, zánět, mikroorganizmy"}
 
 Alergie je nepřiměřená reakce organismu na běžně neškodnou látku. Látka způsobující alergii se nazývá alergen. Alergenem se tedy mohou stát cizorodé bílkoviny jako např. pylová zrna, plísně, složky potravy, jed [bodavého hmyzu][1], částice prachu nebo chemické prvky, a to nejčastěji kovy.
 
-{id="co\_je\_alergie"}
+{id="princip_alergie"}
 
-## Co je alergie
+## Princip alergie
 
 Alergie je způsobena aktivací protilátek vůči danému alergenu. Alergenem se může stát původně neškodná látka. [Imunitní systém][2] látku chybně vyhodnotí jako nepřátelskou a naprosto nesmyslně proti ní bojuje, jako kdyby byla škodlivá.
 
@@ -102,8 +102,8 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: poraneni_jedovatym_zviretem
+ [1]: jedovate_zvire
  [2]: imunita
  [3]: ryma_a_smrkani
- [4]: mdloba_neboli_kolaps
+ [4]: kolaps
 

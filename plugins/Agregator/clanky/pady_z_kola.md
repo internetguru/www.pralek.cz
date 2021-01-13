@@ -5,9 +5,9 @@
 
 # Úrazy související s pádem z kola
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="úrazy, poranění, krvácení, zlomeniny, senioři, dětské, pohyb, břicho"}
+{kw="úraz, poranění, krvácení, zlomeniny, senioři, děti, pohyb, břicho"}
 
 Typické úrazy po pádu z kola jsou různě hluboké plošné oděrky, tržné rány, pohmoždění hrudníku, břicha, kloubů a svalů a zlomeniny dlouhých kostí. Jednotlivé úrazy mají svá specifika, jsou-li způsobeny pádem z kola.
 
@@ -35,7 +35,7 @@ n/a
 
 Velmi časté úrazy v souvislosti s pády z kola jsou tržné rány. Nebývají mnohočetné, ale bývají kombinovány s oděrkami (výše). Nejčastěji vznikají nárazem na nějakou hranu, kámen nebo část kola.
 
-Rány vzniklé pádem z kola **bývají zhmožděné a znečištěné**, protože k nim dochází nárazem na tupý předmět. Takové rány se hojí pomaleji a mají sklon [k zánětlivým komplikacím][4] na rozdíl od [tržných ran][5] způsobených ostrým předmětem.
+Rány vzniklé pádem z kola **bývají zhmožděné a znečištěné**, protože k nim dochází nárazem na tupý předmět. Takové rány jsou bolestivé, hojí se pomaleji a mají sklon [k zánětlivým komplikacím][4] na rozdíl od [tržných ran][5] způsobených ostrým předmětem.
 
 Zhmožděné tržné rány většinou vyžadují složitější chirurgické ošetření včetně odstranění zhmožděných tkání a nečistot. Proto je správné, když takto zraněný cyklista vyhledá lékařské ošetření častěji, než kdyby se poranil relativně čistým a ostrým nástrojem.
 
@@ -50,14 +50,14 @@ n/a
 Vždy je třeba rozlišit prosté pohmoždění od závažného zranění, což mnohdy laicky není možné. K vyloučení závažnějších zranění bývá nutné lékařské vyšetření.
 
   * V současnosti cyklisté užívají helmu, takže dochází častěji pouze k **pohmoždění hlavy** než k [otřesu mozku][8] nebo k ještě závažnějším [poraněním hlavy][9].
-  * Při nárazu cyklisty do stojícího auta (cyklista se v maximálním záběru nedívá dopředu, ale dolů pod sebe) dochází často k **[pohmoždění krční páteře][10]**, nebo i k jejímu závažnému vykloubení nebo zlomenině.
-  * V případě **pohmoždění břicha** nelze laicky vyloučit poranění vnitřních orgánů. Návštěva lékaře (nejlépe chirurga) je proto nezbytná. Po úraze je nutné **nepodávat zraněnému jídlo ani nápoje a zajistit dopravu [do nemocnice nejlépe záchrankou][11]**.
+  * Při nárazu cyklisty do stojícího auta (cyklista se v maximálním záběru nedívá dopředu, ale dolů pod sebe) dochází často k **[pohmoždění krční páteře][10]** , nebo i k jejímu závažnému vykloubení nebo zlomenině. 
+  * V případě **pohmoždění břicha** nelze laicky vyloučit poranění vnitřních orgánů. Návštěva lékaře (nejlépe chirurga) je proto nezbytná. Po úraze je nutné **nepodávat zraněnému jídlo ani nápoje a zajistit dopravu [do nemocnice nejlépe záchrankou][11]** . 
   * **Pohmoždění hrudní stěny** je méně závažné, ale velmi bolestivé onemocnění. Laicky nelze odlišit pohmoždění od zlomeniny žebra – je nutné vyhledat lékaře a diagnózu potvrdit až na základě rentgenu. Pohmožděný hrudník bolí až 6 týdnů, kdežto zlomenina žebra se zhojí a přestane bolet za 3 týdny od úrazu.
   * Nárazem na svodidla nebo zábradlí docházívá k **pohmoždění svalů**, které se projevuje a léčí podobně, jako [natažení svalu][12]. Pohmožděný kloub se projevuje a léčí podobně, jak je popsáno u [podvrtnutého kotníku][13].
 
 **Pohmoždění po pádu z kola bývají mnohočetná.** Je-li zraněný při vědomí a spolupracuje, je třeba vědět o nebezpečích, která mohou na zdánlivě lehký úraz navazovat. V případě zjevně těžkého poranění se [řeší úraz přivoláním RLP][11].
 
-{id="zlomeniny_kosti"}
+{id="zlomeniny"}
 
 ## Zlomeniny kostí
 
@@ -125,18 +125,18 @@ n/a
 
  [1]: bakterie
  [2]: odreniny_neboli_oderky
- [3]: nalehavost_lekarskeho_vysetreni
- [4]: zanet
- [5]: drobna_krvava_poraneni
+ [3]: nalehavost_vysetreni
+ [4]: vyvoj_zanetu
+ [5]: poraneni
  [6]: naplastovy_steh
  [7]: poraneni_nehtu
  [8]: otres_mozku
  [9]: subduralni_hematom
- [10]: bolesti_v_zadech_houser
- [11]: rychla_lekarska_pomoc
- [12]: natazeni_natrzeni_svalu
- [13]: podvrtnuti_kotniku
- [14]: zlomeniny_kosti
+ [10]: bolesti_v_zadech
+ [11]: zachranka
+ [12]: poraneni_svalu
+ [13]: vyron_kotniku
+ [14]: zlomeniny
  [15]: starecke_zlomeniny
  [16]: detske_zlomeniny
 

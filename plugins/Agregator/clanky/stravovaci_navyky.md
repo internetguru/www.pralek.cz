@@ -5,7 +5,7 @@
 
 # Stravovací návyky a trávicí systém
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="zdravý životní styl, strava-zažívání, žláza, žlučník, žaludek, břicho, tekutiny"}
 

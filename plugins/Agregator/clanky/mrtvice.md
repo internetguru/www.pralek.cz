@@ -5,9 +5,9 @@
 
 # Cévní mozková příhoda
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="infarkt, cévy, mozek-nervy, pocení, nevolnost, zvracení, poruchy vědomí, srdce"}
+{kw="infarkt, cévy, krev, mozek-nervy, pocení, nevolnost, zvracení, porucha vědomí, srdce"}
 
 Cévní mozková příhoda (také mrtvice, iktus či mozkový infarkt) je způsobena nedokrvením části mozku z důvodu [zúžení nebo ucpání cév][1] vyživujících mozek. Může se také jednat o prokrvácení části mozku z důvodu prasknutí nemocné cévy. Záludnost CMP spočívá v nenápadnosti nástupu a v jejím pozvolném a nebolestivém rozvoji.
 
@@ -83,7 +83,7 @@ n/a
  [3]: srdecni_infarkt
  [4]: subduralni_hematom
  [5]: krevni_tlak
- [6]: funkcni_poruchy_traveni
- [7]: resuscitace-ozivovani
- [8]: nalehavost_lekarskeho_vysetreni
+ [6]: travici_potize
+ [7]: resuscitace
+ [8]: nalehavost_vysetreni
 

@@ -5,9 +5,9 @@
 
 # Obsah domácí lékárničky
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="první pomoc, teplota, poranění, mikroorganizmy, zánět, alergie, zvíře"}
+{kw="první pomoc, teplota, poranění, mikroorganizmy, zánět, alergie"}
 
 Domácí lékárnička má obsahovat čisté nástroje, zdravotní materiál a ověřené, majiteli známé léky. Každá domácnost by si měla obsah lékárničky upravit podle svých zkušeností a individuálních potřeb.
 
@@ -89,7 +89,7 @@ Léky proti kašli
 :   Při [kašli][19] a dráždění dýchacích cest v počátku horečnatého onemocnění je dobré [podat léky][20] podporující uvolnění hlenu v průduškách nebo později léky proti dráždivému kašli.
 
 Léky proti alergii
-:   I když není v rodině žádný alergik, je dobré mít v lékárničce základní lék proti alergii. Alergie totiž může vzniknout kdykoli i při plném zdraví. Kromě toho může být potřeba pomoci s alergickou reakcí kamarádovi či sousedovi.
+:   I když není v rodině žádný alergik, je dobré mít v lékárničce základní lék proti alergii. Alergie totiž může vzniknout kdykoli i z plného zdraví. Kromě toho může být potřeba pomoci s alergickou reakcí kamarádovi či sousedovi.
 
 Višněvského emulze (hovorově „višňák“)
 :   Protizánětlivá emulze dobře poslouží [k léčbě počínajícího zánětu][21].
@@ -153,23 +153,23 @@ n/a
  [2]: plisne_kuze
  [3]: teplota
  [4]: odreniny_neboli_oderky
- [5]: poraneni_jedovatym_zviretem
+ [5]: jedovate_zvire
  [6]: prisate_kliste
- [7]: puchyr_mozol_kuri_oko
- [8]: bodne_a_strelne_poraneni
- [9]: projevy_alergie
+ [7]: osetreni_puchyre
+ [8]: zavazna_poraneni
+ [9]: alergie
  [10]: naplastovy_steh
- [11]: podvrtnuti_kotniku
- [12]: zlomeniny_kosti
- [13]: boule_nasledkem_urazu
+ [11]: vyron_kotniku
+ [12]: zlomeniny
+ [13]: urazove_boule
  [14]: ochlazeni_spaleniny
- [15]: funkcni_poruchy_traveni
- [16]: ryma_a_smrkani
- [17]: leky_proti_bolesti
- [18]: bolest_hlavy_migrena
- [19]: kasel_a_typy_kasle
- [20]: lekove_formy
- [21]: lecba_zanetu
- [22]: nalehavost_lekarskeho_vysetreni
+ [15]: travici_potize
+ [16]: ryma
+ [17]: analgetika
+ [18]: bolesti_hlavy
+ [19]: kasel
+ [20]: leky
+ [21]: stadia_zanetu
+ [22]: nalehavost_vysetreni
  [23]: telisko_v_oku
 

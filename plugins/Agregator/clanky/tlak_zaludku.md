@@ -3,11 +3,11 @@
 
 {ctime="2011-06-14" mtime="2011-06-14" data-top="970" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tlak\_zaludku" short="Tlak žaludku"}
 
-# Žaludeční potíže: krátkodobý tlak žaludku
+# Krátkodobý tlak žaludku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="žaludek, břicho, zvracení, nevolnost, strava-zažívání, žlučník, říhání, strach"}
+{kw="žaludek, břicho, zvracení, nevolnost, strava-zažívání, žlučník, říhání, strach, krvácení"}
 
 Krátkodobý tlak žaludku bývá způsoben funkční poruchou trávení (např. přejedením) nebo nadměrným hladověním spojeným s nervozitou. Tlak většinou sám ustoupí po vytrávení nebo najedení a zklidnění.
 
@@ -96,8 +96,8 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: funkcni_poruchy_traveni
- [2]: stravovaci_navyky
+ [1]: travici_potize
+ [2]: zdrave_traveni
  [3]: bolest_zaludku
  [4]: zaludecni_vredy
  [5]: komplikace_vredu

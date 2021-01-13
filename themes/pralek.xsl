@@ -7,6 +7,7 @@
   <xsl:param name="inputvar-otazky_desc" select="''"/>
   <xsl:param name="linklist" select="'&lt;p&gt;&lt;em&gt;Nebyly nalezeny žádné odkazy.&lt;/em&gt;&lt;/p&gt;'"/>
   <xsl:param name="agregator-current-stitek" select="'nejčtenější'"/>
+  <xsl:param name="inputvar-articlebuttons" select="''"/>
 
 <!--   <xsl:template match="div[@id = 'header']">
     <div id="header"><div>
@@ -34,17 +35,17 @@
     <xsl:copy>
       <xsl:apply-templates select="@* | node()"/>
       <div class="part internetguru">
-        <h2 id="ebook">Nová kniha s články z Praléku!</h2>
-        <p class="description">TODO...</p>
+        <h2 id="ebook">Nová elektronická kniha</h2>
+        <p class="description">Chystáme se vydat e-book se články tohoto webu. Získáte tím všechny články autora do své oblíbené čtečky. Koupí e-booku navíc podpoříte autora a další rozvoj tohoto webu.</p>
         <ol class="list--ico">
-          <li><span class="fas fa-fw fa-check">i</span><label for="mce-EMAIL">E-book.</label></li>
-          <li><span class="fas fa-fw fa-check">i</span>Audiokniha.</li>
-          <li><span class="fas fa-fw fa-check">i</span>Tištěná verze s podpisem autora.</li>
+          <li><span class="fas fa-fw fa-check">i</span>E-book pro všechny druhy čteček plus formát PDF.</li>
+          <li><span class="fas fa-fw fa-check">i</span>Automatické aktualizace a přidávání nových článků!</li>
+          <li><span class="fas fa-fw fa-check">i</span>Zajímá Vás e-book? <label for="mce-EMAIL">Nechte se informovat.</label></li>
         </ol>
         <form action="https://pralek.us17.list-manage.com/subscribe/post?u=2e9033b7fc4e6eab54229d768&amp;id=5049faf784" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form">
           <div>
-          <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="josef.novak@seznam.cz"/>
-            <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-plus">i</span>Informujte mě!</button>
+          <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="josef.novak@seznam.cz" required="required"/>
+            <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-plus">i</span>Informujte mě</button>
           </div>
         </form>
       </div>
@@ -62,6 +63,8 @@
         <ul class="button-list button-list--ico">
           <li><a href="#sponzoring"><span class="fas fa-fw fa-chart-line">i</span> Jak podpořit Pralék</a></li>
           <li class="donation"><a href="https://www.patreon.com/pralek" class="button button--img button--img-inline"><span class="fab fa-fw fa-patreon">i</span> Staňte se patronem</a></li>
+          <li class="ebook"><a href="#ebook" class="button button--img button--img-inline"><span class="fab
+ fa-fw fa-book-medical">i</span> Elektronická kniha</a></li>
         </ul>
       </div>
     </xsl:copy>
@@ -83,7 +86,7 @@
       <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
-  
+    
   <xsl:template match="node()|@*">
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>

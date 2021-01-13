@@ -5,9 +5,9 @@
 
 # Zánět močového měchýře žen
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="močová soustava, zánět, prochlazení, břicho, pocení, neúrazové, prevence, krvácení"}
+{kw="moč, zánět, prochlazení, břicho, pocení, neúrazové, prevence, krvácení"}
 
 Zánět močového měchýře je nepříjemné a velmi bolestivé onemocnění, které není nakažlivé ani nebezpečné. Postihuje nejčastěji mladé ženy a bohužel se vracívá. Není souvislost mezi zánětem močového měchýře a zanedbáváním hygieny.
 
@@ -36,7 +36,7 @@ Prodělané **onemocnění močového měchýře se vracívá** _(recidiva)_. P�
 
 {class="example"}
 
-Je nutné [bránit se nejen prochlazení][6], ale stejně nebezpečné může být zpocení s následným prostydnutím anebo pouhé prochlazení nohou. Znovuvzplanutí zánětu močového měchýře může způsobit jen pobyt v mokrých plavkách nebo v mokrých botách.
+Je nutné [bránit se nejen prochlazení][6], ale stejně nebezpečné může být zpocení s následným prostydnutím anebo pouhé prochlazení nohou. Znovuvzplanutí zánětu močového měchýře může způsobit jen delší pobyt v mokrých plavkách nebo v mokrých botách.
 
 {id="projevy\_zanetu\_mocoveho_mechyre"}
 

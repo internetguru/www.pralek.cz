@@ -5,9 +5,9 @@
 
 # Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="žaludek, krvácení, nevolnost, zvracení, břicho, nádory, zhoubné, strava-zažívání"}
+{kw="žaludek, krvácení, nevolnost, zvracení, krev, břicho, nádory, zhoubné, strava-zažívání"}
 
 Žaludeční vředy jsou v současnosti snadno léčitelným onemocněním. Komplikace vředové choroby žaludku a dvanáctníku však mohou vést k ohrožení života. Vznikají nejčastěji následkem zanedbání příznaků a neléčením vředové choroby. Jedině rozeznání a okamžité odborné řešení vzniklých komplikací může pacientovi zachránit život.
 
@@ -113,11 +113,11 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: tlak_zaludku
- [2]: nalehavost_lekarskeho_vysetreni
+ [2]: nalehavost_vysetreni
  [3]: zaludecni_vredy
- [4]: krecove_zily
- [5]: rakovina_tlusteho_streva_a_konecniku
+ [4]: varixy
+ [5]: rakovina_streva
  [6]: slepak
- [7]: zanet_slinivky
- [8]: stravovaci_navyky
+ [7]: pankreatitida
+ [8]: zdrave_traveni
 

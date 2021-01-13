@@ -5,9 +5,7 @@
 
 # Spolknuté nebezpečné a ostré předměty
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
-
-{kw="břicho, žaludek, střevo, poranění, úrazy, dětské, zvracení"}
+{kw="břicho, žaludek, střevo, poranění, úraz, děti, zvracení"}
 
 Spolknutý ostrý předmět většinou nezpůsobí žádné potíže a bez problémů projde zažívacím traktem. Potíže může způsobit spíše větší předmět, který nemusí projít zúženými místy zažívacího traktu. Nejzávažnější poranění způsobí spolknutá kyselina nebo zásada.
 
@@ -67,7 +65,7 @@ n/a
 
 {class="otazky"}
 
-  1. Polknutí čeho je mnohem závažnější zranění než spolknutí ostrého předmětu?
+  1. Co je závažnější spolknout ve srovnání s ostrým předmětem?
   2. Jak to, že spolknutý špendlík většinou nezpůsobí žádné potíže a projde zažívacím traktem?
   3. Co bývá poraněno při spolknutí rybí nebo kuřecí kosti?
   4. Může být nebezpečné spolknutí velkého sousta?
@@ -98,6 +96,6 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: stravovaci_navyky
- [2]: strevni_nepruchodnost
+ [1]: zdrave_traveni
+ [2]: ileus
 

@@ -5,7 +5,7 @@
 
 # Kdy zánět léčit, kdy rozhánět a kdy podporovat
 
-{class="description" kw="zánět, teplota, imunita, pocení, látková výměna, alergie, úrazové, neúrazové"}
+{class="description" kw="zánět, teplota, imunita, pocení, antibiotika, alergie, úraz"}
 
 Různé druhy zánětů mají různý průběh a vývoj, různé příčiny a projevy. Podle druhu a vývoje zánětu je třeba proti němu někdy intenzivně bojovat, jindy je lépe ponechat zánětu přirozený průběh a někdy jej dokonce podporovat.
 
@@ -147,7 +147,7 @@ n/a
  [4]: antibiotika
  [5]: nalehavost_lekarskeho_vysetreni
  [6]: slepak
- [7]: podvrtnuti_kotniku
+ [7]: vyron_kotniku
  [8]: bakterie
  [9]: puchyr_mozol_kuri_oko
  [10]: jak_neonemocnet

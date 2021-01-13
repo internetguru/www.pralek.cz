@@ -5,9 +5,9 @@
 
 # Prstýnek na oteklém prstu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="cévy, úrazy, pohyb"}
+{kw="cévy, úraz, pohyb"}
 
 Včasné odstranění prstýnku z poraněné končetiny zabrání vzniku zdravotních komplikací. Ty mohou ve spojení s neléčeným škrtícím prstenem vést až ke ztrátě prstu. Přeštípnutí nebo přeříznutí prstýnku na nemocném prstu může být obtížné.
 
@@ -40,7 +40,7 @@ Prstýnek se z oteklého prstu sundavá vždy ve snaze, aby zůstal nepoškozen�
   1. Často se podaří sejmout malý prstýnek důraznou **manipulací po namydlení prstu**. Jakmile se podaří překonat kloub nejbližší k prstýnku, je vyhráno.
   2. Prstýnek hladkých okrajů (jako např. snubní) lze **sejmout pomocí pevné nitě**. Velmi pevnou nit je třeba omotávat kolem prstu těsnými otáčkami od středního článku prstu přes oteklý kloub až těsně k prstýnku. Pak se konec nitě podvlékne pod prstýnkem. Odmotáváním nitě směrem zpět i s prstýnkem se často podaří prstýnek přetáhnout přes kloub.
   3. Jestliže oba předchozí pokusy selžou, je nutné **prstýnek přeštípnout**. Kleště na chirurgii jsou podobné štípačkám z běžného opravářského nářadí (nebo i totožné). Zlatý a stříbrný prsten lze jimi snadno přeštípnout. Poté se prsten roztáhne a sundá a je možné ho nechat opravit u zlatníka. Prstýnek z lehkých slitin jde rovněž snadno přeštípnout. Tím se však znehodnotí.
-  4. Problém nastává u tísnícího prstýnku z chirurgické oceli. V takovém případě je nezbytné **prstýnek přeříznout pilkou na železo**. Takový výkon však vyžaduje velmi opatrné a zručné zacházení. Práce s pilkou trvá někdy až hodiny za stálého chlazení prstýnku a za spolupráce trpělivého pacienta.
+  4. Problém nastává u tísnícího prstýnku z chirurgické oceli. V takovém případě je nezbytné **prstýnek přeříznout pilkou na železo**. Takový výkon však vyžaduje velmi opatrné a zručné zacházení. Práce s pilkou trvá někdy až hodiny za stálého chlazení prstýnku a za spolupráce trpělivého pacienta. 
       * Prsten z kvalitní tvrdé oceli nelze na oteklém prstu přeštípnout, protože je tvrdší než ostří dostupných kleští. Velkými kleštěmi na zámky nelze pochopitelně na oteklém prstu manipulovat, nelze použít ani rozbrušovačku nebo flexu pro nebezpečí poranění prstu.
       * Po přeříznutí prstýnku přichází ještě problém, jak prsten na nemocném prstu roztáhnout, a jak ho bezpečně z prstu sejmout.
 
@@ -83,8 +83,8 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: lecba_zanetu
+ [1]: stadia_zanetu
  [2]: plisne_kuze
  [3]: krevni_tlak
- [4]: urazy_deti
+ [4]: urazy_batolat
 

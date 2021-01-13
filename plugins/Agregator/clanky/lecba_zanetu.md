@@ -5,9 +5,9 @@
 
 # Léčba zánětu podle druhu a stádia
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="zánět, teplota, tekutiny, spáleniny, neúrazové"}
+{kw="zánět, teplota, tekutiny, průjem, úraz, spáleniny, neúrazové"}
 
 Jednotlivé fáze a druhy některých zánětů na sebe navazují nebo mezi sebou v průběhu vývoje vzájemně přecházejí v souvislosti s úspěšností hojení. U jiných zánětů převažuje jediná fáze po téměř celou dobu trvání nemoci. Jednotlivá stádia mají své specifické projevy, proto je i léčba v různých fázích zánětu rozdílná.
 

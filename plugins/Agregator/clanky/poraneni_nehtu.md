@@ -3,11 +3,11 @@
 
 {ctime="2011-11-30" mtime="2011-11-30" data-top="997" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_nehtu" short="Poranění nehtu"}
 
-# Poranění nehtu
+# Nejčastější poranění nehtu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="nehet, úrazy, strach, krvácení, zánět, zlomeniny"}
+{kw="nehet, úraz, strach, krvácení, zánět, zlomeniny"}
 
 Úrazy nehtů bývají pro domnělou malichernost podceňované a ze strachu z bolestivosti ošetření zanedbávané. Neošetřená poranění nehtů však vedou ke zbytečným doživotním deformitám.
 
@@ -120,8 +120,8 @@ n/a
  [1]: plisne_kuze
  [2]: zarustajici_nehty
  [3]: bakterie
- [4]: zanet
- [5]: bolest_v_krku_angina
- [6]: nalehavost_lekarskeho_vysetreni
- [7]: zlomeniny_kosti
+ [4]: vyvoj_zanetu
+ [5]: angina
+ [6]: nalehavost_vysetreni
+ [7]: zlomeniny
 
