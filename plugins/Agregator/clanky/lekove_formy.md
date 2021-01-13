@@ -5,9 +5,9 @@
 
 # Možnosti podávání léků a lékové formy
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="angína, poruchy vědomí, teplota, cévy, zvracení, alergie"}
+{kw="angína, porucha vědomí, teplota, cévy, zvracení, alergie"}
 
 Léky se mohou dostat do těla různými cestami. Stejné množství léku (účinná dávka léku) působí stejně, je-li podáno kteroukoli formou a kteroukoli cestou. Většinou je možné nasadit takovou formu, která pacientovi vyhovuje.
 

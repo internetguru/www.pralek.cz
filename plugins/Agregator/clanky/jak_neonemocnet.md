@@ -5,7 +5,7 @@
 
 # Jak nepodlehnout chřipce
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="imunita, prevence, mikroorganizmy, zdravý životní styl, hygiena, teplota"}
 
@@ -93,7 +93,7 @@ n/a
 
  [1]: chripka
  [2]: teplota
- [3]: stravovaci_navyky
+ [3]: zdrave_traveni
  [4]: bakterie
  [5]: imunita
 

@@ -11,6 +11,17 @@
   <redir link="mikroorganizmy">bakterie</redir>
   <redir link="jaroslav_pavelka">/#jaroslav_pavelka</redir>
   <redir link="koutek">/#clanky</redir>
+  <redir link="bolest_hlavy_migrena">bolesti_hlavy</redir>
+  <redir link="mdloba_neboli_kolaps">kolaps</redir>
+  <redir link="natazeni_natrzeni_svalu">poraneni_svalu</redir>
+  <redir link="onemocneni_prsu">afekce_prsu</redir>
+  <redir link="podvrtnuti_kotniku">vyron_kotniku</redir>
+  <redir link="poraneni_jedovatym_zviretem">jedovate_zvire</redir>
+  <redir link="rakovina_tlusteho_streva_a_konecniku">rakovina_streva</redir>
+  <redir link="rychla_lekarska_pomoc">zachranka</redir>
+  <redir link="zanetlive_lozisko_nad_hyzdovou_ryhou">dzipova_nemoc</redir>
+  <redir link="zasady_spravneho_opalovani">opalovani</redir>
+  <redir link="zlomeniny_kosti">zlomeniny</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
@@ -18,4 +29,37 @@
   
   <redir link="vodni_rezim">prijem_tekutin</redir>
   
+  <!-- do not remove this line -->
+<redir link="zanet_slinivky">pankreatitida</redir>
+<redir link="zanet_mocoveho_mechyre">mocova_infekce</redir>
+<redir link="zanet">vyvoj_zanetu</redir>
+<redir link="vhodna_obuv">obuv</redir>
+<redir link="urazy_deti">urazy_batolat</redir>
+<redir link="strevni_nepruchodnost">ileus</redir>
+<redir link="stravovaci_navyky">zdrave_traveni</redir>
+<redir link="ryma_a_smrkani">ryma</redir>
+<redir link="resuscitace-ozivovani">resuscitace</redir>
+<redir link="puchyr_mozol_kuri_oko">osetreni_puchyre</redir>
+<redir link="projevy_alergie">alergie</redir>
+<redir link="pichnuti_injekce">injekce</redir>
+<redir link="penis-fimoza-obrizka">pece_o_penis</redir>
+<redir link="pece_o_zvukovod">zvukovod</redir>
+<redir link="obezita_a_energie">obezita</redir>
+<redir link="nalehavost_lekarskeho_vysetreni">nalehavost_vysetreni</redir>
+<redir link="nadmerne_dychani">predychavani</redir>
+<redir link="lymfaticke_uzliny">uzliny</redir>
+<redir link="leky_proti_bolesti">analgetika</redir>
+<redir link="lekove_formy">leky</redir>
+<redir link="lecba_zanetu">stadia_zanetu</redir>
+<redir link="krvaceni_z_konecniku">hemoroidy</redir>
+<redir link="krecove_zily">varixy</redir>
+<redir link="kasel_a_typy_kasle">kasel</redir>
+<redir link="funkcni_poruchy_traveni">travici_potize</redir>
+<redir link="drobna_krvava_poraneni">poraneni</redir>
+<redir link="doktor_nebo_lecitel">lecitelstvi</redir>
+<redir link="darcovstvi_krve">darovani_krve</redir>
+<redir link="boule_nasledkem_urazu">urazove_boule</redir>
+<redir link="bolest_v_krku_angina">angina</redir>
+<redir link="bolesti_v_zadech_houser">bolesti_v_zadech</redir>
+<redir link="bodne_a_strelne_poraneni">zavazna_poraneni</redir>
 </UrlHandler>

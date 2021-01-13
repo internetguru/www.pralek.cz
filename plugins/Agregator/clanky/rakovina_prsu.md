@@ -3,9 +3,9 @@
 
 {ctime="2010-07-25" mtime="2010-07-25" data-top="918" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_prsu" short="Rakovina prsu"}
 
-# Rakovina prsu
+# Záludnost rakoviny prsu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="boulička, strach, žláza, nádory, zhoubné, uzliny, prevence"}
 
@@ -85,9 +85,9 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: onemocneni_prsu
+ [1]: afekce_prsu
  [2]: mytus_o_rakovine
- [3]: rakovina_tlusteho_streva_a_konecniku
- [4]: lymfaticke_uzliny
+ [3]: rakovina_streva
+ [4]: uzliny
  [5]: nezhoubny_nebo_zhoubny_nador
 

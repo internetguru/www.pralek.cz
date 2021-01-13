@@ -5,13 +5,13 @@
 
 # Bolest v krku, nachlazení, angína
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="imunita, mikroorganizmy, teplota, zánět, uzliny, boulička, prevence"}
+{kw="angína, imunita, mikroorganizmy, teplota, zánět, uzliny, boulička, prevence"}
 
 Bolesti v krku mohou přejít v angínu, která je pro připravený organizmus zvládnutelná. Až teprve komplikace angíny mohou způsobit trvalé poškození zdraví.
 
-[Horní cesty dýchací][1] jsou častou vstupní bránou infekce. Nemocný člověk může [svou chorobu přenášet][2] na ostatní lidi kašlem a kýcháním – [kapénkovou infekcí][3]. Vývoj a závažnost onemocnění je [závislá na imunitě][4] (obranyschopnosti) organizmu. **Imunita vzniká a narůstá stykem organizmu s choroboplodnými zárodky.**
+[Horní cesty dýchací][1] jsou častou vstupní bránou infekce. Nemocný člověk může [svou chorobu přenášet][2] na ostatní lidi kašlem a kýcháním – [kapénkovou infekcí][3]. Vývoj a závažnost onemocnění je [závislá na imunitě][4] (obranyschopnosti) organizmu. **Imunita vzniká a narůstá pozvolným stykem organizmu s choroboplodnými zárodky.**
 
 {id="bolest\_v\_krku\_pricina\_a_leceni"}
 
@@ -19,7 +19,7 @@ Bolesti v krku mohou přejít v angínu, která je pro připravený organizmus z
 
 Spousta nečistot a bacilů vdechovaných společně se vzduchem je [vychytávána zdravou sliznicí a likvidována][5]. **Zdravý neoslabený jedinec by [neměl kapénkovou infekcí vůbec onemocnět][3].** 
 
-Aby se podařilo [choroboplodným zárodkům (mikroorganizmům)][6] proniknout sliznicí, musejí k tomu mít zvláštní podmínky, například podráždění sliznice a prochlazení. Tehdy se většinou vytvoří pod dolní čelistí [bolestivé uzliny][7]. **Mikroorganizmy jsou brzy imunitním systémem rozpoznány a postupně likvidovány.**
+Aby se podařilo [choroboplodným zárodkům (mikroorganizmům)][6] proniknout sliznicí, musejí k tomu mít zvláštní podmínky, například podráždění sliznice nebo prochlazení. Tehdy se většinou vytvoří pod dolní čelistí [bolestivé uzliny][7]. **Mikroorganizmy jsou brzy imunitním systémem rozpoznány a postupně likvidovány.**
 
 Tento stav boje zvláštních bílých krvinek proti mikroorganizmům ve sliznici se projevuje jako **pálení a škrábání v krku**. Může být spojen s [kašlem][5] nebo s [rýmou][1]. Bývají rovněž [celkové příznaky zánětu][8] jako únava, slabost, [zvýšená teplota][9]. Většinou se stav upraví během několika dnů. V tom případě se jednalo pouze o _nemoc z prochlazení (nastuzení, nachlazení)_.
 
@@ -47,11 +47,11 @@ Nejčastější trvalé následky v důsledku komplikací jsou [zánět ledvin][
 
 Angínu lze takříkajíc přechodit. Je zde ale nebezpečí vzniku výše popsaných komplikací. Při léčení angíny je nutný klid na lůžku a dostatek tekutin. Dle stavu jsou vhodná antibiotika a další léky podle celkových příznaků onemocnění.
 
-Po vyléčení z angíny mohou **přetrvávat změny na mandlích** (zvětšení mandlí, deformity, čepy, potíže s polykáním) nebo se **angíny často opakují**. V té době většinou přetrvávají zvětšené hmatné lymfatické uzliny na krku (bouličky).
+Po vyléčení z angíny mohou **přetrvávat změny na mandlích** (zvětšení mandlí, deformity, čepy, potíže s polykáním) nebo se **angíny často opakují**. Pak většinou přetrvávají zvětšené hmatné lymfatické uzliny na krku (bouličky).
 
 V tom případě je vhodné na návrh odborného lékaře mandle nechat jednoduchým zákrokem **chirurgicky odstranit**. Jejich funkci pak převezmou lymfatické uzliny, které přepažují lymfatické cesty jako síta. V nich jsou proniknuvší mikroorganizmy likvidovány.
 
-V dobách, kdy antibiotika nebyla, se nepochybně vyskytovalo více komplikací angín (včetně smrtelných). Dnes je nasazení antibiotik na zvážení odborného lékaře – zda, kdy, jaké, v jaké dávce a na jak dlouho. To ideálně podle kultivace a citlivosti testovaných v laboratoři.
+V dobách, kdy antibiotika nebyla, se nepochybně vyskytovalo více komplikací angín (včetně smrtelných). Dnes je nasazení antibiotik na zvážení odborného lékaře – zda, kdy, jaké, v jaké dávce a na jak dlouho. To ideálně podle [kultivace a citlivosti][13] testovaných v laboratoři.
 
 {id="otazky" var="inputvar-otazky_h"}
 

@@ -1,13 +1,13 @@
 
 {data-fbcommentid="1859902647475431" data-type="article" data-image="/files/preview/koutek/mocove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-08-13" mtime="2020-06-16" data-top="926" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocove\_kameny" short="Močové kameny"}
+{ctime="2008-08-13" mtime="2020-08-29" data-top="926" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocove\_kameny" short="Močové kameny"}
 
 # Močové kameny a ledvinová kolika
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="ledviny, močová soustava, kolika, prevence, neúrazové, krvácení, zvracení, zánět"}
+{kw="ledviny, moč, kolika, prevence, neúrazové, krvácení, zvracení, zánět"}
 
 V močovém ústrojí mohou vzniknout kameny. Tlakem moči a prodíráním se kamenu močovodem pak může vzniknout ledvinová kolika.
 
@@ -79,12 +79,12 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zanet_mocoveho_mechyre
+ [1]: mocova_infekce
  [2]: teplota
  [3]: bakterie
  [4]: mytus_o_rakovine
- [5]: funkcni_poruchy_traveni
- [6]: nalehavost_lekarskeho_vysetreni
- [7]: stravovaci_navyky
+ [5]: travici_potize
+ [6]: nalehavost_vysetreni
+ [7]: zdrave_traveni
  [8]: prijem_tekutin
 

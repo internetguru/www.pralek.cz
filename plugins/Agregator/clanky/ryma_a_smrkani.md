@@ -5,9 +5,9 @@
 
 # Rýma a smrkání, komplikace rýmy
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="ušní-nosní-krční, zánět, mikroorganizmy, dětské, poranění"}
+{kw="zánět, mikroorganizmy, děti, alergie, poranění"}
 
 Rýma je zánět sliznice dutiny nosní a často i čelistní a čelní. Nekomplikovaná rýma bývá banální onemocnění. Podmínkou však je smrkání, či odsávání zahleněného nosu kojencům zvláštním nástrojem.
 

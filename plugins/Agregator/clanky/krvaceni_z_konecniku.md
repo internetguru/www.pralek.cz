@@ -5,9 +5,9 @@
 
 # Krvácení z konečníku: hemoroidy nebo nádor
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="krvácení, strach, zánět, boulička, hygiena, strava-zažívání, nádory, cévy, břicho, zhoubné"}
+{kw="krev, strach, zánět, boulička, krvácení, hygiena, strava-zažívání, nádory, cévy, břicho, zhoubné"}
 
 Krvácení z konečníku mívá různé příčiny. Nejčastěji se jedná o hemoroidy. Včasné odhalení příčiny vždy zvyšuje šanci na uzdravení, i když by se jednalo o nádor. Zatímco u hemoroidů je operace jednou z mnoha možností léčby, v případě nádoru bývá operace nezbytná.
 
@@ -100,8 +100,8 @@ n/a
  [3]: krecove_zily
  [4]: stravovaci_navyky
  [5]: lekove_formy
- [6]: rakovina_tlusteho_streva_a_konecniku
+ [6]: rakovina_streva
  [7]: komplikace_vredu
  [8]: krevni_tlak
- [9]: rychla_lekarska_pomoc
+ [9]: zachranka
 

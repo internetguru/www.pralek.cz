@@ -5,7 +5,7 @@
 
 # Žaludeční potíže: bolest žaludku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="žaludek, břicho, zvracení, strach, strava-zažívání, teplota, zánět, mikroorganizmy"}
 
@@ -103,13 +103,13 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: stravovaci_navyky
- [2]: funkcni_poruchy_traveni
- [3]: zanet
+ [1]: zdrave_traveni
+ [2]: travici_potize
+ [3]: vyvoj_zanetu
  [4]: bakterie
  [5]: teplota
- [6]: zanet_slinivky
+ [6]: pankreatitida
  [7]: slepak
- [8]: lekove_formy
+ [8]: leky
  [9]: antibiotika
 

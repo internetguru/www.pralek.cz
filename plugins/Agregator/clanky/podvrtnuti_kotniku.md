@@ -5,9 +5,9 @@
 
 # Podvrtnutí kotníku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="kloub, vykloubení, úrazy, pohyb"}
+{kw="kloub, vykloubení, úraz, pohyb"}
 
 Jedná se o častý úraz převážně mladých lidí a sportovců. Panují však nejasnosti v tom, zda a kdy vyhledat lékařské vyšetření a existují různé možnosti léčení.
 
@@ -19,9 +19,9 @@ Nejčastěji dochází k úrazu **při nadměrném nebo nečekaném násilí** n
 
 n/a
 
-Nejčastěji dochází k zatlačení nohy směrem pod vnitřní kotník. Tím se může poranit (pouze natáhnout nebo prasknout) kloubní pouzdro a někdy i vaz pod zevním kotníkem. Takový úraz se nazývá podvrtnutí, vyvrtnutí nebo zvrtnutí nebo odborně **_distorze_ zevního kotníku**.
+Nejčastěji dochází k zatlačení nohy směrem pod vnitřní kotník. Tím se může poranit (pouze natáhnout nebo prasknout) kloubní pouzdro a někdy i vaz pod zevním kotníkem. Takový úraz se nazývá podvrtnutí, vyvrtnutí nebo zvrtnutí nebo odborně **_distorze_ zevního kotníku** . 
 
-Jestliže násilí působí opačně (tlačí nohu pod zevní kotník), pak se poraní kloubní pouzdro nebo vazy pod vnitřním kotníkem. Stav je označován jako podvrtnutí, zvrtnutí, vyvrtnutí nebo **_distorze_ vnitřního kotníku**.
+Jestliže násilí působí opačně (tlačí nohu pod zevní kotník), pak se poraní kloubní pouzdro nebo vazy pod vnitřním kotníkem. Stav je označován jako podvrtnutí, zvrtnutí, vyvrtnutí nebo **_distorze_ vnitřního kotníku** . 
 
 {class="example"}
 

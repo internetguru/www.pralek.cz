@@ -5,7 +5,7 @@
 
 # Boj proti akné
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="žláza, kůže-podkoží, boulička, prevence, strava-zažívání, zánět, teplota"}
 
@@ -92,10 +92,10 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: nezhoubne_nadory
- [2]: zanet
- [3]: lecba_zanetu
+ [2]: vyvoj_zanetu
+ [3]: stadia_zanetu
  [4]: teplota
- [5]: nalehavost_lekarskeho_vysetreni
- [6]: stravovaci_navyky
+ [5]: nalehavost_vysetreni
+ [6]: zdrave_traveni
  [7]: prijem_tekutin
 

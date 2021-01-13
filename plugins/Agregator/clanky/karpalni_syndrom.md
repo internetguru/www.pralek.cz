@@ -3,9 +3,9 @@
 
 {ctime="2011-01-17" mtime="2011-01-17" data-top="930" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="karpalni\_syndrom" short="Karpální syndrom"}
 
-# Noční brnění prstů ruky: karpální syndrom
+# Noční brnění prstů ruky
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="mozek-nervy, pohyb, zánět, nádory, nezhoubné"}
 
@@ -99,6 +99,6 @@ n/a
  [1]: onemocneni_slach
  [2]: mrtvice
  [3]: nezhoubne_nadory
- [4]: bodne_a_strelne_poraneni
- [5]: nalehavost_lekarskeho_vysetreni
+ [4]: zavazna_poraneni
+ [5]: nalehavost_vysetreni
 

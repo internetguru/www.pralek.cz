@@ -5,7 +5,7 @@
 
 # Střevní neprůchodnost bývá komplikací jiné choroby
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="nevolnost, zvracení, břicho, strava-zažívání, nádory, zhoubné, cévy"}
 
@@ -114,7 +114,7 @@ n/a
 
  [1]: tlak_zaludku
  [2]: funkcni_poruchy_traveni
- [3]: rakovina_tlusteho_streva_a_konecniku
+ [3]: rakovina_streva
  [4]: mocove_kameny
  [5]: zlucove_kameny
  [6]: otres_mozku

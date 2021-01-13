@@ -5,7 +5,7 @@
 
 # Jak postupovat při nevolnosti a zvracení
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="nevolnost, zvracení, průjem, jed, pocení, žlučník, mikroorganizmy, tekutiny"}
 
@@ -136,9 +136,9 @@ n/a
  [3]: kinetoza
  [4]: teplota
  [5]: zlucove_kameny
- [6]: bolest_hlavy_migrena
+ [6]: bolesti_hlavy
  [7]: slepak
- [8]: strevni_nepruchodnost
+ [8]: ileus
  [9]: kyla
  [10]: mrtvice
  [11]: subduralni_hematom

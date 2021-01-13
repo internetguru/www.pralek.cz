@@ -1,13 +1,13 @@
 
 {data-fbcommentid="1859875754144787" data-type="article" data-image="/files/preview/koutek/imunita/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-06-01" mtime="2020-06-16" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita"}
+{ctime="2008-06-01" mtime="2020-08-29" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="imunita" short="Imunita"}
 
 # Obranyschopnost organizmu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="zdravý životní styl, prevence, alergie, mikroorganizmy, antibiotika, dětské, zánět"}
+{kw="zdravý životní styl, prevence, alergie, mikroorganizmy, antibiotika, zánět"}
 
 Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imunita mění. Lze ji podpořit [zdravým způsobem života][1] nebo naopak oslabit [nadměrným užíváním léků, zejména antibiotik][2].
 
@@ -27,7 +27,7 @@ Snížená imunita
 
 Nadměrná imunitní aktivita
 :   Naopak může označovat za nepřítele i takové látky v těle, které ve skutečnosti nepřítelem nejsou (např. pylová zrnka, prach, částečky kovu nebo různé léky).
-:   Jedná se pak o [alergii][6] na tu kterou látku, dnes již bohužel často i o alergie smíšené.
+:   Jedná se pak o [alergii][6] na tu kterou látku, dnes již bohužel často jde i o alergie smíšené.
 
 Autoimunitní onemocnění
 :   Imunitním systémem může dokonce být označena za nepřítele i některá tělu vlastní bílkovina a proti ní se tvoří protilátky.
@@ -95,11 +95,11 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: stravovaci_navyky
+ [1]: zdrave_traveni
  [2]: antibiotika
  [3]: chripka
  [4]: bakterie
- [5]: lecba_zanetu
- [6]: projevy_alergie
+ [5]: stadia_zanetu
+ [6]: alergie
  [7]: teplota
 

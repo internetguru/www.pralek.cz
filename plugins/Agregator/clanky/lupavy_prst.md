@@ -3,11 +3,9 @@
 
 {ctime="2010-12-30" mtime="2010-12-30" data-top="973" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lupavy\_prst" short="Lupavý prst"}
 
-# Lupavý prst
+# Příčiny a léčba lupavého prstu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
-
-{kw="pohyb, zánět, úrazy"}
+{kw="pohyb, zánět, úraz"}
 
 Při tomto onemocnění je v jednom místě ztížený pohyb prstem. Při snaze o ohnutí prstu dojde po překonání určitého odporu k přeskočení prstu do nové polohy (lupnutí).
 
@@ -33,7 +31,9 @@ V počátku onemocnění bývá lupání [komplikováno zánětem][2] a je tedy 
 
 n/a
 
-V počátečním stádiu onemocnění (velmi bolestivé lupání prstu) je dobré prst nerozcvičovat, naopak je třeba lupání naprosto vyloučit (zhoršoval by se zánět a tím i bolestivost). K tomu nejlépe poslouží pevná fixace prstu nebo i celé ruky. Zhruba po 3 týdnech může lupání přestat, nebo se stát méně znatelným a nebolestivým. Pak by bylo možné zlehka bez námahy bolestivý prst procvičovat.
+Rozcvičování prstu v počáteční fázi onemocnění by zvyšovalo bolest i [intenzitu zánětu][3]. Proto je potřeba se v této fázi lupání prstu naprosto vyvarovat. To lze podpořit pevnou fixací prstu nebo i celé ruky.
+
+Zhruba po 3 týdnech může lupání přestat nebo se stát méně znatelným a nebolestivým. Pak je teprve vhodné začít bolestivý prst zlehka a bez námahy procvičovat.
 
 V případě, že by fixace nepřinesla efekt, pak bude nutné operační řešení, které nemá smysl odkládat. Operace je velmi jednoduchá, provádí se v místním znecitlivění. Většinou postačí protnout poutko nad kloubem a uzlík na šlaše se sám zahojí. Omezení pracovního zařazení je vlastně jen do doby zhojení kůže (asi 2 týdny).
 
@@ -49,7 +49,7 @@ n/a
 
   1. Co je lupavý prst?
   2. Který prst bývá nejčastěji lupáním postižen?
-  3. Proč není dobré snažit se bolestivé lupání rozcvičit?
+  3. Proč se nemá lupavý prst rozcvičovat v počátku onemocnění?
   4. V čem většinou spočívá operace lupavého palce?
 
 {var="inputvar-feedback_h" id="dotace"}
@@ -77,5 +77,6 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: onemocneni_slach
- [2]: lecba_zanetu
+ [2]: stadia_zanetu
+ [3]: vyvoj_zanetu
 

@@ -5,9 +5,9 @@
 
 # Nezhoubné nádory a bouličky s nimi zaměňované
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="nádory, boulička, neúrazové, strach, nezhoubné, žláza, spáleniny"}
+{kw="nádory, boulička, neúrazové, strach, nezhoubné, žláza"}
 
 Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Preventivní odstranění některých nádorů se stalo rutinou, u ostatních většinou postačí pravidelné kontroly.
 
@@ -134,14 +134,14 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: nezhoubny_nebo_zhoubny_nador
- [2]: zanet
+ [2]: vyvoj_zanetu
  [3]: znamenko-bradavice-rakovina
- [4]: lymfaticke_uzliny
- [5]: zlomeniny_kosti
- [6]: rakovina_tlusteho_streva_a_konecniku
- [7]: krvaceni_z_konecniku
+ [4]: uzliny
+ [5]: zlomeniny
+ [6]: rakovina_streva
+ [7]: hemoroidy
  [8]: odhaleni_rakoviny
  [9]: onemocneni_slach
  [10]: akne
- [11]: bolest_v_krku_angina
+ [11]: angina
 

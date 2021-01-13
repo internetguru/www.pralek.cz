@@ -5,7 +5,7 @@
 
 # Bodné a střelné poranění a jeho závažnost
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="poranění, krvácení, kůže-podkoží, pohyb, břicho, cévy"}
 
@@ -17,7 +17,7 @@ Poranění zabodnutým předmětem nebo zástřel je natolik závažné, jak a k
 
 n/a
 
-Zabodnutý předmět do kůže (nejčastěji hřebík, šroubovák, tupý nůž) často nelze z rány vytáhnout – pevně drží v kůži. To je dáno tím, že kůže je velmi pružná. V okamžiku pronikání hrotu hřebíku kůží je kůže velmi prohnutá a napnutá a ve výsledku je otvor v kůži menší, než je průměr proniklého předmětu.
+Zabodnutý předmět do kůže (nejčastěji hřebík, šroubovák, tupý nůž) často nelze z rány vytáhnout – pevně drží v kůži. To je dáno tím, že kůže je velmi pružná. V okamžiku pronikání hrotu hřebíku kůží je kůže velmi prohnutá a napnutá a ve výsledku je otvor v kůži menší, než je průměr proniklého předmětu. Proto je poranění tupým předmětem bolestivé.
 
 Kůže jej velmi pevně drží, kolem zabodnutého předmětu je velmi napjatá. K odstranění předmětu bývá nutné znecitlivění okolí, drobné naříznutí otvoru (jeho zvětšení) a následně snadné vyproštění předmětu.
 
@@ -47,7 +47,7 @@ Drobné kovové předměty (nejčastěji odštěpky kovu při uhození kladivem 
 
 Střelné poranění je natolik závažné, jaké tkáně jsou projektilem zdevastované nebo poškozené ([průstřel hrudníku][6]). Přežije-li postřelený člověk, cílem chirurgů na operačním sále je napravovat škody, které způsobila energie projektilu.
 
-Spojují se roztříštěné kosti, sešívají se porušené cévy, šlachy, svaly, nervy. Všechny části často roztrhaného projektilu nebo všechny broky často ani není možné ani nutné odstranit. Vyjmutí projektilu samotného bývá prioritou pouze v amerických filmech :-)
+Spojují se roztříštěné kosti, sešívají se porušené cévy, šlachy, svaly, nervy. Všechny části často roztrhaného projektilu nebo všechny broky není ani možné ani nutné odstranit. Vyjmutí projektilu samotného bývá prioritou pouze v amerických filmech :-)
 
 Zapíchnuté silnější předměty (jako např. šíp, drát, větev) není vhodné při první pomoci z těla vůbec uvolňovat, ale naopak transportovat poraněného k ošetření i se zapíchnutým předmětem.
 

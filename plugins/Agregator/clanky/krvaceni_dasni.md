@@ -5,7 +5,7 @@
 
 # Příčinou krvácení dásní je nedostatek vitamínu C
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="krvácení, prevence, cévy, neúrazové, hygiena, mikroorganizmy, zánět, strava-zažívání"}
 
@@ -95,8 +95,8 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: prijem_tekutin
- [2]: stravovaci_navyky
- [3]: lecba_zanetu
+ [2]: zdrave_traveni
+ [3]: stadia_zanetu
  [4]: bakterie
  [5]: koureni_cigaret
 

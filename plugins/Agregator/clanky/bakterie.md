@@ -1,13 +1,13 @@
 
 {data-fbcommentid="1859901470808882" data-type="article" data-image="/files/preview/koutek/mikroorganizmy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-06-16" mtime="2020-06-16" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="bakterie" short="Bakterie"}
+{ctime="2008-06-16" mtime="2020-08-29" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="bakterie" short="Bakterie"}
 
 # Bakterie jako pomocník a nepřítel člověka
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="mikroorganizmy, antibiotika, zánět, hygiena, strava-zažívání, nevolnost, zvracení"}
+{kw="mikroorganizmy, antibiotika, zánět, krev, hygiena, nevolnost, zvracení"}
 
 Bakterie a celé bakteriální kmeny jsou pro lidské tělo prospěšné, pokud se vyskytují na příslušných místech. Jakmile se však dostanou, kam nepatří, mohou způsobit nemoc. Přirozená bakteriální flóra bývá vždy narušena užíváním antibiotik.
 
@@ -43,7 +43,7 @@ Taková situace nastane například tehdy, dostanou-li se bakterie z konečníku
 
 ## Choroboplodné bakterie
 
-Obrovské množství bakteriálních kmenů, které jsou popsány a pojmenovány například v učebnici mikrobiologie, může zapříčinit různé nakažlivé nebo [zánětlivé choroby][4] neboli choroboplodné zárodky.
+Existuje obrovské množství bakteriálních kmenů, které jsou popsány a pojmenovány v učebnicích mikrobiologie. Všechny mohou za určitých podmínek zapříčinit různé [zánětlivé a nakažlivé choroby][4].
 
 Cizí [choroboplodné bakterie, které člověka napadly][2] mohou přežívat v určitém místě lidského těla, např. v mandlích při angíně. Mohou se také vyplavit do celého těla a **způsobit celkové příznaky závažného [zánětlivého onemocnění][5]** . Pak bývá nevyhnutelné nasazení [antibiotik][6]. 
 
@@ -89,11 +89,11 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: funkcni_poruchy_traveni
+ [1]: travici_potize
  [2]: teplota
- [3]: zanet_mocoveho_mechyre
- [4]: bolest_v_krku_angina
- [5]: zanet
+ [3]: mocova_infekce
+ [4]: angina
+ [5]: vyvoj_zanetu
  [6]: antibiotika
- [7]: lecba_zanetu
+ [7]: stadia_zanetu
 

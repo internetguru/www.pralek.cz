@@ -5,9 +5,7 @@
 
 # Dárcovství krve, krevní plazmy a kostní dřeně
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
-
-{kw="krev, strava-zažívání, strach, nevolnost, poruchy vědomí, kolaps, zhoubné, hygiena, dětské"}
+{kw="krev, strava-zažívání, strach, nevolnost, porucha vědomí, kolaps, zhoubné, hygiena, děti"}
 
 Darovat krev může člověk, který dovršil 18 let věku, neměl infekční žloutenku, jeho hmotnost je vyšší než 50 kg a cítí se být zdráv. Dárce je vyšetřen a jeho krev bude užita k návratu zdraví nebo k záchraně jiného života. Chybějící krev je v těle dárce obnovena za 72 hodin.
 
@@ -39,7 +37,7 @@ Technicky není možné, aby se dárce krve nakazil krví přenosnou chorobou. V
 
 n/a
 
-Během odběru nebo těsně po něm se může stát, že dárce pocítí slabost nebo teplo nebo [dokonce zkolabuje][3]. Nejčastěji je příčinou únava nebo nevyspání. Tyto potíže jsou způsobené nedostatečným prokrvením mozku. Nikoli však z důvodu ztráty odebrané krve ale spíš z důvodu nervozity a strachu.
+Během odběru nebo těsně po něm se může stát, že dárce pocítí slabost nebo teplo nebo [dokonce zkolabuje][3]. Tyto potíže jsou způsobené nedostatečným prokrvením mozku v důsledku [poklesu krevního tlaku][4]. To nikoli z důvodu ztráty odebrané krve, ale spíše z důvodu únavy, nervozity a strachu.
 
 Často potíže vznikají ihned po napíchnutí, aniž by došlo k odběru. V případě kolapsu nebo nevolnosti je dárce uložen na připravené lůžko a během okamžiku se jeho stav normalizuje.
 
@@ -110,5 +108,6 @@ n/a
 
  [1]: bodne_a_strelne_poraneni
  [2]: lymfaticke_uzliny
- [3]: mdloba_neboli_kolaps
+ [3]: kolaps
+ [4]: krevni_tlak
 

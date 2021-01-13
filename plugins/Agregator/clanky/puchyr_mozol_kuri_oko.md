@@ -5,9 +5,9 @@
 
 # Puchýř, mozol, kuří oko: jak správně ošetřovat
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="kůže-podkoží, úrazy, neúrazové, zánět, poranění, cukrovka"}
+{kw="kůže-podkoží, úraz, neúrazové, zánět, poranění, cukrovka"}
 
 Neporušený puchýř se nepropichuje ani nestříhá. Naopak je nutné dbát na to, aby nebyl ani omylem poškozen nebo porušen. V případě porušení krytu puchýře je hojení komplikováno zánětem a stává se bolestivým a zdlouhavým. Mozol může fyzické aktivitě napomáhat, překážet nebo ji znemožnit.
 

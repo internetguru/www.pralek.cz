@@ -45,3 +45,18 @@ li.print {
 ::placeholder {
   color: transparent;
 }
+.docinfo.social {
+  display: none;
+}
+.clanek {
+  min-height: auto !important;
+}
+.hdesc.o_praleku + div dd:last-child .button-list, .o_praleku dd:last-child .button-list {
+  display: none;
+}
+.hdesc.o_praleku + div, .part.o_praleku, .part.dotace, .part.clanky, .part.odkazy, .part.sponzoring {
+  background: none !important;
+}
+li.donation {
+  display: none;
+}

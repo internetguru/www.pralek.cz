@@ -3,11 +3,11 @@
 
 {ctime="2011-02-20" mtime="2011-02-20" data-top="923" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="prostata" short="Prostata"}
 
-# Prostata: potíže s močením
+# Prostatické potíže s močením
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="prostata, žláza, močová soustava, zánět, nádory, nezhoubné, zhoubné"}
+{kw="prostata, žláza, moč, zánět, nádory, nezhoubné, zhoubné"}
 
 Zvětšená prostata je nejčastější příčinou potíží s močením. Při léčení jakýchkoli potíží s prostatou provádí urolog taková vyšetření, která prokáží nebo vyloučí i rakovinu prostaty. Největší problém tedy hrozí, jestliže se pacient se svými problémy vůbec neléčí.
 
@@ -109,13 +109,13 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: mocove_kameny
- [2]: zanet
+ [2]: vyvoj_zanetu
  [3]: antibiotika
  [4]: bakterie
  [5]: teplota
- [6]: zanet_mocoveho_mechyre
- [7]: bolest_v_krku_angina
+ [6]: mocova_infekce
+ [7]: angina
  [8]: nezhoubny_nebo_zhoubny_nador
- [9]: nalehavost_lekarskeho_vysetreni
+ [9]: nalehavost_vysetreni
  [10]: cevkovani
 

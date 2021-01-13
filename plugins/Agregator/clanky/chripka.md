@@ -5,7 +5,7 @@
 
 # Chřipka: virové onemocnění
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="imunita, mikroorganizmy, zdravý životní styl, zánět, prochlazení, teplota, prevence, neúrazové"}
 
@@ -77,12 +77,12 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: bakterie
- [2]: ryma_a_smrkani
+ [2]: ryma
  [3]: teplota
  [4]: imunita
  [5]: jak_neonemocnet
- [6]: leky_proti_bolesti
- [7]: kasel_a_typy_kasle
+ [6]: analgetika
+ [7]: kasel
  [8]: prijem_tekutin
- [9]: funkcni_poruchy_traveni
+ [9]: travici_potize
 

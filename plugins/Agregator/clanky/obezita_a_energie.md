@@ -5,8 +5,6 @@
 
 # Obezita jako nepoměr příjmu a výdeje energie
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
-
 {kw="strava-zažívání, zdravý životní styl, pohyb, látková výměna, prevence, břicho"}
 
 Obezitu může řešit jedině změna poměru příjmu a výdeje energie. Pokud se množství přijaté energie (potravou) rovná množství energie spotřebované (prací nebo cvičením), pak člověk nehubne ani netloustne.
@@ -44,13 +42,13 @@ Existují různé preparáty, které mohou ovlivnit trávení, snížit chuť k 
 
 {class="important"}
 
-O lécích na hubnutí je vhodné uvažovat až v případě, že obezita omezuje kvalitu života (práce, pohyb, sport, záliby). Konkrétní lék a dávkování by měl určit lékař. Součástí léčby obezity by vždy měla být dohledovaná dieta a zvýšená fyzická aktivita.
+O lécích na hubnutí je vhodné uvažovat až v případě, že obezita omezuje kvalitu života (práce, pohyb, sport, záliby). [Konkrétní lék][2] a dávkování by měl určit lékař. Součástí léčby obezity by vždy měla být dohledovaná dieta a zvýšená fyzická aktivita.
 
 V případě užívání léků na hubnutí beze změny stravovacích návyků může dojít k dočasnému snížení hmotnosti. Po dobrání léků se však hmotnost brzy vrátí na či dokonce nad původní úroveň – tzv. _jojo efekt_.
 
 {class="example"}
 
-Každodenní vážení nemá smysl. Drobné změny hmotnosti (např. pokles po zátěži) jsou dány převážně [kolísáním množství vody v těle][2] a nikoliv snížením množství tuku. Pro kontrolu úspěšnosti hubnutí je tedy vhodnější kontrolovat např. obvod pasu nebo boků než hmotnost.
+Každodenní vážení nemá smysl. Drobné změny hmotnosti (např. pokles po zátěži) jsou dány převážně [kolísáním množství vody v těle][3] a nikoliv snížením množství tuku. Pro kontrolu úspěšnosti hubnutí je tedy vhodnější kontrolovat např. obvod pasu nebo boků než hmotnost.
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -94,5 +92,6 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: stravovaci_navyky
- [2]: prijem_tekutin
+ [2]: lekove_formy
+ [3]: prijem_tekutin
 

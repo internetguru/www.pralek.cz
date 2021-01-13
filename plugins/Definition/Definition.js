@@ -1,7 +1,9 @@
 (() => {
 
   require("IGCMS", () => {
-
+    
+    var clickTimer = null
+    
     var Config = {}
     Config.ns = "definition"
     Config.containerClass = Config.ns + "__cont"
@@ -64,11 +66,13 @@
       var
         term = term,
         container = null,
-        created = false
+        created = false,
+        href= null
       return {
         term: term,
         created: created,
         container: container,
+        href: href,
         createContainer: function () {
           var descValue = this.term.getAttribute(Config.dataDescAttr)
           if (!descValue) {
@@ -85,7 +89,7 @@
           closeButton.className = Config.closeClass
           desc.appendChild(closeButton)
 
-          var href = this.term.getAttribute("href")
+          href = this.term.getAttribute("href")
           var hrefTitle = this.term.getAttribute(Config.dataHrefTitleAttr)
           if (!hrefTitle) {
             hrefTitle = href
@@ -136,6 +140,13 @@
 
       var
         definitions = [],
+        getWinHeight = function () {
+          var w = window,
+            d = document,
+            e = d.documentElement,
+            g = d.getElementsByTagName('body')[0]
+          return w.innerHeight || e.clientHeight || g.clientHeight
+        },
         fireEvents = function () {
           const generateHandler = (value, method) => e => method(e, value)
           var terms = document.querySelectorAll(`.${Config.ns}`)
@@ -144,6 +155,14 @@
             terms[i].classList.add("eventable")
             terms[i].title = `${Config.titlePrefix}${terms[i].title}`
             terms[i].addEventListener("click", generateHandler(termComp, toggleTerm), false)
+            if (terms[i].href) {
+              terms[i].addEventListener("dblclick", (event) => {
+                clearTimeout(clickTimer)
+                require("IGCMS.Eventable", () => {
+                  IGCMS.Eventable.sendGAEvent(Config.ns, "dblclick", event.currentTarget.href);
+                })
+              }, false)
+            }
             definitions.push(termComp)
           }
           return terms.length
@@ -152,6 +171,15 @@
           if (event.ctrlKey || event.shiftKey) {
             return true;
           }
+          if (event.detail === 1) {
+            clickTimer = setTimeout(() => {
+              doToggleTerm(event, termComp)
+            }, 200)
+            event.preventDefault()
+            return false
+          }
+        },
+        doToggleTerm = function (event, termComp) {
           definitions.forEach((item) => {
             if (item === termComp) {
               return
@@ -167,14 +195,16 @@
           if (event.clientX - delta + termComp.container.clientWidth > window.innerWidth) {
             termComp.container.style.left = null
             termComp.container.style.right = `0px`
-            termComp.container.style.top = `${event.clientY + window.scrollY + 10}px`
           } else {
             termComp.container.style.right = null
             termComp.container.style.left = `${Math.max(event.clientX - delta, 0)}px`
-            termComp.container.style.top = `${event.clientY + window.scrollY + 10}px`
           }
-          event.preventDefault()
-          return false;
+          termComp.container.style.top = `${event.clientY + window.scrollY + 10}px`
+          var termRect = termComp.term.getBoundingClientRect()
+          var termCompRect = termComp.container.getBoundingClientRect()
+          if (getWinHeight() - termCompRect.height - termCompRect.top < termCompRect.top - termCompRect.height) {
+            termComp.container.style.top = `${event.clientY + window.scrollY - termCompRect.height - 10}px`
+          }
         },
         fireControllEvents = function () {
           document.addEventListener("keydown", (event) => {

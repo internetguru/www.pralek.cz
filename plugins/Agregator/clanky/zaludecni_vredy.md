@@ -5,9 +5,9 @@
 
 # Žaludeční a dvanáctníkový vřed
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="žaludek, zvracení, strava-zažívání, břicho, prevence, mikroorganizmy"}
+{kw="žaludek, zvracení, strava-zažívání, břicho, antibiotika, prevence"}
 
 Žaludeční vředy jsou v současnosti dobře léčitelným onemocněním. Vřed lze vyléčit běžnými léky a nemocný žaludek není třeba operovat. V případě zanedbání vředové choroby však mohou vzniknout život ohrožující komplikace.
 
@@ -97,11 +97,11 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: bakterie
- [2]: stravovaci_navyky
+ [2]: zdrave_traveni
  [3]: tlak_zaludku
- [4]: funkcni_poruchy_traveni
+ [4]: travici_potize
  [5]: slepak
- [6]: zanet_slinivky
+ [6]: pankreatitida
  [7]: bolest_zaludku
  [8]: antibiotika
  [9]: koureni_cigaret

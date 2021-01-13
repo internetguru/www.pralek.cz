@@ -5,9 +5,9 @@
 
 # Jak žít s cukrovkou
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
-{kw="strava-zažívání, látková výměna, poruchy vědomí, první pomoc, nevolnost, pocení, cévy, břicho"}
+{kw="strava-zažívání, látková výměna, porucha vědomí, první pomoc, nevolnost, pocení, cévy, břicho"}
 
 Ukázněný diabetik (česky cukrovkář) se nemusí během života setkat se žádnými komplikacemi cukrovky. Ty bývají způsobené nedodržováním doporučených léčebných zásad.
 
@@ -119,6 +119,6 @@ n/a
  [1]: cholesterol
  [2]: srdecni_infarkt
  [3]: mocove_kameny
- [4]: mdloba_neboli_kolaps
- [5]: rychla_lekarska_pomoc
+ [4]: kolaps
+ [5]: zachranka
 

@@ -5,7 +5,7 @@
 
 # (Ne)závažnost strnutí šíje
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="mozek-nervy, pohyb, rehabilitace"}
 
@@ -105,6 +105,6 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: bolesti_v_zadech_houser
- [2]: leky_proti_bolesti
+ [1]: bolesti_v_zadech
+ [2]: analgetika
 

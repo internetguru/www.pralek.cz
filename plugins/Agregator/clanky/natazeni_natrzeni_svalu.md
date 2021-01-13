@@ -5,9 +5,9 @@
 
 # Natažení nebo natržení svalu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
 
-{kw="úrazy, pohyb"}
+{kw="úraz, pohyb"}
 
 Natažení svalu nelze od jeho natržení laicky rozeznat. Rozdíl v léčení je zásadní, a proto je vhodné vyhledat odborné vyšetření.
 
