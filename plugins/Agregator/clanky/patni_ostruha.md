@@ -3,7 +3,7 @@
 
 {ctime="2011-04-19" mtime="2011-04-19" data-top="969" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="patni\_ostruha" short="Patní ostruha"}
 
-# Bolest paty: patní ostruha
+# Neúrazová bolest paty
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
@@ -107,11 +107,11 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: vhodna_obuv
+ [1]: obuv
  [2]: onemocneni_slach
- [3]: leky_proti_bolesti
+ [3]: analgetika
  [4]: bakterie
- [5]: nalehavost_lekarskeho_vysetreni
- [6]: lekove_formy
- [7]: zanet
+ [5]: nalehavost_vysetreni
+ [6]: leky
+ [7]: vyvoj_zanetu
 

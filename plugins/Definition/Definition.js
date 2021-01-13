@@ -140,6 +140,13 @@
 
       var
         definitions = [],
+        getWinHeight = function () {
+          var w = window,
+            d = document,
+            e = d.documentElement,
+            g = d.getElementsByTagName('body')[0]
+          return w.innerHeight || e.clientHeight || g.clientHeight
+        },
         fireEvents = function () {
           const generateHandler = (value, method) => e => method(e, value)
           var terms = document.querySelectorAll(`.${Config.ns}`)
@@ -188,11 +195,15 @@
           if (event.clientX - delta + termComp.container.clientWidth > window.innerWidth) {
             termComp.container.style.left = null
             termComp.container.style.right = `0px`
-            termComp.container.style.top = `${event.clientY + window.scrollY + 10}px`
           } else {
             termComp.container.style.right = null
             termComp.container.style.left = `${Math.max(event.clientX - delta, 0)}px`
-            termComp.container.style.top = `${event.clientY + window.scrollY + 10}px`
+          }
+          termComp.container.style.top = `${event.clientY + window.scrollY + 10}px`
+          var termRect = termComp.term.getBoundingClientRect()
+          var termCompRect = termComp.container.getBoundingClientRect()
+          if (getWinHeight() - termCompRect.height - termCompRect.top < termCompRect.top - termCompRect.height) {
+            termComp.container.style.top = `${event.clientY + window.scrollY - termCompRect.height - 10}px`
           }
         },
         fireControllEvents = function () {

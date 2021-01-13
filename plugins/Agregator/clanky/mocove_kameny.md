@@ -79,12 +79,12 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zanet_mocoveho_mechyre
+ [1]: mocova_infekce
  [2]: teplota
  [3]: bakterie
  [4]: mytus_o_rakovine
- [5]: funkcni_poruchy_traveni
- [6]: nalehavost_lekarskeho_vysetreni
- [7]: stravovaci_navyky
+ [5]: travici_potize
+ [6]: nalehavost_vysetreni
+ [7]: zdrave_traveni
  [8]: prijem_tekutin
 

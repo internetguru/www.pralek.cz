@@ -88,6 +88,6 @@ n/a
  [1]: afekce_prsu
  [2]: mytus_o_rakovine
  [3]: rakovina_streva
- [4]: lymfaticke_uzliny
+ [4]: uzliny
  [5]: nezhoubny_nebo_zhoubny_nador
 

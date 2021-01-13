@@ -102,9 +102,9 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: pady_z_kola
- [2]: drobna_krvava_poraneni
+ [2]: poraneni
  [3]: bakterie
- [4]: lymfaticke_uzliny
- [5]: nalehavost_lekarskeho_vysetreni
+ [4]: uzliny
+ [5]: nalehavost_vysetreni
  [6]: antibiotika
 

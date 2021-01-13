@@ -3,9 +3,7 @@
 
 {ctime="2010-05-23" mtime="2010-05-23" data-top="982" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="nezhoubny\_nebo\_zhoubny\_nador" short="Nezhoubný nebo zhoubný nádor"}
 
-# Nezhoubný nebo zhoubný nádor: obecné srovnání
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+# Rozdíly mezi nezhoubným a zhoubným nádorem
 
 {kw="nádory, boulička, strach, nezhoubné, zhoubné"}
 
@@ -30,7 +28,7 @@ n/a
   * nikdy netvoří druhotná ložiska, kde by začal růst _(metastázy)_;
   * sám svého nositele nezahubí; 
       * Může se však za určitých podmínek proměnit ve zhoubný nádor.
-  * lze většinou poměrně snadno chirurgicky odstranit.
+  * lze většinou poměrně snadno [chirurgicky odstranit][3].
 
 {id="zhoubny_nador-rakovina"}
 
@@ -41,16 +39,16 @@ n/a
   * je společenství buněk, které mají _zásadně změněné chování_ oproti původní tkáni, ze které vyšly;
   * nebývá ohraničen vůči svému okolí a často brzy prorůstá do okolních struktur;
   * sám nijak nebolí;
-  * roste velmi rychle (týdny); 
+  * [roste velmi rychle][4] (týdny); 
       * Buňky zhoubného nádoru se množí tak překotně, že neplní žádnou jinou funkci než vlastní množení.
   * **vysiluje svého nositele**, který chátrá a hubne; 
-      * Zhoubný nádor má velmi vysokou energetickou spotřebu. Proto člověk postižený rakovinou často v počátku onemocnění [hubne jakoby bez příčiny][3].
+      * Zhoubný nádor má velmi vysokou energetickou spotřebu. Proto člověk postižený rakovinou často v počátku onemocnění [hubne jakoby bez příčiny][5].
   * se většinou nestihne projevit změnou tvaru (deformitou); 
       * Dříve začnou dominovat ostatní dravé vlastnosti zhoubného nádoru.
   * **prorůstá do okolních tkání a orgánů** a tím může rušit jejich funkce; 
       * Změněná funkce okolních tkání **může působit krutou bolest**.
   * často **tvoří druhotná ložiska** jinde v těle _(metastázy)_, kde roste stejně agresivně;
-  * brzy zahubí svého nositele, pokud není léčen;
+  * brzy zahubí svého nositele, [pokud není léčen][6];
   * bývá složitější operačně odstranit.
 
 {class="example"}
@@ -102,5 +100,8 @@ n/a
 
  [1]: rakovina_prsu
  [2]: karpalni_syndrom
- [3]: obezita_a_energie
+ [3]: nalehavost_vysetreni
+ [4]: odhaleni_rakoviny
+ [5]: obezita
+ [6]: rakovina_streva
 

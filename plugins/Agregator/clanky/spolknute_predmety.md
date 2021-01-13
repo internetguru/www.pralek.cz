@@ -5,8 +5,6 @@
 
 # Spolknuté nebezpečné a ostré předměty
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="břicho, žaludek, střevo, poranění, úraz, děti, zvracení"}
 
 Spolknutý ostrý předmět většinou nezpůsobí žádné potíže a bez problémů projde zažívacím traktem. Potíže může způsobit spíše větší předmět, který nemusí projít zúženými místy zažívacího traktu. Nejzávažnější poranění způsobí spolknutá kyselina nebo zásada.
@@ -29,7 +27,7 @@ Při polykání mohou ostré předměty poranit hrtan nebo jícen. Známé je po
 
 n/a
 
-Mnohem **závažnější je spolknutí velkého sousta**. Špatně rozmělněné sousto nedostatečně promísené slinami může [uvíznout v jícnu][1]. Typicky to bývá suchý včerejší rohlík nebo kus tuhého masa. Vzniklá bolest je nejprve pálivá, je doprovázena sliněním. Po určité době se sousto většinou uvolní a sklouzne do žaludku. K tomu většinou pomůže doušek vody.
+Mnohem závažnější než spolknutí ostrého předmětu je spolknutí velkého sousta. Špatně rozmělněné sousto nedostatečně promísené slinami může [uvíznout v jícnu][1]. Typicky to bývá suchý včerejší rohlík nebo kus tuhého masa. Vzniklá bolest je nejprve pálivá, je doprovázena sliněním. Po určité době se sousto většinou uvolní a sklouzne do žaludku. K tomu většinou pomůže doušek vody.
 
 Jestliže se sousto neuvolní, přetrvává tlak za hrudní kostí a nadměrné slinění. Pak je nutné sousto uvolnit speciálním přístrojem – endoskopem (přístroj, kterým lze vidět a ošetřovat uvnitř tělních dutin).
 
@@ -59,7 +57,7 @@ n/a
 
 {class="otazky"}
 
-  1. Polknutí čeho je mnohem závažnější zranění než spolknutí ostrého předmětu?
+  1. Co je závažnější spolknout ve srovnání s ostrým předmětem?
   2. Jak to, že spolknutý špendlík většinou nezpůsobí žádné potíže a projde zažívacím traktem?
   3. Co bývá poraněno při spolknutí rybí nebo kuřecí kosti?
   4. Může být nebezpečné spolknutí velkého sousta?
@@ -90,6 +88,6 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: stravovaci_navyky
- [2]: strevni_nepruchodnost
+ [1]: zdrave_traveni
+ [2]: ileus
 

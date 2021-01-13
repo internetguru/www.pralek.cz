@@ -12,6 +12,7 @@
   <jsFile append="body">themes/print.js</jsFile>
   
   <xslt>themes/pralek.xsl</xslt>
+  <xslt>themes/pralek2.xsl</xslt>
   <xslt>themes/ad.xsl</xslt>
   <xslt>themes/layout/image-group.xsl</xslt>
   

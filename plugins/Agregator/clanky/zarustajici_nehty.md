@@ -3,8 +3,8 @@
 {ctime="2009-04-19" mtime="2009-04-19" data-top="985" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zarustajici\_nehty" short="Zarůstající nehty"}
 
 # Zarůstající nehty na palcích dolních končetin
-                                              
-<!-- generated attribute kw by user_updatekw.sh on 2020-08-04, do not edit -->
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="nehet, hygiena, zánět, prevence, teplota, mikroorganizmy, pohyb"}
 
@@ -107,7 +107,7 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: bakterie
- [2]: lecba_zanetu
- [3]: zanet
+ [2]: stadia_zanetu
+ [3]: vyvoj_zanetu
  [4]: teplota
  [5]: lymfaticke_uzliny

@@ -3,7 +3,7 @@
 
 {ctime="2014-09-15" mtime="2014-09-15" data-top="952" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bercovy\_vred" short="Bércový vřed"}
 
-# Bércový vřed, jeho vývoj a hojení
+# Vývoj a hojení bércového vředu
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
@@ -102,13 +102,13 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zanet
+ [1]: vyvoj_zanetu
  [2]: opalovani
  [3]: plisne_kuze
  [4]: cholesterol
  [5]: krvacejici_varix
  [6]: srdecni_infarkt
- [7]: lymfaticke_uzliny
+ [7]: uzliny
  [8]: krvaceni_dasni
- [9]: lecba_zanetu
+ [9]: stadia_zanetu
 

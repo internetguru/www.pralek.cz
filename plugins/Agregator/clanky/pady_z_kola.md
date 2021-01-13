@@ -125,14 +125,14 @@ n/a
 
  [1]: bakterie
  [2]: odreniny_neboli_oderky
- [3]: nalehavost_lekarskeho_vysetreni
- [4]: zanet
- [5]: drobna_krvava_poraneni
+ [3]: nalehavost_vysetreni
+ [4]: vyvoj_zanetu
+ [5]: poraneni
  [6]: naplastovy_steh
  [7]: poraneni_nehtu
  [8]: otres_mozku
  [9]: subduralni_hematom
- [10]: bolesti_v_zadech_houser
+ [10]: bolesti_v_zadech
  [11]: zachranka
  [12]: poraneni_svalu
  [13]: vyron_kotniku

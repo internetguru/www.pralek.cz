@@ -7,6 +7,7 @@
   <xsl:param name="inputvar-otazky_desc" select="''"/>
   <xsl:param name="linklist" select="'&lt;p&gt;&lt;em&gt;Nebyly nalezeny žádné odkazy.&lt;/em&gt;&lt;/p&gt;'"/>
   <xsl:param name="agregator-current-stitek" select="'nejčtenější'"/>
+  <xsl:param name="inputvar-articlebuttons" select="''"/>
 
 <!--   <xsl:template match="div[@id = 'header']">
     <div id="header"><div>
@@ -62,6 +63,8 @@
         <ul class="button-list button-list--ico">
           <li><a href="#sponzoring"><span class="fas fa-fw fa-chart-line">i</span> Jak podpořit Pralék</a></li>
           <li class="donation"><a href="https://www.patreon.com/pralek" class="button button--img button--img-inline"><span class="fab fa-fw fa-patreon">i</span> Staňte se patronem</a></li>
+          <li class="ebook"><a href="#ebook" class="button button--img button--img-inline"><span class="fab
+ fa-fw fa-book-medical">i</span> Elektronická kniha</a></li>
         </ul>
       </div>
     </xsl:copy>
@@ -83,7 +86,7 @@
       <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
-  
+    
   <xsl:template match="node()|@*">
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>

@@ -114,13 +114,13 @@ n/a
 
  [1]: opalovani
  [2]: znamenko-bradavice-rakovina
- [3]: puchyr_mozol_kuri_oko
- [4]: lekove_formy
- [5]: nalehavost_lekarskeho_vysetreni
- [6]: lymfaticke_uzliny
+ [3]: osetreni_puchyre
+ [4]: leky
+ [5]: nalehavost_vysetreni
+ [6]: uzliny
  [7]: akne
  [8]: afekce_prsu
- [9]: zanet
- [10]: krvaceni_z_konecniku
+ [9]: vyvoj_zanetu
+ [10]: hemoroidy
  [11]: cukrovka
 

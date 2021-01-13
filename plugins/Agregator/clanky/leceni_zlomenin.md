@@ -102,6 +102,6 @@ n/a
 
  [1]: vyron_kotniku
  [2]: zlomeniny
- [3]: nalehavost_lekarskeho_vysetreni
+ [3]: nalehavost_vysetreni
  [4]: detske_zlomeniny
 

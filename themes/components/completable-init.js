@@ -19,18 +19,20 @@
       },
       onSend: (navig, currentFile, closeNavig) => {
         closeNavig()
-        let path = ""        
+        let path = ""
         if (/^stitky/.test(currentFile.value)) {
-          path = `/?usp=navig&stitek=${currentFile.value.match(/(?<=stitky\/).*/)[0]}#clanky`
+          const label = currentFile.value.match(/(stitky\/)(.*)/)[2]
+          path = "/?usp=navigjs&stitek=" + label + "#clanky"
         } else if (/^clanky/.test(currentFile.value)) {
-          path = `/${currentFile.value.match(/(?<=clanky\/).*/)[0]}?usp=navig`
+          const article = currentFile.value.match(/(clanky\/)(.*)/)[2]
+          path = "/" + article + "?usp=navigjs"
         } else {
           path = "https://www.google.com/search?sitesearch=www.pralek.cz&amp;q=" + currentFile.value
         }
         console.log(path)
-        window.location = path
+        window.location = path        
       },
-      sendForm: false,
+      sendForm: false
     })
   })
 })()

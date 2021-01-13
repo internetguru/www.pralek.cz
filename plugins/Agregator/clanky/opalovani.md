@@ -98,6 +98,6 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: ochlazeni_spaleniny
- [2]: puchyr_mozol_kuri_oko
+ [2]: osetreni_puchyre
  [3]: znamenko-bradavice-rakovina
 

@@ -5,7 +5,7 @@
 
 # Mateřské znaménko, bradavice nebo rakovina
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="kůže-podkoží, nádory, nezhoubné, zhoubné, prevence, krvácení"}
 
@@ -102,7 +102,7 @@ n/a
  [1]: mytus_o_rakovine
  [2]: opalovani
  [3]: chripka
- [4]: puchyr_mozol_kuri_oko
+ [4]: osetreni_puchyre
  [5]: nezhoubne_nadory
  [6]: nezhoubny_nebo_zhoubny_nador
 

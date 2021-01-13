@@ -95,11 +95,11 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: stravovaci_navyky
+ [1]: zdrave_traveni
  [2]: antibiotika
  [3]: chripka
  [4]: bakterie
- [5]: lecba_zanetu
- [6]: projevy_alergie
+ [5]: stadia_zanetu
+ [6]: alergie
  [7]: teplota
 

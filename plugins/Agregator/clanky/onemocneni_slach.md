@@ -3,7 +3,7 @@
 
 {ctime="2010-01-14" mtime="2010-01-14" data-top="987" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="onemocneni\_slach" short="Onemocnění šlach"}
 
-# Onemocnění šlach: zánět šlach, gangliom, tenisový loket
+# Zánět šlach, gangliom, tenisový loket
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
@@ -117,10 +117,10 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: artroza
- [2]: zanet
+ [2]: vyvoj_zanetu
  [3]: bakterie
  [4]: antibiotika
- [5]: lymfaticke_uzliny
+ [5]: uzliny
  [6]: nezhoubne_nadory
  [7]: poraneni_svalu
 

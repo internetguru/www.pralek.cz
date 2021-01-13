@@ -106,8 +106,8 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: krevni_tlak
- [2]: nadmerne_dychani
- [3]: resuscitace-ozivovani
+ [2]: predychavani
+ [3]: resuscitace
  [4]: cukrovka
  [5]: srdecni_infarkt
 

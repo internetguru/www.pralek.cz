@@ -90,17 +90,17 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: lymfaticke_uzliny
+ [1]: uzliny
  [2]: kyla
  [3]: znamenko-bradavice-rakovina
- [4]: obezita_a_energie
- [5]: krvaceni_z_konecniku
+ [4]: obezita
+ [5]: hemoroidy
  [6]: mocove_kameny
- [7]: nalehavost_lekarskeho_vysetreni
+ [7]: nalehavost_vysetreni
  [8]: komplikace_vredu
- [9]: zanet_mocoveho_mechyre
+ [9]: mocova_infekce
  [10]: teplota
- [11]: strevni_nepruchodnost
- [12]: funkcni_poruchy_traveni
+ [11]: ileus
+ [12]: travici_potize
  [13]: nezhoubny_nebo_zhoubny_nador
 

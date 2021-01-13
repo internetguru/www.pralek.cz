@@ -83,7 +83,7 @@ n/a
  [3]: srdecni_infarkt
  [4]: subduralni_hematom
  [5]: krevni_tlak
- [6]: funkcni_poruchy_traveni
- [7]: resuscitace-ozivovani
- [8]: nalehavost_lekarskeho_vysetreni
+ [6]: travici_potize
+ [7]: resuscitace
+ [8]: nalehavost_vysetreni
 

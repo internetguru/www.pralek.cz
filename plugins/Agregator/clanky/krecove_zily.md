@@ -11,7 +11,7 @@
 
 Vznik křečových žil dolních končetin lze preventivně ovlivnit. Již vzniklé varixy je možno odstranit. Po operaci je nutné opět preventivně dbát na to, aby se varixy znovu nevytvořily.
 
-Krev je vypuzována srdečním svalem a tepnami přenášena [pod určitým tlakem][1] k cílovým orgánům. Po předání kyslíku a živin se krev vrací žílami zpět k srdci. **Krev žílami teče pasivně**; není poháněna srdcem.
+Krev je vypuzována [srdečním svalem][1] a tepnami přenášena [pod určitým tlakem][2] k cílovým orgánům. Po předání kyslíku a živin se krev vrací žílami zpět k srdci. **Krev žílami teče pasivně**; není poháněna srdcem.
 
 {id="spravna\_a\_narusena\_funkce\_zil"}
 
@@ -30,7 +30,7 @@ Ve zdravých žilách se při pasivním sezení nebo stání krev žílou prakti
 
 Může se stát, že **se opakovaným přetěžováním žilní stěna postupně uvolní a žíla se rozšíří**. Nerozšíří se však chlopně, proto se stanou nefunkčními. K rozšíření žil dochází kvůli méněcennosti vaziva žilní stěny, rodové dispozici, nevhodným návykům nebo díky nevhodnému zaměstnání.
 
-Nefunkční chlopně umožní v klidu pohyb krve dolů (obrázek 1:c) a při stlačení svalem oběma směry (obrázek 1:d), nejen směrem požadovaným. **Tlak městnající se krve se zvyšuje** a postižená žíla se dále rozšiřuje. Rozšiřováním žil vznikají žilní městky – křečové žíly _(varixy)_ (obrázek 1:e). Stejným způsobem se může měnit nadměrně namáhaná [„zlatá žíla“ v konečníku][2].
+Nefunkční chlopně umožní v klidu pohyb krve dolů (obrázek 1:c) a při stlačení svalem oběma směry (obrázek 1:d), nejen směrem požadovaným. **Tlak městnající se krve se zvyšuje** a postižená žíla se dále rozšiřuje. Rozšiřováním žil vznikají žilní městky – křečové žíly _(varixy)_ (obrázek 1:e). Stejným způsobem se může měnit nadměrně namáhaná [„zlatá žíla“ v konečníku][3].
 
 {id="leceni\_krecovych\_zil"}
 
@@ -38,11 +38,11 @@ Nefunkční chlopně umožní v klidu pohyb krve dolů (obrázek 1:c) a při stl
 
 n/a
 
-Na dolních končetinách jsou dva žilní systémy – hluboký a povrchový. Změny na povrchovém systému bývají viditelné a někdy i bolestivé. Rozšířené rozsáhlé žilní městky často hyzdí dolní končetiny deformací a barevně. Někdy se mohou [zanítit][3] a být velmi bolestivé. Drobné rozšířené žilky (metličky) působí nepříjemně kosmeticky.
+Na dolních končetinách jsou dva žilní systémy – hluboký a povrchový. Změny na povrchovém systému bývají viditelné a někdy i bolestivé. Rozšířené rozsáhlé žilní městky často hyzdí dolní končetiny deformací a barevně. Někdy se mohou [zanítit][4] a být velmi bolestivé. Drobné rozšířené žilky (metličky) působí nepříjemně kosmeticky.
 
 Existuje několik metod, jak varixy odstranit:
 
-  * Pomocí léků, které ovlivní žilní stěnu tak, aby se více neuvolňovala. Stávající stav se tedy nadále sice nezlepší, ale zpomalí se jeho zhoršování.
+  * [Pomocí léků][5], které ovlivní žilní stěnu tak, aby se více neuvolňovala. Stávající stav se tedy nadále sice nezlepší, ale zpomalí se jeho zhoršování.
   * Chirurgicky, kdy je rozšířená žíla odstraněna i s varixy. Nejvhodnější metodu vždy **individuálně po vyšetření doporučí odborný lékař**. Podmínkou úspěšného řešení povrchního žilního systému je správná funkčnost hlubokého žilního systému.
 
 {class="important"}
@@ -109,7 +109,9 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: krevni_tlak
- [2]: krvaceni_z_konecniku
- [3]: zanet
+ [1]: srdecni_infarkt
+ [2]: krevni_tlak
+ [3]: krvaceni_z_konecniku
+ [4]: zanet
+ [5]: lekove_formy
 

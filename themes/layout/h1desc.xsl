@@ -2,6 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
   <xsl:param name="inputvar-articlemeta" select="''"/>
+  <xsl:param name="inputvar-articlebuttons" select="''"/>
   <xsl:param name="inputvar-ghedit2" select="''"/>
   <xsl:param name="inputvar-twitter-title" select="''"/>
   <xsl:param name="inputvar-fb-title" select="''"/>
@@ -41,57 +42,7 @@
         <xsl:if test="/body[contains(@class, 'agregator')]">
           <div class="extra">
             <ul class="button-list">
-              <li>
-                <xsl:element name="a">
-                  <xsl:attribute name="href">https://www.facebook.com/pralek/posts/<xsl:value-of disable-output-escaping="yes" select="$fbcommentid"/></xsl:attribute>
-                  <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fbcomment-title"/></xsl:attribute>
-                  <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
-                  <span class="fas fa-fw fa-comment">i</span>
-                </xsl:element>         
-              </li>
-              <li>
-                <span class="hideable hideable-hidden" data-hideable-close-on-ext="true">
-                  <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fab fa-fw fa-share-alt">i</span></span>
-                  <ul>
-                    <li>
-                      <xsl:element name="a">
-                        <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
-                        <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fb-title"/></xsl:attribute>
-                        <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
-                        <xsl:attribute name="onclick">return !window.open(this.href, 'Facebook', 'width=750,height=500')</xsl:attribute>
-                        <span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku
-                      </xsl:element>
-                    </li>
-                    <li>
-                      <xsl:element name="a">
-                        <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.pralek.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
-                        <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
-                        <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
-                        <xsl:attribute name="onclick">return !window.open(this.href, 'Twitter', 'width=750,height=500')</xsl:attribute>
-                        <span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru
-                      </xsl:element>
-                    </li>
-                    <li>
-                      <span class="copyable__heading">Možnosti sdílení</span>
-                      <span class="copyable__close" onclick="IGCMS.Hideable.toggleElement(this.parentNode.parentNode.parentNode.getElementsByTagName('a')[0])">×</span>
-                      <span class="copyable" fn="inputvar-createlink">
-                        <xsl:value-of disable-output-escaping="yes" select="$link"/>
-                      </span>
-                    </li>
-                  </ul>
-                </span>
-              </li>
-              <li>
-                <xsl:value-of disable-output-escaping="yes" select="$inputvar-ghedit2"/>
-              </li>
-              <li>
-                <xsl:element name="button">
-                  <xsl:attribute name="title">Vytisknout článek</xsl:attribute>
-                  <xsl:attribute name="class">button__print button button--simple button--img button--img-only eventable</xsl:attribute>
-                  <xsl:attribute name="data-eventable-category">print-header</xsl:attribute>
-                  <span class="fas fa-fw fa-print">i</span>
-                </xsl:element>
-              </li>
+              <xsl:value-of disable-output-escaping="yes" select="$inputvar-articlebuttons"/>
             </ul>
           </div>
         </xsl:if>

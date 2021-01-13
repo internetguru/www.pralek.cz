@@ -93,7 +93,7 @@ n/a
 
  [1]: chripka
  [2]: teplota
- [3]: stravovaci_navyky
+ [3]: zdrave_traveni
  [4]: bakterie
  [5]: imunita
 

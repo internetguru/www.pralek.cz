@@ -89,11 +89,11 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: funkcni_poruchy_traveni
+ [1]: travici_potize
  [2]: teplota
- [3]: zanet_mocoveho_mechyre
- [4]: bolest_v_krku_angina
- [5]: zanet
+ [3]: mocova_infekce
+ [4]: angina
+ [5]: vyvoj_zanetu
  [6]: antibiotika
- [7]: lecba_zanetu
+ [7]: stadia_zanetu
 

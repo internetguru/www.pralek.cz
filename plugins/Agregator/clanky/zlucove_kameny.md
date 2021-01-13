@@ -5,7 +5,7 @@
 
 # Prevence a léčba žlučových kamenů
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-19, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="žlučník, břicho, říhání, zvracení, strava-zažívání, prevence, zánět, strach"}
 
@@ -101,10 +101,10 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: stravovaci_navyky
- [2]: nalehavost_lekarskeho_vysetreni
+ [1]: zdrave_traveni
+ [2]: nalehavost_vysetreni
  [3]: slepak
  [4]: mocove_kameny
- [5]: zanet
- [6]: strevni_nepruchodnost
+ [5]: vyvoj_zanetu
+ [6]: ileus
 

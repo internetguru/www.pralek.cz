@@ -3,15 +3,13 @@
 
 {ctime="2012-05-18" mtime="2012-05-18" data-top="998" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="panaricium" short="Panaricium"}
 
-# Nebezpečný zánět prstu ruky – panaricium
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+# Nebezpečný zánět prstu ruky
 
 {kw="zánět, poranění, uzliny, úraz, teplota, krev, antibiotika, prevence"}
 
 Zánětlivé onemocnění prstu ruky může být velmi závažné a nebezpečné. Včasné ošetření zánětu chirurgem předejde rozšíření zánětu nejen po nemocné ruce ale i do celého těla.
 
-Panaricium _(panaritium)_ je označení pro [zánět prstu na ruce][1]. Příčinou zánětu je nejčastěji **nesprávně provedená manikúra**. Vstupní bránou infekce bývá záděrka nehtového valu, zatržení nehtu, [cizí tělísko zaražené pod nehet][2], oděrka nebo poranění nejčastěji posledního článku prstu. [Infekci způsobí mikroorganizmy][3], které se běžně vyskytují na rukou a při poranění pronikají do organizmu.
+Panaricium _(panaritium)_ je [prudký bolestivý zánět][1] nejčastěji v okolí nehtového lůžka na ruce. Příčinou zánětu je nejčastěji **nesprávně provedená manikúra**. Vstupní bránou infekce bývá záděrka nehtového valu, zatržení nehtu, [cizí tělísko zaražené pod nehet][2], oděrka nebo poranění nejčastěji posledního článku prstu. [Infekci způsobí mikroorganizmy][3], které se běžně vyskytují na rukou a při poranění pronikají do organizmu.
 
 Prevencí vzniku panaricia je správné ošetřování [nehtů, nehtových lůžek a valů][2] pilníčkem či nůžkami (neokusovat a nezatrhávat), po umytí promazávat příjemným krémem.
 
@@ -62,7 +60,7 @@ V boji mezi bílými krvinkami a mikroby mohou mikroby dočasně vítězit a š�
 
 V sepsi mohou stejným zánětem jaký byl původně v prstu onemocnět kterékoli vnitřní životně důležité orgány.
 
-V obou uvedených případech je chirurgické ošetření naprosto nezbytné, stejně jako [nasazení antibiotik][7]. Toto velmi závažné onemocnění se týká pouze prstů rukou. Na prstech nohou se prakticky nevyskytuje. Důvodem je naprosto odlišného mikrobiálního osídlení rukou a nohou.
+V obou uvedených případech je chirurgické ošetření naprosto nezbytné, stejně jako [nasazení antibiotik][7]. Toto velmi závažné onemocnění se týká pouze prstů rukou. Na prstech nohou se prakticky nevyskytuje. Důvodem je naprosto odlišné mikrobiální osídlení rukou a nohou.
 
 Na palcích nohou může rovněž vzniknout zánět nehtových valů. Je však dlouhodobý a je vždy v souvislosti se [zarůstajícími špatně ošetřenými nehty][9]. Takový zánět je sice nepříjemné, ale ve srovnání s panariciem nezávažné onemocnění.
 
@@ -79,8 +77,7 @@ n/a
   1. Co je panaricium?
   2. Co je nejčastější vstupní bránou infekce při vzniku panaricia?
   3. Jaké jsou místní průvodní jevy zánětu?
-  4. Jaké jsou 2 možnosti šíření zánětu z místního na celkové zánětlivé onemocnění?
-  5. Proč se panaricium vyskytuje jen na prstech rukou a na nohou ne?
+  4. Kterými dvěma cestami se může šířit místní zánět prstu do celého těla?
 
 {var="inputvar-feedback_h" id="dotace"}
 
@@ -106,13 +103,13 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zanet
+ [1]: vyvoj_zanetu
  [2]: poraneni_nehtu
  [3]: bakterie
- [4]: urazy_deti
+ [4]: urazy_batolat
  [5]: cukrovka
  [6]: imunita
  [7]: antibiotika
- [8]: lymfaticke_uzliny
+ [8]: uzliny
  [9]: zarustajici_nehty
 

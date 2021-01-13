@@ -90,5 +90,5 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: srdecni_infarkt
- [2]: stravovaci_navyky
+ [2]: zdrave_traveni
 

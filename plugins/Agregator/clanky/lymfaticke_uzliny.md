@@ -5,8 +5,6 @@
 
 # Zvětšené lymfatické uzliny
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="uzliny, kůže-podkoží, krev, teplota, boulička, zánět, nádory, cévy"}
 
 Normální lymfatické uzliny nejsou bolestivé ani hmatné. Zvětšení nebo bolestivost uzliny má vždy svůj důvod, po kterém je třeba pátrat. Nejčastěji se jedná o zánět, bohužel někdy i o nádor.
@@ -56,7 +54,7 @@ n/a
 
   1. K čemu slouží mízní cévy?
   2. K čemu slouží mízní uzliny?
-  3. Proč zvětšená uzlina někdy bolí a někdy nebolí?
+  3. Za jakých podmínek je zvětšená uzlina bolestivá a kdy nebolestivá??
   4. Co bývá nejčastější příčinou zvětšení podčelistních uzlin?
 
 {var="inputvar-feedback_h" id="dotace"}

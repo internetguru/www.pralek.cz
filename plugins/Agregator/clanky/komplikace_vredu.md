@@ -113,11 +113,11 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: tlak_zaludku
- [2]: nalehavost_lekarskeho_vysetreni
+ [2]: nalehavost_vysetreni
  [3]: zaludecni_vredy
- [4]: krecove_zily
+ [4]: varixy
  [5]: rakovina_streva
  [6]: slepak
- [7]: zanet_slinivky
- [8]: stravovaci_navyky
+ [7]: pankreatitida
+ [8]: zdrave_traveni
 

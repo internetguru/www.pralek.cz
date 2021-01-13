@@ -107,11 +107,11 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: bakterie
- [2]: zanet
+ [2]: vyvoj_zanetu
  [3]: jak_neonemocnet
- [4]: bolest_v_krku_angina
+ [4]: angina
  [5]: imunita
- [6]: projevy_alergie
+ [6]: alergie
  [7]: mocove_kameny
- [8]: zanet_mocoveho_mechyre
+ [8]: mocova_infekce
 

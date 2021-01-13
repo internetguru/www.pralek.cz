@@ -105,12 +105,12 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: imunita
- [2]: nalehavost_lekarskeho_vysetreni
+ [2]: nalehavost_vysetreni
  [3]: pady_z_kola
  [4]: srdecni_infarkt
  [5]: krevni_tlak
  [6]: teplota
  [7]: kolaps
  [8]: zachranka
- [9]: darcovstvi_krve
+ [9]: darovani_krve
 
