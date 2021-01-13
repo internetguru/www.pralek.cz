@@ -9,43 +9,55 @@
 
 {kw="penis, moč, děti, hygiena, prevence, zánět, cukrovka, strach"}
 
-Péče o penis již od útlého věku je podmínkou jeho správného dalšího vývoje. Tím se zamezí vzniku zánětu a hlavně následných komplikací a potíží v dospívání.
+Správná péče o penis již od útlého věku je podmínkou pro jeho zdravý vývoj. Zamezí se tím vzniku zánětu a hlavně následných komplikací a potíží v dospívání.
 
-Na ošetřování, koupele, přetahování nebo nepřetahování předkožky novorozenců a kojenců je více názorů. Pediatr většinou doporučuje nechat penis bez přetahování předkožky při koupeli, chirurg doporučuje předkožku uvolnit a při koupeli přetahovat přes žalud.
+{class="example"}
+
+Na ošetřování, koupele, přetahování nebo nepřetahování předkožky novorozenců a kojenců je více názorů. Pediatr většinou doporučuje nechat penis bez přetahování předkožky při koupeli, chirurg zase doporučuje předkožku uvolnit a při koupeli ji přetahovat přes žalud.
 
 {id="popis\_penisu\_predkozka"}
 
-## Popis penisu, předkožka
+## Penis, žalud a předkožka
 
-n/a
+Topořivá tělesa penisu jsou kryta volně posunlivou kůží a žalud je kryt citlivou sliznicí. Volné podkoží na penisu umožňuje samovolné přetažení kůže přes žalud.
 
-Topořivá tělesa penisu jsou kryta volně posunlivou kůží a žalud je kryt citlivou sliznicí. Volné podkoží na penisu umožňuje samovolné přetažení kůže přes žalud. Tím je žalud kryt dvěma vrstvami kůže – jedna vrstva směrem k žaludu a druhá vrstva kůže navenek. Tato zdvojená kůže se nazývá předkožka. Mezi žaludem a vnitřním listem předkožky leží dutina – vak předkožky.
+Tím je žalud kryt dvěma vrstvami kůže – jedna vrstva směrem k žaludu a druhá vrstva kůže navenek. Tato zdvojená kůže se nazývá předkožka. Mezi žaludem a vnitřním listem předkožky leží dutina, takzvaný vak předkožky.
 
 [Kůže obsahuje množství žlázek][1], které produkují různé důležité látky. Vrchní odumřelé vrstvy kůže se neustále odlučují. V případě zanedbané hygieny se produkty žlázek spolu s odumřelými buňkami a [všudypřítomnými bakteriemi][2] hromadí v předkožkovém vaku. Takto vzniká bělavá hmota se nazývá _smegma_.
 
-Během koupele je nutné přetáhnout předkožku přes penis, předkožkový vak omýt vlažnou vodou. V případě zanedbání hygieny se smegma objeví již během několika dnů; **pravidelnou hygienou se smegma vůbec neobjeví**.
+{class="important"}
 
-{id="onemocneni\_predkozky\_penisu"}
+Během koupele je nutné přetáhnout předkožku přes penis a předkožkový vak omýt vlažnou vodou. V případě zanedbání hygieny se smegma objeví již během několika dnů. **Pravidelnou hygienou se smegma vůbec neobjeví.**
 
-## Onemocnění předkožky penisu
+{id="slepeniny"}
 
-n/a
+## Slepeniny mezi žaludem a vnitřním listem předkožky
 
-Poměrně často se stává, že jsou už při narození vytvořeny **slepeniny mezi žaludem a vnitřním listem předkožky**. To má za následek nemožnost přetažení předkožky přes žalud. Pak je nutné vyhledat chirurgické nebo urologické ošetření a slepeniny nechat snadným zákrokem uvolnit _(uvolnění konglutinací)_.
+Poměrně často se stává, že jsou už při narození vytvořeny **slepeniny mezi žaludem a vnitřním listem předkožky**. To má za následek nemožnost přetažení předkožky přes žalud. V takovém případě je nutné vyhledat chirurgické nebo urologické ošetření a slepeniny nechat snadným zákrokem uvolnit. Jedná se o takzvané _uvolnění konglutinací_.
 
-V případě, že se slepeniny neuvolní a předkožku nelze přetáhnout, **slepeniny se postupně mění ve srůsty** mezi žaludem a předkožkou. Jejich následné uvolnění v pozdějším věku je pak již složitější a bolestivé a ve chlapcích **zanechává negativní zážitek**.
+{class="important"}
 
-Mezitím se hromadí v předkožkovém vaku smegma. Občasný [zánět vaku][3] _(balanitis)_ vede k podráždění předkožky a k jejímu pozánětlivému jizvení. Opakované záněty vaku vyústí ve významné zúžení zevního ústí předkožky _(fimóza, phimosis)_. V tom případě již nelze předkožku přetáhnout přes žalud (otvor v předkožce je menší než velikost žaludu).
+V případě, že se slepeniny neuvolní a předkožku nelze přetáhnout, tak se **slepeniny postupně mění ve srůsty** mezi žaludem a předkožkou. Jejich následné uvolnění v pozdějším věku je pak složitější a bolestivé a u chlapců **zanechává negativní zážitek**.
 
-Při močení se ztenčuje proud, který je limitovaný otvorem v předkožce. Močí se naplňuje předkožkový vak a smegma se může močí z vaku vyplachovat a dítě nemusí mít potíže až do první erekce. V souvislosti s erekcí musí být často řešeny zbytky slepenin nebo srůstů v předkožkovém vaku.
+Mezitím se v předkožkovém vaku hromadí smegma. Občasný [zánět vaku][3] _(balanitis)_ vede k podráždění předkožky a k jejímu pozánětlivému jizvení. Opakované záněty vaku vyústí ve významné zúžení zevního ústí předkožky _(fimóza, phimosis)_.
 
-**Řešením fimózy je jedině operace.** Celá předkožka se musí odstranit (operace se jmenuje obřízka). Po operaci jsou odstraněny všechny předchozí problémy. Žalud je však trvale obnažen, sliznice není kryta kůží.
+{id="fimoza"}
 
-Nejen Židé však provádějí obřízku rituálně z náboženských důvodů. Výhodou trvale obnažené sliznice žaludu je nemožnost tvorby smegmatu. A snad i snížení citlivosti žaludu s následným prodloužením doby sexuálního aktu.
+## Zúžení zevního ústí předkožky – fimóza
 
-V případě opakované balanitidy dospělého muže se rozvíjí rovněž nejprve jizvení a postupně až úplné zúžení zevního otvoru předkožky – _fimóza_. Často se jedná o jeden z prvních [příznaků nepoznané cukrovky][4] nebo o velmi zanedbanou hygienu.
+Dojde-li k zúžení zevního ústí předkožky, nelze již předkožku přetáhnout přes žalud. Otvor v předkožce je menší než velikost žaludu. Při močení se ztenčuje proud, který je limitovaný otvorem v předkožce. Močí se naplňuje předkožkový vak a smegma se může močí z vaku vyplachovat. Dítě nemusí mít potíže až do první erekce. V souvislosti s erekcí musí být často řešeny zbytky slepenin nebo srůstů v předkožkovém vaku.
 
-Při částečném zúžení zevního ústí předkožky může vzniknout stav, kdy se žalud protlačí zúženým místem ven, ale již nelze předkožku přetáhnout zpět a předkožka zaškrtí žalud. Vznikne dramaticky vypadající stav, žalud rychle otéká a zarudne, předkožka jej zaškrcuje, penis je bolestivý. Tento stav se nazývá _parafimóza_ a vyžaduje neodkladné chirurgické nebo urologické ošetření.
+{class="important"}
+
+**Řešením fimózy je jedině operace (obřízka).** Musí se odstranit celá předkožka. Po operaci jsou odstraněny všechny předchozí problémy. Žalud je však trvale obnažen, sliznice není kryta kůží.
+
+{class="example"}
+
+Nejen Židé však provádí obřízku rituálně z náboženských důvodů. Výhodou trvale obnažené sliznice žaludu je nemožnost tvorby smegmatu. A snad i snížení citlivosti žaludu s následným prodloužením doby sexuálního aktu.
+
+V případě opakované balanitidy dospělého muže se rovněž postupně rozvíjí jizvení, až do úplného zúžení zevního otvoru předkožky _(fimózy)_. Často se jedná o jeden z prvních [příznaků nepoznané cukrovky][4] nebo o velmi zanedbanou hygienu.
+
+Při částečném zúžení zevního ústí předkožky může vzniknout stav, kdy se žalud protlačí zúženým místem ven, ale předkožku již nelze přetáhnout zpět – předkožka zaškrtí žalud. Vznikne dramaticky vypadající stav, žalud rychle otéká a zarudne, předkožka jej zaškrcuje, penis je bolestivý. Tento stav se nazývá _parafimóza_ a vyžaduje neodkladné chirurgické nebo urologické ošetření.
 
 {id="otazky" var="inputvar-otazky_h"}
 
