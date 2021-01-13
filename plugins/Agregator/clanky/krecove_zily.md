@@ -11,13 +11,13 @@
 
 Vznik křečových žil dolních končetin lze preventivně ovlivnit. Již vzniklé varixy je možno odstranit. Po operaci je nutné opět preventivně dbát na to, aby se varixy znovu nevytvořily.
 
-{class="example"}
-
-Krev je vypuzována srdečním svalem a tepnami je přenášena [pod určitým tlakem][1] k cílovým orgánům. Po předání kyslíku a živin se krev vrací žílami zpět k srdci. Narozdíl od tepen **krev žílami teče pasivně** a není poháněna srdcem.
+Na dolních končetinách jsou dva žilní systémy – hluboký a povrchový. Změny na povrchovém systému bývají viditelné a někdy i bolestivé. Rozšířené rozsáhlé žilní městky často hyzdí dolní končetiny deformací a barevně. Někdy se mohou městky [zanítit][3] a být velmi bolestivé. Drobné rozšířené žilky (metličky) působí nepříjemně kosmeticky.
 
 {id="spravna\_a\_narusena\_funkce"}
 
 ## Správná a narušená funkce žil
+
+Krev je vypuzována srdečním svalem a tepnami je přenášena [pod určitým tlakem][1] k cílovým orgánům. Po předání kyslíku a živin se krev vrací žílami zpět k srdci. Narozdíl od tepen **krev žílami teče pasivně** a není poháněna srdcem.
 
 Pro správnou funkci žil je nutný průtok krve. Krev se v žíle pohybuje pouze samospádem (zemskou přitažlivostí) nebo opačným směrem stlačením žíly okolními svaly. Aby se krev pohybovala pouze požadovaným směrem, jsou v žílách **jednosměrné chlopně**.
 
@@ -38,28 +38,20 @@ Nefunkční chlopně umožní v klidu pohyb krve dolů (obrázek 1:c). Při stla
 
 ## Léčení křečových žil
 
-n/a
+V počátku onemocnění je možno zpomalit tvorbu varixů pomocí léků. Vyvinuté varixy je možné odstranit chirurgicky.
 
-Na dolních končetinách jsou dva žilní systémy – hluboký a povrchový. Změny na povrchovém systému bývají viditelné a někdy i bolestivé. Rozšířené rozsáhlé žilní městky často hyzdí dolní končetiny deformací a barevně. Někdy se mohou městky [zanítit][3] a být velmi bolestivé. Drobné rozšířené žilky (metličky) působí nepříjemně kosmeticky.
-
-Existuje několik metod, jak varixy odstranit:
-
-  * Pomocí léků, které ovlivní žilní stěnu tak, aby se více neuvolňovala. Stávající stav se tedy nadále sice nezlepší, ale zpomalí se jeho zhoršování.
-  * Chirurgicky, kdy je rozšířená žíla odstraněna i s varixy. Nejvhodnější metodu vždy **individuálně po vyšetření doporučí odborný lékař**. Podmínkou úspěšného řešení povrchního žilního systému je správná funkčnost hlubokého žilního systému.
+  * Léky ovlivní žilní stěnu tak, aby se více neuvolňovala. Stávající stav se tedy sice nezlepší, ale zpomalí se jeho zhoršování.
+  * Chirurgickým zákrokem je rozšířená žíla odstraněna i s varixy. Nejvhodnější **metodu vždy individuálně doporučí odborný lékař** po vyšetření. Podmínkou úspěšného řešení povrchního žilního systému je správná funkčnost hlubokého žilního systému.
 
 {class="important"}
 
-Chirurgicky, chemicky nebo laserem přerušená žíla vždy zanikne a posléze je nahrazena nově vyrostlou žílou. Nově vzniklá žíla je zdravá, nerozšířená, bez varixů.
+Na konkrétní metodě chirurgického zákroku v podstatě nezáleží. Operačně, chemicky nebo laserem přerušená žíla vždy zanikne a následně je nahrazena nově vyrostlou žílou. Nově vzniklá žíla je zdravá, nerozšířená, bez varixů.
 
 {id="prevence\_vzniku"}
 
 ## Prevence vzniku křečových žil
 
-n/a
-
-{class="important"}
-
-Určitou dobu po odstranění křečových žil se mohou znovu začít objevovat nové varixy. Není to proto, že byla zvolena nesprávná operační metoda nebo nekvalitní výkon. Příčina vzniku nových varixů je v tom, že se pacient po rekonvalescenci navrátil do stejných poměrů, jakými byly způsobeny původní varixy.
+Určitou dobu po odstranění křečových žil se mohou znovu začít objevovat nové varixy. Není to proto, že byla zvolena nevhodná operační metoda nebo že byl proveden nekvalitní výkon. Nové varixy vzniknou v případě, že pacient po operaci nezměnil návyky, které vedly ke vzniku původních varixů.
 
 Zmíněnou rodovou dispozici změnit bohužel nelze. Snížená kvalita vaziva žilní stěny je dána. Je však nutné **dlouhodobě bránit stagnaci krve** v žílách dolních končetin a tím znemožnit nebo zpomalit vznik nových varixů. Největší _nápor na žíly vzniká nehybným stáním_.
 
