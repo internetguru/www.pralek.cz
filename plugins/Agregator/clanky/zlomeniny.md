@@ -41,11 +41,9 @@ Se zlomeninou souvisí krvácení do svalů v jejím okolí. Například krváce
 
 ## Projevy nalomení kosti v okolí kloubů
 
-Nekompletní **zlomeninu zvláště v okolí kloubů nelze laicky rozeznat**. Odlomení, naštípnutí nebo naprasknutí kosti je bolestivé zranění, které se projevuje podobně jako [pohmoždění nebo podvrtnutí kloubu][3].
+Nekompletní **zlomeninu zvláště v okolí kloubů nelze laicky rozeznat**. Odlomení, naštípnutí nebo naprasknutí kosti je bolestivé zranění, které se projevuje podobně jako [pohmoždění nebo podvrtnutí kloubu][3]. Poraněné místo je bolestivé, končetina však může částečně plnit svou funkci.
 
-Poraněné místo je bolestivé, končetina však může částečně plnit svou funkci. [Schopnost plnit funkci][4] je závislá spíše na citlivosti pacienta a jeho schopnosti snášet bolest (práh bolesti mají různí lidé různý) než na typu nalomení kosti.
-
-V rámci první pomoci je vždy vhodné přiložit studený (ledový) obklad na bolestivé místo a končetinu uložit výše, než je zbytek těla. 
+[Schopnost plnit funkci][4] je závislá spíše na citlivosti pacienta a jeho schopnosti snášet bolest (práh bolesti mají různí lidé různý) než na typu nalomení kosti. V rámci první pomoci je vždy vhodné přiložit studený (ledový) obklad na bolestivé místo a končetinu uložit výše, než je zbytek těla. 
 
 {class="example"}
 
@@ -61,7 +59,7 @@ Dlouho obtěžující bolestivost, otoky a nemožnost rychlého návratu k běž
 
 ## Prasklina lebky
 
-Při úrazu hlavy může dojít k [poranění mozku][6] nebo k prasklině lebky nebo obojímu. Závažnost úrazu vždy určuje závažnost poranění mozku. Prasklina lební klenby se běžně samovolně zhojí bez dalších komplikací.
+Při úrazu hlavy může dojít k [poranění mozku][6] nebo k prasklině lebky nebo k obojímu. Závažnost úrazu vždy určuje závažnost poranění mozku. Prasklina lební klenby se běžně samovolně zhojí bez dalších komplikací.
 
 Závažnější problém vzniká při [pronikajícím poranění hlavy][7] s porušením kosti a **vpáčením kostních úlomků do hlavy**. V takovém případě první pomoc spočívá v [neprodleném zavolání záchranky][1] a transportu na specializované lékařské pracoviště.
 
@@ -71,7 +69,7 @@ Závažnější problém vzniká při [pronikajícím poranění hlavy][7] s por
 
 ## Zlomeniny páteře
 
-n/a
+Zlomeniny obratlů patří k nejzávažnějším zlomeninám vůbec. Komplikace a trvalé následky souvisejí s umístěním poraněného obratle a eventuálním poškozením míchy (čím výš tím hůř).
 
 Nejzávažnějším zlomeninám krční páteře při dopravních nehodách předchází správně nastavené opěrky hlavy v kombinaci s bezpečnostními pasy a airbagy. Nic takového však bohužel nebrání [skokanům při skocích do neznámé nebo mělké vody po hlavě][8]. Zlomenina krčního obratle pak souvisí s poškozením míchy a trvalou poruchou hybnosti (upoutání na lůžko nebo v lepším případě na vozík).
 
