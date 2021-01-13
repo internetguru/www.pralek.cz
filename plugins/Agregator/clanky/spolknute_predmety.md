@@ -9,31 +9,37 @@
 
 Spolknutý ostrý předmět většinou nezpůsobí žádné potíže a bez problémů projde zažívacím traktem. Potíže může způsobit spíše větší předmět, který nemusí projít zúženými místy zažívacího traktu. Nejzávažnější poranění způsobí spolknutá kyselina nebo zásada.
 
-{id="spolknute\_ostre\_predmety\_vetsinou\_potize_nezpusobi"}
+{id="spolknute\_ostre\_predmety"}
 
 ## Spolknuté ostré předměty většinou potíže nezpůsobí
 
-n/a
-
-Ostré předměty mohou poranit při kousání jazyk a dutinu ústní. To se stává výjimečně. Při mělnění potravy jsou totiž záhy zjištěny a se stravou vyplivnuty. Eventuelní poranění ústní dutiny nebývá vážné.
-
-Spolknutí ostrých předmětů jako střepů, hřebíků nebo špendlíků v žaludku ani ve střevech nezpůsobí žádné potíže. Stěna střevní uhne před hrotem špendlíku podobně, jako se nepodaří napíchnout žížalu na mokré hladké podložce. Špendlík se ve střevě vždy otočí hlavičkou napřed a putuje spolu se stravou zažívacím traktem a vyjde se stolicí. **Stěna žaludku nebo střevní nebývá hrotem ani ostřím střepu poraněna!** Plochý střep nebo ostří žiletky by mohly teoreticky poranit až konečník při stolici.
+Ostré předměty mohou poranit při kousání jazyk a dutinu ústní. To se stává výjimečně. Při mělnění potravy jsou totiž záhy zjištěny a se stravou vyplivnuty. Eventuální poranění ústní dutiny nebývá vážné.
 
 Při polykání mohou ostré předměty poranit hrtan nebo jícen. Známé je poranění rybí kostí. Mnohem častější a méně známé je však **poranění kuřecí kostí, které bývá spojeno s hltavým způsobem jídla**. Kost v dutině ústní zbrklý jedlík podcení a spolkne spolu se soustem. Takové poranění jícnu může být závažné.
 
-{id="spolknute\_velke\_sousto\_muze\_uviznout\_v\_jicnu"}
+Spolknutí ostrých předmětů jako jsou střepy, hřebíky nebo špendlíky **v žaludku ani ve střevech nezpůsobí žádné potíže**. Stěna střevní uhne před hrotem špendlíku podobně, jako se nepodaří napíchnout žížalu na mokré hladké podložce. Špendlík se ve střevě vždy otočí hlavičkou napřed a putuje spolu se stravou zažívacím traktem a vyjde se stolicí.
+
+{class="important"}
+
+**Stěna žaludku nebo střeva nebývá hrotem ani ostřím střepu poraněna!** Plochý střep nebo ostří žiletky by mohly teoreticky poranit až konečník při stolici.
+
+{id="spolknute\_velke\_sousto"}
 
 ## Spolknuté velké sousto může uvíznout v jícnu
 
-n/a
+Mnohem **závažnější je spolknutí velkého sousta**. Špatně rozmělněné sousto nedostatečně promísené slinami může [uvíznout v jícnu][1]. Typicky to bývá suchý včerejší rohlík nebo kus tuhého masa.
 
-Mnohem závažnější než spolknutí ostrého předmětu je spolknutí velkého sousta. Špatně rozmělněné sousto nedostatečně promísené slinami může [uvíznout v jícnu][1]. Typicky to bývá suchý včerejší rohlík nebo kus tuhého masa. Vzniklá bolest je nejprve pálivá, je doprovázena sliněním. Po určité době se sousto většinou uvolní a sklouzne do žaludku. K tomu většinou pomůže doušek vody.
+Vzniklá bolest je nejprve pálivá a je doprovázena sliněním. Po určité době se sousto většinou uvolní a sklouzne do žaludku. K tomu většinou pomůže doušek vody.
 
-Jestliže se sousto neuvolní, přetrvává tlak za hrudní kostí a nadměrné slinění. Pak je nutné sousto uvolnit speciálním přístrojem – endoskopem (přístroj, kterým lze vidět a ošetřovat uvnitř tělních dutin).
+Jestliže se sousto neuvolní, tak přetrvává tlak za hrudní kostí a nadměrné slinění. V takovém případě je nutné sousto uvolnit endoskopem. Endoskop je speciální přístroj, kterým lze vidět a ošetřovat uvnitř tělních dutin.
 
-Žádné potíže nezpůsobí malým dětem často spolknutá náušnice nebo podobný předmět. Teoreticky by mohla být nebezpečná určitá baterie, kdyby došlo k narušení jejího kovového obalu a obsah by mohl být zdraví škodlivý.
+{id="spolknuti\_u\_deti"}
 
-Spolknutí mince je rovněž u dětí velmi časté. Do velikosti průměru 23 milimetrů (pětikoruna) většinou projdou traktem. Větší **mince může uvíznout v žaludku**; neprojde do střeva. Pak je nutné ji odstranit endoskopicky (popsáno výše). Další místo, kde může mince uvíznout, je [přechod z tenkého do tlustého střeva][1]. Vyjde-li však ze žaludku, bývá její postup podporován zbytkovou stravou a běžně odejde se stolicí rovněž bez komplikací.
+## Spolknutí předmětů u dětí
+
+Spolknutá náušnice nebo podobný předmět dětem žádné potíže nezpůsobí. Teoreticky by mohla být nebezpečná určitá baterie, kdyby došlo k narušení jejího kovového obalu, protože by její obsah mohl být zdraví škodlivý.
+
+Velmi časté je u dětí také spolknutí mince. Do průměru 23 milimetrů (pětikoruna) mince většinou projdou traktem. Větší **mince může uvíznout v žaludku**, tedy neprojde do střeva. Pak je nutné ji odstranit endoskopicky (popsáno výše). Další místo, kde může mince uvíznout, je [přechod z tenkého do tlustého střeva][1]. Vyjde-li však ze žaludku, bývá její postup podporován zbytkovou stravou a běžně odejde se stolicí rovněž bez komplikací.
 
 {class="important"}
 
@@ -43,9 +49,11 @@ Spolknutí mince je rovněž u dětí velmi časté. Do velikosti průměru 23 m
 
 ## Spolknutí kyseliny nebo zásady
 
-n/a
+**Spolknutí silné kyseliny je velmi závažné poranění!** Poleptáním jícnu kyselinou vznikají nenapravitelné škody. V nejlepším případě dochází k zúžení jícnu. [V žaludku již kyselina nevadí][1] – žaludek je na kyselinu zvyklý.
 
-**Spolknutí silné kyseliny je velmi závažné poranění.** Poleptáním jícnu kyselinou vznikají nenapravitelné škody (v nejlepším případě zúžení jícnu). [V žaludku již kyselina nevadí][1] – žaludek je na kyselinu zvyklý. Jako první pomoc je třeba kyselinu ředit nebo šetrně neutralizovat a **nikdy nevyvolávat zvracení** (nové poleptání jícnu).
+{class="important"}
+
+Jako první pomoc je třeba kyselinu ředit nebo šetrně neutralizovat a **nikdy nevyvolávat zvracení**. To by vedlo k dalšímu poleptání jícnu.
 
 {id="otazky" var="inputvar-otazky_h"}
 
