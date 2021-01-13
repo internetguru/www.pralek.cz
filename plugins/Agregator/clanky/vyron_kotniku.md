@@ -17,20 +17,20 @@ Další častou příčinou bývá **neřízený pád či hrubé násilí** (nap
 
 ## Typy podvrtnutí kotníků a názvosloví
 
-n/a
+Podle směru působícího násilí dochází k podvrtnutí vnitřního či vnějšího kotníku. V případě většího násilí může dojít k podvrtnutí či dokonce k vymknutí obou kotníků.
 
-Podvrtnutí, vyvrtnutí, zvrtnutí nebo odborně _distorze_ zevního kotníku
+Podvrtnutí zevního kotníku
 :   Nejčastěji dochází k zatlačení nohy směrem pod vnitřní kotník. Tím se může poranit (pouze natáhnout nebo prasknout) kloubní pouzdro a někdy i vaz pod zevním kotníkem.
 
-Podvrtnutí, zvrtnutí, vyvrtnutí nebo odborně _distorze_ vnitřního kotníku
+Podvrtnutí vnitřního kotníku
 :   Jestliže násilí působí opačně (tlačí nohu pod zevní kotník), pak se poraní kloubní pouzdro nebo vazy pod vnitřním kotníkem. 
 
-Podvrtnutí, zvrtnutí nebo vyvrtnutí obou kotníků (hlezna)
-:   Větší násilí může [poranit hlezno][1] oboustranně. Jedná se o závažnější úraz, rychle nastupuje otok a brzy se ukazuje i krevní výron. Laicky bývá také označován jako „výron“. Vzhledem k nestabilitě kloubu lze mluvit i o **vymknutí (vykloubení) hlezna** – _hlezenného kloubu_.
+Podvrtnutí obou kotníků (hlezna)
+:   Větší násilí může [poranit hlezno][1] oboustranně. Jedná se o závažnější úraz, rychle nastupuje otok a brzy se ukazuje i krevní výron. Vzhledem k nestabilitě kloubu lze mluvit i o **vymknutí (vykloubení) hlezna** – _hlezenného kloubu_.
 
-{class="example"}
+{class="important"}
 
-Často se zvrtnutí nesprávně laicky označuje jako _podvrknutí kotníku_, _vyvrknutí kotníku_ či _zvrknutí kotníku_.
+Podvrtnutí, vyvrtnutí, zvrtnutí nebo odborně _distorze_ označují stejný úraz. Ten bývá laicky také označován jako „výron“. Někdy se název úrazu komolí jako _podvrknutí kotníku_, _vyvrknutí kotníku_ či _zvrknutí kotníku_.
 
 **Hlezenný kloub** je velmi zatěžovaný složitý kloub. Je udržován ve správném postavení pevným kloubním pouzdrem a velmi pevnými vazy. Vazy vzájemně spojují tři kosti:
 
@@ -52,15 +52,15 @@ S vyhledáním odborného vyšetření lze [vyčkat na vhodnou dobu][3]. Nejlép
 
 ## Možnosti léčení podvrtnutého kotníku
 
-n/a
+Léčba poraněného kotníku je dvojí. Lehce poraněný kotník je možné začít záhy rozcvičovat. U závažnějších poranění je vhodný naopak klid a eventuální fixace.
 
 Trenér pří úrazu hlezna doporučí **léčení rozcvičením**. Svým způsobem má pravdu. Skutečně po krátkodobém zklidnění dojde rozcvičením k rychlému ústupu potíží. Kloubní pouzdro a vazy však zůstanou volnější, větší než byly původně a tím je kloub méně stabilní. Lze tedy předpokládat, že dojde k opakování (recidivě) úrazu při každé sebemenší příležitosti.
 
 Jiná možnost je **přiložení ortézy**. Ortéza limituje pohyb hlezna v požadovaném směru, umožňuje však hybnost ve směru kolmém a umožňuje zatěžování kloubu. Tím se rovněž urychluje léčení poraněných měkkých tkání a urychlí se návrat ke sportu.
 
-{class="example"}
+{class="important"}
 
-Dlouhodobé [preventivní nošení ortézy][4] je však sporné. V případě běžné zátěže nahrazuje ortéza oslabený vaz a ten proto nesílí a nezpevňuje se. V případě nadměrného násilí nebo nečekaného úrazu nezabrání ortéza recidivě.
+Dlouhodobé [preventivní nošení ortézy][4] je nevhodné. V případě běžné zátěže nahrazuje ortéza oslabený vaz a ten proto nesílí a nezpevňuje se. V případě nadměrného násilí nebo nečekaného úrazu nezabrání ortéza recidivě.
 
 **Správně provedené tejpování** může podpořit lehce poškozené kloubní pouzdro nebo vaz. Vzhledem k velkým silám v oblasti hlezna ale spíše jen symbolicky.
 
