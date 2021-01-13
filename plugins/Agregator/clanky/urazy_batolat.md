@@ -19,8 +19,6 @@ Pády malých dětí jsou někdy velmi bizarní. Dítě se často při pádu př
 
 Dítě, které se učí chodit, padá velmi často. Vzhledem k nedokonalé koordinaci pohybů nestihne při pádu natáhnout ruce dopředu a padá na hlavu nebo dokonce přes hlavu přepadává. Takový pád na trávníku nebo na koberci většinou nezpůsobí žádný úraz. Kosti jsou dosud velmi pružné a [ke zlomenině doje jen zřídka][1].
 
-Typické problémy při pádu malých dětí:
-
 Jde-li malé dítě s opatrovníkem za ruku a padá
 :   Pak jej opatrovník pozvedá za ruku, aby předešel pádu. Jestli se dítě pootočí setrvačností kolem osy své ruky _(pronatio dolorosa)_, snadno doje k vykloubení hlavičky kosti vřetení z vazivového poutka v lokti _(luxatio dolorosa)_. 
 :   Následně dítě poraněnou končetinu přestane používat a jakákoli manipulace je velmi bolestivá. Zkušený chirurg jednoduchým manévrem napraví vykloubení. Jistě je však jednodušší **nikdy dítě nezvedat za jednu ruku**.
@@ -52,9 +50,7 @@ Do prstu přitéká normálně tepenná krev, zaškrcení však způsobilo, že 
 
 ## Spáleniny a jejich prevence
 
-Nejzávažnějšími úrazy jsou [spáleniny][8].
-
-Co dělat, aby ke spálenině malého dítěte vůbec nedošlo:
+Nejzávažnější dětské úrazy jsou [spáleniny][8], neboť zanechávají trvalé následky. Spáleninám malých dětí je potřeba aktivně předcházet.
 
 Dočasně nepoužívat ubrus
 :   Jestliže dítě dosáhne na ubrus, jistě se jej při pádu chytne a zvrhne na sebe vše co je na stole včetně horkých nápojů.
