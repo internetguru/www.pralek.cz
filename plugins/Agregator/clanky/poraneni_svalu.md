@@ -23,7 +23,7 @@ K natažení nebo natržení svalu nejčastěji dochází:
 
 ## Svalové oblasti náchylné k natržení nebo natažení svalu
 
-n/a
+Typické oblasti pro natažení či natržení svalu jsou lýtko a vnitřní strana stehna. U ostatních sportů záleží na umístění přetíženého svalu.
 
 Velmi časté je **natržení svalu v lýtkové oblasti** (výjimečně natažení). Projevuje se prudkou bolestí v poraněném místě, případně s citelným prasknutím v okamžiku přetížení. Brzy se vyvíjí otok, často se ukáže i modřina (krevní výron). Bolest znemožňuje chůzi, [nelze stoupnout na špičku nohy][2].
 
