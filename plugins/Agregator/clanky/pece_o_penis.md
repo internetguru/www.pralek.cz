@@ -5,8 +5,6 @@
 
 # Péče o penis, hygiena chlapců, fimóza, obřízka
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="penis, moč, děti, hygiena, prevence, zánět, cukrovka, strach"}
 
 Správná péče o penis již od útlého věku je podmínkou pro jeho zdravý vývoj. Zamezí se tím vzniku zánětu a hlavně následných komplikací a potíží v dospívání.
@@ -27,7 +25,7 @@ Tím je žalud kryt dvěma vrstvami kůže – jedna vrstva směrem k žaludu a 
 
 {class="important"}
 
-Během koupele je nutné přetáhnout předkožku přes penis a předkožkový vak omýt vlažnou vodou. V případě zanedbání hygieny se smegma objeví již během několika dnů. **Pravidelnou hygienou se smegma vůbec neobjeví.**
+Během koupele je nutné přetáhnout předkožku přes žalud a předkožkový vak omýt vlažnou vodou. V případě zanedbání hygieny se smegma objeví již během několika dnů. **Pravidelnou hygienou se smegma vůbec neobjeví.**
 
 {id="slepeniny"}
 
