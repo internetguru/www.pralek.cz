@@ -5,8 +5,6 @@
 
 # Závažnost bodných a střelných poranění
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="poranění, krvácení, kůže-podkoží, pohyb, břicho, cévy"}
 
 Poranění zabodnutým předmětem nebo zástřel je natolik závažné podle toho, jak a které vnitřní orgány jsou poškozeny.
@@ -35,7 +33,7 @@ Velmi ostré jsou například skleněné střepy, které při pronikání kůži
 
 **[Drobná ranka][1] na zápěstí může souviset se závažným poraněním šlach, cév nebo nervů.** [Při poranění ruky][2] je třeba vždy vyzkoušet hybnost a citlivost prstů. V prstech totiž nejsou žádné svaly. Prsty jsou složeny pouze z kostí, kloubů, vazů, šlach, tuku, kůže a nehtů. Pohybové svaly prstů jsou uloženy na předloktí. K prstům vedou pevné šlachy, které pohyb přenáší. V případě přerušení některé šlachy nelze provést pohyb příslušným prstem. 
 
-{id="zabodnuty\_nebo\_uvizly\_predmet"}
+{id="zabodnuty\_nebo\_uvizly_predmet"}
 
 ## Zabodnutý nebo uvízlý předmět v těle
 
@@ -49,7 +47,7 @@ Střepina však může působit potíže například [drážděním nervu][5]. P
 
 {class="example"}
 
-Střelné poranění je natolik závažné podle toho, jaké tkáně jsou projektilem zdevastované nebo poškozené ([průstřel hrudníku][6]). Přežije-li postřelený člověk, cílem chirurgů na operačním sále je napravovat škody, které způsobila energie projektilu.
+Střelné poranění je závažné podle toho, jaké tkáně jsou projektilem zdevastované nebo poškozené ([průstřel hrudníku][6]). Přežije-li postřelený člověk, cílem chirurgů na operačním sále je napravovat škody, které způsobila energie projektilu.
 
 Spojují se roztříštěné kosti, sešívají se porušené cévy, šlachy, svaly, nervy. Všechny části často roztrhaného projektilu nebo všechny broky není ani možné ani nutné odstranit. Vyjmutí projektilu samotného bývá prioritou pouze v amerických filmech.
 
