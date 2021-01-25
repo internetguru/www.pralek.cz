@@ -5,15 +5,13 @@
 
 # Zvláštnosti dětských zlomenin
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="zlomeniny, děti, úraz, poranění, pohyb, první pomoc"}
 
 Většina dětských zlomenin se hojí dobře, rychle a bez trvalých následků, snad jen s výjimkou zlomenin lokte. Dětské zlomeniny bývají někdy laicky těžko rozpoznatelné.
 
 Dětská kost obsahuje mnohem více vaziva a chrupavky než [kost dospělého člověka][1]. Proto je mnohem pružnější a ohebnější než dospělá kost. [Bizarně vyhlížející pády dětí][2] většinou končí pouze pohmožděním. Věkem v kosti přibývá složka kostěná na úkor složky chrupavčité. Tím se mění vlastnosti kostí – přibývá pevnost a mizí pružnost.
 
-{id="zlomenina\_zapesti\_a\_predlokti"}
+{id="zlomenina\_zapesti\_a_predlokti"}
 
 ## Zlomenina zápěstí a předloktí
 
@@ -37,7 +35,7 @@ Jedná se o častou dětskou zlomeninu způsobenou nejčastěji pádem z kola ne
 
 První pomoc spočívá v **uložení předloktí postižené strany do šátkového obvazu** a transportu na chirurgii.
 
-Zlomeniny i s posunem okrajů kostí se zhojí většinou dobře a bez následků. Eventuální **nerovnosti se samy vyrovnají**. Hojení trvá asi měsíc – čím mladší dítě, tím je zlomenina dříve zhojena. Klíční kost se někdy láme i při porodu. V takovém případě se zhojí během několika dní.
+Zlomeniny i s posunem okrajů kostí se zhojí většinou dobře a bez následků. Eventuální **nerovnosti se samy vyrovnají**. Hojení trvá asi měsíc – čím mladší dítě, tím je zlomenina dříve zhojena. Klíční kost se někdy láme i při porodu. V takovém případě se samovolně zhojí během několika dní.
 
 {id="zlomenina\_horniho\_konce\_pazni\_kosti"}
 
