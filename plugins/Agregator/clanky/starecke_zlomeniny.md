@@ -5,8 +5,6 @@
 
 # Typické stařecké zlomeniny
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="poranění, bolest, senioři, úraz, zlomeniny, pohyb"}
 
 Kosti se ve stáří stávají křehké a málo pevné. Mohou se tedy lámat i při velice malém násilí. To je způsobeno ztrátou chrupavčité složky v kostech, později i ztrátou pevné kostěné složky (takzvané řídnutí kostí).
@@ -15,13 +13,13 @@ Kosti se ve stáří stávají křehké a málo pevné. Mohou se tedy lámat i p
 
 ## Zlomenina obratle
 
-Po pádu na zadek může snadno dojít ke zlomenině obratle. Nejčastěji se láme poslední hrudní obratel nebo 1. či 2. obratel bederní (zhruba na úrovni ledvin). 
+Po pádu na zadek může snadno dojít ke zlomenině obratle. Nejčastěji se láme poslední hrudní obratel nebo 1. či 2. obratel bederní (zhruba na úrovni ledvin).
 
 [Bolestivost bederní páteře][1] po pádu přisuzuje pacient pohmoždění. Obratel se však násilím zbortil. Většinou nedochází k poškození míchy, není tedy nebezpečí ochrnutí dolních končetin. Někdy může dojít k deformitě páteře (až ke vzniku hrbu).
 
 {class="important"}
 
-První pomocí po zlomení obratle je [lék proti bolesti][2]. **[Transport k vyšetření][3] musí být vleže** – sanitou. Léčení pomocí zvláštního korzetu trvá asi 3 měsíce. Operační řešení je nutné výjimečně a trvalé následky nebývají.
+První pomocí po zlomení obratle je [lék proti bolesti][2]. **[Transport k vyšetření][3] musí být vleže** – sanitou. Léčení pomocí zvláštního korzetu trvá asi 3 měsíce. Operační řešení je nutné výjimečně a trvalé následky nebývají. 
 
 {id="zlomenina\_krcku\_stehenni_kosti"}
 
@@ -35,7 +33,7 @@ Staří lidé často nemohou pro [artrózu kloubů][4] dobře chodit, mohou vša
 
 {class="important"}
 
-První pomoc spočívá v podání léku proti bolesti a transportování k vyšetření opět _vleže_ – sanitou. Léčení bývá operační, následuje rehabilitace. Zhojení je většinou do 6 týdnů a trvalé následky se vyskytují zřídka.
+První pomoc spočívá v podání léku proti bolesti a transportu k vyšetření opět _vleže_ – sanitou. Léčení bývá operační, následuje rehabilitace. Zhojení je většinou do 6 týdnů a trvalé následky se vyskytují zřídka.
 
 {id="zlomenina_zapesti"}
 
