@@ -5,25 +5,23 @@
 
 # Zánět červovitého přívěsku slepého střeva
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
-
 {kw="břicho, střevo, zánět, zvracení, teplota"}
 
 Mnohotvárnost příznaků zánětu červovitého přívěsku slepého střeva (hovorově slepák) bývá příčinou komplikací nebo zanedbání jeho léčení. V případě nejasných bolestí břicha je třeba vyhledat odborného lékaře (chirurga).
 
 Toto onemocnění je řazeno mezi _náhlé příhody břišní_. To znamená, že nejčastějším řešením bývá operace. Přestože se jedná o známé a běžné chirurgické onemocnění, bývá doprovázeno řadou nejasností, chyb, omylů a bohužel někdy končívá i tragicky. Důvodem je **značná mnohotvárnost příznaků** v začátku i v průběhu onemocnění.
 
-Předně [tenké střevo ústí do tlustého střeva v pravém podbřišku][1]. To však neplatí vždy! Spodní část tlustého střeva se nazývá slepé střevo a z něj vychází červovitý přívěsek _(appendix vermiformis)_. Apendix však odstupuje jakýmkoli směrem! Tento přívěsek je ten, který se může zanítit. Laicky se nazývá jako _slepák_, správně zánět červovitého přívěsku slepého střeva neboli _apendicitida_ (z latinského _appendicitis_).
+[Tenké střevo ústí do tlustého střeva v pravém podbřišku][1]. To však neplatí vždy! Spodní část tlustého střeva se nazývá slepé střevo a z něj vychází červovitý přívěsek _(appendix vermiformis)_. Apendix však odstupuje jakýmkoli směrem! Tento přívěsek je ten, který se může zanítit. Laicky se nazývá jako _slepák_, správně zánět červovitého přívěsku slepého střeva neboli _apendicitida_ (z latinského _appendicitis_).
 
-{id="pocatecni\_priznaky"}
+{id="pocatecni_priznaky"}
 
 ## Počáteční příznaky zánětu přívěsku slepého střeva
 
 Pro zánět přívěsku slepého střeva **neexistují žádné typické příznaky**. Popsané příznaky se mohou vyskytovat jednotlivě nebo se jakkoli kombinovat. Mohou být zcela nenápadné nebo náhle vzplanou v plné síle a mohou trvat stejně tak hodinu jako celé dny.
 
-Zánět může začít tak, že zdravý člověk večer usne a v noci jej probudí **prudká nesnesitelná [bolest břicha][2]**, ale může také začít jako občasné **pobolívání břicha**, které vždy po určité době samo ustane. Umístění bolesti bývá různé, nejčastěji kolem pupku. Do pravého podbřišku se bolest stěhuje spíše později.
+Zánět může začít tak, že zdravý člověk večer usne a v noci jej probudí **prudká nesnesitelná [bolest břicha][2]** , ale může také začít jako občasné **pobolívání břicha**, které vždy po určité době samo ustane. Umístění bolesti bývá různé, nejčastěji kolem pupku. Do pravého podbřišku se bolest stěhuje spíše později. 
 
-Počátek zánětu se může projevovat také pouze pocitem **zažívací nepohody**, nepopsatelným pocitem že je cosi v nepořádku _([střevní diskomfort][3])_. [**Nevolnost nebo zvracení**][4] bývá častým doprovodným znakem zánětu stejně jako **[nechutenství][5]**. [**Průjem**][4] se objevuje spíše výjimečně a [**teplota**][6] bývá často normální nebo jen lehce zvýšená.
+Počátek zánětu se může projevovat také pouze pocitem **zažívací nepohody**, nepopsatelným pocitem že je cosi v nepořádku _([střevní diskomfort][3])_ . [**Nevolnost nebo zvracení**][4] bývá častým doprovodným znakem zánětu stejně jako **[nechutenství][5]** . [**Průjem**][4] se objevuje spíše výjimečně a [**teplota**][6] bývá často normální nebo jen lehce zvýšená. 
 
 {id="pozdejsi\_priznaky\_apendicitidy"}
 
@@ -104,3 +102,4 @@ n/a
  [8]: bakterie
  [9]: mocove_kameny
  [10]: vyvoj_zanetu
+
