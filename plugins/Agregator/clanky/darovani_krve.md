@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859868574145505" data-type="article" data-image="/files/preview/koutek/darcovstvi_krve/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-05-25" mtime="2009-05-25" data-top="921" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="darovani\_krve" short="Darování krve"}
+{ctime="2009-05-25" mtime="2021-02-03" data-top="921" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="darovani\_krve" short="Darování krve"}
 
 # Dárcovství krve, krevní plazmy a kostní dřeně
 
@@ -25,18 +25,18 @@ Odběrem kapky krve z prstu (nástrojem na 1 použití) je vyšetřena hladina k
 
 Odběr krve trvá jen několik minut a provádí ho transfuzní sestra. Po odběru dostane dárce malé občerstvení a potvrzení o odběru. Odebraná krev je vyšetřena a pokračuje na další zpracování.
 
-  1. Při odběru napíchne transfuzní sestra loketní žílu jehlou na 1 použití a odebere krev do vaku na 1 použití.
-    - Množství odebírané krve je necelého půl litru.
-    - Jehla je velmi ostrá, takže [vpich téměř nebolí][1].
-    - V průběhu odběru již **dárce nevnímá žádnou bolest**. Většinou se dobře baví s atraktivní a milou sestrou.
-    - Odběr trvá 5 až 7 minut.
-  2. Po odběru dostává dárce občerstvení – svačinu, kávu a čaj.
-    - Dostává také potvrzení o darování krve a má nárok na pracovní volno.
-    - Dárce rovněž dostává potvrzení na odpis z daní na určitou finanční částku.
-    - Kromě toho dárcovství krve různě podporují zdravotní pojišťovny.
-  3. Odebraná krev je následně rozložena na jednotlivé složky (zvláštní krvinky a [krevní plazmu][2]).
-    - Jednotlivé složky krve navracejí zdraví jinak neléčitelně nemocným lidem.
-    - Plná krev se dnes již podává spíše výjimečně.
+  1. Při odběru napíchne transfuzní sestra loketní žílu jehlou na 1 použití a odebere krev do vaku na 1 použití. 
+      * Množství odebírané krve je necelého půl litru.
+      * Jehla je velmi ostrá, takže [vpich téměř nebolí][1].
+      * V průběhu odběru již **dárce nevnímá žádnou bolest**. Většinou se dobře baví s atraktivní a milou sestrou.
+      * Odběr trvá 5 až 7 minut.
+  2. Po odběru dostává dárce občerstvení – svačinu, kávu a čaj. 
+      * Dostává také potvrzení o darování krve a má nárok na pracovní volno.
+      * Dárce rovněž dostává potvrzení na odpis z daní na určitou finanční částku.
+      * Kromě toho dárcovství krve různě podporují zdravotní pojišťovny.
+  3. Odebraná krev je následně rozložena na jednotlivé složky (zvláštní krvinky a [krevní plazmu][2]). 
+      * Jednotlivé složky krve navracejí zdraví jinak neléčitelně nemocným lidem.
+      * Plná krev se dnes již podává spíše výjimečně.
 
 Technicky není možné, aby se dárce během odběru krve nakazil krví přenosnou chorobou. Všechny vpichy jsou pouze jehlami na jedno použití. Odebraná krev je náležitě vyšetřena. Přesto se bohužel může někdy stát, že je nakažen příjemce krve nebo krevního derivátu. **Nikdy však nemůže být nakažen dárce.**
 
