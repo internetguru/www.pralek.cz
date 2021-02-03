@@ -7,7 +7,7 @@
 
 {kw="poranění, krvácení, kůže-podkoží, pohyb, břicho, cévy"}
 
-Poranění zabodnutým předmětem nebo zástřel je natolik závažné podle toho, jak a které vnitřní orgány jsou poškozeny.
+Poranění zabodnutým předmětem nebo zástřel je závažné podle toho, jak a které vnitřní orgány jsou poškozeny.
 
 {id="poraneni\_tupym\_predmetem"}
 
