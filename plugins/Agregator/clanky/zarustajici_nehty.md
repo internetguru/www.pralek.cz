@@ -1,10 +1,9 @@
+
 {data-fbcommentid="1859959790803050" data-type="article" data-image="/files/preview/koutek/zarustajici_nehty/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-04-19" mtime="2009-04-19" data-top="985" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zarustajici\_nehty" short="Zarůstající nehty"}
+{ctime="2009-04-19" mtime="2021-02-03" data-top="985" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zarustajici\_nehty" short="Zarůstající nehty"}
 
 # Zarůstající nehty na palcích dolních končetin
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="nehet, hygiena, zánět, prevence, teplota, mikroorganizmy, pohyb"}
 
@@ -42,7 +41,7 @@ Jako komplikace se mohou vyskytnout i celkové známky zánětu se zánětem lym
 
 ## Řešení a prevence zarůstajících nehtů
 
-Nejdříve je potřeba zánět potlačit a poté aktivně řešit prevenci, aby se problém nevrátil. Potlačení zánětu se provádí na doporučení lékaře pomocí hypermanganové nebo betadinové koupele, případně vlhkou komůrkou. 
+Nejdříve je potřeba zánět potlačit a poté aktivně řešit prevenci, aby se problém nevrátil. Potlačení zánětu se provádí na doporučení lékaře pomocí hypermanganové nebo betadinové koupele, případně vlhkou komůrkou.
 
 Hypermanganová nebo betadinová koupel
 :   Ve vlažné vodě s příměsí zvolené desinfekce.
@@ -111,3 +110,4 @@ n/a
  [3]: vyvoj_zanetu
  [4]: teplota
  [5]: lymfaticke_uzliny
+
