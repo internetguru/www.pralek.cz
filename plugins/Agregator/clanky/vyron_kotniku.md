@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859930834139279" data-type="article" data-image="/files/preview/koutek/podvrtnuti_kotniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-12-23" mtime="2009-12-23" data-top="942" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vyron\_kotniku" short="Výron kotníku"}
+{ctime="2009-12-23" mtime="2021-02-03" data-top="942" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vyron\_kotniku" short="Výron kotníku"}
 
 # Vyvrtnutí a podvrtnutí kotníku
 
@@ -23,7 +23,7 @@ Podvrtnutí zevního kotníku
 :   Nejčastěji dochází k zatlačení nohy směrem pod vnitřní kotník. Tím se může poranit (pouze natáhnout nebo prasknout) kloubní pouzdro a někdy i vaz pod zevním kotníkem.
 
 Podvrtnutí vnitřního kotníku
-:   Jestliže násilí působí opačně (tlačí nohu pod zevní kotník), pak se poraní kloubní pouzdro nebo vazy pod vnitřním kotníkem. 
+:   Jestliže násilí působí opačně (tlačí nohu pod zevní kotník), pak se poraní kloubní pouzdro nebo vazy pod vnitřním kotníkem.
 
 Podvrtnutí obou kotníků (hlezna)
 :   Větší násilí může [poranit hlezno][1] oboustranně. Jedná se o závažnější úraz, rychle nastupuje otok a brzy se ukazuje i krevní výron. Vzhledem k nestabilitě kloubu lze mluvit i o **vymknutí (vykloubení) hlezna** – _hlezenného kloubu_.
