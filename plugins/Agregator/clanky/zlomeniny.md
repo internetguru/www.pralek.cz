@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859961224136240" data-type="article" data-image="/files/preview/koutek/zlomeniny_kosti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-10-22" mtime="2009-10-22" data-top="939" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zlomeniny" short="Zlomeniny"}
+{ctime="2009-10-22" mtime="2021-02-03" data-top="939" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zlomeniny" short="Zlomeniny"}
 
 # Projevy zlomenin kostí
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="zlomeniny, úraz, poranění, krvácení, pohyb, rehabilitace"}
 
@@ -43,7 +41,7 @@ Se zlomeninou souvisí krvácení do svalů v jejím okolí. Například krváce
 
 Nekompletní **zlomeninu zvláště v okolí kloubů nelze laicky rozeznat**. Odlomení, naštípnutí nebo naprasknutí kosti je bolestivé zranění, které se projevuje podobně jako [pohmoždění nebo podvrtnutí kloubu][3]. Poraněné místo je bolestivé, končetina však může částečně plnit svou funkci.
 
-[Schopnost plnit funkci][4] je závislá spíše na citlivosti pacienta a jeho schopnosti snášet bolest (práh bolesti mají různí lidé různý) než na typu nalomení kosti. V rámci první pomoci je vždy vhodné přiložit studený (ledový) obklad na bolestivé místo a končetinu uložit výše, než je zbytek těla. 
+[Schopnost plnit funkci][4] je závislá spíše na citlivosti pacienta a jeho schopnosti snášet bolest (práh bolesti mají různí lidé různý) než na typu nalomení kosti. V rámci první pomoci je vždy vhodné přiložit studený (ledový) obklad na bolestivé místo a končetinu uložit výše, než je zbytek těla.
 
 {class="example"}
 
