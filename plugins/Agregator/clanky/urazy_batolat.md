@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859953800803649" data-type="article" data-image="/files/preview/koutek/urazy_deti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-08-11" mtime="2009-08-11" data-top="940" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="urazy\_batolat" short="Úrazy batolat"}
+{ctime="2009-08-11" mtime="2021-02-03" data-top="940" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="urazy\_batolat" short="Úrazy batolat"}
 
 # Typické úrazy malých dětí
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="poranění, úraz, první pomoc, zlomeniny, prevence, děti, pohyb"}
 
@@ -20,7 +18,7 @@ Pády malých dětí jsou někdy velmi bizarní. Dítě se často při pádu př
 Dítě, které se učí chodit, padá velmi často. Vzhledem k nedokonalé koordinaci pohybů nestihne při pádu natáhnout ruce dopředu a padá na hlavu nebo dokonce přes hlavu přepadává. Takový pád na trávníku nebo na koberci většinou nezpůsobí žádný úraz. Kosti jsou dosud velmi pružné a [ke zlomenině doje jen zřídka][1].
 
 Jde-li malé dítě s opatrovníkem za ruku a padá
-:   Pak jej opatrovník pozvedá za ruku, aby předešel pádu. Jestli se dítě pootočí setrvačností kolem osy své ruky _(pronatio dolorosa)_, snadno doje k vykloubení hlavičky kosti vřetení z vazivového poutka v lokti _(luxatio dolorosa)_. 
+:   Pak jej opatrovník pozvedá za ruku, aby předešel pádu. Jestli se dítě pootočí setrvačností kolem osy své ruky _(pronatio dolorosa)_, snadno doje k vykloubení hlavičky kosti vřetení z vazivového poutka v lokti _(luxatio dolorosa)_.
 :   Následně dítě poraněnou končetinu přestane používat a jakákoli manipulace je velmi bolestivá. Zkušený chirurg jednoduchým manévrem napraví vykloubení. Jistě je však jednodušší **nikdy dítě nezvedat za jednu ruku**.
 
 Pád na ostrou hranu
