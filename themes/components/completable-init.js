@@ -27,9 +27,8 @@
           const article = currentFile.value.match(/(clanky\/)(.*)/)[2]
           path = "/" + article + "?usp=navigjs"
         } else {
-          path = "https://www.google.com/search?sitesearch=www.pralek.cz&amp;q=" + currentFile.value
+          path = "https://www.google.com/search?q=site%3Awww.pralek.cz+" + currentFile.value
         }
-        console.log(path)
         window.location = path        
       },
       sendForm: false
