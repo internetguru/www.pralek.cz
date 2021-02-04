@@ -109,5 +109,5 @@ n/a
  [2]: stadia_zanetu
  [3]: vyvoj_zanetu
  [4]: teplota
- [5]: lymfaticke_uzliny
+ [5]: uzliny
 
