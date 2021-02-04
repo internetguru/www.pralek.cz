@@ -103,7 +103,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zanet
+ [1]: vyvoj_zanetu
  [2]: krevni_tlak
- [3]: krvaceni_z_konecniku
+ [3]: hemoroidy
 
