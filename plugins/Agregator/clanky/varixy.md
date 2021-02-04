@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859882924144070" data-type="article" data-image="/files/preview/koutek/krecove_zily/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-03-11" mtime="2009-03-11" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="varixy" short="Křečové žíly"}
+{ctime="2009-03-11" mtime="2021-02-03" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="varixy" short="Křečové žíly"}
 
 # Křečové žíly dolních končetin neboli varixy
 
@@ -103,7 +103,7 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: zanet
+ [1]: vyvoj_zanetu
  [2]: krevni_tlak
- [3]: krvaceni_z_konecniku
+ [3]: hemoroidy
 
