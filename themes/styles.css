@@ -758,7 +758,10 @@ li.ebook {
 #header > div {	
   max-width: 62rem;	
   position: relative;	
-}	
+}
+.search select {
+  display: none;
+}
 .search ul {	
   --button-svg-color: #ffffff;	
   margin: 0;	
