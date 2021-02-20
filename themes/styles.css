@@ -1736,14 +1736,14 @@ body[data-link="/o_praleku"] .part > * {
   .part.otazky button,	
   .part.dotace,	
   .taglist,	
-  .filter .button,	
-  .linklist-href,	
+  .filter .button,
   .moreable-linkwrapper,	
   .docinfo.share,	
   .hdesc--top .extra,
   #mc-embedded-subscribe-form,
   #content .list-wrapper--multiple dl:nth-child(10) ~ dl,
-  .part.odkazy .list-wrapper--single {
+  .part.odkazy .list-wrapper--single,
+  .ad {
     display: none !important;	
   }	
   div.part.upozorneni,	
@@ -1769,10 +1769,12 @@ body[data-link="/o_praleku"] .part > * {
   }	
   .clanky .list-wrapper--multiple dl:not(.taglist),	
   .odkazy .list-wrapper--multiple dl:not(.taglist) {	
-    display: list-item !important;	
+    display: list-item !important;
+    list-style: decimal;
     padding: 0;	
     margin-top: 0.5em;	
-    margin-bottom: 0.5em;	
+    margin-bottom: 0.5em;
+    margin-left: 3.5em;
     max-width: unset !important;	
   }	
   .clanky .list-wrapper--multiple dl > *:not(.print),	
@@ -1823,6 +1825,21 @@ body[data-link="/o_praleku"] .part > * {
   .docinfo.social a.fb svg,	
   .docinfo.social a.twitter svg {	
     color: black !important;	
-  }	
+  }
+  .part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list > ul:not(.button-list) > li:before,
+  .hdesc--top .list-wrapper--multiple li:before {
+    font-size: 1.5em;
+    vertical-align: -0.15em;
+  }
+  .button-list > li {
+    max-width: none;
+  }
+  body a.definition {
+    border-bottom: thin solid !important;
+  }
+  .linklist-href {
+    display: inline !important;
+    border: none !important;
+  }
 }	
 /************************************/	
