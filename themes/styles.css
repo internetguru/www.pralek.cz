@@ -759,6 +759,9 @@ li.ebook {
   max-width: 62rem;	
   position: relative;	
 }
+.search .js-completable__indicator {
+  display: none;
+}
 .search select {
   display: none;
 }
