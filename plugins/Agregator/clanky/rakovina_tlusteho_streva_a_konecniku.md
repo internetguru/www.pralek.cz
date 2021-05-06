@@ -21,8 +21,6 @@ Dokonce ani znečištěné prostředí statisticky nezvyšuje pravděpodobnost o
 
 ## Projevy nádoru tlustého střeva
 
-n/a
-
 Záludnost _kolorektálního karcinomu_ spočívá v **naprosto bezpříznakovém počátku** a jen velmi neurčitých projevech i při již plně rozvinutém onemocnění. Jedná se o [celkovou zažívací nepohodu][3], sníženou nebo změněnou chuť k jídlu (často odpor k masu), hubnutí, celkovou slabost, občasnou [přítomnost hlenu a krve ve stolici][4] a teprve později potíže s vyprazdňováním.
 
 Bohužel je **nádor velmi často zjištěn až při vzniku komplikací** způsobených značně pokročilým stádiem. Teprve komplikace totiž přivedou pacienta na chirurgii, nejčastěji jako projev [střevní neprůchodnosti][5] (pocit nadmutého břicha, zástava větrů a stolice, zvracení) nebo prudké [krvácení do zažívací trubice][6].
@@ -30,8 +28,6 @@ Bohužel je **nádor velmi často zjištěn až při vzniku komplikací** způso
 {id="stadia_onemocneni"}
 
 ## Stádia onemocnění
-
-n/a
 
 Tato obávaná diagnóza nemusí vždy znamenat nevyhnutelně ortel smrti. Vývoj onemocnění (prognóza) záleží na následujících faktorech:
 
@@ -48,8 +44,6 @@ Na základě zkušeností se navrhuje podle stádia onemocnění nejvhodnější
 
 ## Možnosti odhalení rakoviny tlustého střeva
 
-n/a
-
 Onemocnění se vyskytuje nejčastěji ve středním a vyšším věku, více u mužů než u žen. Jistě by se po něm mělo pátrat v rámci [preventivních vyšetření][1] pro jeho bezpříznakový začátek. U mužů nad 50 let by měla být taková kontrola zcela běžná a pravidelná (např. každoroční). Lékaři by měli nezbytnost tohoto vyšetření svým pacientům připomínat a nutit je vyšetření podstoupit.
 
 Nejjednodušší je vyšetření stolice na _okultní krvácení_ (zkráceně OK). V lékárně i u obvodního lékaře je k dostání papírový test na OK. Princip spočívá v tom, že lze testem prokázat i nepatrnou stopu krve ve stolici. Krev se ve stolici normálně vůbec nevyskytuje. [Polyp ani adenom][9] nikdy nekrvácí, zato karcinom je od začátku křehký a téměř stále mírně krvácí do stolice. Levný a jednoduchý **test stolice na OK vyloučí zhoubný nádor**. Test lze provádět i opakovaně.
@@ -59,8 +53,6 @@ V případě pozitivity testu na OK je třeba se podrobit odbornému vyšetřen�
 {id="moznosti\_leceni\_rakoviny\_tlusteho\_streva\_a\_konecniku"}
 
 ## Možnosti léčení rakoviny tlustého střeva a konečníku
-
-n/a
 
   1. V ideálním případě dojde k **odstranění nádoru již při jeho zjištění** přímo během vyšetření tlustého střeva a konečníku _(kolonoskopicky)_. 
       * Nádor je tedy zjištěn v počátečním stádiu; nikam neprorůstá, nepostihuje uzliny a je bez metastáz. Takže může být ihned odstraněn, čímž je léčba definitivně vyřešena.
