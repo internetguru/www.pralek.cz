@@ -17,8 +17,6 @@ Nejhorší situace nastane tehdy, když se pacient vydá [s neurčitými přízn
 
 ## Vědecký přístup k nemoci
 
-n/a
-
 Zda je jedinou možností řešení chorob dnešní „západní“ medicína nebo i alternativní medicíny či léčitelé, to zatím nikdo neví.
 
 {class="example"}
@@ -34,8 +32,6 @@ Zkušený doktor dokáže ve vhodnou dobu sdělit pacientovi, že již **součas
 {id="lecitelska_praxe"}
 
 ## Léčitelská praxe
-
-n/a
 
 Léčitel je člověk, který o sobě tvrdí, že má mimořádné schopnosti rozpoznat a ovlivnit chorobné změny pacienta. Zda je to pravda a jak to funguje, však nikdo neví. Jsou určitá kritéria, kterými by bylo dobré se řídit před návštěvou léčitele, a která by hovořila v léčitelův prospěch:
 
