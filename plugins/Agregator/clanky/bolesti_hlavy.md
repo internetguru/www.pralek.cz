@@ -15,7 +15,6 @@ Nejkrutější bolestí hlavy je migréna. Řešením je včasné podání vhodn
 
 ## Migréna – nesnesitelná bolest hlavy
 
-n/a
 
 Migréna _(hemicranie)_ je krutá nesnesitelná bolest většinou poloviny hlavy. Trpící pacient potřebuje ticho, klid, tmu, hledá úlevovou polohu a touží po okamžiku, kdy bolest začne ustupovat. Rozvinutá migréna může trvat hodiny nebo i několik dnů. Je logické, že každý takto postižený člověk hledá jakoukoli pomoc, nejlépe ve formě [léku proti bolesti][1].
 
@@ -27,7 +26,6 @@ Migréna vzniká následkem chybného prokrvení části mozku. Počínající b
 
 ## Nejčastější příčiny ostatních bolestí hlavy a jejich řešení
 
-n/a
 
   * používání nesprávných nebo znečištěných dioptrických brýlí; 
       * Problémy může vyřešit [vyšetření očním lékařem][2] a nové (nebo jen vyčištěné) brýle.
