@@ -23,8 +23,6 @@ Podávání léků se dá rozdělit na _invazivní_ (např. vpich injekce) a _ne
 
 ## Neinvazivní aplikace léků a lékové formy
 
-n/a
-
   * **Polknutí léku ústy** _(perorání aplikace)_ – nejčastěji tablety, dražé, prášky, kapky, sprej; 
       * Nejběžnější metoda podávání léků.
       * Nástup účinku je kolem 30 minut.
@@ -56,8 +54,6 @@ n/a
 {id="invazivni\_aplikace\_leku\_a\_lekove_formy"}
 
 ## Invazivní aplikace léků a lékové formy
-
-n/a
 
   * **Nitrokožní aplikace léku** _(intradermální injekce)_ – injekční roztok; 
       * Do kůže se aplikují [testy alergenů][8] nebo očkování, aby byly s odstupem dobře hodnotitelné.
