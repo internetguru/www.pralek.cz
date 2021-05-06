@@ -13,8 +13,6 @@ Nezhoubný nádor není nebezpečný a lze jej snadno odstranit. Včasně odhale
 
 ## Nezhoubný nádor
 
-n/a
-
   * je společenství buněk, které mají _poněkud_ změněné chování oproti původní tkáni, ze které vyšly;
   * **je ohraničen** vůči svému okolí (nikdy neprorůstá do okolních struktur);
   * sám [nijak nebolí][1];
@@ -33,8 +31,6 @@ n/a
 {id="zhoubny_nador-rakovina"}
 
 ## Zhoubný nádor – rakovina
-
-n/a
 
   * je společenství buněk, které mají _zásadně změněné chování_ oproti původní tkáni, ze které vyšly;
   * nebývá ohraničen vůči svému okolí a často brzy prorůstá do okolních struktur;
