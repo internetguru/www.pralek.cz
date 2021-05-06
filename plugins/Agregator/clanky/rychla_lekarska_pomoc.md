@@ -11,13 +11,13 @@
 
 Úkolem rychlé lékařské pomoci (záchranky) je záchrana lidí v ohrožení života. Záchranka nenahrazuje lékařskou službu první pomoci (pohotovost) a není na takovou práci ani prostorově ani technicky vybavena.
 
-{id="vyjezdy\_a\_soucinnost\_zachranky\_s\_policii\_a_hasici"}
+{id="vyjezdy\_a\_soucinnosti"}
 
 ## Výjezdy a součinnost záchranky s policií a hasiči
 
-n/a
-
 Zdravotnická záchranná služba je jednou ze základních složek _integrovaného záchranného systému_ (IZS) – součinnost záchranky s policií a hasiči. Jednotlivá stanoviště záchranky jsou v regionech rozmístěna tak, aby byl zajištěn dojezd k nemocnému do 20 minut. Sousedící stanoviště si v případě potřeby vzájemně vypomáhají. V případě zásahu domácí posádky má pochopitelně vypomáhající posádka ze vzdálenějšího regionu delší dojezdnou dobu.
+
+{class="important"}
 
 Nemocného člověka je nutno na místě vyšetřit, dle závažnosti stavu mu [zajistit základní životní funkce][1] a [podat potřebné léky][2]. V případě potřeby je pacient následně dopraven do nejbližší nemocnice, která je schopna ten který úraz nebo onemocnění vyřešit.
 
@@ -31,11 +31,9 @@ Pokud dojde k většímu neštěstí nebo k hromadné nehodě, vysílá dispeče
 
 Dítě bylo odborně ošetřeno a dostalo potřebné léky. Sanita vyrazila směrem k velkému parkovišti, spojila se s dispečerem a žádala vrtulník k transportu na kliniku pro spáleniny do Prahy. Zabezpečené dítě bylo předáno do vrtulníku na domluveném místě. _Dětský život byl zachráněn._
 
-{id="informacni\_tok\_a\_rozhodovani\_o\_posadce\_a_vyjezdech"}
+{id="informacni\_tok"}
 
 ## Informační tok a rozhodování o posádce a výjezdech
-
-n/a
 
 **Tísňová linka 155** vytáčená v každém regionu vyzvání na dispečinku záchranné služby patřičného kraje. Přítomný dispečer (zkušený proškolený zdravotník) zjistí důležité informace o stavu pacienta a rozhodne, kterou posádku vyšle na místo.
 
@@ -46,18 +44,16 @@ Dispečer má na výběr na místo vyslat:
   1. posádku rychlé zdravotnické pomoci (RZP); řidič a sestra;
   2. posádku rychlé lékařské pomoci (RLP); řidič, lékař a sestra;
   3. posádku letecké záchranné služby (LZS); pilot, lékař a sestra;
-  4. systém „rendezvous“; řidič s lékařem. 
+  4. systém „rendezvous“; řidič s lékařem.
       * V hustě osídlených aglomeracích (centrum Prahy) je výjezdů více a proto je objíždění vozidel rychlé záchranné pomoci (bez lékaře) výhodné. Osobním autem mohou lékař s řidičem záchranářem objíždět a konzultovat více zasahujících posádek záchranky.
 
 Řidič záchranky je vždy zároveň záchranář. Sestru někdy nahrazuje druhý záchranář; oba vyškoleni v oboru akutní intenzivní péče.
 
 Služba pracuje v nepřetržitém směnném režimu (12 hodin). Vozidlo rychlé lékařské pomoci je vybaveno léky, zdravotnickou technikou a moderními přístroji, které umožňují zachránit život zraněnému nebo nemocnému člověku.
 
-{id="duvody\_privolani\_zachranky\_plane\_vyjezdy\_a\_agresivita_pacientu"}
+{id="duvody\_privolani"}
 
 ## Důvody přivolání záchranky, plané výjezdy a agresivita pacientů
-
-n/a
 
 Nejčastější důvody pro volání záchranky jsou **náhlé a závažné poruchy zdraví** jako [bezvědomí][5], [bolest na hrudi, infarkt][6], [mozková mrtvice][7], překotný porod, dopravní nehody a různé závažné úrazy jako [bodná a střelná poranění][8] či [zlomeniny][9].
 
@@ -66,11 +62,9 @@ Nejčastější důvody pro volání záchranky jsou **náhlé a závažné poru
 
 Na místě zásahu se vyskytuje **slovní agresivita nejčastěji v partách opilců**. Vhodným jednáním však lze tyto jedince většinou usměrnit. V případě skutečné fyzické agresivity je volána pomocí integrovaného záchranného systému k součinnosti policie, která zajistí pacifikaci a případně i následný doprovod takového pacienta.
 
-{id="respekt\_na\_silnici\_davani\_prednosti_zachrance"}
+{id="davani\_prednosti_zachrance"}
 
 ## Respekt na silnici, dávání přednosti záchrance
-
-n/a
 
 Účastníci silničního provozu většinou respektují výstražná světla i zvukové výstražné zařízení záchranné služby. Často však **nedovedou odhadnout velmi vysokou rychlost záchranky** a manévrují tak, že nutí řidiče záchranky zbytečně brzdit. Tím zpomalují transport a velmi přitěžují pacientovi i posádce, která se snaží pacienta udržet při životě.
 
