@@ -17,8 +17,6 @@ Je mnoho léků proti bolesti a v moderních preparátech jsou různě kombinov�
 
 ## Užívání léků proti bolesti
 
-n/a
-
   1. V případě bolesti je třeba [nejprve najít příčinu][1]. Je-li možné odstranit příčinu bolesti, pak je to prvořadý úkol lékaře.
   2. Léky proti bolesti je dobré brát až v případě známé příčiny a nemožnosti jejího odstranění. U některých nemocí je odstranění bolesti bohužel jedinou možností, jak pacientovi pomoci.
 
@@ -33,8 +31,6 @@ Vždy je třeba si vzít co nejméně léku; jen tolik, aby bolest utlumil. Bole
 {id="druhy\_leku\_proti_bolesti"}
 
 ## Druhy léků proti bolesti
-
-n/a
 
 Jednotlivé léky každé skupiny jsou od různých výrobců k dostání pod různými názvy, ačkoli jsou chemicky naprosto identické. Lékárník vždy (na rozdíl od sousedky nebo zavádějící reklamy) umí doporučit vhodný lék, mnohdy levnější nebo dokonce hrazený pojišťovnou.
 
