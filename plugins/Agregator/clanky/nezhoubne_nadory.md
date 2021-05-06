@@ -17,8 +17,6 @@ Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Prevent
 
 ## Jednotlivé nezhoubné nádory
 
-n/a
-
 **Lipom**
 :   Je nezhoubný nádor _vycházející z tukové tkáně_.
 :   Jeho buňky jsou uzavřeny ve zvláštním pouzdru uloženém nejčastěji v podkoží.
@@ -84,8 +82,6 @@ n/a
 {id="boulicky\_zamenovane\_s\_nezhoubnymi\_nadory"}
 
 ## Bouličky zaměňované s nezhoubnými nádory
-
-n/a
 
   * **Gangliom** je boulička na šlaše nebo v okolí kloubu. Nejedná se o nádor, ale o [onemocnění šlach][9].
   * **Aterom** je mazová žláza s uzavřeným vývodem, ve které se hromadí její obsah. Vznikne v případě nadměrného [hromadění mazu uvnitř žlázy][10].
