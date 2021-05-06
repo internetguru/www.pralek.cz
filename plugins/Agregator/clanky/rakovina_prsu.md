@@ -19,8 +19,6 @@ Přesto se bohužel stále vyskytují lidé, kteří raději k lékaři nejdou. 
 
 ## Možnosti léčení rakoviny prsu
 
-n/a
-
 Léčení rakoviny prsu spočívá nejčastěji v chirurgickém odstranění nádoru. Dle stádia onemocnění a typu nádoru musí být někdy [operace doplněna ozařováním nebo chemoterapií][3]. (Zvláště pak, je-li rakovina zjištěna v pozdějším stádiu vývoje.)
 
 Všechny nádory nejsou stejně agresivní. Podle [stupně agresivity zhoubného nádoru][3] jsou lépe nebo hůře léčitelné; dříve nebo později postihují blízké nebo vzdálené [lymfatické uzliny][4] nebo tvoří [vzdálená ložiska][5] _(metastázy)_, nejčastěji do plic nebo do kostí. Všechny **tyto aspekty ovlivňují individuální nejvhodnější způsob léčení** každé konkrétní pacientky.
@@ -29,8 +27,6 @@ Všechny nádory nejsou stejně agresivní. Podle [stupně agresivity zhoubného
 
 ## Obava ze ztráty ženskosti ztrátou prsu
 
-n/a
-
 Většinou se odstraňuje jen nádor nebo nádor jen s malou částí prsu. Jestli se musí výjimečně odstranit větší část prsu nebo celý prs, bude následně defekt ošetřen plastickým chirurgem a nahrazen implantátem.
 
 Velmi často mají ženy strach z pooperační deformity. Ztrátu prsu vnímají ženy jako ztrátu ženskosti s následným pocitem méněcennosti. Tato obava však vzhledem k možnostem plastické chirurgie není na místě.
@@ -38,8 +34,6 @@ Velmi často mají ženy strach z pooperační deformity. Ztrátu prsu vnímají
 {id="vyvoj\_nelecene\_rakoviny_prsu"}
 
 ## Vývoj neléčené rakoviny prsu
-
-n/a
 
 Rakovina prsu je zpočátku jen [nebolestivá boulička v prsu][1] jakékoli velikosti. Většinou se nemění v souvislosti s menstruačním cyklem. V případě neléčení se časem začne k nádoru stahovat kůže a **kůže má pak vzhled pomerančové kůry**. Mnohdy se nádor projeví i vpáčením bradavky. To znamená, že na zdravém prsu je normální bradavka, na postiženém prsu je bradavka trvale vpáčena pod úroveň bradavkového dvorce a po dobu onemocnění nad něj nevystupuje.
 
