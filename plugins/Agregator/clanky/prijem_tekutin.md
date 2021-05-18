@@ -19,7 +19,7 @@ Ledviny tvoří velké množství _prvotní moči (primární moč, primitivní 
 
 ## Typy pitné vody v přírodě
 
-TODO
+n/a
 
 Dešťová (měkká) voda
 :   Neobsahuje žádné soli ani minerály.
