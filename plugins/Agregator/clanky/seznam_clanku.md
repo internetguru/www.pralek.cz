@@ -7,7 +7,5 @@
 
 Seznam všech článků na Praléku seřazený podle abecedy.
 
-{var="doclist-vsechny_clanky"}
-
-Seznam článků není k dispozici
+<!--   <p var="doclist-vsechny_clanky">Seznam článků není k dispozici</p> -->
 
