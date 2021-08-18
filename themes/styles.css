@@ -1722,6 +1722,9 @@ body[data-link="/seznam_clanku"] .extra .button-list > li:first-child {
 body[data-link="/seznam_clanku"].agregator-new .hdesc--top > div:after {
   display: none;
 }
+.clanek.seznam_clanku {
+  display: none;
+}
 #content .vsechny_clanky {
   list-style: circle;
 }
@@ -1741,7 +1744,6 @@ body[data-link="/seznam_clanku"].agregator-new .hdesc--top > div:after {
     column-count: 3;
   }
 }
-
 /************************************/	
 @media print {	
   @page {	
