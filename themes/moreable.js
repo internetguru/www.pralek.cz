@@ -46,7 +46,8 @@
           // hide all
           countedHiddenLength = 0
           for (var i = 0; i < parent.children.length; i++) {
-            if (parent.children[i].style.display == "none") {
+            var style = window.getComputedStyle(parent.children[i])
+            if (style.display == "none") {
               continue // skip hidden items
             }
             parent.children[i].style.display = "none"
