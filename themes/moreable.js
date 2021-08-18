@@ -46,6 +46,9 @@
           // hide all
           countedHiddenLength = 0
           for (var i = 0; i < parent.children.length; i++) {
+            if (parent.children[i].style.display == "none") {
+              continue // skip hidden items
+            }
             parent.children[i].style.display = "none"
             var counted = parent.children[i].matches(config.countedChildrenSelector)
             if (counted) {
