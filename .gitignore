@@ -2,3 +2,5 @@
 .inotify
 files/
 .watch_user*
+plugins/ValidateForm/*-*
+plugins/ValidateForm/[0-9]*
