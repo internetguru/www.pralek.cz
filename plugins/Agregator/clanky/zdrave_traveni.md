@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859947917470904" data-type="article" data-image="/files/preview/koutek/stravovaci_navyky/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-09-01" mtime="2009-09-01" data-top="936" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zdrave\_traveni" short="Zdravé trávení"}
+{ctime="2009-09-01" mtime="2009-09-01" data-top="936" author="Jaroslav Pavelka" id="zdrave_traveni" short="Zdravé trávení"}
 
 # Stravovací návyky a trávicí systém
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="zdravý životní styl, strava-zažívání, žláza, žlučník, žaludek, břicho, tekutiny"}
 

@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859852074147155" data-type="article" data-image="/files/preview/koutek/antibiotika/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-05-14" mtime="2020-08-04" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="antibiotika" short="Antibiotika"}
+{ctime="2008-05-14" mtime="2020-08-04" author="Jaroslav Pavelka" id="antibiotika" short="Antibiotika"}
 
 # Proč nelze mít svá oblíbená antibiotika
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="zánět, imunita, mikroorganizmy, teplota, angína, alergie, prevence, moč"}
 

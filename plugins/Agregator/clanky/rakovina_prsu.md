@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859936690805360" data-type="article" data-image="/files/preview/koutek/rakovina_prsu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-07-25" mtime="2010-07-25" data-top="918" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="rakovina\_prsu" short="Rakovina prsu"}
+{ctime="2010-07-25" mtime="2010-07-25" data-top="918" author="Jaroslav Pavelka" id="rakovina_prsu" short="Rakovina prsu"}
 
 # Záludnost rakoviny prsu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="boulička, strach, žláza, nádory, zhoubné, uzliny, prevence"}
 

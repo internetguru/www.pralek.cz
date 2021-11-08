@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859962577469438" data-type="article" data-image="/files/preview/koutek/znamenko-bradavice-rakovina/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-02-28" mtime="2009-02-28" data-top="978" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="znamenko-bradavice-rakovina" short="Znaménko, bradavice, rakovina"}
+{ctime="2009-02-28" mtime="2009-02-28" data-top="978" author="Jaroslav Pavelka" id="znamenko-bradavice-rakovina" short="Znaménko, bradavice, rakovina"}
 
 # Mateřské znaménko, bradavice nebo rakovina
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="kůže-podkoží, nádory, nezhoubné, zhoubné, prevence, krvácení"}
 

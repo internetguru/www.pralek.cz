@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859950917470604" data-type="article" data-image="/files/preview/koutek/teplota/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-10-02" mtime="2020-06-16" data-top="999" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="teplota" short="Teplota"}
+{ctime="2008-10-02" mtime="2020-06-16" data-top="999" author="Jaroslav Pavelka" id="teplota" short="Teplota"}
 
 # Normální tělesná teplota, horečka, podchlazení
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="teplota, prochlazení, přehřátí, pocení, nevolnost, točení hlavy, tekutiny, moč, mikroorganizmy"}
 

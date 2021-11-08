@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859930834139279" data-type="article" data-image="/files/preview/koutek/podvrtnuti_kotniku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-12-23" mtime="2021-02-03" data-top="942" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="vyron\_kotniku" short="Výron kotníku"}
+{ctime="2009-12-23" mtime="2021-02-03" data-top="942" author="Jaroslav Pavelka" id="vyron_kotniku" short="Výron kotníku"}
 
 # Vyvrtnutí a podvrtnutí kotníku
 

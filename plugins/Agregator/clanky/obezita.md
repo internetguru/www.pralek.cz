@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859913034141059" data-type="article" data-image="/files/preview/koutek/obezita\_a\_energie/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-02-28" mtime="2017-10-05" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="obezita" short="Obezita"}
+{ctime="2008-02-28" mtime="2017-10-05" author="Jaroslav Pavelka" id="obezita" short="Obezita"}
 
 # Obezita jako nepoměr příjmu a výdeje energie
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="strava-zažívání, zdravý životní styl, pohyb, látková výměna, prevence, břicho"}
 

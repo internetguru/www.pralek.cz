@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859925557473140" data-type="article" data-image="/files/preview/koutek/pece\_o\_zvukovod/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2012-07-31" mtime="2012-07-31" data-top="947" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zvukovod" short="Zvukovod"}
+{ctime="2012-07-31" mtime="2012-07-31" data-top="947" author="Jaroslav Pavelka" id="zvukovod" short="Zvukovod"}
 
 # Péče o zevní zvukovod
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="zánět, hygiena, nevolnost, zvracení, točení hlavy, prevence"}
 

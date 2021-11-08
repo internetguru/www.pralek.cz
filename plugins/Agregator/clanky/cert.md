@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859861920812837" data-type="article" data-image="/files/preview/koutek/cert/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-04-01" mtime="2011-04-01" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="cert" short="Čert"}
+{ctime="2011-04-01" mtime="2011-04-01" author="Jaroslav Pavelka" id="cert" short="Čert"}
 
 # Kterak pohádkový čert na svět přišel
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="mýty, nádory, kůže-podkoží, zánět, zhoubné, nezhoubné, cévy"}
 

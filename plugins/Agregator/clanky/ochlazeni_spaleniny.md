@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859914044140958" data-type="article" data-image="/files/preview/koutek/ochlazeni_spaleniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2007-10-21" mtime="2015-08-04" data-top="961" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="ochlazeni\_spaleniny" short="Ochlazení spáleniny"}
+{ctime="2007-10-21" mtime="2015-08-04" data-top="961" author="Jaroslav Pavelka" id="ochlazeni_spaleniny" short="Ochlazení spáleniny"}
 
 # Ochlazení jako první pomoc při spálenině
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="poranění, první pomoc, úraz, kůže-podkoží, děti, žláza, pohyb"}
 

@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859904310808598" data-type="article" data-image="/files/preview/koutek/mytus\_o\_rakovine/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2007-10-05" mtime="2007-10-05" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mytus\_o_rakovine" short="Mýtus o rakovině"}
+{ctime="2007-10-05" mtime="2007-10-05" author="Jaroslav Pavelka" id="mytus\_o\_rakovine" short="Mýtus o rakovině"}
 
 # Mýtus o urychlení rakoviny operací
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="rakovina, mýty, strach, nádory, zhoubné, uzliny, krvácení, zvracení"}
 

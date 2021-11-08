@@ -3,7 +3,7 @@
 
 <!-- https://pixabay.com/photos/matryoshka-red-fly-agaric-mushroom-516281/  -->
 
-{id="nevolnost\_zvraceni" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Nevolnost a zvracení" ctime="2019-11-14T17:13:47+01:00"}
+{id="nevolnost_zvraceni" author="Jaroslav Pavelka" short="Nevolnost a zvracení" ctime="2019-11-14T17:13:47+01:00"}
 
 # Jak postupovat při nevolnosti a zvracení
 

@@ -3,7 +3,7 @@
 
 <!-- https://search.creativecommons.org/photos/111aaef0-3658-4281-9142-02902f560527  -->
 
-{id="cevkovani" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Cévkování" ctime="2019-10-08T11:45:57+02:00"}
+{id="cevkovani" author="Jaroslav Pavelka" short="Cévkování" ctime="2019-10-08T11:45:57+02:00"}
 
 # Cévkování močového měchýře
 

@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859874747478221" data-type="article" data-image="/files/preview/koutek/iktus/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-07-05" mtime="2020-08-04" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="mrtvice" short="Mrtvice"}
+{ctime="2008-07-05" mtime="2020-08-04" author="Jaroslav Pavelka" id="mrtvice" short="Mrtvice"}
 
 # Cévní mozková příhoda
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="infarkt, cévy, krev, mozek-nervy, pocení, nevolnost, zvracení, porucha vědomí, srdce"}
 

@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859940654138297" data-type="article" data-image="/files/preview/koutek/ryma\_a\_smrkani/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-11-28" mtime="2020-06-16" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="ryma" short="Rýma"}
+{ctime="2008-11-28" mtime="2020-06-16" author="Jaroslav Pavelka" id="ryma" short="Rýma"}
 
 # Rýma a smrkání, komplikace rýmy
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="zánět, mikroorganizmy, děti, alergie, poranění"}
 

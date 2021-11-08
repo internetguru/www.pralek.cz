@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859872810811748" data-type="article" data-image="/files/preview/koutek/dupuytrenova_kontraktura/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-03-19" mtime="2011-03-19" data-top="984" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="dupuytrenova\_kontraktura" short="Dupuytrenova kontraktura"}
+{ctime="2011-03-19" mtime="2011-03-19" data-top="984" author="Jaroslav Pavelka" id="dupuytrenova_kontraktura" short="Dupuytrenova kontraktura"}
 
 # Uzly, deformity a zatrvrdliny ve dlani
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="boulička, nezhoubné, prevence, neúrazové, pohyb, zánět, hygiena"}
 

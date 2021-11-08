@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1873372576128438" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/jak_neonemocnet/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{ctime="2020-02-05" mtime="2020-02-05" id="jak\_neonemocnet" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Jak neonemocnět"}
+{ctime="2020-02-05" mtime="2020-02-05" id="jak_neonemocnet" author="Jaroslav Pavelka" short="Jak neonemocnět"}
 
 # Jak nepodlehnout chřipce
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="imunita, prevence, mikroorganizmy, zdravý životní styl, hygiena, teplota"}
 

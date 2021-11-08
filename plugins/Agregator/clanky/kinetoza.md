@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859879230811106" data-type="article" data-image="/files/preview/koutek/kinetoza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2015-07-13" mtime="2015-07-13" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Kinetóza" id="kinetoza"}
+{ctime="2015-07-13" mtime="2015-07-13" author="Jaroslav Pavelka" short="Kinetóza" id="kinetoza"}
 
 # Nevolnost a zvracení v dopravních prostředcích
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="nevolnost, pocení, pohyb, prevence, zvracení, mozek-nervy, žaludek, břicho"}
 

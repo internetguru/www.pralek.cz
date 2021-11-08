@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1939252742873754" xml:lang="cs" data-type="article" data-image="/files/preview/koutek/projevy_alergie/main.jpg" class="docinfo linklist" ns="https://www.pralek.cz"}
 
-{ctime="2020-04-14" mtime="2020-04-14" data-top="912" id="alergie" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" short="Alergie"}
+{ctime="2020-04-14" mtime="2020-04-14" data-top="912" id="alergie" author="Jaroslav Pavelka" short="Alergie"}
 
 # Co je a co není alergická reakce
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="alergie, jed, imunita, zánět, mikroorganizmy"}
 

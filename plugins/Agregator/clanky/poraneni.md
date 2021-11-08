@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859871800811849" data-type="article" data-image="/files/preview/koutek/drobna\_krvava\_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-01-22" mtime="2015-11-09" data-top="955" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="poraneni" short="Poranění"}
+{ctime="2008-01-22" mtime="2015-11-09" data-top="955" author="Jaroslav Pavelka" id="poraneni" short="Poranění"}
 
 # Drobná krvavá poranění
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="kůže-podkoží, úraz, poranění, krvácení, první pomoc, mikroorganizmy, zánět, pohyb"}
 

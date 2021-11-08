@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859878090811220" data-type="article" data-image="/files/preview/koutek/kasel\_a\_typy_kasle/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-12-02" mtime="2020-08-29" data-top="925" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="kasel" short="Kašel"}
+{ctime="2008-12-02" mtime="2020-08-29" data-top="925" author="Jaroslav Pavelka" id="kasel" short="Kašel"}
 
 # Kdy kašlání potlačovat a kdy podporovat
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="kašel, dýchání, zánět, mikroorganizmy, teplota, břicho, poranění"}
 
