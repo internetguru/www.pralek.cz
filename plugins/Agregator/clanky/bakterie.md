@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859901470808882" data-type="article" data-image="/files/preview/koutek/mikroorganizmy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-06-16" mtime="2020-08-29" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="bakterie" short="Bakterie"}
+{ctime="2008-06-16" mtime="2020-08-29" author="Jaroslav Pavelka" id="bakterie" short="Bakterie"}
 
 # Bakterie jako pomocník a nepřítel člověka
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="mikroorganizmy, antibiotika, zánět, krev, hygiena, nevolnost, zvracení"}
 

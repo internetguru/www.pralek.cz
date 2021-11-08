@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859924110806618" data-type="article" data-image="/files/preview/koutek/panaricium/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2012-05-18" mtime="2012-05-18" data-top="998" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="panaricium" short="Panaricium"}
+{ctime="2012-05-18" mtime="2012-05-18" data-top="998" author="Jaroslav Pavelka" id="panaricium" short="Panaricium"}
 
 # Nebezpečný zánět prstu ruky
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="zánět, poranění, uzliny, úraz, teplota, krev, antibiotika, prevence"}
 

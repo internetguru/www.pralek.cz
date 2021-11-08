@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859935877472108" data-type="article" data-image="/files/preview/koutek/puchyr\_mozol\_kuri_oko/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-08-19" mtime="2010-08-19" data-top="967" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="osetreni\_puchyre" short="Ošetření puchýře"}
+{ctime="2010-08-19" mtime="2010-08-19" data-top="967" author="Jaroslav Pavelka" id="osetreni_puchyre" short="Ošetření puchýře"}
 
 # Jak ošetřit puchýř, mozol nebo kuří oko
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="kůže-podkoží, úraz, neúrazové, zánět, poranění, cukrovka"}
 

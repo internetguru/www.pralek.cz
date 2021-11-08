@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859898944142468" data-type="article" data-image="/files/preview/koutek/lymfaticke_uzliny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-01-20" mtime="2020-08-29" data-top="996" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="uzliny" short="Uzliny"}
+{ctime="2009-01-20" mtime="2020-08-29" data-top="996" author="Jaroslav Pavelka" id="uzliny" short="Uzliny"}
 
 # Zvětšené lymfatické uzliny
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="uzliny, kůže-podkoží, krev, teplota, boulička, zánět, nádory, cévy"}
 

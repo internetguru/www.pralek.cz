@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859870774145285" data-type="article" data-image="/files/preview/koutek/doktor\_nebo\_lecitel/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-04-30" mtime="2010-04-30" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="lecitelstvi" short="Léčitelství"}
+{ctime="2010-04-30" mtime="2010-04-30" author="Jaroslav Pavelka" id="lecitelstvi" short="Léčitelství"}
 
 # Doktor nebo léčitel
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="strach, neúrazové, zdravý životní styl, strava-zažívání, první pomoc"}
 

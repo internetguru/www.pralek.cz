@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859853107480385" data-type="article" data-image="/files/preview/koutek/artroza/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2012-03-18" mtime="2012-03-18" data-top="974" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="artroza" short="Artróza"}
+{ctime="2012-03-18" mtime="2012-03-18" data-top="974" author="Jaroslav Pavelka" id="artroza" short="Artróza"}
 
 # Bolesti kloubů – jak žít s artrózou
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="senioři, bolest, rehabilitace, pohyb, prevence, úraz"}
 

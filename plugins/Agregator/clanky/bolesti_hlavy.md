@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859856440813385" data-type="article" data-image="/files/preview/koutek/bolest\_hlavy\_migrena/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-03-16" mtime="2010-03-16" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolesti\_hlavy" short="Bolesti hlavy"}
+{ctime="2010-03-16" mtime="2010-03-16" author="Jaroslav Pavelka" id="bolesti_hlavy" short="Bolesti hlavy"}
 
 # Bolest hlavy, migréna
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="cévy, neúrazové, prevence, strava-zažívání, úraz, přehřátí, teplota, zánět"}
 

@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859930114139351" data-type="article" data-image="/files/preview/koutek/pneumotorax/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2013-08-22" mtime="2013-08-22" data-top="933" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="pneumotorax" short="Pneumotorax"}
+{ctime="2013-08-22" mtime="2013-08-22" data-top="933" author="Jaroslav Pavelka" id="pneumotorax" short="Pneumotorax"}
 
 # Závažné poranění hrudníku a pneumotorax
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="dýchání, úraz, strach, krev, zlomeniny, první pomoc, pohyb"}
 

@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859954680803561" data-type="article" data-image="/files/preview/koutek/vhodna_obuv/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-11-28" mtime="2011-11-28" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="obuv" short="Obuv"}
+{ctime="2011-11-28" mtime="2011-11-28" author="Jaroslav Pavelka" id="obuv" short="Obuv"}
 
 # Vhodná a nevhodná obuv
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="pohyb, prevence, zdravý životní styl, úraz, děti"}
 

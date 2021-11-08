@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859881737477522" data-type="article" data-image="/files/preview/koutek/koureni_cigaret/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2012-02-23" mtime="2012-02-23" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="koureni\_cigaret" short="Kouření cigaret"}
+{ctime="2012-02-23" mtime="2012-02-23" author="Jaroslav Pavelka" id="koureni_cigaret" short="Kouření cigaret"}
 
 # Závislosti na kouření je snazší předejít
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="prevence, cévy, nevolnost, točení hlavy, kašel, nádory, zhoubné, infarkt"}
 

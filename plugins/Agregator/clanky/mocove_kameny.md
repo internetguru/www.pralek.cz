@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859902647475431" data-type="article" data-image="/files/preview/koutek/mocove_kameny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-08-13" mtime="2020-08-29" data-top="926" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocove\_kameny" short="Močové kameny"}
+{ctime="2008-08-13" mtime="2020-08-29" data-top="926" author="Jaroslav Pavelka" id="mocove_kameny" short="Močové kameny"}
 
 # Močové kameny a ledvinová kolika
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="ledviny, moč, kolika, prevence, neúrazové, krvácení, zvracení, zánět"}
 

@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859931544139208" data-type="article" data-image="/files/preview/koutek/poraneni\_jedovatym\_zviretem/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2007-12-11" mtime="2017-11-11" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="jedovate\_zvire" short="Jedovaté zvíře"}
+{ctime="2007-12-11" mtime="2017-11-11" author="Jaroslav Pavelka" id="jedovate_zvire" short="Jedovaté zvíře"}
 
 # Poranění jedovatým zvířetem
 

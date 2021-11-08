@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859932894139073" data-type="article" data-image="/files/preview/koutek/poraneni_sleziny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2012-12-19" mtime="2012-12-19" data-top="956" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="poraneni\_sleziny" short="Poranění sleziny"}
+{ctime="2012-12-19" mtime="2012-12-19" data-top="956" author="Jaroslav Pavelka" id="poraneni_sleziny" short="Poranění sleziny"}
 
 # Záludnost poranění sleziny u dětí
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="úraz, děti, krev, břicho, pocení, porucha vědomí, kolaps, cévy"}
 

@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859891710809858" data-type="article" data-image="/files/preview/koutek/lekove_formy/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-05-09" mtime="2010-05-09" data-top="962" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="leky" short="Léky"}
+{ctime="2010-05-09" mtime="2010-05-09" data-top="962" author="Jaroslav Pavelka" id="leky" short="Léky"}
 
 # Možnosti podávání léků a lékové formy
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="angína, porucha vědomí, teplota, cévy, zvracení, alergie"}
 

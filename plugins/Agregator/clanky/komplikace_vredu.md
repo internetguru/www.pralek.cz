@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859880254144337" data-type="article" data-image="/files/preview/koutek/komplikace_vredu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-07-31" mtime="2011-07-31" data-top="948" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="komplikace\_vredu" short="Komplikace žaludečních vředů"}
+{ctime="2011-07-31" mtime="2011-07-31" data-top="948" author="Jaroslav Pavelka" id="komplikace_vredu" short="Komplikace žaludečních vředů"}
 
 # Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="žaludek, krvácení, nevolnost, zvracení, krev, břicho, nádory, zhoubné, strava-zažívání"}
 

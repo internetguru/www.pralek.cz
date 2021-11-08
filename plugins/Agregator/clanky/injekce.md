@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859927637472932" data-type="article" data-image="/files/preview/koutek/pichnuti_injekce/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2016-04-11" mtime="2016-04-11" data-top="993" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="injekce" short="Injekce"}
+{ctime="2016-04-11" mtime="2016-04-11" data-top="993" author="Jaroslav Pavelka" id="injekce" short="Injekce"}
 
 # Píchnutí injekce svépomocí
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="první pomoc, nevolnost, kůže-podkoží, hygiena, cévy, krev, poranění, boulička"}
 

@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859959790803050" data-type="article" data-image="/files/preview/koutek/zarustajici_nehty/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-04-19" mtime="2021-02-03" data-top="985" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zarustajici\_nehty" short="Zarůstající nehty"}
+{ctime="2009-04-19" mtime="2021-02-03" data-top="985" author="Jaroslav Pavelka" id="zarustajici_nehty" short="Zarůstající nehty"}
 
 # Zarůstající nehty na palcích dolních končetin
 

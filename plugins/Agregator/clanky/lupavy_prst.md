@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859895150809514" data-type="article" data-image="/files/preview/koutek/lupavy_prst/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-12-30" mtime="2010-12-30" data-top="973" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="lupavy\_prst" short="Lupavý prst"}
+{ctime="2010-12-30" mtime="2010-12-30" data-top="973" author="Jaroslav Pavelka" id="lupavy_prst" short="Lupavý prst"}
 
 # Příčiny a léčba lupavého prstu
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="pohyb, zánět, úraz"}
 

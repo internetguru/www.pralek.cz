@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859885994143763" data-type="article" data-image="/files/preview/koutek/krvaceni_dasni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2013-03-15" mtime="2013-03-15" data-top="959" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="krvaceni\_dasni" short="Krvácení dásní"}
+{ctime="2013-03-15" mtime="2013-03-15" data-top="959" author="Jaroslav Pavelka" id="krvaceni_dasni" short="Krvácení dásní"}
 
 # Příčinou krvácení dásní je nedostatek vitamínu C
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="krvácení, prevence, cévy, neúrazové, hygiena, mikroorganizmy, zánět, strava-zažívání"}
 

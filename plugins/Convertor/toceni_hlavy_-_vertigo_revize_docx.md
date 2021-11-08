@@ -3,7 +3,7 @@
 
 <!-- https://cdn.pixabay.com/photo/2016/05/02/01/04/forest-1366345_1280.jpg  -->
 
-{id="toceni\_hlavy" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" short="Točení hlavy" ctime="2020-01-14T11:07:08+01:00"}
+{id="toceni_hlavy" author="Jaroslav Pavelka" short="Točení hlavy" ctime="2020-01-14T11:07:08+01:00"}
 
 # Proč se točí hlava
 

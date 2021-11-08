@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859859510813078" data-type="article" data-image="/files/preview/koutek/bolest_zaludku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-05-30" mtime="2011-05-30" data-top="935" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolest\_zaludku" short="Bolest žaludku"}
+{ctime="2011-05-30" mtime="2011-05-30" data-top="935" author="Jaroslav Pavelka" id="bolest_zaludku" short="Bolest žaludku"}
 
 # Žaludeční potíže: bolest žaludku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="žaludek, břicho, zvracení, strach, strava-zažívání, teplota, zánět, mikroorganizmy"}
 

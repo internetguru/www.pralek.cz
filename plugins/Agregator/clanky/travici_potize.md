@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859873800811649" data-type="article" data-image="/files/preview/koutek/funkcni\_poruchy\_traveni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-09-10" mtime="2009-09-10" data-top="968" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="travici\_potize" short="Trávicí potíže"}
+{ctime="2009-09-10" mtime="2009-09-10" data-top="968" author="Jaroslav Pavelka" id="travici_potize" short="Trávicí potíže"}
 
 # Funkční poruchy trávení
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="zvracení, nevolnost, žaludek, strava-zažívání, jed, zdravý životní styl, břicho"}
 

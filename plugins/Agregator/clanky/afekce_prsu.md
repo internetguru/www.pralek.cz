@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859917610807268" data-type="article" data-image="/files/preview/koutek/onemocneni_prsu/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-06-29" mtime="2010-06-29" data-top="953" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="afekce\_prsu" short="Afekce prsu"}
+{ctime="2010-06-29" mtime="2010-06-29" data-top="953" author="Jaroslav Pavelka" id="afekce_prsu" short="Afekce prsu"}
 
 # Nenádorová onemocnění prsu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="žláza, nádory, nezhoubné, zhoubné, neúrazové, poranění, zánět"}
 

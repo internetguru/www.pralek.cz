@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859946404137722" data-type="article" data-image="/files/preview/koutek/srdecni_infarkt/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-05-12" mtime="2020-06-16" data-top="924" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="srdecni\_infarkt" short="Srdeční infarkt"}
+{ctime="2008-05-12" mtime="2020-06-16" data-top="924" author="Jaroslav Pavelka" id="srdecni_infarkt" short="Srdeční infarkt"}
 
 # Rozpoznání a závažnost srdečního infarktu
+
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="srdce, krev, porucha vědomí, cévy, cukrovka, prevence, břicho"}
 

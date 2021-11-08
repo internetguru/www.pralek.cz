@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859900254142337" data-type="article" data-image="/files/preview/koutek/mdloba\_neboli\_kolaps/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-03-16" mtime="2019-11-14" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="kolaps" short="Kolaps"}
+{ctime="2008-03-16" mtime="2019-11-14" author="Jaroslav Pavelka" id="kolaps" short="Kolaps"}
 
 # První pomoc při kolapsu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="porucha vědomí, mozek-nervy, kolaps, prevence, první pomoc, cukrovka"}
 

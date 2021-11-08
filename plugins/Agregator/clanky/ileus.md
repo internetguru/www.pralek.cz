@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859948894137473" data-type="article" data-image="/files/preview/koutek/strevni_nepruchodnost/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2013-02-16" mtime="2013-02-16" data-top="990" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="ileus" short="Ileus"}
+{ctime="2013-02-16" mtime="2013-02-16" data-top="990" author="Jaroslav Pavelka" id="ileus" short="Ileus"}
 
 # Střevní neprůchodnost bývá komplikací jiné choroby
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="nevolnost, zvracení, břicho, strava-zažívání, nádory, zhoubné, cévy"}
 

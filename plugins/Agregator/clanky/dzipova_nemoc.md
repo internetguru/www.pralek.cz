@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859957620803267" data-type="article" data-image="/files/preview/koutek/zanetlive\_lozisko\_nad\_hyzdovou\_ryhou/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-12-23" mtime="2010-12-23" data-top="986" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="dzipova\_nemoc" short="Džípová nemoc"}
+{ctime="2010-12-23" mtime="2010-12-23" data-top="986" author="Jaroslav Pavelka" id="dzipova_nemoc" short="Džípová nemoc"}
 
 # Zánětlivé ložisko nad hýžďovou rýhou
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="zánět, kůže-podkoží, boulička, neúrazové, teplota, prevence"}
 

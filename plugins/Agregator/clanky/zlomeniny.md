@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859961224136240" data-type="article" data-image="/files/preview/koutek/zlomeniny_kosti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-10-22" mtime="2021-02-03" data-top="939" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zlomeniny" short="Zlomeniny"}
+{ctime="2009-10-22" mtime="2021-02-03" data-top="939" author="Jaroslav Pavelka" id="zlomeniny" short="Zlomeniny"}
 
 # Projevy zlomenin kostí
 

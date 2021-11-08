@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859869624145400" data-type="article" data-image="/files/preview/koutek/detske_zlomeniny/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-06-09" mtime="2021-02-03" data-top="966" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="detske\_zlomeniny" short="Dětské zlomeniny"}
+{ctime="2009-06-09" mtime="2021-02-03" data-top="966" author="Jaroslav Pavelka" id="detske_zlomeniny" short="Dětské zlomeniny"}
 
 # Zvláštnosti dětských zlomenin
 

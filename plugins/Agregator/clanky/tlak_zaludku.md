@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859952217470474" data-type="article" data-image="/files/preview/koutek/tlak_zaludku/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2011-06-14" mtime="2011-06-14" data-top="970" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="tlak\_zaludku" short="Tlak žaludku"}
+{ctime="2011-06-14" mtime="2011-06-14" data-top="970" author="Jaroslav Pavelka" id="tlak_zaludku" short="Tlak žaludku"}
 
 # Krátkodobý tlak žaludku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="žaludek, břicho, zvracení, nevolnost, strava-zažívání, žlučník, říhání, strach, krvácení"}
 

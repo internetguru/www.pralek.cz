@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859933560805673" data-type="article" data-image="/files/preview/koutek/vodni_rezim/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-02-17" mtime="2010-02-17" data-top="919" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="prijem\_tekutin" short="Příjem tekutin"}
+{ctime="2010-02-17" mtime="2010-02-17" data-top="919" author="Jaroslav Pavelka" id="prijem_tekutin" short="Příjem tekutin"}
 
 # Přiměřený příjem tekutin
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="tekutiny, zdravý životní styl, moč, teplota, pocení, děti, senioři"}
 

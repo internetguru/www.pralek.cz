@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859857374146625" data-type="article" data-image="/files/preview/koutek/bolesti\_v\_zadech_houser/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2008-11-20" mtime="2020-08-04" data-top="957" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="bolesti\_v_zadech" short="Bolesti v zádech"}
+{ctime="2008-11-20" mtime="2020-08-04" data-top="957" author="Jaroslav Pavelka" id="bolesti\_v\_zadech" short="Bolesti v zádech"}
 
 # Příčiny a léčba bolestí v zádech
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
 
 {kw="pohyb, rehabilitace, neúrazové, úraz, prochlazení, prevence"}
 
