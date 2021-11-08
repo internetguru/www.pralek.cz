@@ -17,7 +17,7 @@
 
 Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče, které pomáhají široké veřejnosti i odborným pracovníkům. Cílem autora je nestranně a srozumitelně vzdělat čtenáře v oblasti prevence a péče o zdraví a informovat o běžných zdravotních problémech.
 
-{class="image-group author card" id="jaroslav\_pavelka" data-image-group-url="/files/thumbs/jaroslav\_pavelka.jpg"}
+{class="image-group author card" id="author" data-image-group-url="/files/thumbs/jaroslav_pavelka.jpg"}
 
 MUDr. Jaroslav Pavelka <span>(<span class="far fa-xs fa-asterisk">i</span> 1952)</span> {class="card__heading"}
 :   Ambulantní chirurg s 40letou praxí
