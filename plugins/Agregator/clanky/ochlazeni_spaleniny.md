@@ -5,7 +5,7 @@
 
 # Ochlazení jako první pomoc při spálenině
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-11-10, do not edit -->
 
 {kw="poranění, první pomoc, úraz, kůže-podkoží, děti, žláza, pohyb"}
 

@@ -5,7 +5,7 @@
 
 # Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-11-10, do not edit -->
 
 {kw="žaludek, krvácení, nevolnost, zvracení, krev, břicho, nádory, zhoubné, strava-zažívání"}
 

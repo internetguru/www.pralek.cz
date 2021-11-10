@@ -1,9 +1,11 @@
 
 {data-fbcommentid="1859855190813510" data-type="article" data-image="/files/preview/koutek/bodne\_a\_strelne_poraneni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-05-15" mtime="2021-02-03" data-top="929" author="Jaroslav Pavelka" id="zavazna_poraneni" short="Závažná poranění"}
+{ctime="2009-05-15" mtime="2009-05-15" data-top="929" author="Jaroslav Pavelka" id="zavazna_poraneni" short="Závažná poranění"}
 
 # Závažnost bodných a střelných poranění
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-11-10, do not edit -->
 
 {kw="poranění, krvácení, kůže-podkoží, pohyb, břicho, cévy"}
 

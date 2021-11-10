@@ -5,7 +5,7 @@
 
 # Nadměrné dýchání
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-11-10, do not edit -->
 
 {kw="dýchání, strach, porucha vědomí, první pomoc, srdce, krev, nevolnost, kolaps, zvracení"}
 

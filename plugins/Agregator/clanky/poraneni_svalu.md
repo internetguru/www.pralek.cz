@@ -5,6 +5,8 @@
 
 # Natažení nebo natržení svalu
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-11-10, do not edit -->
+
 {kw="úraz, pohyb"}
 
 Natažení svalu nelze od jeho natržení laicky rozeznat. Rozdíl v léčení je zásadní, a proto je vhodné [vyhledat odborné vyšetření][1]. Natažení nebo natržení svalu je úraz ponejvíce mužů středního věku.

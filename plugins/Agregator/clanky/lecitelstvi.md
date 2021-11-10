@@ -5,7 +5,7 @@
 
 # Doktor nebo léčitel
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-11-10, do not edit -->
 
 {kw="strach, neúrazové, zdravý životní styl, strava-zažívání, první pomoc"}
 
