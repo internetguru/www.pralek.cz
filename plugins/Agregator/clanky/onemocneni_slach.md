@@ -9,7 +9,7 @@
 
 {kw="pohyb, zánět, uzliny, neúrazové, mikroorganizmy, antibiotika"}
 
-Neúměrná zátěž šlachy může způsobit potíže nadměrnou tvorbu mazu nebo jeho nedostatkem. Obojí je nutné léčit klidem. Oslabená nebo dlouhodobě nemocná šlacha se může při zátěži přetrhnout.
+Neúměrná zátěž šlachy může způsobit nadměrnou tvorbu mazu nebo naopak jeho nedostatek. Obojí působí potíže, které je nutné léčit klidem. Oslabená nebo dlouhodobě nemocná šlacha se může při zátěži přetrhnout.
 
 Šlacha je pevný vazivový pruh, který spojuje konec svalu s cílovým místem na kosti. Šlacha přenáší svalovou sílu na úpon příslušné kosti. Převážně v ohybech jsou šlachy uloženy ve šlachových pochvách, které obsahují přiměřené množství gelovité tekutiny. Ta působí jako mazivo, které obsahuje i každý [zdravý kloub][1].
 
