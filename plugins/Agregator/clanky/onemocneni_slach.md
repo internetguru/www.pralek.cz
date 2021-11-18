@@ -25,9 +25,9 @@ V prstech nejsou žádné svaly. Svaly ohýbačů a natahovačů prstů jsou ulo
 
 {class="example"}
 
-Zánět šlach nejčastěji postihuje pacienty, kteří pracují s klávesnicí nebo s myší u počítače. Často se také jedná o pilně trénující hráče na hudební nástroje a podobně.
+Zánět šlach nejčastěji postihuje lidi, kteří pracují s klávesnicí nebo s myší u počítače. Často se také jedná o pilně trénující muzikanty a podobně.
 
-Zánět šlach se projevuje zvýšeným vstřebáváním (a tedy nedostatkem) kloubního mazu v pochvě. Původně namožené místo začíná bolet a při pohybu nemocnou šlachou v pochvě pacient vnímá vrzání a drásání. Šlacha pochvou pro nedostatek mazu neklouže ale **bolestivě se dře o stěny**.
+Zánět šlach se projevuje zvýšeným vstřebáváním (a tedy nedostatkem) kloubního mazu ve šlachové pochvě. Původně namožené místo začíná bolet a při pohybu nemocnou šlachou v pochvě pacient vnímá vrzání a drásání. Šlacha pochvou pro nedostatek mazu neklouže ale **bolestivě se dře o stěny**.
 
 {class="important"}
 
