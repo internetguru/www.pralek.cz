@@ -21,7 +21,7 @@ Zdravotnická záchranná služba je jednou ze základních složek _integrovan�
 
 Nemocného člověka je nutno na místě vyšetřit, dle závažnosti stavu mu [zajistit základní životní funkce][1] a [podat potřebné léky][2]. V případě potřeby je pacient následně dopraven do nejbližší nemocnice, která je schopna ten který úraz nebo onemocnění vyřešit.
 
-Pokud dojde k většímu neštěstí nebo k hromadné nehodě, vysílá dispečer na místo více posádek zároveň. Vrtulník může být po zhodnocení situace vyslán přímo dispečerem, nebo je po vyhodnocení stavu na místě nehody dodatečně přivolán posádkou rychlé lékařské pomoci. Součinnost s policií a hasiči u různých (například dopravních) nehod je již rutinní záležitostí.
+Pokud dojde k většímu neštěstí nebo k hromadné nehodě, vysílá dispečer na místo více posádek zároveň. Vrtulník může být po zhodnocení situace vyslán přímo dispečerem, nebo je po vyhodnocení stavu na místě nehody dodatečně přivolán posádkou rychlé lékařské pomoci. Součinnost s policií a hasiči u různých nehod (například dopravních) je již rutinní záležitostí.
 
 {class="example"}
 
