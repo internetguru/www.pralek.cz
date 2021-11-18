@@ -105,8 +105,8 @@ n/a
 
   1. Jaké příčiny může mít zvracení po požití hub?
   2. Proč zvrací člověk, který se uhodil do hlavy?
-  3. Proč je dobré nejíst, pokud trvá průjem?
-  4. Proč je nutné pít, pokud trvá průjem?
+  3. Proč je potřeba nejíst, dokud trvá průjem?
+  4. Proč je nutné pít, dokud trvá průjem?
   5. Co může způsobit opakované zadržování stolice?
 
 {var="inputvar-feedback_h" id="dotace"}
