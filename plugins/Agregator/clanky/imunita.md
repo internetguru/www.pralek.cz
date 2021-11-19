@@ -37,7 +37,7 @@ Autoimunitní onemocnění
 
 ## Co dělat pro správně fungující imunitní systém
 
-Nejnovější výzkumy prokázaly, že **nejsilnější a nejzdravější** jedinec, který má řádně vyvinutý imunitní (obranný) systém, je odolný vůči [nakažlivým nemocem][4] i vůči [prochlazení][7].
+Nejsilnější a nejzdravější jedinec má řádně vyvinutý imunitní (obranný) systém. Je tedy odolný vůči [nakažlivým nemocem][4] i vůči [prochlazení][7].
 
 Faktory podporující správně fungující imunitní systém jsou následující:
 
