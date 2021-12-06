@@ -21,11 +21,17 @@ n/a
 
 Dešťová (měkká) voda
 :   Neobsahuje žádné soli ani minerály.
-:   Je značně znečištěna — v každé kapce vody jsou různé nečistoty, částečky prachu nebo pylová zrnka. Pramenitá voda
+:   Je značně znečištěna — v každé kapce vody jsou různé nečistoty, částečky prachu nebo pylová zrnka.
+
+Pramenitá voda
 :   Vyvěrá z určité hloubky země a je velmi vhodná pro trvalé pití.
-:   Jak dešťová voda prosakuje z povrchu země propustnými vrstvami horniny, zbavuje se nečistot. Při prostupu různými horninami se v ní rozpouštějí soli a minerální látky. Tvrdá voda
+:   Jak dešťová voda prosakuje z povrchu země propustnými vrstvami horniny, zbavuje se nečistot. Při prostupu různými horninami se v ní rozpouštějí soli a minerální látky.
+
+Tvrdá voda
 :   Obsahuje více minerálů.
-:   Ačkoliv minerální látky z tvrdé vody zanášejí trubky, varnou konvici nebo pračku, lidskému organizmu nikterak neškodí. Minerální voda
+:   Ačkoliv minerální látky z tvrdé vody zanášejí trubky, varnou konvici nebo pračku, lidskému organizmu nikterak neškodí.
+
+Minerální voda
 :   Má ještě vyšší, přesně daný obsah minerálů (popsáno na vinětě).
 :   Taková voda bývá označována jako lázeňská a předpokládá se její blahodárný vliv na lidský organizmus v limitovaném množství.
 
