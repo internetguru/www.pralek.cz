@@ -11,13 +11,11 @@
 
 Je mnoho léků proti bolesti a v moderních preparátech jsou různě kombinovány. Jednotlivé firmy vyrábí tytéž léky pod různými názvy. Pro laika je těžké se v nabídce léků zorientovat. Vždy je správné, poradit se o vhodném léku proti bolesti se svým lékařem nebo lékárníkem.
 
-Člověk trpící bolestí hledá jakoukoli pomoc; nejlépe ve formě léku proti bolesti _(analgetika)_. Bolest není na světě za trest. **Bolest je upozorněním a příznakem toho, že je něco v nepořádku.** Každá bolest má tedy svou příčinu.
-
 {id="uzivani\_leku\_proti_bolesti"}
 
 ## Užívání léků proti bolesti
 
-n/a
+Člověk trpící bolestí hledá jakoukoli pomoc, nejlépe ve formě léku proti bolesti _(analgetika)_. Bolest není na světě za trest. **Bolest je upozorněním a příznakem toho, že je něco v nepořádku.** Každá bolest má tedy svou příčinu.
 
   1. V případě bolesti je třeba [nejprve najít příčinu][1]. Je-li možné odstranit příčinu bolesti, pak je to prvořadý úkol lékaře.
   2. Léky proti bolesti je dobré brát až v případě známé příčiny a nemožnosti jejího odstranění. U některých nemocí je odstranění bolesti bohužel jedinou možností, jak pacientovi pomoci.
@@ -28,37 +26,40 @@ Některé zvláštní bolestivé nemoci vyžadují zcela zvláštní léky (nap�
 
 {class="important"}
 
-Vždy je třeba si vzít co nejméně léku; jen tolik, aby bolest utlumil. Bolest není nutné (a často ani možné) zcela odstranit.
+Vždy je třeba si vzít co nejméně léku, a to jen tolik, aby bolest utlumil. Bolest není nutné (a často ani možné) zcela odstranit.
 
 {id="druhy\_leku\_proti_bolesti"}
 
 ## Druhy léků proti bolesti
 
-n/a
-
 Jednotlivé léky každé skupiny jsou od různých výrobců k dostání pod různými názvy, ačkoli jsou chemicky naprosto identické. Lékárník vždy (na rozdíl od sousedky nebo zavádějící reklamy) umí doporučit vhodný lék, mnohdy levnější nebo dokonce hrazený pojišťovnou.
 
-  * Výborným **lékem první volby** proti bolesti je Acylpyrin / Aspirin nebo nedráždivý Anopyrin _(kyselina acetylsalicylová)_. 
-      * Působí proti teplotě a proti jakékoli bolesti.
-      * Nemá žádné negativní vedlejší účinky.
-      * Mírně ředí krev; tato vlastnost se využívá k léčení a prevenci některých nemocí (například [po infarktu][5]).
-  * Oblíbenými a dobrými léky proti bolesti jsou Algifen, Neoalgin, No-spa _(spasmolytika)_. 
-      * Ve [formě kapek][6] je lze výborně dávkovat; snadněji než dělit tablety.
-      * Jsou určeny především k [tlumení kolikovitých bolestí][2].
-      * Vedlejší účinky jsou minimální.
-  * Paracetamol / Paralen je dalším výborným lékem [proti bolesti a teplotě][7]. 
-      * Pro téměř zanedbatelné vedlejší účinky je podáván s oblibou i dětem.
-  * Dalším lékem proti bolesti je Ibalgin / Ibuprofen / Apoibuprofen, u starších lidí oblíbený pod názvem Brufen. 
-      * Působí proti bolesti a proti zánětům.
-      * Jeho vedlejší účinky nejsou příliš škodlivé, není-li užíván dlouhodobě.
-  * Lék Tramal / Tramadol je dobré užívat až po konzultaci s lékařem. 
-      * Má silnější protibolestivý efekt, ovšem již za cenu větších negativních vedlejších účinků.
-  * Široká řada moderních léků proti bolesti (často známých z reklam). 
-      * Většinou se jedná o kombinace výše uvedených léků.
-      * Nejsou obecně lepší nebo horší než ostatní léky proti bolesti. Vždy někomu výborně pomohou, někomu ne a někomu dokonce ublíží (např. [alergická reakce][8], která je pravděpodobnější právě při kombinování léků).
-      * Jsou cenově vždy méně výhodné.
-  * Na konci řady léků proti bolesti jsou opiáty _(fentanyl, dolzin, morfin)_. 
-      * Zcela zbaví pacienta bolestí ale **vedlejší účinky jsou velmi výrazné**.
+Acylpyrin / Aspirin nebo nedráždivý Anopyrin _(kyselina acetylsalicylová)_
+:   Výborný **lék první volby** proti bolesti.
+:   Působí proti teplotě a proti jakékoli bolesti.
+:   Nemá žádné negativní vedlejší účinky.
+:   Mírně ředí krev. Tato vlastnost se využívá k léčení a prevenci některých nemocí (například [po infarktu][5]).
+
+Paracetamol / Paralen
+:   Další výborný lék [proti bolesti a teplotě][7].
+:   Pro téměř zanedbatelné vedlejší účinky je podáván s oblibou i dětem.
+
+Ibalgin / Ibuprofen / Apoibuprofen, známý také jako Brufen
+:   Působí proti bolesti a proti zánětům.
+:   Jeho vedlejší účinky nejsou příliš škodlivé, není-li užíván dlouhodobě.
+
+Tramal / Tramadol
+:   Lék je dobré užívat až po konzultaci s lékařem.
+:   Má silnější protibolestivý efekt, ovšem již za cenu větších negativních vedlejších účinků.
+
+Široká řada moderních léků proti bolesti známá z reklam
+:   Většinou se jedná o kombinace výše uvedených léků.
+:   Nejsou obecně lepší nebo horší než ostatní léky proti bolesti.
+:   Vždy někomu výborně pomohou, někomu ne a někomu dokonce ublíží (např. [alergická reakce][8], která je pravděpodobnější právě při kombinování léků).
+:   Jsou cenově vždy méně výhodné.
+
+Opiáty jako fentanyl, dolzin a morfin
+:   Zcela zbaví pacienta bolestí ale **vedlejší účinky jsou velmi výrazné**.
 
 {id="otazky" var="inputvar-otazky_h"}
 
