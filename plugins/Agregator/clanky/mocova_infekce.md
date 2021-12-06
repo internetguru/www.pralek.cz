@@ -1,7 +1,7 @@
 
 {data-fbcommentid="1859958557469840" data-type="article" data-image="/files/preview/koutek/zanet\_mocoveho\_mechyre/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-01-27" mtime="2010-01-27" data-top="945" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocova\_infekce" short="Močová infekce"}
+{ctime="2010-01-27" mtime="2010-01-27" data-top="945" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocova_infekce" short="Močová infekce"}
 
 # Zánět močové trubice a močového měchýře žen
 
