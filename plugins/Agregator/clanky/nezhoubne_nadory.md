@@ -5,8 +5,6 @@
 
 # Nezhoubné nádory a bouličky s nimi zaměňované
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
-
 {kw="nádory, boulička, neúrazové, strach, nezhoubné, žláza"}
 
 Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Preventivní odstranění některých nádorů se stalo rutinou, u ostatních většinou postačí pravidelné kontroly.
@@ -85,16 +83,22 @@ Adenom
 
 ## Bouličky zaměňované s nezhoubnými nádory
 
+n/a
+
 Gangliom
 :   Je boulička na šlaše nebo v okolí kloubu.
 :   Nejedná se o nádor, ale o [onemocnění šlach][9].
+
 Aterom
 :   Je mazová žláza s uzavřeným vývodem, ve které se hromadí její obsah.
 :   Vznikne v případě nadměrného [hromadění mazu uvnitř žlázy][10].
+
 Cysta
 :   Je dutina vyplněná tekutinou.
+
 Absces
 :   Je [dutina vyplněná hnisem][11].
+
 Keloid
 :   Je zbytnělá jizva vzniklá poruchou hojení (nejčastěji po spálenině).
 
