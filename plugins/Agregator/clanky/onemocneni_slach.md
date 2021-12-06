@@ -45,11 +45,14 @@ Stejně jako u zánětu šlach (nedostatek kloubního mazu) je v případě gang
 
 Vypíchnutí
 :  Napíchnutí injekční jehlou a odsátí mazivové hmoty
+
 Mechanické rozbití,
 :  Rozmáčknutí palcem nebo například uhozením hřbetem knihy
 :  Tlakem pouzdro gangliomu praskne, tekutina se vylije do podkoží a gangliom zmizí
+
 Operační odstranění
 :  V místním nebo celkovém znecitlivění
+
 Zklidnění dlahou
 :  Tvořící se bolestivý gangliom je možné zklidnit přiloženou dlahou
 :  Zklidněním se gangliom může sám vstřebat
@@ -81,6 +84,7 @@ Pouze dočasná deformita paže může někomu působit potíže.
 Léčba klidem 
 :   K léčení přetržené šlachy bicepsu postačí několik dnů klidu a následné rozcvičení
 :   Deformita paže (stažený utržený sval) se časem vyrovná, utržený sval se totiž nečinností podstatně zmenší.
+
 Léčba operací
 :   Přetrženou šlachu je možno operačně sešít a sval se dostane na původní místo.
 :   To však vyžaduje určitou dobu klidu do zhojení šlachy (pevná šlacha se hojí 6 týdnů) a následné intenzivní rozcvičení (rehabilitaci) ramene.
