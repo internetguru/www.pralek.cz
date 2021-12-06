@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859892824143080" data-type="article" data-image="/files/preview/koutek/leky\_proti\_bolesti/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-03-28" mtime="2010-03-28" data-top="964" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="analgetika" short="Analgetika"}
+{ctime="2010-03-28" mtime="2010-03-28" data-top="964" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="analgetika" short="Analgetika"}
 
 # Léky proti bolesti neboli analgetika
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
 
 {kw="neúrazové, prevence, úraz, pohyb, břicho"}
 
@@ -41,7 +41,7 @@ Acylpyrin / Aspirin nebo nedráždivý Anopyrin _(kyselina acetylsalicylová)_
 :   Mírně ředí krev. Tato vlastnost se využívá k léčení a prevenci některých nemocí (například [po infarktu][5]).
 
 Paracetamol / Paralen
-:   Další výborný lék [proti bolesti a teplotě][7].
+:   Další výborný lék [proti bolesti a teplotě][6].
 :   Pro téměř zanedbatelné vedlejší účinky je podáván s oblibou i dětem.
 
 Ibalgin / Ibuprofen / Apoibuprofen, známý také jako Brufen
@@ -55,7 +55,7 @@ Tramal / Tramadol
 Široká řada moderních léků proti bolesti známá z reklam
 :   Většinou se jedná o kombinace výše uvedených léků.
 :   Nejsou obecně lepší nebo horší než ostatní léky proti bolesti.
-:   Vždy někomu výborně pomohou, někomu ne a někomu dokonce ublíží (např. [alergická reakce][8], která je pravděpodobnější právě při kombinování léků).
+:   Vždy někomu výborně pomohou, někomu ne a někomu dokonce ublíží (např. [alergická reakce][7], která je pravděpodobnější právě při kombinování léků).
 :   Jsou cenově vždy méně výhodné.
 
 Opiáty jako fentanyl, dolzin a morfin
@@ -106,7 +106,6 @@ n/a
  [3]: artroza
  [4]: bolesti_v_zadech_houser
  [5]: srdecni_infarkt
- [6]: lekove_formy
- [7]: teplota
- [8]: imunita
+ [6]: teplota
+ [7]: imunita
 

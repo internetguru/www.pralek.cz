@@ -5,6 +5,8 @@
 
 # Doktor nebo léčitel: koho kdy vyhledat a komu věřit
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
+
 {kw="strach, neúrazové, zdravý životní styl, strava-zažívání, první pomoc"}
 
 Při rozhodování, zda vyhledat lékaře nebo léčitele, platí zásada, že nejprve musí lékař řádně vyšetřit pacienta. V případě, že je dnešní věda na chorobu krátká, je možné vyhledat léčitele a doufat, že se mu podaří navrátit pacientovi ztracené zdraví.

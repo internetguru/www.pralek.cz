@@ -5,7 +5,7 @@
 
 # Bolest hlavy, migréna
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
 
 {kw="cévy, neúrazové, prevence, strava-zažívání, úraz, přehřátí, teplota, zánět"}
 
@@ -55,8 +55,6 @@ Požití jedovaté potraviny (např. alkoholu)
 
 Nadměrné [kouření tabáku][8], marihuany, heroinu
 :   Pomůže čerstvý vzduch, klid a chladné tekutiny.
-
-<!-- sep -->
 
 [Vysoký krevní tlak][9]
 :   Po zaléčení vysokého tlaku a jeho normalizaci mohou bolesti hlavy ustat.

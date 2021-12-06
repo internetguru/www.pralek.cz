@@ -5,7 +5,7 @@
 
 # Příčiny a léčba bolestí v zádech
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
 
 {kw="pohyb, rehabilitace, neúrazové, úraz, prochlazení, prevence"}
 
