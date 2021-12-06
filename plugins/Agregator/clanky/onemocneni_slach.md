@@ -5,7 +5,7 @@
 
 # Zánět šlach, gangliom, tenisový loket
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
 
 {kw="pohyb, zánět, uzliny, neúrazové, mikroorganizmy, antibiotika"}
 
@@ -44,18 +44,18 @@ Gangliom vzniká rovněž v souvislosti s přetížením některé šlachy nebo 
 Stejně jako u zánětu šlach (nedostatek kloubního mazu) je v případě gangliomu (nadbytek kloubního mazu) potřeba **zamezit pohybům, které onemocnění způsobily**. Pokud pacient nedodrží léčebný režim, je možné gangliom odstranit.
 
 Vypíchnutí
-:  Napíchnutí injekční jehlou a odsátí mazivové hmoty
+:   Napíchnutí injekční jehlou a odsátí mazivové hmoty
 
 Mechanické rozbití,
-:  Rozmáčknutí palcem nebo například uhozením hřbetem knihy
-:  Tlakem pouzdro gangliomu praskne, tekutina se vylije do podkoží a gangliom zmizí
+:   Rozmáčknutí palcem nebo například uhozením hřbetem knihy
+:   Tlakem pouzdro gangliomu praskne, tekutina se vylije do podkoží a gangliom zmizí
 
 Operační odstranění
-:  V místním nebo celkovém znecitlivění
+:   V místním nebo celkovém znecitlivění
 
 Zklidnění dlahou
-:  Tvořící se bolestivý gangliom je možné zklidnit přiloženou dlahou
-:  Zklidněním se gangliom může sám vstřebat
+:   Tvořící se bolestivý gangliom je možné zklidnit přiloženou dlahou
+:   Zklidněním se gangliom může sám vstřebat
 
 {class="important"}
 
@@ -81,7 +81,7 @@ Nejčastěji dochází v zátěži k **přetržení šlachy bicepsu** (dlouhé h
 
 Pouze dočasná deformita paže může někomu působit potíže.
 
-Léčba klidem 
+Léčba klidem
 :   K léčení přetržené šlachy bicepsu postačí několik dnů klidu a následné rozcvičení
 :   Deformita paže (stažený utržený sval) se časem vyrovná, utržený sval se totiž nečinností podstatně zmenší.
 
@@ -141,3 +141,4 @@ n/a
  [5]: uzliny
  [6]: nezhoubne_nadory
  [7]: poraneni_svalu
+

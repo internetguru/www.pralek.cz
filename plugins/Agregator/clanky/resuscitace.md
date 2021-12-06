@@ -5,6 +5,8 @@
 
 # Kdy a jak zahájit oživování
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
+
 {kw="porucha vědomí, dýchání, poranění, kolaps, první pomoc, srdce"}
 
 V případě vyhasnutí základních životních funkcí zachrání život neodkladné zahájení srdeční masáže ještě před příjezdem lékaře.

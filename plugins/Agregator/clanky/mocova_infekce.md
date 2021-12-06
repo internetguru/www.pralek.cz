@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859958557469840" data-type="article" data-image="/files/preview/koutek/zanet\_mocoveho\_mechyre/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-01-27" mtime="2010-01-27" data-top="945" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocova_infekce" short="Močová infekce"}
+{ctime="2010-01-27" mtime="2010-01-27" data-top="945" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="mocova\_infekce" short="Močová infekce"}
 
 # Zánět močové trubice a močového měchýře žen
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
 
 {kw="moč, zánět, prochlazení, břicho, pocení, neúrazové, prevence, krvácení"}
 
@@ -15,13 +15,13 @@ Zánět močového měchýře je nepříjemné a velmi bolestivé onemocnění, 
 
 Močový měchýř mužů i žen je uložen za stydkou kostí. Močová trubice odvádí moč z močového měchýře ven z těla. Zevní ústí močové trubice žen je uloženo v poševním vchodu, který je [osídlen zvláštními mikroorganizmy][1].
 
-{id="pricina\_zanetu"}
+{id="pricina_zanetu"}
 
 ## Příčinou zánětu močového měchýře jsou anatomické poměry žen
 
-Je nutné [bránit se nejen prochlazení][6], ale stejně nebezpečné může být zpocení s následným prostydnutím anebo pouhé prochlazení nohou. Znovuvzplanutí zánětu močového měchýře může způsobit jen delší pobyt v mokrých plavkách nebo v mokrých botách.
+Je nutné [bránit se nejen prochlazení][2], ale stejně nebezpečné může být zpocení s následným prostydnutím anebo pouhé prochlazení nohou. Znovuvzplanutí zánětu močového měchýře může způsobit jen delší pobyt v mokrých plavkách nebo v mokrých botách.
 
-  1. Močová trubice žen je velmi krátká, proto je snadnou [vstupní bránou infekce][2]. Za určitých podmínek mohou mikroorganizmy proniknout do močového měchýře a způsobit [jeho zánět][3].
+  1. Močová trubice žen je velmi krátká, proto je snadnou [vstupní bránou infekce][3]. Za určitých podmínek mohou mikroorganizmy proniknout do močového měchýře a způsobit [jeho zánět][4].
   2. Zevní ústí močové trubice žen někdy bývá zúžené. Pak se část močového proudu vrací při močení proti proudu moči zpět do močového měchýře a s sebou může přinést mikroorganizmy z poševního vchodu.
 
 {class="important"}
@@ -31,9 +31,9 @@ Není souvislost mezi zánětem močového měchýře a zanedbáváním hygieny.
 Prodělané **onemocnění močového měchýře se vracívá** _(recidiva)_. Příčinou bývá jakékoli oslabení, vyčerpání nebo prochlazení organizmu. K odvrácení recidivy je třeba:
 
   * dbát na dostatečný (třeba aktivní) odpočinek,
-  * zajistit dostatečný [příjem nedráždivých tekutin][4],
-  * podporovat [tvorbu imunity][5] a
-  * **[přiměřeně se oblékat][2]** .
+  * zajistit dostatečný [příjem nedráždivých tekutin][5],
+  * podporovat [tvorbu imunity][6] a
+  * **[přiměřeně se oblékat][3]** . 
 
 {class="important"}
 
@@ -45,7 +45,7 @@ Funkci močového měchýře blahodárně ovlivňují brusinky.
 
 Prudký zánět močového měchýře _(cystitis acuta)_ se projevuje jako nesnesitelná bolest v podbřišku s nucením na močení. Bolest se zhoršuje na počátku a na konci močení. Někdy se projeví dokonce i [krvácením do moče][7] _(cystitis haemorhagica)_.
 
-Zánět močového měchýře bývá [doprovázen zvýšenou teplotou][2].
+Zánět močového měchýře bývá [doprovázen zvýšenou teplotou][3].
 
   1. K léčení zánětu močového měchýře se užívají antibiotika nebo chemoterapeutika a to nejlépe podle [kultivace a citlivosti][8].
   2. Dále [je nutné brát léky proti bolesti][9], [nejlépe ve formě kapek][10], protože lze dobře určit účinnou dávku.
@@ -92,13 +92,14 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: bakterie
- [2]: teplota
- [3]: zanet
- [4]: prijem_tekutin
- [5]: imunita
- [6]: bolest_v_krku_angina
+ [2]: bolest_v_krku_angina
+ [3]: teplota
+ [4]: zanet
+ [5]: prijem_tekutin
+ [6]: imunita
  [7]: mocove_kameny
  [8]: antibiotika
  [9]: leky_proti_bolesti
  [10]: lekove_formy
  [11]: stravovaci_navyky
+

@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859939434138419" data-type="article" data-image="/files/preview/koutek/rychla\_lekarska\_pomoc/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2010-02-28" mtime="2010-02-28" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zachranka" short="Záchranka"}
+{ctime="2010-02-28" mtime="2010-02-28" author="Jaroslav Pavelka" authorid="jaroslav_pavelka" id="zachranka" short="Záchranka"}
 
 # Rychlá lékařská pomoc
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-18, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
 
 {kw="porucha vědomí, infarkt, cévy, první pomoc, úraz, zlomeniny"}
 
@@ -31,7 +31,7 @@ Pokud dojde k většímu neštěstí nebo k hromadné nehodě, vysílá dispeče
 
 Dítě bylo odborně ošetřeno a dostalo potřebné léky. Sanita vyrazila směrem k velkému parkovišti, spojila se s dispečerem a žádala vrtulník k transportu na kliniku pro spáleniny do Prahy. Zabezpečené dítě bylo předáno do vrtulníku na domluveném místě. _Dětský život byl zachráněn._
 
-{id="informacni\_tok"}
+{id="informacni_tok"}
 
 ## Informační tok a rozhodování o posádce a výjezdech
 
@@ -41,16 +41,16 @@ Dispečer se sám volajícího vyptá na vše potřebné, není tedy nutné být
 
 Dispečer má na výběr na místo vyslat:
 
-1. posádku rychlé zdravotnické pomoci (RZP) složenou z řidiče a sestry,
-2. posádku rychlé lékařské pomoci (RLP) složenou z řidiče, lékaře a sestry,
-3. posádku letecké záchranné služby (LZS) složenou z pilota, lékaře a sestry nebo použít
-4. systém „rendezvous“, složený z řidiče s lékařem. V hustě osídlených aglomeracích (centrum Prahy) je výjezdů více a proto je objíždění vozidel rychlé záchranné pomoci (bez lékaře) výhodné. Osobním autem mohou lékař s řidičem záchranářem objíždět a konzultovat více zasahujících posádek záchranky.
+  1. posádku rychlé zdravotnické pomoci (RZP) složenou z řidiče a sestry,
+  2. posádku rychlé lékařské pomoci (RLP) složenou z řidiče, lékaře a sestry,
+  3. posádku letecké záchranné služby (LZS) složenou z pilota, lékaře a sestry nebo použít
+  4. systém „rendezvous“, složený z řidiče s lékařem. V hustě osídlených aglomeracích (centrum Prahy) je výjezdů více a proto je objíždění vozidel rychlé záchranné pomoci (bez lékaře) výhodné. Osobním autem mohou lékař s řidičem záchranářem objíždět a konzultovat více zasahujících posádek záchranky.
 
 Řidič záchranky je vždy zároveň záchranář. Sestru někdy nahrazuje druhý záchranář. Oba jsou vyškoleni v oboru akutní intenzivní péče.
 
 Služba pracuje v nepřetržitém směnném režimu (12 hodin). Vozidlo rychlé lékařské pomoci je vybaveno léky, zdravotnickou technikou a moderními přístroji, které umožňují zachránit život zraněnému nebo nemocnému člověku.
 
-{id="duvody\_privolani"}
+{id="duvody_privolani"}
 
 ## Důvody přivolání záchranky, plané výjezdy a agresivita pacientů
 

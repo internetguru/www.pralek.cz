@@ -5,6 +5,8 @@
 
 # Naléhavost vyhledání lékařské péče
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
+
 {kw="úraz, krvácení, spáleniny, zlomeniny, angína, vykloubení, zánět"}
 
 Úrazy a ostatní poruchy zdraví mají různý stupeň naléhavosti a způsob řešení od technické první pomoci přes hospitalizaci až po rehabilitaci.

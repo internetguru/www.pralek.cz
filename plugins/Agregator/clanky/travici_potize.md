@@ -1,11 +1,11 @@
 
 {data-fbcommentid="1859873800811649" data-type="article" data-image="/files/preview/koutek/funkcni\_poruchy\_traveni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-09-10" mtime="2009-09-10" data-top="968" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="travici_potize" short="Trávicí potíže"}
+{ctime="2009-09-10" mtime="2009-09-10" data-top="968" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="travici\_potize" short="Trávicí potíže"}
 
 # Zvracení, průjem, škytání a větry
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
 
 {kw="zvracení, nevolnost, žaludek, strava-zažívání, jed, zdravý životní styl, břicho"}
 
@@ -61,9 +61,9 @@ Když pronikne kontaminovaná potrava do střeva (nelze tedy vyzvracet), snaží
 
 {class="important"}
 
-**Je důležité průjmem [ztracené tekutiny doplňovat][12].** Zvláště malé děti a staří lidé nemají velké rezervy a v případě kombinace zvracení a průjmu je nemožné tekutiny doplňovat a je nutné lékařské ošetření.
+**Je důležité průjmem [ztracené tekutiny doplňovat][12].** Zvláště malé děti a staří lidé nemají velké rezervy a v případě kombinace zvracení a průjmu je nemožné tekutiny doplňovat a je nutné lékařské ošetření. 
 
-Ustalo-li zvracení, je možné postupně začít pít. Nejprve vlažný čaj po lžičkách, posléze i větší množství — kolik žaludek udrží a podle počtu stolic. Brzy je nutné podávat i slané nápoje (minerálka, řídká nemastná polévka nejlépe jen mrkev a trochu rýže). 
+Ustalo-li zvracení, je možné postupně začít pít. Nejprve vlažný čaj po lžičkách, posléze i větší množství — kolik žaludek udrží a podle počtu stolic. Brzy je nutné podávat i slané nápoje (minerálka, řídká nemastná polévka nejlépe jen mrkev a trochu rýže).
 
 {class="example"}
 
@@ -71,7 +71,7 @@ Je-li průjem způsoben potravinou kontaminovanou bakteriálně, je dobré vydr�
 
 Zcela jinou kapitolou jsou **dlouhodobé průjmy** které souvisí se závažnými chronickými onemocněními střeva. Odborní lékaři musejí složitě zjišťovat ztráty a doplňovat minerály a ostatní organizmu chybějící látky.
 
-{id="skytani_vetry_stolice"}
+{id="skytani\_vetry\_stolice"}
 
 ## Škytání, větry a defekační reflex
 
