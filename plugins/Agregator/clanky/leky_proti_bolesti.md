@@ -39,20 +39,25 @@ Acylpyrin / Aspirin nebo nedráždivý Anopyrin _(kyselina acetylsalicylová)_
 :   Působí proti teplotě a proti jakékoli bolesti.
 :   Nemá žádné negativní vedlejší účinky.
 :   Mírně ředí krev. Tato vlastnost se využívá k léčení a prevenci některých nemocí (například [po infarktu][5]).
+
 Paracetamol / Paralen
 :   Další výborný lék [proti bolesti a teplotě][7].
 :   Pro téměř zanedbatelné vedlejší účinky je podáván s oblibou i dětem.
+
 Ibalgin / Ibuprofen / Apoibuprofen, známý také jako Brufen
 :   Působí proti bolesti a proti zánětům.
 :   Jeho vedlejší účinky nejsou příliš škodlivé, není-li užíván dlouhodobě.
+
 Tramal / Tramadol
 :   Lék je dobré užívat až po konzultaci s lékařem.
 :   Má silnější protibolestivý efekt, ovšem již za cenu větších negativních vedlejších účinků.
+
 Široká řada moderních léků proti bolesti známá z reklam
 :   Většinou se jedná o kombinace výše uvedených léků.
 :   Nejsou obecně lepší nebo horší než ostatní léky proti bolesti.
 :   Vždy někomu výborně pomohou, někomu ne a někomu dokonce ublíží (např. [alergická reakce][8], která je pravděpodobnější právě při kombinování léků).
 :   Jsou cenově vždy méně výhodné.
+
 Opiáty jako fentanyl, dolzin a morfin
 :   Zcela zbaví pacienta bolestí ale **vedlejší účinky jsou velmi výrazné**.
 
