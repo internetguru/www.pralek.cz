@@ -5,8 +5,6 @@
 
 # Přiměřený příjem tekutin
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-10-11, do not edit -->
-
 {kw="tekutiny, zdravý životní styl, moč, teplota, pocení, děti, senioři"}
 
 Životodárná voda tvoří převážnou část objemu i hmotnosti lidského těla. Dostatek pitné vody je podmínkou pro správný chod celého organizmu (pitný režim). Stejně důležitý je přiměřený poměr mezi množstvím pitné vody, solí a minerálů.
@@ -23,14 +21,11 @@ n/a
 
 Dešťová (měkká) voda
 :   Neobsahuje žádné soli ani minerály.
-:   Je značně znečištěna — v každé kapce vody jsou různé nečistoty, částečky prachu nebo pylová zrnka.
-Pramenitá voda
+:   Je značně znečištěna — v každé kapce vody jsou různé nečistoty, částečky prachu nebo pylová zrnka. Pramenitá voda
 :   Vyvěrá z určité hloubky země a je velmi vhodná pro trvalé pití.
-:   Jak dešťová voda prosakuje z povrchu země propustnými vrstvami horniny, zbavuje se nečistot. Při prostupu různými horninami se v ní rozpouštějí soli a minerální látky.
-Tvrdá voda
+:   Jak dešťová voda prosakuje z povrchu země propustnými vrstvami horniny, zbavuje se nečistot. Při prostupu různými horninami se v ní rozpouštějí soli a minerální látky. Tvrdá voda
 :   Obsahuje více minerálů.
-:   Ačkoliv minerální látky z tvrdé vody zanášejí trubky, varnou konvici nebo pračku, lidskému organizmu nikterak neškodí.
-Minerální voda
+:   Ačkoliv minerální látky z tvrdé vody zanášejí trubky, varnou konvici nebo pračku, lidskému organizmu nikterak neškodí. Minerální voda
 :   Má ještě vyšší, přesně daný obsah minerálů (popsáno na vinětě).
 :   Taková voda bývá označována jako lázeňská a předpokládá se její blahodárný vliv na lidský organizmus v limitovaném množství.
 
@@ -62,16 +57,16 @@ Pivo je z tohoto pohledu svým složením pro tělo přirozené (téměř izoton
 
 Původně pitná voda může být [znečištěna (kontaminována) různými mikroorganizmy][4] nebo dusíkatými látkami, neprochází-li dostatečně silnou propustnou vrstvou horniny (většinou povrchová voda). Pití takové vody způsobuje **různé choroby**, např. choleru, salmonelózu.
 
-{id="nedostatek\_vody"}
+{id="nedostatek_vody"}
 
 ## Nedostatek vody zatěžuje organizmus
 
 n/a
 
-1. Zvyšování koncentrace moči je prvním krokem organizmu k šetření vody v případě jejího nedostatku. V příliš koncentrované moči [se snadněji tvoří močové kameny][5].
-2. Následuje zahušťování krve (souběžně se zahušťováním mezibuněčné i nitrobuněčné tekutiny). Hustší krev navíc hůře proudí krevními vlásečnicemi a snadněji může dojít k trombóze, [srdečnímu infarktu][6] nebo [k mozkové mrtvici][7].
-3. Zahušťují se i ostatní [tělní tekutiny][1], jako jsou trávicí šťávy včetně slin, žaludeční a pankreatické šťávy a žluč. To navíc zvyšuje pravděpodobnost [tvorby žlučových kamenů][8].
-4. V případě dostatečného nebo nadměrného tepla se dehydrovaný člověk přestává potit a [je ohrožen přehřátím organizmu (horečkou)][2].
+  1. Zvyšování koncentrace moči je prvním krokem organizmu k šetření vody v případě jejího nedostatku. V příliš koncentrované moči [se snadněji tvoří močové kameny][5].
+  2. Následuje zahušťování krve (souběžně se zahušťováním mezibuněčné i nitrobuněčné tekutiny). Hustší krev navíc hůře proudí krevními vlásečnicemi a snadněji může dojít k trombóze, [srdečnímu infarktu][6] nebo [k mozkové mrtvici][7].
+  3. Zahušťují se i ostatní [tělní tekutiny][1], jako jsou trávicí šťávy včetně slin, žaludeční a pankreatické šťávy a žluč. To navíc zvyšuje pravděpodobnost [tvorby žlučových kamenů][8].
+  4. V případě dostatečného nebo nadměrného tepla se dehydrovaný člověk přestává potit a [je ohrožen přehřátím organizmu (horečkou)][2].
 
 {id="dohled\_nad\_prijmem_tekutin"}
 
