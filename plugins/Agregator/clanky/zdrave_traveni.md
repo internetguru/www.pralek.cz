@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859947917470904" data-type="article" data-image="/files/preview/koutek/stravovaci_navyky/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-09-01" mtime="2009-09-01" data-top="936" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="stravovaci\_navyky" short="Stravovací návyky"}
+{ctime="2009-09-01" mtime="2009-09-01" data-top="936" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="zdrave\_traveni" short="Zdravé trávení"}
 
 # Stravovací návyky a trávicí systém
-
-<!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
 {kw="zdravý životní styl, strava-zažívání, žláza, žlučník, žaludek, břicho, tekutiny"}
 
@@ -45,24 +43,23 @@ V žaludku je potrava míšena s dalšími enzymy a s kyselinou solnou
 :   Zapíjením jídla vodou se zmíněné enzymy a kyselina zbytečně ředí a odplavují dále do střeva. Tím se kvalita trávení znehodnocuje se všemi důsledky (tlačení břicha, větry a prodloužení trávicího procesu). {class="important"}
 
 Zpracovaná potrava v tekutém stavu pokračuje do dvanáctníku
-:   Sem vyúsťují [žlučové cesty][5] společně s vývodem slinivky břišní. Žluč je trávicí šťáva, která se tvoří v játrech.
-:   Trávicí [šťáva slinivky břišní][6] je velmi agresivní tekutina; do střeva musí přitéct její přiměřené množství.
+:   Sem vyúsťují [žlučové cesty][3] společně s vývodem slinivky břišní. Žluč je trávicí šťáva, která se tvoří v játrech.
+:   Trávicí [šťáva slinivky břišní][4] je velmi agresivní tekutina; do střeva musí přitéct její přiměřené množství.
 :   Dochází zde k rozkladu tuků.
 
 Další části tenkého střeva (lačník a kyčelník)
-:  Probíhá zde štěpení potravy a postupné vstřebávání všech živin.
-:  V každé části střeva se vstřebává v návaznosti určitá živina, vitamín nebo minerál.
+:   Probíhá zde štěpení potravy a postupné vstřebávání všech živin.
+:   V každé části střeva se vstřebává v návaznosti určitá živina, vitamín nebo minerál.
 
 Nevstřebané zbytky potravy postupují do tlustého střeva (tračník)
-:   Zde je pomocí zcela jiných [bakteriálních kmenů][7] dokončeno vstřebávání potravy a následuje zpětné vstřebávání tekutin a formování stolice.
+:   Zde je pomocí zcela jiných [bakteriálních kmenů][5] dokončeno vstřebávání potravy a následuje zpětné vstřebávání tekutin a formování stolice.
 :   Stolice je uložena v esovité kličce a při vyprazdňování (defekaci) vychází z konečníku řitním otvorem.
 
 Typické problémy:
 
-  * Nedostatečné rozkousání potravy (hltání jídla) může způsobit [uvíznutí polykaného sousta v jícnu][3].
-  * V případě, že nedostatečně rozkousaná strava projde, bude déle „přemílána“ v žaludku. To může působit [pocit plnosti nebo tlaku v nadbřišku po jídle][4]. Řešením těchto potíží nemusí být hned lék, často postačí stravu dostatečně kousat.
+  * Nedostatečné rozkousání potravy (hltání jídla) může způsobit [uvíznutí polykaného sousta v jícnu][6].
+  * V případě, že nedostatečně rozkousaná strava projde, bude déle „přemílána“ v žaludku. To může působit [pocit plnosti nebo tlaku v nadbřišku po jídle][7]. Řešením těchto potíží nemusí být hned lék, často postačí stravu dostatečně kousat.
   * V případě nedostatečného promísení stravy se slinami (zlozvyk zapíjení jídla vodou) budou chybět první trávicí enzymy a opozdí se rozkládání cukrů. Cukry se tak dostávají až do střeva, kde způsobují zažívací potíže (větry).
-
 
 {id="zasady\_a\_chyby"}
 
@@ -138,9 +135,10 @@ n/a
 
  [1]: obezita_a_energie
  [2]: strevni_nepruchodnost
- [3]: spolknute_predmety
- [4]: funkcni_poruchy_traveni
- [5]: zlucove_kameny
- [6]: zanet_slinivky
- [7]: bakterie
+ [3]: zlucove_kameny
+ [4]: zanet_slinivky
+ [5]: bakterie
+ [6]: spolknute_predmety
+ [7]: funkcni_poruchy_traveni
  [8]: prijem_tekutin
+
