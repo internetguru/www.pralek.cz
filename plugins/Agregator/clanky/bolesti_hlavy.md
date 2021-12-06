@@ -31,20 +31,28 @@ n/a
 
 Používání nesprávných nebo znečištěných dioptrických brýlí
 :   Problémy může vyřešit [vyšetření očním lékařem][2] a nové (nebo jen vyčištěné) brýle.
+
 Ztuhlá krční páteř
 :   Pomůže [uvolnění krční páteře a její prohřátí][3], případně rehabilitační lékař.
+
 [Zánětlivé ložisko][4] v zubu nebo v jeho okolí
 :   K odhalení příčiny je nutné vyšetření stomatologem.
+
 [Přehřátí organizmu][5]
 :   Je třeba opustit horké prostředí, pomůže chladná sprcha nebo chladná místnost a příjem tekutin.
+
 [Nedostatek tekutin][6]
 :   Stačí tekutiny doplnit (dostatečně se napít vody).
+
 Požití zkažené potraviny nejčastěji [s pomnoženými mikroorganizmy][7]
 :   Je třeba vyhledat lékařskou pomoc.
+
 Počátek [horečnatého onemocnění][5]
 :   Pomůže klid, teplo a příjem tekutin (nejlépe čaje).
+
 Požití jedovaté potraviny (např. alkoholu)
 :   Pomůže se vyspat, hodně se napít (nejlépe čaje) a vyčkat, až se tělo jedů zbaví jejich rozložením a vyloučením.
+
 Nadměrné [kouření tabáku][8], marihuany, heroinu
 :   Pomůže čerstvý vzduch, klid a chladné tekutiny.
 
@@ -52,20 +60,28 @@ Nadměrné [kouření tabáku][8], marihuany, heroinu
 
 [Vysoký krevní tlak][9]
 :   Po zaléčení vysokého tlaku a jeho normalizaci mohou bolesti hlavy ustat.
+
 Požití velkého množství silně [aromatické potraviny][10] (například čerstvých zdravých hřibů)
 :   Je třeba vyčkat, až se látky rozloží a vyloučí.
+
 [Zadržování stolice][11]
 :   Stolici není dobré zadržovat a vyřešit péčí o pravidelnou stolici (nejlépe ráno).
+
 Únava ze stereotypní vyčerpávající práce
 :   Je dobré dělat přestávky, zacvičit si a osvěžit se.
+
 Únava z nadměrné aktivity (například během víkendu)
 :   Nezapomínat odpočívat i při zábavě.
+
 Reakce na psychotrauma (leknutí, stres, rozčílení, strach, starost)
 :   Dle závažnosti srovnat myšlenky nebo vyhledat psychologa.
+
 [Poúrazová bolest hlavy][12]
 :   Vždy je nutné vyhledat odborného lékaře (chirurga nebo neurologa).
+
 Projevy závažných onemocnění jako [mozková mrtvice][13], [krvácení do mozku][14], mozkový nádor a jiné
 :   Bolest hlavy bývá neobvyklá (jiná než jindy) a _je nutné vyhledat lékaře_.
+
 Pobyt v místnosti zakouřené tabákovým kouřem nebo zplodinami z kamen (CO)
 :   Pomůže opustit místnost nebo řádně vyvětrat.
 
