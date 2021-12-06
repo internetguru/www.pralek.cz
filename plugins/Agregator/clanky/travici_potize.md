@@ -3,7 +3,7 @@
 
 {ctime="2009-09-10" mtime="2009-09-10" data-top="968" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="travici_potize" short="Trávicí potíže"}
 
-# Funkční poruchy trávení
+# Zvracení, průjem, škytání a větry
 
 <!-- generated attribute kw by user_updatekw.sh on 2020-09-22, do not edit -->
 
