@@ -54,7 +54,7 @@ Další části tenkého střeva (lačník a kyčelník)
 :   V každé části střeva se vstřebává v návaznosti určitá živina, vitamín nebo minerál.
 
 Nevstřebané zbytky potravy postupují do tlustého střeva (tračník)
-:   Zde je pomocí zcela jiných [bakteriálních kmenů][5] dokončeno vstřebávání potravy a následuje zpětné vstřebávání tekutin a formování stolice.
+:   Zde je pomocí [bakteriálních kmenů][5] dokončeno vstřebávání potravy a následuje zpětné vstřebávání tekutin a formování stolice.
 :   Stolice je uložena v esovité kličce a při vyprazdňování (defekaci) vychází z konečníku řitním otvorem.
 
 Typické problémy:
