@@ -58,7 +58,7 @@ Přiložení léku na kůži a vstřebání kůží _(transkutání aplikace)_
 :   Masti působí místně.
 :   Metoda je vhodná například k dlouhodobé aplikaci hormonů nebo léků proti bolesti.
 
-Aplikace léku do konečníku _(intraanální aplikace nebo rektální aplikace)_
+Aplikace léku do konečníku _(intraanální nebo rektální aplikace)_
 :   Jedná se o čípek, mast nebo roztok k nálevu.
 :   Podání [čípku proti teplotě][7] a bolesti je výhodné zvláště u dětí nebo u lidí, kteří nemohou spolknout tabletu.
 :   Léky se vstřebávají rychle a dobře.
