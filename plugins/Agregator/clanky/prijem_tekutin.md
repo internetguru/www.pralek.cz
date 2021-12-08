@@ -63,7 +63,7 @@ Zvýšená slanost krve komplikuje tvorbu primární moči. Zvláštní hormon t
 
 Pivo je z tohoto pohledu svým složením pro tělo přirozené (téměř izotonický nápoj). Pití piva tedy nezatěžuje organizmus ani nedostatkem ani nadbytkem vody. Proto je možné vypít jakékoli množství piva (limitováno množstvím alkoholu) a jen průběžně chodit močit.
 
-Původně pitná voda může být [znečištěna (kontaminována) různými mikroorganizmy][4] nebo dusíkatými látkami, neprochází-li dostatečně silnou propustnou vrstvou horniny (většinou povrchová voda). Pití takové vody způsobuje **různé choroby**, např. choleru, salmonelózu.
+Původně pitná voda může být [znečištěna (kontaminována) různými mikroorganizmy][4] nebo dusíkatými látkami, neprochází-li dostatečně silnou propustnou vrstvou horniny (většinou povrchová voda). Pití takové vody způsobuje **různé choroby**, např. choleru nebo salmonelózu.
 
 {id="nedostatek_vody"}
 
