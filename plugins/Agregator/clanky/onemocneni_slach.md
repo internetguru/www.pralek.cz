@@ -82,7 +82,7 @@ Nejčastěji dochází v zátěži k **přetržení šlachy bicepsu** (dlouhé h
 Pouze dočasná deformita paže může někomu působit potíže.
 
 Léčba klidem
-:   K léčení přetržené šlachy bicepsu postačí několik dnů klidu a následné rozcvičení
+:   K léčení přetržené šlachy bicepsu postačí několik dnů klidu a následné rozcvičení.
 :   Deformita paže (stažený utržený sval) se časem vyrovná, utržený sval se totiž nečinností podstatně zmenší.
 
 Léčba operací
