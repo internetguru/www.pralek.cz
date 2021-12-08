@@ -36,10 +36,10 @@ Psychické vypětí, krutá bolest (například doprovázející [ledvinovou kol
 :   Může pomoci [prášek na zklidnění žaludku][4], pokud se podá včas.
 
 Onemocnění břicha (např. [slepák][5]) včetně úrazů břicha ([poranění sleziny][6])
-:   Zvracení vyžaduje lékařské ošetření. Samotné zvracení je nepodstatné.
+:   Takové onemocnění vyžaduje lékařské ošetření. Samotné zvracení je nepodstatné.
 
 Onemocnění mozku
-:   Zvracení vyžaduje lékařské vyšetření.
+:   Zvracení doprovázející onemocnění mozku vyžaduje lékařské vyšetření.
 :   Může se jednat o [mrtvici][7] či [krvácení do mozku][8], zvracení po úrazu hlavy může být známkou [otřesu mozku][9].
 
 [Střevní neprůchodnost][10]
