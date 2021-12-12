@@ -33,7 +33,7 @@ Některé látky si organizmus vyrobit neumí (esenciální bílkoviny, vitamín
 
 ## Proces trávení a typické problémy
 
-n/a
+Správně zpracovat snědenou potravu v zažívacím traktu je komplexní a energeticky náročný proces. Narušit správné trávení a způsobit zažívací potíže mohou často zbytečné zlozvyky.
 
 Při jídle je strava v ústech řádně rozmělněna a promíchána se slinami
 :   Tím je zahájen proces trávení. Sliny totiž obsahují látku (enzym), štěpící složité cukry.
