@@ -9,15 +9,15 @@
 
 {kw="nádory, boulička, neúrazové, strach, nezhoubné, žláza"}
 
-Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Preventivní odstranění některých nádorů se stalo rutinou, u ostatních většinou postačí pravidelné kontroly.
+Nezhoubné nádory nejsou na rozdíl od zhoubných nijak nebezpečné. Mohou překážet, deformovat nebo hyzdit. Jestliže si to pacient přeje, je jejich odstranění většinou jednoduché. Jinak postačí pravidelné kontroly.
 
-[Obecné vlastnosti nezhoubných nádorů][1] jsou velmi podobné. Nezhoubné nádory se mohou za určitých podmínek přeměnit (zvrhnout) v nádory zhoubné. Vždy je proto vhodné konzultovat i nezhoubný nádor s odborným lékařem.
+[Obecné vlastnosti nezhoubných nádorů][1] jsou velmi podobné. Nezhoubné nádory se ale mohou za určitých podmínek (velmi vzácně) přeměnit v nádory zhoubné. Vždy je proto vhodné konzultovat i nezhoubný nádor s odborným lékařem.
 
 {id="jednotlive\_nezhoubne\_nadory"}
 
 ## Jednotlivé nezhoubné nádory
 
-n/a
+Nezhoubné nádory se označují podle tkání, ze kterých vycházejí. Mají podobné vlastnosti. Mohou být objeveny náhodně – např. osteom při RTG vyšetření.
 
 Lipom
 :   Je nezhoubný nádor _vycházející z tukové tkáně_.
