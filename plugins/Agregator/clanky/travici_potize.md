@@ -9,7 +9,7 @@
 
 {kw="zvracení, nevolnost, žaludek, strava-zažívání, jed, zdravý životní styl, břicho"}
 
-Mnohým funkčním poruchám trávení lze předejít dodržováním správných stravovacích návyků.
+Některé jinak přirozené projevy trávení mohou být za určitých podmínek obtěžující. Všechny lze ovlivnit změnou stravovacích návyků.
 
 {id="zvraceni"}
 
@@ -67,7 +67,7 @@ Ustalo-li zvracení, je možné postupně začít pít. Nejprve vlažný čaj po
 
 {class="example"}
 
-Je-li průjem způsoben potravinou kontaminovanou bakteriálně, je dobré vydržet nejíst a zvláště ne sladké jídlo. Taková potrava zhorší průjmy a bolesti – „nakrmením“ a následným opětným pomnožením choroboplodných bakterií. Zde není vhodná ani (často doporučovaná) Cola pro vysoký obsah cukru. Takové nápoje budou vhodné až po ústupu potíží a uzdravení zažívacího traktu.
+Je-li průjem způsoben potravinou kontaminovanou bakteriálně, je dobré vydržet nejíst a zvláště ne sladké jídlo. Taková potrava zhorší průjmy a bolesti – „nakrmením“ a následným opětným pomnožením choroboplodných bakterií. Zde není vhodná ani (často doporučovaná) Cola pro vysoký obsah cukru. Takové nápoje budou vhodné až po ústupu potíží a [uzdravení zažívacího traktu][16].
 
 Zcela jinou kapitolou jsou **dlouhodobé průjmy** které souvisí se závažnými chronickými onemocněními střeva. Odborní lékaři musejí složitě zjišťovat ztráty a doplňovat minerály a ostatní organizmu chybějící látky.
 
@@ -148,4 +148,4 @@ n/a
  [13]: nalehavost_lekarskeho_vysetreni
  [14]: stravovaci_navyky
  [15]: krvaceni_z_konecniku
-
+ [16]: zdrave_traveni
