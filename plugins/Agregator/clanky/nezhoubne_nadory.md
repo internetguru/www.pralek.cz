@@ -85,7 +85,7 @@ Adenom
 
 ## Bouličky zaměňované s nezhoubnými nádory
 
-n/a
+S nezhoubnými nádory bývá laicky zaměňovaná celá řada jiných bouliček. Na rozdíl od nezhoubných nádorů je třeba tyto bouličky záhy řešit.
 
 Gangliom
 :   Je boulička na šlaše nebo v okolí kloubu.
@@ -103,6 +103,9 @@ Absces
 
 Keloid
 :   Je zbytnělá jizva vzniklá poruchou hojení (nejčastěji po spálenině).
+
+Uzlina
+:   Zvětšená, hmatná nebo bolestivá uzlina je sítko [v lymfatické cévě][4].
 
 {id="otazky" var="inputvar-otazky_h"}
 
