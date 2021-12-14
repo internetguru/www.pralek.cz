@@ -27,7 +27,7 @@ Migréna vzniká následkem chybného prokrvení části mozku. Počínající b
 
 ## Nejčastější příčiny ostatních bolestí hlavy a jejich řešení
 
-n/a
+Bolest hlavy může mít příčinu, kterou laik často vůbec nepředpokládá. Rozpoznání a odstranění takové příčiny je základním předpokladem léčení.
 
 Používání nesprávných nebo znečištěných dioptrických brýlí
 :   Problémy může vyřešit [vyšetření očním lékařem][2] a nové (nebo jen vyčištěné) brýle.
