@@ -19,7 +19,7 @@ Ledviny tvoří velké množství _prvotní moči (primární moč, primitivní 
 
 ## Typy pitné vody v přírodě
 
-n/a
+V přírodě se vyskytují čtyři typy pitné vody. Liší se čistotou a mohou mít vliv na zdraví.
 
 Dešťová (měkká) voda
 :   Neobsahuje žádné soli ani minerály.
