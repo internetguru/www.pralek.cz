@@ -42,7 +42,7 @@ Při jídle je strava v ústech řádně rozmělněna a promíchána se slinami
 V žaludku je potrava míšena s dalšími enzymy a s kyselinou solnou
 :   Ty se tvoří ve zvláštních žlázkách v žaludeční stěně. Tím dochází k rozkladu bílkovin.
 :   Potrava zůstává v žaludku různě dlouhou dobu od několika minut po mnoho hodin – podle složení stravy a stupně rozkousání.
-:   Zapíjením jídla vodou se zmíněné enzymy a kyselina zbytečně ředí a odplavují dále do střeva. Tím se kvalita trávení znehodnocuje se všemi důsledky (tlačení břicha, větry a prodloužení trávicího procesu). {class="important"}
+:   Zapíjením jídla vodou se zmíněné enzymy a kyselina zbytečně ředí a odplavují dále do střeva. Tím se [kvalita trávení znehodnocuje][9] se všemi důsledky (tlačení břicha, větry a prodloužení trávicího procesu). {class="important"}
 
 Zpracovaná potrava v tekutém stavu pokračuje do dvanáctníku
 :   Sem vyúsťují [žlučové cesty][3] společně s vývodem slinivky břišní. Žluč je trávicí šťáva, která se tvoří v játrech.
@@ -61,7 +61,7 @@ Typické problémy:
 
   * Nedostatečné rozkousání potravy (hltání jídla) může způsobit [uvíznutí polykaného sousta v jícnu][6].
   * V případě, že nedostatečně rozkousaná strava projde, bude déle „přemílána“ v žaludku. To může působit [pocit plnosti nebo tlaku v nadbřišku po jídle][7]. Řešením těchto potíží nemusí být hned lék, často postačí stravu dostatečně kousat.
-  * V případě nedostatečného promísení stravy se slinami (zlozvyk zapíjení jídla vodou) budou chybět první trávicí enzymy a opozdí se rozkládání cukrů. Cukry se tak dostávají až do střeva, kde způsobují zažívací potíže (větry).
+  * V případě nedostatečného promísení stravy se slinami (zlozvyk zapíjení jídla vodou) budou chybět první trávicí enzymy a opozdí se rozkládání cukrů. Cukry se tak dostávají až do střeva, kde způsobují [zažívací potíže (větry)][9].
 
 {id="zasady\_a\_chyby"}
 
@@ -143,4 +143,4 @@ n/a
  [6]: spolknute_predmety
  [7]: funkcni_poruchy_traveni
  [8]: prijem_tekutin
-
+ [9]: travici_potize
