@@ -1,11 +1,9 @@
 
 {data-fbcommentid="1859873800811649" data-type="article" data-image="/files/preview/koutek/funkcni\_poruchy\_traveni/main.jpg" class="docinfo linklist" xml:lang="cs" ns="https://www.pralek.cz"}
 
-{ctime="2009-09-10" mtime="2009-09-10" data-top="968" author="Jaroslav Pavelka" authorid="jaroslav\_pavelka" id="travici\_potize" short="Trávicí potíže"}
+{ctime="2009-09-10" mtime="2009-09-10" data-top="968" author="Jaroslav Pavelka" id="travici_potize" short="Trávicí potíže"}
 
 # Zvracení, průjem, škytání a větry
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
 
 {kw="zvracení, nevolnost, žaludek, strava-zažívání, jed, zdravý životní styl, břicho"}
 
@@ -67,7 +65,7 @@ Ustalo-li zvracení, je možné postupně začít pít. Nejprve vlažný čaj po
 
 {class="example"}
 
-Je-li průjem způsoben potravinou kontaminovanou bakteriálně, je dobré vydržet nejíst a zvláště ne sladké jídlo. Taková potrava zhorší průjmy a bolesti – „nakrmením“ a následným opětným pomnožením choroboplodných bakterií. Zde není vhodná ani (často doporučovaná) Cola pro vysoký obsah cukru. Takové nápoje budou vhodné až po ústupu potíží a [uzdravení zažívacího traktu][16].
+Je-li průjem způsoben potravinou kontaminovanou bakteriálně, je dobré vydržet nejíst a zvláště ne sladké jídlo. Taková potrava zhorší průjmy a bolesti – „nakrmením“ a následným opětným pomnožením choroboplodných bakterií. Zde není vhodná ani (často doporučovaná) Cola pro vysoký obsah cukru. Takové nápoje budou vhodné až po ústupu potíží a [uzdravení zažívacího traktu][13].
 
 Zcela jinou kapitolou jsou **dlouhodobé průjmy** které souvisí se závažnými chronickými onemocněními střeva. Odborní lékaři musejí složitě zjišťovat ztráty a doplňovat minerály a ostatní organizmu chybějící látky.
 
@@ -80,18 +78,18 @@ n/a
 Škytání
 :   Škytání jsou **prudké stahy bránice**, což je hlavní dýchací sval, který odděluje dutinu hrudní od dutiny břišní. Ke vzniku škytavky dojde nejčastěji smíchem, napitím studeného nápoje, leknutím, nesprávným polknutím sousta.
 :   Škytání ustane samo a lze ovlivnit kombinací pití a protahování (zvedání horních končetin).
-:   **Dlouhodobé škytání** může doprovázet onemocnění žaludku nebo dráždění bránice z jiného důvodu a pak je nutné [lékařské vyšetření][13].
+:   **Dlouhodobé škytání** může doprovázet onemocnění žaludku nebo dráždění bránice z jiného důvodu a pak je nutné [lékařské vyšetření][14].
 
 Větry
 :   Větry jsou plyny vznikající při trávicích procesech.
-:   Zvýšené množství plynu se tvoří [nesprávnými stravovacími návyky][14].
+:   Zvýšené množství plynu se tvoří [nesprávnými stravovacími návyky][15].
 :   V případě zadržování větrů se vstřebají a nezpůsobují újmu na zdraví.
 :   V případě nutnosti zadržování větrů ze společenských důvodů není dobré požívat nadýmavou stravu (luštěniny).
 
 Stolice – defekační reflex
 :   Defekační reflex je složitý soubor reflexů které umožní odchod stolice.
 :   Stolici lze zadržet. Tím však dochází k dalšímu vstřebávání vody a stolice se stává tužší.
-:   Při opakovaném zadržování stolice a následným odchodem velmi tuhé stolice může dojít k [onemocnění žilních pletení v konečníku][15].
+:   Při opakovaném zadržování stolice a následným odchodem velmi tuhé stolice může dojít k [onemocnění žilních pletení v konečníku][16].
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -145,7 +143,8 @@ n/a
  [10]: strevni_nepruchodnost
  [11]: kyla
  [12]: prijem_tekutin
- [13]: nalehavost_lekarskeho_vysetreni
- [14]: stravovaci_navyky
- [15]: krvaceni_z_konecniku
- [16]: zdrave_traveni
+ [13]: zdrave_traveni
+ [14]: nalehavost_lekarskeho_vysetreni
+ [15]: stravovaci_navyky
+ [16]: krvaceni_z_konecniku
+

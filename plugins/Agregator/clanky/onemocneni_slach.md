@@ -5,8 +5,6 @@
 
 # Zánět šlach, gangliom, tenisový loket
 
-<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
-
 {kw="pohyb, zánět, uzliny, neúrazové, mikroorganizmy, antibiotika"}
 
 Neúměrná zátěž šlachy může způsobit nadměrnou tvorbu mazu nebo naopak jeho nedostatek. Vzniklé potíže je nutné léčit klidem. Oslabená nebo dlouhodobě nemocná šlacha se může při zátěži přetrhnout.

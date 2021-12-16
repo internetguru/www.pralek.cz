@@ -5,8 +5,6 @@
 
 # Nezhoubné nádory a bouličky s nimi zaměňované
 
-<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
-
 {kw="nádory, boulička, neúrazové, strach, nezhoubné, žláza"}
 
 Nezhoubné nádory nejsou na rozdíl od zhoubných nijak nebezpečné. Mohou překážet, deformovat nebo hyzdit. Jestliže si to pacient přeje, je jejich odstranění většinou jednoduché. Jinak postačí pravidelné kontroly.

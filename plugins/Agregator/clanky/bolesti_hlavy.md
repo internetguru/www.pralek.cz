@@ -5,8 +5,6 @@
 
 # Bolest hlavy, migréna
 
-<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
-
 {kw="cévy, neúrazové, prevence, strava-zažívání, úraz, přehřátí, teplota, zánět"}
 
 Nejkrutější bolestí hlavy je migréna. Řešením je včasné podání vhodného léku. Běžná bolest hlavy má svou příčinu a nemusí se vyvíjet tak dramaticky. Ideálním řešením je odstranit příčinu bolesti než bolest tlumit léky.
