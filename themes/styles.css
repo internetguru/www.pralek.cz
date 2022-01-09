@@ -1641,7 +1641,7 @@ dl.clanek.doclist-new > dt:first-child:after {
   pointer-events: none;	
 }	
 .agregator-new .hdesc--top > div:after {	
-  content: "Nový článek";	
+  content: "Nový článek";
   transform: rotate(45deg);	
   top: auto;	
   bottom: -2.75em;	
@@ -1727,6 +1727,35 @@ body[data-link="/seznam_clanku"].agregator-new .hdesc--top > div:after {
 }
 #content .vsechny_clanky {
   list-style: circle;
+}
+#content .vsechny_clanky {
+  list-style: circle;
+  max-width: 60em !important;
+}
+#content .vsechny_clanky li:before {
+  display: none;
+}
+#content .vsechny_clanky li {
+  margin-left: 1.5em;
+}
+.chars {
+  width: 100%;
+  max-width: 60em !important;
+  text-align: center;
+  margin: 1rem 0;
+  padding: 1rem 0;
+}
+.chars > * {
+  margin: 0.25rem;
+  padding: 0 0.25rem;
+}
+.first-char {
+  list-style: none;
+  position: relative;
+  font-size: 2rem;
+  margin: 0 !important;
+  margin-left: 1rem !important;
+  color: #d8442a;
 }
 #content .vsechny_clanky li:before {
   display: none;
