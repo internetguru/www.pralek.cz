@@ -5,7 +5,7 @@
 
 # Normální tělesná teplota, horečka, podchlazení
 
-<!-- generated attribute kw by user_updatekw.sh on 2021-11-10, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
 
 {kw="teplota, prochlazení, přehřátí, pocení, nevolnost, točení hlavy, tekutiny, moč, mikroorganizmy"}
 

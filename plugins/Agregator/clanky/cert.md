@@ -5,7 +5,7 @@
 
 # Kterak pohádkový čert na svět přišel
 
-<!-- generated attribute kw by user_updatekw.sh on 2021-11-10, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
 
 {kw="mýty, nádory, kůže-podkoží, zánět, zhoubné, nezhoubné, cévy"}
 
