@@ -137,7 +137,7 @@ n/a
  [2]: ileus
  [3]: travici_potize
  [4]: zlucove_kameny
- [5]: zanet_slinivky
+ [5]: pankreatitida
  [6]: bakterie
  [7]: spolknute_predmety
  [8]: prijem_tekutin
