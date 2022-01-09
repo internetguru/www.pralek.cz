@@ -104,7 +104,7 @@ n/a
  [1]: bolesti_hlavy
  [2]: mocove_kameny
  [3]: artroza
- [4]: bolesti_v_zadech_houser
+ [4]: bolesti_v_zadech
  [5]: srdecni_infarkt
  [6]: teplota
  [7]: imunita

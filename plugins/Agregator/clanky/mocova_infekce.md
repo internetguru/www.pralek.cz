@@ -92,14 +92,14 @@ Seznam odkazů není k dispozici
 n/a
 
  [1]: bakterie
- [2]: bolest_v_krku_angina
+ [2]: angina
  [3]: teplota
- [4]: zanet
+ [4]: vyvoj_zanetu
  [5]: prijem_tekutin
  [6]: imunita
  [7]: mocove_kameny
  [8]: antibiotika
- [9]: leky_proti_bolesti
- [10]: lekove_formy
- [11]: stravovaci_navyky
+ [9]: analgetika
+ [10]: leky
+ [11]: zdrave_traveni
 

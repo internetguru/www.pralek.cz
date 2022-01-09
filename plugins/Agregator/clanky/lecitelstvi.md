@@ -90,6 +90,6 @@ n/a
 
  [1]: mytus_o_rakovine
  [2]: subduralni_hematom
- [3]: lekove_formy
- [4]: leky_proti_bolesti
+ [3]: leky
+ [4]: analgetika
 
