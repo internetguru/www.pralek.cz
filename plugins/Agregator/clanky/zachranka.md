@@ -118,13 +118,13 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: resuscitace-ozivovani
- [2]: lekove_formy
- [3]: urazy_deti
+ [1]: resuscitace
+ [2]: leky
+ [3]: urazy_batolat
  [4]: ochlazeni_spaleniny
- [5]: mdloba_neboli_kolaps
+ [5]: kolaps
  [6]: srdecni_infarkt
  [7]: mrtvice
- [8]: bodne_a_strelne_poraneni
- [9]: zlomeniny_kosti
+ [8]: zavazna_poraneni
+ [9]: zlomeniny
 

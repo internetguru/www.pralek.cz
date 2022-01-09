@@ -153,12 +153,12 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: funkcni_poruchy_traveni
- [2]: bolest_v_krku_angina
+ [1]: travici_potize
+ [2]: angina
  [3]: srdecni_infarkt
- [4]: nadmerne_dychani
+ [4]: predychavani
  [5]: koureni_cigaret
- [6]: kasel_a_typy_kasle
+ [6]: kasel
  [7]: teplota
  [8]: imunita
  [9]: onemocneni_slach

@@ -82,14 +82,14 @@ n/a
 
 Větry
 :   Větry jsou plyny vznikající při trávicích procesech.
-:   Zvýšené množství plynu se tvoří [nesprávnými stravovacími návyky][15].
+:   Zvýšené množství plynu se tvoří [nesprávnými stravovacími návyky][13].
 :   V případě zadržování větrů se vstřebají a nezpůsobují újmu na zdraví.
 :   V případě nutnosti zadržování větrů ze společenských důvodů není dobré požívat nadýmavou stravu (luštěniny).
 
 Stolice – defekační reflex
 :   Defekační reflex je složitý soubor reflexů které umožní odchod stolice.
 :   Stolici lze zadržet. Tím však dochází k dalšímu vstřebávání vody a stolice se stává tužší.
-:   Při opakovaném zadržování stolice a následným odchodem velmi tuhé stolice může dojít k [onemocnění žilních pletení v konečníku][16].
+:   Při opakovaném zadržování stolice a následným odchodem velmi tuhé stolice může dojít k [onemocnění žilních pletení v konečníku][15].
 
 {id="otazky" var="inputvar-otazky_h"}
 
@@ -134,17 +134,16 @@ n/a
  [1]: bolest_zaludku
  [2]: mocove_kameny
  [3]: kinetoza
- [4]: lekove_formy
+ [4]: leky
  [5]: slepak
  [6]: poraneni_sleziny
  [7]: mrtvice
  [8]: subduralni_hematom
  [9]: otres_mozku
- [10]: strevni_nepruchodnost
+ [10]: ileus
  [11]: kyla
  [12]: prijem_tekutin
  [13]: zdrave_traveni
- [14]: nalehavost_lekarskeho_vysetreni
- [15]: stravovaci_navyky
- [16]: krvaceni_z_konecniku
+ [14]: nalehavost_vysetreni
+ [15]: hemoroidy
 

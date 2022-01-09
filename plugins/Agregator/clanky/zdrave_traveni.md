@@ -58,7 +58,7 @@ Nevstřebané zbytky potravy postupují do tlustého střeva (tračník)
 Typické problémy:
 
   * Nedostatečné rozkousání potravy (hltání jídla) může způsobit [uvíznutí polykaného sousta v jícnu][7].
-  * V případě, že nedostatečně rozkousaná strava projde, bude déle „přemílána“ v žaludku. To může působit [pocit plnosti nebo tlaku v nadbřišku po jídle][8]. Řešením těchto potíží nemusí být hned lék, často postačí stravu dostatečně kousat.
+  * V případě, že nedostatečně rozkousaná strava projde, bude déle „přemílána“ v žaludku. To může působit [pocit plnosti nebo tlaku v nadbřišku po jídle][3]. Řešením těchto potíží nemusí být hned lék, často postačí stravu dostatečně kousat.
   * V případě nedostatečného promísení stravy se slinami (zlozvyk zapíjení jídla vodou) budou chybět první trávicí enzymy a opozdí se rozkládání cukrů. Cukry se tak dostávají až do střeva, kde způsobují [zažívací potíže (větry)][3].
 
 {id="zasady\_a\_chyby"}
@@ -75,7 +75,7 @@ Zásady správného stravování:
   * Na jídlo je třeba se „naladit“, čímž se včas nastartují trávicí pochody.
   * Jíst se má několikrát denně, vždy v klidu, beze spěchu.
   * Je dobré jíst opakovaně sezónní jídla a preferovat potraviny z domácích zdrojů než dovážené.
-  * [Dodržování pitného režimu][9], tekutiny nelze vynechat.
+  * [Dodržování pitného režimu][8], tekutiny nelze vynechat.
   * Dodržení stravovacího režimu nutné naopak není — **občasný půst je zdravý**.
   * Dobré jídlo lze doplnit sklenkou vína, piva nebo teplého čaje.
 
@@ -133,13 +133,12 @@ Seznam odkazů není k dispozici
 
 n/a
 
- [1]: obezita_a_energie
- [2]: strevni_nepruchodnost
+ [1]: obezita
+ [2]: ileus
  [3]: travici_potize
  [4]: zlucove_kameny
  [5]: zanet_slinivky
  [6]: bakterie
  [7]: spolknute_predmety
- [8]: funkcni_poruchy_traveni
- [9]: prijem_tekutin
+ [8]: prijem_tekutin
 
