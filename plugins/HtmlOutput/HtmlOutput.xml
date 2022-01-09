@@ -10,7 +10,8 @@
   <jsFile append="body">themes/otazky.js</jsFile>
   <jsFile append="body">themes/feedback.js</jsFile>
   <jsFile append="body">themes/print.js</jsFile>
-  
+  <jsFile append="body" if-xpath="//body[contains(@data-link, '/seznam_clanku')]">themes/char.js</jsFile>
+
   <xslt>themes/pralek.xsl</xslt>
   <xslt>themes/pralek2.xsl</xslt>
   <xslt>themes/ad.xsl</xslt>
