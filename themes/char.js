@@ -7,6 +7,9 @@
     if (char == lastChar) {
       return
     }
+    if (!char.match(/^[A-ZĚŠČŘŽÝÁÍÉÚŮŤŇĎ]$/)) {
+      return
+    }
     let elm = document.createElement('li')
     elm.innerText = char
     elm.id = char
