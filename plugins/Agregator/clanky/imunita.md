@@ -15,7 +15,7 @@ Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imu
 
 ## Stupně nastavení imunitního systému
 
-n/a
+Imunita je velmi složitý proces, který vzniká v dětství a během života se stále vyvíjí.
 
 Správně fungující imunitní systém
 :   Dokáže rozpoznat a označit drobného cizího nepřítele v lidském těle, nejčastěji [viry][3] nebo [bakterie][4].
