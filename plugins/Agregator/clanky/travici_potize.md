@@ -73,12 +73,12 @@ Zcela jinou kapitolou jsou **dlouhodobé průjmy** které souvisí se závažný
 
 ## Škytání, větry a defekační reflex
 
-n/a
+Jedná se o jevy běžně doprovázející trávení.
 
 Škytání
 :   Škytání jsou **prudké stahy bránice**, což je hlavní dýchací sval, který odděluje dutinu hrudní od dutiny břišní. Ke vzniku škytavky dojde nejčastěji smíchem, napitím studeného nápoje, leknutím, nesprávným polknutím sousta.
 :   Škytání ustane samo a lze ovlivnit kombinací pití a protahování (zvedání horních končetin).
-:   **Dlouhodobé škytání** může doprovázet onemocnění žaludku nebo dráždění bránice z jiného důvodu a pak je nutné [lékařské vyšetření][14].
+:   **Dlouhodobé škytání** však může doprovázet onemocnění žaludku nebo dráždění bránice z jiného důvodu a pak je nutné [lékařské vyšetření][14].
 
 Větry
 :   Větry jsou plyny vznikající při trávicích procesech.
@@ -89,7 +89,7 @@ Větry
 Stolice – defekační reflex
 :   Defekační reflex je složitý soubor reflexů které umožní odchod stolice.
 :   Stolici lze zadržet. Tím však dochází k dalšímu vstřebávání vody a stolice se stává tužší.
-:   Při opakovaném zadržování stolice a následným odchodem velmi tuhé stolice může dojít k [onemocnění žilních pletení v konečníku][15].
+:   Při opakovaném zadržování stolice a následným odchodem velmi tuhé stolice může dojít k [onemocnění žilních pletení v konečníku a vzniku hemoroidů][15].
 
 {id="otazky" var="inputvar-otazky_h"}
 
