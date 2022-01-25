@@ -15,7 +15,7 @@ Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imu
 
 ## Stupně nastavení imunitního systému
 
-Imunita je velmi složitý proces, který vzniká v dětství a během života se stále vyvíjí.
+Imunita je velmi složitý proces. Vzniká v dětství a během života se stále vyvíjí.
 
 Správně fungující imunitní systém
 :   Dokáže rozpoznat a označit drobného cizího nepřítele v lidském těle, nejčastěji [viry][3] nebo [bakterie][4].
@@ -46,7 +46,7 @@ Faktory podporující správně fungující imunitní systém jsou následujíc�
   * Batole si strká do pusy vše co vidí, mnohdy i věci nám zcela nepochopitelné. Jde o pudové chování, jehož smyslem je časně si zmapovat okolní bakterie a záhy tvořit imunitu.
   * Výhodou je blízkost domácích zvířat, návštěva chléva, pobyt na venkovském dvoře. Prospěšné je pohlazení zvířete (pod dohledem opatrovníka).
 
-Skleníkové prostředí bez přítomnosti bakterií není pro zdárný vývoj imunity jedince prospěšné. Opačný extrém je také nevhodný, například nechat olizovat obličej svůj či dítěte (!) domácím mazlíčkem. Na čenichu a v tlamě psa a kočky žijí zcela odlišené a **pro člověka nepřijatelné [bakteriální kmeny][4]** . 
+Skleníkové prostředí bez přítomnosti bakterií není pro zdárný vývoj imunity jedince prospěšné. Opačný extrém je také nevhodný, například nechat olizovat obličej svůj či dítěte (!) domácím mazlíčkem. Pes i kočka užívají jazyk k očistě celého těla. Proto na čenichu a v tlamě psa a kočky žijí zcela odlišené a **pro člověka nepřijatelné [bakteriální kmeny][4]** . 
 
 {id="imunitni\_system\_a_antibiotika"}
 
