@@ -63,7 +63,6 @@ Všechny zmíněné léčebné postupy mají stejně dobrý efekt. V případě 
 
 ## Tenisový loket – epikondylitis
 
-Tenisový loket je zánětlivé onemocnění, při kterém bolí místo úponu šlachy ke kosti z důvodu nadměrné nebo dlouhodobé zátěže.
 Tenisový loket je bolestivé zánětlivé onemocnění. Bolí místo úponu šlachy ke kosti z důvodu nadměrné nebo dlouhodobé zátěže.
 
 {class="important"}
