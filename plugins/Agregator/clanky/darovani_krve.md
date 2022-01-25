@@ -15,7 +15,7 @@ Darovat krev může dospělý člověk, který neměl infekční žloutenku, jeh
 
 ## Podmínky dárcovství krve
 
-Krev může darovat každý člověk, který chce pomoci nemocným známým, příbuzným nebo cizím lidem.
+Krev může darovat každý dospělý člověk. Důvodem je ochota pomoci nemocným příbuzným, známým nebo i cizím lidem.
 
 Pokud se dárce cítí zdráv, dostaví se na transfuzní stanici v místě bydliště. Následně vyplní dotazník týkající se jeho zdravotního stavu, například prodělané choroby a užívání léků.
 
@@ -26,6 +26,10 @@ Odběrem kapky krve z prstu (nástrojem na 1 použití) je vyšetřena hladina k
 ## Průběh odběru krve
 
 Odběr krve trvá jen několik minut a provádí ho transfuzní sestra. Po odběru dostane dárce malé občerstvení a potvrzení o odběru. Odebraná krev je vyšetřena a pokračuje na další zpracování.
+
+{class="important"}
+
+Vlastní odběr krve nebývá vůbec nepříjemný. Po překonání strachu z prvního odběru se dárci na další odběr těší.
 
   1. Při odběru napíchne transfuzní sestra loketní žílu jehlou na 1 použití a odebere krev do vaku na 1 použití. 
       * Množství odebírané krve je necelého půl litru.
@@ -46,6 +50,8 @@ Technicky není možné, aby se dárce během odběru krve nakazil krví přenos
 
 ## Komplikace při darování krve
 
+Potíže při darování krve souvisí s nervozitou. Vlastní ztráta krve problémy nezpůsobí.
+
 Během odběru nebo těsně po něm se může stát, že dárce pocítí slabost nebo teplo nebo [dokonce zkolabuje][3]. Tyto potíže jsou způsobené nedostatečným prokrvením mozku v důsledku [poklesu krevního tlaku][4]. To nikoli z důvodu ztráty odebrané krve, ale spíše z důvodu únavy, nervozity a strachu.
 
 {class="example"}
@@ -56,6 +62,8 @@ Popsané potíže často vznikají ihned po napíchnutí žíly, aniž by došlo
 
 ## Dárcovství krevní plazmy, krevních destiček, zvláštních krvinek
 
+Dárcovství plazmy je časově náročnější. Složitější odběr je srovnatelně záslužný.
+
 Na transfuzní stanici je zvláštní přístroj, který umí z krve oddělit krevní plazmu. Po vyšetření je dárci napíchnuta loketní žíla podobně jako při klasickém darování krve. Krev je vedena ze žíly do přístroje, kde je oddělena krevní plazma (případně krvinky nebo krevní destičky). Ochuzená krev se vrací dárci zpět do oběhu dalším vpichem do žíly.
 
   * Odběr plazmy trvá déle než odběr krve. Bolestivost je srovnatelná (2 vpichy).
@@ -65,6 +73,8 @@ Na transfuzní stanici je zvláštní přístroj, který umí z krve oddělit kr
 {id="darcovstvi\_kostni\_drene"}
 
 ## Dárcovství kostní dřeně
+
+Nejnáročnější je darování kostní dřeně. Jen odvážní dárci se nechají zapsat do registru.
 
 Kostní dřeň je darována velmi zřídka. Je totiž velice náročné najít pro příjemce kostní dřeně vhodného dárce. Potenciálnímu dárci je odebrán vzorek krve k vyšetření. Výsledek je zařazen do celosvětového registru dárců kostní dřeně.
 
