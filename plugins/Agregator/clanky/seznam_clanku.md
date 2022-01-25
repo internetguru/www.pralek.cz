@@ -5,7 +5,7 @@
 
 # Kompletní seznam článků
 
-Seznam všech článků na Praléku seřazený podle abecedy.
+Seznam všech článků na Praléku seřazený podle abecedy. Články jsou vzájemně propojeny odkazy.
 
 {var="doclist-vsechny_clanky"}
 
