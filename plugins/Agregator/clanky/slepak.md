@@ -17,19 +17,19 @@ Toto onemocnění je řazeno mezi _náhlé příhody břišní_. To znamená, ž
 
 {id="pocatecni_priznaky"}
 
-## Počáteční příznaky zánětu přívěsku slepého střeva
+## Počáteční příznaky zánětu slepého střeva
 
-Pro zánět přívěsku slepého střeva **neexistují žádné typické příznaky**. Popsané příznaky se mohou vyskytovat jednotlivě nebo se jakkoli kombinovat. Mohou být zcela nenápadné nebo náhle vzplanou v plné síle a mohou trvat stejně tak hodinu jako celé dny.
+Pro zánět přívěsku slepého střeva **neexistují žádné typické příznaky**. Mohou být zcela nenápadné nebo náhle vzplanou v plné síle a mohou trvat stejně tak hodinu jako celé dny.
 
 Zánět může začít tak, že zdravý člověk večer usne a v noci jej probudí **prudká nesnesitelná [bolest břicha][2]** , ale může také začít jako občasné **pobolívání břicha**, které vždy po určité době samo ustane. Umístění bolesti bývá různé, nejčastěji kolem pupku. Do pravého podbřišku se bolest stěhuje spíše později. 
 
-Počátek zánětu se může projevovat také pouze pocitem **zažívací nepohody**, nepopsatelným pocitem že je cosi v nepořádku _([střevní diskomfort][3])_ . [**Nevolnost nebo zvracení**][4] bývá častým doprovodným znakem zánětu stejně jako **[nechutenství][5]** . [**Průjem**][4] se objevuje spíše výjimečně a [**teplota**][6] bývá často normální nebo jen lehce zvýšená. 
+Počátek zánětu se může projevovat také pouze pocitem **zažívací nepohody**, nepopsatelným pocitem že je cosi v nepořádku _([střevní diskomfort][3])_ . [**Nevolnost nebo zvracení**][4] bývá častým doprovodným znakem zánětu stejně jako **[nechutenství][5]** . [**Průjem**][4] se objevuje spíše výjimečně a [**teplota**][6] bývá často normální nebo jen lehce zvýšená. Popsané příznaky se mohou vyskytovat jednotlivě nebo se jakkoli kombinovat.
 
 {id="pozdejsi\_priznaky\_apendicitidy"}
 
 ## Pozdější příznaky apendicitidy
 
-Jestli byly počáteční příznaky podceněny nebo přehlédnuty, [zánětlivé změny][7] se mohou dále rozvíjet a soubor příznaků se začne měnit.
+Počáteční příznaky mohou být podceněny nebo přehlédnuty. [Zánětlivé změny][7] se pak mohou dále rozvíjet a soubor příznaků se začne měnit.
 
 Zanícený přívěsek může kdykoli:
 
