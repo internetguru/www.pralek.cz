@@ -47,7 +47,7 @@ Tady je však zvýšená teplota [obranou organizmu proti mikroorganizmům][6] (
 
 ## Vývoj horečnatého onemocnění
 
-Na počátku horečnatého onemocnění nemusí být vůbec zřejmé, zda půjde pouze o nekomplikovanou nemoc z prochlazení, nebo zda se jedná o počátek závažného (až smrtelného) onemocnění.
+Na počátku každého horečnatého onemocnění bývají stejné potíže. Není zřejmé, zda půjde pouze o nemoc z prochlazení, nebo zda se jedná o počátek závažného (až smrtelného) onemocnění.
 
 Je vhodné, aby nemocný odpočíval, polehával, pil čaj s citronem. Vypotit se udělá nemocnému dobře. Teplotu v podpaží je vhodné udržovat do 38,5 °C pomocí zábalů nebo pomocí [léků proti teplotě][7]. V tomto případě **je teplota jednou ze součástí boje** proti choroboplodným zárodkům.
 
