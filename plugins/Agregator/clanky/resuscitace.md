@@ -9,7 +9,7 @@
 
 {kw="porucha vědomí, dýchání, poranění, kolaps, první pomoc, srdce"}
 
-V případě vyhasnutí základních životních funkcí zachrání život neodkladné zahájení srdeční masáže ještě před příjezdem lékaře.
+V případě náhlého vyhasnutí základních životních funkcí zachrání život okamžité zahájení srdeční masáže. V opačném případě může být po příjezdu lékaře již pozdě.
 
 Oživování (resuscitace) je náhrada vymizelých nebo snížených **základních životních funkcí**, tj. akce srdeční a dýchání. Nejčastější příčiny vymizení základních životních funkcí jsou:
 
@@ -24,7 +24,7 @@ Oživování (resuscitace) je náhrada vymizelých nebo snížených **základn�
 
 ## Rozpoznání vymizení základních životních funkcí
 
-V případě zástavy srdeční akce a bezdeší je třeba neprodleně zahájit oživování.
+V případě zástavy srdeční akce a bezdeší je třeba neprodleně zahájit oživování (resuscitovat). Úspěšnost záleží na časnosti zahájení.
 
 Zástava srdce
 :   Vymizení tepu na velkých tepnách (po stranách krku) nebo vymizení normálně hmatného úderu srdečního hrotu pod levým prsem.
@@ -42,7 +42,7 @@ Zkolabovaný člověk se zachovanými základními životními funkcemi (to je d
 
 ## Proces oživování při vymizení základních životních funkcí
 
-Proces oživování při zástavě srdeční akce a bezdeší spočívá v uvolnění dýchacích cest a popřípadě v následné resuscitaci.
+Proces oživování při zástavě srdeční akce a bezdeší začíná uvolněním dýchacích cest. Když se dech neobnoví, následuje resuscitace.
 
 Základním úkonem v procesu oživování je **uvolnění dýchacích cest a vyprázdnění dutiny ústní**. Záklon hlavy, předsunutí dolní čelisti nebo prosté povytažení jazyka z úst často způsobí, že postižený začne sám dýchat. Život je zachráněn, čímž resuscitace končí. K uchopení jazyka a vyprázdnění ústní dutiny dobře poslouží například kapesník nebo cíp košile.
 
