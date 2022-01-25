@@ -24,7 +24,7 @@ Točení hlavy vzniká nesprávným drážděním polokruhovitých kanálků smy
 
 ## Příčiny podráždění zdravého vestibulárního ústrojí
 
-K podráždění zdravého vestibulárního ústrojí může dojít buď zevním podnětem nebo onemocněním.
+K podráždění vestibulárního ústrojí dochází nejčastěji jeho zevním podrážděním. Někdy se může jednat o onemocnění.
 
 {id="zevni_priciny"}
 
@@ -56,7 +56,7 @@ Nevolnost a zvracení
 
 ### Nemoci způsobující točení hlavy
 
-Vertigo doprovází choroby, které vedou ke změně prokrvení mozku nebo k jeho nesprávnému dráždění.
+Vertigo doprovází některé choroby. Jedná se o změnu prokrvení mozku nebo o nesprávné dráždění vestibulárního ústrojí.
 
 Výkyv [krevního tlaku][8]
 :   Při nadměrném poklesu [krevního tlaku][8] se před omdlením téměř vždy zatočí hlava.
