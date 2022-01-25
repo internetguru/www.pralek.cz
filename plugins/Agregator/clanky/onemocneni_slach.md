@@ -19,7 +19,7 @@ V prstech nejsou žádné svaly. Svaly ohýbačů a natahovačů prstů jsou ulo
 
 ## Zánět šlach
 
-[Zánět šlach][2] je onemocnění, které navazuje na jednotvárnou práci a na **dlouhodobě se opakující pohyby**.
+Jednotvárná práce, **dlouhodobě se opakující stejné pohyby** nebo namožení způsobí [zánět šlach][2]. Jedná se o nepříjemné a často bolestivé onemocnění.
 
 {class="example"}
 
@@ -64,6 +64,7 @@ Všechny zmíněné léčebné postupy mají stejně dobrý efekt. V případě 
 ## Tenisový loket – epikondylitis
 
 Tenisový loket je zánětlivé onemocnění, při kterém bolí místo úponu šlachy ke kosti z důvodu nadměrné nebo dlouhodobé zátěže.
+Tenisový loket je bolestivé zánětlivé onemocnění. Bolí místo úponu šlachy ke kosti z důvodu nadměrné nebo dlouhodobé zátěže.
 
 {class="important"}
 
