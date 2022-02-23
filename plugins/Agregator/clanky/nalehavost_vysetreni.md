@@ -17,20 +17,23 @@
 
 n/a
 
-  * Při **ohrožení života** je vždy nejprve nutná 
-      1. okamžitá _technická první pomoc_ (přerušit kontakt zraněného se zdrojem elektrického proudu, vytažení tonoucího z vody, vyproštění zraněného z hořícího auta a podobně).
-      2. V případě vymizení základních životních funkcí (vědomí, tep) [zahájit oživování][1] _(resuscitaci)_. Úspěšnost resuscitace je závislá na včasnosti jejího zahájení.
-      3. Zároveň je třeba neprodleně [zavolat záchranku][2].
-  * Při **prudkém krvácení** (krvácení z velké tepny) je nutné 
-      1. neprodleně zastavit krvácení (nejlépe stlačením tepny nebo přiložením tlakového obvazu). Z přerušené stehenní tepny by mohl poraněný vykrvácet už během 1 minuty.
-      2. Bezprostředně je nutné zavolat záchranku.
-  * Každou **spáleninu** je nutné 
-      1. [okamžitě ochladit][3]. Kůže je vynikající tepelný izolátor a teplo proniká do hloubky pomalu a postupně. Bezprostřední chlazení podstatně **snižuje závažnost úrazu** i jeho následky.
-      2. Zavolat záchranku, pokud je spálenina závažná (rozsáhlá). Běžné drobné spáleniny jsou léčeny na chirurgických ambulancích, závažné na specializovaných klinikách.
-  * **[Poleptání oka][4]** je nutné 
-      1. neprodleně řešit opakovanými výplachy oka čistou vodou nebo lépe oční vodou.
-      2. Následně je třeba zavolat záchranku nebo zraněného co nejrychleji dopravit na oční oddělení spádové nemocnice.
-      3. Oko je třeba vyplachovat až do předání pacienta lékaři z důvodu minimalizace poruchy zraku způsobené následným jizvením rohovky.
+Ohrožení života
+: Je vždy nejprve nutná okamžitá _technická první pomoc_ (přerušit kontakt zraněného se zdrojem elektrického proudu, vytažení tonoucího z vody, vyproštění zraněného z hořícího auta a podobně).
+: V případě vymizení základních životních funkcí (vědomí, tep) [zahájit oživování][1] _(resuscitaci)_. Úspěšnost resuscitace je závislá na včasnosti jejího zahájení.
+: Zároveň je třeba neprodleně [zavolat záchranku][2].
+
+Prudké krvácení (krvácení z velké tepny)
+: Je nutné neprodleně zastavit krvácení (nejlépe stlačením tepny nebo přiložením tlakového obvazu). Z přerušené stehenní tepny by mohl poraněný vykrvácet už během 1 minuty.
+: Bezprostředně je nutné zavolat záchranku.
+
+Spálenina
+: Je nutné spáleninu [okamžitě ochladit][3]. Kůže je vynikající tepelný izolátor a teplo proniká do hloubky pomalu a postupně. Bezprostřední chlazení podstatně **snižuje závažnost úrazu** i jeho následky.
+: Dále zavolat záchranku, pokud je spálenina závažná (rozsáhlá). Běžné drobné spáleniny jsou léčeny na chirurgických ambulancích, závažné na specializovaných klinikách.
+
+[Poleptání oka][4]
+: Poleptání je nutné neprodleně řešit opakovanými výplachy oka čistou vodou nebo lépe oční vodou.
+: Následně je třeba zavolat záchranku nebo zraněného co nejrychleji dopravit na oční oddělení spádové nemocnice.
+: Oko je třeba vyplachovat až do předání pacienta lékaři z důvodu minimalizace poruchy zraku způsobené následným jizvením rohovky.
 
 {id="nutnost\_resit\_behem_minut"}
 
