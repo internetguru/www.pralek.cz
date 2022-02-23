@@ -13,6 +13,8 @@ Neporušený puchýř se nepropichuje ani nestříhá. Naopak je nutné dbát na
 
 Puchýř je dutina vyplněná tekutinou ([podobně jako cysta][1]), která vznikla mezi dvěma základními vrstvami kůže (mezi pokožkou a škárou). Opakovaným tlakem na kůži šikmo nebo podélně u netrénovaného člověka dojde k násilnému oddělení pokožky a škáry a tím ke vzniku puchýře.
 
+{class="example"}
+
 [Tekutina (krevní plazma – lymfa)][2] se do puchýře vylévá okamžitě po jeho vzniku. Jedná se o obrannou reakci organizmu [na úraz][3] a **tekutina do puchýře patří**.
 
 Puchýř vzniká mechanickým nebo tepelným poškozením kůže. Nejčastějšími příčinami vzniku puchýřů jsou:
@@ -26,7 +28,7 @@ Puchýř vzniká mechanickým nebo tepelným poškozením kůže. Nejčastějš�
 
 ## Možnosti vývoje puchýře
 
-n/a
+Vývoj puchýře je různý při porušení či neporušení krytu puchýře.
 
   1. V případě neporušení krytu puchýře (puchýř je celistvý) nedochází ke [styku obsahu puchýře s mikroorganizmy][5] a puchýř se hojí bez zánětu. Puchýř tedy nebolí, pouze 2 dny na spodinu poněkud tlačí pro napěchovaný objem. Druhý až třetí den se začne tekutina vstřebávat a čtvrtý nebo pátý den se tekutina z puchýře zcela ztratí. Mezitím se zhojí spodina puchýře (škára). Po samovolném sloupnutí pokožky (nyní již suché „kůžičky“) nad bývalým puchýřem je spodina již zhojena – **bez jizvy, bez bolesti, bez problémů.**
   2. Jestliže dojde k drobnému (mikroskopickému) poranění krytu puchýře, může se naopak obsah puchýře kontaminovat mikroorganizmy a může být následně zkalený nebo hnisavý (podle [stupně a vývoje zánětu][6]).
@@ -37,9 +39,9 @@ n/a
 
 ## Ošetřování puchýřů
 
-n/a
+Nejdůležitější zásada je neporušený a nezanícený čerstvě vzniklý **puchýř nepropichovat ani neprostřihovat**.
 
-Nejdůležitější zásada je neporušený a nezanícený čerstvě vzniklý **puchýř nepropichovat ani neprostřihovat**. Jednalo by se totiž o zcela nesmyslné konání, které by nepřineslo nic dobrého. Zcela jistě by však porušením krytu puchýře umožnilo průnik mikroorganizmům do puchýře. Hojení bez zánětu a proto nebolestivé by přešlo v hojení zánětlivé s mnoha nebo se všemi projevy zánětu.
+Úmyslné porušení puchýře je zcela nesmyslné konání, které nepřinese nic dobrého. Zcela jistě by však porušením krytu puchýře umožnilo průnik mikroorganizmům do puchýře. Hojení bez zánětu a proto nebolestivé by přešlo v hojení zánětlivé s mnoha nebo se všemi projevy zánětu.
 
 {class="important"}
 
@@ -53,16 +55,21 @@ Již protržený, zanícený, stržený, do hloubky porušený nebo krvácejíc�
 
 ## Mozol a kuří oko
 
-n/a
+Postupným a přiměřeným zatěžováním prací nebo sportem nevznikne na inkriminovaném místě puchýř, ale vytvoří se mozol.
 
-Postupným a přiměřeným zatěžováním prací nebo sportem nevznikne na inkriminovaném místě puchýř, ale vytvoří se mozol. U mozolu se pokožka stává pevnější, odolnější vůči zátěži, poněkud tmavší a vyšší _(hyperkeratóza)_. Dokud je mozol žádoucí, je možné jej ošetřovat a promazávat. V případě, že mozol začne překážet, je potřeba jej odstraňovat (snášet) např. pilníkem. Patřičným odborným pracovištěm je pedikůra nebo manikůra.
+U mozolu se pokožka stává pevnější, odolnější vůči zátěži, poněkud tmavší a vyšší _(hyperkeratóza)_. Dokud je mozol žádoucí, je možné jej ošetřovat a promazávat. V případě, že mozol začne překážet, je potřeba jej odstraňovat (snášet) např. pilníkem. Patřičným odborným pracovištěm je pedikůra nebo manikůra.
 
-  * **Vysoký mozol** (nejčastěji na ruce nebo [na okraji chodidla][11]) roste do výšky směrem proti pracovnímu nástroji nebo proti tlačící botě. Může působit potíže – tlačit nebo bolet.
-  * **Hluboký mozol** roste do hloubky proti tlačícímu zdeformovanému drobnému kloubu nohy. 
-      * Takový hluboký a bolestivý mozol se nazývá kuří oko _(kalus)_.
-      * Nejčastěji vzniká v případě deformace nohy (příčně plochá noha nebo stařecké deformace prstů).
-      * Často žádané chirurgické odstranění kuřího oka řeší problém pouze krátkodobě – do vytvoření nového mozolu.
-      * Definitivním řešením kuřího oka je ortopedická úprava postiženého kloubu nebo zvláštní ortopedická vložka nebo celá bota.
+Vysoký mozol
+: Nachází se nejčastěji na ruce nebo [na okraji chodidla][11].
+: Roste do výšky směrem proti pracovnímu nástroji nebo proti tlačící botě.
+: Může působit potíže – tlačit nebo bolet.
+
+Hluboký mozol
+: Roste do hloubky proti tlačícímu zdeformovanému drobnému kloubu nohy.
+: Takový hluboký a bolestivý mozol se nazývá kuří oko _(kalus)_.
+: Nejčastěji vzniká v případě deformace nohy (příčně plochá noha nebo stařecké deformace prstů).
+: Často žádané chirurgické odstranění kuřího oka řeší problém pouze krátkodobě – do vytvoření nového mozolu.
+: Definitivním řešením kuřího oka je ortopedická úprava postiženého kloubu nebo zvláštní ortopedická vložka nebo celá bota.
 
 {class="example"}
 
