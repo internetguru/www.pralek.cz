@@ -21,17 +21,13 @@ Nemá smysl se ihned po příjezdu do letoviska namazat krémem s vysokým ochra
 
 ## Sluneční záření
 
-n/a
-
 Slunce je k Zemi nejbližší hvězda. Hořením dochází ve slunci ke vzniku záření různých vlnových délek. Blahodárné světelné a tepelné záření vnímá každý živočich. Sluneční záření je podmínkou veškerého života na Zemi. Krátkovlnné sluneční záření však může nepřipraveným živým organizmům způsobit závažné poruchy zdraví.
 
 Intenzita slunečního záření se mění (v našich krajích) podle ročního období, denní doby a počasí. Stoupá také s nadmořskou výškou; na horách je intenzita slunečního záření vyšší než u moře.
 
-{id="nebezpeci\_nadmerneho\_opaleni\_spaleni\_sluncem"}
+{id="spaleni\_sluncem"}
 
 ## Nebezpečí nadměrného opálení (spálení sluncem)
-
-n/a
 
 V případě nadměrného opalování dojde ke [spálenině sluncem][1]. Již pouhé zarudnutí kůže (1. stupeň spáleniny) je nejen nepříjemné, ale také nebezpečné. V případě [tvorby puchýřů][2] (2. stupeň spáleniny) je bolestivost ještě větší. Nadměrné dráždění nepřipravených _melanocytů_ slunečním zářením může vést ke vzniku [nejzávažnější rakoviny kůže – _melanomu_][3] . 
 
@@ -40,11 +36,9 @@ Přiměřené vystavování slunečnímu záření je nutné (tvorba vitamínu D
   * urychluje stárnutí kůže (podporuje vysychání, snižuje pružnost kůže a tím podporuje tvorbu vrásek),
   * zvyšuje pravděpodobnost [onemocnění rakovinou kůže – _bazaliom_][3] . 
 
-{id="rozlicne\_typy\_lidi\_ve\_vztahu\_ke\_slunecnimu_zareni"}
+{id="typy\_lidi"}
 
 ## Rozličné typy lidí ve vztahu ke slunečnímu záření
-
-n/a
 
 Různí lidé mají různé množství _melanocytů_ a následně i _melaninu_. Podle typu člověka se někdo opaluje snadno a bez problémů, někdo se musí před sluncem chránit v začátku sezóny a někdo trvale.
 
