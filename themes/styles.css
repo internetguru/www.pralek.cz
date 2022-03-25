@@ -1677,7 +1677,7 @@ dl.clanek.doclist-new > dt:first-child:after {
   height: 1em;	
   vertical-align: -.125em;	
 }	
-body .scrolltopable span {	
+body #js-scrolltopable span {	
   font-size: 2rem;	
   display: flex;	
   justify-content: center;	
@@ -1904,3 +1904,4 @@ body[data-link="/seznam_clanku"].agregator-new .hdesc--top > div:after {
   }
 }	
 /************************************/	
+
