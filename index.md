@@ -1,5 +1,5 @@
 
-{data-image="/files/preview/pralk-og.jpg" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-image="/files/preview/pralek-og.jpg" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" id="pralek" ctime="2007-03-29" short="Praktické lékařství" title="Pralék: Praktické lékařství"}
 
