@@ -1,5 +1,5 @@
 
-{data-image="/files/preview/koutek/main.jpg" xml:lang="cs" ns="https://www.pralek.cz"}
+{data-image="/files/preview/pralk-og.jpg" xml:lang="cs" ns="https://www.pralek.cz"}
 
 {author="Jaroslav Pavelka" id="pralek" ctime="2007-03-29" short="Praktické lékařství" title="Pralék: Praktické lékařství"}
 
@@ -17,7 +17,7 @@
 
 Na tomto webu autor od roku 2007 publikuje články v oblasti zdravotní péče, které pomáhají široké veřejnosti i odborným pracovníkům. Cílem autora je nestranně a srozumitelně vzdělat čtenáře v oblasti prevence a péče o zdraví a informovat o běžných zdravotních problémech.
 
-{class="image-group author card" id="autor" data-image-group-url="/files/thumbs/jaroslav_pavelka.jpg"}
+{class="image-group author card" id="jaroslav\_pavelka" data-image-group-url="/files/thumbs/jaroslav\_pavelka.jpg"}
 
 MUDr. Jaroslav Pavelka <span>(<span class="far fa-xs fa-asterisk">i</span> 1952)</span> {class="card__heading"}
 :   Ambulantní chirurg s 40letou praxí
