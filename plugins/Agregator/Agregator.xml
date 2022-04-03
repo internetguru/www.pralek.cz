@@ -26,6 +26,7 @@
   <var id="merge-new">stitek</var>
   
   <group id="filters"><doclist id="zvraceni" path="clanky" kw="zvracení" for="stitek" doclist="stitek"/>
+<doclist id="zvire" path="clanky" kw="zvíře" for="stitek" doclist="stitek"/>
 <doclist id="zlucnik" path="clanky" kw="žlučník" for="stitek" doclist="stitek"/>
 <doclist id="zlomeniny" path="clanky" kw="zlomeniny" for="stitek" doclist="stitek"/>
 <doclist id="zlaza" path="clanky" kw="žláza" for="stitek" doclist="stitek"/>
@@ -33,20 +34,25 @@
 <doclist id="zdravy_zivotni_styl" path="clanky" kw="zdravý životní styl" for="stitek" doclist="stitek"/>
 <doclist id="zanet" path="clanky" kw="zánět" for="stitek" doclist="stitek"/>
 <doclist id="zaludek" path="clanky" kw="žaludek" for="stitek" doclist="stitek"/>
+<doclist id="vykloubeni" path="clanky" kw="vykloubení" for="stitek" doclist="stitek"/>
 <doclist id="uzliny" path="clanky" kw="uzliny" for="stitek" doclist="stitek"/>
 <doclist id="uraz" path="clanky" kw="úraz" for="stitek" doclist="stitek"/>
 <doclist id="toceni_hlavy" path="clanky" kw="točení hlavy" for="stitek" doclist="stitek"/>
 <doclist id="teplota" path="clanky" kw="teplota" for="stitek" doclist="stitek"/>
 <doclist id="tekutiny" path="clanky" kw="tekutiny" for="stitek" doclist="stitek"/>
+<doclist id="strevo" path="clanky" kw="střevo" for="stitek" doclist="stitek"/>
 <doclist id="strava-zazivani" path="clanky" kw="strava-zažívání" for="stitek" doclist="stitek"/>
 <doclist id="strach" path="clanky" kw="strach" for="stitek" doclist="stitek"/>
 <doclist id="srdce" path="clanky" kw="srdce" for="stitek" doclist="stitek"/>
 <doclist id="spaleniny" path="clanky" kw="spáleniny" for="stitek" doclist="stitek"/>
 <doclist id="seniori" path="clanky" kw="senioři" for="stitek" doclist="stitek"/>
+<doclist id="rihani" path="clanky" kw="říhání" for="stitek" doclist="stitek"/>
 <doclist id="rehabilitace" path="clanky" kw="rehabilitace" for="stitek" doclist="stitek"/>
 <doclist id="prvni_pomoc" path="clanky" kw="první pomoc" for="stitek" doclist="stitek"/>
+<doclist id="prujem" path="clanky" kw="průjem" for="stitek" doclist="stitek"/>
 <doclist id="prochlazeni" path="clanky" kw="prochlazení" for="stitek" doclist="stitek"/>
 <doclist id="prevence" path="clanky" kw="prevence" for="stitek" doclist="stitek"/>
+<doclist id="prehrati" path="clanky" kw="přehřátí" for="stitek" doclist="stitek"/>
 <doclist id="porucha_vedomi" path="clanky" kw="porucha vědomí" for="stitek" doclist="stitek"/>
 <doclist id="poraneni" path="clanky" kw="poranění" for="stitek" doclist="stitek"/>
 <doclist id="pohyb" path="clanky" kw="pohyb" for="stitek" doclist="stitek"/>
@@ -54,7 +60,9 @@
 <doclist id="nezhoubne" path="clanky" kw="nezhoubné" for="stitek" doclist="stitek"/>
 <doclist id="nevolnost" path="clanky" kw="nevolnost" for="stitek" doclist="stitek"/>
 <doclist id="neurazove" path="clanky" kw="neúrazové" for="stitek" doclist="stitek"/>
+<doclist id="nehet" path="clanky" kw="nehet" for="stitek" doclist="stitek"/>
 <doclist id="nadory" path="clanky" kw="nádory" for="stitek" doclist="stitek"/>
+<doclist id="myty" path="clanky" kw="mýty" for="stitek" doclist="stitek"/>
 <doclist id="mozek-nervy" path="clanky" kw="mozek-nervy" for="stitek" doclist="stitek"/>
 <doclist id="moc" path="clanky" kw="moč" for="stitek" doclist="stitek"/>
 <doclist id="mikroorganizmy" path="clanky" kw="mikroorganizmy" for="stitek" doclist="stitek"/>
@@ -63,6 +71,8 @@
 <doclist id="krvaceni" path="clanky" kw="krvácení" for="stitek" doclist="stitek"/>
 <doclist id="krev" path="clanky" kw="krev" for="stitek" doclist="stitek"/>
 <doclist id="kolaps" path="clanky" kw="kolaps" for="stitek" doclist="stitek"/>
+<doclist id="kloub" path="clanky" kw="kloub" for="stitek" doclist="stitek"/>
+<doclist id="kasel" path="clanky" kw="kašel" for="stitek" doclist="stitek"/>
 <doclist id="jed" path="clanky" kw="jed" for="stitek" doclist="stitek"/>
 <doclist id="infarkt" path="clanky" kw="infarkt" for="stitek" doclist="stitek"/>
 <doclist id="imunita" path="clanky" kw="imunita" for="stitek" doclist="stitek"/>
@@ -73,6 +83,8 @@
 <doclist id="cevy" path="clanky" kw="cévy" for="stitek" doclist="stitek"/>
 <doclist id="bricho" path="clanky" kw="břicho" for="stitek" doclist="stitek"/>
 <doclist id="boulicka" path="clanky" kw="boulička" for="stitek" doclist="stitek"/>
+<doclist id="boule" path="clanky" kw="boule" for="stitek" doclist="stitek"/>
+<doclist id="bolest" path="clanky" kw="bolest" for="stitek" doclist="stitek"/>
 <doclist id="antibiotika" path="clanky" kw="antibiotika" for="stitek" doclist="stitek"/>
 <doclist id="angina" path="clanky" kw="angína" for="stitek" doclist="stitek"/>
 <doclist id="alergie" path="clanky" kw="alergie" for="stitek" doclist="stitek"/>
