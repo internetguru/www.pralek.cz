@@ -6,6 +6,8 @@ for f in plugins/Agregator/clanky/*.html; do
   ctime="$(hxselect -c "body > h::attr(ctime)" < "$f")"
   mtime="$(hxselect -c "body > h::attr(mtime)" < "$f")"
   kw="$(hxselect -c "body > h + desc::attr(kw)" < "$f")"
-  echo -e "$id;$fname;$kw;$ctime;$mtime"
+  heading="$(hxselect -c "body > h" < "$f")"
+  short="$(hxselect -c "body > h::attr(short)" < "$f")"
+  echo -e "$id;$fname;$kw;$heading;$short;$ctime;$mtime"
 done
 
