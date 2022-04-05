@@ -54,7 +54,7 @@ Služba pracuje v nepřetržitém směnném režimu (12 hodin). Vozidlo rychlé 
 
 ## Důvody přivolání záchranky, plané výjezdy a agresivita pacientů
 
-Nejčastější důvody pro volání záchranky jsou **náhle vzniklé a závažné poruchy zdraví**. Nejčastěji jde o [bezvědomí][5], [bolest na hrudi, infarkt][6], [mozkovou mrtvici][7], překotný porod, dopravní nehodu nebo závažný úraz jako [bodné a střelné poranění][8] či [zlomenina][9].
+Nejčastější důvody pro volání záchranky jsou **náhle vzniklé a závažné poruchy zdraví**. Nejčastěji jde o [bezvědomí][5], [bolest na hrudi (infarkt)][6], [mozkovou mrtvici][7], překotný porod, dopravní nehodu nebo o závažný úraz jako jsou [bodná a střelná poranění][8] či [zlomeniny][9].
 
   * Bohužel se stále vyskytuje **záměrné zneužívání záchranné služby**. Dohledávání takových volajících je možné, ale často svízelné a vždy zdržující a zatěžující.
   * Častější však bývá **zneužívání neúmyslné**, kdy je vyžadován zásah zdravotnické záchranné služby u případů, které k tomu nejsou vůbec vhodné. Například dlouhodobé potíže nebo potíže, které sice vyžadují vyšetření lékařem, neohrožují však pacienta na životě. Slovní agresivita takových volajících pak bývá pro dispečera jen těžko zvládnutelná.
