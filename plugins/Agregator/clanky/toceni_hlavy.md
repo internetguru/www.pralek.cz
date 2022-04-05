@@ -24,7 +24,7 @@ Točení hlavy vzniká nesprávným drážděním polokruhovitých kanálků smy
 
 ## Příčiny podráždění zdravého vestibulárního ústrojí
 
-K podráždění vestibulárního ústrojí dochází nejčastěji jeho zevním podrážděním. Někdy se může jednat o onemocnění.
+K podráždění vestibulárního ústrojí dochází nejčastěji zevním podnětem. Někdy může být příčinou onemocnění.
 
 {id="zevni_priciny"}
 
