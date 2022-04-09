@@ -15,7 +15,7 @@ Zlomeninou se rozumí porušení kontinuity kosti. Jedná se o nalomení, praskl
 
 ## Projevy zlomeniny dlouhé kosti
 
-Zlomenina dlouhé kosti může být provázena zvukovým efektem (prasknutím) podobným tomu, který vznikne šlápnutím na suchou větev v lese.
+Zlomenina dlouhé kosti může být provázena výrazným zvukovým efektem. Prasknutí je podobné zvuku, který vznikne šlápnutím na suchou větev v lese.
 
 {class="example"}
 

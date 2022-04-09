@@ -19,7 +19,7 @@ Nejhorší situace nastane tehdy, když se pacient vydá [s neurčitými přízn
 
 ## Vědecký přístup k nemoci
 
-Zda je jedinou možností řešení chorob dnešní „západní“ medicína nebo i alternativní medicíny či léčitelé, to zatím nikdo neví.
+Standardní možností řešení chorob je u nás „západní“ medicína. Jestli mohou vyléčit nemoc i alternativní medicíny či léčitelé zatím nikdo neví.
 
 {class="example"}
 
