@@ -61,7 +61,7 @@ Po tupém poranění hlavy [vznikne boule][5] – krevní výron. Zraněnému ud
 
 {class="important"}
 
-Bohužel může dojít k závažnému **[poranění mozku][6] i bez známek otřesu mozku** . Toto poranění se může projevit i s delším časovým odstupem. 
+Bohužel může dojít k závažnému **[poranění mozku][6] i bez známek otřesu mozku**. Toto poranění se může projevit i s delším časovým odstupem. 
 
 {id="otazky" var="inputvar-otazky_h"}
 

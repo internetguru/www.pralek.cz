@@ -23,7 +23,7 @@ n/a
 
   1. Na počátku vývoje lidského zárodku (embrya) vzniká mícha na povrchu zad. Teprve v průběhu dalšího vývoje se mícha zanořuje do páteřního kanálu. Někdy se bohužel stává, že spolu s míchou se do podkoží dostane i několik kožních buněk.
   2. Kožní buňky se chovají v podkoží naprosto stejně, jako by byly na povrchu kůže; množí se, odumírají, potí se, často z nich vyrůstají chlupy. Tím [postupně vzniká cysta][1], která většinou nepůsobí žádné potíže.
-  3. Teprve [v souvislosti s pubertou][2] a tedy se změnou hormonů a následně změnou vlastností kůže **dochází k infekci cysty a [vzniká absces][1]** . Absces se projeví nejčastěji v postpubertálním věku jako _velmi bolestivá boulička vzniklá nad kostrčí_. 
+  3. Teprve [v souvislosti s pubertou][2] a tedy se změnou hormonů a následně změnou vlastností kůže **dochází k infekci cysty a [vzniká absces][1]**. Absces se projeví nejčastěji v postpubertálním věku jako _velmi bolestivá boulička vzniklá nad kostrčí_. 
 
 {class="example"}
 

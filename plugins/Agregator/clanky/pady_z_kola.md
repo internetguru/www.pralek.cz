@@ -50,8 +50,8 @@ n/a
 Vždy je třeba rozlišit prosté pohmoždění od závažného zranění, což mnohdy laicky není možné. K vyloučení závažnějších zranění bývá nutné lékařské vyšetření.
 
   * V současnosti cyklisté užívají helmu, takže dochází častěji pouze k **pohmoždění hlavy** než k [otřesu mozku][8] nebo k ještě závažnějším [poraněním hlavy][9].
-  * Při nárazu cyklisty do stojícího auta (cyklista se v maximálním záběru nedívá dopředu, ale dolů pod sebe) dochází často k **[pohmoždění krční páteře][10]** , nebo i k jejímu závažnému vykloubení nebo zlomenině. 
-  * V případě **pohmoždění břicha** nelze laicky vyloučit poranění vnitřních orgánů. Návštěva lékaře (nejlépe chirurga) je proto nezbytná. Po úraze je nutné **nepodávat zraněnému jídlo ani nápoje a zajistit dopravu [do nemocnice nejlépe záchrankou][11]** . 
+  * Při nárazu cyklisty do stojícího auta (cyklista se v maximálním záběru nedívá dopředu, ale dolů pod sebe) dochází často k **[pohmoždění krční páteře][10]**, nebo i k jejímu závažnému vykloubení nebo zlomenině. 
+  * V případě **pohmoždění břicha** nelze laicky vyloučit poranění vnitřních orgánů. Návštěva lékaře (nejlépe chirurga) je proto nezbytná. Po úraze je nutné **nepodávat zraněnému jídlo ani nápoje a zajistit dopravu [do nemocnice nejlépe záchrankou][11]**. 
   * **Pohmoždění hrudní stěny** je méně závažné, ale velmi bolestivé onemocnění. Laicky nelze odlišit pohmoždění od zlomeniny žebra – je nutné vyhledat lékaře a diagnózu potvrdit až na základě rentgenu. Pohmožděný hrudník bolí až 6 týdnů, kdežto zlomenina žebra se zhojí a přestane bolet za 3 týdny od úrazu.
   * Nárazem na svodidla nebo zábradlí docházívá k **pohmoždění svalů**, které se projevuje a léčí podobně, jako [natažení svalu][12]. Pohmožděný kloub se projevuje a léčí podobně, jak je popsáno u [podvrtnutého kotníku][13].
 
