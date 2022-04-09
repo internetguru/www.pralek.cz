@@ -49,7 +49,7 @@ Onemocnění mozku
 
 ## Průjem – opakované řídké stolice
 
-Příčina průjmů je nejčastěji ve snaze těla rychle se zbavit bakteriálně kontaminovaného nebo jinak jedovatého střevního obsahu.
+Příčina průjmu je ve snaze těla rychle se zbavit jedovatého střevního obsahu. Nejčastěji se jedná o zkaženou potravu.
 
 {class="example"}
 
@@ -73,7 +73,7 @@ Zcela jinou kapitolou jsou **dlouhodobé průjmy** které souvisí se závažný
 
 ## Škytání, větry a defekační reflex
 
-Jedná se o jevy běžně doprovázející trávení.
+Jedná se o jevy běžně doprovázející trávení. Mohou působit problémy, je-li jich nadbytek.
 
 Škytání
 :   Škytání jsou **prudké stahy bránice**, což je hlavní dýchací sval, který odděluje dutinu hrudní od dutiny břišní. Ke vzniku škytavky dojde nejčastěji smíchem, napitím studeného nápoje, leknutím, nesprávným polknutím sousta.
