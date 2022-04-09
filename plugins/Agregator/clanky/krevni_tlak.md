@@ -9,7 +9,7 @@
 
 {kw="srdce, cévy, krev, prevence, zdravý životní styl, tlakoměr, točení hlavy"}
 
-Opakovaně naměřené hodnoty krevního tlaku se liší v závislosti nejen na zdravotním stavu, ale i na podmínkách měření.
+Opakovaně naměřené hodnoty krevního tlaku se liší. Závisí nejen na zdravotním stavu, ale i na podmínkách měření.
 
 Srdce pumpuje krev – žílami ji nabírá a [tepnami ji rozvádí zpět do celého těla][1]. K zachování směru toku krve slouží [chlopně jakožto jednosměrné ventily][2].
 
@@ -44,7 +44,7 @@ Rozdíly mezi jednotlivými přístroji jsou cenové, vzhledové, jestli jsou s 
 
 ## Kolísání krevního tlaku u zdravého člověka je normální
 
-Mnoho lidí vlastní tonometr a často se podivují nad **rozdíly naměřených hodnot** a považují svůj přístroj za porouchaný nebo nekvalitní.
+Mnoho lidí vlastní tonometr a často se podivují nad **rozdíly naměřených hodnot**. Považují svůj přístroj za porouchaný nebo nekvalitní.
 
 Za normální se u mladého zdravého člověka považuje hodnota kolem 120/80 mm Hg, která může kolísat mezi 100/50 až 180/100 mm Hg. Dočasné **zvýšení krevního tlaku** je způsobeno:
 
