@@ -1,9 +1,6 @@
-require("IGCMS", () => {
-  IGCMS.ready(() => {
-    require("IGCMS.Scrolltopable", () => {
-      IGCMS.Scrolltopable.init({
-        text: "<span class='fas fa-fw fa-chevron-up'></span>"
-      })
-    })
-  })
-})
+import { Scrolltopable } from '/lib/scrolltopable.min.js'
+
+Scrolltopable.init({
+  text: "<span class='fas fa-fw fa-chevron-up'></span>"
+});
+
