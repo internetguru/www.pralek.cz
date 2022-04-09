@@ -1429,9 +1429,9 @@ li {
   background: none;	
   margin: 2em 0 2em 0;	
 }	
-.upozorneni label {	
-  color: rgb(var(--link-color));	
-  border-bottom: thin solid rgba(var(--link-color), var(--link-border-opacity));	
+.upozorneni label {
+  color: rgb(13, 71, 161);
+  border-bottom: thin solid rgba(13, 71, 161, var(--link-border-opacity));
   cursor: pointer;	
 }	
 .upozorneni.hdesc--top + div .card__heading,	
@@ -1677,14 +1677,14 @@ dl.clanek.doclist-new > dt:first-child:after {
   height: 1em;	
   vertical-align: -.125em;	
 }	
-body .scrolltopable span {	
+body #scrolltopable span {	
   font-size: 2rem;	
   display: flex;	
   justify-content: center;	
   align-items: center;	
   position: relative;	
   top: -0.1em;	
-}	
+}
 .agregator .figure {	
   width: 50em;	
   max-width: 100% !important;	
