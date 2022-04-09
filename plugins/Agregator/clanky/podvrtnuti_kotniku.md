@@ -19,9 +19,9 @@ Nejčastěji dochází k úrazu **při nadměrném nebo nečekaném násilí** n
 
 n/a
 
-Nejčastěji dochází k zatlačení nohy směrem pod vnitřní kotník. Tím se může poranit (pouze natáhnout nebo prasknout) kloubní pouzdro a někdy i vaz pod zevním kotníkem. Takový úraz se nazývá podvrtnutí, vyvrtnutí nebo zvrtnutí nebo odborně **_distorze_ zevního kotníku** . 
+Nejčastěji dochází k zatlačení nohy směrem pod vnitřní kotník. Tím se může poranit (pouze natáhnout nebo prasknout) kloubní pouzdro a někdy i vaz pod zevním kotníkem. Takový úraz se nazývá podvrtnutí, vyvrtnutí nebo zvrtnutí nebo odborně **_distorze_ zevního kotníku**. 
 
-Jestliže násilí působí opačně (tlačí nohu pod zevní kotník), pak se poraní kloubní pouzdro nebo vazy pod vnitřním kotníkem. Stav je označován jako podvrtnutí, zvrtnutí, vyvrtnutí nebo **_distorze_ vnitřního kotníku** . 
+Jestliže násilí působí opačně (tlačí nohu pod zevní kotník), pak se poraní kloubní pouzdro nebo vazy pod vnitřním kotníkem. Stav je označován jako podvrtnutí, zvrtnutí, vyvrtnutí nebo **_distorze_ vnitřního kotníku**. 
 
 {class="example"}
 

@@ -33,7 +33,7 @@ Prodělané **onemocnění močového měchýře se vracívá** _(recidiva)_. P�
   * dbát na dostatečný (třeba aktivní) odpočinek,
   * zajistit dostatečný [příjem nedráždivých tekutin][5],
   * podporovat [tvorbu imunity][6] a
-  * **[přiměřeně se oblékat][3]** . 
+  * **[přiměřeně se oblékat][3]**. 
 
 {class="important"}
 
