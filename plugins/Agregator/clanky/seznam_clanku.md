@@ -5,11 +5,10 @@
 
 # Kompletní seznam článků
 
-{kw="seznam"}
+Seznam všech článků na Praléku seřazený podle abecedy. Články jsou vzájemně propojeny odkazy.
 
-Seznam všech článků na Praléku seřazený podle abecedy.
+{kw="seznam"}
 
 {var="doclist-vsechny_clanky"}
 
 Seznam článků není k dispozici
-
