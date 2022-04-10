@@ -17,7 +17,7 @@ Infarkt postihuje nejčastěji muže ve středním a vyšším věku. Většinou
 
 ## Jak funguje srdce a tepny
 
-**Srdeční sval [pumpuje krev do těla][4]** . Aby mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve. Zvláštní tepny rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná tepna**. 
+**Srdeční sval [pumpuje krev do těla][4]**. Aby mohl dobře pracovat, musí být sám zásoben dostatečným množstvím okysličené krve. Zvláštní tepny rozvádějí krev srdcem, postupně se větví a ke každému kousku srdečního svalu **přivádí krev pouze jediná tepna**. 
 
 **V ostatních svalech** a orgánech k jednomu místu **přivádí krev více tepen**. Poškození jedné z nich je snadno nahrazeno ostatními. Zdravá tepna má ve stěně svalovinu a je schopna se rozšiřovat nebo zužovat – podle nároků zásobovaného místa. Vzniklý [problém se tedy mimo srdce nemusí vůbec projevit][5].
 

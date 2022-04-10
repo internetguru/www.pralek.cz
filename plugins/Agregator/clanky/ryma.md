@@ -17,7 +17,7 @@ Je velmi důležité **naučit dítě smrkat již v útlém věku**. Správné v
 
 Horní cesty dýchací (dutina nosní a hrtan, čelistní a čelní dutiny) slouží k vedení, mechanickému čištění, ohřívání a zvlhčování vdechovaného vzduchu. Při výdechu zde vzniká barva hlasu tvořeného hlasivkami.
 
-Horní cesty dýchací jsou častým místem styku organizmu se zevní škodlivinou nebo s infekcí. V případě dobré kondice a imunity dokáže organizmus dlouho **odolávat [kapénkové infekci][1] i [prochlazení][2]** , někdy však podlehne. Nejčastěji organizmus [podléhá infekci v souvislosti s únavou a vyčerpáním][3]. 
+Horní cesty dýchací jsou častým místem styku organizmu se zevní škodlivinou nebo s infekcí. V případě dobré kondice a imunity dokáže organizmus dlouho **odolávat [kapénkové infekci][1] i [prochlazení][2]**, někdy však podlehne. Nejčastěji organizmus [podléhá infekci v souvislosti s únavou a vyčerpáním][3]. 
 
 Sliznice horních cest dýchacích je neustále bombardována různými **nečistotami z vdechovaného vzduchu**. Sliznice tyto nečistoty co nejvíce filtruje, aby co nejvíce uchránila plíce. Jedná se o aerosoly, prachové částice, [alergeny (pyly))][4] a různé [mikroorganizmy][5]. Stupeň znečištění vdechovaného vzduchu určuje náročnost procesu čištění.
 

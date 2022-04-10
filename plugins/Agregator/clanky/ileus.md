@@ -70,7 +70,7 @@ n/a
 
 Pacienta se střevní neprůchodností musí vyšetřit zkušený lékař, nejlépe chirurg. Převážná většina _ileozních_ stavů je po potřebných vyšetřeních řešena operací. Někdy je vhodnější vyčkávat a podávat léky podporující činnost střeva (u funkčních a neurogenních typů).
 
-Při operaci střevní neprůchodnosti se vždy chirurg snaží odstranit překážku. Při manipulaci s nepřipraveným tlustým střevem musí být vždy alespoň dočasně založen [vývod střeva bokem _(kolostomie)_][3] . Často následuje definitivní operační řešení problému s časovým odstupem několika týdnů až měsíců od zhojení, kdy je nutno tlusté střevo na operaci připravit (vypláchnout a zbavit bakterií). 
+Při operaci střevní neprůchodnosti se vždy chirurg snaží odstranit překážku. Při manipulaci s nepřipraveným tlustým střevem musí být vždy alespoň dočasně založen [vývod střeva bokem _(kolostomie)_][3]. Často následuje definitivní operační řešení problému s časovým odstupem několika týdnů až měsíců od zhojení, kdy je nutno tlusté střevo na operaci připravit (vypláchnout a zbavit bakterií). 
 
 {id="otazky" var="inputvar-otazky_h"}
 

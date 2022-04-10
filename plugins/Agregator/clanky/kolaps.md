@@ -46,7 +46,7 @@ Zkolabovaný klidně a pravidelně dýchající člověk
 
 Zkolabovaný člověk s poruchou dýchání
 :   Porucha dýchání bývá způsobena zapadnutím kořene jazyka nebo vdechnutím cizího tělesa.
-:   Takový člověk **je ohrožen na životě a [vyžaduje resuscitaci][3]** . 
+:   Takový člověk **je ohrožen na životě a [vyžaduje resuscitaci][3]**. 
 
 {id="priciny\_a\_prvni_pomoc"}
 

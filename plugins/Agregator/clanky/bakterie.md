@@ -45,7 +45,7 @@ Taková situace nastane například tehdy, dostanou-li se bakterie z konečníku
 
 Existuje obrovské množství bakteriálních kmenů, které jsou popsány a pojmenovány v učebnicích mikrobiologie. Všechny mohou za určitých podmínek zapříčinit různé [zánětlivé a nakažlivé choroby][4].
 
-Cizí [choroboplodné bakterie, které člověka napadly][2] mohou přežívat v určitém místě lidského těla, např. v mandlích při angíně. Mohou se také vyplavit do celého těla a **způsobit celkové příznaky závažného [zánětlivého onemocnění][5]** . Pak bývá nevyhnutelné nasazení [antibiotik][6]. 
+Cizí [choroboplodné bakterie, které člověka napadly][2] mohou přežívat v určitém místě lidského těla, např. v mandlích při angíně. Mohou se také vyplavit do celého těla a **způsobit celkové příznaky závažného [zánětlivého onemocnění][5]**. Pak bývá nevyhnutelné nasazení [antibiotik][6]. 
 
   1. Některé **konkrétní bakterie** se složitými latinskými názvy **způsobují konkrétní chorobu**, např. tuberkulózu, boreliozu nebo pohlavní choroby.
   2. Jiné **bakterie způsobují různá [zánětlivá onemocnění][7]** s různě vyvinutými celkovými příznaky. Například angína nebo zápal plic mohou být způsobeny různými druhy bakterií opět latinsky pojmenovanými. 

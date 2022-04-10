@@ -41,7 +41,7 @@ Některé typy pneumotoraxů jsou neslučitelné se životem; některé jej záv
       * Je velmi vzácná komplikace poranění hrudníku, kdy je vzduch opakovaně nasáván ránou při nádechu do hrudníku. Při výdechu dochází k ventilovému uzávěru rány a vzduch nemůže být vytlačen zpátky ven. Vzduch se hromadí v hrudníku natolik, že brzy **začne utlačovat druhou (dosud zdravou, funkční) plíci**.
       * Zdravá plíce z důvodu útlaku brzy nemůže dýchat a stav pacienta se velmi rychle zhoršuje. Je na místě okamžitě **zabránit dalšímu nasávání vzduchu ránou do hrudníku**. Přiložená dlaň na ránu a následně neprodyšný nebo poloprodyšný obvaz zajistí, aby dovnitř vzduch nepronikal ale ven může. To umožní přežití takto zraněného člověka.
   * **Oboustranný (bilaterální) pneumotorax** 
-      * Vzniká při vícečetném poranění hrudní stěny. Zajistit laicky základní životní funkce je pak velmi obtížné. Zachránit život by mohla **okamžitá [resuscitace][2]** . Dýchání z úst do úst bez ohledu na rány v hrudníku by snad mohlo zraněného udržet při životě do předání profesionálům. Šance na přežití je však mizivá. 
+      * Vzniká při vícečetném poranění hrudní stěny. Zajistit laicky základní životní funkce je pak velmi obtížné. Zachránit život by mohla **okamžitá [resuscitace][2]**. Dýchání z úst do úst bez ohledu na rány v hrudníku by snad mohlo zraněného udržet při životě do předání profesionálům. Šance na přežití je však mizivá. 
   * **Iatrogenní (lékařem způsobený) pneumotorax** 
       * Vzniká lékařským zákrokem. Může se jednat o záměrný zákrok (například při léčení tuberkulózy) nebo o omyl. Lékař při určitém léčebném zákroku může nechtěně poranit poplicnici nebo pohrudnici a vznikne pneumotorax, který bývá záhy odhalen a vyléčen.
 
