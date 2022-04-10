@@ -3,94 +3,92 @@
 
 {ctime="2011-07-20" mtime="2011-07-20" data-top="937" author="Jaroslav Pavelka" id="zaludecni_vredy" short="Žaludeční vředy"}
 
-# Žaludeční a dvanáctníkový vřed
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
+# Žaludeční a dvanáctníkový vřed 
 
 {kw="žaludek, zvracení, strava-zažívání, břicho, antibiotika, prevence"}
 
-Žaludeční vředy jsou v současnosti dobře léčitelným onemocněním. Vřed lze vyléčit běžnými léky a nemocný žaludek není třeba operovat. V případě zanedbání vředové choroby však mohou vzniknout život ohrožující komplikace.
+Žaludeční vředy jsou v současnosti dobře léčitelným onemocněním. Vřed lze vyléčit běžnými léky a nemocný žaludek není třeba operovat. V případě zanedbání vředové choroby však mohou vzniknout život ohrožující komplikace. 
 
-Vředová choroba žaludku nebo dvanáctníku (dvanácterníku) je velmi nepříjemné ale dobře léčitelné onemocnění. Vřed je různě hluboká prohlubeň (defekt) ve stěně postiženého orgánu (nikoli vyvýšenina, jak se mnozí lidé domnívají).
+Vředová choroba žaludku nebo dvanáctníku (dvanácterníku) je velmi nepříjemné ale dobře léčitelné onemocnění. Vřed je různě hluboká prohlubeň (defekt) ve stěně postiženého orgánu (nikoli vyvýšenina, jak se mnozí lidé domnívají). 
 
-Vlastní příčinou vzniku žaludečního vředu je zvláštní [mikroorganizmus][1] (bakterie zvaná _helikobakter pylori_). Helikobakter žije pouze v kyselém prostředí žaludku, ve dvanáctníku nikoli.
+Vlastní příčinou vzniku žaludečního vředu je zvláštní [mikroorganizmus][1] (bakterie zvaná _helikobakter pylori_). Helikobakter žije pouze v kyselém prostředí žaludku, ve dvanáctníku nikoli. 
 
-  1. Je prokázána **souvislost mezi žaludečním/dvanáctníkovým vředem a nervovým vypětím** (stresem).
-  2. **Žaludeční/dvanáctníkový vřed je většinou onemocnění sezónní**, dlouhodobé, které se zhoršuje v některých obdobích (nejčastěji jaro a podzim), poté přichází období klidové (léto a zima).
-  3. Vznik vředové choroby podporují také [nevhodné stravovací návyky][2].
+  1. Je prokázána **souvislost mezi žaludečním/dvanáctníkovým vředem a nervovým vypětím** (stresem). 
+  2. **Žaludeční/dvanáctníkový vřed je většinou onemocnění sezónní**, dlouhodobé, které se zhoršuje v některých obdobích (nejčastěji jaro a podzim), poté přichází období klidové (léto a zima). 
+  3. Vznik vředové choroby podporují také [nevhodné stravovací návyky][2]. 
 
 {id="projevy\_zaludecniho\_nebo\_dvanactnikoveho\_vredu"}
 
-## Projevy žaludečního nebo dvanáctníkového vředu
+## Projevy žaludečního nebo dvanáctníkového vředu 
 
-n/a
+n/a 
 
-Žaludeční vřed se nejčastěji projevuje **bolestí žaludku nalačno**.
-
-{class="example"}
-
-U mladých lidí však často [vzniká tlak][3] či křeč v oblasti žaludku pouze při hladovění (bez souvislosti se vředem). Po jídle tyto potíže ustanou. Může se jednat o [funkční poruchu žaludku][4], kterou lze napravit [změnou stravovacích návyků][2].
-
-Dvanáctníkový vřed se nejčastěji projevuje **bolestí žaludku po jídle**.
+Žaludeční vřed se nejčastěji projevuje **bolestí žaludku nalačno**. 
 
 {class="example"}
 
-Avšak tlak v žaludku se může objevit i po nevhodném jídle, po těžko stravitelném jídle nebo po přejedení bez souvislosti se vředem.
+U mladých lidí však často [vzniká tlak][3] či křeč v oblasti žaludku pouze při hladovění (bez souvislosti se vředem). Po jídle tyto potíže ustanou. Může se jednat o [funkční poruchu žaludku][4], kterou lze napravit [změnou stravovacích návyků][2]. 
 
-Společnými projevy žaludečního nebo dvanáctníkového vředu bývá:
+Dvanáctníkový vřed se nejčastěji projevuje **bolestí žaludku po jídle**. 
 
-  * [tlak až bolest v nadbřišku][5] (nad pupkem),
-  * [bolest žaludku][6] (nalačno nebo po jídle),
-  * neschopnost se najíst po hladovění z důvodu „stažení žaludku“,
-  * opakované [zvracení (nalačno nebo po jídle)][7],
-  * hubnutí,
-  * sezónní výskyt potíží (jaro a podzim).
+{class="example"}
+
+Avšak tlak v žaludku se může objevit i po nevhodném jídle, po těžko stravitelném jídle nebo po přejedení bez souvislosti se vředem. 
+
+Společnými projevy žaludečního nebo dvanáctníkového vředu bývá: 
+
+  * [tlak až bolest v nadbřišku][5] (nad pupkem), 
+  * [bolest žaludku][6] (nalačno nebo po jídle), 
+  * neschopnost se najíst po hladovění z důvodu „stažení žaludku“, 
+  * opakované [zvracení (nalačno nebo po jídle)][7], 
+  * hubnutí, 
+  * sezónní výskyt potíží (jaro a podzim). 
 
 {id="prokazani\_a\_lecba\_zaludecniho\_nebo\_dvanactnikoveho\_vredu"}
 
-## Prokázání a léčba žaludečního nebo dvanáctníkového vředu
+## Prokázání a léčba žaludečního nebo dvanáctníkového vředu 
 
-n/a
+n/a 
 
-Při vyšetření žaludku _(gastroskopie)_ se provádí odběr vzorků žaludeční sliznice k _vyloučení rakoviny_ žaludku (rutinní vyšetření případného onemocnění rakovinou) a vyšetření na prokázání helikobaktera. Je-li helikobakter prokázán, je snadno zlikvidován [nasazením zvláštních antibiotik][8]. V kombinaci s léky snižujícími tvorbu kyseliny solné a vhodnou dietou se žaludeční vřed následně rychle zhojí.
+Při vyšetření žaludku _(gastroskopie)_ se provádí odběr vzorků žaludeční sliznice k _vyloučení rakoviny_ žaludku (rutinní vyšetření případného onemocnění rakovinou) a vyšetření na prokázání helikobaktera. Je-li helikobakter prokázán, je snadno zlikvidován [nasazením zvláštních antibiotik][8]. V kombinaci s léky snižujícími tvorbu kyseliny solné a vhodnou dietou se žaludeční vřed následně rychle zhojí. 
 
-Doplňkem léčby je zákaz koncentrovaného alkoholu, dráždivých kořeněných jídel, kávy a [kouření cigaret][9] (zvláště nalačno). Další nedílnou součástí léčby je urovnání vlastní psychiky. Jestliže pacient potíže přechází, můžou vzniknout závažné [komplikace vředové choroby][10].
+Doplňkem léčby je zákaz koncentrovaného alkoholu, dráždivých kořeněných jídel, kávy a [kouření cigaret][9] (zvláště nalačno). Další nedílnou součástí léčby je urovnání vlastní psychiky. Jestliže pacient potíže přechází, můžou vzniknout závažné [komplikace vředové choroby][10]. 
 
 {id="otazky" var="inputvar-otazky_h"}
 
-## n/a
+## n/a 
 
 {var="inputvar-otazky_desc"}
 
-n/a
+n/a 
 
 {class="otazky"}
 
-  1. Co vede ke vzniku vředové choroby?
-  2. Jak se projevuje žaludeční vřed?
-  3. Proč se provádí endoskopické vyšetření žaludku (gastroskopie)?
-  4. Jak se léčí žaludeční vředy?
-  5. Co je doplňkem léčby vředové choroby?
+  1. Co vede ke vzniku vředové choroby? 
+  2. Jak se projevuje žaludeční vřed? 
+  3. Proč se provádí endoskopické vyšetření žaludku (gastroskopie)? 
+  4. Jak se léčí žaludeční vředy? 
+  5. Co je doplňkem léčby vředové choroby? 
 
 {var="inputvar-feedback_h" id="dotace"}
 
-## n/a
+## n/a 
 
 {var="inputvar-feedback_desc"}
 
-n/a
+n/a 
 
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
-## n/a
+## n/a 
 
 {var="inputvar-odkazy_desc"}
 
-n/a
+n/a 
 
 {var="linklist"}
 
-Seznam odkazů není k dispozici
+Seznam odkazů není k dispozici 
 
 {var="inputvar-taglist" class="taglist"}
 
