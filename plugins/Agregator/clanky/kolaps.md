@@ -3,7 +3,7 @@
 
 {ctime="2008-03-16" mtime="2019-11-14" author="Jaroslav Pavelka" id="kolaps" short="Kolaps"}
 
-# První pomoc při kolapsu 
+# První pomoc při kolapsu
 
 {kw="porucha vědomí, mozek-nervy, kolaps, prevence, první pomoc, cukrovka"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2010-12-30" mtime="2010-12-30" data-top="973" author="Jaroslav Pavelka" id="lupavy_prst" short="Lupavý prst"}
 
-# Příčiny a léčba lupavého prstu 
+# Příčiny a léčba lupavého prstu
 
 {kw="pohyb, zánět, úraz"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2019-11-14" mtime="2019-11-14" data-top="916" id="nevolnost_zvraceni" author="Jaroslav Pavelka" short="Nevolnost a zvracení"}
 
-# Jak postupovat při nevolnosti a zvracení 
+# Jak postupovat při nevolnosti a zvracení
 
 {kw="nevolnost, zvracení, průjem, jed, pocení, žlučník, mikroorganizmy, tekutiny"}
 

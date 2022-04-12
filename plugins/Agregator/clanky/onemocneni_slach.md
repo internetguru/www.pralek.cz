@@ -3,7 +3,7 @@
 
 {ctime="2010-01-14" mtime="2010-01-14" data-top="987" author="Jaroslav Pavelka" id="onemocneni_slach" short="Onemocnění šlach"}
 
-# Zánět šlach, gangliom, tenisový loket 
+# Zánět šlach, gangliom, tenisový loket
 
 {kw="pohyb, zánět, uzliny, neúrazové, mikroorganizmy, antibiotika"}
 

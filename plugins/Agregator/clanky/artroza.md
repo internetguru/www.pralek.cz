@@ -3,7 +3,7 @@
 
 {ctime="2012-03-18" mtime="2012-03-18" data-top="974" author="Jaroslav Pavelka" id="artroza" short="Artróza"}
 
-# Bolesti kloubů – jak žít s artrózou 
+# Bolesti kloubů – jak žít s artrózou
 
 {kw="senioři, bolest, rehabilitace, pohyb, prevence, úraz"}
 

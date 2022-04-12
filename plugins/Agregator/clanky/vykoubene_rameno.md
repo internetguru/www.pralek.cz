@@ -3,7 +3,7 @@
 
 {ctime="2013-05-12" mtime="2013-05-12" data-top="988" author="Jaroslav Pavelka" id="vykoubene_rameno" short="Vykloubené rameno"}
 
-# Šetrná léčba vykloubeného ramene 
+# Šetrná léčba vykloubeného ramene
 
 {kw="rameno, kloub, úraz, první pomoc, pohyb"}
 

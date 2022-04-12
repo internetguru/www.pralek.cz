@@ -3,7 +3,7 @@
 
 {ctime="2008-04-20" mtime="2019-11-14" author="Jaroslav Pavelka" id="resuscitace" short="Resuscitace"}
 
-# Kdy a jak zahájit oživování 
+# Kdy a jak zahájit oživování
 
 {kw="porucha vědomí, dýchání, poranění, kolaps, první pomoc, srdce"}
 

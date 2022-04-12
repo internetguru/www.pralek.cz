@@ -3,7 +3,7 @@
 
 {ctime="2011-04-19" mtime="2011-04-19" data-top="969" author="Jaroslav Pavelka" id="patni_ostruha" short="Patní ostruha"}
 
-# Neúrazová bolest paty 
+# Neúrazová bolest paty
 
 {kw="zánět, neúrazové, pohyb, prevence, teplota, úraz"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2009-09-01" mtime="2009-09-01" data-top="936" author="Jaroslav Pavelka" id="zdrave_traveni" short="Zdravé trávení"}
 
-# Stravovací návyky a trávicí systém 
+# Stravovací návyky a trávicí systém
 
 {kw="zdravý životní styl, strava-zažívání, žláza, žlučník, žaludek, břicho, tekutiny"}
 

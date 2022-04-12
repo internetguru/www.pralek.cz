@@ -3,7 +3,7 @@
 
 {ctime="2016-04-11" mtime="2016-04-11" data-top="993" author="Jaroslav Pavelka" id="injekce" short="Injekce"}
 
-# Píchnutí injekce svépomocí 
+# Píchnutí injekce svépomocí
 
 {kw="první pomoc, nevolnost, kůže-podkoží, hygiena, cévy, krev, poranění, boulička"}
 

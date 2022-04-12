@@ -3,7 +3,7 @@
 
 {ctime="2008-03-27" mtime="2019-11-14" data-top="979" author="Jaroslav Pavelka" id="krevni_tlak" short="Krevní tlak"}
 
-# Měření a vyhodnocení krevního tlaku 
+# Měření a vyhodnocení krevního tlaku
 
 {kw="srdce, cévy, krev, prevence, zdravý životní styl, tlakoměr, točení hlavy"}
 

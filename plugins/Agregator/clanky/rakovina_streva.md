@@ -3,7 +3,7 @@
 
 {ctime="2010-07-17" mtime="2010-07-17" data-top="943" author="Jaroslav Pavelka" id="rakovina_streva" short="Rakovina střeva"}
 
-# Rakovina tlustého střeva a konečníku 
+# Rakovina tlustého střeva a konečníku
 
 {kw="nádory, zhoubné, prevence, břicho, strach, uzliny, krvácení, zvracení"}
 

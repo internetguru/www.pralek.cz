@@ -3,7 +3,7 @@
 
 {ctime="2013-09-11" mtime="2013-09-11" data-top="920" author="Jaroslav Pavelka" id="cholesterol" short="Cholesterol"}
 
-# Jak snížit hladinu cholesterolu v krvi 
+# Jak snížit hladinu cholesterolu v krvi
 
 {kw="látková výměna, strava-zažívání, zdravý životní styl, prevence, krev, cévy, mozek-nervy"}
 

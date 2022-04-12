@@ -3,7 +3,7 @@
 
 {ctime="2008-05-12" mtime="2020-06-16" data-top="924" author="Jaroslav Pavelka" id="srdecni_infarkt" short="Srdeční infarkt"}
 
-# Rozpoznání a závažnost srdečního infarktu 
+# Rozpoznání a závažnost srdečního infarktu
 
 {kw="srdce, krev, porucha vědomí, cévy, cukrovka, prevence, břicho"}
 

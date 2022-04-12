@@ -3,7 +3,7 @@
 
 {ctime="2010-08-19" mtime="2010-08-19" data-top="967" author="Jaroslav Pavelka" id="osetreni_puchyre" short="Ošetření puchýře"}
 
-# Jak ošetřit puchýř, mozol nebo kuří oko 
+# Jak ošetřit puchýř, mozol nebo kuří oko
 
 {kw="kůže-podkoží, úraz, neúrazové, zánět, poranění, cukrovka"}
 

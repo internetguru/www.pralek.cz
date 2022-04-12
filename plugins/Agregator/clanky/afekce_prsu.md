@@ -3,7 +3,7 @@
 
 {ctime="2010-06-29" mtime="2010-06-29" data-top="953" author="Jaroslav Pavelka" id="afekce_prsu" short="Afekce prsu"}
 
-# Nenádorová onemocnění prsu 
+# Nenádorová onemocnění prsu
 
 {kw="žláza, nádory, nezhoubné, zhoubné, neúrazové, poranění, zánět"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2010-02-17" mtime="2010-02-17" data-top="919" author="Jaroslav Pavelka" id="prijem_tekutin" short="Příjem tekutin"}
 
-# Přiměřený příjem tekutin 
+# Přiměřený příjem tekutin
 
 {kw="tekutiny, zdravý životní styl, moč, teplota, pocení, děti, senioři"}
 

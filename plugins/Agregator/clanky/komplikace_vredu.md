@@ -3,7 +3,7 @@
 
 {ctime="2011-07-31" mtime="2011-07-31" data-top="948" author="Jaroslav Pavelka" id="komplikace_vredu" short="Komplikace žaludečních vředů"}
 
-# Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku 
+# Komplikace žaludečního a dvanáctníkového vředu, rakovina žaludku
 
 {kw="žaludek, krvácení, nevolnost, zvracení, krev, břicho, nádory, zhoubné, strava-zažívání"}
 

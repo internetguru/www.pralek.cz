@@ -3,7 +3,7 @@
 
 {ctime="2009-12-30" mtime="2009-12-30" data-top="960" author="Jaroslav Pavelka" id="poraneni_svalu" short="Poranění svalu"}
 
-# Natažení nebo natržení svalu 
+# Natažení nebo natržení svalu
 
 {kw="úraz, pohyb"}
 

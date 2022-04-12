@@ -3,7 +3,7 @@
 
 {ctime="2008-06-16" mtime="2020-08-29" author="Jaroslav Pavelka" id="bakterie" short="Bakterie"}
 
-# Bakterie jako pomocník a nepřítel člověka 
+# Bakterie jako pomocník a nepřítel člověka
 
 {kw="mikroorganizmy, antibiotika, zánět, krev, hygiena, nevolnost, zvracení"}
 

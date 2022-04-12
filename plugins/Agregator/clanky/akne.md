@@ -3,7 +3,7 @@
 
 {ctime="2008-02-26" mtime="2017-10-01" data-top="915" author="Jaroslav Pavelka" id="akne" short="Akné"}
 
-# Boj proti akné 
+# Boj proti akné
 
 {kw="žláza, kůže-podkoží, boulička, prevence, strava-zažívání, zánět, teplota"}
 

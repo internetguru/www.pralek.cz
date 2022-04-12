@@ -3,7 +3,7 @@
 
 {ctime="2007-12-13" mtime="2019-11-14" data-top="934" author="Jaroslav Pavelka" id="prisate_kliste" short="Přisáté klíště"}
 
-# Nakažení přisátým klíštětem 
+# Nakažení přisátým klíštětem
 
 {kw="zvíře, poranění, zánět, mozek-nervy, teplota"}
 

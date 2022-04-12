@@ -3,7 +3,7 @@
 
 {ctime="2012-02-23" mtime="2012-02-23" author="Jaroslav Pavelka" id="koureni_cigaret" short="Kouření cigaret"}
 
-# Závislosti na kouření je snazší předejít 
+# Závislosti na kouření je snazší předejít
 
 {kw="prevence, cévy, nevolnost, točení hlavy, kašel, nádory, zhoubné, infarkt"}
 

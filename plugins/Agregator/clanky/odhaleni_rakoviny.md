@@ -3,7 +3,7 @@
 
 {ctime="2015-03-31" mtime="2015-03-31" data-top="917" author="Jaroslav Pavelka" id="odhaleni_rakoviny" short="Odhalení rakoviny"}
 
-# Včasné odhalení rakoviny tlustého střeva a konečníku 
+# Včasné odhalení rakoviny tlustého střeva a konečníku
 
 {kw="prevence, nádory, zhoubné, krvácení, krev, břicho, neúrazové"}
 

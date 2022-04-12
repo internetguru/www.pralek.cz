@@ -3,7 +3,7 @@
 
 {ctime="2010-05-23" mtime="2010-05-23" data-top="982" author="Jaroslav Pavelka" id="nezhoubny\_nebo\_zhoubny_nador" short="Nezhoubný nebo zhoubný nádor"}
 
-# Rozdíly mezi nezhoubným a zhoubným nádorem 
+# Rozdíly mezi nezhoubným a zhoubným nádorem
 
 {kw="nádory, boulička, strach, nezhoubné, zhoubné"}
 

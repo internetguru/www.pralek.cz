@@ -3,7 +3,7 @@
 
 {ctime="2009-12-23" mtime="2009-12-23" data-top="942" author="Jaroslav Pavelka" id="vyron_kotniku" short="Výron kotníku"}
 
-# Vyvrtnutí a podvrtnutí kotníku 
+# Vyvrtnutí a podvrtnutí kotníku
 
 {kw="kloub, vykloubení, úraz, pohyb"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2009-06-22" mtime="2009-06-22" data-top="931" author="Jaroslav Pavelka" id="starecke_zlomeniny" short="Stařecké zlomeniny"}
 
-# Typické stařecké zlomeniny 
+# Typické stařecké zlomeniny
 
 {kw="poranění, bolest, senioři, úraz, zlomeniny, pohyb"}
 

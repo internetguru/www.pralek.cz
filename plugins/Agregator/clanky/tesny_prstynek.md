@@ -3,7 +3,7 @@
 
 {ctime="2015-05-28" mtime="2015-05-28" data-top="963" author="Jaroslav Pavelka" id="tesny_prstynek" short="Těsný prstýnek"}
 
-# Prstýnek na oteklém prstu 
+# Prstýnek na oteklém prstu
 
 {kw="cévy, úraz, pohyb"}
 

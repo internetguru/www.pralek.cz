@@ -3,7 +3,7 @@
 
 {ctime="2013-02-16" mtime="2013-02-16" data-top="990" author="Jaroslav Pavelka" id="ileus" short="Ileus"}
 
-# Střevní neprůchodnost bývá komplikací jiné choroby 
+# Střevní neprůchodnost bývá komplikací jiné choroby
 
 {kw="nevolnost, zvracení, břicho, strava-zažívání, nádory, zhoubné, cévy"}
 

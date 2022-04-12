@@ -3,7 +3,7 @@
 
 {ctime="2013-08-22" mtime="2013-08-22" data-top="933" author="Jaroslav Pavelka" id="pneumotorax" short="Pneumotorax"}
 
-# Závažné poranění hrudníku a pneumotorax 
+# Závažné poranění hrudníku a pneumotorax
 
 {kw="dýchání, úraz, strach, krev, zlomeniny, první pomoc, pohyb"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2009-09-10" mtime="2009-09-10" data-top="968" author="Jaroslav Pavelka" id="travici_potize" short="Trávicí potíže"}
 
-# Zvracení, průjem, škytání a větry 
+# Zvracení, průjem, škytání a větry
 
 {kw="zvracení, nevolnost, žaludek, strava-zažívání, jed, zdravý životní styl, břicho"}
 

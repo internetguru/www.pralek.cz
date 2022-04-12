@@ -3,7 +3,7 @@
 
 {ctime="2014-11-17" mtime="2014-11-17" data-top="975" author="Jaroslav Pavelka" id="akutni_torticollis" short="Akutní torticollis"}
 
-# (Ne)závažnost strnutí šíje 
+# (Ne)závažnost strnutí šíje
 
 {kw="mozek-nervy, pohyb, rehabilitace"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2007-10-21" mtime="2015-08-04" data-top="961" author="Jaroslav Pavelka" id="ochlazeni_spaleniny" short="Ochlazení spáleniny"}
 
-# Ochlazení jako první pomoc při spálenině 
+# Ochlazení jako první pomoc při spálenině
 
 {kw="poranění, první pomoc, úraz, kůže-podkoží, děti, žláza, pohyb"}
 

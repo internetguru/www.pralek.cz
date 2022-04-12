@@ -3,7 +3,7 @@
 
 {ctime="2009-04-19" mtime="2009-04-19" data-top="985" author="Jaroslav Pavelka" id="zarustajici_nehty" short="Zarůstající nehty"}
 
-# Zarůstající nehty na palcích dolních končetin 
+# Zarůstající nehty na palcích dolních končetin
 
 {kw="nehet, hygiena, zánět, prevence, teplota, mikroorganizmy, pohyb"}
 

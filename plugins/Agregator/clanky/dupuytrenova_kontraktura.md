@@ -3,7 +3,7 @@
 
 {ctime="2011-03-19" mtime="2011-03-19" data-top="984" author="Jaroslav Pavelka" id="dupuytrenova_kontraktura" short="Dupuytrenova kontraktura"}
 
-# Uzly, deformity a zatrvrdliny ve dlani 
+# Uzly, deformity a zatrvrdliny ve dlani
 
 {kw="boulička, nezhoubné, prevence, neúrazové, pohyb, zánět, hygiena"}
 

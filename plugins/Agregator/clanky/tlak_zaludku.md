@@ -3,7 +3,7 @@
 
 {ctime="2011-06-14" mtime="2011-06-14" data-top="970" author="Jaroslav Pavelka" id="tlak_zaludku" short="Tlak žaludku"}
 
-# Krátkodobý tlak žaludku 
+# Krátkodobý tlak žaludku
 
 {kw="žaludek, břicho, zvracení, nevolnost, strava-zažívání, žlučník, říhání, strach, krvácení"}
 

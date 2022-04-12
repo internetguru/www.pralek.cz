@@ -3,7 +3,7 @@
 
 {ctime="2008-05-14" mtime="2020-08-04" author="Jaroslav Pavelka" id="antibiotika" short="Antibiotika"}
 
-# Proč nelze mít svá oblíbená antibiotika 
+# Proč nelze mít svá oblíbená antibiotika
 
 {kw="zánět, imunita, mikroorganizmy, teplota, angína, alergie, prevence, moč"}
 

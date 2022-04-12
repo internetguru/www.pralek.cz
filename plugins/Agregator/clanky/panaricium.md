@@ -3,7 +3,7 @@
 
 {ctime="2012-05-18" mtime="2012-05-18" data-top="998" author="Jaroslav Pavelka" id="panaricium" short="Panaricium"}
 
-# Nebezpečný zánět prstu ruky 
+# Nebezpečný zánět prstu ruky
 
 {kw="zánět, poranění, uzliny, úraz, teplota, krev, antibiotika, prevence"}
 

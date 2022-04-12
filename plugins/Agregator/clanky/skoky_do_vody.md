@@ -3,7 +3,7 @@
 
 {ctime="2015-03-23" mtime="2015-03-23" data-top="922" author="Jaroslav Pavelka" id="skoky\_do\_vody" short="Skoky do vody"}
 
-# Nebezpečí skoku do vody 
+# Nebezpečí skoku do vody
 
 {kw="úraz, poranění, zlomeniny, krvácení, pohyb"}
 

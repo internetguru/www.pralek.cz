@@ -3,7 +3,7 @@
 
 {ctime="2009-07-09" mtime="2009-07-09" data-top="954" author="Jaroslav Pavelka" id="pece\_o\_penis" short="Péče o penis"}
 
-# Péče o penis, hygiena chlapců, fimóza, obřízka 
+# Péče o penis, hygiena chlapců, fimóza, obřízka
 
 {kw="penis, moč, děti, hygiena, prevence, zánět, cukrovka, strach"}
 

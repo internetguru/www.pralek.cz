@@ -3,7 +3,7 @@
 
 {ctime="2019-10-17" mtime="2019-10-17" data-top="971" id="cevkovani" author="Jaroslav Pavelka" short="Cévkování"}
 
-# Cévkování močového měchýře 
+# Cévkování močového měchýře
 
 {kw="moč, nádory, nezhoubné, strach, katetrizace"}
 

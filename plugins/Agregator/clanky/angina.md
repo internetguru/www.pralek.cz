@@ -3,7 +3,7 @@
 
 {ctime="2008-12-09" mtime="2020-08-04" data-top="927" author="Jaroslav Pavelka" id="angina" short="Angína"}
 
-# Nachlazení a bolesti v krku 
+# Nachlazení a bolesti v krku
 
 {kw="angína, imunita, mikroorganizmy, teplota, zánět, uzliny, boulička, prevence"}
 

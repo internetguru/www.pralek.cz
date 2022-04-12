@@ -3,7 +3,7 @@
 
 {ctime="2011-01-31" mtime="2011-01-31" data-top="958" author="Jaroslav Pavelka" id="subduralni_hematom" short="Subdurální hematom"}
 
-# Poúrazové krvácení do hlavy 
+# Poúrazové krvácení do hlavy
 
 {kw="úraz, cévy, krev, zvracení, porucha vědomí"}
 

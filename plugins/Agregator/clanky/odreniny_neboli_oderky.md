@@ -3,7 +3,7 @@
 
 {ctime="2012-11-03" mtime="2012-11-03" data-top="938" author="Jaroslav Pavelka" id="odreniny\_neboli\_oderky" short="Odřeniny neboli oděrky"}
 
-# Odřeniny – proč je nutné mechanicky vyčistit oděrku 
+# Odřeniny – proč je nutné mechanicky vyčistit oděrku
 
 {kw="poranění, úraz, krvácení, kůže-podkoží, pohyb, zánět"}
 

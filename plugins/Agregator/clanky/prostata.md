@@ -3,7 +3,7 @@
 
 {ctime="2011-02-20" mtime="2011-02-20" data-top="923" author="Jaroslav Pavelka" id="prostata" short="Prostata"}
 
-# Prostatické potíže s močením 
+# Prostatické potíže s močením
 
 {kw="prostata, žláza, moč, zánět, nádory, nezhoubné, zhoubné"}
 

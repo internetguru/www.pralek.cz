@@ -3,7 +3,7 @@
 
 {ctime="2010-05-09" mtime="2010-05-09" data-top="962" author="Jaroslav Pavelka" id="leky" short="Léky"}
 
-# Možnosti podávání léků a lékové formy 
+# Možnosti podávání léků a lékové formy
 
 {kw="angína, porucha vědomí, teplota, cévy, zvracení, alergie"}
 

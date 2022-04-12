@@ -3,7 +3,7 @@
 
 {ctime="2010-02-28" mtime="2010-02-28" author="Jaroslav Pavelka" id="zachranka" short="Záchranka"}
 
-# Rychlá lékařská pomoc 
+# Rychlá lékařská pomoc
 
 {kw="porucha vědomí, infarkt, cévy, první pomoc, úraz, zlomeniny"}
 

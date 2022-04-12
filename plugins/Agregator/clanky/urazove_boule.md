@@ -3,7 +3,7 @@
 
 {ctime="2010-09-27" mtime="2010-09-27" data-top="989" author="Jaroslav Pavelka" id="urazove_boule" short="Úrazové boule"}
 
-# Boule vzniklé následkem úrazu 
+# Boule vzniklé následkem úrazu
 
 {kw="boule, úraz, krvácení, kůže-podkoží, cévy, pohyb, první pomoc"}
 
