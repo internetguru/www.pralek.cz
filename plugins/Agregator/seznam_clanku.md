@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.pralek.cz" data-image="/files/preview/seznam.jpg"}
+{xml:lang="cs" ns="https://www.pralek.cz" data-image="/files/preview/seznam.jpg" data-fbcommentid="n/a"}
 
 {id="seznam_clanku" author="Internet Guru" ctime="2021-07-06" mtime="2021-07-06" short="Všechny články"}
 
