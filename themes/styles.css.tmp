@@ -113,7 +113,7 @@ h1 {
   margin-right: 0.75rem;	
 }	
 .part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list > ul:not(.button-list) > li:before {	
-  content: "â€¢";	
+  content: "·";	
   font-size: 2.5em;	
   line-height: 0;	
   vertical-align: -0.5rem;	
@@ -208,7 +208,7 @@ h1 {
   font-size: 1.25em;	
 }	
 .hdesc--top .list-wrapper--multiple li:before {	
-  content: "â€¢";	
+  content: "·";	
   margin-right: 0.5rem;	
   color: #26A69A;	
   font-size: 2.5em;	
@@ -354,7 +354,7 @@ h1 {
   padding: 2em 0 0 0;	
 }	
 .clanek .desc a.expand-button:before {	
-  content: "â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€";	
+  content: "──────────────────────";	
   color: #BDBDBD;	
   position: absolute;	
   left: 0;	
@@ -1625,7 +1625,7 @@ dl.clanek.doclist-new > dt:first-child {
 .agregator-new .hdesc--top > div:after,	
 dl.clanek.linklist-new > dt:first-child:after,	
 dl.clanek.doclist-new > dt:first-child:after {	
-  content: "NovÃ½";	
+  content: "Nový";	
   width: 12em;	
   background: #00796b;	
   position: absolute;	
@@ -1641,7 +1641,7 @@ dl.clanek.doclist-new > dt:first-child:after {
   pointer-events: none;	
 }	
 .agregator-new .hdesc--top > div:after {	
-  content: "NovÃ½ ÄlÃ¡nek";
+  content: "Nový článek";
   transform: rotate(45deg);	
   top: auto;	
   bottom: -2.75em;	
