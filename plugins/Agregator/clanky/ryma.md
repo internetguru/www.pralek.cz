@@ -3,7 +3,7 @@
 
 {ctime="2008-11-28" mtime="2020-06-16" author="Jaroslav Pavelka" id="ryma" short="Rýma"}
 
-# Rýma a smrkání, komplikace rýmy 
+# Rýma a smrkání, komplikace rýmy
 
 {kw="zánět, mikroorganizmy, děti, alergie, poranění"}
 

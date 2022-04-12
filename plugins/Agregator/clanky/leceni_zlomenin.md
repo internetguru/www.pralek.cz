@@ -3,7 +3,7 @@
 
 {ctime="2015-04-21" mtime="2015-04-21" data-top="977" author="Jaroslav Pavelka" id="leceni_zlomenin" short="Léčení zlomenin"}
 
-# Metody léčení zlomenin 
+# Metody léčení zlomenin
 
 {kw="zlomeniny, krev, poranění, úraz, pohyb"}
 

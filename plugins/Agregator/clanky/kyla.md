@@ -3,7 +3,7 @@
 
 {ctime="2008-01-08" mtime="2008-01-08" data-top="950" author="Jaroslav Pavelka" id="kyla" short="Kýla"}
 
-# Boulička v třísle, v pupku nebo v jeho okolí 
+# Boulička v třísle, v pupku nebo v jeho okolí
 
 {kw="boulička, břicho, strach, zvracení, pohyb"}
 

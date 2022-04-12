@@ -3,7 +3,7 @@
 
 {ctime="2010-09-03" mtime="2010-09-03" author="Jaroslav Pavelka" id="opalovani" short="Opalování"}
 
-# Zásady správného opalování 
+# Zásady správného opalování
 
 {kw="kůže-podkoží, spáleniny, prevence, zhoubné, zánět, nádory"}
 

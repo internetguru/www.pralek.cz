@@ -3,7 +3,7 @@
 
 {ctime="2008-01-22" mtime="2015-11-09" data-top="955" author="Jaroslav Pavelka" id="poraneni" short="Poranění"}
 
-# Drobná krvavá poranění 
+# Drobná krvavá poranění
 
 {kw="kůže-podkoží, úraz, poranění, krvácení, první pomoc, mikroorganizmy, zánět, pohyb"}
 

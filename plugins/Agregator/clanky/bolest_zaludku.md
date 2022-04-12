@@ -3,7 +3,7 @@
 
 {ctime="2011-05-30" mtime="2011-05-30" data-top="935" author="Jaroslav Pavelka" id="bolest_zaludku" short="Bolest žaludku"}
 
-# Žaludeční potíže: bolest žaludku 
+# Žaludeční potíže: bolest žaludku
 
 {kw="žaludek, břicho, zvracení, strach, strava-zažívání, teplota, zánět, mikroorganizmy"}
 

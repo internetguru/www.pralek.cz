@@ -3,7 +3,7 @@
 
 {ctime="2010-03-16" mtime="2010-03-16" author="Jaroslav Pavelka" id="bolesti_hlavy" short="Bolesti hlavy"}
 
-# Bolest hlavy, migréna 
+# Bolest hlavy, migréna
 
 {kw="cévy, neúrazové, prevence, strava-zažívání, úraz, přehřátí, teplota, zánět"}
 

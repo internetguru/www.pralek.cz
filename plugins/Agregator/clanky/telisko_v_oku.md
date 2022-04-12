@@ -3,7 +3,7 @@
 
 {ctime="2012-01-18" mtime="2012-01-18" data-top="972" author="Jaroslav Pavelka" id="telisko\_v\_oku" short="Tělísko v oku"}
 
-# Cizí tělísko v oku 
+# Cizí tělísko v oku
 
 {kw="úraz, poranění, první pomoc"}
 

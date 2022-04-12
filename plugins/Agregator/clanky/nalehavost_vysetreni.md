@@ -3,7 +3,7 @@
 
 {ctime="2010-12-03" mtime="2010-12-03" author="Jaroslav Pavelka" id="nalehavost_vysetreni" short="Naléhavost vyšetření"}
 
-# Naléhavost vyhledání lékařské péče 
+# Naléhavost vyhledání lékařské péče
 
 {kw="úraz, krvácení, spáleniny, zlomeniny, angína, vykloubení, zánět"}
 

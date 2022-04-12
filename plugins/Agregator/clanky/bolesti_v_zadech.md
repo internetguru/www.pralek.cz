@@ -3,7 +3,7 @@
 
 {ctime="2008-11-20" mtime="2020-08-04" data-top="957" author="Jaroslav Pavelka" id="bolesti\_v\_zadech" short="Bolesti v zádech"}
 
-# Příčiny a léčba bolestí v zádech 
+# Příčiny a léčba bolestí v zádech
 
 {kw="pohyb, rehabilitace, neúrazové, úraz, prochlazení, prevence"}
 

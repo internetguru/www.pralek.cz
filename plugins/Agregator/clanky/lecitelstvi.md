@@ -3,7 +3,7 @@
 
 {ctime="2010-04-30" mtime="2010-04-30" author="Jaroslav Pavelka" id="lecitelstvi" short="Doktor nebo léčitel"}
 
-# Doktor nebo léčitel: koho kdy vyhledat a komu věřit 
+# Doktor nebo léčitel: koho kdy vyhledat a komu věřit
 
 {kw="strach, neúrazové, zdravý životní styl, strava-zažívání, první pomoc"}
 

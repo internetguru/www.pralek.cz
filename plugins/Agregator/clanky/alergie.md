@@ -3,7 +3,7 @@
 
 {ctime="2020-04-14" mtime="2020-04-14" data-top="912" id="alergie" author="Jaroslav Pavelka" short="Alergie"}
 
-# Co je a co není alergická reakce 
+# Co je a co není alergická reakce
 
 {kw="alergie, jed, imunita, zánět, mikroorganizmy"}
 

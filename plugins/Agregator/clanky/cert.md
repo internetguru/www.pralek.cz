@@ -3,7 +3,7 @@
 
 {ctime="2011-04-01" mtime="2011-04-01" author="Jaroslav Pavelka" id="cert" short="Čert"}
 
-# Kterak pohádkový čert na svět přišel 
+# Kterak pohádkový čert na svět přišel
 
 {kw="mýty, nádory, kůže-podkoží, zánět, zhoubné, nezhoubné, cévy"}
 

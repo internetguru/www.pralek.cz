@@ -3,7 +3,7 @@
 
 {ctime="2011-07-20" mtime="2011-07-20" data-top="937" author="Jaroslav Pavelka" id="zaludecni_vredy" short="Žaludeční vředy"}
 
-# Žaludeční a dvanáctníkový vřed 
+# Žaludeční a dvanáctníkový vřed
 
 {kw="žaludek, zvracení, strava-zažívání, břicho, antibiotika, prevence"}
 

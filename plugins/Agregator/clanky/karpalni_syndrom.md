@@ -3,7 +3,7 @@
 
 {ctime="2011-01-17" mtime="2011-01-17" data-top="930" author="Jaroslav Pavelka" id="karpalni_syndrom" short="Karpální syndrom"}
 
-# Noční brnění prstů ruky 
+# Noční brnění prstů ruky
 
 {kw="mozek-nervy, pohyb, zánět, nádory, nezhoubné"}
 

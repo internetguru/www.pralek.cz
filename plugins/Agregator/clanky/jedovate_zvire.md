@@ -3,7 +3,7 @@
 
 {ctime="2007-12-11" mtime="2017-11-11" author="Jaroslav Pavelka" id="jedovate_zvire" short="Jedovaté zvíře"}
 
-# Poranění jedovatým zvířetem 
+# Poranění jedovatým zvířetem
 
 {class="description" kw="zvíře, poranění, úraz, alergie, první pomoc, zánět, pohyb"}
 

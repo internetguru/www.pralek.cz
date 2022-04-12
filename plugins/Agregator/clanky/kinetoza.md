@@ -3,7 +3,7 @@
 
 {ctime="2015-07-13" mtime="2015-07-13" author="Jaroslav Pavelka" short="Kinetóza" id="kinetoza"}
 
-# Nevolnost a zvracení v dopravních prostředcích 
+# Nevolnost a zvracení v dopravních prostředcích
 
 {kw="nevolnost, pocení, pohyb, prevence, zvracení, mozek-nervy, žaludek, břicho"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2010-12-23" mtime="2010-12-23" data-top="986" author="Jaroslav Pavelka" id="dzipova_nemoc" short="Džípová nemoc"}
 
-# Zánětlivé ložisko nad hýžďovou rýhou 
+# Zánětlivé ložisko nad hýžďovou rýhou
 
 {kw="zánět, kůže-podkoží, boulička, neúrazové, teplota, prevence"}
 

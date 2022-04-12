@@ -3,7 +3,7 @@
 
 {ctime="2009-05-15" mtime="2009-05-15" data-top="929" author="Jaroslav Pavelka" id="zavazna_poraneni" short="Závažná poranění"}
 
-# Závažnost bodných a střelných poranění 
+# Závažnost bodných a střelných poranění
 
 {kw="poranění, krvácení, kůže-podkoží, pohyb, břicho, cévy"}
 

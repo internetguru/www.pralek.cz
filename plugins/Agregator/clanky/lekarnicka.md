@@ -3,7 +3,7 @@
 
 {ctime="2015-08-13" mtime="2015-08-13" data-top="932" author="Jaroslav Pavelka" short="Lékárnička" id="lekarnicka"}
 
-# Obsah domácí lékárničky 
+# Obsah domácí lékárničky
 
 {kw="první pomoc, teplota, poranění, mikroorganizmy, zánět, alergie"}
 

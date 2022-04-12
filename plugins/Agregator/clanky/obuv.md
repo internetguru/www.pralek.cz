@@ -3,7 +3,7 @@
 
 {ctime="2011-11-28" mtime="2011-11-28" author="Jaroslav Pavelka" id="obuv" short="Obuv"}
 
-# Vhodná a nevhodná obuv 
+# Vhodná a nevhodná obuv
 
 {kw="pohyb, prevence, zdravý životní styl, úraz, děti"}
 

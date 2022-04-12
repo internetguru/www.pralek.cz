@@ -3,7 +3,7 @@
 
 {ctime="2014-12-27" mtime="2014-12-27" data-top="946" author="Jaroslav Pavelka" id="stadia_zanetu" short="Stádia zánětu"}
 
-# Léčba zánětu podle druhu a stádia 
+# Léčba zánětu podle druhu a stádia
 
 {kw="zánět, teplota, tekutiny, průjem, úraz, spáleniny, neúrazové"}
 

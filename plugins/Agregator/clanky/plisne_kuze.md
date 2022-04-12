@@ -3,7 +3,7 @@
 
 {ctime="2011-09-25" mtime="2011-09-25" data-top="981" author="Jaroslav Pavelka" id="plisne_kuze" short="Plísně kůže"}
 
-# Plísňová onemocnění kůže 
+# Plísňová onemocnění kůže
 
 {kw="kůže-podkoží, zánět, neúrazové, cukrovka, prevence, uzliny, boulička"}
 

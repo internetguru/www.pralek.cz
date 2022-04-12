@@ -3,7 +3,7 @@
 
 {ctime="2012-02-05" mtime="2012-02-05" data-top="949" author="Jaroslav Pavelka" id="predychavani" short="Předýchávání"}
 
-# Nadměrné dýchání 
+# Nadměrné dýchání
 
 {kw="dýchání, strach, porucha vědomí, první pomoc, srdce, krev, nevolnost, kolaps, zvracení"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2020-02-05" mtime="2020-02-05" id="jak_neonemocnet" author="Jaroslav Pavelka" short="Jak neonemocnět"}
 
-# Jak nepodlehnout chřipce 
+# Jak nepodlehnout chřipce
 
 {kw="imunita, prevence, mikroorganizmy, zdravý životní styl, hygiena, teplota"}
 

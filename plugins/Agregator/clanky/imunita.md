@@ -3,9 +3,9 @@
 
 {ctime="2008-06-01" mtime="2020-08-29" author="Jaroslav Pavelka" id="imunita" short="Imunita"}
 
-# Obranyschopnost organizmu 
+# Obranyschopnost organizmu
 
-{kw="imunita, zdravý životní styl, prevence, alergie, mikroorganizmy, antibiotika, zánět"}
+{kw="zdravý životní styl, prevence, alergie, mikroorganizmy, antibiotika, zánět"}
 
 Imunita je obrana organizmu proti cizí škodlivině. V průběhu života se imunita mění. Lze ji podpořit [zdravým způsobem života][1] nebo naopak oslabit [nadměrným užíváním léků, zejména antibiotik][2]. 
 

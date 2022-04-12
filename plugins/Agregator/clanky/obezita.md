@@ -3,7 +3,7 @@
 
 {ctime="2008-02-28" mtime="2017-10-05" author="Jaroslav Pavelka" id="obezita" short="Obezita"}
 
-# Obezita jako nepoměr příjmu a výdeje energie 
+# Obezita jako nepoměr příjmu a výdeje energie
 
 {kw="strava-zažívání, zdravý životní styl, pohyb, látková výměna, prevence, břicho"}
 

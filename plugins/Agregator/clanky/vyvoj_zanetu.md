@@ -3,7 +3,7 @@
 
 {ctime="2014-04-07" mtime="2014-04-07" data-top="983" author="Jaroslav Pavelka" id="vyvoj_zanetu" short="Vývoj zánětu"}
 
-# Kdy zánět léčit, kdy rozhánět a kdy podporovat 
+# Kdy zánět léčit, kdy rozhánět a kdy podporovat
 
 {class="description" kw="zánět, teplota, imunita, pocení, antibiotika, alergie, úraz"}
 

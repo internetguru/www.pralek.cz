@@ -3,7 +3,7 @@
 
 {ctime="2007-11-23" mtime="2017-11-08" data-top="994" author="Jaroslav Pavelka" id="hemoroidy" short="Hemoroidy"}
 
-# Krvácení z konečníku: hemoroidy nebo nádor 
+# Krvácení z konečníku: hemoroidy nebo nádor
 
 {kw="krev, strach, zánět, boulička, krvácení, hygiena, strava-zažívání, nádory, cévy, břicho, zhoubné"}
 

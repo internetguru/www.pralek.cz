@@ -3,7 +3,7 @@
 
 {ctime="2020-01-20" mtime="2020-01-20" data-top="965" id="toceni_hlavy" author="Jaroslav Pavelka" short="Točení hlavy"}
 
-# Proč se točí hlava 
+# Proč se točí hlava
 
 {kw="točení hlavy, zvracení, nevolnost, pocení, jed, pohyb, prevence, žaludek"}
 

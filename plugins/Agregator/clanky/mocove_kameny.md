@@ -3,7 +3,7 @@
 
 {ctime="2008-08-13" mtime="2020-08-29" data-top="926" author="Jaroslav Pavelka" id="mocove_kameny" short="Močové kameny"}
 
-# Močové kameny a ledvinová kolika 
+# Močové kameny a ledvinová kolika
 
 {kw="ledviny, moč, kolika, prevence, neúrazové, krvácení, zvracení, zánět"}
 

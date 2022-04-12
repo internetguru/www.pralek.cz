@@ -3,7 +3,7 @@
 
 {ctime="2008-07-05" mtime="2020-08-04" author="Jaroslav Pavelka" id="mrtvice" short="Mrtvice"}
 
-# Cévní mozková příhoda 
+# Cévní mozková příhoda
 
 {kw="infarkt, cévy, krev, mozek-nervy, pocení, nevolnost, zvracení, porucha vědomí, srdce"}
 

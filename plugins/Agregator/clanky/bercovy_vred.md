@@ -3,7 +3,7 @@
 
 {ctime="2014-09-15" mtime="2014-09-15" data-top="952" author="Jaroslav Pavelka" id="bercovy_vred" short="Bércový vřed"}
 
-# Vývoj a hojení bércového vředu 
+# Vývoj a hojení bércového vředu
 
 {kw="zánět, neúrazové, kůže-podkoží, cévy, poranění, krvácení"}
 

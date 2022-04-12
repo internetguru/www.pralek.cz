@@ -3,7 +3,7 @@
 
 {ctime="2009-08-11" mtime="2009-08-11" data-top="940" author="Jaroslav Pavelka" id="urazy_batolat" short="Úrazy batolat"}
 
-# Typické úrazy malých dětí 
+# Typické úrazy malých dětí
 
 {kw="poranění, úraz, první pomoc, zlomeniny, prevence, děti, pohyb"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2008-03-26" mtime="2019-11-14" data-top="914" author="Jaroslav Pavelka" id="cukrovka" short="Cukrovka"}
 
-# Jak žít s cukrovkou 
+# Jak žít s cukrovkou
 
 {kw="strava-zažívání, látková výměna, porucha vědomí, první pomoc, nevolnost, pocení, cévy, břicho"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2008-12-02" mtime="2020-08-29" data-top="925" author="Jaroslav Pavelka" id="kasel" short="Kašel"}
 
-# Kdy kašlání potlačovat a kdy podporovat 
+# Kdy kašlání potlačovat a kdy podporovat
 
 {kw="kašel, dýchání, zánět, mikroorganizmy, teplota, břicho, poranění"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2009-02-28" mtime="2009-02-28" data-top="978" author="Jaroslav Pavelka" id="znamenko-bradavice-rakovina" short="Znaménko, bradavice, rakovina"}
 
-# Mateřské znaménko, bradavice nebo rakovina 
+# Mateřské znaménko, bradavice nebo rakovina
 
 {kw="kůže-podkoží, nádory, nezhoubné, zhoubné, prevence, krvácení"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2008-07-20" mtime="2020-08-04" data-top="913" author="Jaroslav Pavelka" id="chripka" short="Chřipka"}
 
-# Chřipka: virové onemocnění 
+# Chřipka: virové onemocnění
 
 {kw="imunita, mikroorganizmy, zdravý životní styl, zánět, prochlazení, teplota, prevence, neúrazové"}
 

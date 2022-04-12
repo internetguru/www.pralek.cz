@@ -3,7 +3,7 @@
 
 {ctime="2012-12-19" mtime="2012-12-19" data-top="956" author="Jaroslav Pavelka" id="poraneni_sleziny" short="Poranění sleziny"}
 
-# Záludnost poranění sleziny u dětí 
+# Záludnost poranění sleziny u dětí
 
 {kw="úraz, děti, krev, břicho, pocení, porucha vědomí, kolaps, cévy"}
 

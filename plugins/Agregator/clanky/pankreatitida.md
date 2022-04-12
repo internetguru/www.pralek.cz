@@ -3,7 +3,7 @@
 
 {ctime="2011-05-04" mtime="2011-05-04" data-top="928" author="Jaroslav Pavelka" id="pankreatitida" short="Pankreatitida"}
 
-# Prudký zánět slinivky břišní 
+# Prudký zánět slinivky břišní
 
 {kw="zánět, břicho, žláza, zvracení, žlučník, nevolnost, zhoubné, cukrovka"}
 

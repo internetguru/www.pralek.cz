@@ -3,7 +3,7 @@
 
 {ctime="2010-06-18" mtime="2010-06-18" data-top="992" author="Jaroslav Pavelka" id="nezhoubne_nadory" short="Nezhoubné nádory"}
 
-# Nezhoubné nádory a bouličky s nimi zaměňované 
+# Nezhoubné nádory a bouličky s nimi zaměňované
 
 {kw="nádory, boulička, neúrazové, strach, nezhoubné, žláza"}
 

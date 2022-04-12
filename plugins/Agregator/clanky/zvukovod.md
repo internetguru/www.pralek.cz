@@ -3,7 +3,7 @@
 
 {ctime="2012-07-31" mtime="2012-07-31" data-top="947" author="Jaroslav Pavelka" id="zvukovod" short="Zvukovod"}
 
-# Péče o zevní zvukovod 
+# Péče o zevní zvukovod
 
 {kw="zánět, hygiena, nevolnost, zvracení, točení hlavy, prevence"}
 

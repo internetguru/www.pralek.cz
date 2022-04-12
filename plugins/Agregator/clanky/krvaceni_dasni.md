@@ -3,7 +3,7 @@
 
 {ctime="2013-03-15" mtime="2013-03-15" data-top="959" author="Jaroslav Pavelka" id="krvaceni_dasni" short="Krvácení dásní"}
 
-# Příčinou krvácení dásní je nedostatek vitamínu C 
+# Příčinou krvácení dásní je nedostatek vitamínu C
 
 {kw="krvácení, prevence, cévy, neúrazové, hygiena, mikroorganizmy, zánět, strava-zažívání"}
 

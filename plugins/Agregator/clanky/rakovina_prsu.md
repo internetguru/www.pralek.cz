@@ -3,7 +3,7 @@
 
 {ctime="2010-07-25" mtime="2010-07-25" data-top="918" author="Jaroslav Pavelka" id="rakovina_prsu" short="Rakovina prsu"}
 
-# Záludnost rakoviny prsu 
+# Záludnost rakoviny prsu
 
 {kw="boulička, strach, žláza, nádory, zhoubné, uzliny, prevence"}
 

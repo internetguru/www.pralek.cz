@@ -3,7 +3,7 @@
 
 {ctime="2007-11-09" mtime="2016-06-18" data-top="944" author="Jaroslav Pavelka" id="zlucove_kameny" short="Žlučové kameny"}
 
-# Prevence a léčba žlučových kamenů 
+# Prevence a léčba žlučových kamenů
 
 {kw="žlučník, břicho, říhání, zvracení, strava-zažívání, prevence, zánět, strach"}
 

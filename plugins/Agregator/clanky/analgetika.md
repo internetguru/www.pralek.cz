@@ -3,7 +3,7 @@
 
 {ctime="2010-03-28" mtime="2010-03-28" data-top="964" author="Jaroslav Pavelka" id="analgetika" short="Analgetika"}
 
-# Léky proti bolesti neboli analgetika 
+# Léky proti bolesti neboli analgetika
 
 {kw="neúrazové, prevence, úraz, pohyb, břicho"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2009-04-30" mtime="2009-04-30" data-top="991" author="Jaroslav Pavelka" id="spolknute_predmety" short="Spolknuté předměty"}
 
-# Spolknuté nebezpečné a ostré předměty 
+# Spolknuté nebezpečné a ostré předměty
 
 {kw="břicho, žaludek, střevo, poranění, úraz, děti, zvracení"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2007-10-05" mtime="2007-10-05" author="Jaroslav Pavelka" id="mytus\_o\_rakovine" short="Mýtus o rakovině"}
 
-# Mýtus o urychlení rakoviny operací 
+# Mýtus o urychlení rakoviny operací
 
 {kw="rakovina, mýty, strach, nádory, zhoubné, uzliny, krvácení, zvracení"}
 

@@ -3,7 +3,7 @@
 
 {ctime="2009-05-25" mtime="2009-05-25" data-top="921" author="Jaroslav Pavelka" id="darovani_krve" short="Darování krve"}
 
-# Dárcovství krve, krevní plazmy a kostní dřeně 
+# Dárcovství krve, krevní plazmy a kostní dřeně
 
 {kw="krev, strava-zažívání, strach, nevolnost, porucha vědomí, kolaps, zhoubné, hygiena, děti"}
 

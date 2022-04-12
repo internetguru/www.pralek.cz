@@ -3,7 +3,7 @@
 
 {ctime="2010-01-27" mtime="2010-01-27" data-top="945" author="Jaroslav Pavelka" id="mocova_infekce" short="Močová infekce"}
 
-# Zánět močové trubice a močového měchýře žen 
+# Zánět močové trubice a močového měchýře žen
 
 {kw="moč, zánět, prochlazení, břicho, pocení, neúrazové, prevence, krvácení"}
 

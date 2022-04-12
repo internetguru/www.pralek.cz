@@ -3,7 +3,7 @@
 
 {ctime="2008-10-02" mtime="2020-06-16" data-top="999" author="Jaroslav Pavelka" id="teplota" short="Teplota"}
 
-# Normální tělesná teplota, horečka, podchlazení 
+# Normální tělesná teplota, horečka, podchlazení
 
 {kw="teplota, prochlazení, přehřátí, pocení, nevolnost, točení hlavy, tekutiny, moč, mikroorganizmy"}
 

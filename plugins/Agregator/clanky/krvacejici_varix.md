@@ -3,7 +3,7 @@
 
 {ctime="2014-09-06" mtime="2014-09-06" data-top="976" author="Jaroslav Pavelka" id="krvacejici_varix" short="Krvácející varix"}
 
-# Krvácení z křečové žíly dolní končetiny 
+# Krvácení z křečové žíly dolní končetiny
 
 {kw="krev, cévy, krvácení, první pomoc, kůže-podkoží, senioři, úraz, neúrazové"}
 

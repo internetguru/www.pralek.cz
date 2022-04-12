@@ -3,7 +3,7 @@
 
 {ctime="2009-12-13" mtime="2009-12-13" data-top="941" author="Jaroslav Pavelka" id="slepak" short="Slepák"}
 
-# Zánět červovitého přívěsku slepého střeva 
+# Zánět červovitého přívěsku slepého střeva
 
 {kw="břicho, střevo, zánět, zvracení, teplota"}
 

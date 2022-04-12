@@ -3,7 +3,7 @@
 
 {ctime="2009-01-20" mtime="2020-08-29" data-top="996" author="Jaroslav Pavelka" id="uzliny" short="Uzliny"}
 
-# Zvětšené lymfatické uzliny 
+# Zvětšené lymfatické uzliny
 
 {kw="uzliny, kůže-podkoží, krev, teplota, boulička, zánět, nádory, cévy"}
 

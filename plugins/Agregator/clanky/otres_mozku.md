@@ -3,7 +3,7 @@
 
 {ctime="2008-09-11" mtime="2020-06-16" data-top="980" author="Jaroslav Pavelka" id="otres_mozku" short="Otřes mozku"}
 
-# Otřes mozku nebo jen pohmoždění hlavy 
+# Otřes mozku nebo jen pohmoždění hlavy
 
 {kw="mozek-nervy, porucha vědomí, nevolnost, zvracení, poranění, boule, krev, úraz"}
 

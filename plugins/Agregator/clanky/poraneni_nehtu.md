@@ -3,7 +3,7 @@
 
 {ctime="2011-11-30" mtime="2011-11-30" data-top="997" author="Jaroslav Pavelka" id="poraneni_nehtu" short="Poranění nehtu"}
 
-# Nejčastější poranění nehtu 
+# Nejčastější poranění nehtu
 
 {kw="nehet, úraz, strach, krvácení, zánět, zlomeniny"}
 

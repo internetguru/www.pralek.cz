@@ -3,7 +3,7 @@
 
 {ctime="2012-11-20" mtime="2012-11-20" data-top="951" author="Jaroslav Pavelka" id="pady\_z\_kola" short="Pády z kola"}
 
-# Úrazy související s pádem z kola 
+# Úrazy související s pádem z kola
 
 {kw="úraz, poranění, krvácení, zlomeniny, senioři, děti, pohyb, břicho"}
 

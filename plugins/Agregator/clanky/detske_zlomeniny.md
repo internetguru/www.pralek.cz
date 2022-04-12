@@ -3,7 +3,7 @@
 
 {ctime="2009-06-09" mtime="2009-06-09" data-top="966" author="Jaroslav Pavelka" id="detske_zlomeniny" short="Dětské zlomeniny"}
 
-# Zvláštnosti dětských zlomenin 
+# Zvláštnosti dětských zlomenin
 
 {kw="zlomeniny, děti, úraz, poranění, pohyb, první pomoc"}
 

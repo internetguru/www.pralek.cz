@@ -3,7 +3,7 @@
 
 {ctime="2009-10-22" mtime="2009-10-22" data-top="939" author="Jaroslav Pavelka" id="zlomeniny" short="Zlomeniny"}
 
-# Projevy zlomenin kostí 
+# Projevy zlomenin kostí
 
 {kw="zlomeniny, úraz, poranění, krvácení, pohyb, rehabilitace"}
 
