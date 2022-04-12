@@ -113,7 +113,7 @@ h1 {
   margin-right: 0.75rem;	
 }	
 .part:not(.docinfo):not(.odkazy):not(.o_praleku):not(.clanky):not(.upozorneni) .list > ul:not(.button-list) > li:before {	
-  content: "•";	
+  content: "â€¢";	
   font-size: 2.5em;	
   line-height: 0;	
   vertical-align: -0.5rem;	
@@ -208,7 +208,7 @@ h1 {
   font-size: 1.25em;	
 }	
 .hdesc--top .list-wrapper--multiple li:before {	
-  content: "•";	
+  content: "â€¢";	
   margin-right: 0.5rem;	
   color: #26A69A;	
   font-size: 2.5em;	
@@ -354,7 +354,7 @@ h1 {
   padding: 2em 0 0 0;	
 }	
 .clanek .desc a.expand-button:before {	
-  content: "──────────────────────";	
+  content: "â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€";	
   color: #BDBDBD;	
   position: absolute;	
   left: 0;	
@@ -1625,7 +1625,7 @@ dl.clanek.doclist-new > dt:first-child {
 .agregator-new .hdesc--top > div:after,	
 dl.clanek.linklist-new > dt:first-child:after,	
 dl.clanek.doclist-new > dt:first-child:after {	
-  content: "Nový";	
+  content: "NovÃ½";	
   width: 12em;	
   background: #00796b;	
   position: absolute;	
@@ -1641,7 +1641,7 @@ dl.clanek.doclist-new > dt:first-child:after {
   pointer-events: none;	
 }	
 .agregator-new .hdesc--top > div:after {	
-  content: "Nový článek";
+  content: "NovÃ½ ÄlÃ¡nek";
   transform: rotate(45deg);	
   top: auto;	
   bottom: -2.75em;	
@@ -1676,14 +1676,6 @@ dl.clanek.doclist-new > dt:first-child:after {
   width: 1em;	
   height: 1em;	
   vertical-align: -.125em;	
-}	
-body #js-scrolltopable span {	
-  font-size: 2rem;	
-  display: flex;	
-  justify-content: center;	
-  align-items: center;	
-  position: relative;	
-  top: -0.1em;	
 }
 .agregator .figure {	
   width: 50em;	
@@ -1716,9 +1708,6 @@ body[data-link="/o_praleku"] .part > * {
   display: none !important;	
 }	
 /************************************/
-body[data-link="/seznam_clanku"] .extra .button-list > li:first-child {
-  display: none;
-}
 body[data-link="/seznam_clanku"].agregator-new .hdesc--top > div:after {
   display: none;
 }
