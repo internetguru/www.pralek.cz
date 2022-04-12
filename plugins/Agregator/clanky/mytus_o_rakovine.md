@@ -3,88 +3,86 @@
 
 {ctime="2007-10-05" mtime="2007-10-05" author="Jaroslav Pavelka" id="mytus\_o\_rakovine" short="Mýtus o rakovině"}
 
-# Mýtus o urychlení rakoviny operací
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-12-06, do not edit -->
+# Mýtus o urychlení rakoviny operací 
 
 {kw="rakovina, mýty, strach, nádory, zhoubné, uzliny, krvácení, zvracení"}
 
-Rakovina je tím **lépe léčitelná, čím dříve je odhalena**. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací.
+Rakovina je tím **lépe léčitelná, čím dříve je odhalena**. Naopak odklad lékařského vyšetření může způsobit závažné nenapravitelné poruchy zdraví, kdy už pacientovi nelze pomoci ani operací. 
 
-Strachem z rakoviny pacienti bohužel často **promarní vhodnou dobu, kdy je případná rakovina ještě dobře léčitelná**. Jak čas plyne, nejenže zhoubný nádor (rakovina) roste, ale může také v těle vytvářet druhotná ložiska neboli _metastázy_.
+Strachem z rakoviny pacienti bohužel často **promarní vhodnou dobu, kdy je případná rakovina ještě dobře léčitelná**. Jak čas plyne, nejenže zhoubný nádor (rakovina) roste, ale může také v těle vytvářet druhotná ložiska neboli _metastázy_. 
 
-Růst nádoru ani tvorba druhotných ložisek nemusí vůbec bolet. Obecné nejasné příznaky pouze někdy obtěžují, jsou však víceméně snesitelné:
+Růst nádoru ani tvorba druhotných ložisek nemusí vůbec bolet. Obecné nejasné příznaky pouze někdy obtěžují, jsou však víceméně snesitelné: 
 
-  * [boulička nebo zatvrdlina v prsu][1] nebo kdekoli [jinde na těle][2],
-  * [měnící se nebo svědící mateřské znaménko][3],
-  * [nechutenství a úbytek na váze][4],
-  * celková slabost, únava, vyčerpanost,
-  * [přítomnost krve ve stolici][5], [v moči][6], vykašlávání krve,
-  * [dlouho se nehojící kožní defekt][3].
+  * [boulička nebo zatvrdlina v prsu][1] nebo kdekoli [jinde na těle][2], 
+  * [měnící se nebo svědící mateřské znaménko][3], 
+  * [nechutenství a úbytek na váze][4], 
+  * celková slabost, únava, vyčerpanost, 
+  * [přítomnost krve ve stolici][5], [v moči][6], vykašlávání krve, 
+  * [dlouho se nehojící kožní defekt][3]. 
 
 {class="important"}
 
-Vzhledem k přirozenému strachu z rakoviny se lidé snaží různé příznaky dlouhodobě podceňovat nebo tajit před rodinou a hledat záminky, proč nejít k lékaři. K lékaři přicházejí až s následnými komplikacemi.
+Vzhledem k přirozenému strachu z rakoviny se lidé snaží různé příznaky dlouhodobě podceňovat nebo tajit před rodinou a hledat záminky, proč nejít k lékaři. K lékaři přicházejí až s následnými komplikacemi. 
 
 {id="komplikace\_zhoubneho\_nadoru"}
 
-## Komplikace zhoubného nádoru
+## Komplikace zhoubného nádoru 
 
-Neléčené příznaky počínající rakoviny se časem promění v komplikace, které teprve nemocného [přivedou k lékaři][7]. Po potvrzení obávané diagnózy se dostane pacient na operační sál. Pak už nemusí být vyřešení nádorového onemocnění **vzhledem k pokročilému stavu** možné.
+Neléčené příznaky počínající rakoviny se časem promění v komplikace, které teprve nemocného [přivedou k lékaři][7]. Po potvrzení obávané diagnózy se dostane pacient na operační sál. Pak už nemusí být vyřešení nádorového onemocnění **vzhledem k pokročilému stavu** možné. 
 
-Projevy postupující rakoviny jsou závažné a nedají se už snadno ignorovat. Bývá to zejména:
+Projevy postupující rakoviny jsou závažné a nedají se už snadno ignorovat. Bývá to zejména: 
 
-  * [prudké krvácení do zažívacího traktu][8] nebo [do moče][9],
-  * [vysoká teplota][10] či prudká bolest bez zjevné příčiny,
-  * [střevní neprůchodnost][11] [se zvracením][12],
-  * celková sešlost, slabost, nechutenství a značný [váhový úbytek][4].
+  * [prudké krvácení do zažívacího traktu][8] nebo [do moče][9], 
+  * [vysoká teplota][10] či prudká bolest bez zjevné příčiny, 
+  * [střevní neprůchodnost][11] [se zvracením][12], 
+  * celková sešlost, slabost, nechutenství a značný [váhový úbytek][4]. 
 
 {class="example"}
 
-Z laického pohledu tak vzniká _mýtus_, že viditelné zhoršení zdravotního stavu či dokonce úmrtí pacienta způsobila až operace. Skutečnost je však taková, že doba, kdy byla **šance na vyléčení, byla bohužel promarněna**.
+Z laického pohledu tak vzniká _mýtus_, že viditelné zhoršení zdravotního stavu či dokonce úmrtí pacienta způsobila až operace. Skutečnost je však taková, že doba, kdy byla **šance na vyléčení, byla bohužel promarněna**. 
 
 {id="rakovina\_ci\_zcela\_nezavazne\_onemocneni"}
 
-## Rakovina či zcela nezávažné onemocnění
+## Rakovina či zcela nezávažné onemocnění 
 
-Výše zmíněné nejasné příznaky bývají často **známkou i zcela banálního onemocnění**. Tuto jistotu lze však získat jen po poradě s lékařem.
+Výše zmíněné nejasné příznaky bývají často **známkou i zcela banálního onemocnění**. Tuto jistotu lze však získat jen po poradě s lékařem. 
 
-Je mnoho typů [zhoubných i nezhoubných nádorů][13], které se mohou projevovat výše uvedenými příznaky. I zhoubné nádory jsou ve většině případů tím lépe léčitelné, čím dříve jsou odhaleny.
+Je mnoho typů [zhoubných i nezhoubných nádorů][13], které se mohou projevovat výše uvedenými příznaky. I zhoubné nádory jsou ve většině případů tím lépe léčitelné, čím dříve jsou odhaleny. 
 
 {id="otazky" var="inputvar-otazky_h"}
 
-## n/a
+## n/a 
 
 {var="inputvar-otazky_desc"}
 
-n/a
+n/a 
 
 {class="otazky"}
 
-  1. V čem spočívá záludnost počátku onemocnění zhoubným nádorem?
-  2. Za jakých podmínek nejčastěji vyhledává pacient lékařské ošetření?
-  3. Proč lidé chodí na vyšetření pro podezření na rakovinu pozdě?
-  4. Může laik sám u sebe určit rakovinu a proč?
+  1. V čem spočívá záludnost počátku onemocnění zhoubným nádorem? 
+  2. Za jakých podmínek nejčastěji vyhledává pacient lékařské ošetření? 
+  3. Proč lidé chodí na vyšetření pro podezření na rakovinu pozdě? 
+  4. Může laik sám u sebe určit rakovinu a proč? 
 
 {var="inputvar-feedback_h" id="dotace"}
 
-## n/a
+## n/a 
 
 {var="inputvar-feedback_desc"}
 
-n/a
+n/a 
 
 {var="inputvar-odkazy_h" id="odkazy" class="filter"}
 
-## n/a
+## n/a 
 
 {var="inputvar-odkazy_desc"}
 
-n/a
+n/a 
 
 {var="linklist"}
 
-Seznam odkazů není k dispozici
+Seznam odkazů není k dispozici 
 
 {var="inputvar-taglist" class="taglist"}
 
