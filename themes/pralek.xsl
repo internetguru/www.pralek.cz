@@ -63,7 +63,7 @@
         <ul class="button-list button-list--ico">
           <li><a href="/#sponzoring"><span class="fas fa-fw fa-chart-line">i</span> Jak podpořit Pralék</a></li>
           <li class="donation"><a href="https://www.patreon.com/pralek" class="button button--img button--img-inline"><span class="fab fa-fw fa-patreon">i</span> Staňte se patronem</a></li>
-          <li class="ebook"><a href="#ebook" class="button button--img button--img-inline"><span class="fab
+          <li class="ebook"><a href="/#ebook" class="button button--img button--img-inline"><span class="fab
  fa-fw fa-book-medical">i</span> Elektronická kniha</a></li>
         </ul>
       </div>
