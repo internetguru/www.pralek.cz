@@ -5,6 +5,7 @@
       selectSelector: '#header select.completable',
       placeholder: "Co Vás zajímá? (Ctrl+Shift+F)",
       defaultChangeText: "Vyhledat",
+      searchTitle: "Vyhledávání",
       // filterSelector: ".filter",
       sendFormText: "Hledat na Google",
       sendFormClass: "google",
