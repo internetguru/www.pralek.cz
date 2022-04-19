@@ -450,7 +450,7 @@
 <option class="article" value="clanky/znamenko-bradavice-rakovina">Mateřské znaménko, bradavice nebo rakovina - Znaménko, bradavice, rakovina</option>
 <option class="article" value="clanky/zvukovod">Péče o zevní zvukovod - Zvukovod</option>
 </optgroup>
-        </select><button type="submit" class="completable__submit button button--img button--img-inline" aria-label="Vyhledat"><span>Vyhledat</span><span class="far fa-fw fa-search">i</span></button></li>
+        </select><button type="submit" class="completable__submit button button--img button--img-inline" title="Vyhledat" aria-label="Vyhledat"><span>Vyhledat</span><span class="far fa-fw fa-search">i</span></button></li>
     </ul>
   </form>
   </var>
