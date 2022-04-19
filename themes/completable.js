@@ -205,7 +205,6 @@
             var changeLink = document.createElement("label")
             changeLink.innerHTML = `<span class="far fa-fw fa-search"></span>${Config.defaultChangeText}`
             changeLink.className = "button button--simple button--img button--img-inline eventable"
-            changeLink.setAttribute('title', Config.searchTitle)
             changeLink.setAttribute("for", navig.id)
             changeLink.addEventListener("click", function (e) {
             try {
