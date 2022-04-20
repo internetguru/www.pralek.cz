@@ -13,6 +13,7 @@ require("IGCMS.Moreable", function () {
   IGCMS.Moreable.init({
     parent: ".meta > span",
     moreText: "Další",
+    moreTitle: "Zobrazit další štítky",
     leftText: "",
     displayStep: 4
   })
