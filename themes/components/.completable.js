@@ -9,6 +9,7 @@
     GlobalConfig.naviglistClass = GlobalConfig.ns + "__navig"
     GlobalConfig.itemClass = GlobalConfig.ns + "__item"
     GlobalConfig.activeItemClass = GlobalConfig.ns + "__item--active"
+    GlobalConfig.indicatorClass = GlobalConfig.ns + "__indicator"
     GlobalConfig.defaultLabel = "Select file "
 
     var Completable = function () {
@@ -23,6 +24,7 @@
           sendFormClass: "",
           sendFormText: "",
           keyboardShortcut: "",
+          searchTitle: "",
           onSend: "",
           onFilterButtonClick: "",
           submitOnEnter: true,
@@ -39,6 +41,7 @@
           },
         },
         navig = null,
+        indicator = null,
         open = false,
         active = -1,
         textNavigValue = "",
@@ -137,6 +140,9 @@
           label.appendChild(textNavig)
           navig.parentNode.replaceChild(label, navig)
           navig = textNavig
+          indicator = document.createElement("span")
+          indicator.className = GlobalConfig.indicatorClass
+          navig.parentNode.appendChild(indicator)
           navig.parentNode.appendChild(list)
           updateSize()
         },
@@ -204,6 +210,7 @@
             var changeLink = document.createElement("label")
             changeLink.innerHTML = `<span class="far fa-fw fa-search"></span>${Config.defaultChangeText}`
             changeLink.className = "button button--simple button--img button--img-inline eventable"
+            changeLink.setAttribute("title", Config.searchTitle)
             changeLink.setAttribute("for", navig.id)
             changeLink.addEventListener("click", function (e) {
             try {
@@ -275,6 +282,7 @@
           navig.classList.remove("completable-focused")
           list.style.height = "0em"
           list.classList.remove(GlobalConfig.activeItemClass)
+          indicator.innerHTML = ""
         },
         scrollParentToChild = function (parent, child) {
           // Where is the parent on page
@@ -591,6 +599,7 @@
               }
             })()
           }
+          indicator.innerHTML = `[${Math.min(fs.length, Config.itemsLimit)}/${fs.length}]`
           updateSize()
         }
 

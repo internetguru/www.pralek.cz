@@ -25,6 +25,7 @@
           keyboardShortcut: "",
           onSend: "",
           onFilterButtonClick: "",
+          searchTitle: "Search",
           submitOnEnter: true,
           submitOnClick: false,
           sendOnEmpty: false,

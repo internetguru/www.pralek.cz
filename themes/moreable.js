@@ -6,6 +6,7 @@
     Config.displayStep = 6
     Config.displayMin = 3
     Config.moreText = "Show more"
+    Config.moreTitle = ""
     Config.leftText = "%s left"
     Config.countedChildrenSelector = "*"
 
@@ -64,6 +65,7 @@
           wrapper.className = "moreable-linkwrapper"
           var moreLink = document.createElement("button")
           moreLink.textContent = config.moreText
+          moreLink.setAttribute('title', config.moreTitle)
           moreLink.addEventListener("click", showMore, false)
           moreLink.className = "eventable button button--simple"
           moreLink.setAttribute('data-eventable-action', 'moreable')

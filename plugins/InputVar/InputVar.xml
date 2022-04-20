@@ -26,7 +26,7 @@
   <var id="fb-share"><a href="https://www.facebook.com/pralek"><span class="fab fa-fw fa-facebook-square">i</span>Sledovat Pralék na Facebooku</a></var>
 
   <var id="articlebuttons">
-    <li><a class="button button--simple button--img button--img-only fbcomment" var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fab fa-fw fa-facebook">i</span>Diskutovat článek</a></li>
+    <li><a class="button button--simple button--img button--img-only fbcomment" var="fbcommentid@href inputvar-fbcomment-title@title" fn="inputvar-createcommentlink@href"><span class="fab fa-fw fa-facebook">i</span>Diskutovat článek</a></li>
     <li>
       <span class="hideable hideable-hidden" data-hideable-close-on-ext="true">
         <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fab fa-fw fa-share-alt">i</span> Sdílet článek</span>
@@ -450,7 +450,7 @@
 <option class="article" value="clanky/znamenko-bradavice-rakovina">Mateřské znaménko, bradavice nebo rakovina - Znaménko, bradavice, rakovina</option>
 <option class="article" value="clanky/zvukovod">Péče o zevní zvukovod - Zvukovod</option>
 </optgroup>
-        </select><button type="submit" class="completable__submit button button--img button--img-inline" aria-label="Vyhledat"><span>Vyhledat</span><span class="far fa-fw fa-search">i</span></button></li>
+        </select><button type="submit" class="completable__submit button button--img button--img-inline" title="Vyhledat" aria-label="Vyhledat"><span>Vyhledat</span><span class="far fa-fw fa-search">i</span></button></li>
     </ul>
   </form>
   </var>
