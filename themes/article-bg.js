@@ -1,0 +1,1 @@
+(function(){require("IGCMS",function(){var a=document.body.getAttribute("data-image");if(a){var b=a.replace("/preview/","/");b&&IGCMS.appendStyle(".agregator #content .hdesc--top + div:before { background: url('"+b+"') 50% 33% / cover !important; }")}})})();
